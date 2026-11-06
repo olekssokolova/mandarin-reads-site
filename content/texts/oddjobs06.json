@@ -5,10 +5,135 @@
  "title_en": "Unusual Jobs (6/20): Golf Ball Diver",
  "free": false,
  "audio_url": null,
- "note_en": "The 把 structure moves the object before the verb when you do something to it and it ends up somewhere: 把球打进水里 \"hit the ball into the water,\" 把这些高尔夫球捡回来 \"bring these golf balls back.\" The pattern is 把 + object + verb + result/direction, so the verb never stands alone at the end.",
+ "note_en": "The 把 structure moves the object before the verb when you do something to it and it ends up somewhere: 把球打进水里 \"hit the ball into the water,\" 把球捡回来 \"bring the balls back.\" The pattern is 把 + object + verb + result/direction, so the verb never stands alone at the end.",
  "sentences": [
   {
-   "en": "Golf courses often have deep ponds next to them, and golfers often hit their balls into the water.",
+   "en": "It's dark and cold at the bottom of the pond; the diver switches on his flashlight and feels his way forward, inch by inch.",
+   "phrases": [
+    {
+     "en": "It's dark and cold at the bottom of the pond;",
+     "words": [
+      {
+       "h": "水底",
+       "py": "shuǐdǐ",
+       "gl": "bottom (of water); underwater",
+       "pos": "n."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "also; both … and (既…又…)",
+       "pos": "conj."
+      },
+      {
+       "h": "黑",
+       "py": "hēi",
+       "gl": "dark; black",
+       "pos": "adj."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "also; both … and (既…又…)",
+       "pos": "conj."
+      },
+      {
+       "h": "冷",
+       "py": "lěng",
+       "gl": "cold",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the diver switches on his flashlight",
+     "words": [
+      {
+       "h": "潜水员",
+       "py": "qiánshuǐyuán",
+       "gl": "diver",
+       "pos": "n."
+      },
+      {
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "turn on; open (an app)",
+       "pos": "v."
+      },
+      {
+       "h": "手电筒",
+       "py": "shǒudiàntǒng",
+       "gl": "flashlight",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and feels his way forward, inch by inch.",
+     "words": [
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "(part of 一点一点: little by little); one",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "(part of 一点一点: little by little); a little; point",
+       "pos": "num."
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "(part of 一点一点: little by little); one",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "(part of 一点一点: little by little); a little; point",
+       "pos": "num."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (一遍又一遍地 'over and over')",
+       "pos": "function word"
+      },
+      {
+       "h": "往",
+       "py": "wǎng",
+       "gl": "toward; to",
+       "pos": "prep."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "forward",
+       "pos": "n."
+      },
+      {
+       "h": "摸",
+       "py": "mō",
+       "gl": "feel (with the hand); grope; touch",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Golf courses often have deep ponds next to them, and golfers often hit their balls into the water, so someone has to dive down and bring the balls back.",
    "phrases": [
     {
      "en": "Golf courses often have deep ponds next to them,",
@@ -67,7 +192,7 @@
      ]
     },
     {
-     "en": "and golfers often hit the ball into the water.",
+     "en": "and golfers often hit their balls into the water,",
      "words": [
       {
        "h": "打球",
@@ -131,23 +256,30 @@
       },
       {
        "h": "里",
-       "py": "lǐ",
+       "py": "li",
        "gl": "in; inside",
        "pos": "postposition"
       },
       {
-       "h": "。"
+       "h": "，"
       }
      ]
-    }
-   ]
-  },
-  {
-   "en": "There's a job dedicated to diving to the bottom of these ponds and bringing the golf balls back; these people are called \"golf ball divers.\"",
-   "phrases": [
+    },
     {
-     "en": "There's a job dedicated to diving to the bottom of the ponds",
+     "en": "so someone has to dive down and bring the balls back.",
      "words": [
+      {
+       "h": "所以",
+       "py": "suǒyǐ",
+       "gl": "so; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "需要",
+       "py": "xūyào",
+       "gl": "need; require",
+       "pos": "v."
+      },
       {
        "h": "有",
        "py": "yǒu",
@@ -155,34 +287,10 @@
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "kind; type (measure word)",
-       "pos": "measure word"
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
        "pos": "n."
-      },
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "负责",
-       "py": "fùzé",
-       "gl": "be responsible for; be in charge of",
-       "pos": "v."
       },
       {
        "h": "潜",
@@ -191,31 +299,11 @@
        "pos": "v."
       },
       {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; down to",
-       "pos": "prep."
+       "h": "下去",
+       "py": "xiàqù",
+       "gl": "down (verb complement: 吞下去 swallow down)",
+       "pos": "function word"
       },
-      {
-       "h": "水池",
-       "py": "shuǐchí",
-       "gl": "pond; pool",
-       "pos": "n."
-      },
-      {
-       "h": "底下",
-       "py": "dǐxià",
-       "gl": "under; beneath; bottom",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and bringing these golf balls back;",
-     "words": [
       {
        "h": "把",
        "py": "bǎ",
@@ -223,15 +311,9 @@
        "pos": "prep."
       },
       {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "高尔夫球",
-       "py": "gāoěrfūqiú",
-       "gl": "golf ball",
+       "h": "球",
+       "py": "qiú",
+       "gl": "ball",
        "pos": "n."
       },
       {
@@ -247,42 +329,159 @@
        "pos": "function word"
       },
       {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "What they fear most isn't the dark, but whatever might suddenly swim toward them in the water: a snake, or something bigger, an alligator.",
+   "phrases": [
+    {
+     "en": "What they fear most isn't the dark,",
+     "words": [
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "怕",
+       "py": "pà",
+       "gl": "be afraid; fear; worry",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "attributive particle (特别的工作 a special job)",
+       "pos": "particle"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "黑暗",
+       "py": "hēiàn",
+       "gl": "darkness; dark",
+       "pos": "n."
+      },
+      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "these people are called \"golf ball divers.\"",
+     "en": "but whatever might suddenly swim toward them in the water:",
      "words": [
       {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "叫",
-       "py": "jiào",
-       "gl": "be called",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
       },
       {
-       "h": "“"
-      },
-      {
-       "h": "高尔夫球潜水员",
-       "py": "gāoěrfūqiúqiánshuǐyuán",
-       "gl": "golf ball diver",
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
        "pos": "n."
       },
       {
-       "h": "”"
+       "h": "里",
+       "py": "li",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "游过来",
+       "py": "yóuguòlái",
+       "gl": "swim over; swim up",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "attributive particle (特别的工作 a special job)",
+       "pos": "particle"
+      },
+      {
+       "h": "东西",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
+       "pos": "n."
+      },
+      {
+       "h": "—"
+      },
+      {
+       "h": "—"
+      }
+     ]
+    },
+    {
+     "en": "a snake, or something bigger, an alligator.",
+     "words": [
+      {
+       "h": "蛇",
+       "py": "shé",
+       "gl": "snake",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "或者",
+       "py": "huòzhě",
+       "gl": "or",
+       "pos": "conj."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "大",
+       "py": "dà",
+       "gl": "big; large",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "attributive particle (特别的工作 a special job)",
+       "pos": "particle"
+      },
+      {
+       "h": "鳄鱼",
+       "py": "èyú",
+       "gl": "crocodile",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -353,7 +552,7 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "both … and (又…又…)",
+       "gl": "also; both … and (既…又…)",
        "pos": "conj."
       },
       {
@@ -365,7 +564,7 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "and also; both … and (又…又…)",
+       "gl": "also; both … and (既…又…)",
        "pos": "conj."
       },
       {
@@ -392,7 +591,7 @@
      ]
     },
     {
-     "en": "and sometimes they collect thousands of balls in one go.",
+     "en": "and sometimes they can collect thousands of balls in one dive.",
      "words": [
       {
        "h": "有时候",
@@ -441,143 +640,6 @@
        "py": "qiú",
        "gl": "ball",
        "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The water holds not only golf balls but possibly snakes or alligators too, so the job is actually quite dangerous.",
-   "phrases": [
-    {
-     "en": "The water holds not only balls,",
-     "words": [
-      {
-       "h": "水",
-       "py": "shuǐ",
-       "gl": "water",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "不仅",
-       "py": "bùjǐn",
-       "gl": "not only",
-       "pos": "conj."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "球",
-       "py": "qiú",
-       "gl": "ball",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but possibly snakes or alligators too,",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "可能",
-       "py": "kěnéng",
-       "gl": "possible; maybe",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "蛇",
-       "py": "shé",
-       "gl": "snake",
-       "pos": "n."
-      },
-      {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "鳄鱼",
-       "py": "èyú",
-       "gl": "crocodile",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so the job is actually quite dangerous.",
-     "words": [
-      {
-       "h": "所以",
-       "py": "suǒyǐ",
-       "gl": "so; therefore",
-       "pos": "conj."
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "份",
-       "py": "fèn",
-       "gl": "measure word for jobs, portions, copies",
-       "pos": "measure word"
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "其实",
-       "py": "qíshí",
-       "gl": "actually; in fact",
-       "pos": "adv."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "危险",
-       "py": "wēixiǎn",
-       "gl": "dangerous; danger",
-       "pos": "adj."
       },
       {
        "h": "。"
@@ -649,7 +711,7 @@
      ]
     },
     {
-     "en": "then sold again to golf courses or stores,",
+     "en": "then sold back to golf courses or stores,",
      "words": [
       {
        "h": "然后",
@@ -693,12 +755,18 @@
      ]
     },
     {
-     "en": "so nothing goes to waste at all.",
+     "en": "so nothing goes to waste.",
      "words": [
       {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; (not) at all (一点都不… not at all)",
+       "h": "一",
+       "py": "yī",
+       "gl": "(part of 一点一点: little by little); one",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "(part of 一点一点: little by little); a little; point",
        "pos": "num."
       },
       {
@@ -709,7 +777,7 @@
       },
       {
        "h": "不",
-       "py": "bú",
+       "py": "bù",
        "gl": "not; no",
        "pos": "adv."
       },
@@ -733,17 +801,11 @@
    ]
   },
   {
-   "en": "Although the working conditions are dark and cold, the pay is pretty good, so quite a few young people are willing to give it a try.",
+   "en": "The working conditions are dark and cold, and you might run into snakes or alligators, but the pay is pretty good, so quite a few young people are still willing to give the job a try.",
    "phrases": [
     {
-     "en": "Although the working conditions are dark and cold,",
+     "en": "The working conditions are dark and cold,",
      "words": [
-      {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
-      },
       {
        "h": "工作",
        "py": "gōngzuò",
@@ -759,7 +821,7 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "both … and (又…又…)",
+       "gl": "also; both … and (既…又…)",
        "pos": "conj."
       },
       {
@@ -771,7 +833,7 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "and also; both … and (又…又…)",
+       "gl": "also; both … and (既…又…)",
        "pos": "conj."
       },
       {
@@ -786,7 +848,51 @@
      ]
     },
     {
-     "en": "the pay is pretty good,",
+     "en": "and you might run into snakes or alligators,",
+     "words": [
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "可能",
+       "py": "kěnéng",
+       "gl": "possible; maybe",
+       "pos": "adv."
+      },
+      {
+       "h": "遇到",
+       "py": "yùdào",
+       "gl": "encounter; come across; run into",
+       "pos": "v."
+      },
+      {
+       "h": "蛇",
+       "py": "shé",
+       "gl": "snake",
+       "pos": "n."
+      },
+      {
+       "h": "或者",
+       "py": "huòzhě",
+       "gl": "or",
+       "pos": "conj."
+      },
+      {
+       "h": "鳄鱼",
+       "py": "èyú",
+       "gl": "crocodile",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but the pay is pretty good, so quite a few young people are still willing to give the job a try.",
      "words": [
       {
        "h": "但是",
@@ -814,17 +920,6 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so quite a few young people are willing to give this job a try.",
-     "words": [
-      {
-       "h": "所以",
-       "py": "suǒyǐ",
-       "gl": "so; therefore",
-       "pos": "conj."
       },
       {
        "h": "不少",
@@ -839,10 +934,16 @@
        "pos": "n."
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
        "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
       },
       {
        "h": "愿意",
@@ -872,6 +973,110 @@
        "h": "工作",
        "py": "gōngzuò",
        "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Every time he climbs back onto the bank, the diver breathes a sigh of relief and thinks: well, no alligators today.",
+   "phrases": [
+    {
+     "en": "Every time he climbs back onto the bank,",
+     "words": [
+      {
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "adv."
+      },
+      {
+       "h": "爬上岸",
+       "py": "páshàngàn",
+       "gl": "climb ashore; crawl onto the shore",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the diver breathes a sigh of relief and thinks:",
+     "words": [
+      {
+       "h": "潜水员",
+       "py": "qiánshuǐyuán",
+       "gl": "diver",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will; would (expresses likelihood)",
+       "pos": "function word"
+      },
+      {
+       "h": "松一口气",
+       "py": "sōngyìkǒuqì",
+       "gl": "relax a little; ease up; breathe a sigh of relief",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "心想",
+       "py": "xīnxiǎng",
+       "gl": "think to oneself",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "well, no alligators today.",
+     "words": [
+      {
+       "h": "今天",
+       "py": "jīntiān",
+       "gl": "today",
+       "pos": "n."
+      },
+      {
+       "h": "总算",
+       "py": "zǒngsuàn",
+       "gl": "finally; at last",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "遇到",
+       "py": "yùdào",
+       "gl": "encounter; come across; run into",
+       "pos": "v."
+      },
+      {
+       "h": "鳄鱼",
+       "py": "èyú",
+       "gl": "crocodile",
        "pos": "n."
       },
       {

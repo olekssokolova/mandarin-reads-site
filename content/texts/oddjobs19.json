@@ -8,41 +8,30 @@
  "note_en": "连……都…… means \"even\": 连一个人都塞不进去了 \"not even one more person can squeeze in.\" 连 goes before the surprising item and 都 (or 也) before the verb; with a negative, it stresses that not even the smallest amount is possible.",
  "sentences": [
   {
-   "en": "In Tokyo, Japan, subway trains at morning rush hour are often packed full of people, sometimes so full that not even one more person can squeeze in.",
+   "en": "At seven-thirty in the morning, a Tokyo subway car is already packed like a can of sardines; sometimes not even one more person can squeeze in.",
    "phrases": [
     {
-     "en": "In Tokyo, Japan,",
+     "en": "At seven-thirty in the morning, a Tokyo subway car is already packed like a can of sardines;",
      "words": [
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
       },
       {
-       "h": "日本",
-       "py": "rìběn",
-       "gl": "Japan",
-       "pos": "n."
+       "h": "七点半",
+       "py": "qīdiǎnbàn",
+       "gl": "half past seven; 7:30",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
       },
       {
        "h": "东京",
        "py": "dōngjīng",
        "gl": "Tokyo",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "subway trains in the morning rush are often packed with people,",
-     "words": [
-      {
-       "h": "早高峰",
-       "py": "zǎogāofēng",
-       "gl": "morning rush hour",
        "pos": "n."
       },
       {
@@ -58,28 +47,46 @@
        "pos": "n."
       },
       {
-       "h": "常常",
-       "py": "chángcháng",
-       "gl": "often",
+       "h": "车厢",
+       "py": "chēxiāng",
+       "gl": "train car; carriage",
+       "pos": "n."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
        "pos": "adv."
       },
       {
-       "h": "挤满",
-       "py": "jǐmǎn",
-       "gl": "be packed with",
+       "h": "挤",
+       "py": "jǐ",
+       "gl": "squeeze (into a crowd); be crowded; push",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
        "pos": "particle"
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "people; others",
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like; such as (像…这样 such as)",
+       "pos": "v."
+      },
+      {
+       "h": "沙丁鱼罐头",
+       "py": "shādīngyúguàntou",
+       "gl": "can of sardines",
        "pos": "n."
+      },
+      {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "the same as; alike; just like (像…一样)",
+       "pos": "phrase"
       },
       {
        "h": "，"
@@ -87,7 +94,7 @@
      ]
     },
     {
-     "en": "sometimes so full that not even one more person can squeeze in.",
+     "en": "sometimes not even one more person can squeeze in.",
      "words": [
       {
        "h": "有时候",
@@ -110,7 +117,7 @@
       {
        "h": "个",
        "py": "gè",
-       "gl": "measure word (general, for people and things)",
+       "gl": "general measure word (people, things)",
        "pos": "measure word"
       },
       {
@@ -180,7 +187,7 @@
      ]
     },
     {
-     "en": "stations hire special staff",
+     "en": "stations hire special staff whose job is to push passengers on the platform into the train cars;",
      "words": [
       {
        "h": "车站",
@@ -220,12 +227,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "whose job is to push passengers on the platform into the cars;",
-     "words": [
+      },
       {
        "h": "负责",
        "py": "fùzé",
@@ -326,10 +328,51 @@
    ]
   },
   {
-   "en": "Pushers usually wear white gloves, and their movements have to be quick and gentle, so they hurt the passengers as little as possible.",
+   "en": "\"All aboard, move on in, please!\" the pusher calls out, using both white-gloved hands to push passengers into the car quickly and gently.",
    "phrases": [
     {
-     "en": "Pushers usually wear white gloves,",
+     "en": "\"All aboard, move on in, please!\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "上车",
+       "py": "shàngchē",
+       "gl": "get on (a vehicle); board",
+       "pos": "v."
+      },
+      {
+       "h": "啦",
+       "py": "la",
+       "gl": "particle: emphatic or softening (了 + 啊)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "里面",
+       "py": "lǐmiàn",
+       "gl": "inside",
+       "pos": "n."
+      },
+      {
+       "h": "请",
+       "py": "qǐng",
+       "gl": "please; ask; invite",
+       "pos": "v."
+      },
+      {
+       "h": "！"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    },
+    {
+     "en": "the pusher calls out, using both white-gloved hands",
      "words": [
       {
        "h": "推人员",
@@ -338,10 +381,31 @@
        "pos": "n."
       },
       {
-       "h": "通常",
-       "py": "tōngcháng",
-       "gl": "usually; normally",
-       "pos": "adv."
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "while (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "喊",
+       "py": "hǎn",
+       "gl": "shout; call out",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "while (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use; with (by means of)",
+       "pos": "v."
       },
       {
        "h": "戴着",
@@ -362,25 +426,25 @@
        "pos": "n."
       },
       {
+       "h": "的",
+       "py": "de",
+       "gl": "attributive particle (特别的工作 a special job)",
+       "pos": "particle"
+      },
+      {
+       "h": "双手",
+       "py": "shuāngshǒu",
+       "gl": "both hands",
+       "pos": "n."
+      },
+      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "and their movements have to be quick and gentle,",
+     "en": "to push passengers into the car quickly and gently.",
      "words": [
-      {
-       "h": "动作",
-       "py": "dòngzuò",
-       "gl": "movement; action; gesture",
-       "pos": "n."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
-      },
       {
        "h": "又",
        "py": "yòu",
@@ -406,35 +470,33 @@
        "pos": "adj."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to avoid hurting the passengers as much as possible.",
-     "words": [
-      {
-       "h": "尽量",
-       "py": "jǐnliàng",
-       "gl": "try one's best to; as far as possible",
-       "pos": "adv."
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (一遍又一遍地 'over and over')",
+       "pos": "particle"
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "伤害到",
-       "py": "shānghàidào",
-       "gl": "hurt; harm",
-       "pos": "v."
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把球打进水里 hit the ball into the water)",
+       "pos": "prep."
       },
       {
        "h": "乘客",
        "py": "chéngkè",
        "gl": "passenger",
+       "pos": "n."
+      },
+      {
+       "h": "推进",
+       "py": "tuījìn",
+       "gl": "push into",
+       "pos": "v."
+      },
+      {
+       "h": "车厢",
+       "py": "chēxiāng",
+       "gl": "train car; carriage",
        "pos": "n."
       },
       {
@@ -448,7 +510,7 @@
    "en": "The job may look a bit rough, but it actually takes good judgment: you have to know how many more people can be squeezed in before the doors close.",
    "phrases": [
     {
-     "en": "Although the job looks a bit rough,",
+     "en": "The job may look a bit rough,",
      "words": [
       {
        "h": "虽然",
@@ -465,7 +527,7 @@
       {
        "h": "份",
        "py": "fèn",
-       "gl": "measure word for jobs, portions, copies",
+       "gl": "measure word for portions, copies, documents, jobs (and feelings)",
        "pos": "measure word"
       },
       {
@@ -498,7 +560,7 @@
      ]
     },
     {
-     "en": "it actually takes good judgment:",
+     "en": "but it actually takes good judgment:",
      "words": [
       {
        "h": "但",
@@ -554,7 +616,7 @@
      ]
     },
     {
-     "en": "knowing how many more people can be squeezed in before the doors close.",
+     "en": "you have to know how many more people can be squeezed in before the doors close.",
      "words": [
       {
        "h": "知道",
@@ -686,7 +748,7 @@
       {
        "h": "个",
        "py": "gè",
-       "gl": "measure word (general, for people and things)",
+       "gl": "general measure word (people, things)",
        "pos": "measure word"
       },
       {
@@ -724,7 +786,7 @@
       {
        "h": "段",
        "py": "duàn",
-       "gl": "measure word for periods of time",
+       "gl": "measure word for periods or episodes (a chapter, a story); measure word for sections",
        "pos": "measure word"
       },
       {
@@ -818,7 +880,7 @@
      ]
     },
     {
-     "en": "but it also shows just how crowded the Tokyo subway gets.",
+     "en": "but it shows just how crowded the Tokyo subway gets.",
      "words": [
       {
        "h": "却",

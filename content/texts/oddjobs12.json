@@ -5,7 +5,7 @@
  "title_en": "Unusual Jobs (12/20): Elevator Music Composer",
  "free": false,
  "audio_url": null,
- "note_en": "你有没有注意过 \"have you ever noticed\" shows the 有没有 + verb + 过 question: it asks whether you've ever had an experience. 过 marks past experience, and 有没有 turns it into a question without needing 吗.",
+ "note_en": "既不能……也不能…… means \"can be neither... nor...\": 好的电梯音乐既不能太无聊，也不能太吸引人 \"good elevator music can be neither too boring nor too catchy.\" Where English puts one \"neither... nor\" around two adjectives, Chinese repeats the full 不能 before each one.",
  "sentences": [
   {
    "en": "Have you ever noticed that when you ride an elevator, there's often soft music playing in your ears?",
@@ -33,7 +33,7 @@
       },
       {
        "h": "过",
-       "py": "guò",
+       "py": "guo",
        "gl": "particle: past experience (have done)",
        "pos": "function word"
       },
@@ -43,7 +43,7 @@
      ]
     },
     {
-     "en": "that when you ride an elevator,",
+     "en": "that when you ride an elevator, there's often soft music playing in your ears?",
      "words": [
       {
        "h": "坐",
@@ -71,12 +71,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "soft music often plays in your ears?",
-     "words": [
+      },
       {
        "h": "耳边",
        "py": "ěrbiān",
@@ -108,21 +103,9 @@
        "pos": "pron."
       },
       {
-       "h": "轻轻",
-       "py": "qīngqīng",
-       "gl": "soft; gentle; light",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "音乐",
-       "py": "yīnyuè",
-       "gl": "music",
+       "h": "轻音乐",
+       "py": "qīngyīnyuè",
+       "gl": "light music; soft music",
        "pos": "n."
       },
       {
@@ -136,7 +119,7 @@
    "en": "This music isn't picked at random; it's written by dedicated \"elevator music composers.\"",
    "phrases": [
     {
-     "en": "This music isn't picked at random,",
+     "en": "This music isn't picked at random;",
      "words": [
       {
        "h": "这些",
@@ -145,14 +128,8 @@
        "pos": "pron."
       },
       {
-       "h": "音乐",
-       "py": "yīnyuè",
-       "gl": "music",
-       "pos": "n."
-      },
-      {
        "h": "不",
-       "py": "bú",
+       "py": "bù",
        "gl": "not; no",
        "pos": "adv."
       },
@@ -177,7 +154,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "gl": "attributive particle (特别的工作 a special job)",
        "pos": "particle"
       },
       {
@@ -186,7 +163,7 @@
      ]
     },
     {
-     "en": "but written by dedicated \"elevator music composers.\"",
+     "en": "it's written by dedicated \"elevator music composers.\"",
      "words": [
       {
        "h": "而是",
@@ -239,7 +216,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "gl": "attributive particle (特别的工作 a special job)",
        "pos": "particle"
       },
       {
@@ -250,10 +227,10 @@
    ]
   },
   {
-   "en": "Composers need to write melodies that are simple and relaxing, neither too boring nor so catchy that they distract people.",
+   "en": "Lao Zhou, a composer, sat at the piano and played a bright, lively tune, then shook his head. It didn't feel quite right.",
    "phrases": [
     {
-     "en": "Composers need to write melodies that are simple and relaxing,",
+     "en": "Lao Zhou, a composer, sat at the piano",
      "words": [
       {
        "h": "作曲家",
@@ -262,39 +239,71 @@
        "pos": "n."
       },
       {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require",
+       "h": "老周",
+       "py": "lǎozhōu",
+       "gl": "Lao Zhou (old Zhou)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
        "pos": "v."
       },
       {
-       "h": "写出",
-       "py": "xiěchū",
-       "gl": "write; come up with (in writing)",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "钢琴",
+       "py": "gāngqín",
+       "gl": "piano",
+       "pos": "n."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and played a bright, lively tune, then shook his head.",
+     "words": [
+      {
+       "h": "弹",
+       "py": "dàn",
+       "gl": "play (a stringed instrument)",
        "pos": "v."
       },
       {
-       "h": "又",
-       "py": "yòu",
-       "gl": "both … and (又…又…)",
-       "pos": "conj."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action",
+       "pos": "particle"
       },
       {
-       "h": "简单",
-       "py": "jiǎndān",
-       "gl": "simple; easy",
-       "pos": "adj."
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
       },
       {
-       "h": "又",
-       "py": "yòu",
-       "gl": "and also; both … and (又…又…)",
-       "pos": "conj."
+       "h": "段",
+       "py": "duàn",
+       "gl": "measure word for periods or episodes (a chapter, a story); measure word for sections",
+       "pos": "measure word"
       },
       {
-       "h": "轻松",
-       "py": "qīngsōng",
-       "gl": "relaxed; easy",
+       "h": "轻快",
+       "py": "qīngkuài",
+       "gl": "light and lively; brisk",
        "pos": "adj."
       },
       {
@@ -311,16 +320,262 @@
       },
       {
        "h": "，"
+      },
+      {
+       "h": "然后",
+       "py": "ránhòu",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "摇",
+       "py": "yáo",
+       "gl": "shake",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action",
+       "pos": "particle"
+      },
+      {
+       "h": "摇",
+       "py": "yáo",
+       "gl": "shake",
+       "pos": "v."
+      },
+      {
+       "h": "头",
+       "py": "tóu",
+       "gl": "head",
+       "pos": "n."
+      },
+      {
+       "h": "，"
       }
      ]
     },
     {
-     "en": "neither too boring nor too catchy,",
+     "en": "It didn't feel quite right.",
      "words": [
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "right; correct",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"This one's too pretty,\" he said to himself. \"People will walk out of the elevator humming it. That won't do.\"",
+   "phrases": [
+    {
+     "en": "\"This one's too pretty,\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "段",
+       "py": "duàn",
+       "gl": "measure word for periods or episodes (a chapter, a story); measure word for sections",
+       "pos": "measure word"
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "好听",
+       "py": "hǎotīng",
+       "gl": "nice-sounding; pleasant (of sound)",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    },
+    {
+     "en": "he said to himself.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "to; toward (对自己说 'say to oneself')",
+       "pos": "prep."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "\"People will walk out of the elevator humming it. That won't do.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "人们",
+       "py": "rénmen",
+       "gl": "people",
+       "pos": "n."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will; would (expresses likelihood)",
+       "pos": "function word"
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "哼",
+       "py": "hēng",
+       "gl": "hum",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "走出",
+       "py": "zǒuchū",
+       "gl": "walk out of; go out of",
+       "pos": "v."
+      },
+      {
+       "h": "电梯",
+       "py": "diàntī",
+       "gl": "elevator",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "不行",
+       "py": "bùxíng",
+       "gl": "won't do; not OK; not possible",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Good elevator music can be neither too boring nor so catchy that it distracts people.",
+   "phrases": [
+    {
+     "en": "Good elevator music can be neither too boring",
+     "words": [
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "attributive particle (特别的工作 a special job)",
+       "pos": "particle"
+      },
+      {
+       "h": "电梯音乐",
+       "py": "diàntīyīnyuè",
+       "gl": "elevator music",
+       "pos": "n."
+      },
       {
        "h": "既",
        "py": "jì",
-       "gl": "neither (既不…也不… neither … nor …)",
+       "gl": "both (既…又… both … and …)",
        "pos": "conj."
       },
       {
@@ -343,7 +598,12 @@
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "nor so catchy that it distracts people.",
+     "words": [
       {
        "h": "也",
        "py": "yě",
@@ -370,12 +630,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which would distract people.",
-     "words": [
+      },
       {
        "h": "让",
        "py": "ràng",
@@ -422,7 +677,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "gl": "attributive particle (特别的工作 a special job)",
        "pos": "particle"
       },
       {
@@ -485,7 +740,7 @@
      ]
     },
     {
-     "en": "and forget the tension that comes from the small space and fast speed.",
+     "en": "and forget the tension that comes from the small space and the fast speed.",
      "words": [
       {
        "h": "忘记",
@@ -527,12 +782,6 @@
        "pos": "n."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
        "h": "快",
        "py": "kuài",
        "gl": "fast; quick",
@@ -564,10 +813,10 @@
    ]
   },
   {
-   "en": "People often jokingly call it \"elevator music,\" but composing it takes real professional knowledge of music.",
+   "en": "People often jokingly call it \"elevator music,\" but composing it takes real professional knowledge of music. Lao Zhou thought about it for a long time before he finally wrote a tune that was both simple and calm.",
    "phrases": [
     {
-     "en": "Although people often jokingly call this kind of music \"elevator music,\"",
+     "en": "People often jokingly call it \"elevator music,\"",
      "words": [
       {
        "h": "虽然",
@@ -602,7 +851,7 @@
       {
        "h": "人",
        "py": "rén",
-       "gl": "people; others",
+       "gl": "person; people",
        "pos": "n."
       },
       {
@@ -641,7 +890,7 @@
      ]
     },
     {
-     "en": "composing it takes very professional knowledge of music.",
+     "en": "but composing it takes real professional knowledge of music.",
      "words": [
       {
        "h": "但",
@@ -698,35 +947,93 @@
        "pos": "n."
       },
       {
-       "h": "。"
+       "h": "—"
       }
      ]
-    }
-   ]
-  },
-  {
-   "en": "Next time you ride an elevator, listen carefully, and maybe you'll discover the little ideas the composer hid in the music.",
-   "phrases": [
+    },
     {
-     "en": "Next time you ride an elevator,",
+     "en": "Lao Zhou thought about it for a long time before he finally wrote a tune that was both simple and calm.",
      "words": [
       {
-       "h": "下次",
-       "py": "xiàcì",
-       "gl": "next time",
-       "pos": "adv."
+       "h": "老周",
+       "py": "lǎozhōu",
+       "gl": "Lao Zhou (old Zhou)",
+       "pos": "proper noun"
       },
       {
-       "h": "坐",
-       "py": "zuò",
-       "gl": "sit; ride; take (transport)",
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "think",
        "pos": "v."
       },
       {
-       "h": "电梯",
-       "py": "diàntī",
-       "gl": "elevator",
-       "pos": "n."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action",
+       "pos": "particle"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "终于",
+       "py": "zhōngyú",
+       "gl": "finally; at last",
+       "pos": "adv."
+      },
+      {
+       "h": "写出",
+       "py": "xiěchū",
+       "gl": "write; come up with (in writing)",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "段",
+       "py": "duàn",
+       "gl": "measure word for periods or episodes (a chapter, a story); measure word for sections",
+       "pos": "measure word"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "both … and (又…又…)",
+       "pos": "conj."
+      },
+      {
+       "h": "简单",
+       "py": "jiǎndān",
+       "gl": "simple; easy",
+       "pos": "adj."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "both … and (又…又…)",
+       "pos": "conj."
+      },
+      {
+       "h": "安静",
+       "py": "ānjìng",
+       "gl": "quiet; calm",
+       "pos": "adj."
       },
       {
        "h": "的",
@@ -735,115 +1042,9 @@
        "pos": "particle"
       },
       {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "listen carefully,",
-     "words": [
-      {
-       "h": "你",
-       "py": "nǐ",
-       "gl": "you",
-       "pos": "pron."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "function word"
-      },
-      {
-       "h": "仔细",
-       "py": "zǐxì",
-       "gl": "carefully",
-       "pos": "adv."
-      },
-      {
-       "h": "听一听",
-       "py": "tīngyītīng",
-       "gl": "have a listen",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and maybe you'll discover the little ideas the composer hid in the music.",
-     "words": [
-      {
-       "h": "也许",
-       "py": "yěxǔ",
-       "gl": "perhaps; maybe",
-       "pos": "adv."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "发现",
-       "py": "fāxiàn",
-       "gl": "discover; find out",
-       "pos": "v."
-      },
-      {
-       "h": "作曲家",
-       "py": "zuòqǔjiā",
-       "gl": "composer",
-       "pos": "n."
-      },
-      {
-       "h": "藏",
-       "py": "cáng",
-       "gl": "hide; conceal",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "音乐",
-       "py": "yīnyuè",
-       "gl": "music",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "小心思",
-       "py": "xiǎoxīnsī",
-       "gl": "little trick; subtle idea",
+       "h": "旋律",
+       "py": "xuánlǜ",
+       "gl": "melody",
        "pos": "n."
       },
       {

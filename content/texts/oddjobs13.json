@@ -8,110 +8,13 @@
  "note_en": "只要……就…… means \"as long as / if only... then...\": 只要有一个字读错了，就可能需要重新录很多句话 \"if even one word is misread, many sentences may need to be re-recorded.\" It sets a minimum condition that is enough to trigger the result.",
  "sentences": [
   {
-   "en": "When driving, many people use a GPS app and listen to the voice in it telling them where to go.",
+   "en": "\"In two hundred meters, turn left.\" The actor read it for the tenth time, and his voice was just as flat as before.",
    "phrases": [
     {
-     "en": "When driving,",
+     "en": "\"In two hundred meters, turn left.\"",
      "words": [
       {
-       "h": "开车",
-       "py": "kāichē",
-       "gl": "drive (a car)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "many people use a GPS app,",
-     "words": [
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will; would (expresses likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "v."
-      },
-      {
-       "h": "导航软件",
-       "py": "dǎohángruǎnjiàn",
-       "gl": "navigation app",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "listening to the voice in it tell them where to go.",
-     "words": [
-      {
-       "h": "听着",
-       "py": "tīngzhe",
-       "gl": "listening (to); while listening",
-       "pos": "v."
-      },
-      {
-       "h": "里面",
-       "py": "lǐmiàn",
-       "gl": "inside",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "声音",
-       "py": "shēngyīn",
-       "gl": "voice; sound",
-       "pos": "n."
-      },
-      {
-       "h": "告诉",
-       "py": "gàosù",
-       "gl": "tell",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
+       "h": "“"
       },
       {
        "h": "往",
@@ -120,16 +23,128 @@
        "pos": "prep."
       },
       {
-       "h": "哪里",
-       "py": "nǎlǐ",
-       "gl": "where",
-       "pos": "pron."
+       "h": "前",
+       "py": "qián",
+       "gl": "forward",
+       "pos": "adv."
       },
       {
        "h": "走",
        "py": "zǒu",
        "gl": "go; walk; head (in a direction)",
        "pos": "v."
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "百",
+       "py": "bǎi",
+       "gl": "hundred",
+       "pos": "num."
+      },
+      {
+       "h": "米",
+       "py": "mǐ",
+       "gl": "meter",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "左",
+       "py": "zuǒ",
+       "gl": "left",
+       "pos": "adj."
+      },
+      {
+       "h": "转",
+       "py": "zhuǎn",
+       "gl": "transfer (money); turn",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    },
+    {
+     "en": "The actor read it for the tenth time,",
+     "words": [
+      {
+       "h": "演员",
+       "py": "yǎnyuán",
+       "gl": "actor; actress",
+       "pos": "n."
+      },
+      {
+       "h": "念",
+       "py": "niàn",
+       "gl": "read aloud",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action",
+       "pos": "particle"
+      },
+      {
+       "h": "第",
+       "py": "dì",
+       "gl": "prefix for ordinal numbers (第一 \"first\")",
+       "pos": "function word"
+      },
+      {
+       "h": "十",
+       "py": "shí",
+       "gl": "ten",
+       "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and his voice was just as flat as before.",
+     "words": [
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "voice; sound",
+       "pos": "n."
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all; had better; or (in questions)",
+       "pos": "adv."
+      },
+      {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "平淡",
+       "py": "píngdàn",
+       "gl": "flat; dull; bland",
+       "pos": "adj."
       },
       {
        "h": "。"
@@ -139,10 +154,10 @@
    ]
   },
   {
-   "en": "These GPS voices aren't actually spoken by the computer itself; they're recorded in advance by real actors.",
+   "en": "These GPS voices aren't actually spoken by the computer itself; they're recorded in advance by real actors, one sentence at a time.",
    "phrases": [
     {
-     "en": "These GPS voices aren't actually spoken by the computer itself,",
+     "en": "These GPS voices aren't actually spoken by the computer itself;",
      "words": [
       {
        "h": "这些",
@@ -158,14 +173,14 @@
       },
       {
        "h": "里",
-       "py": "lǐ",
+       "py": "li",
        "gl": "in; inside",
        "pos": "postposition"
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "gl": "attributive particle (特别的工作 a special job)",
        "pos": "particle"
       },
       {
@@ -182,7 +197,7 @@
       },
       {
        "h": "不",
-       "py": "bú",
+       "py": "bù",
        "gl": "not; no",
        "pos": "adv."
       },
@@ -213,7 +228,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "gl": "attributive particle (特别的工作 a special job)",
        "pos": "particle"
       },
       {
@@ -222,7 +237,7 @@
      ]
     },
     {
-     "en": "but recorded in advance by real actors.",
+     "en": "they're recorded in advance by real actors, one sentence at a time.",
      "words": [
       {
        "h": "而是",
@@ -261,6 +276,12 @@
        "pos": "adv."
       },
       {
+       "h": "一句一句",
+       "py": "yījùyījù",
+       "gl": "sentence by sentence; line by line",
+       "pos": "adv."
+      },
+      {
        "h": "录好",
        "py": "lùhǎo",
        "gl": "record (in advance); have recorded",
@@ -269,7 +290,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "gl": "attributive particle (特别的工作 a special job)",
        "pos": "particle"
       },
       {
@@ -311,7 +332,7 @@
       },
       {
        "h": "里",
-       "py": "lǐ",
+       "py": "li",
        "gl": "in; inside",
        "pos": "postposition"
       },
@@ -362,7 +383,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "attributive particle (不同的路线 'different routes')",
        "pos": "particle"
       },
       {
@@ -385,7 +406,7 @@
    ]
   },
   {
-   "en": "To make the voice sound natural, they have to read every sentence in the same tone, never speeding up or slowing down.",
+   "en": "To make the voice sound natural, he has to read every sentence in the same tone, never speeding up or slowing down.",
    "phrases": [
     {
      "en": "To make the voice sound natural,",
@@ -426,19 +447,19 @@
      ]
     },
     {
-     "en": "they have to read every sentence in the same tone,",
+     "en": "he has to read every sentence in the same tone,",
      "words": [
       {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
        "pos": "pron."
       },
       {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
+       "h": "必须",
+       "py": "bìxū",
+       "gl": "must; have to",
+       "pos": "adv."
       },
       {
        "h": "用",
@@ -500,7 +521,7 @@
      ]
     },
     {
-     "en": "never going fast one moment and slow the next.",
+     "en": "never speeding up or slowing down.",
      "words": [
       {
        "h": "不能",
@@ -516,6 +537,143 @@
       },
       {
        "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Suddenly the sound engineer called out, \"Stop! You read that one too fast. We need to record it again.\"",
+   "phrases": [
+    {
+     "en": "Suddenly the sound engineer called out,",
+     "words": [
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "录音师",
+       "py": "lùyīnshī",
+       "gl": "sound engineer; recording engineer",
+       "pos": "n."
+      },
+      {
+       "h": "喊",
+       "py": "hǎn",
+       "gl": "shout; call out",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "声",
+       "py": "shēng",
+       "gl": "measure word for sounds and utterances; sound",
+       "pos": "measure word"
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "\"Stop! You read that one too fast.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "停",
+       "py": "tíng",
+       "gl": "stop; park",
+       "pos": "v."
+      },
+      {
+       "h": "！"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and lines",
+       "pos": "measure word"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "读",
+       "py": "dú",
+       "gl": "read; read aloud",
+       "pos": "v."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "We need to record it again.\"",
+     "words": [
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "function word"
+      },
+      {
+       "h": "重新",
+       "py": "chóngxīn",
+       "gl": "again; anew",
+       "pos": "adv."
+      },
+      {
+       "h": "录",
+       "py": "lù",
+       "gl": "record",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
@@ -551,7 +709,7 @@
      ]
     },
     {
-     "en": "if even one word is misread,",
+     "en": "if even one word is misread, they may have to re-record a lot of sentences.",
      "words": [
       {
        "h": "只要",
@@ -597,12 +755,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "they may have to re-record a lot of sentences.",
-     "words": [
+      },
       {
        "h": "就",
        "py": "jiù",
@@ -659,28 +812,16 @@
    ]
   },
   {
-   "en": "Although many people hear these voices every day, almost no one knows that behind them there's actually a real person.",
+   "en": "Many people hear these voices every day, but almost no one knows that behind them there's actually a real person: the actor sitting in the recording studio, saying \"turn left\" over and over again.",
    "phrases": [
     {
-     "en": "Although many people hear these voices every day,",
+     "en": "Many people hear these voices every day,",
      "words": [
       {
        "h": "虽然",
        "py": "suīrán",
        "gl": "although; though",
        "pos": "conj."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
       },
       {
        "h": "每天",
@@ -693,6 +834,24 @@
        "py": "dōu",
        "gl": "all; both",
        "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
       },
       {
        "h": "听到",
@@ -718,7 +877,7 @@
      ]
     },
     {
-     "en": "almost no one knows",
+     "en": "but almost no one knows that behind them there's actually a real person:",
      "words": [
       {
        "h": "但",
@@ -746,12 +905,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that behind these voices there's actually a real person.",
-     "words": [
+      },
       {
        "h": "这些",
        "py": "zhèxiē",
@@ -810,6 +964,101 @@
        "h": "人",
        "py": "rén",
        "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "—"
+      }
+     ]
+    },
+    {
+     "en": "the actor sitting in the recording studio, saying \"turn left\" over and over again.",
+     "words": [
+      {
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "be exactly; be none other than",
+       "pos": "adv."
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "录音室",
+       "py": "lùyīnshì",
+       "gl": "recording studio",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "li",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一遍又一遍",
+       "py": "yībiànyòuyībiàn",
+       "gl": "again and again; over and over",
+       "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (一遍又一遍地 'over and over')",
+       "pos": "particle"
+      },
+      {
+       "h": "重复",
+       "py": "chóngfù",
+       "gl": "repeat; repetition; repetitive",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "左转",
+       "py": "zuǒzhuǎn",
+       "gl": "turn left",
+       "pos": "phrase"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "attributive particle (特别的工作 a special job)",
+       "pos": "particle"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "位",
+       "py": "wèi",
+       "gl": "polite measure word for people",
+       "pos": "measure word"
+      },
+      {
+       "h": "演员",
+       "py": "yǎnyuán",
+       "gl": "actor; actress",
        "pos": "n."
       },
       {
