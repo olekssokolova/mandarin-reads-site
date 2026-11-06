@@ -6,12 +6,374 @@
  "free": false,
  "audio_url": null,
  "note_en": "A number in Chinese often comes straight after the verb to say how much something changed: 旋转了一百二十度 \"twisted 120 degrees,\" 降低了百分之二十四 \"was cut by 24 percent.\" English usually needs \"by\" here, but Chinese simply puts verb + 了 + amount; adding 了 marks the change as complete.",
+ "series": "construction",
+ "episode": 4,
+ "episode_count": 20,
  "sentences": [
   {
-   "en": "The Shanghai Tower stands in Lujiazui, in Shanghai's Pudong district; at 632 meters, it is the tallest building in China.",
+   "en": "Looking at a photo of the Shanghai Tower, Amira noticed that it slowly twists from bottom to top, shaped like a coiling dragon, and she wondered just how tall this twisting tower really was.",
    "phrases": [
     {
-     "en": "The Shanghai Tower stands in Lujiazui, in Shanghai's Pudong district;",
+     "en": "Looking at a photo of the Shanghai Tower, Amira noticed that it slowly twists from bottom to top, shaped like a coiling dragon,",
+     "words": [
+      {
+       "h": "阿米拉",
+       "py": "āmǐlā",
+       "gl": "Amira",
+       "pos": "proper noun"
+      },
+      {
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "look at; watching",
+       "pos": "v."
+      },
+      {
+       "h": "上海中心大厦",
+       "py": "shànghǎizhōngxīndàshà",
+       "gl": "Shanghai Tower",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from",
+       "pos": "prep."
+      },
+      {
+       "h": "底部",
+       "py": "dǐbù",
+       "gl": "bottom; base",
+       "pos": "n."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "顶部",
+       "py": "dǐngbù",
+       "gl": "top",
+       "pos": "n."
+      },
+      {
+       "h": "慢慢",
+       "py": "mànmàn",
+       "gl": "slowly; gradually",
+       "pos": "adv."
+      },
+      {
+       "h": "旋转",
+       "py": "xuánzhuǎn",
+       "gl": "rotate; spin",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "形状",
+       "py": "xíngzhuàng",
+       "gl": "shape",
+       "pos": "n."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like; such as (像…这样 such as)",
+       "pos": "v."
+      },
+      {
+       "h": "一条",
+       "py": "yītiáo",
+       "gl": "one (measure word for long things, messages, news, rules)",
+       "pos": "num."
+      },
+      {
+       "h": "盘旋",
+       "py": "pánxuán",
+       "gl": "spiral; coil; circle",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "龙",
+       "py": "lóng",
+       "gl": "dragon",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and she wondered just how tall this twisting tower really was.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "心里",
+       "py": "xīnli",
+       "gl": "in one's heart; inside",
+       "pos": "n."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这座",
+       "py": "zhèzuò",
+       "gl": "this (building, city, etc.)",
+       "pos": "pron."
+      },
+      {
+       "h": "旋转",
+       "py": "xuánzhuǎn",
+       "gl": "rotate; spin",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "大厦",
+       "py": "dàshà",
+       "gl": "tower; high-rise building",
+       "pos": "n."
+      },
+      {
+       "h": "到底",
+       "py": "dàodǐ",
+       "gl": "actually; on earth (in questions)",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "how (多高 how tall; 多快 how fast)",
+       "pos": "adv."
+      },
+      {
+       "h": "高",
+       "py": "gāo",
+       "gl": "tall; high",
+       "pos": "adj."
+      },
+      {
+       "h": "呢",
+       "py": "ne",
+       "gl": "particle: action in progress; softens a statement; question particle",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Amira wrote that this was the tallest building in China, the Shanghai Tower, and with that she began to introduce the building to her readers.",
+   "phrases": [
+    {
+     "en": "Amira wrote that this was the tallest building in China, the Shanghai Tower,",
+     "words": [
+      {
+       "h": "阿米拉",
+       "py": "āmǐlā",
+       "gl": "Amira",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
+      },
+      {
+       "h": "高楼",
+       "py": "gāolóu",
+       "gl": "tall building; high-rise",
+       "pos": "n."
+      },
+      {
+       "h": "——"
+      },
+      {
+       "h": "上海中心大厦",
+       "py": "shànghǎizhōngxīndàshà",
+       "gl": "Shanghai Tower",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and with that she began to introduce the building to her readers.",
+     "words": [
+      {
+       "h": "写完",
+       "py": "xiěwán",
+       "gl": "finish writing",
+       "pos": "v."
+      },
+      {
+       "h": "便",
+       "py": "biàn",
+       "gl": "then; thereupon (formal = 就)",
+       "pos": "adv."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
+       "pos": "v."
+      },
+      {
+       "h": "向",
+       "py": "xiàng",
+       "gl": "to; toward; from (向她借钱 'borrow money from her')",
+       "pos": "prep."
+      },
+      {
+       "h": "读者",
+       "py": "dúzhě",
+       "gl": "reader",
+       "pos": "n."
+      },
+      {
+       "h": "介绍起",
+       "py": "jièshàoqǐ",
+       "gl": "start introducing; start explaining",
+       "pos": "v."
+      },
+      {
+       "h": "这座",
+       "py": "zhèzuò",
+       "gl": "this (building, city, etc.)",
+       "pos": "pron."
+      },
+      {
+       "h": "大厦",
+       "py": "dàshà",
+       "gl": "tower; high-rise building",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Amira wrote that the Shanghai Tower stands in Lujiazui, in Shanghai's Pudong district, and that at 632 meters it is the tallest building in China.",
+   "phrases": [
+    {
+     "en": "Amira wrote that",
+     "words": [
+      {
+       "h": "阿米拉",
+       "py": "āmǐlā",
+       "gl": "Amira",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the Shanghai Tower stands in Lujiazui, in Shanghai's Pudong district,",
      "words": [
       {
        "h": "上海",
@@ -51,7 +413,7 @@
       },
       {
        "h": "陆家嘴",
-       "py": "Lùjiāzuǐ",
+       "py": "lùjiāzuǐ",
        "gl": "Lujiazui",
        "pos": "proper noun"
       },
@@ -61,7 +423,7 @@
      ]
     },
     {
-     "en": "it is 632 meters tall",
+     "en": "and that at 632 meters",
      "words": [
       {
        "h": "高度",
@@ -93,7 +455,7 @@
      ]
     },
     {
-     "en": "and is the tallest building in China.",
+     "en": "it is the tallest building in China.",
      "words": [
       {
        "h": "是",
@@ -127,10 +489,36 @@
    ]
   },
   {
-   "en": "From base to top, the tower twists a full 120 degrees, so that it looks like a writhing dragon.",
+   "en": "She added that from base to top the tower twists a full 120 degrees, so that it looks like a writhing dragon.",
    "phrases": [
     {
-     "en": "From base to top, the tower twists a full 120 degrees,",
+     "en": "She added that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "from base to top the tower twists a full 120 degrees,",
      "words": [
       {
        "h": "大厦",
@@ -244,10 +632,36 @@
    ]
   },
   {
-   "en": "This spiral shape reduces the wind load on the building and makes it safer.",
+   "en": "She went on to write that this spiral shape reduces the wind load on the building and makes it safer.",
    "phrases": [
     {
-     "en": "This spiral shape reduces the wind load on the building",
+     "en": "She went on to write that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "接着",
+       "py": "jiēzhe",
+       "gl": "then; next; following that",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "this spiral shape reduces the wind load on the building",
      "words": [
       {
        "h": "这种",
@@ -343,10 +757,36 @@
    ]
   },
   {
-   "en": "The tower has 128 floors and is fitted with some of the fastest elevators in the world.",
+   "en": "She also wrote that the tower has 128 floors and is fitted with some of the fastest elevators in the world.",
    "phrases": [
     {
-     "en": "The tower has 128 floors in all,",
+     "en": "She also wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the tower has 128 floors",
      "words": [
       {
        "h": "大厦",
@@ -384,7 +824,7 @@
      ]
     },
     {
-     "en": "and it is fitted with some of the fastest elevators in the world.",
+     "en": "and is fitted with some of the fastest elevators in the world.",
      "words": [
       {
        "h": "楼里",
@@ -448,10 +888,30 @@
    ]
   },
   {
-   "en": "At the top of the tower there is also a huge damper weighing 1,000 tons, which keeps the building steady in earthquakes and high winds.",
+   "en": "She wrote that at the top of the tower there is also a huge damper weighing 1,000 tons, which keeps the building steady in earthquakes and high winds.",
    "phrases": [
     {
-     "en": "At the top of the tower there is also a huge damper,",
+     "en": "She wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "at the top of the tower there is also a huge damper",
      "words": [
       {
        "h": "大厦",
@@ -597,10 +1057,30 @@
    ]
   },
   {
-   "en": "Once completed, the Shanghai Tower became a new landmark for the city and a symbol of China's progress in building technology.",
+   "en": "Amira wrote that once completed, the Shanghai Tower became a new landmark for the city and a symbol of China's progress in building technology.",
    "phrases": [
     {
-     "en": "Once completed, the Shanghai Tower",
+     "en": "Amira wrote that",
+     "words": [
+      {
+       "h": "阿米拉",
+       "py": "āmǐlā",
+       "gl": "Amira",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "once completed, the Shanghai Tower",
      "words": [
       {
        "h": "上海",
@@ -638,7 +1118,7 @@
      ]
     },
     {
-     "en": "became a new landmark for Shanghai",
+     "en": "became a new landmark for the city",
      "words": [
       {
        "h": "成为",
@@ -740,8 +1220,226 @@
    ]
   },
   {
-   "en": "Chinese construction companies have also used modular assembly to put up supertall buildings at an average rate of one floor every three days.",
+   "en": "At this point Amira thought of her hometown, Dubai, and the world's tallest building, the Burj Khalifa, and she couldn't help wondering just how much shorter this Shanghai tower was.",
    "phrases": [
+    {
+     "en": "At this point Amira thought of her hometown, Dubai, and the world's tallest building, the Burj Khalifa,",
+     "words": [
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
+       "pos": "v."
+      },
+      {
+       "h": "这里",
+       "py": "zhèli",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "阿米拉",
+       "py": "āmǐlā",
+       "gl": "Amira",
+       "pos": "proper noun"
+      },
+      {
+       "h": "想起了",
+       "py": "xiǎngqǐle",
+       "gl": "remembered; recalled",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "家乡",
+       "py": "jiāxiāng",
+       "gl": "hometown",
+       "pos": "n."
+      },
+      {
+       "h": "迪拜",
+       "py": "díbài",
+       "gl": "Dubai",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "以及",
+       "py": "yǐjí",
+       "gl": "and; as well as",
+       "pos": "conj."
+      },
+      {
+       "h": "世界",
+       "py": "shìjiè",
+       "gl": "world",
+       "pos": "n."
+      },
+      {
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
+      },
+      {
+       "h": "高楼",
+       "py": "gāolóu",
+       "gl": "tall building; high-rise",
+       "pos": "n."
+      },
+      {
+       "h": "哈利法塔",
+       "py": "hālìfǎtǎ",
+       "gl": "Burj Khalifa",
+       "pos": "proper noun"
+      },
+      {
+       "h": "——"
+      }
+     ]
+    },
+    {
+     "en": "and she couldn't help wondering just how much shorter this Shanghai tower was.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "不禁",
+       "py": "bùjīn",
+       "gl": "can't help (doing)",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这座",
+       "py": "zhèzuò",
+       "gl": "this (building, city, etc.)",
+       "pos": "pron."
+      },
+      {
+       "h": "上海",
+       "py": "shànghǎi",
+       "gl": "Shanghai",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "大厦",
+       "py": "dàshà",
+       "gl": "tower; high-rise building",
+       "pos": "n."
+      },
+      {
+       "h": "到底",
+       "py": "dàodǐ",
+       "gl": "actually; on earth (in questions)",
+       "pos": "adv."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "矮",
+       "py": "ǎi",
+       "gl": "short (in height); low",
+       "pos": "adj."
+      },
+      {
+       "h": "多少",
+       "py": "duōshǎo",
+       "gl": "how many; how much",
+       "pos": "pron."
+      },
+      {
+       "h": "呢",
+       "py": "ne",
+       "gl": "particle: action in progress; softens a statement; question particle",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She added that Chinese construction companies have also used modular assembly to put up supertall buildings at an average rate of one floor every three days.",
+   "phrases": [
+    {
+     "en": "She added that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
     {
      "en": "Chinese construction companies have also used modular assembly to put up supertall buildings at an average rate of one floor every three days.",
      "words": [
@@ -870,10 +1568,36 @@
    ]
   },
   {
-   "en": "To improve the structure's earthquake resistance, the designers followed China's newly issued seismic design code for supertall buildings.",
+   "en": "She went on to write that, to improve the structure's earthquake resistance, the designers followed China's newly issued seismic design code for supertall buildings.",
    "phrases": [
     {
-     "en": "To improve the structure's earthquake resistance, the designers followed China's newly issued seismic design code for supertall buildings.",
+     "en": "She went on to write that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "接着",
+       "py": "jiēzhe",
+       "gl": "then; next; following that",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "to improve the structure's earthquake resistance, the designers followed China's newly issued seismic design code for supertall buildings.",
      "words": [
       {
        "h": "为了",
@@ -964,10 +1688,36 @@
    ]
   },
   {
-   "en": "The design was led by the American architecture firm Gensler, and when it was completed the tower was the second-tallest building in the world, after Dubai's Burj Khalifa.",
+   "en": "She also wrote that the design was led by the American architecture firm Gensler, and that when it was completed the tower was the second-tallest building in the world, after Dubai's Burj Khalifa.",
    "phrases": [
     {
-     "en": "The design was led by the American architecture firm Gensler,",
+     "en": "She also wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the design was led by the American architecture firm Gensler,",
      "words": [
       {
        "h": "设计方",
@@ -1011,7 +1761,7 @@
      ]
     },
     {
-     "en": "and when it was completed the tower was the second-tallest building in the world, after Dubai's Burj Khalifa.",
+     "en": "and that when it was completed the tower was the second-tallest building in the world, after Dubai's Burj Khalifa.",
      "words": [
       {
        "h": "大厦",
@@ -1087,10 +1837,30 @@
    ]
   },
   {
-   "en": "From bottom to top, the tower is divided into nine zones: shops at the bottom, offices in the middle, and a hotel and observation floors at the top.",
+   "en": "She wrote that from bottom to top the tower is divided into nine zones: shops at the bottom, offices in the middle, and a hotel and observation floors at the top.",
    "phrases": [
     {
-     "en": "From bottom to top, the tower is divided into nine zones:",
+     "en": "She wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "from bottom to top the tower is divided into nine zones:",
      "words": [
       {
        "h": "大厦",
@@ -1179,6 +1949,9 @@
        "pos": "n."
       },
       {
+       "h": "，"
+      },
+      {
        "h": "中间",
        "py": "zhōngjiān",
        "gl": "middle; in the middle",
@@ -1195,6 +1968,9 @@
        "py": "xiězìlóu",
        "gl": "office building",
        "pos": "n."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "顶部",
@@ -1246,10 +2022,30 @@
    ]
   },
   {
-   "en": "The tower has a double glass curtain wall; the layer of air between the two skins keeps the building warm in winter and cool in summer, and this space also holds a number of \"sky gardens\" where people can relax, taking up about a third of the building's interior.",
+   "en": "Amira wrote that the tower has a double glass curtain wall; the layer of air between the two skins keeps the building warm in winter and cool in summer, and this space also holds a number of \"sky gardens\" where people can relax.",
    "phrases": [
     {
-     "en": "The tower has a double glass curtain wall;",
+     "en": "Amira wrote that",
+     "words": [
+      {
+       "h": "阿米拉",
+       "py": "āmǐlā",
+       "gl": "Amira",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the tower has a double glass curtain wall;",
      "words": [
       {
        "h": "大厦",
@@ -1370,7 +2166,7 @@
      ]
     },
     {
-     "en": "and this space also holds a number of \"sky gardens\" where people can relax, taking up about a third of the building's interior.",
+     "en": "and this space also holds a number of \"sky gardens\" where people can relax.",
      "words": [
       {
        "h": "这个",
@@ -1445,48 +2241,6 @@
        "h": "」"
       },
       {
-       "h": "占",
-       "py": "zhàn",
-       "gl": "take up; occupy; account for",
-       "pos": "v."
-      },
-      {
-       "h": "大厦",
-       "py": "dàshà",
-       "gl": "tower; high-rise building",
-       "pos": "n."
-      },
-      {
-       "h": "内部",
-       "py": "nèibù",
-       "gl": "inside; internal",
-       "pos": "n."
-      },
-      {
-       "h": "面积",
-       "py": "miànjī",
-       "gl": "area (size)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "三分之一",
-       "py": "sānfēnzhīyī",
-       "gl": "one third",
-       "pos": "num."
-      },
-      {
-       "h": "左右",
-       "py": "zuǒyòu",
-       "gl": "about; around (after a number)",
-       "pos": "adv."
-      },
-      {
        "h": "。"
       }
      ]
@@ -1494,10 +2248,36 @@
    ]
   },
   {
-   "en": "The foundation rests on 831 piles topped by a concrete mat six meters thick, which was poured in a single continuous 60-hour pour of more than 61,000 cubic meters of concrete, setting a record.",
+   "en": "She added that the foundation rests on 831 piles topped by a concrete mat six meters thick, which was poured in a single continuous 60-hour pour of more than 61,000 cubic meters of concrete, setting a record.",
    "phrases": [
     {
-     "en": "The foundation rests on 831 piles in all,",
+     "en": "She added that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the foundation rests on 831 piles",
      "words": [
       {
        "h": "大厦",
@@ -1559,7 +2339,7 @@
      ]
     },
     {
-     "en": "topped by a concrete mat six meters thick;",
+     "en": "topped by a concrete mat six meters thick,",
      "words": [
       {
        "h": "上面",
@@ -1633,7 +2413,7 @@
      ]
     },
     {
-     "en": "the mat was poured continuously over 60 hours, more than 61,000 cubic meters of concrete in a single pour, setting a record.",
+     "en": "which was poured in a single continuous 60-hour pour of more than 61,000 cubic meters of concrete, setting a record.",
      "words": [
       {
        "h": "这块",
@@ -1696,6 +2476,9 @@
        "pos": "particle"
       },
       {
+       "h": "，"
+      },
+      {
        "h": "一次",
        "py": "yīcì",
        "gl": "once; in one go; at the first attempt",
@@ -1738,6 +2521,9 @@
        "pos": "n."
       },
       {
+       "h": "，"
+      },
+      {
        "h": "创下",
        "py": "chuàngxià",
        "gl": "set (a record)",
@@ -1763,10 +2549,36 @@
    ]
   },
   {
-   "en": "At the base of the tower are two giant columns, each with a cross-section of about five meters by four, reinforced inside with 145 tons of steel plate.",
+   "en": "She went on to write that at the base of the tower are two giant columns, each with a cross-section of about five meters by four, reinforced inside with 145 tons of steel plate.",
    "phrases": [
     {
-     "en": "At the base of the tower are two giant columns,",
+     "en": "She went on to write that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "接着",
+       "py": "jiēzhe",
+       "gl": "then; next; following that",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "at the base of the tower are two giant columns,",
      "words": [
       {
        "h": "大厦",
@@ -1966,10 +2778,36 @@
    ]
   },
   {
-   "en": "Through repeated wind tunnel tests, the designers fine-tuned the tower's angle of twist, ultimately cutting the wind load on the building by 24 percent and, by one estimate, saving about 58 million US dollars in construction costs.",
+   "en": "She also wrote that through repeated wind tunnel tests the designers fine-tuned the tower's angle of twist, ultimately cutting the wind load on the building by 24 percent and, by one estimate, saving about 58 million US dollars in construction costs.",
    "phrases": [
     {
-     "en": "Through repeated wind tunnel tests, the designers fine-tuned the tower's angle of twist,",
+     "en": "She also wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "through repeated wind tunnel tests the designers fine-tuned the tower's angle of twist,",
      "words": [
       {
        "h": "设计师",
@@ -2043,7 +2881,7 @@
      ]
     },
     {
-     "en": "ultimately cutting the wind load on the building by 24 percent,",
+     "en": "ultimately cutting the wind load on the building by 24 percent",
      "words": [
       {
        "h": "最终",
@@ -2111,7 +2949,7 @@
      ]
     },
     {
-     "en": "which by one estimate saved about 58 million US dollars in construction costs.",
+     "en": "and, by one estimate, saving about 58 million US dollars in construction costs.",
      "words": [
       {
        "h": "据",
@@ -2187,10 +3025,30 @@
    ]
   },
   {
-   "en": "The tower's Mitsubishi elevators travel at 20.5 meters per second, among the fastest in the world at the time, carrying passengers to the high observation deck in under a minute.",
+   "en": "She wrote that the tower's Mitsubishi elevators travel at 20.5 meters per second, among the fastest in the world at the time, carrying passengers to the high observation deck in under a minute.",
    "phrases": [
     {
-     "en": "The tower's Mitsubishi elevators travel at 20.5 meters per second,",
+     "en": "She wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the tower's Mitsubishi elevators travel at 20.5 meters per second,",
      "words": [
       {
        "h": "大厦",
@@ -2320,7 +3178,7 @@
      ]
     },
     {
-     "en": "and passengers reach the high observation deck in under a minute.",
+     "en": "carrying passengers to the high observation deck in under a minute.",
      "words": [
       {
        "h": "乘客",
@@ -2390,10 +3248,30 @@
    ]
   },
   {
-   "en": "Near the Shanghai Tower stand two other famous skyscrapers: the 421-meter, pagoda-like Jin Mao Tower and the 492-meter Shanghai World Financial Center; together the three make up Lujiazui's famous skyline.",
+   "en": "Amira wrote that near the Shanghai Tower stand two other famous skyscrapers, the 421-meter, pagoda-like Jin Mao Tower and the 492-meter Shanghai World Financial Center, and that together the three make up Lujiazui's famous skyline.",
    "phrases": [
     {
-     "en": "Near the Shanghai Tower stand two other famous skyscrapers:",
+     "en": "Amira wrote that",
+     "words": [
+      {
+       "h": "阿米拉",
+       "py": "āmǐlā",
+       "gl": "Amira",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "near the Shanghai Tower stand two other famous skyscrapers:",
      "words": [
       {
        "h": "在",
@@ -2640,10 +3518,36 @@
    ]
   },
   {
-   "en": "The main structure topped out in August 2013, and the building was completed and opened in 2015.",
+   "en": "She added that the main structure topped out in August 2013, and that the building was completed and opened in 2015.",
    "phrases": [
     {
-     "en": "The main structure topped out in August 2013,",
+     "en": "She added that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the main structure topped out in August 2013,",
      "words": [
       {
        "h": "大厦",
@@ -2699,7 +3603,7 @@
      ]
     },
     {
-     "en": "and the building was completed and opened in 2015.",
+     "en": "and that the building was completed and opened in 2015.",
      "words": [
       {
        "h": "并",
@@ -2751,10 +3655,36 @@
    ]
   },
   {
-   "en": "The tower earned both LEED Gold certification from the US and China's three-star green building rating, and it is estimated to emit 34,000 fewer tons of carbon a year than an ordinary building of the same size.",
+   "en": "She went on to write that the tower earned both LEED Gold certification from the US and China's three-star green building rating, and that it is estimated to emit 34,000 fewer tons of carbon a year than an ordinary building of the same size.",
    "phrases": [
     {
-     "en": "The tower earned both LEED Gold certification from the US and China's three-star green building rating,",
+     "en": "She went on to write that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "接着",
+       "py": "jiēzhe",
+       "gl": "then; next; following that",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the tower earned both LEED Gold certification from the US and China's three-star green building rating,",
      "words": [
       {
        "h": "大厦",
@@ -2843,7 +3773,7 @@
      ]
     },
     {
-     "en": "and it is estimated to emit 34,000 fewer tons of carbon a year than an ordinary building of the same size.",
+     "en": "and that it is estimated to emit 34,000 fewer tons of carbon a year than an ordinary building of the same size.",
      "words": [
       {
        "h": "据",
@@ -2943,10 +3873,36 @@
    ]
   },
   {
-   "en": "A total of 270 small wind turbines were installed at the top of the tower and were originally expected to supply about 10 percent of its electricity, but they produce far less than planned, only about 54,000 kilowatt-hours a year, enough just for the exterior lighting.",
+   "en": "She also wrote that a total of 270 small wind turbines were installed at the top of the tower and were originally expected to supply about 10 percent of its electricity, but that they produce far less than planned, only about 54,000 kilowatt-hours a year, enough just for the exterior lighting.",
    "phrases": [
     {
-     "en": "A total of 270 small wind turbines were installed at the top of the tower,",
+     "en": "She also wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "a total of 270 small wind turbines were installed at the top of the tower",
      "words": [
       {
        "h": "大厦",
@@ -3008,7 +3964,7 @@
      ]
     },
     {
-     "en": "originally expected to supply about 10 percent of its electricity,",
+     "en": "and were originally expected to supply about 10 percent of its electricity,",
      "words": [
       {
        "h": "原本",
@@ -3076,7 +4032,7 @@
      ]
     },
     {
-     "en": "but they produce far less than planned, only about 54,000 kilowatt-hours a year, enough just for the exterior lighting.",
+     "en": "but that they produce far less than planned, only about 54,000 kilowatt-hours a year, enough just for the exterior lighting.",
      "words": [
       {
        "h": "但",
@@ -3113,6 +4069,9 @@
        "py": "yùqī",
        "gl": "expectation",
        "pos": "n."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "每年",
@@ -3157,6 +4116,9 @@
        "pos": "measure word"
       },
       {
+       "h": "，"
+      },
+      {
        "h": "仅",
        "py": "jǐn",
        "gl": "only; merely",
@@ -3194,10 +4156,30 @@
    ]
   },
   {
-   "en": "The structural engineering was handled by the American firm Thornton Tomasetti, working closely with a local Shanghai design institute.",
+   "en": "She wrote that the structural engineering was handled by the American firm Thornton Tomasetti, working closely with a local Shanghai design institute.",
    "phrases": [
     {
-     "en": "The structural engineering was handled by the American firm Thornton Tomasetti,",
+     "en": "She wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the structural engineering was handled by the American firm Thornton Tomasetti,",
      "words": [
       {
        "h": "大厦",
@@ -3332,10 +4314,30 @@
    ]
   },
   {
-   "en": "The tower's observation deck is on the 118th floor, and when it opened it was one of the highest observation decks in the world.",
+   "en": "Amira wrote that the tower's observation deck is on the 118th floor, and that when it opened it was one of the highest observation decks in the world.",
    "phrases": [
     {
-     "en": "The tower's observation deck is on the 118th floor,",
+     "en": "Amira wrote that",
+     "words": [
+      {
+       "h": "阿米拉",
+       "py": "āmǐlā",
+       "gl": "Amira",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the tower's observation deck is on the 118th floor,",
      "words": [
       {
        "h": "大厦",
@@ -3379,7 +4381,7 @@
      ]
     },
     {
-     "en": "and when it opened it was one of the highest observation decks in the world.",
+     "en": "and that when it opened it was one of the highest observation decks in the world.",
      "words": [
       {
        "h": "开放",
@@ -3449,10 +4451,36 @@
    ]
   },
   {
-   "en": "Since its completion in 2015, the Shanghai Tower's height record has not been beaten by any other building in China, while the world record is still held by Dubai's Burj Khalifa.",
+   "en": "She added that since its completion in 2015 the Shanghai Tower's height record has not been beaten by any other building in China, while the world record is still held by Dubai's Burj Khalifa.",
    "phrases": [
     {
-     "en": "Since its completion in 2015, the Shanghai Tower's height record has not been beaten by any other building in China,",
+     "en": "She added that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "since its completion in 2015 the Shanghai Tower's height record has not been beaten by any other building in China,",
      "words": [
       {
        "h": "自",
@@ -3483,6 +4511,9 @@
        "py": "yǐlái",
        "gl": "since (长期以来 for a long time)",
        "pos": "n."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "上海中心大厦",
@@ -3562,7 +4593,7 @@
      ]
     },
     {
-     "en": "while the record for the world's tallest building is still held by Dubai's Burj Khalifa.",
+     "en": "while the world record is still held by Dubai's Burj Khalifa.",
      "words": [
       {
        "h": "而",
@@ -3656,10 +4687,36 @@
    ]
   },
   {
-   "en": "Wherever possible, the builders chose locally produced materials with a high recycled content, to shrink the carbon footprint of the construction even further.",
+   "en": "She went on to write that wherever possible the builders chose locally produced materials with a high recycled content, to shrink the carbon footprint of the construction even further.",
    "phrases": [
     {
-     "en": "Wherever possible, the builders chose locally produced materials with a high recycled content,",
+     "en": "She went on to write that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "接着",
+       "py": "jiēzhe",
+       "gl": "then; next; following that",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "wherever possible the builders chose locally produced materials with a high recycled content,",
      "words": [
       {
        "h": "在",
@@ -3766,7 +4823,7 @@
      ]
     },
     {
-     "en": "to shrink the carbon footprint of building the tower even further.",
+     "en": "to shrink the carbon footprint of the construction even further.",
      "words": [
       {
        "h": "以",
@@ -3836,10 +4893,36 @@
    ]
   },
   {
-   "en": "At night the glass \"crown\" at the top of the tower lights up, and it has become one of the most iconic sights of Shanghai after dark.",
+   "en": "She also wrote that at night the glass \"crown\" at the top of the tower lights up, and that it has become one of the most iconic sights of Shanghai after dark.",
    "phrases": [
     {
-     "en": "At night the glass \"crown\" at the top of the tower lights up,",
+     "en": "She also wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "at night the glass \"crown\" at the top of the tower lights up,",
      "words": [
       {
        "h": "大厦",
@@ -3913,7 +4996,7 @@
      ]
     },
     {
-     "en": "and it has become one of the most iconic sights of Shanghai after dark.",
+     "en": "and that it has become one of the most iconic sights of Shanghai after dark.",
      "words": [
       {
        "h": "已经",
@@ -3989,10 +5072,30 @@
    ]
   },
   {
-   "en": "Construction officially began in November 2008 at a total cost of about 2.4 billion US dollars, and there is also an underground parking garage with room for 1,800 cars.",
+   "en": "She wrote that construction officially began in November 2008 at a total cost of about 2.4 billion US dollars, and that there is also an underground parking garage with room for 1,800 cars.",
    "phrases": [
     {
-     "en": "Construction officially began in November 2008 at a total cost of about 2.4 billion US dollars,",
+     "en": "She wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "construction officially began in November 2008 at a total cost of about 2.4 billion US dollars,",
      "words": [
       {
        "h": "大厦",
@@ -4035,6 +5138,9 @@
        "py": "kāigōng",
        "gl": "start construction; start work",
        "pos": "v."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "总",
@@ -4084,7 +5190,7 @@
      ]
     },
     {
-     "en": "and there is also an underground parking garage with room for 1,800 cars.",
+     "en": "and that there is also an underground parking garage with room for 1,800 cars.",
      "words": [
       {
        "h": "地下",
@@ -4160,10 +5266,30 @@
    ]
   },
   {
-   "en": "On the tower's 120th floor is a restaurant called Tianzhijin (\"Heavenly Brocade\"), which Guinness World Records recognized as the highest restaurant in a building.",
+   "en": "Amira wrote that on the tower's 120th floor is a restaurant called Tianzhijin (\"Heavenly Brocade\"), which Guinness World Records has recognized as the highest restaurant in a building.",
    "phrases": [
     {
-     "en": "On the tower's 120th floor is a restaurant called Tianzhijin (\"Heavenly Brocade\"),",
+     "en": "Amira wrote that",
+     "words": [
+      {
+       "h": "阿米拉",
+       "py": "āmǐlā",
+       "gl": "Amira",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "on the tower's 120th floor is a restaurant called Tianzhijin (\"Heavenly Brocade\"),",
      "words": [
       {
        "h": "大厦",
@@ -4237,7 +5363,7 @@
      ]
     },
     {
-     "en": "which Guinness World Records recognized as the highest restaurant in a building.",
+     "en": "which Guinness World Records has recognized as the highest restaurant in a building.",
      "words": [
       {
        "h": "这家",
@@ -4323,9 +5449,635 @@
      ]
     }
    ]
+  },
+  {
+   "en": "At this point Amira closed her laptop and thought: since its completion in 2015, the Shanghai Tower's height record has never been beaten in China, while the world record is still held by the Burj Khalifa in her hometown of Dubai. Yet the 270 wind turbines at the top of this Shanghai tower, originally expected to supply about 10 percent of its electricity, actually produce far less than planned, only about 54,000 kilowatt-hours a year, enough just for the exterior lighting. Even the building with the most records, she couldn't help thinking, has its ordinary side that sets no records at all.",
+   "phrases": [
+    {
+     "en": "At this point Amira closed her laptop and thought: since its completion in 2015, the Shanghai Tower's height record has never been beaten in China, while the world record is still held by the Burj Khalifa in her hometown of Dubai.",
+     "words": [
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
+       "pos": "v."
+      },
+      {
+       "h": "这里",
+       "py": "zhèli",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "阿米拉",
+       "py": "āmǐlā",
+       "gl": "Amira",
+       "pos": "proper noun"
+      },
+      {
+       "h": "合上",
+       "py": "héshàng",
+       "gl": "close; shut",
+       "pos": "v."
+      },
+      {
+       "h": "电脑",
+       "py": "diànnǎo",
+       "gl": "computer",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "心想",
+       "py": "xīnxiǎng",
+       "gl": "think to oneself",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "自从",
+       "py": "zìcóng",
+       "gl": "since; ever since",
+       "pos": "prep."
+      },
+      {
+       "h": "二零一五",
+       "py": "èrlíngyīwǔ",
+       "gl": "2015 (read digit by digit)",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "竣工",
+       "py": "jùngōng",
+       "gl": "be completed (of construction)",
+       "pos": "v."
+      },
+      {
+       "h": "以来",
+       "py": "yǐlái",
+       "gl": "since (长期以来 for a long time)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "上海中心大厦",
+       "py": "shànghǎizhōngxīndàshà",
+       "gl": "Shanghai Tower",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "高度",
+       "py": "gāodù",
+       "gl": "height",
+       "pos": "n."
+      },
+      {
+       "h": "纪录",
+       "py": "jìlù",
+       "gl": "record",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not; did not (negates past actions)",
+       "pos": "adv."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "超越",
+       "py": "chāoyuè",
+       "gl": "surpass; transcend",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "而",
+       "py": "ér",
+       "gl": "and (yet); while; but; whereas",
+       "pos": "conj."
+      },
+      {
+       "h": "世界",
+       "py": "shìjiè",
+       "gl": "world",
+       "pos": "n."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "高",
+       "py": "gāo",
+       "gl": "tall; high",
+       "pos": "adj."
+      },
+      {
+       "h": "建筑",
+       "py": "jiànzhù",
+       "gl": "building; architecture",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "纪录",
+       "py": "jìlù",
+       "gl": "record",
+       "pos": "n."
+      },
+      {
+       "h": "仍然",
+       "py": "réngrán",
+       "gl": "still; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "由",
+       "py": "yóu",
+       "gl": "by (marks the agent)",
+       "pos": "prep."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "家乡",
+       "py": "jiāxiāng",
+       "gl": "hometown",
+       "pos": "n."
+      },
+      {
+       "h": "迪拜",
+       "py": "díbài",
+       "gl": "Dubai",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "哈利法塔",
+       "py": "hālìfǎtǎ",
+       "gl": "Burj Khalifa",
+       "pos": "proper noun"
+      },
+      {
+       "h": "保持着",
+       "py": "bǎochízhe",
+       "gl": "keep; maintain",
+       "pos": "v."
+      },
+      {
+       "h": "——"
+      }
+     ]
+    },
+    {
+     "en": "Yet the 270 wind turbines at the top of this Shanghai tower, originally expected to supply about 10 percent of its electricity, actually produce far less than planned, only about 54,000 kilowatt-hours a year, enough just for the exterior lighting.",
+     "words": [
+      {
+       "h": "但是",
+       "py": "dànshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "上海",
+       "py": "shànghǎi",
+       "gl": "Shanghai",
+       "pos": "proper noun"
+      },
+      {
+       "h": "这座",
+       "py": "zhèzuò",
+       "gl": "this (building, city, etc.)",
+       "pos": "pron."
+      },
+      {
+       "h": "大厦",
+       "py": "dàshà",
+       "gl": "tower; high-rise building",
+       "pos": "n."
+      },
+      {
+       "h": "顶部",
+       "py": "dǐngbù",
+       "gl": "top",
+       "pos": "n."
+      },
+      {
+       "h": "安装",
+       "py": "ānzhuāng",
+       "gl": "install; installation",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "二百七十",
+       "py": "èrbǎiqīshí",
+       "gl": "270",
+       "pos": "num."
+      },
+      {
+       "h": "台",
+       "py": "tái",
+       "gl": "measure word for machines (computers, TVs)",
+       "pos": "measure word"
+      },
+      {
+       "h": "风力发电机",
+       "py": "fēnglìfādiànjī",
+       "gl": "wind turbine",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "原本",
+       "py": "yuánběn",
+       "gl": "originally",
+       "pos": "adv."
+      },
+      {
+       "h": "设计",
+       "py": "shèjì",
+       "gl": "design",
+       "pos": "v."
+      },
+      {
+       "h": "预期",
+       "py": "yùqī",
+       "gl": "expect",
+       "pos": "v."
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may",
+       "pos": "v."
+      },
+      {
+       "h": "提供",
+       "py": "tígōng",
+       "gl": "provide",
+       "pos": "v."
+      },
+      {
+       "h": "大厦",
+       "py": "dàshà",
+       "gl": "tower; high-rise building",
+       "pos": "n."
+      },
+      {
+       "h": "百分之十",
+       "py": "bǎifēnzhīshí",
+       "gl": "ten percent",
+       "pos": "num."
+      },
+      {
+       "h": "左右",
+       "py": "zuǒyòu",
+       "gl": "about; around (after a number)",
+       "pos": "adv."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "用电量",
+       "py": "yòngdiànliàng",
+       "gl": "electricity consumption",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "实际",
+       "py": "shíjì",
+       "gl": "actual; real; practical; in practice",
+       "pos": "adj."
+      },
+      {
+       "h": "发电量",
+       "py": "fādiànliàng",
+       "gl": "power output; electricity generated",
+       "pos": "n."
+      },
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet; however (contrast)",
+       "pos": "adv."
+      },
+      {
+       "h": "远",
+       "py": "yuǎn",
+       "gl": "far (more); much",
+       "pos": "adv."
+      },
+      {
+       "h": "低于",
+       "py": "dīyú",
+       "gl": "lower than; below",
+       "pos": "v."
+      },
+      {
+       "h": "预期",
+       "py": "yùqī",
+       "gl": "expectation",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每年",
+       "py": "měinián",
+       "gl": "every year",
+       "pos": "n."
+      },
+      {
+       "h": "大约",
+       "py": "dàyuē",
+       "gl": "about; approximately",
+       "pos": "adv."
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "提供",
+       "py": "tígōng",
+       "gl": "provide",
+       "pos": "v."
+      },
+      {
+       "h": "五万四千",
+       "py": "wǔwànsìqiān",
+       "gl": "fifty-four thousand",
+       "pos": "num."
+      },
+      {
+       "h": "千瓦时",
+       "py": "qiānwǎshí",
+       "gl": "kilowatt-hour",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "仅",
+       "py": "jǐn",
+       "gl": "only; merely",
+       "pos": "adv."
+      },
+      {
+       "h": "够",
+       "py": "gòu",
+       "gl": "enough",
+       "pos": "v."
+      },
+      {
+       "h": "用于",
+       "py": "yòngyú",
+       "gl": "be used for",
+       "pos": "v."
+      },
+      {
+       "h": "外部",
+       "py": "wàibù",
+       "gl": "external; outside",
+       "pos": "adj."
+      },
+      {
+       "h": "照明",
+       "py": "zhàomíng",
+       "gl": "lighting",
+       "pos": "n."
+      },
+      {
+       "h": "——"
+      }
+     ]
+    },
+    {
+     "en": "Even the building with the most records, she couldn't help thinking, has its ordinary side that sets no records at all.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "不禁",
+       "py": "bùjīn",
+       "gl": "can't help (doing)",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "哪怕",
+       "py": "nǎpà",
+       "gl": "even if",
+       "pos": "conj."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "纪录",
+       "py": "jìlù",
+       "gl": "record",
+       "pos": "n."
+      },
+      {
+       "h": "最多",
+       "py": "zuìduō",
+       "gl": "most; the most",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "大厦",
+       "py": "dàshà",
+       "gl": "tower; high-rise building",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will; would (expresses likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "平凡",
+       "py": "píngfán",
+       "gl": "ordinary; plain",
+       "pos": "adj."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "完全",
+       "py": "wánquán",
+       "gl": "completely; fully",
+       "pos": "adv."
+      },
+      {
+       "h": "算不上",
+       "py": "suànbùshàng",
+       "gl": "can't be considered; hardly count as",
+       "pos": "v."
+      },
+      {
+       "h": "纪录",
+       "py": "jìlù",
+       "gl": "record",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "一面",
+       "py": "yímiàn",
+       "gl": "side; aspect",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
   }
- ],
- "series": "construction",
- "episode": 4,
- "episode_count": 20
+ ]
 }
