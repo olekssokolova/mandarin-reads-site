@@ -6,12 +6,401 @@
  "free": false,
  "audio_url": null,
  "note_en": "起来 after a verb can mark the moment an action gets going and what follows from it: 转动起来可以覆盖的面积相当于好几个足球场 \"once they start turning, they sweep an area as big as several soccer fields.\" English needs \"once\" or \"when\" to set up the condition, but Chinese builds it into the verb itself with 起来, so no separate clause marker is needed.",
+ "series": "construction",
+ "episode": 16,
+ "episode_count": 20,
  "sentences": [
   {
-   "en": "Many offshore wind farms have been built along China's coast, with rows of giant wind turbines lined up neatly on the sea.",
+   "en": "Reading about China's offshore wind farms, Klara saw rows of giant wind turbines lined up along the coast, and she wondered how China's offshore wind power really compared with Europe's; after all, Europe was the first to build power plants like these.",
    "phrases": [
     {
-     "en": "Many offshore wind farms have been built along China's coast,",
+     "en": "Reading about China's offshore wind farms, Klara saw rows of giant wind turbines lined up along the coast,",
+     "words": [
+      {
+       "h": "克拉拉",
+       "py": "kèlālā",
+       "gl": "Clara",
+       "pos": "proper noun"
+      },
+      {
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "look at; watching",
+       "pos": "v."
+      },
+      {
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "海上",
+       "py": "hǎishàng",
+       "gl": "offshore; at sea",
+       "pos": "adj."
+      },
+      {
+       "h": "风电场",
+       "py": "fēngdiànchǎng",
+       "gl": "wind farm",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "介绍",
+       "py": "jièshào",
+       "gl": "introduction; description",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "一排排",
+       "py": "yīpáipái",
+       "gl": "row upon row; rows of",
+       "pos": "num."
+      },
+      {
+       "h": "巨大",
+       "py": "jùdà",
+       "gl": "huge; enormous",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "nominalizing particle (…的 the one that…)",
+       "pos": "particle"
+      },
+      {
+       "h": "风力发电机",
+       "py": "fēnglìfādiànjī",
+       "gl": "wind turbine",
+       "pos": "n."
+      },
+      {
+       "h": "沿着",
+       "py": "yánzhe",
+       "gl": "along",
+       "pos": "prep."
+      },
+      {
+       "h": "海岸",
+       "py": "hǎiàn",
+       "gl": "coast",
+       "pos": "n."
+      },
+      {
+       "h": "排列",
+       "py": "páiliè",
+       "gl": "arrange; line up",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and she wondered how China's offshore wind power really compared with Europe's; after all, Europe was the first to build power plants like these.",
+     "words": [
+      {
+       "h": "心里",
+       "py": "xīnli",
+       "gl": "in one's heart; inside",
+       "pos": "n."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "海上风电",
+       "py": "hǎishàngfēngdiàn",
+       "gl": "offshore wind power",
+       "pos": "n."
+      },
+      {
+       "h": "到底",
+       "py": "dàodǐ",
+       "gl": "actually; on earth (in questions)",
+       "pos": "adv."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "欧洲",
+       "py": "ōuzhōu",
+       "gl": "Europe",
+       "pos": "proper noun"
+      },
+      {
+       "h": "比起来",
+       "py": "bǐqǐlái",
+       "gl": "compared (with) (和…比起来 compared with …)",
+       "pos": "v."
+      },
+      {
+       "h": "怎么样",
+       "py": "zěnmeyàng",
+       "gl": "how; how about it",
+       "pos": "pron."
+      },
+      {
+       "h": "呢",
+       "py": "ne",
+       "gl": "particle: action in progress; softens a statement; question particle",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "毕竟",
+       "py": "bìjìng",
+       "gl": "after all",
+       "pos": "adv."
+      },
+      {
+       "h": "欧洲",
+       "py": "ōuzhōu",
+       "gl": "Europe",
+       "pos": "proper noun"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "最早",
+       "py": "zuìzǎo",
+       "gl": "earliest; first; originally",
+       "pos": "adv."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
+       "pos": "v."
+      },
+      {
+       "h": "建设",
+       "py": "jiànshè",
+       "gl": "build; develop",
+       "pos": "v."
+      },
+      {
+       "h": "这种",
+       "py": "zhèzhǒng",
+       "gl": "this kind of; such",
+       "pos": "pron."
+      },
+      {
+       "h": "电站",
+       "py": "diànzhàn",
+       "gl": "power station",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Klara wrote that this was one of China's offshore wind farms, and with that she began to introduce the wind farm to her readers.",
+   "phrases": [
+    {
+     "en": "Klara wrote that this was one of China's offshore wind farms,",
+     "words": [
+      {
+       "h": "克拉拉",
+       "py": "kèlālā",
+       "gl": "Clara",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "一座",
+       "py": "yīzuò",
+       "gl": "one; a (measure word for buildings, parks, bridges, mountains)",
+       "pos": "num."
+      },
+      {
+       "h": "海上",
+       "py": "hǎishàng",
+       "gl": "offshore; at sea",
+       "pos": "adj."
+      },
+      {
+       "h": "风电场",
+       "py": "fēngdiànchǎng",
+       "gl": "wind farm",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and with that she began to introduce the wind farm to her readers.",
+     "words": [
+      {
+       "h": "写完",
+       "py": "xiěwán",
+       "gl": "finish writing",
+       "pos": "v."
+      },
+      {
+       "h": "便",
+       "py": "biàn",
+       "gl": "then; thereupon (formal = 就)",
+       "pos": "adv."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
+       "pos": "v."
+      },
+      {
+       "h": "向",
+       "py": "xiàng",
+       "gl": "to; toward; from (向她借钱 'borrow money from her')",
+       "pos": "prep."
+      },
+      {
+       "h": "读者",
+       "py": "dúzhě",
+       "gl": "reader",
+       "pos": "n."
+      },
+      {
+       "h": "介绍起",
+       "py": "jièshàoqǐ",
+       "gl": "start introducing; start explaining",
+       "pos": "v."
+      },
+      {
+       "h": "这座",
+       "py": "zhèzuò",
+       "gl": "this (building, city, etc.)",
+       "pos": "pron."
+      },
+      {
+       "h": "风电场",
+       "py": "fēngdiànchǎng",
+       "gl": "wind farm",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Klara wrote that many offshore wind farms have been built along China's coast, with rows of giant wind turbines lined up neatly on the sea.",
+   "phrases": [
+    {
+     "en": "Klara wrote that",
+     "words": [
+      {
+       "h": "克拉拉",
+       "py": "kèlālā",
+       "gl": "Clara",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "many offshore wind farms have been built along China's coast,",
      "words": [
       {
        "h": "中国",
@@ -119,10 +508,36 @@
    ]
   },
   {
-   "en": "Each turbine blade is more than 100 meters long, and once they start turning, they sweep an area as big as several soccer fields.",
+   "en": "She added that each turbine blade is more than 100 meters long, and that once they start turning, they sweep an area as big as several soccer fields.",
    "phrases": [
     {
-     "en": "Each turbine blade is more than 100 meters long,",
+     "en": "She added that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "each turbine blade is more than 100 meters long,",
      "words": [
       {
        "h": "每台",
@@ -178,7 +593,7 @@
      ]
     },
     {
-     "en": "and once they start turning, they sweep an area as big as several soccer fields.",
+     "en": "and that once they start turning, they sweep an area as big as several soccer fields.",
      "words": [
       {
        "h": "转动",
@@ -242,10 +657,36 @@
    ]
   },
   {
-   "en": "To anchor a turbine firmly to the seabed, workers first have to drive huge steel pipe piles dozens of meters into the sea floor.",
+   "en": "She went on to write that to anchor a turbine firmly to the seabed, workers first have to drive huge steel pipe piles dozens of meters into the sea floor.",
    "phrases": [
     {
-     "en": "To anchor a turbine firmly to the seabed,",
+     "en": "She went on to write that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "接着",
+       "py": "jiēzhe",
+       "gl": "then; next; following that",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "to anchor a turbine firmly to the seabed,",
      "words": [
       {
        "h": "为了",
@@ -389,10 +830,36 @@
    ]
   },
   {
-   "en": "The sea is both damp and rough, with frequent wind and waves, which makes installing the equipment and maintaining it day to day very difficult.",
+   "en": "She also wrote that the sea is both damp and rough, with frequent wind and waves, which makes installing the equipment and maintaining it day to day very difficult.",
    "phrases": [
     {
-     "en": "The sea is both damp and rough, with frequent wind and waves,",
+     "en": "She also wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the sea is both damp and rough, with frequent wind and waves,",
      "words": [
       {
        "h": "海上",
@@ -530,10 +997,30 @@
    ]
   },
   {
-   "en": "Crews often have to go by boat or even by helicopter to reach turbines far from shore for inspections and repairs.",
+   "en": "She wrote that crews often have to go by boat or even by helicopter to reach turbines far from shore for inspections and repairs.",
    "phrases": [
     {
-     "en": "Crews often have to go by boat or even by helicopter",
+     "en": "She wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "crews often have to go by boat or even by helicopter",
      "words": [
       {
        "h": "工作人员",
@@ -653,10 +1140,30 @@
    ]
   },
   {
-   "en": "These offshore wind farms generate large amounts of clean electricity every year, helping coastal cities reduce their dependence on coal and other fossil fuels.",
+   "en": "Klara wrote that these offshore wind farms generate large amounts of clean electricity every year, helping coastal cities reduce their dependence on coal and other fossil fuels.",
    "phrases": [
     {
-     "en": "These offshore wind farms generate large amounts of clean electricity every year,",
+     "en": "Klara wrote that",
+     "words": [
+      {
+       "h": "克拉拉",
+       "py": "kèlālā",
+       "gl": "Clara",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "these offshore wind farms generate large amounts of clean electricity every year,",
      "words": [
       {
        "h": "这些",
@@ -782,10 +1289,150 @@
    ]
   },
   {
-   "en": "As early as 2021, China's total installed offshore wind capacity had already overtaken Britain's, making it number one in the world.",
+   "en": "At this point Klara wondered where exactly China's offshore wind power now ranked in the world.",
    "phrases": [
     {
-     "en": "As early as 2021, China's total installed offshore wind capacity had already overtaken Britain's, making it number one in the world.",
+     "en": "At this point Klara wondered",
+     "words": [
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
+       "pos": "v."
+      },
+      {
+       "h": "这里",
+       "py": "zhèli",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "克拉拉",
+       "py": "kèlālā",
+       "gl": "Clara",
+       "pos": "proper noun"
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "where exactly China's offshore wind power now ranked in the world.",
+     "words": [
+      {
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "海上风电",
+       "py": "hǎishàngfēngdiàn",
+       "gl": "offshore wind power",
+       "pos": "n."
+      },
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "世界上",
+       "py": "shìjièshàng",
+       "gl": "in the world",
+       "pos": "n."
+      },
+      {
+       "h": "到底",
+       "py": "dàodǐ",
+       "gl": "actually; on earth (in questions)",
+       "pos": "adv."
+      },
+      {
+       "h": "排",
+       "py": "pái",
+       "gl": "rank (排第一 rank first)",
+       "pos": "v."
+      },
+      {
+       "h": "第几",
+       "py": "dìjǐ",
+       "gl": "which (in order); what place (in a ranking)",
+       "pos": "pron."
+      },
+      {
+       "h": "呢",
+       "py": "ne",
+       "gl": "particle: action in progress; softens a statement; question particle",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She added that as early as 2021 China's total installed offshore wind capacity had already overtaken Britain's, making it number one in the world.",
+   "phrases": [
+    {
+     "en": "She added that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "as early as 2021 China's total installed offshore wind capacity had already overtaken Britain's, making it number one in the world.",
      "words": [
       {
        "h": "早在",
@@ -796,14 +1443,14 @@
       {
        "h": "二零二一",
        "py": "èrlíngèryī",
-       "gl": "2021 (year, read digit by digit)",
+       "gl": "2021 (twenty twenty-one)",
        "pos": "num."
       },
       {
        "h": "年",
        "py": "nián",
        "gl": "year",
-       "pos": "measure word"
+       "pos": "n."
       },
       {
        "h": "，"
@@ -835,7 +1482,7 @@
       {
        "h": "就",
        "py": "jiù",
-       "gl": "already (emphasizes how early)",
+       "gl": "already (stresses earliness: 早在…就…)",
        "pos": "adv."
       },
       {
@@ -879,10 +1526,36 @@
    ]
   },
   {
-   "en": "To withstand typhoons, some turbines at coastal wind farms have been specially designed with a storm-resistance feature that lets them feather their blades.",
+   "en": "She went on to write that to withstand typhoons, some turbines at coastal wind farms have been specially designed with a storm-resistance feature that lets them feather their blades.",
    "phrases": [
     {
-     "en": "To withstand typhoons, some turbines at coastal wind farms have been specially designed with a storm-resistance feature that lets them feather their blades.",
+     "en": "She went on to write that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "接着",
+       "py": "jiēzhe",
+       "gl": "then; next; following that",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "to withstand typhoons, some turbines at coastal wind farms have been specially designed with a storm-resistance feature that lets them feather their blades.",
      "words": [
       {
        "h": "为",
@@ -997,10 +1670,36 @@
    ]
   },
   {
-   "en": "Today, China's installed offshore wind capacity has passed 40 million kilowatts, more than half the global total.",
+   "en": "She also wrote that China's installed offshore wind capacity has now passed 40 million kilowatts, more than half the global total.",
    "phrases": [
     {
-     "en": "Today, China's installed offshore wind capacity has passed 40 million kilowatts, more than half the global total.",
+     "en": "She also wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "China's installed offshore wind capacity has now passed 40 million kilowatts, more than half the global total.",
      "words": [
       {
        "h": "如今",
@@ -1112,10 +1811,30 @@
    ]
   },
   {
-   "en": "That figure is even greater than the combined capacity of second-ranked Britain and third-ranked Germany.",
+   "en": "She wrote that this figure is even greater than the combined capacity of second-ranked Britain and third-ranked Germany.",
    "phrases": [
     {
-     "en": "That figure is even greater than the combined capacity of second-ranked Britain and third-ranked Germany.",
+     "en": "She wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "this figure is even greater than the combined capacity of second-ranked Britain and third-ranked Germany.",
      "words": [
       {
        "h": "这个",
@@ -1227,22 +1946,42 @@
    ]
   },
   {
-   "en": "In 2024, a Chinese company installed a giant turbine of its own design at an offshore test site in Shantou, Guangdong Province. With a rated power of 18,000 kilowatts, it was at the time the most powerful offshore wind turbine in the world.",
+   "en": "Klara wrote that in 2024 a Chinese company installed a giant turbine of its own design at an offshore test site in Shantou, Guangdong Province; with a rated power of 18,000 kilowatts, it was at the time the most powerful offshore wind turbine in the world.",
    "phrases": [
     {
-     "en": "In 2024, a Chinese company installed a giant turbine of its own design at an offshore test site in Shantou, Guangdong Province.",
+     "en": "Klara wrote that",
+     "words": [
+      {
+       "h": "克拉拉",
+       "py": "kèlālā",
+       "gl": "Clara",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "in 2024 a Chinese company installed a giant turbine of its own design at an offshore test site in Shantou, Guangdong Province; with a rated power of 18,000 kilowatts, it was at the time the most powerful offshore wind turbine in the world.",
      "words": [
       {
        "h": "二零二四",
        "py": "èrlíngèrsì",
-       "gl": "2024 (year, read digit by digit)",
+       "gl": "2024 (twenty twenty-four)",
        "pos": "num."
       },
       {
        "h": "年",
        "py": "nián",
        "gl": "year",
-       "pos": "measure word"
+       "pos": "n."
       },
       {
        "h": "，"
@@ -1339,12 +2078,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "With a rated power of 18,000 kilowatts, it was at the time the most powerful offshore wind turbine in the world.",
-     "words": [
+      },
       {
        "h": "额定功率",
        "py": "édìnggōnglǜ",
@@ -1428,10 +2162,36 @@
    ]
   },
   {
-   "en": "The turbine's rotor is 260 meters in diameter, and its swept area is as big as seven soccer fields.",
+   "en": "She added that the turbine's rotor is 260 meters in diameter, and its swept area is as big as seven soccer fields.",
    "phrases": [
     {
-     "en": "The turbine's rotor is 260 meters in diameter, and its swept area is as big as seven soccer fields.",
+     "en": "She added that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the turbine's rotor is 260 meters in diameter, and its swept area is as big as seven soccer fields.",
      "words": [
       {
        "h": "这台",
@@ -1528,10 +2288,36 @@
    ]
   },
   {
-   "en": "It generates about 72 million kilowatt-hours of electricity a year, enough to meet the annual needs of more than 30,000 households.",
+   "en": "She went on to write that it generates about 72 million kilowatt-hours of electricity a year, enough to meet the annual needs of more than 30,000 households.",
    "phrases": [
     {
-     "en": "It generates about 72 million kilowatt-hours of electricity a year, enough to meet the annual needs of more than 30,000 households.",
+     "en": "She went on to write that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "接着",
+       "py": "jiēzhe",
+       "gl": "then; next; following that",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "it generates about 72 million kilowatt-hours of electricity a year, enough to meet the annual needs of more than 30,000 households.",
      "words": [
       {
        "h": "它",
@@ -1634,10 +2420,36 @@
    ]
   },
   {
-   "en": "Besides turbines fixed to the seabed, Chinese companies have also built the world's first floating offshore wind platform in the 16,000-kilowatt class.",
+   "en": "She also wrote that besides turbines fixed to the seabed, Chinese companies have also built the world's first floating offshore wind platform in the 16,000-kilowatt class.",
    "phrases": [
     {
-     "en": "Besides turbines fixed to the seabed, Chinese companies have also built the world's first floating offshore wind platform in the 16,000-kilowatt class.",
+     "en": "She also wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "besides turbines fixed to the seabed, Chinese companies have also built the world's first floating offshore wind platform in the 16,000-kilowatt class.",
      "words": [
       {
        "h": "除了",
@@ -1764,10 +2576,30 @@
    ]
   },
   {
-   "en": "This floating platform can withstand the fierce winds of super typhoons and supplies clean electricity to offshore oil fields in the South China Sea.",
+   "en": "She wrote that this floating platform can withstand the fierce winds of super typhoons and supplies clean electricity to offshore oil fields in the South China Sea.",
    "phrases": [
     {
-     "en": "This floating platform can withstand the fierce winds of super typhoons and supplies clean electricity to offshore oil fields in the South China Sea.",
+     "en": "She wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "this floating platform can withstand the fierce winds of super typhoons and supplies clean electricity to offshore oil fields in the South China Sea.",
      "words": [
       {
        "h": "这座",
@@ -1870,10 +2702,30 @@
    ]
   },
   {
-   "en": "Because floating wind platforms don't need foundations driven into the seabed, they can be installed in deep water more than 50 meters down, greatly expanding where offshore wind can be developed.",
+   "en": "Klara wrote that because floating wind platforms don't need foundations driven into the seabed, they can be installed in deep water more than 50 meters down, greatly expanding where offshore wind can be developed.",
    "phrases": [
     {
-     "en": "Because floating wind platforms don't need foundations driven into the seabed, they can be installed in deep water more than 50 meters down, greatly expanding where offshore wind can be developed.",
+     "en": "Klara wrote that",
+     "words": [
+      {
+       "h": "克拉拉",
+       "py": "kèlālā",
+       "gl": "Clara",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "because floating wind platforms don't need foundations driven into the seabed, they can be installed in deep water more than 50 meters down, greatly expanding where offshore wind can be developed.",
      "words": [
       {
        "h": "浮式风电平台",
@@ -2021,10 +2873,36 @@
    ]
   },
   {
-   "en": "Many offshore wind farms also raise shellfish and fish around the turbine foundations, creating \"wind-and-fishery\" marine ranches.",
+   "en": "She added that many offshore wind farms also raise shellfish and fish around the turbine foundations, creating \"wind-and-fishery\" marine ranches.",
    "phrases": [
     {
-     "en": "Many offshore wind farms also raise shellfish and fish around the turbine foundations, creating \"wind-and-fishery\" marine ranches.",
+     "en": "She added that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "many offshore wind farms also raise shellfish and fish around the turbine foundations, creating \"wind-and-fishery\" marine ranches.",
      "words": [
       {
        "h": "许多",
@@ -2139,10 +3017,36 @@
    ]
   },
   {
-   "en": "The power generated by the turbines has to be carried to the grid on land through undersea cables, and laying and maintaining those cables is a huge engineering job in its own right.",
+   "en": "She went on to write that the power generated by the turbines has to be carried to the grid on land through undersea cables, and that laying and maintaining those cables is a huge engineering job in its own right.",
    "phrases": [
     {
-     "en": "The power generated by the turbines has to be carried to the grid on land through undersea cables, and laying and maintaining those cables is a huge engineering job in its own right.",
+     "en": "She went on to write that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "接着",
+       "py": "jiēzhe",
+       "gl": "then; next; following that",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the power generated by the turbines has to be carried to the grid on land through undersea cables, and that laying and maintaining those cables is a huge engineering job in its own right.",
      "words": [
       {
        "h": "风机",
@@ -2299,10 +3203,36 @@
    ]
   },
   {
-   "en": "A few years ago, another Chinese-designed offshore turbine, rated at 16,000 kilowatts, was installed off the coast of Fujian; at the time it, too, was the most powerful offshore wind turbine in the world.",
+   "en": "She also wrote that a few years ago another Chinese-designed offshore turbine, rated at 16,000 kilowatts, was installed off the coast of Fujian, and that at the time it, too, was the most powerful offshore wind turbine in the world.",
    "phrases": [
     {
-     "en": "A few years ago, another Chinese-designed offshore turbine, rated at 16,000 kilowatts, was installed off the coast of Fujian; at the time it, too, was the most powerful offshore wind turbine in the world.",
+     "en": "She also wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "a few years ago another Chinese-designed offshore turbine, rated at 16,000 kilowatts, was installed off the coast of Fujian, and that at the time it, too, was the most powerful offshore wind turbine in the world.",
      "words": [
       {
        "h": "几年前",
@@ -2395,9 +3325,9 @@
        "pos": "proper noun"
       },
       {
-       "h": "海域",
-       "py": "hǎiyù",
-       "gl": "sea area; waters",
+       "h": "沿海",
+       "py": "yánhǎi",
+       "gl": "coastal; coast",
        "pos": "n."
       },
       {
@@ -2477,10 +3407,30 @@
    ]
   },
   {
-   "en": "Its rotor is 252 meters across, and each blade is 123 meters long, longer than a soccer field.",
+   "en": "She wrote that this turbine's rotor is 252 meters across, and that each blade is 123 meters long, longer than a soccer field.",
    "phrases": [
     {
-     "en": "Its rotor is 252 meters across, and each blade is 123 meters long, longer than a soccer field.",
+     "en": "She wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "this turbine's rotor is 252 meters across, and that each blade is 123 meters long, longer than a soccer field.",
      "words": [
       {
        "h": "这台",
@@ -2520,8 +3470,8 @@
       },
       {
        "h": "两百五十二",
-       "py": "liǎngbǎiwǔshíèr",
-       "gl": "two hundred fifty-two",
+       "py": "liǎngbǎiwǔshí'èr",
+       "gl": "two hundred fifty-two (252)",
        "pos": "num."
       },
       {
@@ -2604,10 +3554,30 @@
    ]
   },
   {
-   "en": "It also set a world record for electricity generated in 24 hours, which was entered in Guinness World Records.",
+   "en": "Klara wrote that it also once set a world record for electricity generated in 24 hours, which was entered in Guinness World Records.",
    "phrases": [
     {
-     "en": "It also set a world record for electricity generated in 24 hours, which was entered in Guinness World Records.",
+     "en": "Klara wrote that",
+     "words": [
+      {
+       "h": "克拉拉",
+       "py": "kèlālā",
+       "gl": "Clara",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "it also once set a world record for electricity generated in 24 hours, which was entered in Guinness World Records.",
      "words": [
       {
        "h": "它",
@@ -2692,10 +3662,36 @@
    ]
   },
   {
-   "en": "To protect the turbine blades and towers from seawater corrosion, engineers coat them with a special anti-corrosion layer, and dedicated maintenance vessels go out regularly for inspections.",
+   "en": "She added that to protect the turbine blades and towers from seawater corrosion, engineers coat them with a special anti-corrosion layer, and dedicated maintenance vessels go out regularly for inspections.",
    "phrases": [
     {
-     "en": "To protect the turbine blades and towers from seawater corrosion, engineers coat them with a special anti-corrosion layer, and dedicated maintenance vessels go out regularly for inspections.",
+     "en": "She added that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "to protect the turbine blades and towers from seawater corrosion, engineers coat them with a special anti-corrosion layer, and dedicated maintenance vessels go out regularly for inspections.",
      "words": [
       {
        "h": "为了",
@@ -2861,10 +3857,36 @@
    ]
   },
   {
-   "en": "The growth of the offshore wind industry has also driven related sectors such as ports, shipbuilding, and operations and maintenance services, creating many jobs in coastal areas.",
+   "en": "She went on to write that the growth of the offshore wind industry has also driven related sectors such as ports, shipbuilding, and operations and maintenance services, creating many jobs in coastal areas.",
    "phrases": [
     {
-     "en": "The growth of the offshore wind industry has also driven related sectors such as ports, shipbuilding, and operations and maintenance services, creating many jobs in coastal areas.",
+     "en": "She went on to write that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "接着",
+       "py": "jiēzhe",
+       "gl": "then; next; following that",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the growth of the offshore wind industry has also driven related sectors such as ports, shipbuilding, and operations and maintenance services, creating many jobs in coastal areas.",
      "words": [
       {
        "h": "海上风电",
@@ -3000,10 +4022,36 @@
    ]
   },
   {
-   "en": "Thanks to technological progress and larger scale, the cost of offshore wind power has fallen sharply and is gradually approaching that of conventional coal power.",
+   "en": "She also wrote that thanks to technological progress and larger scale, the cost of offshore wind power has fallen sharply and is gradually approaching that of conventional coal power.",
    "phrases": [
     {
-     "en": "Thanks to technological progress and larger scale, the cost of offshore wind power has fallen sharply and is gradually approaching that of conventional coal power.",
+     "en": "She also wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "thanks to technological progress and larger scale, the cost of offshore wind power has fallen sharply and is gradually approaching that of conventional coal power.",
      "words": [
       {
        "h": "随着",
@@ -3133,10 +4181,30 @@
    ]
   },
   {
-   "en": "Places such as Yangjiang in Guangdong Province and Rudong in Jiangsu Province have also built large-scale offshore wind bases, forming clusters of offshore wind industry that stretch along the coast.",
+   "en": "She wrote that places such as Yangjiang in Guangdong Province and Rudong in Jiangsu Province have also built large-scale offshore wind bases, forming clusters of offshore wind industry that stretch along the coast.",
    "phrases": [
     {
-     "en": "Places such as Yangjiang in Guangdong Province and Rudong in Jiangsu Province have also built large-scale offshore wind bases, forming clusters of offshore wind industry that stretch along the coast.",
+     "en": "She wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "places such as Yangjiang in Guangdong Province and Rudong in Jiangsu Province have also built large-scale offshore wind bases, forming clusters of offshore wind industry that stretch along the coast.",
      "words": [
       {
        "h": "广东省",
@@ -3248,10 +4316,30 @@
    ]
   },
   {
-   "en": "When a super typhoon once made landfall on the Guangdong coast, the local offshore wind farms withstood the gale without any large-scale damage.",
+   "en": "Klara wrote that when a super typhoon once made landfall on the Guangdong coast, the local offshore wind farms withstood the gale without any large-scale damage.",
    "phrases": [
     {
-     "en": "When a super typhoon once made landfall on the Guangdong coast, the local offshore wind farms withstood the gale without any large-scale damage.",
+     "en": "Klara wrote that",
+     "words": [
+      {
+       "h": "克拉拉",
+       "py": "kèlālā",
+       "gl": "Clara",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "when a super typhoon once made landfall on the Guangdong coast, the local offshore wind farms withstood the gale without any large-scale damage.",
      "words": [
       {
        "h": "有一次",
@@ -3381,10 +4469,36 @@
    ]
   },
   {
-   "en": "The alternating current produced by the turbines first goes through an offshore substation that steps up the voltage, and is then sent ashore through high-voltage undersea cables.",
+   "en": "She added that the alternating current produced by the turbines first goes through an offshore substation that steps up the voltage, and is then sent ashore through high-voltage undersea cables.",
    "phrases": [
     {
-     "en": "The alternating current produced by the turbines first goes through an offshore substation that steps up the voltage, and is then sent ashore through high-voltage undersea cables.",
+     "en": "She added that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the alternating current produced by the turbines first goes through an offshore substation that steps up the voltage, and is then sent ashore through high-voltage undersea cables.",
      "words": [
       {
        "h": "风机",
@@ -3487,10 +4601,36 @@
    ]
   },
   {
-   "en": "According to China's plans, offshore wind capacity will keep growing rapidly over the next few years and play an ever more important role in the country's energy mix.",
+   "en": "She went on to write that according to China's plans, offshore wind capacity will keep growing rapidly over the next few years and play an ever more important role in the country's energy mix.",
    "phrases": [
     {
-     "en": "According to China's plans, offshore wind capacity will keep growing rapidly over the next few years and play an ever more important role in the country's energy mix.",
+     "en": "She went on to write that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "接着",
+       "py": "jiēzhe",
+       "gl": "then; next; following that",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "according to China's plans, offshore wind capacity will keep growing rapidly over the next few years and play an ever more important role in the country's energy mix.",
      "words": [
       {
        "h": "根据",
@@ -3638,10 +4778,36 @@
    ]
   },
   {
-   "en": "To install these extra-large turbines, China has built several specialized offshore wind installation vessels with lifting capacities of several thousand tons.",
+   "en": "She also wrote that to install these extra-large turbines, China has built several specialized offshore wind installation vessels with lifting capacities of several thousand tons.",
    "phrases": [
     {
-     "en": "To install these extra-large turbines, China has built several specialized offshore wind installation vessels with lifting capacities of several thousand tons.",
+     "en": "She also wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "to install these extra-large turbines, China has built several specialized offshore wind installation vessels with lifting capacities of several thousand tons.",
      "words": [
       {
        "h": "为了",
@@ -3759,10 +4925,30 @@
    ]
   },
   {
-   "en": "These installation vessels are like mobile factories at sea, hoisting the turbine's tower sections, nacelle, and blades into place one piece at a time.",
+   "en": "She wrote that these installation vessels are like mobile factories at sea, hoisting the turbine's tower sections, nacelle, and blades into place one piece at a time.",
    "phrases": [
     {
-     "en": "These installation vessels are like mobile factories at sea, hoisting the turbine's tower sections, nacelle, and blades into place one piece at a time.",
+     "en": "She wrote that",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "these installation vessels are like mobile factories at sea, hoisting the turbine's tower sections, nacelle, and blades into place one piece at a time.",
      "words": [
       {
        "h": "这些",
@@ -3856,7 +5042,7 @@
       },
       {
        "h": "一件一件地",
-       "py": "yījiànyījiànde",
+       "py": "yījiànyījiàndì",
        "gl": "one by one; piece by piece",
        "pos": "adv."
       },
@@ -3892,10 +5078,30 @@
    ]
   },
   {
-   "en": "Experts believe offshore wind will become one of the key forces helping China reach its goals of peaking carbon emissions and achieving carbon neutrality.",
+   "en": "Klara wrote that experts believe offshore wind will become one of the key forces helping China reach its goals of peaking carbon emissions and achieving carbon neutrality.",
    "phrases": [
     {
-     "en": "Experts believe offshore wind will become one of the key forces helping China reach its goals of peaking carbon emissions and achieving carbon neutrality.",
+     "en": "Klara wrote that",
+     "words": [
+      {
+       "h": "克拉拉",
+       "py": "kèlālā",
+       "gl": "Clara",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "experts believe offshore wind will become one of the key forces helping China reach its goals of peaking carbon emissions and achieving carbon neutrality.",
      "words": [
       {
        "h": "专家",
@@ -3993,9 +5199,473 @@
      ]
     }
    ]
+  },
+  {
+   "en": "At this point Klara closed her laptop and thought: China's total offshore wind capacity is already greater than that of Britain and her own country, Germany, combined, and the cost of this power is gradually approaching that of conventional coal-fired generation. She couldn't help thinking that this industry, born in Europe, is now going through its fastest growth somewhere else, and that this is less a cause for disappointment than a sign that the technology has truly matured and gone global.",
+   "phrases": [
+    {
+     "en": "At this point Klara closed her laptop and thought: China's total offshore wind capacity is already greater than that of Britain and her own country, Germany, combined,",
+     "words": [
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
+       "pos": "v."
+      },
+      {
+       "h": "这里",
+       "py": "zhèli",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "克拉拉",
+       "py": "kèlālā",
+       "gl": "Clara",
+       "pos": "proper noun"
+      },
+      {
+       "h": "合上",
+       "py": "héshàng",
+       "gl": "close; shut",
+       "pos": "v."
+      },
+      {
+       "h": "电脑",
+       "py": "diànnǎo",
+       "gl": "computer",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "心想",
+       "py": "xīnxiǎng",
+       "gl": "think to oneself",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "海上风电",
+       "py": "hǎishàngfēngdiàn",
+       "gl": "offshore wind power",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "总",
+       "py": "zǒng",
+       "gl": "total; overall",
+       "pos": "adj."
+      },
+      {
+       "h": "装机容量",
+       "py": "zhuāngjīróngliàng",
+       "gl": "installed capacity",
+       "pos": "n."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "超过",
+       "py": "chāoguò",
+       "gl": "exceed; surpass; be more than",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "英国",
+       "py": "yīngguó",
+       "gl": "Britain; UK",
+       "pos": "proper noun"
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "祖国",
+       "py": "zǔguó",
+       "gl": "motherland; homeland",
+       "pos": "n."
+      },
+      {
+       "h": "德国",
+       "py": "déguó",
+       "gl": "Germany",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "总和",
+       "py": "zǒnghé",
+       "gl": "sum; total",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and the cost of this power is gradually approaching that of conventional coal-fired generation.",
+     "words": [
+      {
+       "h": "而",
+       "py": "ér",
+       "gl": "but; whereas; and",
+       "pos": "conj."
+      },
+      {
+       "h": "这种",
+       "py": "zhèzhǒng",
+       "gl": "this kind of; such",
+       "pos": "pron."
+      },
+      {
+       "h": "电",
+       "py": "diàn",
+       "gl": "electricity; power",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "成本",
+       "py": "chéngběn",
+       "gl": "cost",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "逐渐",
+       "py": "zhújiàn",
+       "gl": "gradually",
+       "pos": "adv."
+      },
+      {
+       "h": "接近",
+       "py": "jiējìn",
+       "gl": "approach; be close to",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "传统",
+       "py": "chuántǒng",
+       "gl": "traditional; tradition",
+       "pos": "adj."
+      },
+      {
+       "h": "燃煤发电",
+       "py": "ránméifādiàn",
+       "gl": "coal-fired power generation",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "水平",
+       "py": "shuǐpíng",
+       "gl": "level; standard",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "She couldn't help thinking that this industry, born in Europe, is now going through its fastest growth somewhere else, and that this is less a cause for disappointment than a sign that the technology has truly matured and gone global.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "不禁",
+       "py": "bùjīn",
+       "gl": "can't help (doing)",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "起源于",
+       "py": "qǐyuányú",
+       "gl": "originate from; originate in",
+       "pos": "v."
+      },
+      {
+       "h": "欧洲",
+       "py": "ōuzhōu",
+       "gl": "Europe",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "nominalizing particle (…的 the one that…)",
+       "pos": "particle"
+      },
+      {
+       "h": "产业",
+       "py": "chǎnyè",
+       "gl": "industry",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "如今",
+       "py": "rújīn",
+       "gl": "nowadays; now",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "别处",
+       "py": "biéchù",
+       "gl": "elsewhere",
+       "pos": "n."
+      },
+      {
+       "h": "迎来了",
+       "py": "yíngláile",
+       "gl": "ushered in; welcomed",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "发展",
+       "py": "fāzhǎn",
+       "gl": "develop; development",
+       "pos": "n."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "nominalizing particle (…的 the one that…)",
+       "pos": "particle"
+      },
+      {
+       "h": "阶段",
+       "py": "jiēduàn",
+       "gl": "stage; phase",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "与其说",
+       "py": "yǔqíshuō",
+       "gl": "rather than say (与其说…不如说… 'it's not so much … as …')",
+       "pos": "conj."
+      },
+      {
+       "h": "让人",
+       "py": "ràngrén",
+       "gl": "make people; let people",
+       "pos": "v."
+      },
+      {
+       "h": "失落",
+       "py": "shīluò",
+       "gl": "feel lost; disappointed",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不如说",
+       "py": "bùrúshuō",
+       "gl": "rather; it would be truer to say",
+       "pos": "conj."
+      },
+      {
+       "h": "正",
+       "py": "zhèng",
+       "gl": "precisely; just",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "这项",
+       "py": "zhèxiàng",
+       "gl": "this (item, policy, project)",
+       "pos": "pron."
+      },
+      {
+       "h": "技术",
+       "py": "jìshù",
+       "gl": "technology",
+       "pos": "n."
+      },
+      {
+       "h": "真正",
+       "py": "zhēnzhèng",
+       "gl": "truly; really",
+       "pos": "adj."
+      },
+      {
+       "h": "成熟",
+       "py": "chéngshú",
+       "gl": "mature; ripe; well-developed",
+       "pos": "v."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "走向",
+       "py": "zǒuxiàng",
+       "gl": "move toward; head for; lead to",
+       "pos": "v."
+      },
+      {
+       "h": "世界",
+       "py": "shìjiè",
+       "gl": "world",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "nominalizing particle (…的 the one that…)",
+       "pos": "particle"
+      },
+      {
+       "h": "标志",
+       "py": "biāozhì",
+       "gl": "sign; mark; symbol",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
   }
- ],
- "series": "construction",
- "episode": 16,
- "episode_count": 20
+ ]
 }

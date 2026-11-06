@@ -5,13 +5,13 @@
  "title_en": "Good News (4/20): The World's Longest Footbridge",
  "free": false,
  "audio_url": null,
- "note_en": "不但…而且… means \"not only… but also…\": 这座桥不但连接了两座山峰，而且桥面还做成了网格的样子 \"the bridge not only links two mountain peaks, but its deck is also made like a grid.\" Unlike English, Chinese usually keeps both markers, and it often adds 还 or 也 after 而且 for extra emphasis, as here.",
+ "note_en": "一旦…就… means \"once…, (then)…\" and sets a trigger for what follows: 一旦风速达到每小时约一百三十五公里，大桥就会暂时关闭 \"once the wind reaches about 135 kilometers per hour, the bridge closes temporarily.\" English puts the trigger word only in the first clause, but Chinese also needs 就 before the verb of the second clause; 一旦 also hints that the situation is unwelcome or not expected to happen often.",
  "sentences": [
   {
-   "en": "The Czech Republic recently opened a new bridge 721 meters long, now the longest pedestrian suspension bridge in the world.",
+   "en": "The Czech Republic recently opened a new bridge 721 meters long, at the time the longest pedestrian suspension bridge in the world.",
    "phrases": [
     {
-     "en": "The Czech Republic recently opened a new bridge",
+     "en": "The Czech Republic recently opened a new bridge,",
      "words": [
       {
        "h": "捷克",
@@ -67,7 +67,7 @@
      ]
     },
     {
-     "en": "721 meters long, now the longest pedestrian suspension bridge in the world.",
+     "en": "721 meters long, at the time the longest pedestrian suspension bridge in the world.",
      "words": [
       {
        "h": "全长",
@@ -103,10 +103,10 @@
        "pos": "v."
       },
       {
-       "h": "目前",
-       "py": "mùqián",
-       "gl": "currently; at present",
-       "pos": "adv."
+       "h": "当时",
+       "py": "dāngshí",
+       "gl": "at that time; then",
+       "pos": "n."
       },
       {
        "h": "世界上",
@@ -152,7 +152,7 @@
    ]
   },
   {
-   "en": "The bridge not only links two mountain peaks, but its deck is also made like a grid, so as you walk across you can see straight down into the valley below.",
+   "en": "The bridge not only links two mountain peaks, but its deck is also made of steel grating, so you can see straight down into the valley below.",
    "phrases": [
     {
      "en": "The bridge not only links two mountain peaks,",
@@ -217,7 +217,7 @@
      ]
     },
     {
-     "en": "but its deck is also made like a grid,",
+     "en": "but its deck is also made of steel grating, so you can see straight down into the valley below.",
      "words": [
       {
        "h": "而且",
@@ -232,72 +232,61 @@
        "pos": "n."
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition",
-       "pos": "adv."
-      },
-      {
-       "h": "做成",
-       "py": "zuòchéng",
-       "gl": "make into; be made as",
+       "h": "是",
+       "py": "shì",
+       "gl": "be",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
+       "h": "用",
+       "py": "yòng",
+       "gl": "use; with",
+       "pos": "prep."
+      },
+      {
+       "h": "钢",
+       "py": "gāng",
+       "gl": "steel",
+       "pos": "n."
       },
       {
        "h": "网格",
        "py": "wǎnggé",
-       "gl": "grid; mesh; grating",
+       "gl": "grid; grating",
        "pos": "n."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "make",
+       "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "样子",
-       "py": "yàngzi",
-       "gl": "shape; look; appearance",
-       "pos": "n."
+       "gl": "particle in 是…的 (emphasizes how something is done)",
+       "pos": "particle"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so as you walk across, you can see straight down into the valley below.",
-     "words": [
-      {
-       "h": "走",
-       "py": "zǒu",
-       "gl": "walk",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "上面",
-       "py": "shàngmiàn",
-       "gl": "on top; above",
-       "pos": "n."
       },
       {
        "h": "可以",
        "py": "kěyǐ",
        "gl": "can; may; be allowed",
        "pos": "function word"
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); let",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
       },
       {
        "h": "直接",
@@ -320,8 +309,8 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
+       "gl": "attributive particle (特别的工作 a special job)",
+       "pos": "particle"
       },
       {
        "h": "山谷",
@@ -616,10 +605,103 @@
    ]
   },
   {
-   "en": "The bridge quickly became a new tourist attraction, drawing visitors from all over the world and boosting tourism across the whole region.",
+   "en": "One tour guide proudly told visitors that this is the longest pedestrian suspension bridge in the world.",
    "phrases": [
     {
-     "en": "The bridge quickly became a new tourist attraction,",
+     "en": "One tour guide proudly told visitors",
+     "words": [
+      {
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
+       "pos": "measure word"
+      },
+      {
+       "h": "导游",
+       "py": "dǎoyóu",
+       "gl": "tour guide",
+       "pos": "n."
+      },
+      {
+       "h": "自豪",
+       "py": "zìháo",
+       "gl": "proudly",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (认真地 'carefully')",
+       "pos": "function word"
+      },
+      {
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
+       "pos": "v."
+      },
+      {
+       "h": "游客们",
+       "py": "yóukèmen",
+       "gl": "tourists",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that this is the longest pedestrian suspension bridge in the world.",
+     "words": [
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "世界上",
+       "py": "shìjièshàng",
+       "gl": "in the world",
+       "pos": "n."
+      },
+      {
+       "h": "最长",
+       "py": "zuìzhǎng",
+       "gl": "longest; at most",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "function word"
+      },
+      {
+       "h": "人行悬索桥",
+       "py": "rénxíngxuánsuǒqiáo",
+       "gl": "pedestrian suspension bridge",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The bridge quickly became a new tourist attraction and gave a boost to tourism across the whole region.",
+   "phrases": [
+    {
+     "en": "The bridge quickly became a new tourist attraction",
      "words": [
       {
        "h": "这",
@@ -681,52 +763,13 @@
      ]
     },
     {
-     "en": "drawing visitors from all over the world and boosting tourism across the whole region.",
+     "en": "and gave a boost to tourism across the whole region.",
      "words": [
       {
-       "h": "吸引",
-       "py": "xīyǐn",
-       "gl": "attract",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "来自",
-       "py": "láizì",
-       "gl": "come from; originate from",
-       "pos": "v."
-      },
-      {
-       "h": "世界",
-       "py": "shìjiè",
-       "gl": "world",
-       "pos": "n."
-      },
-      {
-       "h": "各地",
-       "py": "gèdì",
-       "gl": "all over; various places",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "游客",
-       "py": "yóukè",
-       "gl": "tourist; visitor",
-       "pos": "n."
-      },
-      {
-       "h": "，"
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
       },
       {
        "h": "带动",
@@ -738,7 +781,7 @@
        "h": "了",
        "py": "le",
        "gl": "particle: completed action / change of state",
-       "pos": "particle"
+       "pos": "function word"
       },
       {
        "h": "整",
@@ -769,162 +812,6 @@
        "py": "lǚyóuyè",
        "gl": "tourism (industry)",
        "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The project shows that people are still pushing the limits, working to connect places that once seemed impossible to link.",
-   "phrases": [
-    {
-     "en": "The project shows that people are still pushing the limits,",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "measure word (general, for people and things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "工程",
-       "py": "gōngchéng",
-       "gl": "project",
-       "pos": "n."
-      },
-      {
-       "h": "证明",
-       "py": "zhèngmíng",
-       "gl": "prove; show",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "人类",
-       "py": "rénlèi",
-       "gl": "humanity; mankind",
-       "pos": "n."
-      },
-      {
-       "h": "依然",
-       "py": "yīrán",
-       "gl": "still; as before",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "particle: action in progress (他在吃 'he is eating')",
-       "pos": "function word"
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "突破",
-       "py": "tūpò",
-       "gl": "break through; breakthrough",
-       "pos": "v."
-      },
-      {
-       "h": "极限",
-       "py": "jíxiàn",
-       "gl": "limit",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "working to connect places that once seemed impossible to link.",
-     "words": [
-      {
-       "h": "努力",
-       "py": "nǔlì",
-       "gl": "work hard; try hard",
-       "pos": "v."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把球打进水里 hit the ball into the water)",
-       "pos": "prep."
-      },
-      {
-       "h": "过去",
-       "py": "guòqù",
-       "gl": "past; the past",
-       "pos": "n."
-      },
-      {
-       "h": "看起来",
-       "py": "kànqǐlái",
-       "gl": "look; seem; appear",
-       "pos": "v."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "可能",
-       "py": "kěnéng",
-       "gl": "possible; maybe",
-       "pos": "adv."
-      },
-      {
-       "h": "连接",
-       "py": "liánjiē",
-       "gl": "connect; link",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "地方",
-       "py": "dìfāng",
-       "gl": "place",
-       "pos": "n."
-      },
-      {
-       "h": "连",
-       "py": "lián",
-       "gl": "even (连…都… even); connect",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "一起",
-       "py": "yìqǐ",
-       "gl": "together",
-       "pos": "adv."
       },
       {
        "h": "。"
@@ -1143,7 +1030,7 @@
    "en": "The Sky Bridge officially opened to the public on May 13, 2022, after about a year of construction.",
    "phrases": [
     {
-     "en": "The Sky Bridge officially opened to the public on May 13, 2022;",
+     "en": "The Sky Bridge officially opened to the public on May 13, 2022,",
      "words": [
       {
        "h": "天空之桥",
@@ -1269,7 +1156,7 @@
       },
       {
        "h": "一",
-       "py": "yī",
+       "py": "yì",
        "gl": "one",
        "pos": "num."
       },
@@ -1660,7 +1547,7 @@
       },
       {
        "h": "一",
-       "py": "yī",
+       "py": "yì",
        "gl": "one",
        "pos": "num."
       },
@@ -1849,7 +1736,7 @@
       },
       {
        "h": "一",
-       "py": "yī",
+       "py": "yì",
        "gl": "one",
        "pos": "num."
       },
@@ -2080,7 +1967,7 @@
       },
       {
        "h": "一",
-       "py": "yī",
+       "py": "yí",
        "gl": "one",
        "pos": "num."
       },
@@ -2370,7 +2257,7 @@
       },
       {
        "h": "一",
-       "py": "yī",
+       "py": "yí",
        "gl": "one",
        "pos": "num."
       },
@@ -2483,11 +2370,140 @@
    ]
   },
   {
-   "en": "Guinness World Records then awarded the Hungarian bridge the title of \"longest traditional pedestrian suspension bridge span,\" but that refers to the span between the two towers, not the bridge's total length.",
+   "en": "Later, a reporter asked the guide, \"So can this bridge still count as the world's number one?\"",
    "phrases": [
     {
-     "en": "Guinness World Records then awarded the Hungarian bridge the title of \"longest traditional pedestrian suspension bridge span,\"",
+     "en": "Later, a reporter asked the guide,",
      "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
+       "pos": "measure word"
+      },
+      {
+       "h": "记者",
+       "py": "jìzhě",
+       "gl": "reporter; journalist",
+       "pos": "n."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "导游",
+       "py": "dǎoyóu",
+       "gl": "tour guide",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "\"So can this bridge still count as the world's number one?\"",
+     "words": [
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "then; in that case",
+       "pos": "pron."
+      },
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "n."
+      },
+      {
+       "h": "这座桥",
+       "py": "zhèzuòqiáo",
+       "gl": "this bridge",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "function word"
+      },
+      {
+       "h": "算是",
+       "py": "suànshì",
+       "gl": "count as; can be considered",
+       "pos": "v."
+      },
+      {
+       "h": "世界第一",
+       "py": "shìjièdìyī",
+       "gl": "world number one; first in the world",
+       "pos": "num."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "function word"
+      },
+      {
+       "h": "？"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The guide laughed and explained that Guinness World Records has indeed given that title to the Hungarian bridge, so the Sky Bridge now ranks only second in the world, but in his eyes, it's still the most beautiful one.",
+   "phrases": [
+    {
+     "en": "The guide laughed and explained that Guinness World Records has indeed given that title to the Hungarian bridge,",
+     "words": [
+      {
+       "h": "导游",
+       "py": "dǎoyóu",
+       "gl": "tour guide",
+       "pos": "n."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "function word"
+      },
+      {
+       "h": "解释说",
+       "py": "jiěshìshuō",
+       "gl": "explain; explained",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "吉尼斯世界纪录",
        "py": "jínísīshìjièjìlù",
@@ -2495,9 +2511,15 @@
        "pos": "proper noun"
       },
       {
-       "h": "随后",
-       "py": "suíhòu",
-       "gl": "soon after; then",
+       "h": "确实",
+       "py": "quèshí",
+       "gl": "indeed; really",
+       "pos": "adv."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
        "pos": "adv."
       },
       {
@@ -2507,72 +2529,21 @@
        "pos": "prep."
       },
       {
-       "h": "\""
-      },
-      {
-       "h": "跨度",
-       "py": "kuàdù",
-       "gl": "span",
-       "pos": "n."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "长",
-       "py": "zhǎng",
-       "gl": "long",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "传统",
-       "py": "chuántǒng",
-       "gl": "traditional; tradition",
-       "pos": "adj."
-      },
-      {
-       "h": "人行",
-       "py": "rénxíng",
-       "gl": "pedestrian",
-       "pos": "adj."
-      },
-      {
-       "h": "悬索桥",
-       "py": "xuánsuǒqiáo",
-       "gl": "suspension bridge",
-       "pos": "n."
-      },
-      {
-       "h": "\""
-      },
-      {
        "h": "这个",
        "py": "zhège",
-       "gl": "this; this one",
+       "gl": "this",
        "pos": "pron."
       },
       {
        "h": "称号",
        "py": "chēnghào",
-       "gl": "title; honorary title",
+       "gl": "title (honorary)",
        "pos": "n."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "授予",
-       "py": "shòuyǔ",
-       "gl": "award; confer",
+       "h": "给",
+       "py": "gěi",
+       "gl": "give",
        "pos": "v."
       },
       {
@@ -2588,15 +2559,9 @@
        "pos": "proper noun"
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
        "pos": "pron."
       },
       {
@@ -2617,13 +2582,84 @@
      ]
     },
     {
-     "en": "but that refers to the span between the two towers, not the bridge's total length.",
+     "en": "so the Sky Bridge now ranks only second in the world,",
      "words": [
       {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
+       "h": "天空之桥",
+       "py": "tiānkōngzhīqiáo",
+       "gl": "Sky Bridge",
+       "pos": "proper noun"
+      },
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "n."
+      },
+      {
+       "h": "只能",
+       "py": "zhǐnéng",
+       "gl": "can only",
+       "pos": "v."
+      },
+      {
+       "h": "排",
+       "py": "pái",
+       "gl": "rank; be placed",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "at; in",
+       "pos": "prep."
+      },
+      {
+       "h": "世界",
+       "py": "shìjiè",
+       "gl": "world",
+       "pos": "n."
+      },
+      {
+       "h": "第二",
+       "py": "dì'èr",
+       "gl": "second",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but in his eyes, it's still the most beautiful one.",
+     "words": [
+      {
+       "h": "不过",
+       "py": "búguò",
+       "gl": "but; however",
        "pos": "conj."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "心里",
+       "py": "xīnli",
+       "gl": "in one's heart; in one's mind",
+       "pos": "n."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "它",
@@ -2632,16 +2668,10 @@
        "pos": "pron."
       },
       {
-       "h": "指",
-       "py": "zhǐ",
-       "gl": "refer to; mean; point at",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
+       "h": "仍然",
+       "py": "réngrán",
+       "gl": "still; yet",
+       "pos": "adv."
       },
       {
        "h": "是",
@@ -2650,9 +2680,27 @@
        "pos": "v."
       },
       {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
+       "h": "最",
+       "py": "zuì",
+       "gl": "most",
+       "pos": "adv."
+      },
+      {
+       "h": "美",
+       "py": "měi",
+       "gl": "beautiful",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "function word"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
        "pos": "num."
       },
       {
@@ -2660,258 +2708,6 @@
        "py": "zuò",
        "gl": "measure word for cities, mountains, buildings, bridges",
        "pos": "measure word"
-      },
-      {
-       "h": "桥塔",
-       "py": "qiáotǎ",
-       "gl": "bridge tower; pylon",
-       "pos": "n."
-      },
-      {
-       "h": "之间",
-       "py": "zhījiān",
-       "gl": "between; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "跨度",
-       "py": "kuàdù",
-       "gl": "span",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "particle"
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "桥",
-       "py": "qiáo",
-       "gl": "bridge",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "总长度",
-       "py": "zǒngzhǎngdù",
-       "gl": "total length",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In other words, the Sky Bridge and Hungary's new bridge each hold a world record in a different category, and both remain engineering achievements worth noting in the history of bridge building.",
-   "phrases": [
-    {
-     "en": "In other words, the Sky Bridge and Hungary's new bridge each hold a world record in a different category,",
-     "words": [
-      {
-       "h": "也就是说",
-       "py": "yějiùshìshuō",
-       "gl": "that is to say; in other words",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "天空之桥",
-       "py": "tiānkōngzhīqiáo",
-       "gl": "Sky Bridge",
-       "pos": "proper noun"
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "匈牙利",
-       "py": "xiōngyálì",
-       "gl": "Hungary",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "桥",
-       "py": "qiáo",
-       "gl": "bridge",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "分别",
-       "py": "fēnbié",
-       "gl": "respectively; separately",
-       "pos": "adv."
-      },
-      {
-       "h": "保持",
-       "py": "bǎochí",
-       "gl": "hold (a record)",
-       "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "function word"
-      },
-      {
-       "h": "不同",
-       "py": "bùtóng",
-       "gl": "different",
-       "pos": "adj."
-      },
-      {
-       "h": "类别",
-       "py": "lèibié",
-       "gl": "category; type",
-       "pos": "n."
-      },
-      {
-       "h": "下",
-       "py": "xià",
-       "gl": "under (conditions); in (a context)",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "世界纪录",
-       "py": "shìjièjìlù",
-       "gl": "world record",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and both remain engineering achievements worth noting in the history of bridge building.",
-     "words": [
-      {
-       "h": "两者",
-       "py": "liǎngzhě",
-       "gl": "both; the two",
-       "pos": "pron."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both; even; already",
-       "pos": "adv."
-      },
-      {
-       "h": "仍然",
-       "py": "réngrán",
-       "gl": "still; as before",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "桥梁",
-       "py": "qiáoliáng",
-       "gl": "bridge",
-       "pos": "n."
-      },
-      {
-       "h": "史",
-       "py": "shǐ",
-       "gl": "history",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on; in (after a noun: 桌子上 on the table; 历史上 in history)",
-       "pos": "postposition"
-      },
-      {
-       "h": "值得",
-       "py": "zhíde",
-       "gl": "be worth; deserve",
-       "pos": "v."
-      },
-      {
-       "h": "关注",
-       "py": "guānzhù",
-       "gl": "attention; interest; follow (closely)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "工程",
-       "py": "gōngchéng",
-       "gl": "engineering",
-       "pos": "n."
-      },
-      {
-       "h": "成就",
-       "py": "chéngjiù",
-       "gl": "achievement",
-       "pos": "n."
       },
       {
        "h": "。"
@@ -3805,6 +3601,162 @@
        "py": "mǐ",
        "gl": "meter",
        "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The project shows that people are still pushing the limits, working to connect places that once seemed impossible to link.",
+   "phrases": [
+    {
+     "en": "The project shows that people are still pushing the limits,",
+     "words": [
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "measure word (general, for people and things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "工程",
+       "py": "gōngchéng",
+       "gl": "project",
+       "pos": "n."
+      },
+      {
+       "h": "证明",
+       "py": "zhèngmíng",
+       "gl": "prove; show",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "人类",
+       "py": "rénlèi",
+       "gl": "humanity; mankind",
+       "pos": "n."
+      },
+      {
+       "h": "依然",
+       "py": "yīrán",
+       "gl": "still; as before",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "particle: action in progress (他在吃 'he is eating')",
+       "pos": "function word"
+      },
+      {
+       "h": "不断",
+       "py": "bùduàn",
+       "gl": "continuously; constantly",
+       "pos": "adv."
+      },
+      {
+       "h": "突破",
+       "py": "tūpò",
+       "gl": "break through; breakthrough",
+       "pos": "v."
+      },
+      {
+       "h": "极限",
+       "py": "jíxiàn",
+       "gl": "limit",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "working to connect places that once seemed impossible to link.",
+     "words": [
+      {
+       "h": "努力",
+       "py": "nǔlì",
+       "gl": "work hard; try hard",
+       "pos": "v."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把球打进水里 hit the ball into the water)",
+       "pos": "prep."
+      },
+      {
+       "h": "过去",
+       "py": "guòqù",
+       "gl": "past; the past",
+       "pos": "n."
+      },
+      {
+       "h": "看起来",
+       "py": "kànqǐlái",
+       "gl": "look; seem; appear",
+       "pos": "v."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "可能",
+       "py": "kěnéng",
+       "gl": "possible; maybe",
+       "pos": "adv."
+      },
+      {
+       "h": "连接",
+       "py": "liánjiē",
+       "gl": "connect; link",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "attributive particle (特别的工作 a special job)",
+       "pos": "particle"
+      },
+      {
+       "h": "地方",
+       "py": "dìfāng",
+       "gl": "place",
+       "pos": "n."
+      },
+      {
+       "h": "连",
+       "py": "lián",
+       "gl": "even (连…都… even); connect",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
       },
       {
        "h": "。"
