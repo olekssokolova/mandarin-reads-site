@@ -1,0 +1,5169 @@
+{
+ "id": "aitopics02",
+ "level": 6,
+ "title_zh": "无人驾驶汽车",
+ "title_en": "Artificial Intelligence (2/20): A Driverless Car in the City",
+ "free": false,
+ "audio_url": null,
+ "note_en": "地 (de) turns an adjective into an adverb describing how something is done, much like English -ly: 安静地穿过繁忙的街道 \"quietly passes through the busy streets.\" It sounds exactly like 的, but 的 links a description to a noun (繁忙的街道), while 地 links it to a verb. A third de, 得, comes after the verb: 车开得又平稳又谨慎 \"the car drove smoothly and carefully.\"",
+ "sentences": [
+  {
+   "en": "On the weekend, Li Ming gets into a driverless car to head downtown.",
+   "phrases": [
+    {
+     "en": "On the weekend, Li Ming gets into a driverless car",
+     "words": [
+      {
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "坐进",
+       "py": "zuòjìn",
+       "gl": "get into; sit down in",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "辆",
+       "py": "liàng",
+       "gl": "measure word for vehicles",
+       "pos": "measure word"
+      },
+      {
+       "h": "无人驾驶",
+       "py": "wúrénjiàshǐ",
+       "gl": "driverless; self-driving",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "汽车",
+       "py": "qìchē",
+       "gl": "car; motor vehicle",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "to head downtown.",
+     "words": [
+      {
+       "h": "准备",
+       "py": "zhǔnbèi",
+       "gl": "prepare; get ready",
+       "pos": "v."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to); go (to do something)",
+       "pos": "v."
+      },
+      {
+       "h": "市中心",
+       "py": "shìzhōngxīn",
+       "gl": "city center; downtown",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "There's no driver in the car, yet the steering wheel turns by itself as the car glides quietly through the busy streets.",
+   "phrases": [
+    {
+     "en": "There's no driver in the car,",
+     "words": [
+      {
+       "h": "汽车",
+       "py": "qìchē",
+       "gl": "car; motor vehicle",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (a surface: 床上 on the bed)",
+       "pos": "postposition"
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "司机",
+       "py": "sījī",
+       "gl": "driver",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "yet the steering wheel turns by itself",
+     "words": [
+      {
+       "h": "方向盘",
+       "py": "fāngxiàngpán",
+       "gl": "steering wheel",
+       "pos": "n."
+      },
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "转动",
+       "py": "zhuàndòng",
+       "gl": "turn; rotate",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "as the car glides quietly through the busy streets.",
+     "words": [
+      {
+       "h": "安静",
+       "py": "ānjìng",
+       "gl": "quiet; calm",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (认真地 'carefully')",
+       "pos": "function word"
+      },
+      {
+       "h": "穿过",
+       "py": "chuānguò",
+       "gl": "pass through; cross",
+       "pos": "v."
+      },
+      {
+       "h": "繁忙",
+       "py": "fánmáng",
+       "gl": "busy",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "街道",
+       "py": "jiēdào",
+       "gl": "street; neighborhood",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The car's system uses cameras and sensors to read the traffic conditions in real time and automatically steer clear of pedestrians and cyclists.",
+   "phrases": [
+    {
+     "en": "The car's system uses cameras and sensors",
+     "words": [
+      {
+       "h": "车",
+       "py": "chē",
+       "gl": "car; vehicle; bus",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (a surface: 床上 on the bed)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "系统",
+       "py": "xìtǒng",
+       "gl": "system",
+       "pos": "n."
+      },
+      {
+       "h": "利用",
+       "py": "lìyòng",
+       "gl": "use; make use of; take advantage of",
+       "pos": "v."
+      },
+      {
+       "h": "摄像头",
+       "py": "shèxiàngtóu",
+       "gl": "camera; webcam",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and; with",
+       "pos": "conj."
+      },
+      {
+       "h": "传感器",
+       "py": "chuángǎnqì",
+       "gl": "sensor",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "to read the traffic conditions in real time",
+     "words": [
+      {
+       "h": "实时",
+       "py": "shíshí",
+       "gl": "real-time",
+       "pos": "adj."
+      },
+      {
+       "h": "判断",
+       "py": "pànduàn",
+       "gl": "judge; determine",
+       "pos": "v."
+      },
+      {
+       "h": "路况",
+       "py": "lùkuàng",
+       "gl": "road conditions; traffic",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and automatically steer clear of pedestrians and cyclists.",
+     "words": [
+      {
+       "h": "自动",
+       "py": "zìdòng",
+       "gl": "automatic",
+       "pos": "adj."
+      },
+      {
+       "h": "避开",
+       "py": "bìkāi",
+       "gl": "avoid; stay away from",
+       "pos": "v."
+      },
+      {
+       "h": "行人",
+       "py": "xíngrén",
+       "gl": "pedestrian; traveler",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and; with",
+       "pos": "conj."
+      },
+      {
+       "h": "自行车",
+       "py": "zìxíngchē",
+       "gl": "bicycle; bike",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At first Li Ming was a little nervous, worried the system might make a mistake, but he soon found the car drove both smoothly and carefully.",
+   "phrases": [
+    {
+     "en": "At first Li Ming was a little nervous,",
+     "words": [
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "一开始",
+       "py": "yìkāishǐ",
+       "gl": "at first; in the beginning",
+       "pos": "adv."
+      },
+      {
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
+      },
+      {
+       "h": "紧张",
+       "py": "jǐnzhāng",
+       "gl": "nervous; tense",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "worried the system might make a mistake,",
+     "words": [
+      {
+       "h": "担心",
+       "py": "dānxīn",
+       "gl": "worry",
+       "pos": "v."
+      },
+      {
+       "h": "系统",
+       "py": "xìtǒng",
+       "gl": "system",
+       "pos": "n."
+      },
+      {
+       "h": "会不会",
+       "py": "huìbúhuì",
+       "gl": "whether or not; could it (会不会 will it or not)",
+       "pos": "v."
+      },
+      {
+       "h": "出错",
+       "py": "chūcuò",
+       "gl": "make a mistake; go wrong",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but he soon found the car drove both smoothly and carefully.",
+     "words": [
+      {
+       "h": "但",
+       "py": "dàn",
+       "gl": "but",
+       "pos": "conj."
+      },
+      {
+       "h": "很快",
+       "py": "hěnkuài",
+       "gl": "quickly; soon",
+       "pos": "adv."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out; notice",
+       "pos": "v."
+      },
+      {
+       "h": "车",
+       "py": "chē",
+       "gl": "car; vehicle; bus",
+       "pos": "n."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; turn on; drive; start (a business); prescribe; hold (a meeting)",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its degree or result (发展得很快 develop fast)",
+       "pos": "function word"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "平稳",
+       "py": "píngwěn",
+       "gl": "steady; stable; smooth",
+       "pos": "adj."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "谨慎",
+       "py": "jǐnshèn",
+       "gl": "cautious; prudent; caution",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Experts say that driverless cars can reduce accidents caused by fatigue or distraction.",
+   "phrases": [
+    {
+     "en": "Experts say",
+     "words": [
+      {
+       "h": "专家",
+       "py": "zhuānjiā",
+       "gl": "expert; specialist",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that driverless cars can reduce accidents caused by fatigue or distraction.",
+     "words": [
+      {
+       "h": "无人驾驶",
+       "py": "wúrénjiàshǐ",
+       "gl": "driverless; self-driving",
+       "pos": "adj."
+      },
+      {
+       "h": "汽车",
+       "py": "qìchē",
+       "gl": "car; motor vehicle",
+       "pos": "n."
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may; be allowed",
+       "pos": "v."
+      },
+      {
+       "h": "减少",
+       "py": "jiǎnshǎo",
+       "gl": "reduce; cut down; decrease",
+       "pos": "v."
+      },
+      {
+       "h": "因",
+       "py": "yīn",
+       "gl": "because of; due to",
+       "pos": "prep."
+      },
+      {
+       "h": "疲劳",
+       "py": "píláo",
+       "gl": "fatigue; tiredness",
+       "pos": "n."
+      },
+      {
+       "h": "或",
+       "py": "huò",
+       "gl": "or",
+       "pos": "conj."
+      },
+      {
+       "h": "分心",
+       "py": "fēnxīn",
+       "gl": "get distracted",
+       "pos": "v."
+      },
+      {
+       "h": "造成",
+       "py": "zàochéng",
+       "gl": "cause; bring about",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "事故",
+       "py": "shìgù",
+       "gl": "accident",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But some people worry: if the system breaks down, who should be held responsible?",
+   "phrases": [
+    {
+     "en": "But some people worry:",
+     "words": [
+      {
+       "h": "不过",
+       "py": "búguò",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "担心",
+       "py": "dānxīn",
+       "gl": "worry",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "if the system breaks down,",
+     "words": [
+      {
+       "h": "一旦",
+       "py": "yídàn",
+       "gl": "once; in case; as soon as",
+       "pos": "conj."
+      },
+      {
+       "h": "系统",
+       "py": "xìtǒng",
+       "gl": "system",
+       "pos": "n."
+      },
+      {
+       "h": "出现",
+       "py": "chūxiàn",
+       "gl": "appear; emerge",
+       "pos": "v."
+      },
+      {
+       "h": "故障",
+       "py": "gùzhàng",
+       "gl": "breakdown; malfunction; fault",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "who should be held responsible?",
+     "words": [
+      {
+       "h": "责任",
+       "py": "zérèn",
+       "gl": "responsibility; duty",
+       "pos": "n."
+      },
+      {
+       "h": "应该",
+       "py": "yīnggāi",
+       "gl": "should; ought to; probably",
+       "pos": "v."
+      },
+      {
+       "h": "由",
+       "py": "yóu",
+       "gl": "by (marks the agent)",
+       "pos": "prep."
+      },
+      {
+       "h": "谁",
+       "py": "shéi",
+       "gl": "who; anyone; everyone",
+       "pos": "question word"
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "(before a verb) indicates who takes on the action (由他来做 he will do it)",
+       "pos": "function word"
+      },
+      {
+       "h": "承担",
+       "py": "chéngdān",
+       "gl": "take on; bear (a responsibility)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Li Ming thinks city traffic may well become safer in the future thanks to technology like this, but people still need time to get used to it.",
+   "phrases": [
+    {
+     "en": "Li Ming thinks city traffic may well become safer in the future thanks to technology like this,",
+     "words": [
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "think; want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也许",
+       "py": "yěxǔ",
+       "gl": "perhaps; maybe",
+       "pos": "adv."
+      },
+      {
+       "h": "将来",
+       "py": "jiānglái",
+       "gl": "future; in the future",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "交通",
+       "py": "jiāotōng",
+       "gl": "traffic; transportation",
+       "pos": "n."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "因为",
+       "py": "yīnwèi",
+       "gl": "because",
+       "pos": "conj."
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "like this; this way; such",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "技术",
+       "py": "jìshù",
+       "gl": "technology",
+       "pos": "n."
+      },
+      {
+       "h": "变得",
+       "py": "biànde",
+       "gl": "become",
+       "pos": "v."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "even more; more",
+       "pos": "adv."
+      },
+      {
+       "h": "安全",
+       "py": "ānquán",
+       "gl": "safe; safety",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but people still need time to get used to it.",
+     "words": [
+      {
+       "h": "但",
+       "py": "dàn",
+       "gl": "but",
+       "pos": "conj."
+      },
+      {
+       "h": "人们",
+       "py": "rénmen",
+       "gl": "people",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "需要",
+       "py": "xūyào",
+       "gl": "need; require",
+       "pos": "v."
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to); go (to do something)",
+       "pos": "v."
+      },
+      {
+       "h": "适应",
+       "py": "shìyìng",
+       "gl": "adapt; get used to",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Li Ming knows that companies such as Baidu and Pony.ai have already launched commercial driverless taxi services in Beijing, Wuhan, and other cities.",
+   "phrases": [
+    {
+     "en": "Li Ming knows",
+     "words": [
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that companies such as Baidu and Pony.ai have already launched commercial driverless taxi services in Beijing, Wuhan, and other cities.",
+     "words": [
+      {
+       "h": "百度",
+       "py": "bǎidù",
+       "gl": "Baidu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "小马智行",
+       "py": "xiǎomǎzhìxíng",
+       "gl": "Pony.ai (company)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "function word"
+      },
+      {
+       "h": "企业",
+       "py": "qǐyè",
+       "gl": "enterprise; company; business",
+       "pos": "n."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "北京",
+       "py": "běijīng",
+       "gl": "Beijing",
+       "pos": "proper noun"
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "武汉",
+       "py": "wǔhàn",
+       "gl": "Wuhan",
+       "pos": "proper noun"
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "function word"
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "开展",
+       "py": "kāizhǎn",
+       "gl": "carry out; launch",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "无人驾驶",
+       "py": "wúrénjiàshǐ",
+       "gl": "driverless; self-driving",
+       "pos": "adj."
+      },
+      {
+       "h": "出租车",
+       "py": "chūzūchē",
+       "gl": "taxi",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "商业化",
+       "py": "shāngyèhuà",
+       "gl": "commercialization",
+       "pos": "n."
+      },
+      {
+       "h": "运营",
+       "py": "yùnyíng",
+       "gl": "run; operate (business, community)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Under current Chinese law, if an accident occurs, the carmaker and the autonomous-driving system supplier must bear the corresponding legal liability.",
+   "phrases": [
+    {
+     "en": "Under current Chinese law, if an accident occurs, the carmaker and the autonomous-driving system supplier must bear the corresponding legal liability.",
+     "words": [
+      {
+       "h": "目前",
+       "py": "mùqián",
+       "gl": "currently; at present",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "法律",
+       "py": "fǎlǜ",
+       "gl": "law",
+       "pos": "n."
+      },
+      {
+       "h": "规定",
+       "py": "guīdìng",
+       "gl": "regulation; rule; stipulate; prescribe; prescribed; set",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一旦",
+       "py": "yídàn",
+       "gl": "once; in case; as soon as",
+       "pos": "conj."
+      },
+      {
+       "h": "发生",
+       "py": "fāshēng",
+       "gl": "happen; occur",
+       "pos": "v."
+      },
+      {
+       "h": "事故",
+       "py": "shìgù",
+       "gl": "accident",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "车企",
+       "py": "chēqǐ",
+       "gl": "carmaker; automaker",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "自动驾驶",
+       "py": "zìdòngjiàshǐ",
+       "gl": "self-driving; autonomous driving",
+       "pos": "n."
+      },
+      {
+       "h": "系统",
+       "py": "xìtǒng",
+       "gl": "system",
+       "pos": "n."
+      },
+      {
+       "h": "供应商",
+       "py": "gōngyìngshāng",
+       "gl": "supplier",
+       "pos": "n."
+      },
+      {
+       "h": "需要",
+       "py": "xūyào",
+       "gl": "need; require; need to; have to",
+       "pos": "v."
+      },
+      {
+       "h": "承担",
+       "py": "chéngdān",
+       "gl": "take on; bear (a responsibility)",
+       "pos": "v."
+      },
+      {
+       "h": "相应",
+       "py": "xiāngyìng",
+       "gl": "corresponding; accordingly",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "法律",
+       "py": "fǎlǜ",
+       "gl": "law",
+       "pos": "n."
+      },
+      {
+       "h": "责任",
+       "py": "zérèn",
+       "gl": "responsibility; duty",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A few months later, Li Ming rode in a driverless car from the same company again, this time to the airport, a longer trip than before.",
+   "phrases": [
+    {
+     "en": "A few months later, Li Ming rode in a driverless car from the same company again,",
+     "words": [
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "pass (of time)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "几",
+       "py": "jǐ",
+       "gl": "several; a few",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "measure word (general, for people and things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "月",
+       "py": "yuè",
+       "gl": "month; moon",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
+       "pos": "v."
+      },
+      {
+       "h": "同一",
+       "py": "tóngyī",
+       "gl": "the same",
+       "pos": "adj."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "measure word for shops, businesses; home; family",
+       "pos": "measure word"
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "无人驾驶",
+       "py": "wúrénjiàshǐ",
+       "gl": "driverless; self-driving",
+       "pos": "adj."
+      },
+      {
+       "h": "汽车",
+       "py": "qìchē",
+       "gl": "car; motor vehicle",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "this time to the airport,",
+     "words": [
+      {
+       "h": "这次",
+       "py": "zhècì",
+       "gl": "this time",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to); go (to do something)",
+       "pos": "v."
+      },
+      {
+       "h": "机场",
+       "py": "jīchǎng",
+       "gl": "airport",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "a longer trip than before.",
+     "words": [
+      {
+       "h": "路程",
+       "py": "lùchéng",
+       "gl": "journey; distance",
+       "pos": "n."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "上次",
+       "py": "shàngcì",
+       "gl": "last time",
+       "pos": "n."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "远",
+       "py": "yuǎn",
+       "gl": "far; distant",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the highway it started to pour, and rain beat against the windshield. Li Ming worried the wet weather might affect how the system read the road.",
+   "phrases": [
+    {
+     "en": "On the highway it started to pour,",
+     "words": [
+      {
+       "h": "高速公路",
+       "py": "gāosùgōnglù",
+       "gl": "expressway; highway",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "fall (of rain, snow)",
+       "pos": "v."
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "rise; get up; start (complement: 承担起 take on, 回忆起 recall); (从…起) starting from",
+       "pos": "function word"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "大雨",
+       "py": "dàyǔ",
+       "gl": "heavy rain",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and rain beat against the windshield.",
+     "words": [
+      {
+       "h": "雨水",
+       "py": "yǔshuǐ",
+       "gl": "rainwater",
+       "pos": "n."
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "hit; play (ball games); make (a phone call)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "挡风玻璃",
+       "py": "dǎngfēngbōlí",
+       "gl": "windshield",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "Li Ming worried the wet weather might affect how the system read the road.",
+     "words": [
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "担心",
+       "py": "dānxīn",
+       "gl": "worry",
+       "pos": "v."
+      },
+      {
+       "h": "雨天",
+       "py": "yǔtiān",
+       "gl": "rainy day",
+       "pos": "n."
+      },
+      {
+       "h": "会不会",
+       "py": "huìbúhuì",
+       "gl": "whether or not; could it (会不会 will it or not)",
+       "pos": "v."
+      },
+      {
+       "h": "影响",
+       "py": "yǐngxiǎng",
+       "gl": "influence; affect",
+       "pos": "v."
+      },
+      {
+       "h": "系统",
+       "py": "xìtǒng",
+       "gl": "system",
+       "pos": "n."
+      },
+      {
+       "h": "判断",
+       "py": "pànduàn",
+       "gl": "judge; determine; judgment",
+       "pos": "v."
+      },
+      {
+       "h": "路况",
+       "py": "lùkuàng",
+       "gl": "road conditions; traffic",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "To his surprise, the car still held its speed smoothly, the wipers adjusted their speed on their own, and it stayed steadily in its lane.",
+   "phrases": [
+    {
+     "en": "To his surprise,",
+     "words": [
+      {
+       "h": "没想到",
+       "py": "méixiǎngdào",
+       "gl": "didn't expect; never thought",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the car still held its speed smoothly,",
+     "words": [
+      {
+       "h": "车子",
+       "py": "chēzi",
+       "gl": "car; vehicle",
+       "pos": "n."
+      },
+      {
+       "h": "依然",
+       "py": "yīrán",
+       "gl": "still; as before",
+       "pos": "adv."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "平稳",
+       "py": "píngwěn",
+       "gl": "steady; stable; smooth",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "adverbial particle (认真地 'carefully')",
+       "pos": "function word"
+      },
+      {
+       "h": "保持",
+       "py": "bǎochí",
+       "gl": "maintain; keep",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "function word"
+      },
+      {
+       "h": "车速",
+       "py": "chēsù",
+       "gl": "vehicle speed",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the wipers adjusted their speed on their own,",
+     "words": [
+      {
+       "h": "雨刷",
+       "py": "yǔshuā",
+       "gl": "windshield wiper",
+       "pos": "n."
+      },
+      {
+       "h": "自动",
+       "py": "zìdòng",
+       "gl": "automatically; automatic",
+       "pos": "adv."
+      },
+      {
+       "h": "调整",
+       "py": "tiáozhěng",
+       "gl": "adjust; tune",
+       "pos": "v."
+      },
+      {
+       "h": "频率",
+       "py": "pínlǜ",
+       "gl": "frequency",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and it stayed steadily in its lane.",
+     "words": [
+      {
+       "h": "稳稳",
+       "py": "wěnwěn",
+       "gl": "steadily; firmly",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "adverbial particle (认真地 'carefully')",
+       "pos": "function word"
+      },
+      {
+       "h": "沿着",
+       "py": "yánzhe",
+       "gl": "along",
+       "pos": "prep."
+      },
+      {
+       "h": "车道",
+       "py": "chēdào",
+       "gl": "lane (of a road)",
+       "pos": "n."
+      },
+      {
+       "h": "行驶",
+       "py": "xíngshǐ",
+       "gl": "drive; travel (of vehicles)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The system also slowed down in advance and politely made room for a big truck next to it that wanted to change lanes, handling it more carefully than many veteran drivers.",
+   "phrases": [
+    {
+     "en": "The system also slowed down in advance",
+     "words": [
+      {
+       "h": "系统",
+       "py": "xìtǒng",
+       "gl": "system",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "提前",
+       "py": "tíqián",
+       "gl": "in advance; ahead of time",
+       "pos": "adv."
+      },
+      {
+       "h": "减速",
+       "py": "jiǎnsù",
+       "gl": "slow down; decelerate",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and politely made room for a big truck next to it that wanted to change lanes,",
+     "words": [
+      {
+       "h": "温和",
+       "py": "wēnhé",
+       "gl": "gentle; mild",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "adverbial particle (认真地 'carefully')",
+       "pos": "function word"
+      },
+      {
+       "h": "让出",
+       "py": "ràngchū",
+       "gl": "give up; yield (space)",
+       "pos": "v."
+      },
+      {
+       "h": "空间",
+       "py": "kōngjiān",
+       "gl": "space",
+       "pos": "n."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
+      },
+      {
+       "h": "想要",
+       "py": "xiǎngyào",
+       "gl": "want",
+       "pos": "v."
+      },
+      {
+       "h": "变道",
+       "py": "biàndào",
+       "gl": "change lanes",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "大卡车",
+       "py": "dàkǎchē",
+       "gl": "big truck",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "handling it more carefully than many veteran drivers.",
+     "words": [
+      {
+       "h": "动作",
+       "py": "dòngzuò",
+       "gl": "movement; action; gesture",
+       "pos": "n."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "老司机",
+       "py": "lǎosījī",
+       "gl": "experienced driver",
+       "pos": "n."
+      },
+      {
+       "h": "还要",
+       "py": "háiyào",
+       "gl": "even more (than)",
+       "pos": "adv."
+      },
+      {
+       "h": "谨慎",
+       "py": "jǐnshèn",
+       "gl": "cautious; prudent; caution",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Only then did Li Ming truly believe that driverless cars can not only handle ordinary road conditions but also cope calmly with bad weather.",
+   "phrases": [
+    {
+     "en": "Only then did Li Ming truly believe",
+     "words": [
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "这才",
+       "py": "zhècái",
+       "gl": "only then",
+       "pos": "adv."
+      },
+      {
+       "h": "真正",
+       "py": "zhēnzhèng",
+       "gl": "truly; really",
+       "pos": "adv."
+      },
+      {
+       "h": "相信",
+       "py": "xiāngxìn",
+       "gl": "believe; trust",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that driverless cars can not only handle ordinary road conditions",
+     "words": [
+      {
+       "h": "无人驾驶",
+       "py": "wúrénjiàshǐ",
+       "gl": "driverless; self-driving",
+       "pos": "adj."
+      },
+      {
+       "h": "汽车",
+       "py": "qìchē",
+       "gl": "car; motor vehicle",
+       "pos": "n."
+      },
+      {
+       "h": "不仅",
+       "py": "bùjǐn",
+       "gl": "not only",
+       "pos": "conj."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "普通",
+       "py": "pǔtōng",
+       "gl": "ordinary; common",
+       "pos": "adj."
+      },
+      {
+       "h": "路况",
+       "py": "lùkuàng",
+       "gl": "road conditions; traffic",
+       "pos": "n."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "under (conditions); in (a context)",
+       "pos": "postposition"
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but also cope calmly with bad weather.",
+     "words": [
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "从容",
+       "py": "cóngróng",
+       "gl": "calm; composed; unhurried",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "adverbial particle (认真地 'carefully')",
+       "pos": "function word"
+      },
+      {
+       "h": "应对",
+       "py": "yìngduì",
+       "gl": "respond to; cope with; deal with",
+       "pos": "v."
+      },
+      {
+       "h": "恶劣",
+       "py": "èliè",
+       "gl": "bad; severe (weather)",
+       "pos": "adj."
+      },
+      {
+       "h": "天气",
+       "py": "tiānqì",
+       "gl": "weather",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When he got to the airport, he opened his phone to check the bill and found the fare was quite a bit cheaper than a regular taxi, and nothing unexpected had happened the whole way.",
+   "phrases": [
+    {
+     "en": "When he got to the airport,",
+     "words": [
+      {
+       "h": "到达",
+       "py": "dàodá",
+       "gl": "arrive; reach",
+       "pos": "v."
+      },
+      {
+       "h": "机场",
+       "py": "jīchǎng",
+       "gl": "airport",
+       "pos": "n."
+      },
+      {
+       "h": "后",
+       "py": "hòu",
+       "gl": "after",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "he opened his phone to check the bill",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "查看",
+       "py": "chákàn",
+       "gl": "check; look at",
+       "pos": "v."
+      },
+      {
+       "h": "账单",
+       "py": "zhàngdān",
+       "gl": "bill",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and found the fare was quite a bit cheaper than a regular taxi,",
+     "words": [
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "这趟",
+       "py": "zhètàng",
+       "gl": "this trip; this ride",
+       "pos": "pron."
+      },
+      {
+       "h": "车费",
+       "py": "chēfèi",
+       "gl": "fare; cost of the ride",
+       "pos": "n."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "普通",
+       "py": "pǔtōng",
+       "gl": "ordinary; common",
+       "pos": "adj."
+      },
+      {
+       "h": "出租车",
+       "py": "chūzūchē",
+       "gl": "taxi",
+       "pos": "n."
+      },
+      {
+       "h": "便宜",
+       "py": "piányi",
+       "gl": "cheap; inexpensive",
+       "pos": "adj."
+      },
+      {
+       "h": "不少",
+       "py": "bùshǎo",
+       "gl": "quite a lot; a good deal",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and nothing unexpected had happened the whole way.",
+     "words": [
+      {
+       "h": "而且",
+       "py": "érqiě",
+       "gl": "moreover; and also",
+       "pos": "conj."
+      },
+      {
+       "h": "全程",
+       "py": "quánchéng",
+       "gl": "whole way; entire route",
+       "pos": "n."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "出现",
+       "py": "chūxiàn",
+       "gl": "appear; emerge",
+       "pos": "v."
+      },
+      {
+       "h": "任何",
+       "py": "rènhé",
+       "gl": "any",
+       "pos": "pron."
+      },
+      {
+       "h": "意外",
+       "py": "yìwài",
+       "gl": "accident; mishap; unexpected",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He mentioned it to a colleague he was traveling with on business, but his colleague saw things differently, saying that if there were ever an accident, it would be hard to say who was responsible.",
+   "phrases": [
+    {
+     "en": "He mentioned it to a colleague he was traveling with on business,",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
+      },
+      {
+       "h": "出差",
+       "py": "chūchāi",
+       "gl": "go on a business trip",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "同事",
+       "py": "tóngshì",
+       "gl": "colleague; coworker",
+       "pos": "n."
+      },
+      {
+       "h": "聊起",
+       "py": "liáoqǐ",
+       "gl": "start talking about",
+       "pos": "v."
+      },
+      {
+       "h": "这件事",
+       "py": "zhèjiànshì",
+       "gl": "this matter; this thing",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but his colleague saw things differently,",
+     "words": [
+      {
+       "h": "同事",
+       "py": "tóngshì",
+       "gl": "colleague; coworker",
+       "pos": "n."
+      },
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet",
+       "pos": "conj."
+      },
+      {
+       "h": "提出",
+       "py": "tíchū",
+       "gl": "put forward; raise (a question, proposal); submit (an application)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "不同",
+       "py": "bùtóng",
+       "gl": "different",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "看法",
+       "py": "kànfǎ",
+       "gl": "view; opinion",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "saying that if there were ever an accident, it would be hard to say who was responsible.",
+     "words": [
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "万一",
+       "py": "wànyī",
+       "gl": "in case; if by chance",
+       "pos": "conj."
+      },
+      {
+       "h": "发生",
+       "py": "fāshēng",
+       "gl": "happen; occur",
+       "pos": "v."
+      },
+      {
+       "h": "事故",
+       "py": "shìgù",
+       "gl": "accident",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "责任",
+       "py": "zérèn",
+       "gl": "responsibility; duty",
+       "pos": "n."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "难",
+       "py": "nán",
+       "gl": "difficult; hard",
+       "pos": "adj."
+      },
+      {
+       "h": "说清楚",
+       "py": "shuōqīngchǔ",
+       "gl": "explain clearly",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Li Ming admitted that was a problem, but he felt that as the technology matures, risks like these are shrinking bit by bit.",
+   "phrases": [
+    {
+     "en": "Li Ming admitted that was a problem,",
+     "words": [
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "承认",
+       "py": "chéngrèn",
+       "gl": "admit; acknowledge",
+       "pos": "v."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "measure word (general, for people and things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but he felt that as the technology matures,",
+     "words": [
+      {
+       "h": "但",
+       "py": "dàn",
+       "gl": "but",
+       "pos": "conj."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "think; feel",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "随着",
+       "py": "suízhe",
+       "gl": "along with; as (something develops)",
+       "pos": "prep."
+      },
+      {
+       "h": "技术",
+       "py": "jìshù",
+       "gl": "technology",
+       "pos": "n."
+      },
+      {
+       "h": "越来越",
+       "py": "yuèláiyuè",
+       "gl": "more and more",
+       "pos": "adv."
+      },
+      {
+       "h": "成熟",
+       "py": "chéngshú",
+       "gl": "mature; ripe; well-developed",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "risks like these are shrinking bit by bit.",
+     "words": [
+      {
+       "h": "这类",
+       "py": "zhèlèi",
+       "gl": "this kind of; such (这类 + noun)",
+       "pos": "pron."
+      },
+      {
+       "h": "风险",
+       "py": "fēngxiǎn",
+       "gl": "risk",
+       "pos": "n."
+      },
+      {
+       "h": "正在",
+       "py": "zhèngzài",
+       "gl": "be in the middle of (doing)",
+       "pos": "adv."
+      },
+      {
+       "h": "一点点",
+       "py": "yìdiǎndiǎn",
+       "gl": "little by little; gradually",
+       "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "adverbial particle (认真地 'carefully')",
+       "pos": "function word"
+      },
+      {
+       "h": "减少",
+       "py": "jiǎnshǎo",
+       "gl": "decrease; be reduced",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He later learned that Baidu's driverless taxi service had already expanded from Beijing and Wuhan to Guangzhou, Shenzhen, and more cities.",
+   "phrases": [
+    {
+     "en": "He later learned",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "n."
+      },
+      {
+       "h": "了解到",
+       "py": "liǎojiědào",
+       "gl": "learn; find out",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that Baidu's driverless taxi service had already expanded from Beijing and Wuhan to Guangzhou, Shenzhen, and more cities.",
+     "words": [
+      {
+       "h": "百度",
+       "py": "bǎidù",
+       "gl": "Baidu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "无人驾驶",
+       "py": "wúrénjiàshǐ",
+       "gl": "driverless; self-driving",
+       "pos": "adj."
+      },
+      {
+       "h": "出租车",
+       "py": "chūzūchē",
+       "gl": "taxi",
+       "pos": "n."
+      },
+      {
+       "h": "服务",
+       "py": "fúwù",
+       "gl": "serve; service",
+       "pos": "n."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from",
+       "pos": "prep."
+      },
+      {
+       "h": "北京",
+       "py": "běijīng",
+       "gl": "Beijing",
+       "pos": "proper noun"
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "武汉",
+       "py": "wǔhàn",
+       "gl": "Wuhan",
+       "pos": "proper noun"
+      },
+      {
+       "h": "扩展",
+       "py": "kuòzhǎn",
+       "gl": "expand; extend",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "广州",
+       "py": "guǎngzhōu",
+       "gl": "Guangzhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "深圳",
+       "py": "shēnzhèn",
+       "gl": "Shenzhen",
+       "pos": "proper noun"
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "particle"
+      },
+      {
+       "h": "更多",
+       "py": "gèngduō",
+       "gl": "more; even more",
+       "pos": "adj."
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "What surprised him was that, according to reports, Chinese companies like these had even begun bringing driverless technology to Dubai and other cities in the Middle East.",
+   "phrases": [
+    {
+     "en": "What surprised him",
+     "words": [
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "let; make (someone do); ask (someone to do)",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "感到",
+       "py": "gǎndào",
+       "gl": "feel",
+       "pos": "v."
+      },
+      {
+       "h": "惊讶",
+       "py": "jīngyà",
+       "gl": "surprised; amazed",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "was that, according to reports,",
+     "words": [
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "报道",
+       "py": "bàodào",
+       "gl": "report; news story",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "Chinese companies like these had even begun bringing driverless technology to Dubai and other cities in the Middle East.",
+     "words": [
+      {
+       "h": "这类",
+       "py": "zhèlèi",
+       "gl": "this kind of; such (这类 + noun)",
+       "pos": "pron."
+      },
+      {
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "企业",
+       "py": "qǐyè",
+       "gl": "enterprise; company; business",
+       "pos": "n."
+      },
+      {
+       "h": "甚至",
+       "py": "shènzhì",
+       "gl": "even; so much so that",
+       "pos": "adv."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
+       "pos": "v."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "function word"
+      },
+      {
+       "h": "无人驾驶",
+       "py": "wúrénjiàshǐ",
+       "gl": "driverless; self-driving",
+       "pos": "adj."
+      },
+      {
+       "h": "技术",
+       "py": "jìshù",
+       "gl": "technology",
+       "pos": "n."
+      },
+      {
+       "h": "带到",
+       "py": "dàidào",
+       "gl": "take to; bring to",
+       "pos": "v."
+      },
+      {
+       "h": "迪拜",
+       "py": "díbài",
+       "gl": "Dubai",
+       "pos": "proper noun"
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "particle"
+      },
+      {
+       "h": "中东",
+       "py": "zhōngdōng",
+       "gl": "Middle East",
+       "pos": "n."
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Li Ming thought that if one day his own small city could get a service like this, life would be a lot more convenient.",
+   "phrases": [
+    {
+     "en": "Li Ming thought that if one day",
+     "words": [
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "think",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "如果",
+       "py": "rúguǒ",
+       "gl": "if",
+       "pos": "conj."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "his own small city could get a service like this,",
+     "words": [
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "所在",
+       "py": "suǒzài",
+       "gl": "location; where (someone) is; where (something) lies (关键所在: the key)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "用上",
+       "py": "yòngshàng",
+       "gl": "start using; have (in use)",
+       "pos": "v."
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "服务",
+       "py": "fúwù",
+       "gl": "serve; service",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "life would be a lot more convenient.",
+     "words": [
+      {
+       "h": "生活",
+       "py": "shēnghuó",
+       "gl": "life",
+       "pos": "n."
+      },
+      {
+       "h": "一定",
+       "py": "yídìng",
+       "gl": "definitely; surely; must",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "方便",
+       "py": "fāngbiàn",
+       "gl": "convenient; conveniently; make it easy (for); convenient",
+       "pos": "adj."
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "much (after a comparison: 高很多 much higher)",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But he also reminded himself that however advanced technology gets, it can't fully replace human judgment, and in unusual situations you still need to stay alert.",
+   "phrases": [
+    {
+     "en": "But he also reminded himself",
+     "words": [
+      {
+       "h": "不过",
+       "py": "bùguò",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "提醒",
+       "py": "tíxǐng",
+       "gl": "remind",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that however advanced technology gets, it can't fully replace human judgment,",
+     "words": [
+      {
+       "h": "技术",
+       "py": "jìshù",
+       "gl": "technology",
+       "pos": "n."
+      },
+      {
+       "h": "再",
+       "py": "zài",
+       "gl": "no matter how (再…也…)",
+       "pos": "adv."
+      },
+      {
+       "h": "先进",
+       "py": "xiānjìn",
+       "gl": "advanced",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too; (with negation) even",
+       "pos": "adv."
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
+      },
+      {
+       "h": "完全",
+       "py": "wánquán",
+       "gl": "completely; fully",
+       "pos": "adv."
+      },
+      {
+       "h": "替代",
+       "py": "tìdài",
+       "gl": "replace; substitute",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "判断",
+       "py": "pànduàn",
+       "gl": "judge; determine; judgment",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and in unusual situations you still need to stay alert.",
+     "words": [
+      {
+       "h": "遇到",
+       "py": "yùdào",
+       "gl": "encounter; come across; run into",
+       "pos": "v."
+      },
+      {
+       "h": "特殊",
+       "py": "tèshū",
+       "gl": "special",
+       "pos": "adj."
+      },
+      {
+       "h": "情况",
+       "py": "qíngkuàng",
+       "gl": "situation; circumstances",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "保持",
+       "py": "bǎochí",
+       "gl": "maintain; keep",
+       "pos": "v."
+      },
+      {
+       "h": "警觉",
+       "py": "jǐngjué",
+       "gl": "alertness; vigilance",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the way back from the airport, Li Ming got into the same kind of driverless car again, and it still moved smoothly through the congested downtown traffic.",
+   "phrases": [
+    {
+     "en": "On the way back from the airport,",
+     "words": [
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from",
+       "pos": "prep."
+      },
+      {
+       "h": "机场",
+       "py": "jīchǎng",
+       "gl": "airport",
+       "pos": "n."
+      },
+      {
+       "h": "回来",
+       "py": "huílái",
+       "gl": "come back; return",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "路上",
+       "py": "lùshàng",
+       "gl": "on the way; on the road",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "Li Ming got into the same kind of driverless car again,",
+     "words": [
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "坐进",
+       "py": "zuòjìn",
+       "gl": "get into; sit down in",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "辆",
+       "py": "liàng",
+       "gl": "measure word for vehicles",
+       "pos": "measure word"
+      },
+      {
+       "h": "同样",
+       "py": "tóngyàng",
+       "gl": "the same; likewise; also",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "无人驾驶",
+       "py": "wúrénjiàshǐ",
+       "gl": "driverless; self-driving",
+       "pos": "adj."
+      },
+      {
+       "h": "汽车",
+       "py": "qìchē",
+       "gl": "car; motor vehicle",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and it still moved smoothly through the congested downtown traffic.",
+     "words": [
+      {
+       "h": "车子",
+       "py": "chēzi",
+       "gl": "car; vehicle",
+       "pos": "n."
+      },
+      {
+       "h": "依旧",
+       "py": "yījiù",
+       "gl": "still; as before",
+       "pos": "adv."
+      },
+      {
+       "h": "平稳",
+       "py": "píngwěn",
+       "gl": "steady; stable; smooth",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "adverbial particle (认真地 'carefully')",
+       "pos": "function word"
+      },
+      {
+       "h": "穿过",
+       "py": "chuānguò",
+       "gl": "pass through; cross",
+       "pos": "v."
+      },
+      {
+       "h": "拥堵",
+       "py": "yōngdǔ",
+       "gl": "congested",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "市区",
+       "py": "shìqū",
+       "gl": "city center; downtown",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He closed his eyes and rested for a while; all he could hear was the soft hum of the tires on the road, and the whole cabin was so quiet it was relaxing.",
+   "phrases": [
+    {
+     "en": "He closed his eyes and rested for a while;",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "闭上",
+       "py": "bìshàng",
+       "gl": "close (eyes, mouth)",
+       "pos": "v."
+      },
+      {
+       "h": "眼睛",
+       "py": "yǎnjīng",
+       "gl": "eye; eyes",
+       "pos": "n."
+      },
+      {
+       "h": "休息",
+       "py": "xiūxī",
+       "gl": "rest",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一会儿",
+       "py": "yīhuìer",
+       "gl": "a while; a moment",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "all he could hear was the soft hum of the tires on the road,",
+     "words": [
+      {
+       "h": "耳边",
+       "py": "ěrbiān",
+       "gl": "ear; by one's ear",
+       "pos": "n."
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "轮胎",
+       "py": "lúntāi",
+       "gl": "tire",
+       "pos": "n."
+      },
+      {
+       "h": "轻轻",
+       "py": "qīngqīng",
+       "gl": "soft; gentle; light",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "adverbial particle (认真地 'carefully')",
+       "pos": "function word"
+      },
+      {
+       "h": "摩擦",
+       "py": "mócā",
+       "gl": "rub",
+       "pos": "v."
+      },
+      {
+       "h": "路面",
+       "py": "lùmiàn",
+       "gl": "road surface",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and the whole cabin was so quiet it was relaxing.",
+     "words": [
+      {
+       "h": "整个",
+       "py": "zhěnggè",
+       "gl": "whole; entire",
+       "pos": "pron."
+      },
+      {
+       "h": "车厢",
+       "py": "chēxiāng",
+       "gl": "interior (of a car)",
+       "pos": "n."
+      },
+      {
+       "h": "安静",
+       "py": "ānjìng",
+       "gl": "quiet; calm",
+       "pos": "adj."
+      },
+      {
+       "h": "得",
+       "py": "dé",
+       "gl": "particle linking a verb to its degree or result (做得好 done well)",
+       "pos": "function word"
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "let; make (someone do); ask (someone to do)",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "放松",
+       "py": "fàngsōng",
+       "gl": "relaxed; relax",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Before getting out, he took a deliberate look at the cameras and screen inside the car, imagining the system busily processing thousands upon thousands of pieces of data at that very moment.",
+   "phrases": [
+    {
+     "en": "Before getting out,",
+     "words": [
+      {
+       "h": "下车",
+       "py": "xiàchē",
+       "gl": "get off (a vehicle)",
+       "pos": "v."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "ago; before",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "he took a deliberate look at the cameras and screen inside the car,",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "特意",
+       "py": "tèyì",
+       "gl": "specially; on purpose",
+       "pos": "adv."
+      },
+      {
+       "h": "看了看",
+       "py": "kànlekàn",
+       "gl": "took a look",
+       "pos": "v."
+      },
+      {
+       "h": "车内",
+       "py": "chēnèi",
+       "gl": "inside the car",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "摄像头",
+       "py": "shèxiàngtóu",
+       "gl": "camera; webcam",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "imagining the system busily processing thousands upon thousands of pieces of data at that very moment.",
+     "words": [
+      {
+       "h": "想象",
+       "py": "xiǎngxiàng",
+       "gl": "imagine",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "function word"
+      },
+      {
+       "h": "系统",
+       "py": "xìtǒng",
+       "gl": "system",
+       "pos": "n."
+      },
+      {
+       "h": "此刻",
+       "py": "cǐkè",
+       "gl": "at this moment; now",
+       "pos": "n."
+      },
+      {
+       "h": "正",
+       "py": "zhèng",
+       "gl": "just; right now (in progress)",
+       "pos": "adv."
+      },
+      {
+       "h": "忙碌",
+       "py": "mánglù",
+       "gl": "busy",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "adverbial particle (认真地 'carefully')",
+       "pos": "function word"
+      },
+      {
+       "h": "处理",
+       "py": "chǔlǐ",
+       "gl": "process; handle",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "function word"
+      },
+      {
+       "h": "成千上万",
+       "py": "chéngqiānshàngwàn",
+       "gl": "thousands upon thousands",
+       "pos": "phrase"
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "measure word (general, for people and things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "数据",
+       "py": "shùjù",
+       "gl": "data",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Li Ming thought that if this technology kept developing steadily, then maybe in ten years being able to drive would actually become a rare skill.",
+   "phrases": [
+    {
+     "en": "Li Ming thought that if this technology kept developing steadily,",
+     "words": [
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "think; feel",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "技术",
+       "py": "jìshù",
+       "gl": "technology",
+       "pos": "n."
+      },
+      {
+       "h": "如果",
+       "py": "rúguǒ",
+       "gl": "if",
+       "pos": "conj."
+      },
+      {
+       "h": "继续",
+       "py": "jìxù",
+       "gl": "continue; go on",
+       "pos": "v."
+      },
+      {
+       "h": "稳步",
+       "py": "wěnbù",
+       "gl": "steadily",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "adverbial particle (认真地 'carefully')",
+       "pos": "function word"
+      },
+      {
+       "h": "发展",
+       "py": "fāzhǎn",
+       "gl": "develop; grow",
+       "pos": "v."
+      },
+      {
+       "h": "下去",
+       "py": "xiàqù",
+       "gl": "go on; continue; go down",
+       "pos": "function word"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "then maybe in ten years",
+     "words": [
+      {
+       "h": "也许",
+       "py": "yěxǔ",
+       "gl": "perhaps; maybe",
+       "pos": "adv."
+      },
+      {
+       "h": "十",
+       "py": "shí",
+       "gl": "ten",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "later; in the future; after",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "being able to drive would actually become a rare skill.",
+     "words": [
+      {
+       "h": "开车",
+       "py": "kāichē",
+       "gl": "drive (a car)",
+       "pos": "v."
+      },
+      {
+       "h": "反而",
+       "py": "fǎnér",
+       "gl": "instead; on the contrary",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "变成",
+       "py": "biànchéng",
+       "gl": "become; turn into",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "种",
+       "py": "zhǒng",
+       "gl": "kind; type (measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "稀罕",
+       "py": "xīhan",
+       "gl": "rare; uncommon",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "本领",
+       "py": "běnlǐng",
+       "gl": "skill; ability",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Li Ming's father, a veteran who had driven a taxi for twenty years, at first flatly refused to believe that a car like this, without a steering wheel, could be safe on the road.",
+   "phrases": [
+    {
+     "en": "Li Ming's father, a veteran who had driven a taxi for twenty years,",
+     "words": [
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "父亲",
+       "py": "fùqīn",
+       "gl": "father",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; turn on; drive; start (a business); prescribe; hold (a meeting)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "二十年",
+       "py": "èrshínián",
+       "gl": "twenty years",
+       "pos": "n."
+      },
+      {
+       "h": "出租车",
+       "py": "chūzūchē",
+       "gl": "taxi",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "老司机",
+       "py": "lǎosījī",
+       "gl": "experienced driver",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "at first flatly refused to believe that a car like this, without a steering wheel, could be safe on the road.",
+     "words": [
+      {
+       "h": "一开始",
+       "py": "yīkāishǐ",
+       "gl": "at first; in the beginning",
+       "pos": "adv."
+      },
+      {
+       "h": "坚决",
+       "py": "jiānjué",
+       "gl": "firmly; resolutely",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "相信",
+       "py": "xiāngxìn",
+       "gl": "believe; trust",
+       "pos": "v."
+      },
+      {
+       "h": "这种",
+       "py": "zhèzhǒng",
+       "gl": "this kind of; such",
+       "pos": "pron."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "方向盘",
+       "py": "fāngxiàngpán",
+       "gl": "steering wheel",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "汽车",
+       "py": "qìchē",
+       "gl": "car; motor vehicle",
+       "pos": "n."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "安全",
+       "py": "ānquán",
+       "gl": "safely",
+       "pos": "adj."
+      },
+      {
+       "h": "上路",
+       "py": "shànglù",
+       "gl": "set out; take to the road",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Li Ming made a point of taking his father for a ride, and the whole way his father clung tightly to the grab handle, yet not once did the car make him uncomfortable.",
+   "phrases": [
+    {
+     "en": "Li Ming made a point of taking his father for a ride,",
+     "words": [
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "特意",
+       "py": "tèyì",
+       "gl": "specially; on purpose",
+       "pos": "adv."
+      },
+      {
+       "h": "带",
+       "py": "dài",
+       "gl": "bring; take (along); carry",
+       "pos": "v."
+      },
+      {
+       "h": "父亲",
+       "py": "fùqīn",
+       "gl": "father",
+       "pos": "n."
+      },
+      {
+       "h": "体验",
+       "py": "tǐyàn",
+       "gl": "experience; try out",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一次",
+       "py": "yīcì",
+       "gl": "once; in one go; at the first attempt",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and the whole way his father clung tightly to the grab handle,",
+     "words": [
+      {
+       "h": "父亲",
+       "py": "fùqīn",
+       "gl": "father",
+       "pos": "n."
+      },
+      {
+       "h": "全程",
+       "py": "quánchéng",
+       "gl": "whole way; entire route",
+       "pos": "n."
+      },
+      {
+       "h": "紧紧",
+       "py": "jǐnjǐn",
+       "gl": "tightly; closely",
+       "pos": "adj."
+      },
+      {
+       "h": "抓",
+       "py": "zhuā",
+       "gl": "grab; catch; hold tightly",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "function word"
+      },
+      {
+       "h": "扶手",
+       "py": "fúshǒu",
+       "gl": "handrail",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "yet not once did the car make him uncomfortable.",
+     "words": [
+      {
+       "h": "车子",
+       "py": "chēzi",
+       "gl": "car; vehicle",
+       "pos": "n."
+      },
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet; however (contrast)",
+       "pos": "conj."
+      },
+      {
+       "h": "一次",
+       "py": "yīcì",
+       "gl": "once; in one go; at the first attempt",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too; (with negation) even",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not; did not (negates past actions)",
+       "pos": "adv."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); let",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "感到",
+       "py": "gǎndào",
+       "gl": "feel",
+       "pos": "v."
+      },
+      {
+       "h": "不舒服",
+       "py": "bùshūfú",
+       "gl": "unwell; uncomfortable",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After they got out, his father was silent for quite a while before slowly saying that the technology really was more reliable than he had imagined.",
+   "phrases": [
+    {
+     "en": "After they got out,",
+     "words": [
+      {
+       "h": "下车",
+       "py": "xiàchē",
+       "gl": "get off (a vehicle)",
+       "pos": "v."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "later; in the future; after",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "his father was silent for quite a while",
+     "words": [
+      {
+       "h": "父亲",
+       "py": "fùqīn",
+       "gl": "father",
+       "pos": "n."
+      },
+      {
+       "h": "沉默",
+       "py": "chénmò",
+       "gl": "be silent; silence",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "好一会儿",
+       "py": "hǎoyīhuìer",
+       "gl": "quite a while",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "before slowly saying that the technology really was more reliable than he had imagined.",
+     "words": [
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "慢慢",
+       "py": "mànmàn",
+       "gl": "slowly; gradually",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "adverbial particle (认真地 'carefully')",
+       "pos": "function word"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这项",
+       "py": "zhèxiàng",
+       "gl": "this (item, policy, project)",
+       "pos": "pron."
+      },
+      {
+       "h": "技术",
+       "py": "jìshù",
+       "gl": "technology",
+       "pos": "n."
+      },
+      {
+       "h": "确实",
+       "py": "quèshí",
+       "gl": "indeed; really",
+       "pos": "adv."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "想象",
+       "py": "xiǎngxiàng",
+       "gl": "imagine",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "可靠",
+       "py": "kěkào",
+       "gl": "reliable; trustworthy",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Li Ming told his father that the cars are actually monitored in real time by remote safety operators, who can step in at any moment if something goes wrong.",
+   "phrases": [
+    {
+     "en": "Li Ming told his father",
+     "words": [
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
+       "pos": "v."
+      },
+      {
+       "h": "父亲",
+       "py": "fùqīn",
+       "gl": "father",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that the cars are actually monitored in real time by remote safety operators,",
+     "words": [
+      {
+       "h": "车辆",
+       "py": "chēliàng",
+       "gl": "vehicle",
+       "pos": "n."
+      },
+      {
+       "h": "后台",
+       "py": "hòutái",
+       "gl": "back end; behind the scenes",
+       "pos": "n."
+      },
+      {
+       "h": "其实",
+       "py": "qíshí",
+       "gl": "actually; in fact",
+       "pos": "adv."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "远程",
+       "py": "yuǎnchéng",
+       "gl": "remote (远程办公 work remotely)",
+       "pos": "adj."
+      },
+      {
+       "h": "安全员",
+       "py": "ānquányuán",
+       "gl": "safety operator; safety officer",
+       "pos": "n."
+      },
+      {
+       "h": "实时",
+       "py": "shíshí",
+       "gl": "real-time",
+       "pos": "adj."
+      },
+      {
+       "h": "监控",
+       "py": "jiānkòng",
+       "gl": "monitoring; surveillance",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "who can step in at any moment if something goes wrong.",
+     "words": [
+      {
+       "h": "一旦",
+       "py": "yídàn",
+       "gl": "once; in case; as soon as",
+       "pos": "conj."
+      },
+      {
+       "h": "出现",
+       "py": "chūxiàn",
+       "gl": "appear; emerge",
+       "pos": "v."
+      },
+      {
+       "h": "异常",
+       "py": "yìcháng",
+       "gl": "anomaly; irregularity",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may; be allowed",
+       "pos": "v."
+      },
+      {
+       "h": "随时",
+       "py": "suíshí",
+       "gl": "at any time",
+       "pos": "adv."
+      },
+      {
+       "h": "介入",
+       "py": "jièrù",
+       "gl": "intervene; get involved",
+       "pos": "v."
+      },
+      {
+       "h": "处理",
+       "py": "chǔlǐ",
+       "gl": "handle; deal with; process",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He explained that besides Baidu, companies like Pony.ai and WeRide also run driverless fleets in Guangzhou, Shenzhen, and other places.",
+   "phrases": [
+    {
+     "en": "He explained that besides Baidu,",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "解释",
+       "py": "jiěshì",
+       "gl": "explain",
+       "pos": "v."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "除了",
+       "py": "chúle",
+       "gl": "except; besides; apart from",
+       "pos": "prep."
+      },
+      {
+       "h": "百度",
+       "py": "bǎidù",
+       "gl": "Baidu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "companies like Pony.ai and WeRide",
+     "words": [
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like; such as (像…这样 such as)",
+       "pos": "prep."
+      },
+      {
+       "h": "小马智行",
+       "py": "xiǎomǎzhìxíng",
+       "gl": "Pony.ai (company)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "文远知行",
+       "py": "wényuǎnzhīxíng",
+       "gl": "WeRide (company)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "also run driverless fleets in Guangzhou, Shenzhen, and other places.",
+     "words": [
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "广州",
+       "py": "guǎngzhōu",
+       "gl": "Guangzhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "深圳",
+       "py": "shēnzhèn",
+       "gl": "Shenzhen",
+       "pos": "proper noun"
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "particle"
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "place",
+       "pos": "n."
+      },
+      {
+       "h": "运营",
+       "py": "yùnyíng",
+       "gl": "run; operate (business, community)",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "function word"
+      },
+      {
+       "h": "无人驾驶",
+       "py": "wúrénjiàshǐ",
+       "gl": "driverless; self-driving",
+       "pos": "adj."
+      },
+      {
+       "h": "车队",
+       "py": "chēduì",
+       "gl": "fleet (of vehicles)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When he heard this, his father sighed that the jobs of drivers of his generation would very likely be gradually taken over by systems like these.",
+   "phrases": [
+    {
+     "en": "When he heard this, his father sighed",
+     "words": [
+      {
+       "h": "父亲",
+       "py": "fùqīn",
+       "gl": "father",
+       "pos": "n."
+      },
+      {
+       "h": "听完",
+       "py": "tīngwán",
+       "gl": "finish listening; after hearing",
+       "pos": "v."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "later; in the future; after",
+       "pos": "n."
+      },
+      {
+       "h": "感叹",
+       "py": "gǎntàn",
+       "gl": "sigh with emotion; exclaim",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that the jobs of drivers of his generation",
+     "words": [
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "这代",
+       "py": "zhèdài",
+       "gl": "this generation",
+       "pos": "n."
+      },
+      {
+       "h": "司机",
+       "py": "sījī",
+       "gl": "driver",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "would very likely be gradually taken over by systems like these.",
+     "words": [
+      {
+       "h": "未来",
+       "py": "wèilái",
+       "gl": "future",
+       "pos": "n."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "可能",
+       "py": "kěnéng",
+       "gl": "possible; maybe",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "系统",
+       "py": "xìtǒng",
+       "gl": "system",
+       "pos": "n."
+      },
+      {
+       "h": "逐渐",
+       "py": "zhújiàn",
+       "gl": "gradually",
+       "pos": "adv."
+      },
+      {
+       "h": "取代",
+       "py": "qǔdài",
+       "gl": "replace",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Li Ming reassured his father, saying that in the short term cities still need plenty of human drivers, and it will take a long time for the technology to become widespread.",
+   "phrases": [
+    {
+     "en": "Li Ming reassured his father,",
+     "words": [
+      {
+       "h": "李明",
+       "py": "lǐmíng",
+       "gl": "Li Ming",
+       "pos": "proper noun"
+      },
+      {
+       "h": "安慰",
+       "py": "ānwèi",
+       "gl": "comfort; console",
+       "pos": "v."
+      },
+      {
+       "h": "父亲",
+       "py": "fùqīn",
+       "gl": "father",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "saying that in the short term cities still need plenty of human drivers,",
+     "words": [
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "短期内",
+       "py": "duǎnqīnèi",
+       "gl": "in the short term",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "仍然",
+       "py": "réngrán",
+       "gl": "still; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "需要",
+       "py": "xūyào",
+       "gl": "need; require",
+       "pos": "v."
+      },
+      {
+       "h": "大量",
+       "py": "dàliàng",
+       "gl": "large amount of; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "人类",
+       "py": "rénlèi",
+       "gl": "humanity; mankind",
+       "pos": "n."
+      },
+      {
+       "h": "司机",
+       "py": "sījī",
+       "gl": "driver",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and it will take a long time for the technology to become widespread.",
+     "words": [
+      {
+       "h": "技术",
+       "py": "jìshù",
+       "gl": "technology",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "普及",
+       "py": "pǔjí",
+       "gl": "spread; become widespread; popularize",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "需要",
+       "py": "xūyào",
+       "gl": "need; require",
+       "pos": "v."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "长",
+       "py": "zhǎng",
+       "gl": "long (时间长了 after a long time)",
+       "pos": "adj."
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But he also admitted that as the level of autonomous driving keeps rising, the profession of driving will sooner or later change fundamentally.",
+   "phrases": [
+    {
+     "en": "But he also admitted",
+     "words": [
+      {
+       "h": "不过",
+       "py": "bùguò",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "承认",
+       "py": "chéngrèn",
+       "gl": "admit; acknowledge",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that as the level of autonomous driving keeps rising,",
+     "words": [
+      {
+       "h": "随着",
+       "py": "suízhe",
+       "gl": "along with; as (something develops)",
+       "pos": "prep."
+      },
+      {
+       "h": "自动驾驶",
+       "py": "zìdòngjiàshǐ",
+       "gl": "self-driving; autonomous driving",
+       "pos": "n."
+      },
+      {
+       "h": "等级",
+       "py": "děngjí",
+       "gl": "level; grade; rank",
+       "pos": "n."
+      },
+      {
+       "h": "不断",
+       "py": "bùduàn",
+       "gl": "continuously; constantly",
+       "pos": "adv."
+      },
+      {
+       "h": "提高",
+       "py": "tígāo",
+       "gl": "raise; improve",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the profession of driving will sooner or later change fundamentally.",
+     "words": [
+      {
+       "h": "司机",
+       "py": "sījī",
+       "gl": "driver",
+       "pos": "n."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "职业",
+       "py": "zhíyè",
+       "gl": "occupation; profession",
+       "pos": "n."
+      },
+      {
+       "h": "迟早",
+       "py": "chízǎo",
+       "gl": "sooner or later",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "发生",
+       "py": "fāshēng",
+       "gl": "happen; occur",
+       "pos": "v."
+      },
+      {
+       "h": "根本性",
+       "py": "gēnběnxìng",
+       "gl": "fundamental",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "变化",
+       "py": "biànhuà",
+       "gl": "change; changes",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Under the rules set by the relevant authorities, driverless cars that currently carry passengers must undergo regular safety inspections and system upgrades.",
+   "phrases": [
+    {
+     "en": "Under the rules set by the relevant authorities,",
+     "words": [
+      {
+       "h": "根据",
+       "py": "gēnjù",
+       "gl": "according to; based on",
+       "pos": "prep."
+      },
+      {
+       "h": "有关",
+       "py": "yǒuguān",
+       "gl": "relevant; concerned (有关部门 relevant authorities)",
+       "pos": "adj."
+      },
+      {
+       "h": "部门",
+       "py": "bùmén",
+       "gl": "department; government agency",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "规定",
+       "py": "guīdìng",
+       "gl": "regulation; rule",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "driverless cars that currently carry passengers",
+     "words": [
+      {
+       "h": "目前",
+       "py": "mùqián",
+       "gl": "currently; at present",
+       "pos": "n."
+      },
+      {
+       "h": "提供",
+       "py": "tígōng",
+       "gl": "provide",
+       "pos": "v."
+      },
+      {
+       "h": "载人",
+       "py": "zàirén",
+       "gl": "carry people; crewed (spacecraft)",
+       "pos": "v."
+      },
+      {
+       "h": "服务",
+       "py": "fúwù",
+       "gl": "serve; service",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "无人驾驶",
+       "py": "wúrénjiàshǐ",
+       "gl": "driverless; self-driving",
+       "pos": "adj."
+      },
+      {
+       "h": "汽车",
+       "py": "qìchē",
+       "gl": "car; motor vehicle",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "must undergo regular safety inspections and system upgrades.",
+     "words": [
+      {
+       "h": "必须",
+       "py": "bìxū",
+       "gl": "must; have to",
+       "pos": "adv."
+      },
+      {
+       "h": "定期",
+       "py": "dìngqī",
+       "gl": "regularly; periodically",
+       "pos": "adv."
+      },
+      {
+       "h": "接受",
+       "py": "jiēshòu",
+       "gl": "accept; receive; undergo",
+       "pos": "v."
+      },
+      {
+       "h": "安全",
+       "py": "ānquán",
+       "gl": "safety",
+       "pos": "adj."
+      },
+      {
+       "h": "检测",
+       "py": "jiǎncè",
+       "gl": "test; testing; detection",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "系统",
+       "py": "xìtǒng",
+       "gl": "system",
+       "pos": "n."
+      },
+      {
+       "h": "升级",
+       "py": "shēngjí",
+       "gl": "upgrade",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Experts point out that how fast driverless technology develops depends largely on whether the public can build enough trust in it.",
+   "phrases": [
+    {
+     "en": "Experts point out",
+     "words": [
+      {
+       "h": "专家",
+       "py": "zhuānjiā",
+       "gl": "expert; specialist",
+       "pos": "n."
+      },
+      {
+       "h": "指出",
+       "py": "zhǐchū",
+       "gl": "point out",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that how fast driverless technology develops",
+     "words": [
+      {
+       "h": "无人驾驶",
+       "py": "wúrénjiàshǐ",
+       "gl": "driverless; self-driving",
+       "pos": "adj."
+      },
+      {
+       "h": "技术",
+       "py": "jìshù",
+       "gl": "technology",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "发展",
+       "py": "fāzhǎn",
+       "gl": "develop; development",
+       "pos": "n."
+      },
+      {
+       "h": "速度",
+       "py": "sùdù",
+       "gl": "speed",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "depends largely on whether the public can build enough trust in it.",
+     "words": [
+      {
+       "h": "很大",
+       "py": "hěndà",
+       "gl": "very big; great",
+       "pos": "adj."
+      },
+      {
+       "h": "程度",
+       "py": "chéngdù",
+       "gl": "degree; extent",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on; in (after a noun: 桌子上 on the table; 历史上 in history)",
+       "pos": "postposition"
+      },
+      {
+       "h": "取决于",
+       "py": "qǔjuéyú",
+       "gl": "depend on",
+       "pos": "v."
+      },
+      {
+       "h": "公众",
+       "py": "gōngzhòng",
+       "gl": "public",
+       "pos": "n."
+      },
+      {
+       "h": "能否",
+       "py": "néngfǒu",
+       "gl": "whether (or not) can",
+       "pos": "adv."
+      },
+      {
+       "h": "建立",
+       "py": "jiànlì",
+       "gl": "establish; build; set up",
+       "pos": "v."
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "rise; get up; start (complement: 承担起 take on, 回忆起 recall); (从…起) starting from",
+       "pos": "function word"
+      },
+      {
+       "h": "足够",
+       "py": "zúgòu",
+       "gl": "enough; sufficient; sufficiently",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "信任",
+       "py": "xìnrèn",
+       "gl": "trust",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "series": "aitopics",
+ "episode": 2,
+ "episode_count": 20
+}

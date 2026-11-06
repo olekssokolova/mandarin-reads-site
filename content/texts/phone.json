@@ -1,0 +1,499 @@
+{
+ "id": "phone",
+ "level": 1,
+ "title_zh": "打电话",
+ "title_en": "A Phone Call",
+ "free": false,
+ "audio_url": null,
+ "note_en": "To make a yes/no question in Chinese, just add 吗 to the end of a statement: 你今天有时间 \"You have time today\" → 你今天有时间吗？ \"Do you have time today?\" English moves words around and adds \"do,\" but Chinese word order stays exactly the same.",
+ "sentences": [
+  {
+   "en": "\"Hello? Hi! Is this Xiao Wang?\"",
+   "phrases": [
+    {
+     "en": "\"Hello?",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "喂",
+       "py": "wèi",
+       "gl": "hello (on the phone); hey",
+       "pos": "interj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "Hi!",
+     "words": [
+      {
+       "h": "你好",
+       "py": "nǐ hǎo",
+       "gl": "hello; hi",
+       "pos": "phrase"
+      },
+      {
+       "h": "！"
+      }
+     ]
+    },
+    {
+     "en": "Is this Xiao Wang?\"",
+     "words": [
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "小王",
+       "py": "xiǎowáng",
+       "gl": "Xiao Wang (familiar form of address)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Yes, this is Xiao Wang. Who's calling, please?\"",
+   "phrases": [
+    {
+     "en": "\"Yes,",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "this is Xiao Wang.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "小王",
+       "py": "xiǎowáng",
+       "gl": "Xiao Wang (familiar form of address)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    },
+    {
+     "en": "Who's calling, please?\"",
+     "words": [
+      {
+       "h": "请问",
+       "py": "qǐngwèn",
+       "gl": "excuse me, may I ask...",
+       "pos": "phrase"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "哪",
+       "py": "nǎ",
+       "gl": "which; what",
+       "pos": "question word"
+      },
+      {
+       "h": "位",
+       "py": "wèi",
+       "gl": "polite measure word for people",
+       "pos": "measure word"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"It's Anna. Are you free today?\"",
+   "phrases": [
+    {
+     "en": "\"It's Anna.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "安娜",
+       "py": "ānnà",
+       "gl": "Anna (name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    },
+    {
+     "en": "Are you free today?\"",
+     "words": [
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "今天",
+       "py": "jīntiān",
+       "gl": "today",
+       "pos": "n."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Yes. What do you want to do?\"",
+   "phrases": [
+    {
+     "en": "\"Yes.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    },
+    {
+     "en": "What do you want to do?\"",
+     "words": [
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "question word"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"I want to go see a movie.\"",
+   "phrases": [
+    {
+     "en": "\"I want to go see a movie.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go",
+       "pos": "v."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "电影",
+       "py": "diànyǐng",
+       "gl": "movie; film",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Sure! What time?\"",
+   "phrases": [
+    {
+     "en": "\"Sure!",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good; well",
+       "pos": "adj."
+      },
+      {
+       "h": "啊",
+       "py": "a",
+       "gl": "particle: agreement, emotion (ah; oh)",
+       "pos": "particle"
+      },
+      {
+       "h": "！"
+      }
+     ]
+    },
+    {
+     "en": "What time?\"",
+     "words": [
+      {
+       "h": "几",
+       "py": "jǐ",
+       "gl": "how many (under ten); which (number)",
+       "pos": "question word"
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"How about three in the afternoon?\"",
+   "phrases": [
+    {
+     "en": "\"Three in the afternoon,",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "下午",
+       "py": "xiàwu",
+       "gl": "afternoon",
+       "pos": "n."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "how about that?\"",
+     "words": [
+      {
+       "h": "怎么样",
+       "py": "zěnmeyàng",
+       "gl": "how; how about it",
+       "pos": "question word"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"No problem. See you!\"",
+   "phrases": [
+    {
+     "en": "\"No problem.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (have); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "question; problem",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    },
+    {
+     "en": "See you!\"",
+     "words": [
+      {
+       "h": "再见",
+       "py": "zàijiàn",
+       "gl": "goodbye",
+       "pos": "phrase"
+      },
+      {
+       "h": "！"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

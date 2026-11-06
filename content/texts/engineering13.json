@@ -1,0 +1,3822 @@
+{
+ "id": "engineering13",
+ "level": 6,
+ "title_zh": "数据中心的服务器",
+ "title_en": "Technology and Engineering (13/20): Servers in a Data Center",
+ "free": false,
+ "audio_url": null,
+ "note_en": "The pattern 越……就越…… means \"the more..., the more...\": PUE数值越接近1，数据中心就越高效 \"the closer the PUE is to 1, the more efficient the data center.\" Where English puts \"the more\" at the front of each clause, Chinese places 越 right before the verb or adjective in each half, after the subject, and usually adds 就 in the second half.",
+ "sentences": [
+  {
+   "en": "In the server hall of this data center, more than a thousand servers stand in neat rows.",
+   "phrases": [
+    {
+     "en": "In the server hall of this data center,",
+     "words": [
+      {
+       "h": "这座",
+       "py": "zhèzuò",
+       "gl": "this (building, city, etc.)",
+       "pos": "pron."
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjùzhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "机房",
+       "py": "jīfáng",
+       "gl": "server room; machine room",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "more than a thousand servers stand in neat rows.",
+     "words": [
+      {
+       "h": "整齐地",
+       "py": "zhěngqíde",
+       "gl": "neatly; in neat rows",
+       "pos": "adv."
+      },
+      {
+       "h": "排列",
+       "py": "páiliè",
+       "gl": "arrangement; arrange",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "上千台",
+       "py": "shàngqiāntái",
+       "gl": "over a thousand (machines)",
+       "pos": "num."
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Every server runs nonstop, processing data from all over the country.",
+   "phrases": [
+    {
+     "en": "Every server runs nonstop,",
+     "words": [
+      {
+       "h": "每台",
+       "py": "měitái",
+       "gl": "each (machine, unit)",
+       "pos": "pron."
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on; be (at, in); particle: action in progress (他在吃 'he is eating')",
+       "pos": "adv."
+      },
+      {
+       "h": "不停地",
+       "py": "bùtíngde",
+       "gl": "nonstop; ceaselessly",
+       "pos": "adv."
+      },
+      {
+       "h": "运转",
+       "py": "yùnzhuǎn",
+       "gl": "run; operate; revolve",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "processing data from all over the country.",
+     "words": [
+      {
+       "h": "处理",
+       "py": "chǔlǐ",
+       "gl": "process; handle",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "来自",
+       "py": "láizì",
+       "gl": "come from; originate from",
+       "pos": "prep."
+      },
+      {
+       "h": "全国各地",
+       "py": "quánguógèdì",
+       "gl": "all over the country",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "数据",
+       "py": "shùjù",
+       "gl": "data",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It's very cold in the server hall, because so much equipment running at once generates a great deal of heat.",
+   "phrases": [
+    {
+     "en": "It's very cold in the server hall,",
+     "words": [
+      {
+       "h": "机房",
+       "py": "jīfáng",
+       "gl": "server room; machine room",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "温度",
+       "py": "wēndù",
+       "gl": "temperature; warmth",
+       "pos": "n."
+      },
+      {
+       "h": "很低",
+       "py": "hěndī",
+       "gl": "very low",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "because so much equipment running at once generates a great deal of heat.",
+     "words": [
+      {
+       "h": "因为",
+       "py": "yīnwèi",
+       "gl": "because",
+       "pos": "conj."
+      },
+      {
+       "h": "大量",
+       "py": "dàliàng",
+       "gl": "large amount of; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "设备",
+       "py": "shèbèi",
+       "gl": "equipment; device",
+       "pos": "n."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "v."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "function word"
+      },
+      {
+       "h": "产生",
+       "py": "chǎnshēng",
+       "gl": "produce; generate; arise",
+       "pos": "v."
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot; much",
+       "pos": "adj."
+      },
+      {
+       "h": "热量",
+       "py": "rèliàng",
+       "gl": "heat; calories",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Engineers check the servers regularly to make sure none of them fails.",
+   "phrases": [
+    {
+     "en": "Engineers check the servers regularly",
+     "words": [
+      {
+       "h": "工程师",
+       "py": "gōngchéngshī",
+       "gl": "engineer",
+       "pos": "n."
+      },
+      {
+       "h": "定期",
+       "py": "dìngqī",
+       "gl": "regularly; periodically",
+       "pos": "adv."
+      },
+      {
+       "h": "检查",
+       "py": "jiǎnchá",
+       "gl": "check; inspect",
+       "pos": "v."
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "状态",
+       "py": "zhuàngtài",
+       "gl": "state; condition",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "to make sure none of them fails.",
+     "words": [
+      {
+       "h": "防止",
+       "py": "fángzhǐ",
+       "gl": "prevent",
+       "pos": "v."
+      },
+      {
+       "h": "任何",
+       "py": "rènhé",
+       "gl": "any",
+       "pos": "pron."
+      },
+      {
+       "h": "一台",
+       "py": "yìtái",
+       "gl": "one (machine, device)",
+       "pos": "measure word"
+      },
+      {
+       "h": "出现",
+       "py": "chūxiàn",
+       "gl": "appear; emerge",
+       "pos": "v."
+      },
+      {
+       "h": "故障",
+       "py": "gùzhàng",
+       "gl": "breakdown; malfunction; fault",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "If a server suddenly stops working, a backup server immediately and automatically takes over.",
+   "phrases": [
+    {
+     "en": "If a server suddenly stops working,",
+     "words": [
+      {
+       "h": "如果",
+       "py": "rúguǒ",
+       "gl": "if",
+       "pos": "conj."
+      },
+      {
+       "h": "一台",
+       "py": "yìtái",
+       "gl": "one (machine, device)",
+       "pos": "measure word"
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "停止",
+       "py": "tíngzhǐ",
+       "gl": "stop; cease",
+       "pos": "v."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "a backup server immediately and automatically takes over.",
+     "words": [
+      {
+       "h": "备用",
+       "py": "bèiyòng",
+       "gl": "spare; backup",
+       "pos": "adj."
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "function word"
+      },
+      {
+       "h": "立刻",
+       "py": "lìkè",
+       "gl": "immediately; at once",
+       "pos": "adv."
+      },
+      {
+       "h": "自动",
+       "py": "zìdòng",
+       "gl": "automatically; automatic",
+       "pos": "adv."
+      },
+      {
+       "h": "接替",
+       "py": "jiētì",
+       "gl": "replace; take over; succeed (in a post)",
+       "pos": "v."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This design ensures that users can access all kinds of online services smoothly at any time.",
+   "phrases": [
+    {
+     "en": "This design ensures",
+     "words": [
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "设计",
+       "py": "shèjì",
+       "gl": "design",
+       "pos": "n."
+      },
+      {
+       "h": "保证",
+       "py": "bǎozhèng",
+       "gl": "guarantee; ensure; promise",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action",
+       "pos": "particle"
+      }
+     ]
+    },
+    {
+     "en": "that users can access all kinds of online services smoothly at any time.",
+     "words": [
+      {
+       "h": "用户",
+       "py": "yònghù",
+       "gl": "user",
+       "pos": "n."
+      },
+      {
+       "h": "随时",
+       "py": "suíshí",
+       "gl": "at any time",
+       "pos": "adv."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "顺利地",
+       "py": "shùnlìde",
+       "gl": "smoothly; successfully",
+       "pos": "adv."
+      },
+      {
+       "h": "访问",
+       "py": "fǎngwèn",
+       "gl": "visit; access",
+       "pos": "v."
+      },
+      {
+       "h": "各种",
+       "py": "gèzhǒng",
+       "gl": "various; all kinds of",
+       "pos": "pron."
+      },
+      {
+       "h": "网络服务",
+       "py": "wǎngluòfúwù",
+       "gl": "online service",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The engineer says a data center is like the heart of a city: it can't stop for a single moment.",
+   "phrases": [
+    {
+     "en": "The engineer says",
+     "words": [
+      {
+       "h": "工程师",
+       "py": "gōngchéngshī",
+       "gl": "engineer",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "a data center is like the heart of a city:",
+     "words": [
+      {
+       "h": "数据中心",
+       "py": "shùjùzhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "就像",
+       "py": "jiùxiàng",
+       "gl": "be just like",
+       "pos": "v."
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "心脏",
+       "py": "xīnzàng",
+       "gl": "heart (organ)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "it can't stop for a single moment.",
+     "words": [
+      {
+       "h": "一刻",
+       "py": "yìkè",
+       "gl": "moment; instant",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too; (with negation) even",
+       "pos": "adv."
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
+      },
+      {
+       "h": "停下来",
+       "py": "tíngxiàlái",
+       "gl": "stop; pause",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Every rack in this data center is equipped with an uninterruptible power supply and redundant power modules; the server clusters use load balancers to spread incoming requests across different nodes, and a precision air-conditioning system keeps the server hall strictly at around 22 degrees Celsius (72 degrees Fahrenheit), so that tens of thousands of servers can run reliably over the long term.",
+   "phrases": [
+    {
+     "en": "Every rack in this data center is equipped with an uninterruptible power supply and redundant power modules; the server clusters use load balancers to spread incoming requests across different nodes, and a precision air-conditioning system keeps the server hall strictly at around 22 degrees Celsius (72 degrees Fahrenheit), so that tens of thousands of servers can run reliably over the long term.",
+     "words": [
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "座",
+       "py": "zuò",
+       "gl": "measure word for cities, mountains, buildings, bridges",
+       "pos": "measure word"
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjùzhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "measure word (general, for people and things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "机柜",
+       "py": "jīguì",
+       "gl": "server rack; cabinet",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "配有",
+       "py": "pèiyǒu",
+       "gl": "be equipped with; come with",
+       "pos": "v."
+      },
+      {
+       "h": "不间断电源",
+       "py": "bùjiànduàndiànyuán",
+       "gl": "uninterruptible power supply (UPS)",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "冗余电源模块",
+       "py": "rǒngyúdiànyuánmókuài",
+       "gl": "redundant power supply module",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "服务器集群",
+       "py": "fúwùqìjíqún",
+       "gl": "server cluster",
+       "pos": "n."
+      },
+      {
+       "h": "通过",
+       "py": "tōngguò",
+       "gl": "through; by means of; via",
+       "pos": "prep."
+      },
+      {
+       "h": "负载均衡器",
+       "py": "fùzàijūnhéngqì",
+       "gl": "load balancer",
+       "pos": "n."
+      },
+      {
+       "h": "将",
+       "py": "jiāng",
+       "gl": "particle introducing the object before the verb (like 把)",
+       "pos": "function word"
+      },
+      {
+       "h": "访问请求",
+       "py": "fǎngwènqǐngqiú",
+       "gl": "access request",
+       "pos": "n."
+      },
+      {
+       "h": "分散",
+       "py": "fēnsàn",
+       "gl": "disperse; spread out; distract (attention)",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
+       "pos": "prep."
+      },
+      {
+       "h": "不同",
+       "py": "bùtóng",
+       "gl": "different",
+       "pos": "adj."
+      },
+      {
+       "h": "节点",
+       "py": "jiédiǎn",
+       "gl": "node",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "精密空调系统",
+       "py": "jīngmìkōngtiáoxìtǒng",
+       "gl": "precision air-conditioning system",
+       "pos": "n."
+      },
+      {
+       "h": "则",
+       "py": "zé",
+       "gl": "but; while; on the other hand (literary)",
+       "pos": "adv."
+      },
+      {
+       "h": "将",
+       "py": "jiāng",
+       "gl": "particle introducing the object before the verb (like 把)",
+       "pos": "function word"
+      },
+      {
+       "h": "机房",
+       "py": "jīfáng",
+       "gl": "server room; machine room",
+       "pos": "n."
+      },
+      {
+       "h": "温度",
+       "py": "wēndù",
+       "gl": "temperature; warmth",
+       "pos": "n."
+      },
+      {
+       "h": "严格",
+       "py": "yángé",
+       "gl": "strict; strictly",
+       "pos": "adv."
+      },
+      {
+       "h": "控制",
+       "py": "kòngzhì",
+       "gl": "control; keep within (limits)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "摄氏",
+       "py": "shèshì",
+       "gl": "Celsius",
+       "pos": "n."
+      },
+      {
+       "h": "二十二",
+       "py": "èrshíèr",
+       "gl": "twenty-two",
+       "pos": "num."
+      },
+      {
+       "h": "度",
+       "py": "dù",
+       "gl": "degree; level (suffix: 敏感度 'sensitivity')",
+       "pos": "measure word"
+      },
+      {
+       "h": "左右",
+       "py": "zuǒyòu",
+       "gl": "about; around (after a number)",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "以",
+       "py": "yǐ",
+       "gl": "in order to; so as to",
+       "pos": "prep."
+      },
+      {
+       "h": "保证",
+       "py": "bǎozhèng",
+       "gl": "guarantee; ensure; promise",
+       "pos": "v."
+      },
+      {
+       "h": "数以万计",
+       "py": "shǔyǐwànjì",
+       "gl": "tens of thousands",
+       "pos": "num."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "长期",
+       "py": "chángqī",
+       "gl": "long-term; over a long period",
+       "pos": "adv."
+      },
+      {
+       "h": "稳定",
+       "py": "wěndìng",
+       "gl": "stable; steady",
+       "pos": "adj."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The engineer explains that a data center's efficiency is usually measured by a metric called PUE, the ratio of the whole building's total power consumption to the power used by the IT equipment itself.",
+   "phrases": [
+    {
+     "en": "The engineer explains that a data center's efficiency is usually measured by a metric called PUE,",
+     "words": [
+      {
+       "h": "工程师",
+       "py": "gōngchéngshī",
+       "gl": "engineer",
+       "pos": "n."
+      },
+      {
+       "h": "解释说",
+       "py": "jiěshìshuō",
+       "gl": "explain; explained",
+       "pos": "v."
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjùzhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "运行效率",
+       "py": "yùnxíngxiàolǜ",
+       "gl": "operating efficiency",
+       "pos": "n."
+      },
+      {
+       "h": "通常",
+       "py": "tōngcháng",
+       "gl": "usually; normally",
+       "pos": "adv."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use; with (by means of)",
+       "pos": "prep."
+      },
+      {
+       "h": "PUE"
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "指标",
+       "py": "zhǐbiāo",
+       "gl": "indicator; index; target",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "(used between a method and a verb: in order to)",
+       "pos": "function word"
+      },
+      {
+       "h": "衡量",
+       "py": "héngliáng",
+       "gl": "weigh; measure; judge",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the ratio of the whole building's total power consumption to the power used by the IT equipment itself.",
+     "words": [
+      {
+       "h": "也就是",
+       "py": "yějiùshì",
+       "gl": "that is; namely",
+       "pos": "phrase"
+      },
+      {
+       "h": "整栋",
+       "py": "zhěngdòng",
+       "gl": "entire (building)",
+       "pos": "adj."
+      },
+      {
+       "h": "建筑",
+       "py": "jiànzhù",
+       "gl": "building; architecture",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "总耗电量",
+       "py": "zǒnghàodiànliàng",
+       "gl": "total power consumption",
+       "pos": "n."
+      },
+      {
+       "h": "与",
+       "py": "yǔ",
+       "gl": "and; with (formal)",
+       "pos": "conj."
+      },
+      {
+       "h": "IT"
+      },
+      {
+       "h": "设备",
+       "py": "shèbèi",
+       "gl": "equipment; device",
+       "pos": "n."
+      },
+      {
+       "h": "本身",
+       "py": "běnshēn",
+       "gl": "itself; in itself",
+       "pos": "adv."
+      },
+      {
+       "h": "耗电量",
+       "py": "hàodiànliàng",
+       "gl": "power consumption",
+       "pos": "n."
+      },
+      {
+       "h": "之比",
+       "py": "zhībǐ",
+       "gl": "ratio of (A to B)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The closer the PUE is to 1, the more efficient the data center, because less energy is going to cooling and auxiliary systems.",
+   "phrases": [
+    {
+     "en": "The closer the PUE is to 1, the more efficient the data center,",
+     "words": [
+      {
+       "h": "PUE"
+      },
+      {
+       "h": "数值",
+       "py": "shùzhí",
+       "gl": "value; reading",
+       "pos": "n."
+      },
+      {
+       "h": "越",
+       "py": "yuè",
+       "gl": "the more … (越…越… the more … the more …)",
+       "pos": "adv."
+      },
+      {
+       "h": "接近",
+       "py": "jiējìn",
+       "gl": "approach; be close to",
+       "pos": "v."
+      },
+      {
+       "h": "1"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjùzhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "越",
+       "py": "yuè",
+       "gl": "the more … (越…越… the more … the more …)",
+       "pos": "adv."
+      },
+      {
+       "h": "高效",
+       "py": "gāoxiào",
+       "gl": "efficient; highly effective",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "because less energy is going to cooling and auxiliary systems.",
+     "words": [
+      {
+       "h": "因为",
+       "py": "yīnwèi",
+       "gl": "because",
+       "pos": "conj."
+      },
+      {
+       "h": "用在",
+       "py": "yòngzài",
+       "gl": "use on; apply to",
+       "pos": "v."
+      },
+      {
+       "h": "制冷",
+       "py": "zhìlěng",
+       "gl": "cooling; refrigeration",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "辅助系统",
+       "py": "fǔzhùxìtǒng",
+       "gl": "auxiliary system",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "能源",
+       "py": "néngyuán",
+       "gl": "energy",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "越",
+       "py": "yuè",
+       "gl": "the more … (越…越… the more … the more …)",
+       "pos": "adv."
+      },
+      {
+       "h": "少",
+       "py": "shǎo",
+       "gl": "lack; have less (少了杂物 'less clutter')",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Most ordinary data centers have a PUE of roughly 1.5 to 2, while the most advanced and efficient ones can get below 1.2.",
+   "phrases": [
+    {
+     "en": "Most ordinary data centers have a PUE of roughly 1.5 to 2,",
+     "words": [
+      {
+       "h": "大多数",
+       "py": "dàduōshù",
+       "gl": "the vast majority; most",
+       "pos": "num."
+      },
+      {
+       "h": "普通",
+       "py": "pǔtōng",
+       "gl": "ordinary; common",
+       "pos": "adj."
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjùzhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "PUE"
+      },
+      {
+       "h": "值",
+       "py": "zhí",
+       "gl": "value (of a variable, etc.)",
+       "pos": "n."
+      },
+      {
+       "h": "大约",
+       "py": "dàyuē",
+       "gl": "about; approximately",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "1.5"
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "2"
+      },
+      {
+       "h": "之间",
+       "py": "zhījiān",
+       "gl": "between; among",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "while the most advanced and efficient ones can get below 1.2.",
+     "words": [
+      {
+       "h": "而",
+       "py": "ér",
+       "gl": "but; whereas; and",
+       "pos": "conj."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "先进",
+       "py": "xiānjìn",
+       "gl": "advanced",
+       "pos": "adj."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "高效",
+       "py": "gāoxiào",
+       "gl": "efficient; highly effective",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjùzhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may; be allowed",
+       "pos": "v."
+      },
+      {
+       "h": "低于",
+       "py": "dīyú",
+       "gl": "lower than; below",
+       "pos": "v."
+      },
+      {
+       "h": "1.2"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The industry also ranks data centers by reliability, from Tier I to Tier IV; the higher the tier, the more dependable the backups for power and cooling.",
+   "phrases": [
+    {
+     "en": "The industry also ranks data centers by reliability, from Tier I to Tier IV;",
+     "words": [
+      {
+       "h": "行业",
+       "py": "hángyè",
+       "gl": "industry; line of business",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "按",
+       "py": "àn",
+       "gl": "by; according to (按小时 by the hour)",
+       "pos": "prep."
+      },
+      {
+       "h": "可靠性",
+       "py": "kěkàoxìng",
+       "gl": "reliability",
+       "pos": "n."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjùzhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "分为",
+       "py": "fēnwéi",
+       "gl": "be divided into",
+       "pos": "v."
+      },
+      {
+       "h": "一级",
+       "py": "yījí",
+       "gl": "first level; first grade; top class",
+       "pos": "n."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "四级",
+       "py": "sìjí",
+       "gl": "level four; fourth grade",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the higher the tier, the more dependable the backups for power and cooling.",
+     "words": [
+      {
+       "h": "等级",
+       "py": "děngjí",
+       "gl": "level; grade; rank",
+       "pos": "n."
+      },
+      {
+       "h": "越",
+       "py": "yuè",
+       "gl": "the more … (越…越… the more … the more …)",
+       "pos": "adv."
+      },
+      {
+       "h": "高",
+       "py": "gāo",
+       "gl": "tall; high",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "电力",
+       "py": "diànlì",
+       "gl": "electric power; electricity",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "制冷系统",
+       "py": "zhìlěngxìtǒng",
+       "gl": "refrigeration system; cooling system",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "备份",
+       "py": "bèifèn",
+       "gl": "backup; back up",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "越",
+       "py": "yuè",
+       "gl": "the more … (越…越… the more … the more …)",
+       "pos": "adv."
+      },
+      {
+       "h": "可靠",
+       "py": "kěkào",
+       "gl": "reliable; trustworthy",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The top level, Tier IV, requires fully redundant power and cooling systems, so the failure of a single component almost never interrupts operations.",
+   "phrases": [
+    {
+     "en": "The top level, Tier IV, requires fully redundant power and cooling systems,",
+     "words": [
+      {
+       "h": "最高",
+       "py": "zuìgāo",
+       "gl": "highest; supreme",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "四级",
+       "py": "sìjí",
+       "gl": "level four; fourth grade",
+       "pos": "n."
+      },
+      {
+       "h": "要求",
+       "py": "yāoqiú",
+       "gl": "ask; request; demand; insist on; requirement; require",
+       "pos": "v."
+      },
+      {
+       "h": "电力",
+       "py": "diànlì",
+       "gl": "electric power; electricity",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "制冷系统",
+       "py": "zhìlěngxìtǒng",
+       "gl": "refrigeration system; cooling system",
+       "pos": "n."
+      },
+      {
+       "h": "完全",
+       "py": "wánquán",
+       "gl": "completely; fully",
+       "pos": "adv."
+      },
+      {
+       "h": "冗余",
+       "py": "rǒngyú",
+       "gl": "redundancy; redundant",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "so the failure of a single component almost never interrupts operations.",
+     "words": [
+      {
+       "h": "因此",
+       "py": "yīncǐ",
+       "gl": "because of this; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "单个",
+       "py": "dāngè",
+       "gl": "single; individual",
+       "pos": "adj."
+      },
+      {
+       "h": "部件",
+       "py": "bùjiàn",
+       "gl": "part; component",
+       "pos": "n."
+      },
+      {
+       "h": "出现",
+       "py": "chūxiàn",
+       "gl": "appear; emerge",
+       "pos": "v."
+      },
+      {
+       "h": "故障",
+       "py": "gùzhàng",
+       "gl": "breakdown; malfunction; fault",
+       "pos": "n."
+      },
+      {
+       "h": "几乎",
+       "py": "jīhū",
+       "gl": "almost; nearly",
+       "pos": "adv."
+      },
+      {
+       "h": "从不",
+       "py": "cóngbù",
+       "gl": "never",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "导致",
+       "py": "dǎozhì",
+       "gl": "lead to; cause",
+       "pos": "v."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "n."
+      },
+      {
+       "h": "中断",
+       "py": "zhōngduàn",
+       "gl": "be interrupted; break off",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This kind of redundancy is often called an N+1 setup: on top of the servers and power supplies needed for normal operation, at least one extra backup component is installed.",
+   "phrases": [
+    {
+     "en": "This kind of redundancy is often called an N+1 setup:",
+     "words": [
+      {
+       "h": "这种",
+       "py": "zhèzhǒng",
+       "gl": "this kind of; such",
+       "pos": "pron."
+      },
+      {
+       "h": "冗余",
+       "py": "rǒngyú",
+       "gl": "redundancy; redundant",
+       "pos": "n."
+      },
+      {
+       "h": "常",
+       "py": "cháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "称为",
+       "py": "chēngwéi",
+       "gl": "be called; be known as",
+       "pos": "v."
+      },
+      {
+       "h": "N+1"
+      },
+      {
+       "h": "方案",
+       "py": "fāngàn",
+       "gl": "scheme; setup",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "on top of the servers and power supplies needed for normal operation,",
+     "words": [
+      {
+       "h": "除了",
+       "py": "chúle",
+       "gl": "except; besides; apart from",
+       "pos": "prep."
+      },
+      {
+       "h": "维持",
+       "py": "wéichí",
+       "gl": "maintain; keep up; last",
+       "pos": "v."
+      },
+      {
+       "h": "正常",
+       "py": "zhèngcháng",
+       "gl": "normal",
+       "pos": "adj."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "n."
+      },
+      {
+       "h": "所需",
+       "py": "suǒxū",
+       "gl": "needed; required",
+       "pos": "phrase"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "电源",
+       "py": "diànyuán",
+       "gl": "power supply",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "at least one extra backup component is installed.",
+     "words": [
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "额外",
+       "py": "éwài",
+       "gl": "extra; additional(ly)",
+       "pos": "adv."
+      },
+      {
+       "h": "安装",
+       "py": "ānzhuāng",
+       "gl": "install",
+       "pos": "v."
+      },
+      {
+       "h": "至少",
+       "py": "zhìshǎo",
+       "gl": "at least",
+       "pos": "adv."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "备用部件",
+       "py": "bèiyòngbùjiàn",
+       "gl": "backup component; spare part",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "For cooling, most data centers still rely on flows of cold air, but some newly built server halls have started using liquid cooling, which removes heat far more efficiently.",
+   "phrases": [
+    {
+     "en": "For cooling, most data centers still rely on flows of cold air,",
+     "words": [
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "制冷方面",
+       "py": "zhìlěngfāngmiàn",
+       "gl": "in terms of cooling",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "大多数",
+       "py": "dàduōshù",
+       "gl": "the vast majority; most",
+       "pos": "num."
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjùzhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "目前",
+       "py": "mùqián",
+       "gl": "currently; at present",
+       "pos": "adv."
+      },
+      {
+       "h": "仍",
+       "py": "réng",
+       "gl": "still; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "使用",
+       "py": "shǐyòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "冷空气",
+       "py": "lěngkōngqì",
+       "gl": "cold air",
+       "pos": "n."
+      },
+      {
+       "h": "气流",
+       "py": "qìliú",
+       "gl": "airflow; air current",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but some newly built server halls have started using liquid cooling,",
+     "words": [
+      {
+       "h": "但",
+       "py": "dàn",
+       "gl": "but",
+       "pos": "conj."
+      },
+      {
+       "h": "一些",
+       "py": "yīxiē",
+       "gl": "some; certain",
+       "pos": "num."
+      },
+      {
+       "h": "新建",
+       "py": "xīnjiàn",
+       "gl": "newly built; build",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "机房",
+       "py": "jīfáng",
+       "gl": "server room; machine room",
+       "pos": "n."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
+       "pos": "v."
+      },
+      {
+       "h": "采用",
+       "py": "cǎiyòng",
+       "gl": "adopt; use (a method)",
+       "pos": "v."
+      },
+      {
+       "h": "液冷",
+       "py": "yèlěng",
+       "gl": "liquid cooling",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "which removes heat far more efficiently.",
+     "words": [
+      {
+       "h": "其",
+       "py": "qí",
+       "gl": "his; her; its; their; him; it (literary)",
+       "pos": "pron."
+      },
+      {
+       "h": "散热效率",
+       "py": "sànrèxiàolǜ",
+       "gl": "heat dissipation efficiency",
+       "pos": "n."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "(in comparisons) even; much (比…要…得多)",
+       "pos": "adv."
+      },
+      {
+       "h": "高",
+       "py": "gāo",
+       "gl": "tall; high",
+       "pos": "adj."
+      },
+      {
+       "h": "得多",
+       "py": "déduō",
+       "gl": "much (more) (好得多 much better)",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Hot and cold airflows are deliberately separated by partitions, so the hot air the servers exhaust doesn't mix with the cold air used for cooling.",
+   "phrases": [
+    {
+     "en": "Hot and cold airflows are deliberately separated by partitions,",
+     "words": [
+      {
+       "h": "冷热气流",
+       "py": "lěngrèqìliú",
+       "gl": "cold and hot air flows",
+       "pos": "n."
+      },
+      {
+       "h": "通过",
+       "py": "tōngguò",
+       "gl": "through; by means of; via",
+       "pos": "prep."
+      },
+      {
+       "h": "隔板",
+       "py": "gébǎn",
+       "gl": "partition; divider",
+       "pos": "n."
+      },
+      {
+       "h": "专门",
+       "py": "zhuānmén",
+       "gl": "specially; special; specialized",
+       "pos": "adv."
+      },
+      {
+       "h": "分开",
+       "py": "fēnkāi",
+       "gl": "separate; part",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "so the hot air the servers exhaust doesn't mix with the cold air used for cooling.",
+     "words": [
+      {
+       "h": "防止",
+       "py": "fángzhǐ",
+       "gl": "prevent",
+       "pos": "v."
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "排出",
+       "py": "páichū",
+       "gl": "discharge; expel; drain",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "热空气",
+       "py": "rèkōngqì",
+       "gl": "hot air",
+       "pos": "n."
+      },
+      {
+       "h": "与",
+       "py": "yǔ",
+       "gl": "and; with (formal)",
+       "pos": "conj."
+      },
+      {
+       "h": "用于",
+       "py": "yòngyú",
+       "gl": "be used for",
+       "pos": "prep."
+      },
+      {
+       "h": "制冷",
+       "py": "zhìlěng",
+       "gl": "cooling; refrigeration",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "冷空气",
+       "py": "lěngkōngqì",
+       "gl": "cold air",
+       "pos": "n."
+      },
+      {
+       "h": "混合",
+       "py": "hùnhé",
+       "gl": "mix; blend; mixed",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The engineer adds that every few months the center holds an emergency switchover drill, firing up the backup generators to confirm that everything will keep working if the city power goes out.",
+   "phrases": [
+    {
+     "en": "The engineer adds that every few months the center holds an emergency switchover drill, firing up the backup generators,",
+     "words": [
+      {
+       "h": "工程师",
+       "py": "gōngchéngshī",
+       "gl": "engineer",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "补充说",
+       "py": "bǔchōngshuō",
+       "gl": "add (in speaking)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每隔几个月",
+       "py": "měigéjǐgèyuè",
+       "gl": "every few months",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "中心",
+       "py": "zhōngxīn",
+       "gl": "center",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "进行",
+       "py": "jìnxíng",
+       "gl": "carry out; conduct",
+       "pos": "v."
+      },
+      {
+       "h": "一次",
+       "py": "yīcì",
+       "gl": "once; in one go; at the first attempt",
+       "pos": "num."
+      },
+      {
+       "h": "应急切换演练",
+       "py": "yìngjíqièhuànyǎnliàn",
+       "gl": "emergency switchover drill",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "启用",
+       "py": "qǐyòng",
+       "gl": "put into use; launch",
+       "pos": "v."
+      },
+      {
+       "h": "备用发电机",
+       "py": "bèiyòngfādiànjī",
+       "gl": "backup generator",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "to confirm that everything will keep working if the city power goes out.",
+     "words": [
+      {
+       "h": "以",
+       "py": "yǐ",
+       "gl": "in order to; so as to",
+       "pos": "conj."
+      },
+      {
+       "h": "确认",
+       "py": "quèrèn",
+       "gl": "confirm",
+       "pos": "v."
+      },
+      {
+       "h": "市电",
+       "py": "shìdiàn",
+       "gl": "mains power; grid electricity",
+       "pos": "n."
+      },
+      {
+       "h": "中断",
+       "py": "zhōngduàn",
+       "gl": "be interrupted; break off",
+       "pos": "n."
+      },
+      {
+       "h": "时",
+       "py": "shí",
+       "gl": "when; time",
+       "pos": "postposition"
+      },
+      {
+       "h": "一切",
+       "py": "yīqiè",
+       "gl": "everything; all",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "正常",
+       "py": "zhèngcháng",
+       "gl": "normal",
+       "pos": "adv."
+      },
+      {
+       "h": "运作",
+       "py": "yùnzuò",
+       "gl": "operate; function; operation",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The servers are mounted in standard 19-inch racks, and many components, such as hard drives and power supplies, can be swapped out without shutting down the whole server.",
+   "phrases": [
+    {
+     "en": "The servers are mounted in standard 19-inch racks,",
+     "words": [
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "安装",
+       "py": "ānzhuāng",
+       "gl": "install; installation",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "标准",
+       "py": "biāozhǔn",
+       "gl": "standard (adj.)",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "十九",
+       "py": "shíjiǔ",
+       "gl": "nineteen",
+       "pos": "num."
+      },
+      {
+       "h": "英寸",
+       "py": "yīngcùn",
+       "gl": "inch",
+       "pos": "measure word"
+      },
+      {
+       "h": "机柜",
+       "py": "jīguì",
+       "gl": "server rack; cabinet",
+       "pos": "n."
+      },
+      {
+       "h": "中",
+       "py": "zhōng",
+       "gl": "in; during (工作中 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and many components, such as hard drives and power supplies,",
+     "words": [
+      {
+       "h": "许多",
+       "py": "xǔduō",
+       "gl": "many; a lot of",
+       "pos": "num."
+      },
+      {
+       "h": "部件",
+       "py": "bùjiàn",
+       "gl": "part; component",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "比如",
+       "py": "bǐrú",
+       "gl": "for example",
+       "pos": "conj."
+      },
+      {
+       "h": "硬盘",
+       "py": "yìngpán",
+       "gl": "hard drive",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "电源",
+       "py": "diànyuán",
+       "gl": "power supply",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "can be swapped out without shutting down the whole server.",
+     "words": [
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on; be (at, in); particle: action in progress (他在吃 'he is eating')",
+       "pos": "prep."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "particle"
+      },
+      {
+       "h": "关闭",
+       "py": "guānbì",
+       "gl": "close; shut down; turn off",
+       "pos": "v."
+      },
+      {
+       "h": "整台",
+       "py": "zhěngtái",
+       "gl": "the whole (machine)",
+       "pos": "adj."
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "情况下",
+       "py": "qíngkuàngxià",
+       "gl": "under (the circumstances); in (a situation)",
+       "pos": "phrase"
+      },
+      {
+       "h": "更换",
+       "py": "gēnghuàn",
+       "gl": "replace; change",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Pointing to the rows of thick cables under the raised floor, the engineer explains that they include both power lines and data network lines, each run through separate cable trays.",
+   "phrases": [
+    {
+     "en": "Pointing to the rows of thick cables under the raised floor,",
+     "words": [
+      {
+       "h": "工程师",
+       "py": "gōngchéngshī",
+       "gl": "engineer",
+       "pos": "n."
+      },
+      {
+       "h": "指着",
+       "py": "zhǐzhe",
+       "gl": "point at",
+       "pos": "v."
+      },
+      {
+       "h": "架空地板",
+       "py": "jiàkōngdìbǎn",
+       "gl": "raised floor",
+       "pos": "n."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "under (强光下 under bright light)",
+       "pos": "postposition"
+      },
+      {
+       "h": "一排排",
+       "py": "yīpáipái",
+       "gl": "row upon row; rows of",
+       "pos": "adj."
+      },
+      {
+       "h": "粗壮",
+       "py": "cūzhuàng",
+       "gl": "thick; sturdy",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "线缆",
+       "py": "xiànlǎn",
+       "gl": "cable",
+       "pos": "n."
+      }
+     ]
+    },
+    {
+     "en": "the engineer explains that they include both power lines and data network lines,",
+     "words": [
+      {
+       "h": "，"
+      },
+      {
+       "h": "解释说",
+       "py": "jiěshìshuō",
+       "gl": "explain; explained",
+       "pos": "v."
+      },
+      {
+       "h": "里面",
+       "py": "lǐmiàn",
+       "gl": "inside",
+       "pos": "adv."
+      },
+      {
+       "h": "既有",
+       "py": "jìyǒu",
+       "gl": "there are both... (既有A也有B)",
+       "pos": "conj."
+      },
+      {
+       "h": "电力线路",
+       "py": "diànlìxiànlù",
+       "gl": "power line",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也有",
+       "py": "yěyǒu",
+       "gl": "there is also; also have",
+       "pos": "conj."
+      },
+      {
+       "h": "数据网络线路",
+       "py": "shùjùwǎngluòxiànlù",
+       "gl": "data network line",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "each run through separate cable trays.",
+     "words": [
+      {
+       "h": "它们",
+       "py": "tāmen",
+       "gl": "they; them (for animals and things)",
+       "pos": "pron."
+      },
+      {
+       "h": "分别",
+       "py": "fēnbié",
+       "gl": "respectively; separately",
+       "pos": "adv."
+      },
+      {
+       "h": "装",
+       "py": "zhuāng",
+       "gl": "install; fit; load; hold",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "不同",
+       "py": "bùtóng",
+       "gl": "different",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "线槽",
+       "py": "xiàncáo",
+       "gl": "cable trough; wiring duct",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Backbone fiber-optic lines connect this data center to other cities, carrying an enormous amount of information every second.",
+   "phrases": [
+    {
+     "en": "Backbone fiber-optic lines connect this data center to other cities,",
+     "words": [
+      {
+       "h": "主干光纤线路",
+       "py": "zhǔgànguāngxiānxiànlù",
+       "gl": "backbone fiber-optic line",
+       "pos": "n."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjùzhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "与",
+       "py": "yǔ",
+       "gl": "and; with (formal)",
+       "pos": "prep."
+      },
+      {
+       "h": "其他",
+       "py": "qítā",
+       "gl": "other; else",
+       "pos": "pron."
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "连接起来",
+       "py": "liánjiēqǐlái",
+       "gl": "connect; link up",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "carrying an enormous amount of information every second.",
+     "words": [
+      {
+       "h": "每秒钟",
+       "py": "měimiǎozhōng",
+       "gl": "every second",
+       "pos": "adv."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "巨大",
+       "py": "jùdà",
+       "gl": "huge; enormous",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "信息量",
+       "py": "xìnxīliàng",
+       "gl": "amount of information",
+       "pos": "n."
+      },
+      {
+       "h": "通过",
+       "py": "tōngguò",
+       "gl": "through; by means of; via",
+       "pos": "prep."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "传输",
+       "py": "chuánshū",
+       "gl": "transmit; transmission",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Data is never stored on just one server; it is copied at the same time to several servers spread across different racks, or even different buildings, so that a fire or flood in one place won't cause data to be lost.",
+   "phrases": [
+    {
+     "en": "Data is never stored on just one server; it is copied at the same time",
+     "words": [
+      {
+       "h": "数据",
+       "py": "shùjù",
+       "gl": "data",
+       "pos": "n."
+      },
+      {
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely (会不会 'will or won't')",
+       "pos": "v."
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "保存",
+       "py": "bǎocún",
+       "gl": "preserve; keep; save; storage",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "一台",
+       "py": "yītái",
+       "gl": "one (machine, device)",
+       "pos": "measure word"
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "而是",
+       "py": "érshì",
+       "gl": "but rather (不是…而是… not … but …)",
+       "pos": "conj."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "同时",
+       "py": "tóngshí",
+       "gl": "at the same time; meanwhile",
+       "pos": "adv."
+      },
+      {
+       "h": "复制",
+       "py": "fùzhì",
+       "gl": "copy; replicate",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
+       "pos": "prep."
+      }
+     ]
+    },
+    {
+     "en": "to several servers spread across different racks, or even different buildings,",
+     "words": [
+      {
+       "h": "分布",
+       "py": "fēnbù",
+       "gl": "distribution; be distributed",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "不同",
+       "py": "bùtóng",
+       "gl": "different",
+       "pos": "adj."
+      },
+      {
+       "h": "机柜",
+       "py": "jīguì",
+       "gl": "server rack; cabinet",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "甚至",
+       "py": "shènzhì",
+       "gl": "even; so much so that",
+       "pos": "conj."
+      },
+      {
+       "h": "不同",
+       "py": "bùtóng",
+       "gl": "different",
+       "pos": "adj."
+      },
+      {
+       "h": "建筑",
+       "py": "jiànzhù",
+       "gl": "building; architecture",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "多台",
+       "py": "duōtái",
+       "gl": "several (machines)",
+       "pos": "measure word"
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "so that a fire or flood in one place won't cause data to be lost.",
+     "words": [
+      {
+       "h": "以防",
+       "py": "yǐfáng",
+       "gl": "in case; so as to prevent",
+       "pos": "conj."
+      },
+      {
+       "h": "某个",
+       "py": "mǒugè",
+       "gl": "a certain; some",
+       "pos": "pron."
+      },
+      {
+       "h": "地方",
+       "py": "dìfāng",
+       "gl": "place",
+       "pos": "n."
+      },
+      {
+       "h": "发生",
+       "py": "fāshēng",
+       "gl": "happen; occur",
+       "pos": "v."
+      },
+      {
+       "h": "火灾",
+       "py": "huǒzāi",
+       "gl": "fire (disaster)",
+       "pos": "n."
+      },
+      {
+       "h": "或",
+       "py": "huò",
+       "gl": "or",
+       "pos": "conj."
+      },
+      {
+       "h": "水灾",
+       "py": "shuǐzāi",
+       "gl": "flood",
+       "pos": "n."
+      },
+      {
+       "h": "而",
+       "py": "ér",
+       "gl": "and (yet); while",
+       "pos": "conj."
+      },
+      {
+       "h": "导致",
+       "py": "dǎozhì",
+       "gl": "lead to; cause",
+       "pos": "v."
+      },
+      {
+       "h": "数据",
+       "py": "shùjù",
+       "gl": "data",
+       "pos": "n."
+      },
+      {
+       "h": "丢失",
+       "py": "diūshī",
+       "gl": "lose; loss",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This practice is called off-site backup, and large companies generally consider it one of the most reliable ways to protect data.",
+   "phrases": [
+    {
+     "en": "This practice is called off-site backup,",
+     "words": [
+      {
+       "h": "这种",
+       "py": "zhèzhǒng",
+       "gl": "this kind of; such",
+       "pos": "pron."
+      },
+      {
+       "h": "做法",
+       "py": "zuòfǎ",
+       "gl": "practice; way of doing things; method",
+       "pos": "n."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "称为",
+       "py": "chēngwéi",
+       "gl": "be called; be known as",
+       "pos": "v."
+      },
+      {
+       "h": "异地备份",
+       "py": "yìdìbèifèn",
+       "gl": "off-site backup",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and large companies generally consider it one of the most reliable ways to protect data.",
+     "words": [
+      {
+       "h": "大型",
+       "py": "dàxíng",
+       "gl": "large; large-scale",
+       "pos": "adj."
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
+       "pos": "n."
+      },
+      {
+       "h": "普遍",
+       "py": "pǔbiàn",
+       "gl": "widely; generally; common",
+       "pos": "adv."
+      },
+      {
+       "h": "认为",
+       "py": "rènwéi",
+       "gl": "think; believe; consider",
+       "pos": "v."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "保护",
+       "py": "bǎohù",
+       "gl": "protection; protect",
+       "pos": "v."
+      },
+      {
+       "h": "数据",
+       "py": "shùjù",
+       "gl": "data",
+       "pos": "n."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "可靠",
+       "py": "kěkào",
+       "gl": "reliable; trustworthy",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "方式",
+       "py": "fāngshì",
+       "gl": "way; method",
+       "pos": "n."
+      },
+      {
+       "h": "之一",
+       "py": "zhīyī",
+       "gl": "one of (最…之一 'one of the most …')",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Only employees with the proper clearance can enter the server hall: the door opens only after you swipe a key card and scan your fingerprint.",
+   "phrases": [
+    {
+     "en": "Only employees with the proper clearance can enter the server hall:",
+     "words": [
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "conj."
+      },
+      {
+       "h": "拥有",
+       "py": "yōngyǒu",
+       "gl": "have; own; possess",
+       "pos": "v."
+      },
+      {
+       "h": "相应",
+       "py": "xiāngyìng",
+       "gl": "corresponding; accordingly",
+       "pos": "adj."
+      },
+      {
+       "h": "权限",
+       "py": "quánxiàn",
+       "gl": "permission; access rights",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "员工",
+       "py": "yuángōng",
+       "gl": "employee; staff",
+       "pos": "n."
+      },
+      {
+       "h": "才能",
+       "py": "cáinéng",
+       "gl": "only then; (only) ... can",
+       "pos": "adv."
+      },
+      {
+       "h": "进入",
+       "py": "jìnrù",
+       "gl": "enter; get into",
+       "pos": "v."
+      },
+      {
+       "h": "机房",
+       "py": "jīfáng",
+       "gl": "server room; machine room",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "the door opens only after you swipe a key card and scan your fingerprint.",
+     "words": [
+      {
+       "h": "门禁",
+       "py": "ménjìn",
+       "gl": "access control (entry gate system)",
+       "pos": "n."
+      },
+      {
+       "h": "需要",
+       "py": "xūyào",
+       "gl": "need; require; need to; have to",
+       "pos": "v."
+      },
+      {
+       "h": "刷",
+       "py": "shuā",
+       "gl": "scan; swipe (a card)",
+       "pos": "v."
+      },
+      {
+       "h": "门卡",
+       "py": "ménkǎ",
+       "gl": "key card; access card",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并",
+       "py": "bìng",
+       "gl": "and; also; moreover",
+       "pos": "conj."
+      },
+      {
+       "h": "扫描",
+       "py": "sǎomiáo",
+       "gl": "scanning; scan",
+       "pos": "v."
+      },
+      {
+       "h": "指纹",
+       "py": "zhǐwén",
+       "gl": "fingerprint",
+       "pos": "n."
+      },
+      {
+       "h": "才能",
+       "py": "cáinéng",
+       "gl": "only then; (only) ... can",
+       "pos": "adv."
+      },
+      {
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The engineer points out that a data center's availability is usually expressed as a percentage: the share of the year during which its services run without interruption.",
+   "phrases": [
+    {
+     "en": "The engineer points out that a data center's availability is usually expressed as a percentage:",
+     "words": [
+      {
+       "h": "工程师",
+       "py": "gōngchéngshī",
+       "gl": "engineer",
+       "pos": "n."
+      },
+      {
+       "h": "指出",
+       "py": "zhǐchū",
+       "gl": "point out",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjùzhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "可用性",
+       "py": "kěyòngxìng",
+       "gl": "availability (uptime)",
+       "pos": "n."
+      },
+      {
+       "h": "通常",
+       "py": "tōngcháng",
+       "gl": "usually; normally",
+       "pos": "adv."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use; with (by means of)",
+       "pos": "prep."
+      },
+      {
+       "h": "百分比",
+       "py": "bǎifēnbǐ",
+       "gl": "percentage",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "(used between a method and a verb: in order to)",
+       "pos": "function word"
+      },
+      {
+       "h": "衡量",
+       "py": "héngliáng",
+       "gl": "weigh; measure; judge",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the share of the year during which its services run without interruption.",
+     "words": [
+      {
+       "h": "也就是",
+       "py": "yějiùshì",
+       "gl": "that is; namely",
+       "pos": "phrase"
+      },
+      {
+       "h": "全年",
+       "py": "quánnián",
+       "gl": "the whole year; annual",
+       "pos": "adv."
+      },
+      {
+       "h": "服务",
+       "py": "fúwù",
+       "gl": "serve; service",
+       "pos": "n."
+      },
+      {
+       "h": "不间断",
+       "py": "bùjiànduàn",
+       "gl": "nonstop; continuous",
+       "pos": "adj."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "所占",
+       "py": "suǒzhàn",
+       "gl": "proportion taken up (by)",
+       "pos": "phrase"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "比例",
+       "py": "bǐlì",
+       "gl": "proportion; ratio",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The most reliable data centers aim for at least 99.99 percent availability a year, which means less than an hour of downtime in total over the whole year.",
+   "phrases": [
+    {
+     "en": "The most reliable data centers aim for at least 99.99 percent availability a year,",
+     "words": [
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "可靠",
+       "py": "kěkào",
+       "gl": "reliable; trustworthy",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjùzhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "力求",
+       "py": "lìqiú",
+       "gl": "strive for; make every effort to",
+       "pos": "v."
+      },
+      {
+       "h": "全年",
+       "py": "quánnián",
+       "gl": "the whole year; annual",
+       "pos": "adv."
+      },
+      {
+       "h": "可用性",
+       "py": "kěyòngxìng",
+       "gl": "availability (uptime)",
+       "pos": "n."
+      },
+      {
+       "h": "不低于",
+       "py": "bùdīyú",
+       "gl": "not lower than; at least",
+       "pos": "v."
+      },
+      {
+       "h": "百分之九十九点九九",
+       "py": "bǎifēnzhījiǔshíjiǔdiǎnjiǔjiǔ",
+       "gl": "99.99 percent",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "which means less than an hour of downtime in total over the whole year.",
+     "words": [
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "意味着",
+       "py": "yìwèizhe",
+       "gl": "mean; signify; imply",
+       "pos": "v."
+      },
+      {
+       "h": "全年",
+       "py": "quánnián",
+       "gl": "the whole year; annual",
+       "pos": "adv."
+      },
+      {
+       "h": "累计",
+       "py": "lěijì",
+       "gl": "cumulatively; in total",
+       "pos": "adv."
+      },
+      {
+       "h": "停机时间",
+       "py": "tíngjīshíjiān",
+       "gl": "downtime",
+       "pos": "n."
+      },
+      {
+       "h": "不到",
+       "py": "búdào",
+       "gl": "less than; under",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one; a",
+       "pos": "num."
+      },
+      {
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The engineer also adds that besides the servers, the hall has an automatic fire suppression system that uses a special gas instead of water, to avoid damaging the electronics.",
+   "phrases": [
+    {
+     "en": "The engineer also adds that besides the servers, the hall has an automatic fire suppression system",
+     "words": [
+      {
+       "h": "工程师",
+       "py": "gōngchéngshī",
+       "gl": "engineer",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "补充说",
+       "py": "bǔchōngshuō",
+       "gl": "add (in speaking)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "机房",
+       "py": "jīfáng",
+       "gl": "server room; machine room",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "除了",
+       "py": "chúle",
+       "gl": "except; besides; apart from",
+       "pos": "prep."
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "安装",
+       "py": "ānzhuāng",
+       "gl": "install; installation",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "自动灭火系统",
+       "py": "zìdòngmièhuǒxìtǒng",
+       "gl": "automatic fire suppression system",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that uses a special gas instead of water, to avoid damaging the electronics.",
+     "words": [
+      {
+       "h": "使用",
+       "py": "shǐyòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "专用",
+       "py": "zhuānyòng",
+       "gl": "special-purpose; dedicated",
+       "pos": "adj."
+      },
+      {
+       "h": "气体",
+       "py": "qìtǐ",
+       "gl": "gas",
+       "pos": "n."
+      },
+      {
+       "h": "而不是",
+       "py": "érbúshì",
+       "gl": "rather than; instead of",
+       "pos": "conj."
+      },
+      {
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "以",
+       "py": "yǐ",
+       "gl": "in order to; so as to",
+       "pos": "conj."
+      },
+      {
+       "h": "避免",
+       "py": "bìmiǎn",
+       "gl": "avoid",
+       "pos": "v."
+      },
+      {
+       "h": "损坏",
+       "py": "sǔnhuài",
+       "gl": "damage; damaged",
+       "pos": "v."
+      },
+      {
+       "h": "电子设备",
+       "py": "diànzishèbèi",
+       "gl": "electronic device",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Smoke detectors cover the entire ceiling, and at the first sign of fire the system automatically cuts the power to that area.",
+   "phrases": [
+    {
+     "en": "Smoke detectors cover the entire ceiling,",
+     "words": [
+      {
+       "h": "烟雾传感器",
+       "py": "yānwùchuángǎnqì",
+       "gl": "smoke detector",
+       "pos": "n."
+      },
+      {
+       "h": "布满",
+       "py": "bùmǎn",
+       "gl": "be covered with; be full of",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "整个",
+       "py": "zhěnggè",
+       "gl": "whole; entire",
+       "pos": "adj."
+      },
+      {
+       "h": "天花板",
+       "py": "tiānhuābǎn",
+       "gl": "ceiling",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and at the first sign of fire the system automatically cuts the power to that area.",
+     "words": [
+      {
+       "h": "一旦",
+       "py": "yídàn",
+       "gl": "once; in case; as soon as",
+       "pos": "conj."
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "任何",
+       "py": "rènhé",
+       "gl": "any",
+       "pos": "pron."
+      },
+      {
+       "h": "起火迹象",
+       "py": "qǐhuǒjìxiàng",
+       "gl": "signs of fire",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "系统",
+       "py": "xìtǒng",
+       "gl": "system",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "自动",
+       "py": "zìdòng",
+       "gl": "automatically; automatic",
+       "pos": "adv."
+      },
+      {
+       "h": "切断",
+       "py": "qiēduàn",
+       "gl": "cut off; switch off",
+       "pos": "v."
+      },
+      {
+       "h": "该",
+       "py": "gāi",
+       "gl": "this; the said (formal)",
+       "pos": "pron."
+      },
+      {
+       "h": "区域",
+       "py": "qūyù",
+       "gl": "area; region; zone",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "电源",
+       "py": "diànyuán",
+       "gl": "power supply",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "series": "engineering",
+ "episode": 13,
+ "episode_count": 20
+}

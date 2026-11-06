@@ -1,0 +1,808 @@
+{
+ "id": "spacedrepetition4",
+ "level": 4,
+ "title_zh": "间隔重复记忆法",
+ "title_en": "Spaced Repetition",
+ "free": false,
+ "audio_url": null,
+ "note_en": "比起A，B…… means \"compared with A, B ...\": 比起死记硬背，科学安排复习时间确实能让人少走很多弯路 \"compared with rote memorization, scheduling your reviews scientifically really does save you a lot of wasted effort.\" Unlike 比, which sits inside the sentence (A比B好), 比起 opens the sentence with the thing being compared against.",
+ "sentences": [
+  {
+   "en": "When memorizing vocabulary, a lot of people like to cram at the last minute, which they call \"hugging Buddha's feet,\" and it usually doesn't work very well.",
+   "phrases": [
+    {
+     "en": "When memorizing vocabulary, a lot of people like to cram at the last minute, which they call \"hugging Buddha's feet,\" and it usually doesn't work very well.",
+     "words": [
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot; much",
+       "pos": "adj."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "背",
+       "py": "bèi",
+       "gl": "learn by heart; memorize; back (of the body)",
+       "pos": "v."
+      },
+      {
+       "h": "单词",
+       "py": "dāncí",
+       "gl": "word; vocabulary item",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "喜欢",
+       "py": "xǐhuan",
+       "gl": "like; love",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "临时",
+       "py": "línshí",
+       "gl": "at the last minute (临时抱佛脚 cram at the last minute); temporary",
+       "pos": "adv."
+      },
+      {
+       "h": "抱",
+       "py": "bào",
+       "gl": "hold; hug; embrace (临时抱佛脚 cram at the last minute)",
+       "pos": "v."
+      },
+      {
+       "h": "佛脚",
+       "py": "fújiǎo",
+       "gl": "Buddha's feet (临时抱佛脚 cram at the last minute)",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "效果",
+       "py": "xiàoguǒ",
+       "gl": "effect; result",
+       "pos": "n."
+      },
+      {
+       "h": "往往",
+       "py": "wǎngwǎng",
+       "gl": "often; usually; tend to",
+       "pos": "adv."
+      },
+      {
+       "h": "不好",
+       "py": "bùhǎo",
+       "gl": "bad; harmful",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Research shows that reviewing at set intervals helps you remember better.",
+   "phrases": [
+    {
+     "en": "Research shows that reviewing at set intervals helps you remember better.",
+     "words": [
+      {
+       "h": "研究",
+       "py": "yánjiū",
+       "gl": "research; study",
+       "pos": "v."
+      },
+      {
+       "h": "表明",
+       "py": "biǎomíng",
+       "gl": "show; indicate",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "按照",
+       "py": "ànzhào",
+       "gl": "according to",
+       "pos": "prep."
+      },
+      {
+       "h": "固定",
+       "py": "gùdìng",
+       "gl": "fixed; regular; steady",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "间隔",
+       "py": "jiàngé",
+       "gl": "interval; spacing",
+       "pos": "n."
+      },
+      {
+       "h": "复习",
+       "py": "fùxí",
+       "gl": "review (lessons)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "记忆",
+       "py": "jìyì",
+       "gl": "memory",
+       "pos": "n."
+      },
+      {
+       "h": "效果",
+       "py": "xiàoguǒ",
+       "gl": "effect; result",
+       "pos": "n."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "even more; more",
+       "pos": "adv."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good; well",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This \"spaced repetition\" method takes advantage of the way the brain forgets.",
+   "phrases": [
+    {
+     "en": "This \"spaced repetition\" method takes advantage of the way the brain forgets.",
+     "words": [
+      {
+       "h": "这种",
+       "py": "zhèzhǒng",
+       "gl": "this kind of; such",
+       "pos": "pron."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "间隔",
+       "py": "jiàngé",
+       "gl": "interval; spacing",
+       "pos": "n."
+      },
+      {
+       "h": "重复",
+       "py": "chóngfù",
+       "gl": "repeat; repetition",
+       "pos": "v."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "方法",
+       "py": "fāngfǎ",
+       "gl": "method; way",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "利用",
+       "py": "lìyòng",
+       "gl": "use; make use of; take advantage of",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "大脑",
+       "py": "dànǎo",
+       "gl": "brain",
+       "pos": "n."
+      },
+      {
+       "h": "遗忘",
+       "py": "yíwàng",
+       "gl": "forgetting",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "规律",
+       "py": "guīlǜ",
+       "gl": "regular; pattern",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now there are quite a few apps designed to help users plan their reviews, so they get twice the results with half the effort.",
+   "phrases": [
+    {
+     "en": "Now there are quite a few apps designed to help users plan their reviews, so they get twice the results with half the effort.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "n."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "不少",
+       "py": "bùshǎo",
+       "gl": "quite a lot; a good deal",
+       "pos": "adv."
+      },
+      {
+       "h": "软件",
+       "py": "ruǎnjiàn",
+       "gl": "app; software",
+       "pos": "n."
+      },
+      {
+       "h": "专门",
+       "py": "zhuānmén",
+       "gl": "specially; special; specialized",
+       "pos": "adv."
+      },
+      {
+       "h": "帮",
+       "py": "bāng",
+       "gl": "help",
+       "pos": "v."
+      },
+      {
+       "h": "用户",
+       "py": "yònghù",
+       "gl": "user",
+       "pos": "n."
+      },
+      {
+       "h": "安排",
+       "py": "ānpái",
+       "gl": "arrange; plan",
+       "pos": "v."
+      },
+      {
+       "h": "复习",
+       "py": "fùxí",
+       "gl": "review (lessons)",
+       "pos": "v."
+      },
+      {
+       "h": "计划",
+       "py": "jìhuà",
+       "gl": "plan; planning",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "做到",
+       "py": "zuòdào",
+       "gl": "achieve; manage to do",
+       "pos": "v."
+      },
+      {
+       "h": "事半功倍",
+       "py": "shìbàngōngbèi",
+       "gl": "get twice the result with half the effort (idiom)",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After using this method for six months, I've noticed that I forget new words much more slowly.",
+   "phrases": [
+    {
+     "en": "After using this method for six months, I've noticed that I forget new words much more slowly.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use; with (by means of)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "半",
+       "py": "bàn",
+       "gl": "half",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "n."
+      },
+      {
+       "h": "这种",
+       "py": "zhèzhǒng",
+       "gl": "this kind of; such",
+       "pos": "pron."
+      },
+      {
+       "h": "方法",
+       "py": "fāngfǎ",
+       "gl": "method; way",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "生词",
+       "py": "shēngcí",
+       "gl": "new word",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "遗忘",
+       "py": "yíwàng",
+       "gl": "forgetting",
+       "pos": "n."
+      },
+      {
+       "h": "速度",
+       "py": "sùdù",
+       "gl": "speed",
+       "pos": "n."
+      },
+      {
+       "h": "明显",
+       "py": "míngxiǎn",
+       "gl": "obvious; clear; clearly",
+       "pos": "adv."
+      },
+      {
+       "h": "变",
+       "py": "biàn",
+       "gl": "change; become",
+       "pos": "v."
+      },
+      {
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The algorithms of many vocabulary apps are also based on spaced repetition: they automatically adjust when you review next based on how many times you got a word wrong.",
+   "phrases": [
+    {
+     "en": "The algorithms of many vocabulary apps are also based on spaced repetition:",
+     "words": [
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot; much",
+       "pos": "adj."
+      },
+      {
+       "h": "背",
+       "py": "bèi",
+       "gl": "learn by heart; memorize; back (of the body)",
+       "pos": "v."
+      },
+      {
+       "h": "单词",
+       "py": "dāncí",
+       "gl": "word; vocabulary word",
+       "pos": "n."
+      },
+      {
+       "h": "APP"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "算法",
+       "py": "suànfǎ",
+       "gl": "algorithm",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "基于",
+       "py": "jīyú",
+       "gl": "be based on",
+       "pos": "v."
+      },
+      {
+       "h": "间隔",
+       "py": "jiàngé",
+       "gl": "interval; spacing",
+       "pos": "n."
+      },
+      {
+       "h": "重复",
+       "py": "chóngfù",
+       "gl": "repeat; repetition",
+       "pos": "n."
+      },
+      {
+       "h": "设计",
+       "py": "shèjì",
+       "gl": "design",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "they automatically adjust when you next review, depending on how many times you answered wrong.",
+     "words": [
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "function word"
+      },
+      {
+       "h": "根据",
+       "py": "gēnjù",
+       "gl": "according to; based on",
+       "pos": "prep."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "答错",
+       "py": "dácuò",
+       "gl": "answer wrong",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "次数",
+       "py": "cìshù",
+       "gl": "number of times",
+       "pos": "n."
+      },
+      {
+       "h": "自动",
+       "py": "zìdòng",
+       "gl": "automatically; automatic",
+       "pos": "adv."
+      },
+      {
+       "h": "调整",
+       "py": "tiáozhěng",
+       "gl": "adjust; tune",
+       "pos": "v."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "next (下次 next time)",
+       "pos": "adj."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
+       "h": "复习",
+       "py": "fùxí",
+       "gl": "review (lessons); revision",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After trying it for six months, I found that compared with rote memorization, scheduling your reviews scientifically really does save you a lot of wasted effort.",
+   "phrases": [
+    {
+     "en": "After trying it for six months, I found that compared with rote memorization,",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "试",
+       "py": "shì",
+       "gl": "try",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action",
+       "pos": "particle"
+      },
+      {
+       "h": "半",
+       "py": "bàn",
+       "gl": "half",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "n."
+      },
+      {
+       "h": "后",
+       "py": "hòu",
+       "gl": "after",
+       "pos": "postposition"
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "比起",
+       "py": "bǐqǐ",
+       "gl": "compared with",
+       "pos": "prep."
+      },
+      {
+       "h": "死记硬背",
+       "py": "sǐjìyìngbèi",
+       "gl": "learn by rote; cram",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "scheduling your reviews scientifically really does save you a lot of wasted effort.",
+     "words": [
+      {
+       "h": "科学",
+       "py": "kēxué",
+       "gl": "scientific",
+       "pos": "adj."
+      },
+      {
+       "h": "安排",
+       "py": "ānpái",
+       "gl": "arrange; plan",
+       "pos": "v."
+      },
+      {
+       "h": "复习",
+       "py": "fùxí",
+       "gl": "review (lessons); revision",
+       "pos": "n."
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "确实",
+       "py": "quèshí",
+       "gl": "indeed; really",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "function word"
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "少",
+       "py": "shǎo",
+       "gl": "lack; have less (少了杂物 'less clutter')",
+       "pos": "v."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot; much",
+       "pos": "adj."
+      },
+      {
+       "h": "弯路",
+       "py": "wānlù",
+       "gl": "detour; roundabout way (少走弯路: avoid needless mistakes)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

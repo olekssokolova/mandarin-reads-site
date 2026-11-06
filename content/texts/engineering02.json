@@ -1,0 +1,2326 @@
+{
+ "id": "engineering02",
+ "level": 6,
+ "title_zh": "深夜调试代码",
+ "title_en": "Technology and Engineering (2/20): Debugging Code Late at Night",
+ "free": false,
+ "audio_url": null,
+ "note_en": "找出 (zhǎochū) joins the verb 找 \"look for\" with the result complement 出 \"out\": 想找出问题到底出在哪里 \"wanted to find out where exactly the problem was.\" English \"look for\" doesn't say whether you succeed, while 找出 builds the result into the verb; compare 运行了起来, where 起来 marks the program starting to run.",
+ "sentences": [
+  {
+   "en": "It was already eleven at night, and software engineer Wang Fang was still at the office working overtime.",
+   "phrases": [
+    {
+     "en": "It was already eleven at night,",
+     "words": [
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "深夜",
+       "py": "shēnyè",
+       "gl": "late at night; dead of night",
+       "pos": "n."
+      },
+      {
+       "h": "十一点",
+       "py": "shíyīdiǎn",
+       "gl": "eleven o'clock",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and software engineer Wang Fang was still at the office working overtime.",
+     "words": [
+      {
+       "h": "软件工程师",
+       "py": "ruǎnjiàngōngchéngshī",
+       "gl": "software engineer",
+       "pos": "n."
+      },
+      {
+       "h": "王芳",
+       "py": "wángfāng",
+       "gl": "Wang Fang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "办公室",
+       "py": "bàngōngshì",
+       "gl": "office",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "加班",
+       "py": "jiābān",
+       "gl": "work overtime",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Three monitors sat in front of her, their screens packed with dense lines of code.",
+   "phrases": [
+    {
+     "en": "Three monitors sat in front of her,",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "面前",
+       "py": "miànqián",
+       "gl": "in front of; before (真理面前 before the truth)",
+       "pos": "n."
+      },
+      {
+       "h": "摆着",
+       "py": "bǎizhe",
+       "gl": "be placed; sit (on display)",
+       "pos": "v."
+      },
+      {
+       "h": "三个",
+       "py": "sāngè",
+       "gl": "three (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "显示器",
+       "py": "xiǎnshìqì",
+       "gl": "monitor; display",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "their screens packed with dense lines of code.",
+     "words": [
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "全是",
+       "py": "quánshì",
+       "gl": "all; full of; nothing but",
+       "pos": "v."
+      },
+      {
+       "h": "密密麻麻",
+       "py": "mìmìmámá",
+       "gl": "densely packed; thickly dotted",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "代码",
+       "py": "dàimǎ",
+       "gl": "code (software)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Suddenly the program threw an error, and the system just wouldn't run properly.",
+   "phrases": [
+    {
+     "en": "Suddenly the program threw an error,",
+     "words": [
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "出现",
+       "py": "chūxiàn",
+       "gl": "appear; emerge",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "错误",
+       "py": "cuòwù",
+       "gl": "mistake; error",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and the system just wouldn't run properly.",
+     "words": [
+      {
+       "h": "系统",
+       "py": "xìtǒng",
+       "gl": "system",
+       "pos": "n."
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "无法",
+       "py": "wúfǎ",
+       "gl": "be unable to; cannot",
+       "pos": "adv."
+      },
+      {
+       "h": "正常",
+       "py": "zhèngcháng",
+       "gl": "normal",
+       "pos": "adj."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Wang Fang went through the code line by line, trying to find out where exactly the problem was.",
+   "phrases": [
+    {
+     "en": "Wang Fang went through the code line by line,",
+     "words": [
+      {
+       "h": "王芳",
+       "py": "wángfāng",
+       "gl": "Wang Fang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "一行一行地",
+       "py": "yìhángyìhángde",
+       "gl": "line by line",
+       "pos": "adv."
+      },
+      {
+       "h": "检查",
+       "py": "jiǎnchá",
+       "gl": "check; inspect",
+       "pos": "v."
+      },
+      {
+       "h": "代码",
+       "py": "dàimǎ",
+       "gl": "code (software)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "trying to find out where exactly the problem was.",
+     "words": [
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "think; want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "找出",
+       "py": "zhǎochū",
+       "gl": "find out; identify",
+       "pos": "v."
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "到底",
+       "py": "dàodǐ",
+       "gl": "exactly; on earth (in questions); after all",
+       "pos": "adv."
+      },
+      {
+       "h": "出在",
+       "py": "chūzài",
+       "gl": "lie in; be caused by",
+       "pos": "v."
+      },
+      {
+       "h": "哪里",
+       "py": "nǎlǐ",
+       "gl": "where",
+       "pos": "question word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After two hours of debugging, Wang Fang finally discovered that the problem was an uninitialized pointer: it turned out a single letter in a variable name had been mistyped, so the pointer was never assigned a value, and whenever traffic was heavy, the program would crash at random.",
+   "phrases": [
+    {
+     "en": "After two hours of debugging, Wang Fang finally discovered that the problem was an uninitialized pointer:",
+     "words": [
+      {
+       "h": "经过",
+       "py": "jīngguò",
+       "gl": "after; through (a process)",
+       "pos": "prep."
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "attributive particle (特别的工作 a special job)",
+       "pos": "particle"
+      },
+      {
+       "h": "调试",
+       "py": "tiáoshì",
+       "gl": "debug; fine-tune",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "王芳",
+       "py": "wángfāng",
+       "gl": "Wang Fang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "终于",
+       "py": "zhōngyú",
+       "gl": "finally; at last",
+       "pos": "adv."
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "出在",
+       "py": "chūzài",
+       "gl": "lie in; be caused by",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not; did not (negates past actions)",
+       "pos": "adv."
+      },
+      {
+       "h": "初始化",
+       "py": "chūshǐhuà",
+       "gl": "initialization; initialize",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "attributive particle (特别的工作 a special job)",
+       "pos": "particle"
+      },
+      {
+       "h": "指针",
+       "py": "zhǐzhēn",
+       "gl": "pointer",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "n."
+      },
+      {
+       "h": "——"
+      }
+     ]
+    },
+    {
+     "en": "it turned out a single letter in a variable name had been mistyped, so the pointer was never assigned a value,",
+     "words": [
+      {
+       "h": "原来",
+       "py": "yuánlái",
+       "gl": "it turns out; so it was",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "变量名",
+       "py": "biànliàngmíng",
+       "gl": "variable name",
+       "pos": "n."
+      },
+      {
+       "h": "打错",
+       "py": "dǎcuò",
+       "gl": "mistype; make a typo",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "字母",
+       "py": "zìmǔ",
+       "gl": "letter (of an alphabet)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "导致",
+       "py": "dǎozhì",
+       "gl": "lead to; cause",
+       "pos": "v."
+      },
+      {
+       "h": "指针",
+       "py": "zhǐzhēn",
+       "gl": "pointer",
+       "pos": "n."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not; did not (negates past actions)",
+       "pos": "adv."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "passive marker",
+       "pos": "prep."
+      },
+      {
+       "h": "赋值",
+       "py": "fùzhí",
+       "gl": "assign a value",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and whenever traffic was heavy, the program would crash at random.",
+     "words": [
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "访问量",
+       "py": "fǎngwènliàng",
+       "gl": "traffic (number of visits)",
+       "pos": "n."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "大",
+       "py": "dà",
+       "gl": "big; large",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "attributive particle (特别的工作 a special job)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will; would (likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "随机",
+       "py": "suíjī",
+       "gl": "at random; randomly",
+       "pos": "adv."
+      },
+      {
+       "h": "崩溃",
+       "py": "bēngkuì",
+       "gl": "crash",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Once she fixed the error, the program immediately started running smoothly, and she committed a patch in Git and added unit tests to keep similar bugs from happening again.",
+   "phrases": [
+    {
+     "en": "Once she fixed the error, the program immediately started running smoothly,",
+     "words": [
+      {
+       "h": "改正",
+       "py": "gǎizhèng",
+       "gl": "correct; fix",
+       "pos": "v."
+      },
+      {
+       "h": "错误",
+       "py": "cuòwù",
+       "gl": "mistake; error",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "立刻",
+       "py": "lìkè",
+       "gl": "immediately; at once",
+       "pos": "adv."
+      },
+      {
+       "h": "顺利地",
+       "py": "shùnlìde",
+       "gl": "smoothly; successfully",
+       "pos": "adv."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "complement: start to (火了起来 became popular); up",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and she committed a patch in Git and added unit tests to keep similar bugs from happening again.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "Git"
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "n."
+      },
+      {
+       "h": "提交",
+       "py": "tíjiāo",
+       "gl": "commit (code); submit; hand in",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "补丁",
+       "py": "bǔdīng",
+       "gl": "patch",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并",
+       "py": "bìng",
+       "gl": "and; also; moreover",
+       "pos": "conj."
+      },
+      {
+       "h": "添加",
+       "py": "tiānjiā",
+       "gl": "add",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "单元测试",
+       "py": "dānyuáncèshì",
+       "gl": "unit test",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "防止",
+       "py": "fángzhǐ",
+       "gl": "prevent",
+       "pos": "v."
+      },
+      {
+       "h": "同类",
+       "py": "tónglèi",
+       "gl": "of the same kind; similar",
+       "pos": "adj."
+      },
+      {
+       "h": "缺陷",
+       "py": "quēxiàn",
+       "gl": "defect; flaw",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "n."
+      },
+      {
+       "h": "再次",
+       "py": "zàicì",
+       "gl": "again; once more",
+       "pos": "adv."
+      },
+      {
+       "h": "出现",
+       "py": "chūxiàn",
+       "gl": "appear",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Wang Fang breathed a sigh of relief, took a sip of cold coffee, and got ready to go home and rest.",
+   "phrases": [
+    {
+     "en": "Wang Fang breathed a sigh of relief,",
+     "words": [
+      {
+       "h": "王芳",
+       "py": "wángfāng",
+       "gl": "Wang Fang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "松了一口气",
+       "py": "sōngleyìkǒuqì",
+       "gl": "breathe a sigh of relief",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "took a sip of cold coffee,",
+     "words": [
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action",
+       "pos": "particle"
+      },
+      {
+       "h": "一口",
+       "py": "yìkǒu",
+       "gl": "a mouthful; a bite",
+       "pos": "measure word"
+      },
+      {
+       "h": "凉",
+       "py": "liáng",
+       "gl": "cool; cold",
+       "pos": "adj."
+      },
+      {
+       "h": "咖啡",
+       "py": "kāfēi",
+       "gl": "coffee",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and got ready to go home and rest.",
+     "words": [
+      {
+       "h": "准备",
+       "py": "zhǔnbèi",
+       "gl": "prepare; get ready; preparation",
+       "pos": "v."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "休息",
+       "py": "xiūxi",
+       "gl": "rest",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The next day, at the team's morning meeting, Wang Fang described the bug she had found and how she had fixed it.",
+   "phrases": [
+    {
+     "en": "The next day, at the team's morning meeting, Wang Fang described the bug she had found and how she had fixed it.",
+     "words": [
+      {
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "王芳",
+       "py": "wángfāng",
+       "gl": "Wang Fang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "在团队的晨会上",
+       "py": "zàituánduìdechénhuìshàng",
+       "gl": "at the team's morning meeting",
+       "pos": "phrase"
+      },
+      {
+       "h": "讲述了",
+       "py": "jiǎngshùle",
+       "gl": "told; described",
+       "pos": "v."
+      },
+      {
+       "h": "她发现的这个错误",
+       "py": "tāfāxiàndezhègecuòwù",
+       "gl": "this bug she found",
+       "pos": "n."
+      },
+      {
+       "h": "以及",
+       "py": "yǐjí",
+       "gl": "and; as well as",
+       "pos": "conj."
+      },
+      {
+       "h": "解决的方法",
+       "py": "jiějuédefāngfǎ",
+       "gl": "solution; way to fix it",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The team lead praised her patience and suggested that next time she add more debug logging right when she writes the code.",
+   "phrases": [
+    {
+     "en": "The team lead praised her patience and suggested that next time she add more debug logging right when she writes the code.",
+     "words": [
+      {
+       "h": "组长",
+       "py": "zǔzhǎng",
+       "gl": "team leader; group leader",
+       "pos": "n."
+      },
+      {
+       "h": "表扬了",
+       "py": "biǎoyángle",
+       "gl": "praised",
+       "pos": "v."
+      },
+      {
+       "h": "她的耐心",
+       "py": "tādenàixīn",
+       "gl": "her patience",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并建议",
+       "py": "bìngjiànyì",
+       "gl": "and suggested",
+       "pos": "phrase"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "下次写代码时",
+       "py": "xiàcìxiědàimǎshí",
+       "gl": "next time (she) writes code",
+       "pos": "phrase"
+      },
+      {
+       "h": "直接",
+       "py": "zhíjiē",
+       "gl": "directly; straight",
+       "pos": "adv."
+      },
+      {
+       "h": "多加",
+       "py": "duōjiā",
+       "gl": "add more",
+       "pos": "phrase"
+      },
+      {
+       "h": "一些调试日志",
+       "py": "yīxiētiáoshìrìzhì",
+       "gl": "some debug logs",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Before the code was merged into the main branch, another engineer reviewed Wang Fang's code through a merge request and left several comments.",
+   "phrases": [
+    {
+     "en": "Before the code was merged into the main branch, another engineer reviewed Wang Fang's code through a merge request and left several comments.",
+     "words": [
+      {
+       "h": "在代码合并到主分支之前",
+       "py": "zàidàimǎhébìngdàozhǔfēnzhīzhīqián",
+       "gl": "before the code is merged into the main branch",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "另一位工程师",
+       "py": "lìngyīwèigōngchéngshī",
+       "gl": "another engineer",
+       "pos": "n."
+      },
+      {
+       "h": "通过",
+       "py": "tōngguò",
+       "gl": "through; by means of; via",
+       "pos": "prep."
+      },
+      {
+       "h": "一个合并请求",
+       "py": "yígèhébìngqǐngqiú",
+       "gl": "a merge request (code review)",
+       "pos": "n."
+      },
+      {
+       "h": "审查了",
+       "py": "shěnchále",
+       "gl": "reviewed",
+       "pos": "v."
+      },
+      {
+       "h": "王芳的代码",
+       "py": "wángfāngdedàimǎ",
+       "gl": "Wang Fang's code",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并留下了",
+       "py": "bìngliúxiàle",
+       "gl": "and left (phrase)",
+       "pos": "phrase"
+      },
+      {
+       "h": "几条评论",
+       "py": "jǐtiáopínglùn",
+       "gl": "a few comments",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This is called code review, and it helps catch hidden bugs and inconsistencies in coding style before the code goes into production.",
+   "phrases": [
+    {
+     "en": "This is called code review, and it helps catch hidden bugs and inconsistencies in coding style before the code goes into production.",
+     "words": [
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "被称为",
+       "py": "bèichēngwéi",
+       "gl": "be called; be known as",
+       "pos": "v."
+      },
+      {
+       "h": "代码审查",
+       "py": "dàimǎshěnchá",
+       "gl": "code review",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "它能帮助",
+       "py": "tānéngbāngzhù",
+       "gl": "it can help",
+       "pos": "phrase"
+      },
+      {
+       "h": "在代码进入生产环境之前",
+       "py": "zàidàimǎjìnrùshēngchǎnhuánjìngzhīqián",
+       "gl": "before the code goes into production",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out; notice",
+       "pos": "v."
+      },
+      {
+       "h": "隐藏的错误",
+       "py": "yǐncángdecuòwù",
+       "gl": "hidden bug",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "编码风格上的不一致",
+       "py": "biānmǎfēnggéshàngdebùyīzhì",
+       "gl": "inconsistencies in coding style",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After Wang Fang submitted her changes, the continuous integration system automatically ran all the unit and integration tests, and only once every test passed was the merge into the main branch allowed.",
+   "phrases": [
+    {
+     "en": "After Wang Fang submitted her changes, the continuous integration system automatically ran all the unit and integration tests, and only once every test passed was the merge into the main branch allowed.",
+     "words": [
+      {
+       "h": "王芳提交修改以后",
+       "py": "wángfāngtíjiāoxiūgǎiyǐhòu",
+       "gl": "after Wang Fang submitted the changes",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "持续集成系统",
+       "py": "chíxùjíchéngxìtǒng",
+       "gl": "continuous integration system",
+       "pos": "n."
+      },
+      {
+       "h": "自动",
+       "py": "zìdòng",
+       "gl": "automatically; automatic",
+       "pos": "adv."
+      },
+      {
+       "h": "运行了",
+       "py": "yùnxíngle",
+       "gl": "ran; executed",
+       "pos": "v."
+      },
+      {
+       "h": "所有单元测试",
+       "py": "suǒyǒudānyuáncèshì",
+       "gl": "all unit tests",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "集成测试",
+       "py": "jíchéngcèshì",
+       "gl": "integration testing",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
+      },
+      {
+       "h": "全部通过以后",
+       "py": "quánbùtōngguòyǐhòu",
+       "gl": "after all of them pass",
+       "pos": "phrase"
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until; only; (emphasis) really",
+       "pos": "adv."
+      },
+      {
+       "h": "允许",
+       "py": "yǔnxǔ",
+       "gl": "allow; permit",
+       "pos": "v."
+      },
+      {
+       "h": "合并到主分支",
+       "py": "hébìngdàozhǔfēnzhī",
+       "gl": "merge into the main branch",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "For complex bugs like memory leaks, programmers often use specialized debugging tools, such as Valgrind or the built-in GDB debugger, which can show exactly which line of code a leak occurs on.",
+   "phrases": [
+    {
+     "en": "For complex bugs like memory leaks, programmers often use specialized debugging tools, such as Valgrind or the built-in GDB debugger, which can show exactly which line of code a leak occurs on.",
+     "words": [
+      {
+       "h": "对于像内存泄漏这样复杂的错误",
+       "py": "duìyúxiàngnèicúnxièlòuzhèyàngfùzádecuòwù",
+       "gl": "for complex bugs like memory leaks",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "程序员",
+       "py": "chéngxùyuán",
+       "gl": "programmer",
+       "pos": "n."
+      },
+      {
+       "h": "常常会使用",
+       "py": "chángchánghuìshǐyòng",
+       "gl": "often use",
+       "pos": "phrase"
+      },
+      {
+       "h": "专门的调试工具",
+       "py": "zhuānméndetiáoshìgōngjù",
+       "gl": "specialized debugging tools",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "例如",
+       "py": "lìrú",
+       "gl": "for example",
+       "pos": "conj."
+      },
+      {
+       "h": "Valgrind"
+      },
+      {
+       "h": "或者",
+       "py": "huòzhě",
+       "gl": "or",
+       "pos": "conj."
+      },
+      {
+       "h": "内置的",
+       "py": "nèizhìde",
+       "gl": "built-in",
+       "pos": "adj."
+      },
+      {
+       "h": "GDB"
+      },
+      {
+       "h": "调试器",
+       "py": "tiáoshìqì",
+       "gl": "debugger",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "它们能显示",
+       "py": "tāmennéngxiǎnshì",
+       "gl": "they can show",
+       "pos": "phrase"
+      },
+      {
+       "h": "内存泄漏",
+       "py": "nèicúnxièlòu",
+       "gl": "memory leak",
+       "pos": "n."
+      },
+      {
+       "h": "具体发生在",
+       "py": "jùtǐfāshēngzài",
+       "gl": "specifically happens in",
+       "pos": "phrase"
+      },
+      {
+       "h": "代码的哪一行",
+       "py": "dàimǎdenǎyīxíng",
+       "gl": "which line of code",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Many teams also plug in static code analysis tools, which check the source code automatically before it runs and flag potential problems such as uninitialized variables and memory leaks in advance.",
+   "phrases": [
+    {
+     "en": "Many teams also plug in static code analysis tools, which check the source code automatically before it runs and flag potential problems such as uninitialized variables and memory leaks in advance.",
+     "words": [
+      {
+       "h": "此外",
+       "py": "cǐwài",
+       "gl": "besides; in addition",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "许多团队",
+       "py": "xǔduōtuánduì",
+       "gl": "many teams",
+       "pos": "n."
+      },
+      {
+       "h": "还会接入",
+       "py": "háihuìjiērù",
+       "gl": "also connect; also integrate",
+       "pos": "phrase"
+      },
+      {
+       "h": "静态代码分析工具",
+       "py": "jìngtàidàimǎfēnxīgōngjù",
+       "gl": "static code analysis tool",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "它们能",
+       "py": "tāmennéng",
+       "gl": "they can",
+       "pos": "phrase"
+      },
+      {
+       "h": "在代码运行之前",
+       "py": "zàidàimǎyùnxíngzhīqián",
+       "gl": "before the code runs",
+       "pos": "phrase"
+      },
+      {
+       "h": "自动检查",
+       "py": "zìdòngjiǎnchá",
+       "gl": "automatically check",
+       "pos": "phrase"
+      },
+      {
+       "h": "源代码",
+       "py": "yuándàimǎ",
+       "gl": "source code",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "提前提示",
+       "py": "tíqiántíshì",
+       "gl": "warn in advance",
+       "pos": "phrase"
+      },
+      {
+       "h": "未初始化变量",
+       "py": "wèichūshǐhuàbiànliàng",
+       "gl": "uninitialized variable",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "内存泄漏",
+       "py": "nèicúnxièlòu",
+       "gl": "memory leak",
+       "pos": "n."
+      },
+      {
+       "h": "等潜在问题",
+       "py": "děngqiánzàiwèntí",
+       "gl": "and other potential problems",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Bugs like this are especially common in multithreaded programs: when several threads access the same block of memory at once, programmers need mechanisms such as mutexes to avoid race conditions.",
+   "phrases": [
+    {
+     "en": "Bugs like this are especially common in multithreaded programs: when several threads access the same block of memory at once, programmers need mechanisms such as mutexes to avoid race conditions.",
+     "words": [
+      {
+       "h": "这类错误",
+       "py": "zhèlèicuòwù",
+       "gl": "this kind of error",
+       "pos": "n."
+      },
+      {
+       "h": "尤其容易出现在",
+       "py": "yóuqíróngyìchūxiànzài",
+       "gl": "are especially likely to occur in",
+       "pos": "phrase"
+      },
+      {
+       "h": "多线程程序中",
+       "py": "duōxiànchéngchéngxùzhōng",
+       "gl": "in multithreaded programs",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "当多个线程",
+       "py": "dāngduōgèxiànchéng",
+       "gl": "when multiple threads",
+       "pos": "phrase"
+      },
+      {
+       "h": "同时访问",
+       "py": "tóngshífǎngwèn",
+       "gl": "access at the same time",
+       "pos": "phrase"
+      },
+      {
+       "h": "同一块内存时",
+       "py": "tóngyīkuàinèicúnshí",
+       "gl": "(part of a phrase) when ... the same block of memory",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "程序员",
+       "py": "chéngxùyuán",
+       "gl": "programmer",
+       "pos": "n."
+      },
+      {
+       "h": "就需要使用",
+       "py": "jiùxūyàoshǐyòng",
+       "gl": "then need to use",
+       "pos": "phrase"
+      },
+      {
+       "h": "互斥锁",
+       "py": "hùchìsuǒ",
+       "gl": "mutex (mutual-exclusion lock)",
+       "pos": "n."
+      },
+      {
+       "h": "等机制",
+       "py": "děngjīzhì",
+       "gl": "and similar mechanisms",
+       "pos": "phrase"
+      },
+      {
+       "h": "来避免",
+       "py": "láibìmiǎn",
+       "gl": "(in order) to avoid",
+       "pos": "phrase"
+      },
+      {
+       "h": "出现竞态条件",
+       "py": "chūxiànjìngtàitiáojiàn",
+       "gl": "a race condition occurs",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A week after this incident, the company started adding training on safe pointer use and memory management for all its young developers.",
+   "phrases": [
+    {
+     "en": "A week after this incident, the company started adding training on safe pointer use and memory management for all its young developers.",
+     "words": [
+      {
+       "h": "这件事之后一周",
+       "py": "zhèjiànshìzhīhòuyīzhōu",
+       "gl": "a week after this happened",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "公司开始",
+       "py": "gōngsīkāishǐ",
+       "gl": "the company began",
+       "pos": "phrase"
+      },
+      {
+       "h": "为所有年轻的开发人员",
+       "py": "wèisuǒyǒuniánqīngdekāifārényuán",
+       "gl": "for all the young developers",
+       "pos": "phrase"
+      },
+      {
+       "h": "增加",
+       "py": "zēngjiā",
+       "gl": "increase; raise; add",
+       "pos": "v."
+      },
+      {
+       "h": "关于安全使用指针",
+       "py": "guānyúānquánshǐyòngzhǐzhēn",
+       "gl": "about using pointers safely",
+       "pos": "phrase"
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "内存管理的培训",
+       "py": "nèicúnguǎnlǐdepéixùn",
+       "gl": "training in memory management",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Wang Fang decided that from now on she would write the unit tests at the same time as the new code, instead of leaving them to fill in later.",
+   "phrases": [
+    {
+     "en": "Wang Fang decided that from now on she would write the unit tests at the same time as the new code, instead of leaving them to fill in later.",
+     "words": [
+      {
+       "h": "王芳决定",
+       "py": "wángfāngjuédìng",
+       "gl": "Wang Fang decided",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "以后写新代码的时候",
+       "py": "yǐhòuxiěxīndàimǎdeshíhòu",
+       "gl": "when writing new code from now on",
+       "pos": "phrase"
+      },
+      {
+       "h": "就立刻同步",
+       "py": "jiùlìkètóngbù",
+       "gl": "right away, at the same time",
+       "pos": "phrase"
+      },
+      {
+       "h": "写好单元测试",
+       "py": "xiěhǎodānyuáncèshì",
+       "gl": "write unit tests",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "而不是",
+       "py": "érbúshì",
+       "gl": "rather than; instead of",
+       "pos": "conj."
+      },
+      {
+       "h": "把它们留到以后再补",
+       "py": "bǎtāmenliúdàoyǐhòuzàibǔ",
+       "gl": "leave them to make up later",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Her team has a rule that every new feature is developed in its own branch named after the task number, and the branch is deleted once the work is done to keep the Git history clean.",
+   "phrases": [
+    {
+     "en": "Her team has a rule that every new feature is developed in its own branch named after the task number, and the branch is deleted once the work is done to keep the Git history clean.",
+     "words": [
+      {
+       "h": "她所在的团队规定",
+       "py": "tāsuǒzàidetuánduìguīdìng",
+       "gl": "her team's rule",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每个新功能",
+       "py": "měigèxīngōngnéng",
+       "gl": "every new feature",
+       "pos": "n."
+      },
+      {
+       "h": "都要在",
+       "py": "dōuyàozài",
+       "gl": "must all (be done) in",
+       "pos": "phrase"
+      },
+      {
+       "h": "一个以任务编号命名的",
+       "py": "yígèyǐrènwùbiānhàomìngmíngde",
+       "gl": "named after a task number (phrase)",
+       "pos": "phrase"
+      },
+      {
+       "h": "独立分支中开发",
+       "py": "dúlìfēnzhīzhōngkāifā",
+       "gl": "develop in a separate branch",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "完成以后",
+       "py": "wánchéngyǐhòu",
+       "gl": "after completion",
+       "pos": "phrase"
+      },
+      {
+       "h": "要删除",
+       "py": "yàoshānchú",
+       "gl": "to be deleted; must delete",
+       "pos": "phrase"
+      },
+      {
+       "h": "这个分支",
+       "py": "zhègefēnzhī",
+       "gl": "this branch (in version control)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "以保持",
+       "py": "yǐbǎochí",
+       "gl": "in order to keep",
+       "pos": "phrase"
+      },
+      {
+       "h": "Git"
+      },
+      {
+       "h": "历史记录的清晰",
+       "py": "lìshǐjìlùdeqīngxī",
+       "gl": "clarity of the history (records)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Some modern programming languages, such as Rust, can catch this kind of memory error at compile time thanks to their built-in ownership and borrowing system, so problems like dangling pointers and data races are much less likely in these languages.",
+   "phrases": [
+    {
+     "en": "Some modern programming languages, such as Rust,",
+     "words": [
+      {
+       "h": "一些",
+       "py": "yìxiē",
+       "gl": "some",
+       "pos": "pron."
+      },
+      {
+       "h": "现代",
+       "py": "xiàndài",
+       "gl": "modern",
+       "pos": "adj."
+      },
+      {
+       "h": "编程",
+       "py": "biānchéng",
+       "gl": "programming",
+       "pos": "n."
+      },
+      {
+       "h": "语言",
+       "py": "yǔyán",
+       "gl": "language",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "比如",
+       "py": "bǐrú",
+       "gl": "for example; such as",
+       "pos": "conj."
+      },
+      {
+       "h": "Rust"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "can catch this kind of memory error at compile time thanks to their built-in ownership and borrowing system,",
+     "words": [
+      {
+       "h": "凭借",
+       "py": "píngjiè",
+       "gl": "by virtue of; relying on",
+       "pos": "prep."
+      },
+      {
+       "h": "其",
+       "py": "qí",
+       "gl": "its; their",
+       "pos": "pron."
+      },
+      {
+       "h": "内置",
+       "py": "nèizhì",
+       "gl": "built-in",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "所有权",
+       "py": "suǒyǒuquán",
+       "gl": "ownership",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "借用",
+       "py": "jièyòng",
+       "gl": "borrowing",
+       "pos": "n."
+      },
+      {
+       "h": "系统",
+       "py": "xìtǒng",
+       "gl": "system",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "能够",
+       "py": "nénggòu",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "编译",
+       "py": "biānyì",
+       "gl": "compile; compilation",
+       "pos": "n."
+      },
+      {
+       "h": "阶段",
+       "py": "jiēduàn",
+       "gl": "stage; phase",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "already; as early as",
+       "pos": "adv."
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find",
+       "pos": "v."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "类",
+       "py": "lèi",
+       "gl": "kind; type",
+       "pos": "measure word"
+      },
+      {
+       "h": "内存",
+       "py": "nèicún",
+       "gl": "memory; RAM",
+       "pos": "n."
+      },
+      {
+       "h": "错误",
+       "py": "cuòwù",
+       "gl": "error; bug",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "so problems like dangling pointers and data races are much less likely in these languages.",
+     "words": [
+      {
+       "h": "因此",
+       "py": "yīncǐ",
+       "gl": "because of this; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "这些",
+       "py": "zhèxiē",
+       "gl": "these",
+       "pos": "pron."
+      },
+      {
+       "h": "语言",
+       "py": "yǔyán",
+       "gl": "language",
+       "pos": "n."
+      },
+      {
+       "h": "中",
+       "py": "zhōng",
+       "gl": "in; within",
+       "pos": "postposition"
+      },
+      {
+       "h": "出现",
+       "py": "chūxiàn",
+       "gl": "appear; occur",
+       "pos": "v."
+      },
+      {
+       "h": "悬空",
+       "py": "xuánkōng",
+       "gl": "dangling (悬空指针 dangling pointer)",
+       "pos": "adj."
+      },
+      {
+       "h": "指针",
+       "py": "zhǐzhēn",
+       "gl": "pointer",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "数据",
+       "py": "shùjù",
+       "gl": "data",
+       "pos": "n."
+      },
+      {
+       "h": "竞争",
+       "py": "jìngzhēng",
+       "gl": "competition; race (数据竞争 data race)",
+       "pos": "n."
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; such as",
+       "pos": "particle"
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "概率",
+       "py": "gàilǜ",
+       "gl": "probability; chance",
+       "pos": "n."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "(in comparisons) would be",
+       "pos": "adv."
+      },
+      {
+       "h": "低",
+       "py": "dī",
+       "gl": "low",
+       "pos": "adj."
+      },
+      {
+       "h": "得多",
+       "py": "deduō",
+       "gl": "much (more): 低得多 much lower",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The team also began tracking test coverage and made a rule that new code can't be merged into the main branch if its test coverage is below 80 percent.",
+   "phrases": [
+    {
+     "en": "The team also began tracking test coverage and made a rule that new code can't be merged into the main branch if its test coverage is below 80 percent.",
+     "words": [
+      {
+       "h": "团队",
+       "py": "tuánduì",
+       "gl": "team",
+       "pos": "n."
+      },
+      {
+       "h": "还开始关注",
+       "py": "háikāishǐguānzhù",
+       "gl": "also started paying attention to",
+       "pos": "phrase"
+      },
+      {
+       "h": "代码的测试覆盖率",
+       "py": "dàimǎdecèshìfùgàilǜ",
+       "gl": "code test coverage",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并规定",
+       "py": "bìngguīdìng",
+       "gl": "and stipulate",
+       "pos": "phrase"
+      },
+      {
+       "h": "如果",
+       "py": "rúguǒ",
+       "gl": "if",
+       "pos": "conj."
+      },
+      {
+       "h": "测试覆盖率",
+       "py": "cèshìfùgàilǜ",
+       "gl": "test coverage",
+       "pos": "n."
+      },
+      {
+       "h": "低于",
+       "py": "dīyú",
+       "gl": "lower than; below",
+       "pos": "prep."
+      },
+      {
+       "h": "百分之八十",
+       "py": "bǎifēnzhībāshí",
+       "gl": "eighty percent",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "新代码",
+       "py": "xīndàimǎ",
+       "gl": "new code",
+       "pos": "n."
+      },
+      {
+       "h": "就不能",
+       "py": "jiùbùnéng",
+       "gl": "then cannot",
+       "pos": "phrase"
+      },
+      {
+       "h": "合并到主分支",
+       "py": "hébìngdàozhǔfēnzhī",
+       "gl": "merge into the main branch",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A month later, Wang Fang noticed that similar bugs in her code had dropped noticeably, and she had to work late far less often than before.",
+   "phrases": [
+    {
+     "en": "A month later, Wang Fang noticed that similar bugs in her code had dropped noticeably, and she had to work late far less often than before.",
+     "words": [
+      {
+       "h": "一个月后",
+       "py": "yígèyuèhòu",
+       "gl": "a month later",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "王芳发现",
+       "py": "wángfāngfāxiàn",
+       "gl": "Wang Fang found",
+       "pos": "phrase"
+      },
+      {
+       "h": "自己代码中",
+       "py": "zìjǐdàimǎzhōng",
+       "gl": "in one's own code",
+       "pos": "phrase"
+      },
+      {
+       "h": "类似的错误",
+       "py": "lèisìdecuòwù",
+       "gl": "similar mistakes",
+       "pos": "n."
+      },
+      {
+       "h": "明显减少了",
+       "py": "míngxiǎnjiǎnshǎole",
+       "gl": "decreased noticeably",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening; in the evening",
+       "pos": "n."
+      },
+      {
+       "h": "需要加班的次数",
+       "py": "xūyàojiābāndecìshù",
+       "gl": "number of times one needs to work overtime",
+       "pos": "phrase"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "比以前",
+       "py": "bǐyǐqián",
+       "gl": "than before",
+       "pos": "phrase"
+      },
+      {
+       "h": "少了很多",
+       "py": "shǎolehěnduō",
+       "gl": "much less; a lot fewer",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When a bug is hard to find right away, experienced engineers often use git bisect, which checks older versions of the code by binary search and can quickly find the very commit that first introduced the bug.",
+   "phrases": [
+    {
+     "en": "When a bug is hard to find right away, experienced engineers often use git bisect, which checks older versions of the code by binary search and can quickly find the very commit that first introduced the bug.",
+     "words": [
+      {
+       "h": "当错误很难立刻找到时",
+       "py": "dāngcuòwùhěnnánlìkèzhǎodàoshí",
+       "gl": "when a bug is hard to find right away",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "经验丰富的工程师",
+       "py": "jīngyànfēngfùdegōngchéngshī",
+       "gl": "experienced engineer",
+       "pos": "n."
+      },
+      {
+       "h": "常常使用",
+       "py": "chángchángshǐyòng",
+       "gl": "often use",
+       "pos": "phrase"
+      },
+      {
+       "h": "git"
+      },
+      {
+       "h": "bisect"
+      },
+      {
+       "h": "这个方法",
+       "py": "zhègefāngfǎ",
+       "gl": "this method",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "它通过",
+       "py": "tātōngguò",
+       "gl": "it (does so) by",
+       "pos": "phrase"
+      },
+      {
+       "h": "二分查找的方式",
+       "py": "èrfēncházhǎodefāngshì",
+       "gl": "binary search method",
+       "pos": "n."
+      },
+      {
+       "h": "检查",
+       "py": "jiǎnchá",
+       "gl": "check; inspect",
+       "pos": "v."
+      },
+      {
+       "h": "旧版本的代码",
+       "py": "jiùbǎnběndedàimǎ",
+       "gl": "old versions of the code",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可以快速找到",
+       "py": "kěyǐkuàisùzhǎodào",
+       "gl": "can quickly find",
+       "pos": "phrase"
+      },
+      {
+       "h": "最先引入这个错误的",
+       "py": "zuìxiānyǐnrùzhègecuòwùde",
+       "gl": "the one that first introduced this bug",
+       "pos": "phrase"
+      },
+      {
+       "h": "那一次提交",
+       "py": "nàyīcìtíjiāo",
+       "gl": "that commit",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "series": "engineering",
+ "episode": 2,
+ "episode_count": 20
+}

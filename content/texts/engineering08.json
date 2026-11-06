@@ -1,0 +1,3251 @@
+{
+ "id": "engineering08",
+ "level": 6,
+ "title_zh": "紧张的代码调试",
+ "title_en": "Technology and Engineering (8/20): A Tense Debugging Session",
+ "free": false,
+ "audio_url": null,
+ "note_en": "却 (què) means \"but, yet,\" but unlike English \"but\" it can't start a clause; it goes after the subject (if there is one) and right before the verb: 他一遍又一遍地检查代码，却始终找不到问题的根源 \"He checked the code over and over, but still couldn't find the root of the problem.\" It adds a note of surprise or frustration that things didn't turn out as expected.",
+ "sentences": [
+  {
+   "en": "Programmer Xiao Zhou stared at the screen, his face full of anxiety.",
+   "phrases": [
+    {
+     "en": "Programmer Xiao Zhou stared at the screen,",
+     "words": [
+      {
+       "h": "程序员",
+       "py": "chéngxùyuán",
+       "gl": "programmer",
+       "pos": "n."
+      },
+      {
+       "h": "小周",
+       "py": "xiǎozhōu",
+       "gl": "Xiao Zhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "盯着",
+       "py": "dīngzhe",
+       "gl": "stare at; keep an eye on",
+       "pos": "v."
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "his face full of anxiety.",
+     "words": [
+      {
+       "h": "脸上",
+       "py": "liǎnshàng",
+       "gl": "on one's face",
+       "pos": "n."
+      },
+      {
+       "h": "写满了",
+       "py": "xiěmǎnle",
+       "gl": "be written all over (脸上写满了焦虑: anxiety written all over one's face)",
+       "pos": "v."
+      },
+      {
+       "h": "焦虑",
+       "py": "jiāolǜ",
+       "gl": "anxious; anxiety",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Red error messages kept popping up on the screen, and the whole program wouldn't run.",
+   "phrases": [
+    {
+     "en": "Red error messages kept popping up on the screen,",
+     "words": [
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "不断",
+       "py": "bùduàn",
+       "gl": "continuously; constantly",
+       "pos": "adv."
+      },
+      {
+       "h": "弹出",
+       "py": "tánchū",
+       "gl": "pop up",
+       "pos": "v."
+      },
+      {
+       "h": "红色",
+       "py": "hóngsè",
+       "gl": "red",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "错误提示",
+       "py": "cuòwùtíshì",
+       "gl": "error message",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and the whole program wouldn't run.",
+     "words": [
+      {
+       "h": "整个",
+       "py": "zhěnggè",
+       "gl": "whole; entire",
+       "pos": "pron."
+      },
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "无法",
+       "py": "wúfǎ",
+       "gl": "be unable to; cannot",
+       "pos": "adv."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He checked the code over and over, but still couldn't find the root of the problem.",
+   "phrases": [
+    {
+     "en": "He checked the code over and over,",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "一遍又一遍地",
+       "py": "yìbiànyòuyìbiànde",
+       "gl": "over and over again",
+       "pos": "adv."
+      },
+      {
+       "h": "检查",
+       "py": "jiǎnchá",
+       "gl": "check; inspect",
+       "pos": "v."
+      },
+      {
+       "h": "代码",
+       "py": "dàimǎ",
+       "gl": "code (software)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but still couldn't find the root of the problem.",
+     "words": [
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet; however (contrast)",
+       "pos": "conj."
+      },
+      {
+       "h": "始终",
+       "py": "shǐzhōng",
+       "gl": "never (in the end)",
+       "pos": "adv."
+      },
+      {
+       "h": "找不到",
+       "py": "zhǎobudào",
+       "gl": "can't find",
+       "pos": "v."
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "根源",
+       "py": "gēnyuán",
+       "gl": "root; origin",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Zhou decided to try another approach: splitting the program into several small parts and testing each one separately.",
+   "phrases": [
+    {
+     "en": "Xiao Zhou decided to try another approach:",
+     "words": [
+      {
+       "h": "小周",
+       "py": "xiǎozhōu",
+       "gl": "Xiao Zhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "决定",
+       "py": "juédìng",
+       "gl": "decide; decision",
+       "pos": "v."
+      },
+      {
+       "h": "换一种方法",
+       "py": "huànyìzhǒngfāngfǎ",
+       "gl": "(phrase: try a different method)",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "splitting the program into several small parts and testing each one separately.",
+     "words": [
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "分成",
+       "py": "fēnchéng",
+       "gl": "divide into",
+       "pos": "v."
+      },
+      {
+       "h": "几个",
+       "py": "jǐgè",
+       "gl": "a few; several",
+       "pos": "num."
+      },
+      {
+       "h": "小部分",
+       "py": "xiǎobùfèn",
+       "gl": "small part",
+       "pos": "n."
+      },
+      {
+       "h": "分别",
+       "py": "fēnbié",
+       "gl": "respectively; separately; parting; separation; part; say goodbye",
+       "pos": "adv."
+      },
+      {
+       "h": "测试",
+       "py": "cèshì",
+       "gl": "test",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After trying again and again, he finally found a logic error in the third module.",
+   "phrases": [
+    {
+     "en": "After trying again and again,",
+     "words": [
+      {
+       "h": "经过",
+       "py": "jīngguò",
+       "gl": "after; through (a process)",
+       "pos": "prep."
+      },
+      {
+       "h": "反复",
+       "py": "fǎnfù",
+       "gl": "repeatedly; over and over",
+       "pos": "adv."
+      },
+      {
+       "h": "尝试",
+       "py": "chángshì",
+       "gl": "try; attempt",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "he finally found a logic error in the third module.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "终于",
+       "py": "zhōngyú",
+       "gl": "finally; at last",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "第三个",
+       "py": "dìsāngè",
+       "gl": "third",
+       "pos": "num."
+      },
+      {
+       "h": "模块",
+       "py": "mókuài",
+       "gl": "module",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "找到",
+       "py": "zhǎodào",
+       "gl": "find",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "逻辑错误",
+       "py": "luójícuòwù",
+       "gl": "logic error",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Once he'd fixed that one line of code, the program miraculously ran without a hitch.",
+   "phrases": [
+    {
+     "en": "Once he'd fixed that one line of code,",
+     "words": [
+      {
+       "h": "修改",
+       "py": "xiūgǎi",
+       "gl": "revise; edit; correct; revision; correction",
+       "pos": "v."
+      },
+      {
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
+      },
+      {
+       "h": "那一行",
+       "py": "nàyìháng",
+       "gl": "that line",
+       "pos": "pron."
+      },
+      {
+       "h": "代码",
+       "py": "dàimǎ",
+       "gl": "code (software)",
+       "pos": "n."
+      },
+      {
+       "h": "后",
+       "py": "hòu",
+       "gl": "after",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the program miraculously ran without a hitch.",
+     "words": [
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "奇迹般地",
+       "py": "qíjìbānde",
+       "gl": "miraculously",
+       "pos": "adv."
+      },
+      {
+       "h": "顺利",
+       "py": "shùnlì",
+       "gl": "smooth; successful; go well",
+       "pos": "adj."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Zhou let out a long breath and saved the file before he dared go get a glass of water.",
+   "phrases": [
+    {
+     "en": "Xiao Zhou let out a long breath,",
+     "words": [
+      {
+       "h": "小周",
+       "py": "xiǎozhōu",
+       "gl": "Xiao Zhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "长长地",
+       "py": "chángchángde",
+       "gl": "long; deeply (e.g. sigh)",
+       "pos": "adv."
+      },
+      {
+       "h": "舒了一口气",
+       "py": "shūleyìkǒuqì",
+       "gl": "breathed a sigh of relief",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "saved the file, and only then dared go get a glass of water.",
+     "words": [
+      {
+       "h": "保存",
+       "py": "bǎocún",
+       "gl": "preserve; keep; save; storage",
+       "pos": "v."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "well (after a verb: 保护好 'protect well')",
+       "pos": "v."
+      },
+      {
+       "h": "文件",
+       "py": "wénjiàn",
+       "gl": "document; file",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "敢",
+       "py": "gǎn",
+       "gl": "dare",
+       "pos": "v."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "喝杯水",
+       "py": "hēbēishuǐ",
+       "gl": "have a glass of water",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "By analyzing the stack trace in the error log, Xiao Zhou found that two threads reading and writing the same variable at the same time had caused a race condition, so he added a mutex to that section of code and ran the stress tests again to verify the fix was complete.",
+   "phrases": [
+    {
+     "en": "By analyzing the stack trace in the error log, Xiao Zhou found that two threads reading and writing the same variable at the same time had caused a race condition, so he added a mutex to that section of code and ran the stress tests again to verify the fix was complete.",
+     "words": [
+      {
+       "h": "小周",
+       "py": "xiǎozhōu",
+       "gl": "Xiao Zhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "通过",
+       "py": "tōngguò",
+       "gl": "through; by means of; via",
+       "pos": "prep."
+      },
+      {
+       "h": "分析",
+       "py": "fēnxī",
+       "gl": "analyze",
+       "pos": "v."
+      },
+      {
+       "h": "报错日志",
+       "py": "bàocuòrìzhì",
+       "gl": "error log",
+       "pos": "n."
+      },
+      {
+       "h": "中",
+       "py": "zhōng",
+       "gl": "in; during (工作中 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "堆栈跟踪",
+       "py": "duīzhàngēnzōng",
+       "gl": "stack trace",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out; notice",
+       "pos": "v."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "measure word (general, for people and things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "线程",
+       "py": "xiànchéng",
+       "gl": "thread (computing)",
+       "pos": "n."
+      },
+      {
+       "h": "同时",
+       "py": "tóngshí",
+       "gl": "at the same time; meanwhile",
+       "pos": "adv."
+      },
+      {
+       "h": "读写",
+       "py": "dúxiě",
+       "gl": "read and write",
+       "pos": "v."
+      },
+      {
+       "h": "同一",
+       "py": "tóngyī",
+       "gl": "the same",
+       "pos": "pron."
+      },
+      {
+       "h": "变量",
+       "py": "biànliàng",
+       "gl": "variable",
+       "pos": "n."
+      },
+      {
+       "h": "引发",
+       "py": "yǐnfā",
+       "gl": "trigger; cause; spark",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "竞态条件",
+       "py": "jìngtàitiáojiàn",
+       "gl": "race condition",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "于是",
+       "py": "yúshì",
+       "gl": "so; thereupon; then",
+       "pos": "conj."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "为",
+       "py": "wèi",
+       "gl": "for; for the sake of",
+       "pos": "prep."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "段",
+       "py": "duàn",
+       "gl": "measure word for periods or episodes (a chapter, a story); measure word for sections",
+       "pos": "measure word"
+      },
+      {
+       "h": "代码",
+       "py": "dàimǎ",
+       "gl": "code (software)",
+       "pos": "n."
+      },
+      {
+       "h": "加上",
+       "py": "jiāshàng",
+       "gl": "plus; in addition; add",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "互斥锁",
+       "py": "hùchìsuǒ",
+       "gl": "mutex (mutual-exclusion lock)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并",
+       "py": "bìng",
+       "gl": "and; also; moreover",
+       "pos": "conj."
+      },
+      {
+       "h": "重新",
+       "py": "chóngxīn",
+       "gl": "again; anew",
+       "pos": "adv."
+      },
+      {
+       "h": "进行",
+       "py": "jìnxíng",
+       "gl": "carry out; conduct; take place",
+       "pos": "v."
+      },
+      {
+       "h": "压力测试",
+       "py": "yālìcèshì",
+       "gl": "stress test; load testing",
+       "pos": "n."
+      },
+      {
+       "h": "以",
+       "py": "yǐ",
+       "gl": "in order to; so as to",
+       "pos": "prep."
+      },
+      {
+       "h": "验证",
+       "py": "yànzhèng",
+       "gl": "verify; prove; test",
+       "pos": "v."
+      },
+      {
+       "h": "修复",
+       "py": "xiūfù",
+       "gl": "restore; repair",
+       "pos": "n."
+      },
+      {
+       "h": "是否",
+       "py": "shìfǒu",
+       "gl": "whether; if",
+       "pos": "particle"
+      },
+      {
+       "h": "彻底",
+       "py": "chèdǐ",
+       "gl": "complete; total; thoroughly; completely",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Zhou poured himself a cup of coffee, sat back down at the monitor, and started writing unit tests for the fixed function.",
+   "phrases": [
+    {
+     "en": "Xiao Zhou poured himself a cup of coffee, sat back down at the monitor, and started writing unit tests for the fixed function.",
+     "words": [
+      {
+       "h": "小周",
+       "py": "xiǎozhōu",
+       "gl": "Xiao Zhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "倒",
+       "py": "dào",
+       "gl": "pour (a drink)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "杯",
+       "py": "bēi",
+       "gl": "measure word for cups and glasses; cup; glass",
+       "pos": "measure word"
+      },
+      {
+       "h": "咖啡",
+       "py": "kāfēi",
+       "gl": "coffee",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "重新",
+       "py": "chóngxīn",
+       "gl": "again; once more",
+       "pos": "adv."
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
+       "pos": "prep."
+      },
+      {
+       "h": "显示器",
+       "py": "xiǎnshìqì",
+       "gl": "monitor; display",
+       "pos": "n."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
+       "pos": "v."
+      },
+      {
+       "h": "为",
+       "py": "wèi",
+       "gl": "for; for the sake of",
+       "pos": "prep."
+      },
+      {
+       "h": "修复好",
+       "py": "xiūfùhǎo",
+       "gl": "repaired; fixed",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "函数",
+       "py": "hánshù",
+       "gl": "function (math/programming)",
+       "pos": "n."
+      },
+      {
+       "h": "编写",
+       "py": "biānxiě",
+       "gl": "write (code, text); compile",
+       "pos": "v."
+      },
+      {
+       "h": "单元测试",
+       "py": "dānyuáncèshì",
+       "gl": "unit test",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He wanted to make sure the same bug would never come back, even if someone changed this code in the future.",
+   "phrases": [
+    {
+     "en": "He wanted to make sure the same bug would never come back, even if someone changed this code in the future.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "确保",
+       "py": "quèbǎo",
+       "gl": "ensure; make sure",
+       "pos": "v."
+      },
+      {
+       "h": "同样",
+       "py": "tóngyàng",
+       "gl": "the same; similar",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "错误",
+       "py": "cuòwù",
+       "gl": "mistake; error",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "later; in the future",
+       "pos": "n."
+      },
+      {
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely (会不会 'will or won't')",
+       "pos": "adv."
+      },
+      {
+       "h": "再",
+       "py": "zài",
+       "gl": "again; once more",
+       "pos": "adv."
+      },
+      {
+       "h": "出现",
+       "py": "chūxiàn",
+       "gl": "appear",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "即使",
+       "py": "jíshǐ",
+       "gl": "even if",
+       "pos": "conj."
+      },
+      {
+       "h": "将来",
+       "py": "jiānglái",
+       "gl": "future; in the future",
+       "pos": "n."
+      },
+      {
+       "h": "有人",
+       "py": "yǒurén",
+       "gl": "someone; some people",
+       "pos": "pron."
+      },
+      {
+       "h": "修改",
+       "py": "xiūgǎi",
+       "gl": "revise; edit; correct; revision; correction",
+       "pos": "v."
+      },
+      {
+       "h": "这段代码",
+       "py": "zhèduàndàimǎ",
+       "gl": "this piece of code",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely (会不会 'will or won't')",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He remembered that experienced programmers often use the \"divide and conquer\" method: they comment out or temporarily disable half of the code to quickly figure out which part of the program the bug is hiding in.",
+   "phrases": [
+    {
+     "en": "He remembered",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "想起",
+       "py": "xiǎngqǐ",
+       "gl": "remember; think of; remind (让我想起 'remind me of')",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that experienced programmers often use the \"divide and conquer\" method: they comment out or temporarily disable half of the code to quickly figure out which part of the program the bug is hiding in.",
+     "words": [
+      {
+       "h": "经验丰富",
+       "py": "jīngyànfēngfù",
+       "gl": "experienced",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "程序员",
+       "py": "chéngxùyuán",
+       "gl": "programmer",
+       "pos": "n."
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "使用",
+       "py": "shǐyòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "「"
+      },
+      {
+       "h": "二分法",
+       "py": "èrfēnfǎ",
+       "gl": "bisection (halving) method; binary search",
+       "pos": "n."
+      },
+      {
+       "h": "」"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "先",
+       "py": "xiān",
+       "gl": "first; before",
+       "pos": "adv."
+      },
+      {
+       "h": "注释掉",
+       "py": "zhùshìdiào",
+       "gl": "comment out (code)",
+       "pos": "v."
+      },
+      {
+       "h": "或",
+       "py": "huò",
+       "gl": "or",
+       "pos": "conj."
+      },
+      {
+       "h": "暂时",
+       "py": "zànshí",
+       "gl": "for now; temporarily",
+       "pos": "adv."
+      },
+      {
+       "h": "关闭",
+       "py": "guānbì",
+       "gl": "close; shut down; turn off",
+       "pos": "v."
+      },
+      {
+       "h": "一半",
+       "py": "yíbàn",
+       "gl": "half",
+       "pos": "n."
+      },
+      {
+       "h": "代码",
+       "py": "dàimǎ",
+       "gl": "code (software)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "从而",
+       "py": "cóngér",
+       "gl": "thus; thereby",
+       "pos": "conj."
+      },
+      {
+       "h": "迅速",
+       "py": "xùnsù",
+       "gl": "rapidly; swiftly",
+       "pos": "adv."
+      },
+      {
+       "h": "判断",
+       "py": "pànduàn",
+       "gl": "judge; determine; judgment",
+       "pos": "v."
+      },
+      {
+       "h": "错误",
+       "py": "cuòwù",
+       "gl": "mistake; error",
+       "pos": "n."
+      },
+      {
+       "h": "究竟",
+       "py": "jiūjìng",
+       "gl": "exactly; after all (in questions)",
+       "pos": "adv."
+      },
+      {
+       "h": "藏",
+       "py": "cáng",
+       "gl": "hide; be hidden",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "哪",
+       "py": "nǎ",
+       "gl": "which; what",
+       "pos": "pron."
+      },
+      {
+       "h": "一部分",
+       "py": "yībùfèn",
+       "gl": "part; portion",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Another common debugging method is to log the values of variables at each step as the program runs, which helps reveal exactly where the program's behavior starts to stray from what's expected.",
+   "phrases": [
+    {
+     "en": "Another common debugging method is to log the values of variables at each step as the program runs, which helps reveal exactly where the program's behavior starts to stray from what's expected.",
+     "words": [
+      {
+       "h": "另一种",
+       "py": "lìngyīzhǒng",
+       "gl": "another kind of; a different kind of",
+       "pos": "pron."
+      },
+      {
+       "h": "常见",
+       "py": "chángjiàn",
+       "gl": "common",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "调试方法",
+       "py": "tiáoshìfāngfǎ",
+       "gl": "debugging method",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "每一步",
+       "py": "měiyībù",
+       "gl": "every step",
+       "pos": "n."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "function word"
+      },
+      {
+       "h": "变量",
+       "py": "biànliàng",
+       "gl": "variable",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "值",
+       "py": "zhí",
+       "gl": "value (of a variable, etc.)",
+       "pos": "n."
+      },
+      {
+       "h": "输出",
+       "py": "shūchū",
+       "gl": "output; export (of culture, etc.)",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to (a place)",
+       "pos": "prep."
+      },
+      {
+       "h": "日志",
+       "py": "rìzhì",
+       "gl": "log",
+       "pos": "n."
+      },
+      {
+       "h": "中",
+       "py": "zhōng",
+       "gl": "in; during (工作中 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "有助于",
+       "py": "yǒuzhùyú",
+       "gl": "help; contribute to",
+       "pos": "v."
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "行为",
+       "py": "xíngwéi",
+       "gl": "behavior; conduct",
+       "pos": "n."
+      },
+      {
+       "h": "究竟",
+       "py": "jiūjìng",
+       "gl": "exactly; after all (in questions)",
+       "pos": "adv."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from",
+       "pos": "prep."
+      },
+      {
+       "h": "哪里",
+       "py": "nǎlǐ",
+       "gl": "where",
+       "pos": "pron."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
+       "pos": "v."
+      },
+      {
+       "h": "偏离",
+       "py": "piānlí",
+       "gl": "deviate; depart from",
+       "pos": "v."
+      },
+      {
+       "h": "预期",
+       "py": "yùqī",
+       "gl": "expectation",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Modern development environments also let you set breakpoints, which pause the program at a chosen point so the programmer can examine the values of all the variables line by line.",
+   "phrases": [
+    {
+     "en": "Modern development environments also let you set breakpoints, which pause the program at a chosen point so the programmer can examine the values of all the variables line by line.",
+     "words": [
+      {
+       "h": "现代",
+       "py": "xiàndài",
+       "gl": "modern",
+       "pos": "adj."
+      },
+      {
+       "h": "开发环境",
+       "py": "kāifāhuánjìng",
+       "gl": "development environment",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "允许",
+       "py": "yǔnxǔ",
+       "gl": "allow; permit",
+       "pos": "v."
+      },
+      {
+       "h": "设置",
+       "py": "shèzhì",
+       "gl": "set (up); settings",
+       "pos": "v."
+      },
+      {
+       "h": "断点",
+       "py": "duàndiǎn",
+       "gl": "breakpoint",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "let; make (someone do); ask (someone to do)",
+       "pos": "v."
+      },
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "指定",
+       "py": "zhǐdìng",
+       "gl": "designated; specified",
+       "pos": "adj."
+      },
+      {
+       "h": "位置",
+       "py": "wèizhì",
+       "gl": "position; location; place",
+       "pos": "n."
+      },
+      {
+       "h": "暂停",
+       "py": "zàntíng",
+       "gl": "pause",
+       "pos": "v."
+      },
+      {
+       "h": "执行",
+       "py": "zhíxíng",
+       "gl": "execution (of code)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "使",
+       "py": "shǐ",
+       "gl": "make; cause",
+       "pos": "v."
+      },
+      {
+       "h": "程序员",
+       "py": "chéngxùyuán",
+       "gl": "programmer",
+       "pos": "n."
+      },
+      {
+       "h": "能够",
+       "py": "nénggòu",
+       "gl": "be able to; can",
+       "pos": "adv."
+      },
+      {
+       "h": "逐行",
+       "py": "zhúxíng",
+       "gl": "line by line",
+       "pos": "adv."
+      },
+      {
+       "h": "查看",
+       "py": "chákàn",
+       "gl": "check; look at",
+       "pos": "v."
+      },
+      {
+       "h": "所有",
+       "py": "suǒyǒu",
+       "gl": "all; every",
+       "pos": "pron."
+      },
+      {
+       "h": "变量",
+       "py": "biànliàng",
+       "gl": "variable",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "值",
+       "py": "zhí",
+       "gl": "value (of a variable, etc.)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Zhou also uses the version control system Git: the git bisect command can automatically find the very commit that first introduced the bug.",
+   "phrases": [
+    {
+     "en": "Xiao Zhou also uses the version control system Git: the git bisect command can automatically find the very commit that first introduced the bug.",
+     "words": [
+      {
+       "h": "小周",
+       "py": "xiǎozhōu",
+       "gl": "Xiao Zhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "can (know how to)",
+       "pos": "adv."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "版本控制系统",
+       "py": "bǎnběnkòngzhìxìtǒng",
+       "gl": "version control system",
+       "pos": "n."
+      },
+      {
+       "h": "Git"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "借助",
+       "py": "jièzhù",
+       "gl": "make use of; with the help of",
+       "pos": "prep."
+      },
+      {
+       "h": "git bisect"
+      },
+      {
+       "h": "命令",
+       "py": "mìnglìng",
+       "gl": "order; command",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may",
+       "pos": "adv."
+      },
+      {
+       "h": "自动",
+       "py": "zìdòng",
+       "gl": "automatically; automatic",
+       "pos": "adv."
+      },
+      {
+       "h": "找到",
+       "py": "zhǎodào",
+       "gl": "find",
+       "pos": "v."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "n."
+      },
+      {
+       "h": "引入",
+       "py": "yǐnrù",
+       "gl": "introduce; bring in",
+       "pos": "v."
+      },
+      {
+       "h": "该",
+       "py": "gāi",
+       "gl": "this; the said (formal)",
+       "pos": "pron."
+      },
+      {
+       "h": "错误",
+       "py": "cuòwù",
+       "gl": "mistake; error",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "提交",
+       "py": "tíjiāo",
+       "gl": "commit (code)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Before committing changes to the shared code repository, he runs automated tests in the continuous integration system to confirm the fix hasn't broken anything else.",
+   "phrases": [
+    {
+     "en": "Before committing changes to the shared code repository, he runs automated tests in the continuous integration system to confirm the fix hasn't broken anything else.",
+     "words": [
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on; be (at, in); particle: action in progress (他在吃 'he is eating')",
+       "pos": "prep."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "function word"
+      },
+      {
+       "h": "修改",
+       "py": "xiūgǎi",
+       "gl": "revise; edit; correct; revision; correction",
+       "pos": "n."
+      },
+      {
+       "h": "提交",
+       "py": "tíjiāo",
+       "gl": "commit (code)",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to (a place)",
+       "pos": "prep."
+      },
+      {
+       "h": "公共代码库",
+       "py": "gōnggòngdàimǎkù",
+       "gl": "shared code repository",
+       "pos": "n."
+      },
+      {
+       "h": "之前",
+       "py": "zhīqián",
+       "gl": "before; prior to",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "持续集成系统",
+       "py": "chíxùjíchéngxìtǒng",
+       "gl": "continuous integration system",
+       "pos": "n."
+      },
+      {
+       "h": "中",
+       "py": "zhōng",
+       "gl": "in; during (工作中 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "v."
+      },
+      {
+       "h": "自动化测试",
+       "py": "zìdònghuàcèshì",
+       "gl": "automated testing",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "以",
+       "py": "yǐ",
+       "gl": "in order to; so as to",
+       "pos": "prep."
+      },
+      {
+       "h": "确认",
+       "py": "quèrèn",
+       "gl": "confirm",
+       "pos": "v."
+      },
+      {
+       "h": "这次",
+       "py": "zhècì",
+       "gl": "this time",
+       "pos": "pron."
+      },
+      {
+       "h": "修复",
+       "py": "xiūfù",
+       "gl": "restore; repair",
+       "pos": "n."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not; did not (negates past actions)",
+       "pos": "adv."
+      },
+      {
+       "h": "破坏",
+       "py": "pòhuài",
+       "gl": "damage; destroy; destruction",
+       "pos": "v."
+      },
+      {
+       "h": "其他",
+       "py": "qítā",
+       "gl": "other; else",
+       "pos": "pron."
+      },
+      {
+       "h": "任何",
+       "py": "rènhé",
+       "gl": "any",
+       "pos": "pron."
+      },
+      {
+       "h": "功能",
+       "py": "gōngnéng",
+       "gl": "function; feature",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Before a merge, a coworker reviews Xiao Zhou's code, and this kind of code review often catches problems the author never noticed.",
+   "phrases": [
+    {
+     "en": "Before a merge, a coworker reviews Xiao Zhou's code, and this kind of code review often catches problems the author never noticed.",
+     "words": [
+      {
+       "h": "合并",
+       "py": "hébìng",
+       "gl": "merge; combine",
+       "pos": "n."
+      },
+      {
+       "h": "之前",
+       "py": "zhīqián",
+       "gl": "before; prior to",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "同事",
+       "py": "tóngshì",
+       "gl": "colleague; coworker",
+       "pos": "n."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "adv."
+      },
+      {
+       "h": "检查",
+       "py": "jiǎnchá",
+       "gl": "check; inspect",
+       "pos": "v."
+      },
+      {
+       "h": "小周",
+       "py": "xiǎozhōu",
+       "gl": "Xiao Zhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "代码",
+       "py": "dàimǎ",
+       "gl": "code (software)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这种",
+       "py": "zhèzhǒng",
+       "gl": "this kind of; such",
+       "pos": "pron."
+      },
+      {
+       "h": "代码审查",
+       "py": "dàimǎshěnchá",
+       "gl": "code review",
+       "pos": "n."
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "adv."
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "作者",
+       "py": "zuòzhě",
+       "gl": "author",
+       "pos": "n."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not; did not (negates past actions)",
+       "pos": "adv."
+      },
+      {
+       "h": "注意到",
+       "py": "zhùyìdào",
+       "gl": "notice",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Experts sort common bugs into different types, such as null pointer access, array index out of bounds, memory leaks, and the race conditions between threads mentioned earlier.",
+   "phrases": [
+    {
+     "en": "Experts sort common bugs into different types, such as null pointer access, array index out of bounds, memory leaks, and the race conditions between threads mentioned earlier.",
+     "words": [
+      {
+       "h": "专家们",
+       "py": "zhuānjiāmen",
+       "gl": "experts",
+       "pos": "n."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "function word"
+      },
+      {
+       "h": "常见",
+       "py": "chángjiàn",
+       "gl": "common",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "错误",
+       "py": "cuòwù",
+       "gl": "mistake; error",
+       "pos": "n."
+      },
+      {
+       "h": "分成",
+       "py": "fēnchéng",
+       "gl": "divide into",
+       "pos": "v."
+      },
+      {
+       "h": "不同",
+       "py": "bùtóng",
+       "gl": "different",
+       "pos": "adj."
+      },
+      {
+       "h": "类型",
+       "py": "lèixíng",
+       "gl": "type",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "例如",
+       "py": "lìrú",
+       "gl": "for example",
+       "pos": "conj."
+      },
+      {
+       "h": "访问",
+       "py": "fǎngwèn",
+       "gl": "visit; access",
+       "pos": "v."
+      },
+      {
+       "h": "空指针",
+       "py": "kōngzhǐzhēn",
+       "gl": "null pointer",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "数组下标越界",
+       "py": "shùzǔxiàbiāoyuèjiè",
+       "gl": "array index out of bounds",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "内存泄漏",
+       "py": "nèicúnxièlòu",
+       "gl": "memory leak",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "以及",
+       "py": "yǐjí",
+       "gl": "and; as well as",
+       "pos": "conj."
+      },
+      {
+       "h": "前面",
+       "py": "qiánmiàn",
+       "gl": "in front; ahead; previous; earlier",
+       "pos": "n."
+      },
+      {
+       "h": "提到过",
+       "py": "tídàoguò",
+       "gl": "mentioned (before)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "线程",
+       "py": "xiànchéng",
+       "gl": "thread (computing)",
+       "pos": "n."
+      },
+      {
+       "h": "之间",
+       "py": "zhījiān",
+       "gl": "between; among",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "竞态条件",
+       "py": "jìngtàitiáojiàn",
+       "gl": "race condition",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "To make these bugs less common in the future, many companies use static code analysis tools that look for suspicious parts of the code before the program even runs.",
+   "phrases": [
+    {
+     "en": "To make these bugs less common in the future, many companies use static code analysis tools that look for suspicious parts of the code before the program even runs.",
+     "words": [
+      {
+       "h": "为了",
+       "py": "wèile",
+       "gl": "in order to; for",
+       "pos": "prep."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "这类",
+       "py": "zhèlèi",
+       "gl": "this kind of; such (这类 + noun)",
+       "pos": "pron."
+      },
+      {
+       "h": "错误",
+       "py": "cuòwù",
+       "gl": "mistake; error",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "未来",
+       "py": "wèilái",
+       "gl": "future",
+       "pos": "n."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "少",
+       "py": "shǎo",
+       "gl": "seldom; rarely",
+       "pos": "adj."
+      },
+      {
+       "h": "出现",
+       "py": "chūxiàn",
+       "gl": "appear; emerge",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "许多",
+       "py": "xǔduō",
+       "gl": "many; a lot of",
+       "pos": "num."
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
+       "pos": "n."
+      },
+      {
+       "h": "使用",
+       "py": "shǐyòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "静态代码分析工具",
+       "py": "jìngtàidàimǎfēnxīgōngjù",
+       "gl": "static code analysis tool",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on; be (at, in); particle: action in progress (他在吃 'he is eating')",
+       "pos": "prep."
+      },
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "n."
+      },
+      {
+       "h": "之前",
+       "py": "zhīqián",
+       "gl": "before; prior to",
+       "pos": "postposition"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "查找",
+       "py": "cházhǎo",
+       "gl": "search for; look up",
+       "pos": "v."
+      },
+      {
+       "h": "代码",
+       "py": "dàimǎ",
+       "gl": "code (software)",
+       "pos": "n."
+      },
+      {
+       "h": "中",
+       "py": "zhōng",
+       "gl": "in; during (工作中 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "可疑",
+       "py": "kěyí",
+       "gl": "suspicious",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "部分",
+       "py": "bùfèn",
+       "gl": "part; section",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Zhou thinks good tests matter more than good-looking code, because it's the tests that tell you whether the program still works after every change.",
+   "phrases": [
+    {
+     "en": "Xiao Zhou thinks good tests matter more than good-looking code, because it's the tests that tell you whether the program still works after every change.",
+     "words": [
+      {
+       "h": "小周",
+       "py": "xiǎozhōu",
+       "gl": "Xiao Zhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "认为",
+       "py": "rènwéi",
+       "gl": "think; believe; consider",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "测试",
+       "py": "cèshì",
+       "gl": "test",
+       "pos": "n."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "好看",
+       "py": "hǎokàn",
+       "gl": "good-looking; pretty; nice",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "代码",
+       "py": "dàimǎ",
+       "gl": "code (software)",
+       "pos": "n."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "重要",
+       "py": "zhòngyào",
+       "gl": "important",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "因为",
+       "py": "yīnwèi",
+       "gl": "because",
+       "pos": "conj."
+      },
+      {
+       "h": "正是",
+       "py": "zhèngshì",
+       "gl": "precisely; it is exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "测试",
+       "py": "cèshì",
+       "gl": "test; trial",
+       "pos": "n."
+      },
+      {
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每一次",
+       "py": "měiyīcì",
+       "gl": "every time",
+       "pos": "n."
+      },
+      {
+       "h": "修改",
+       "py": "xiūgǎi",
+       "gl": "revision; change",
+       "pos": "n."
+      },
+      {
+       "h": "之后",
+       "py": "zhīhòu",
+       "gl": "after",
+       "pos": "postposition"
+      },
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "是否",
+       "py": "shìfǒu",
+       "gl": "whether; if",
+       "pos": "conj."
+      },
+      {
+       "h": "仍然",
+       "py": "réngrán",
+       "gl": "still; as before",
+       "pos": "adv."
+      },
+      {
+       "h": "正常",
+       "py": "zhèngcháng",
+       "gl": "normal",
+       "pos": "adv."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Zhou's team maintains a huge suite of automated tests for the project; every code commit triggers the continuous integration and continuous deployment (CI/CD) pipeline to run the tests and measure code coverage, and if the error rate spikes after a production update, the deployment is automatically rolled back.",
+   "phrases": [
+    {
+     "en": "Xiao Zhou's team maintains a huge suite of automated tests for the project; every code commit triggers the continuous integration and continuous deployment (CI/CD) pipeline to run the tests and measure code coverage, and if the error rate spikes after a production update, the deployment is automatically rolled back.",
+     "words": [
+      {
+       "h": "小周",
+       "py": "xiǎozhōu",
+       "gl": "Xiao Zhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "所在",
+       "py": "suǒzài",
+       "gl": "location; where (someone) is; where (something) lies (关键所在: the key)",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "团队",
+       "py": "tuánduì",
+       "gl": "team",
+       "pos": "n."
+      },
+      {
+       "h": "为",
+       "py": "wèi",
+       "gl": "for; for the sake of",
+       "pos": "prep."
+      },
+      {
+       "h": "项目",
+       "py": "xiàngmù",
+       "gl": "project; item",
+       "pos": "n."
+      },
+      {
+       "h": "维护着",
+       "py": "wéihùzhe",
+       "gl": "maintaining",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "套",
+       "py": "tào",
+       "gl": "measure word for sets (of ideas, furniture, etc.)",
+       "pos": "measure word"
+      },
+      {
+       "h": "庞大",
+       "py": "pángdà",
+       "gl": "huge; enormous",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "自动化测试集",
+       "py": "zìdònghuàcèshìjí",
+       "gl": "automated test suite",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "n."
+      },
+      {
+       "h": "提交",
+       "py": "tíjiāo",
+       "gl": "commit (code)",
+       "pos": "v."
+      },
+      {
+       "h": "代码",
+       "py": "dàimǎ",
+       "gl": "code (software)",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "adv."
+      },
+      {
+       "h": "触发",
+       "py": "chùfā",
+       "gl": "trigger; set off",
+       "pos": "v."
+      },
+      {
+       "h": "持续集成与持续部署",
+       "py": "chíxùjíchéngyǔchíxùbùshǔ",
+       "gl": "continuous integration and continuous deployment (CI/CD)",
+       "pos": "n."
+      },
+      {
+       "h": "（"
+      },
+      {
+       "h": "CI/CD"
+      },
+      {
+       "h": "）"
+      },
+      {
+       "h": "流水线",
+       "py": "liúshuǐxiàn",
+       "gl": "assembly line; production line",
+       "pos": "n."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "v."
+      },
+      {
+       "h": "测试",
+       "py": "cèshì",
+       "gl": "test; trial",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "统计",
+       "py": "tǒngjì",
+       "gl": "count; compile statistics; statistics",
+       "pos": "v."
+      },
+      {
+       "h": "代码",
+       "py": "dàimǎ",
+       "gl": "code (software)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "测试覆盖率",
+       "py": "cèshìfùgàilǜ",
+       "gl": "test coverage",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并",
+       "py": "bìng",
+       "gl": "and; also; moreover",
+       "pos": "conj."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on; be (at, in); particle: action in progress (他在吃 'he is eating')",
+       "pos": "prep."
+      },
+      {
+       "h": "生产环境",
+       "py": "shēngchǎnhuánjìng",
+       "gl": "production environment",
+       "pos": "n."
+      },
+      {
+       "h": "更新",
+       "py": "gēngxīn",
+       "gl": "renewal; update",
+       "pos": "n."
+      },
+      {
+       "h": "后",
+       "py": "hòu",
+       "gl": "after",
+       "pos": "postposition"
+      },
+      {
+       "h": "错误率",
+       "py": "cuòwùlǜ",
+       "gl": "error rate",
+       "pos": "n."
+      },
+      {
+       "h": "骤然",
+       "py": "zhòurán",
+       "gl": "suddenly; abruptly",
+       "pos": "adv."
+      },
+      {
+       "h": "上升",
+       "py": "shàngshēng",
+       "gl": "rise; go up; increase",
+       "pos": "v."
+      },
+      {
+       "h": "时",
+       "py": "shí",
+       "gl": "when; time",
+       "pos": "n."
+      },
+      {
+       "h": "自动",
+       "py": "zìdòng",
+       "gl": "automatically; automatic",
+       "pos": "adv."
+      },
+      {
+       "h": "回滚",
+       "py": "huígǔn",
+       "gl": "roll back",
+       "pos": "v."
+      },
+      {
+       "h": "这次",
+       "py": "zhècì",
+       "gl": "this time",
+       "pos": "pron."
+      },
+      {
+       "h": "部署",
+       "py": "bùshǔ",
+       "gl": "deploy",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Before everyone went home, the team discussed a plan to refactor the module so that similar complex bugs would be easier to find in the future.",
+   "phrases": [
+    {
+     "en": "Before everyone went home, the team discussed a plan to refactor the module so that similar complex bugs would be easier to find in the future.",
+     "words": [
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on; be (at, in); particle: action in progress (他在吃 'he is eating')",
+       "pos": "prep."
+      },
+      {
+       "h": "各自",
+       "py": "gèzì",
+       "gl": "each; respectively; separately",
+       "pos": "pron."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "之前",
+       "py": "zhīqián",
+       "gl": "before; prior to",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "团队",
+       "py": "tuánduì",
+       "gl": "team",
+       "pos": "n."
+      },
+      {
+       "h": "讨论",
+       "py": "tǎolùn",
+       "gl": "discuss; discussion",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "模块",
+       "py": "mókuài",
+       "gl": "module",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "重构计划",
+       "py": "zhònggòujìhuà",
+       "gl": "refactoring plan",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "以便",
+       "py": "yǐbiàn",
+       "gl": "in order to; so that",
+       "pos": "conj."
+      },
+      {
+       "h": "将来",
+       "py": "jiānglái",
+       "gl": "future; in the future",
+       "pos": "n."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "容易",
+       "py": "róngyì",
+       "gl": "easy; be prone to; likely to",
+       "pos": "adj."
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "类似",
+       "py": "lèisì",
+       "gl": "similar",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "复杂错误",
+       "py": "fùzácuòwù",
+       "gl": "complex bug",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Zhou wrote up the cause of today's bug and how he fixed it in the team's shared knowledge base, so his coworkers could quickly find a hint if they ran into a similar problem.",
+   "phrases": [
+    {
+     "en": "Xiao Zhou wrote up the cause of today's bug and how he fixed it in the team's shared knowledge base, so his coworkers could quickly find a hint if they ran into a similar problem.",
+     "words": [
+      {
+       "h": "小周",
+       "py": "xiǎozhōu",
+       "gl": "Xiao Zhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "function word"
+      },
+      {
+       "h": "今天",
+       "py": "jīntiān",
+       "gl": "today",
+       "pos": "n."
+      },
+      {
+       "h": "这次",
+       "py": "zhècì",
+       "gl": "this time",
+       "pos": "pron."
+      },
+      {
+       "h": "错误",
+       "py": "cuòwù",
+       "gl": "mistake; error",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "原因",
+       "py": "yuányīn",
+       "gl": "reason; cause",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "解决方法",
+       "py": "jiějuéfāngfǎ",
+       "gl": "solution",
+       "pos": "n."
+      },
+      {
+       "h": "记录",
+       "py": "jìlù",
+       "gl": "record; write down",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to (a place)",
+       "pos": "prep."
+      },
+      {
+       "h": "团队",
+       "py": "tuánduì",
+       "gl": "team",
+       "pos": "n."
+      },
+      {
+       "h": "共享",
+       "py": "gòngxiǎng",
+       "gl": "shared; share",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "知识库",
+       "py": "zhīshíkù",
+       "gl": "knowledge base",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "like this; this way; such",
+       "pos": "conj."
+      },
+      {
+       "h": "同事们",
+       "py": "tóngshìmen",
+       "gl": "colleagues",
+       "pos": "n."
+      },
+      {
+       "h": "遇到",
+       "py": "yùdào",
+       "gl": "encounter; come across; run into",
+       "pos": "v."
+      },
+      {
+       "h": "类似",
+       "py": "lèisì",
+       "gl": "similar",
+       "pos": "adj."
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "时",
+       "py": "shí",
+       "gl": "when; time",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "adv."
+      },
+      {
+       "h": "很快",
+       "py": "hěnkuài",
+       "gl": "quickly; soon",
+       "pos": "adv."
+      },
+      {
+       "h": "找到",
+       "py": "zhǎodào",
+       "gl": "find",
+       "pos": "v."
+      },
+      {
+       "h": "提示",
+       "py": "tíshì",
+       "gl": "prompt; cue; hint",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Stories like this rarely make the news, but they're the reason millions of apps keep running smoothly every day.",
+   "phrases": [
+    {
+     "en": "Stories like this rarely make the news, but they're the reason millions of apps keep running smoothly every day.",
+     "words": [
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "故事",
+       "py": "gùshì",
+       "gl": "story",
+       "pos": "n."
+      },
+      {
+       "h": "很少",
+       "py": "hěnshǎo",
+       "gl": "rarely; seldom; few",
+       "pos": "adv."
+      },
+      {
+       "h": "登上",
+       "py": "dēngshàng",
+       "gl": "climb; ascend; make it onto (a list)",
+       "pos": "v."
+      },
+      {
+       "h": "新闻",
+       "py": "xīnwén",
+       "gl": "news",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "但",
+       "py": "dàn",
+       "gl": "but",
+       "pos": "conj."
+      },
+      {
+       "h": "正是",
+       "py": "zhèngshì",
+       "gl": "precisely; it is exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "因为",
+       "py": "yīnwèi",
+       "gl": "because",
+       "pos": "conj."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "它们",
+       "py": "tāmen",
+       "gl": "they; them (for animals and things)",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "数以百万计",
+       "py": "shùyǐbǎiwànjì",
+       "gl": "numbering in the millions",
+       "pos": "phrase"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "应用程序",
+       "py": "yìngyòngchéngxù",
+       "gl": "app; application",
+       "pos": "n."
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "adv."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "稳定",
+       "py": "wěndìng",
+       "gl": "stable; steady",
+       "pos": "adv."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "series": "engineering",
+ "episode": 8,
+ "episode_count": 20
+}

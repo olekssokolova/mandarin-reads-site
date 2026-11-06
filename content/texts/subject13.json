@@ -1,0 +1,747 @@
+{
+ "id": "subject13",
+ "level": 4,
+ "title_zh": "图灵讲计算机",
+ "title_en": "My Favorite Subject (13/15): Turing on Computer Science",
+ "free": false,
+ "audio_url": null,
+ "note_en": "是否 (shìfǒu) is a more formal way to say \"whether\": 机器是否有一天也能像人一样思考 \"whether machines might one day think like people.\" In speech you'd usually hear the yes-no form 能不能 instead. Also note 像……一样 \"just like ...\".",
+ "sentences": [
+  {
+   "en": "Hello, everyone. I'm Turing, a mathematician and codebreaker.",
+   "phrases": [
+    {
+     "en": "Hello, everyone. I'm Turing, a mathematician and codebreaker.",
+     "words": [
+      {
+       "h": "大家好",
+       "py": "dàjiāhǎo",
+       "gl": "hello, everyone",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "图灵",
+       "py": "túlíng",
+       "gl": "Turing (Alan Turing, mathematician)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "名",
+       "py": "míng",
+       "gl": "measure word for places in a ranking; name",
+       "pos": "measure word"
+      },
+      {
+       "h": "数学家",
+       "py": "shùxuéjiā",
+       "gl": "mathematician",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and; with",
+       "pos": "conj."
+      },
+      {
+       "h": "密码",
+       "py": "mìmǎ",
+       "gl": "password",
+       "pos": "n."
+      },
+      {
+       "h": "专家",
+       "py": "zhuānjiā",
+       "gl": "expert; specialist",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "During World War II, I helped break the enemy's secret codes.",
+   "phrases": [
+    {
+     "en": "During World War II, I helped break the enemy's secret codes.",
+     "words": [
+      {
+       "h": "第二次世界大战",
+       "py": "dì'èrcìshìjièdàzhàn",
+       "gl": "World War II",
+       "pos": "proper noun"
+      },
+      {
+       "h": "期间",
+       "py": "qījiān",
+       "gl": "during; period",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "参与",
+       "py": "cānyù",
+       "gl": "take part in; participate",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "破译",
+       "py": "pòyì",
+       "gl": "decipher; crack (a code)",
+       "pos": "v."
+      },
+      {
+       "h": "敌人",
+       "py": "dírén",
+       "gl": "enemy",
+       "pos": "n."
+      },
+      {
+       "h": "密码",
+       "py": "mìmǎ",
+       "gl": "password",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "To crack the codes faster, my colleague Welchman and I designed a machine that could do calculations automatically.",
+   "phrases": [
+    {
+     "en": "To crack the codes faster, my colleague Welchman and I designed a machine that could do calculations automatically.",
+     "words": [
+      {
+       "h": "为了",
+       "py": "wèile",
+       "gl": "in order to; for",
+       "pos": "prep."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "even more; more",
+       "pos": "adv."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick; quickly",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "破译",
+       "py": "pòyì",
+       "gl": "decipher; crack (a code)",
+       "pos": "v."
+      },
+      {
+       "h": "密码",
+       "py": "mìmǎ",
+       "gl": "password",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and; with",
+       "pos": "conj."
+      },
+      {
+       "h": "同事",
+       "py": "tóngshì",
+       "gl": "colleague",
+       "pos": "n."
+      },
+      {
+       "h": "韦尔奇曼",
+       "py": "wéi'ěrqímàn",
+       "gl": "Welchman (Gordon Welchman, British mathematician)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
+      },
+      {
+       "h": "设计",
+       "py": "shèjì",
+       "gl": "design",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "台",
+       "py": "tái",
+       "gl": "stage; platform; measure word for machines (computers, TVs)",
+       "pos": "n."
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may; be allowed",
+       "pos": "function word"
+      },
+      {
+       "h": "自动",
+       "py": "zìdòng",
+       "gl": "automatic",
+       "pos": "adj."
+      },
+      {
+       "h": "运算",
+       "py": "yùnsuàn",
+       "gl": "calculate; compute; operation",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "机器",
+       "py": "jīqì",
+       "gl": "machine",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This machine helped us read a huge number of the enemy's secret messages.",
+   "phrases": [
+    {
+     "en": "This machine helped us read a huge number of the enemy's secret messages.",
+     "words": [
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "台",
+       "py": "tái",
+       "gl": "stage; platform; measure word for machines (computers, TVs)",
+       "pos": "n."
+      },
+      {
+       "h": "机器",
+       "py": "jīqì",
+       "gl": "machine",
+       "pos": "n."
+      },
+      {
+       "h": "帮助",
+       "py": "bāngzhù",
+       "gl": "help",
+       "pos": "v."
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "读懂",
+       "py": "dúdǒng",
+       "gl": "read and understand",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "大量",
+       "py": "dàliàng",
+       "gl": "large amount of; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "敌人",
+       "py": "dírén",
+       "gl": "enemy",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "秘密",
+       "py": "mìmì",
+       "gl": "secret",
+       "pos": "adj."
+      },
+      {
+       "h": "信息",
+       "py": "xìnxī",
+       "gl": "message; information",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I often thought about one question: could a machine one day think like a person?",
+   "phrases": [
+    {
+     "en": "I often thought about one question: could a machine one day think like a person?",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "思考",
+       "py": "sīkǎo",
+       "gl": "think; ponder; reflect",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "question; problem",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "机器",
+       "py": "jīqì",
+       "gl": "machine",
+       "pos": "n."
+      },
+      {
+       "h": "是否",
+       "py": "shìfǒu",
+       "gl": "whether; if",
+       "pos": "conj."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "sky; day",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "function word"
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "一样",
+       "py": "yíyàng",
+       "gl": "same; alike",
+       "pos": "adj."
+      },
+      {
+       "h": "思考",
+       "py": "sīkǎo",
+       "gl": "think; ponder; reflect",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Computer science taught me that complicated problems can often be broken down into simple, step-by-step logic.",
+   "phrases": [
+    {
+     "en": "Computer science taught me that complicated problems can often be broken down into simple, step-by-step logic.",
+     "words": [
+      {
+       "h": "计算机",
+       "py": "jìsuànjī",
+       "gl": "computer science; computer",
+       "pos": "n."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "let; make (someone do); ask (someone to do)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "明白",
+       "py": "míngbai",
+       "gl": "understand; realize; clear",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "复杂",
+       "py": "fùzá",
+       "gl": "complicated; complex",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "question; problem",
+       "pos": "n."
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may; be allowed",
+       "pos": "function word"
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "prep."
+      },
+      {
+       "h": "拆",
+       "py": "chāi",
+       "gl": "take apart; break down",
+       "pos": "v."
+      },
+      {
+       "h": "成",
+       "py": "chéng",
+       "gl": "into; become; turn into",
+       "pos": "v."
+      },
+      {
+       "h": "一步",
+       "py": "yíbù",
+       "gl": "one step (closer)",
+       "pos": "n."
+      },
+      {
+       "h": "一步",
+       "py": "yíbù",
+       "gl": "one step (closer)",
+       "pos": "n."
+      },
+      {
+       "h": "简单",
+       "py": "jiǎndān",
+       "gl": "simple; easy",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "逻辑",
+       "py": "luójí",
+       "gl": "logic",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I hope that children in the future will not only know how to use computers but also understand the principles behind them.",
+   "phrases": [
+    {
+     "en": "I hope that children in the future will not only know how to use computers but also understand the principles behind them.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "希望",
+       "py": "xīwàng",
+       "gl": "hope; wish",
+       "pos": "v."
+      },
+      {
+       "h": "未来",
+       "py": "wèilái",
+       "gl": "future",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "孩子",
+       "py": "háizi",
+       "gl": "child",
+       "pos": "n."
+      },
+      {
+       "h": "们",
+       "py": "men",
+       "gl": "plural suffix for people",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不仅",
+       "py": "bùjǐn",
+       "gl": "not only",
+       "pos": "conj."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "can (know how to); will",
+       "pos": "function word"
+      },
+      {
+       "h": "使用",
+       "py": "shǐyòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "电脑",
+       "py": "diànnǎo",
+       "gl": "computer",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "function word"
+      },
+      {
+       "h": "理解",
+       "py": "lǐjiě",
+       "gl": "understand; understanding",
+       "pos": "v."
+      },
+      {
+       "h": "电脑",
+       "py": "diànnǎo",
+       "gl": "computer",
+       "pos": "n."
+      },
+      {
+       "h": "背后",
+       "py": "bèihòu",
+       "gl": "behind; underlying",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "原理",
+       "py": "yuánlǐ",
+       "gl": "principle",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "series": "subject",
+ "episode": 13,
+ "episode_count": 15
+}

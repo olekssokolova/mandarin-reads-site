@@ -1,0 +1,3370 @@
+{
+ "id": "engineering09",
+ "level": 6,
+ "title_zh": "设计一款新芯片",
+ "title_en": "Technology and Engineering (9/20): Designing a New Chip",
+ "free": false,
+ "audio_url": null,
+ "note_en": "为了 (wèile) \"in order to\" introduces a purpose, and that clause normally comes first: 为了提高运算速度，他们反复调整电路的布局 \"To increase computing speed, they adjusted the circuit layout again and again.\" English often puts the purpose at the end (\"they adjusted it to increase speed\"); in Chinese, putting 为了… after the main clause sounds marked and is usually rephrased with 是为了.",
+ "sentences": [
+  {
+   "en": "Two chip engineers are sitting in front of big monitors, designing a new processor.",
+   "phrases": [
+    {
+     "en": "Two chip engineers are sitting in front of big monitors,",
+     "words": [
+      {
+       "h": "两位",
+       "py": "liǎngwèi",
+       "gl": "two (people, polite)",
+       "pos": "measure word"
+      },
+      {
+       "h": "芯片工程师",
+       "py": "xīnpiàngōngchéngshī",
+       "gl": "chip engineer",
+       "pos": "n."
+      },
+      {
+       "h": "正",
+       "py": "zhèng",
+       "gl": "just; right now (in progress); precisely; just",
+       "pos": "adv."
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "大显示器",
+       "py": "dàxiǎnshìqì",
+       "gl": "large monitor",
+       "pos": "n."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "designing a new processor.",
+     "words": [
+      {
+       "h": "设计",
+       "py": "shèjì",
+       "gl": "design",
+       "pos": "v."
+      },
+      {
+       "h": "一款",
+       "py": "yìkuǎn",
+       "gl": "one model (of a product)",
+       "pos": "measure word"
+      },
+      {
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "处理器",
+       "py": "chǔlǐqì",
+       "gl": "processor",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "One is named Engineer Wu, and the other Engineer Han.",
+   "phrases": [
+    {
+     "en": "One is named Engineer Wu, and the other Engineer Han.",
+     "words": [
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "call; be called",
+       "pos": "v."
+      },
+      {
+       "h": "吴工",
+       "py": "wúgōng",
+       "gl": "Engineer Wu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "另一个",
+       "py": "lìngyígè",
+       "gl": "another; the other",
+       "pos": "pron."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "call; be called",
+       "pos": "v."
+      },
+      {
+       "h": "韩工",
+       "py": "hángōng",
+       "gl": "Engineer Han (form of address)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The dense web of lines on the screen represents the complex circuitry inside the chip.",
+   "phrases": [
+    {
+     "en": "The dense web of lines on the screen",
+     "words": [
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "密密麻麻",
+       "py": "mìmìmámá",
+       "gl": "densely packed; thickly dotted",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "线路图",
+       "py": "xiànlùtú",
+       "gl": "circuit diagram; wiring diagram",
+       "pos": "n."
+      }
+     ]
+    },
+    {
+     "en": "represents the complex circuitry inside the chip.",
+     "words": [
+      {
+       "h": "代表",
+       "py": "dàibiǎo",
+       "gl": "representative; delegate; represent; on behalf of; stand for",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "芯片",
+       "py": "xīnpiàn",
+       "gl": "chip; microchip",
+       "pos": "n."
+      },
+      {
+       "h": "内部",
+       "py": "nèibù",
+       "gl": "inside; internal",
+       "pos": "n."
+      },
+      {
+       "h": "复杂",
+       "py": "fùzá",
+       "gl": "complicated; complex",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "电路结构",
+       "py": "diànlùjiégòu",
+       "gl": "circuit structure",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "They need to arrange billions of components sensibly in a tiny space.",
+   "phrases": [
+    {
+     "en": "They need to sensibly arrange billions of components",
+     "words": [
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "需要",
+       "py": "xūyào",
+       "gl": "need; require; need to; have to",
+       "pos": "v."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "数十亿个",
+       "py": "shùshíyìgè",
+       "gl": "billions of",
+       "pos": "num."
+      },
+      {
+       "h": "元件",
+       "py": "yuánjiàn",
+       "gl": "component; element",
+       "pos": "n."
+      },
+      {
+       "h": "合理地",
+       "py": "hélǐde",
+       "gl": "reasonably; rationally",
+       "pos": "adv."
+      }
+     ]
+    },
+    {
+     "en": "in a tiny space.",
+     "words": [
+      {
+       "h": "安排",
+       "py": "ānpái",
+       "gl": "arrange; plan; organize",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "很小",
+       "py": "hěnxiǎo",
+       "gl": "very small",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "空间",
+       "py": "kōngjiān",
+       "gl": "space",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A design mistake in any single line can affect the chip's overall performance.",
+   "phrases": [
+    {
+     "en": "A design mistake in any single line",
+     "words": [
+      {
+       "h": "任何",
+       "py": "rènhé",
+       "gl": "any",
+       "pos": "pron."
+      },
+      {
+       "h": "一条",
+       "py": "yìtiáo",
+       "gl": "one (measure word for long things, messages, news, rules)",
+       "pos": "num."
+      },
+      {
+       "h": "线路",
+       "py": "xiànlù",
+       "gl": "line; circuit; route",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "设计",
+       "py": "shèjì",
+       "gl": "design",
+       "pos": "n."
+      },
+      {
+       "h": "失误",
+       "py": "shīwù",
+       "gl": "mistake; slip",
+       "pos": "n."
+      }
+     ]
+    },
+    {
+     "en": "can affect the chip's overall performance.",
+     "words": [
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "可能",
+       "py": "kěnéng",
+       "gl": "maybe; perhaps; possibly",
+       "pos": "v."
+      },
+      {
+       "h": "影响",
+       "py": "yǐngxiǎng",
+       "gl": "influence; affect",
+       "pos": "v."
+      },
+      {
+       "h": "芯片",
+       "py": "xīnpiàn",
+       "gl": "chip; microchip",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "整体",
+       "py": "zhěngtǐ",
+       "gl": "whole; overall",
+       "pos": "adj."
+      },
+      {
+       "h": "性能",
+       "py": "xìngnéng",
+       "gl": "performance",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "To increase computing speed, they adjust the layout of the circuits and how they're connected again and again.",
+   "phrases": [
+    {
+     "en": "To increase computing speed,",
+     "words": [
+      {
+       "h": "为了",
+       "py": "wèile",
+       "gl": "in order to; for",
+       "pos": "conj."
+      },
+      {
+       "h": "提高",
+       "py": "tígāo",
+       "gl": "raise; improve",
+       "pos": "v."
+      },
+      {
+       "h": "运算",
+       "py": "yùnsuàn",
+       "gl": "calculate; compute; operation",
+       "pos": "n."
+      },
+      {
+       "h": "速度",
+       "py": "sùdù",
+       "gl": "speed",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "they adjust the layout of the circuits and how they're connected again and again.",
+     "words": [
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "反复",
+       "py": "fǎnfù",
+       "gl": "repeatedly; over and over",
+       "pos": "adv."
+      },
+      {
+       "h": "调整",
+       "py": "tiáozhěng",
+       "gl": "adjust; tune",
+       "pos": "v."
+      },
+      {
+       "h": "电路",
+       "py": "diànlù",
+       "gl": "circuit",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "布局",
+       "py": "bùjú",
+       "gl": "layout; arrangement; deployment",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "连接方式",
+       "py": "liánjiēfāngshì",
+       "gl": "connection method",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Once the design is finished, the chip still has to go through many rounds of simulation testing before it can go into production.",
+   "phrases": [
+    {
+     "en": "Once the design is finished,",
+     "words": [
+      {
+       "h": "设计",
+       "py": "shèjì",
+       "gl": "design",
+       "pos": "n."
+      },
+      {
+       "h": "完成",
+       "py": "wánchéng",
+       "gl": "finish; complete",
+       "pos": "v."
+      },
+      {
+       "h": "后",
+       "py": "hòu",
+       "gl": "after",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the chip still has to go through many rounds of simulation testing before it can go into production.",
+     "words": [
+      {
+       "h": "这款",
+       "py": "zhèkuǎn",
+       "gl": "this model; this type",
+       "pos": "pron."
+      },
+      {
+       "h": "芯片",
+       "py": "xīnpiàn",
+       "gl": "chip; microchip",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "function word"
+      },
+      {
+       "h": "经过",
+       "py": "jīngguò",
+       "gl": "go through; undergo; pass by",
+       "pos": "v."
+      },
+      {
+       "h": "多次",
+       "py": "duōcì",
+       "gl": "many times; repeatedly",
+       "pos": "adv."
+      },
+      {
+       "h": "模拟测试",
+       "py": "mónǐcèshì",
+       "gl": "simulation test",
+       "pos": "n."
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "投入",
+       "py": "tóurù",
+       "gl": "put into (use); invest",
+       "pos": "v."
+      },
+      {
+       "h": "生产",
+       "py": "shēngchǎn",
+       "gl": "produce; manufacture",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Both of them believe the new chip will be faster and more power-efficient than the previous generation.",
+   "phrases": [
+    {
+     "en": "Both of them believe",
+     "words": [
+      {
+       "h": "两人",
+       "py": "liǎngrén",
+       "gl": "the two (of them); both",
+       "pos": "n."
+      },
+      {
+       "h": "相信",
+       "py": "xiāngxìn",
+       "gl": "believe; trust",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the new chip will be faster and more power-efficient than the previous generation.",
+     "words": [
+      {
+       "h": "这款",
+       "py": "zhèkuǎn",
+       "gl": "this model; this type",
+       "pos": "pron."
+      },
+      {
+       "h": "新芯片",
+       "py": "xīnxīnpiàn",
+       "gl": "new chip",
+       "pos": "n."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "function word"
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "上一代",
+       "py": "shàngyīdài",
+       "gl": "previous generation",
+       "pos": "n."
+      },
+      {
+       "h": "产品",
+       "py": "chǎnpǐn",
+       "gl": "product; goods",
+       "pos": "n."
+      },
+      {
+       "h": "更快",
+       "py": "gèngkuài",
+       "gl": "faster",
+       "pos": "adj."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "更省电",
+       "py": "gèngshěngdiàn",
+       "gl": "more power-efficient",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The two engineers use electronic design automation software to handle placement and routing for the chip's more than one billion transistors, repeatedly fine-tuning the balance between clock speed and thermal design power, aiming to optimize both yield and performance before tape-out.",
+   "phrases": [
+    {
+     "en": "The two engineers use electronic design automation software to handle placement and routing for the chip's more than one billion transistors, repeatedly fine-tuning the balance between clock speed and thermal design power, aiming to optimize both yield and performance before tape-out.",
+     "words": [
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "位",
+       "py": "wèi",
+       "gl": "polite measure word for people",
+       "pos": "measure word"
+      },
+      {
+       "h": "工程师",
+       "py": "gōngchéngshī",
+       "gl": "engineer",
+       "pos": "n."
+      },
+      {
+       "h": "使用",
+       "py": "shǐyòng",
+       "gl": "use; usage",
+       "pos": "v."
+      },
+      {
+       "h": "电子设计自动化软件",
+       "py": "diànzishèjìzìdònghuàruǎnjiàn",
+       "gl": "electronic design automation (EDA) software",
+       "pos": "n."
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "for; to (对…来说 'for…, as far as … is concerned')",
+       "pos": "prep."
+      },
+      {
+       "h": "芯片",
+       "py": "xīnpiàn",
+       "gl": "chip; microchip",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "十亿",
+       "py": "shíyì",
+       "gl": "one billion",
+       "pos": "num."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "more (than)",
+       "pos": "adv."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "measure word (general, for people and things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "晶体管",
+       "py": "jīngtǐguǎn",
+       "gl": "transistor",
+       "pos": "n."
+      },
+      {
+       "h": "进行",
+       "py": "jìnxíng",
+       "gl": "carry out; conduct; take place",
+       "pos": "v."
+      },
+      {
+       "h": "布局布线",
+       "py": "bùjúbùxiàn",
+       "gl": "placement and routing (chip design)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并",
+       "py": "bìng",
+       "gl": "and; also; moreover",
+       "pos": "conj."
+      },
+      {
+       "h": "反复",
+       "py": "fǎnfù",
+       "gl": "repeatedly; over and over",
+       "pos": "adv."
+      },
+      {
+       "h": "调整",
+       "py": "tiáozhěng",
+       "gl": "adjust; tune",
+       "pos": "v."
+      },
+      {
+       "h": "时钟频率",
+       "py": "shízhōngpínlǜ",
+       "gl": "clock frequency",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "热设计功耗",
+       "py": "rèshèjìgōnghào",
+       "gl": "thermal design power (TDP)",
+       "pos": "n."
+      },
+      {
+       "h": "之间",
+       "py": "zhījiān",
+       "gl": "between; among",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "平衡",
+       "py": "pínghéng",
+       "gl": "balance; balanced",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "力求",
+       "py": "lìqiú",
+       "gl": "strive for; make every effort to",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "流片",
+       "py": "liúpiàn",
+       "gl": "tape-out (chip manufacturing)",
+       "pos": "n."
+      },
+      {
+       "h": "之前",
+       "py": "zhīqián",
+       "gl": "before; prior to",
+       "pos": "postposition"
+      },
+      {
+       "h": "将",
+       "py": "jiāng",
+       "gl": "particle introducing the object before the verb (like 把)",
+       "pos": "function word"
+      },
+      {
+       "h": "良率",
+       "py": "liánglǜ",
+       "gl": "yield rate",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "性能",
+       "py": "xìngnéng",
+       "gl": "performance",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "优化",
+       "py": "yōuhuà",
+       "gl": "optimize",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "最佳状态",
+       "py": "zuìjiāzhuàngtài",
+       "gl": "best condition; peak form",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This kind of software also helps place components, connect the wiring, and check whether the whole circuit design is correct.",
+   "phrases": [
+    {
+     "en": "This kind of software also helps place components, connect the wiring, and check whether the whole circuit design is correct.",
+     "words": [
+      {
+       "h": "这类",
+       "py": "zhèlèi",
+       "gl": "this kind of; such (这类 + noun)",
+       "pos": "pron."
+      },
+      {
+       "h": "软件",
+       "py": "ruǎnjiàn",
+       "gl": "app; software",
+       "pos": "n."
+      },
+      {
+       "h": "还能",
+       "py": "háinéng",
+       "gl": "can still; can also",
+       "pos": "adv."
+      },
+      {
+       "h": "帮助",
+       "py": "bāngzhù",
+       "gl": "help; assist",
+       "pos": "v."
+      },
+      {
+       "h": "放置",
+       "py": "fàngzhì",
+       "gl": "place; put",
+       "pos": "v."
+      },
+      {
+       "h": "元件",
+       "py": "yuánjiàn",
+       "gl": "component; element",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "连接",
+       "py": "liánjiē",
+       "gl": "connect; link",
+       "pos": "v."
+      },
+      {
+       "h": "线路",
+       "py": "xiànlù",
+       "gl": "line; circuit; route",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并",
+       "py": "bìng",
+       "gl": "and; also; moreover",
+       "pos": "conj."
+      },
+      {
+       "h": "检查",
+       "py": "jiǎnchá",
+       "gl": "check; inspect",
+       "pos": "v."
+      },
+      {
+       "h": "整个",
+       "py": "zhěnggè",
+       "gl": "whole; entire",
+       "pos": "adj."
+      },
+      {
+       "h": "电路设计",
+       "py": "diànlùshèjì",
+       "gl": "circuit design",
+       "pos": "n."
+      },
+      {
+       "h": "是否",
+       "py": "shìfǒu",
+       "gl": "whether; if",
+       "pos": "conj."
+      },
+      {
+       "h": "正确",
+       "py": "zhèngquè",
+       "gl": "correct; right",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A few hours later, Engineer Wu spotted a place on the timing analysis chart where a signal was arriving late, and suggested moving a few of the blocks.",
+   "phrases": [
+    {
+     "en": "A few hours later, Engineer Wu spotted a place on the timing analysis chart where a signal was arriving late, and suggested moving a few of the blocks.",
+     "words": [
+      {
+       "h": "几个小时",
+       "py": "jǐgèxiǎoshí",
+       "gl": "several hours",
+       "pos": "n."
+      },
+      {
+       "h": "后",
+       "py": "hòu",
+       "gl": "after",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "吴工",
+       "py": "wúgōng",
+       "gl": "Engineer Wu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "时序分析图",
+       "py": "shíxùfēnxītú",
+       "gl": "timing analysis chart",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "处",
+       "py": "chù",
+       "gl": "place; measure word for places",
+       "pos": "measure word"
+      },
+      {
+       "h": "信号",
+       "py": "xìnhào",
+       "gl": "signal; sign",
+       "pos": "n."
+      },
+      {
+       "h": "到达",
+       "py": "dàodá",
+       "gl": "arrive; reach",
+       "pos": "v."
+      },
+      {
+       "h": "延迟",
+       "py": "yánchí",
+       "gl": "delay; postpone; raise gradually (retirement age)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "地方",
+       "py": "dìfāng",
+       "gl": "place",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并",
+       "py": "bìng",
+       "gl": "and; also; moreover",
+       "pos": "conj."
+      },
+      {
+       "h": "建议",
+       "py": "jiànyì",
+       "gl": "suggest; advise; suggestion",
+       "pos": "v."
+      },
+      {
+       "h": "调整",
+       "py": "tiáozhěng",
+       "gl": "adjust; tune",
+       "pos": "v."
+      },
+      {
+       "h": "几",
+       "py": "jǐ",
+       "gl": "several; a few",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "measure word (general, for people and things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "模块",
+       "py": "mókuài",
+       "gl": "module",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "位置",
+       "py": "wèizhì",
+       "gl": "position; location; place",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Engineer Han agreed and reran the placement and routing to see whether that would fix the signal delay.",
+   "phrases": [
+    {
+     "en": "Engineer Han agreed and reran the placement and routing to see whether that would fix the signal delay.",
+     "words": [
+      {
+       "h": "韩工",
+       "py": "hángōng",
+       "gl": "Engineer Han (form of address)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "表示",
+       "py": "biǎoshì",
+       "gl": "mean; indicate; express",
+       "pos": "v."
+      },
+      {
+       "h": "同意",
+       "py": "tóngyì",
+       "gl": "consent; agreement",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并",
+       "py": "bìng",
+       "gl": "and; also; moreover",
+       "pos": "conj."
+      },
+      {
+       "h": "重新",
+       "py": "chóngxīn",
+       "gl": "again; anew",
+       "pos": "adv."
+      },
+      {
+       "h": "运行",
+       "py": "yùnxíng",
+       "gl": "run; operate (of software, machines)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "布局布线",
+       "py": "bùjúbùxiàn",
+       "gl": "placement and routing (chip design)",
+       "pos": "n."
+      },
+      {
+       "h": "计算",
+       "py": "jìsuàn",
+       "gl": "calculation; computing",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "以",
+       "py": "yǐ",
+       "gl": "in order to; so as to",
+       "pos": "prep."
+      },
+      {
+       "h": "检验",
+       "py": "jiǎnyàn",
+       "gl": "test; check",
+       "pos": "v."
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "this way; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "是否",
+       "py": "shìfǒu",
+       "gl": "whether; if",
+       "pos": "conj."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "adv."
+      },
+      {
+       "h": "解决",
+       "py": "jiějué",
+       "gl": "solve; settle",
+       "pos": "v."
+      },
+      {
+       "h": "信号延迟",
+       "py": "xìnhàoyánchí",
+       "gl": "signal delay",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Modern chipmaking processes are usually named after a technology node length, such as five nanometers or three nanometers, even though the name has long since stopped reflecting the actual size of the transistors.",
+   "phrases": [
+    {
+     "en": "Modern chipmaking processes are usually named after a technology node length, such as five nanometers or three nanometers, even though the name has long since stopped reflecting the actual size of the transistors.",
+     "words": [
+      {
+       "h": "现代",
+       "py": "xiàndài",
+       "gl": "modern",
+       "pos": "adj."
+      },
+      {
+       "h": "芯片制造工艺",
+       "py": "xīnpiànzhìzàogōngyì",
+       "gl": "chip manufacturing process",
+       "pos": "n."
+      },
+      {
+       "h": "通常",
+       "py": "tōngcháng",
+       "gl": "usually; normally",
+       "pos": "adv."
+      },
+      {
+       "h": "以",
+       "py": "yǐ",
+       "gl": "with; by means of; as; in order to (以…为… take … as …)",
+       "pos": "prep."
+      },
+      {
+       "h": "技术节点",
+       "py": "jìshùjiédiǎn",
+       "gl": "technology node (in chipmaking)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "长度",
+       "py": "chángdù",
+       "gl": "length",
+       "pos": "n."
+      },
+      {
+       "h": "命名",
+       "py": "mìngmíng",
+       "gl": "name; naming",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "例如",
+       "py": "lìrú",
+       "gl": "for example",
+       "pos": "conj."
+      },
+      {
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
+       "pos": "num."
+      },
+      {
+       "h": "纳米",
+       "py": "nàmǐ",
+       "gl": "nanometer",
+       "pos": "measure word"
+      },
+      {
+       "h": "或",
+       "py": "huò",
+       "gl": "or",
+       "pos": "conj."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "纳米",
+       "py": "nàmǐ",
+       "gl": "nanometer",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "尽管",
+       "py": "jǐnguǎn",
+       "gl": "although; despite",
+       "pos": "conj."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "名称",
+       "py": "míngchēng",
+       "gl": "name",
+       "pos": "n."
+      },
+      {
+       "h": "早已",
+       "py": "zǎoyǐ",
+       "gl": "long ago; long since",
+       "pos": "adv."
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "adv."
+      },
+      {
+       "h": "准确",
+       "py": "zhǔnquè",
+       "gl": "accurately; precisely",
+       "pos": "adv."
+      },
+      {
+       "h": "反映",
+       "py": "fǎnyìng",
+       "gl": "reflect; show",
+       "pos": "v."
+      },
+      {
+       "h": "晶体管",
+       "py": "jīngtǐguǎn",
+       "gl": "transistor",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "实际大小",
+       "py": "shíjìdàxiǎo",
+       "gl": "actual size",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "To make such tiny structures on a silicon wafer, factories use extreme ultraviolet lithography, whose light has a much shorter wavelength than the light used in older processes.",
+   "phrases": [
+    {
+     "en": "To make such tiny structures on a silicon wafer, factories use extreme ultraviolet lithography, whose light has a much shorter wavelength than the light used in older processes.",
+     "words": [
+      {
+       "h": "为了",
+       "py": "wèile",
+       "gl": "in order to; for",
+       "pos": "prep."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "硅晶圆",
+       "py": "guījīngyuán",
+       "gl": "silicon wafer",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "制造出",
+       "py": "zhìzàochū",
+       "gl": "create; produce; manufacture",
+       "pos": "v."
+      },
+      {
+       "h": "如此",
+       "py": "rúcǐ",
+       "gl": "so; such; like this",
+       "pos": "adv."
+      },
+      {
+       "h": "微小",
+       "py": "wēixiǎo",
+       "gl": "tiny; slight",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "结构",
+       "py": "jiégòu",
+       "gl": "structure",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "工厂",
+       "py": "gōngchǎng",
+       "gl": "factory",
+       "pos": "n."
+      },
+      {
+       "h": "使用",
+       "py": "shǐyòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "极紫外光刻技术",
+       "py": "jízǐwàiguāngkèjìshù",
+       "gl": "extreme ultraviolet (EUV) lithography",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "其",
+       "py": "qí",
+       "gl": "his; her; its; their; him; it (literary)",
+       "pos": "pron."
+      },
+      {
+       "h": "光",
+       "py": "guāng",
+       "gl": "light; ray",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "波长",
+       "py": "bōcháng",
+       "gl": "wavelength",
+       "pos": "n."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "旧工艺",
+       "py": "jiùgōngyì",
+       "gl": "older process technology",
+       "pos": "n."
+      },
+      {
+       "h": "中",
+       "py": "zhōng",
+       "gl": "in; during (工作中 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "使用",
+       "py": "shǐyòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "光",
+       "py": "guāng",
+       "gl": "light; ray",
+       "pos": "n."
+      },
+      {
+       "h": "短",
+       "py": "duǎn",
+       "gl": "short",
+       "pos": "adj."
+      },
+      {
+       "h": "得多",
+       "py": "déduō",
+       "gl": "much (more) (好得多 much better)",
+       "pos": "function word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Moore's law, proposed in the last century, predicted that the number of transistors on a chip would double roughly every two years; although growth has slowed, the industry is still pushing in that direction.",
+   "phrases": [
+    {
+     "en": "Moore's law, proposed in the last century, predicted that the number of transistors on a chip would double roughly every two years; although growth has slowed, the industry is still pushing in that direction.",
+     "words": [
+      {
+       "h": "上个世纪",
+       "py": "shànggèshìjì",
+       "gl": "last century",
+       "pos": "n."
+      },
+      {
+       "h": "提出",
+       "py": "tíchū",
+       "gl": "put forward; raise (a question, proposal); submit (an application)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "摩尔定律",
+       "py": "móěrdìnglǜ",
+       "gl": "Moore's law",
+       "pos": "n."
+      },
+      {
+       "h": "曾",
+       "py": "céng",
+       "gl": "once; at one time; ever",
+       "pos": "adv."
+      },
+      {
+       "h": "预测",
+       "py": "yùcè",
+       "gl": "predict; forecast; prediction",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "芯片",
+       "py": "xīnpiàn",
+       "gl": "chip; microchip",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "晶体管数量",
+       "py": "jīngtǐguǎnshùliàng",
+       "gl": "number of transistors",
+       "pos": "n."
+      },
+      {
+       "h": "大约",
+       "py": "dàyuē",
+       "gl": "about; approximately",
+       "pos": "adv."
+      },
+      {
+       "h": "每两年",
+       "py": "měiliǎngnián",
+       "gl": "every two years",
+       "pos": "n."
+      },
+      {
+       "h": "翻一番",
+       "py": "fānyīfān",
+       "gl": "double",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "尽管",
+       "py": "jǐnguǎn",
+       "gl": "although; despite",
+       "pos": "conj."
+      },
+      {
+       "h": "增长速度",
+       "py": "zēngzhǎngsùdù",
+       "gl": "growth rate",
+       "pos": "n."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "放缓",
+       "py": "fànghuǎn",
+       "gl": "slow down",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "行业",
+       "py": "hángyè",
+       "gl": "industry; line of business",
+       "pos": "n."
+      },
+      {
+       "h": "仍",
+       "py": "réng",
+       "gl": "still; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "particle: action in progress (还在起作用 'still working')",
+       "pos": "adv."
+      },
+      {
+       "h": "朝",
+       "py": "cháo",
+       "gl": "toward; facing",
+       "pos": "prep."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "方向",
+       "py": "fāngxiàng",
+       "gl": "direction",
+       "pos": "n."
+      },
+      {
+       "h": "努力",
+       "py": "nǔlì",
+       "gl": "work hard; try hard",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Today's flagship processors and graphics cards contain tens of billions of transistors, something unimaginable twenty-odd years ago.",
+   "phrases": [
+    {
+     "en": "Today's flagship processors and graphics cards contain tens of billions of transistors, something unimaginable twenty-odd years ago.",
+     "words": [
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "今天",
+       "py": "jīntiān",
+       "gl": "today; present day",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "旗舰处理器",
+       "py": "qíjiànchǔlǐqì",
+       "gl": "flagship processor",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "显卡",
+       "py": "xiǎnkǎ",
+       "gl": "graphics card",
+       "pos": "n."
+      },
+      {
+       "h": "中",
+       "py": "zhōng",
+       "gl": "in; during (工作中 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "晶体管数量",
+       "py": "jīngtǐguǎnshùliàng",
+       "gl": "number of transistors",
+       "pos": "n."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "达到",
+       "py": "dádào",
+       "gl": "reach; achieve",
+       "pos": "v."
+      },
+      {
+       "h": "数百亿",
+       "py": "shùbǎiyì",
+       "gl": "tens of billions",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "measure word (general, for people and things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "二十几年前",
+       "py": "èrshíjǐniánqián",
+       "gl": "twenty-odd years ago",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "难以想象",
+       "py": "nányǐxiǎngxiàng",
+       "gl": "unimaginable",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "particle: emphasis / assertion (是…的 construction)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When the design is complete, the final file describing the circuit is sent to the fab, which prints a large number of identical chips on a round silicon wafer.",
+   "phrases": [
+    {
+     "en": "When the design is complete, the final file describing the circuit is sent to the fab, which prints a large number of identical chips on a round silicon wafer.",
+     "words": [
+      {
+       "h": "设计",
+       "py": "shèjì",
+       "gl": "design",
+       "pos": "n."
+      },
+      {
+       "h": "完成",
+       "py": "wánchéng",
+       "gl": "finish; complete",
+       "pos": "v."
+      },
+      {
+       "h": "之后",
+       "py": "zhīhòu",
+       "gl": "after",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "描述",
+       "py": "miáoshù",
+       "gl": "describe",
+       "pos": "v."
+      },
+      {
+       "h": "电路",
+       "py": "diànlù",
+       "gl": "circuit",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "最终文件",
+       "py": "zuìzhōngwénjiàn",
+       "gl": "final file",
+       "pos": "n."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "adv."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "送到",
+       "py": "sòngdào",
+       "gl": "deliver; send to",
+       "pos": "v."
+      },
+      {
+       "h": "制造工厂",
+       "py": "zhìzàogōngchǎng",
+       "gl": "manufacturing plant; factory",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "工厂",
+       "py": "gōngchǎng",
+       "gl": "factory",
+       "pos": "n."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "片",
+       "py": "piàn",
+       "gl": "measure word for flat thin things",
+       "pos": "measure word"
+      },
+      {
+       "h": "圆形",
+       "py": "yuánxíng",
+       "gl": "round shape; circle",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "硅晶圆",
+       "py": "guījīngyuán",
+       "gl": "silicon wafer",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "印制出",
+       "py": "yìnzhìchū",
+       "gl": "print out; produce by printing",
+       "pos": "v."
+      },
+      {
+       "h": "大量",
+       "py": "dàliàng",
+       "gl": "large amount of; a lot of",
+       "pos": "num."
+      },
+      {
+       "h": "相同",
+       "py": "xiāngtóng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "芯片",
+       "py": "xīnpiàn",
+       "gl": "chip; microchip",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This moment is called \"tape-out\": from then on it's almost impossible to change the design, and the engineers anxiously await the first samples from the factory.",
+   "phrases": [
+    {
+     "en": "This moment is called \"tape-out\": from then on it's almost impossible to change the design, and the engineers anxiously await the first samples from the factory.",
+     "words": [
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "事件",
+       "py": "shìjiàn",
+       "gl": "event; incident",
+       "pos": "n."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "称为",
+       "py": "chēngwéi",
+       "gl": "be called; be known as",
+       "pos": "v."
+      },
+      {
+       "h": "「"
+      },
+      {
+       "h": "流片",
+       "py": "liúpiàn",
+       "gl": "tape-out (chip manufacturing)",
+       "pos": "n."
+      },
+      {
+       "h": "」"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from",
+       "pos": "prep."
+      },
+      {
+       "h": "这一刻",
+       "py": "zhèyīkè",
+       "gl": "this moment",
+       "pos": "n."
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "(从…起) starting from",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "几乎",
+       "py": "jīhū",
+       "gl": "almost; nearly",
+       "pos": "adv."
+      },
+      {
+       "h": "不可能",
+       "py": "bùkěnéng",
+       "gl": "impossible",
+       "pos": "adv."
+      },
+      {
+       "h": "再",
+       "py": "zài",
+       "gl": "again; once more",
+       "pos": "adv."
+      },
+      {
+       "h": "修改",
+       "py": "xiūgǎi",
+       "gl": "revise; edit; correct; revision; correction",
+       "pos": "v."
+      },
+      {
+       "h": "设计",
+       "py": "shèjì",
+       "gl": "design",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "工程师们",
+       "py": "gōngchéngshīmen",
+       "gl": "engineers",
+       "pos": "n."
+      },
+      {
+       "h": "则",
+       "py": "zé",
+       "gl": "meanwhile; then (literary)",
+       "pos": "conj."
+      },
+      {
+       "h": "焦急",
+       "py": "jiāojí",
+       "gl": "anxious; worried",
+       "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "adverbial particle (认真地 'carefully')",
+       "pos": "function word"
+      },
+      {
+       "h": "等待着",
+       "py": "děngdàizhe",
+       "gl": "waiting (for)",
+       "pos": "v."
+      },
+      {
+       "h": "来自",
+       "py": "láizì",
+       "gl": "come from; originate from",
+       "pos": "prep."
+      },
+      {
+       "h": "工厂",
+       "py": "gōngchǎng",
+       "gl": "factory",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "第一批样品",
+       "py": "dìyīpīyàngpǐn",
+       "gl": "first batch of samples",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After the wafer is made, technicians test every individual chip on it, and the proportion of chips that pass completely is called the yield.",
+   "phrases": [
+    {
+     "en": "After the wafer is made, technicians test every individual chip on it, and the proportion of chips that pass completely is called the yield.",
+     "words": [
+      {
+       "h": "晶圆",
+       "py": "jīngyuán",
+       "gl": "wafer (silicon)",
+       "pos": "n."
+      },
+      {
+       "h": "制造",
+       "py": "zhìzào",
+       "gl": "make; manufacture; produce",
+       "pos": "n."
+      },
+      {
+       "h": "完成",
+       "py": "wánchéng",
+       "gl": "finish; complete; accomplish",
+       "pos": "v."
+      },
+      {
+       "h": "后",
+       "py": "hòu",
+       "gl": "after",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "技术人员",
+       "py": "jìshùrényuán",
+       "gl": "technician; technical staff",
+       "pos": "n."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "adv."
+      },
+      {
+       "h": "检测",
+       "py": "jiǎncè",
+       "gl": "test; testing; detection",
+       "pos": "v."
+      },
+      {
+       "h": "上面",
+       "py": "shàngmiàn",
+       "gl": "on top; on the surface; above",
+       "pos": "n."
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "measure word (general, for people and things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "独立",
+       "py": "dúlì",
+       "gl": "independent; independence",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "芯片",
+       "py": "xīnpiàn",
+       "gl": "chip; microchip",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "完全",
+       "py": "wánquán",
+       "gl": "completely; fully",
+       "pos": "adv."
+      },
+      {
+       "h": "合格",
+       "py": "hégé",
+       "gl": "up to standard; qualified",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "芯片",
+       "py": "xīnpiàn",
+       "gl": "chip; microchip",
+       "pos": "n."
+      },
+      {
+       "h": "所占",
+       "py": "suǒzhàn",
+       "gl": "proportion taken up (by)",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "比例",
+       "py": "bǐlì",
+       "gl": "proportion; ratio",
+       "pos": "n."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "称为",
+       "py": "chēngwéi",
+       "gl": "be called; be known as",
+       "pos": "v."
+      },
+      {
+       "h": "良率",
+       "py": "liánglǜ",
+       "gl": "yield rate",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The higher the yield, the lower the cost of making each chip, so even a tiny flaw in the design can seriously affect the final cost.",
+   "phrases": [
+    {
+     "en": "The higher the yield, the lower the cost of making each chip, so even a tiny flaw in the design can seriously affect the final cost.",
+     "words": [
+      {
+       "h": "良率",
+       "py": "liánglǜ",
+       "gl": "yield rate",
+       "pos": "n."
+      },
+      {
+       "h": "越",
+       "py": "yuè",
+       "gl": "the more … (越…越… the more … the more …)",
+       "pos": "adv."
+      },
+      {
+       "h": "高",
+       "py": "gāo",
+       "gl": "tall; high",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "measure word (general, for people and things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "芯片",
+       "py": "xīnpiàn",
+       "gl": "chip; microchip",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "生产成本",
+       "py": "shēngchǎnchéngběn",
+       "gl": "production cost",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "越",
+       "py": "yuè",
+       "gl": "the more … (越…越… the more … the more …)",
+       "pos": "adv."
+      },
+      {
+       "h": "低",
+       "py": "dī",
+       "gl": "low",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "因此",
+       "py": "yīncǐ",
+       "gl": "because of this; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "设计",
+       "py": "shèjì",
+       "gl": "design",
+       "pos": "n."
+      },
+      {
+       "h": "中",
+       "py": "zhōng",
+       "gl": "in; during (工作中 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "任何",
+       "py": "rènhé",
+       "gl": "any",
+       "pos": "pron."
+      },
+      {
+       "h": "微小",
+       "py": "wēixiǎo",
+       "gl": "tiny; slight",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "缺陷",
+       "py": "quēxiàn",
+       "gl": "defect; flaw",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "可能",
+       "py": "kěnéng",
+       "gl": "possible; maybe",
+       "pos": "adv."
+      },
+      {
+       "h": "严重",
+       "py": "yánzhòng",
+       "gl": "serious; severe",
+       "pos": "adv."
+      },
+      {
+       "h": "影响",
+       "py": "yǐngxiǎng",
+       "gl": "influence; affect",
+       "pos": "v."
+      },
+      {
+       "h": "最终",
+       "py": "zuìzhōng",
+       "gl": "finally; in the end",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "成本",
+       "py": "chéngběn",
+       "gl": "cost",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "If the frequency is set too high, it produces too much heat and makes the chip less reliable.",
+   "phrases": [
+    {
+     "en": "If the frequency is set too high, it produces too much heat and makes the chip less reliable.",
+     "words": [
+      {
+       "h": "如果",
+       "py": "rúguǒ",
+       "gl": "if",
+       "pos": "conj."
+      },
+      {
+       "h": "频率",
+       "py": "pínlǜ",
+       "gl": "frequency",
+       "pos": "n."
+      },
+      {
+       "h": "定得",
+       "py": "dìngde",
+       "gl": "set (to a level) (定得过高 set too high)",
+       "pos": "v."
+      },
+      {
+       "h": "过高",
+       "py": "guògāo",
+       "gl": "too high",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will; would (expresses likelihood)",
+       "pos": "adv."
+      },
+      {
+       "h": "导致",
+       "py": "dǎozhì",
+       "gl": "lead to; cause",
+       "pos": "v."
+      },
+      {
+       "h": "发热过多",
+       "py": "fārèguòduō",
+       "gl": "overheating",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并",
+       "py": "bìng",
+       "gl": "and; also; moreover",
+       "pos": "conj."
+      },
+      {
+       "h": "降低",
+       "py": "jiàngdī",
+       "gl": "lower; reduce",
+       "pos": "v."
+      },
+      {
+       "h": "芯片",
+       "py": "xīnpiàn",
+       "gl": "chip; microchip",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "可靠性",
+       "py": "kěkàoxìng",
+       "gl": "reliability",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Besides logic and physical design, before tape-out engineers also run static timing analysis, design rule checks, and formal verification to confirm the circuit will work at its target frequency across different temperatures and supply voltages, and they order a few batches of test wafers from the foundry to fine-tune the manufacturing process before mass production.",
+   "phrases": [
+    {
+     "en": "Besides logic and physical design, before tape-out engineers also run static timing analysis, design rule checks, and formal verification to confirm the circuit will work at its target frequency across different temperatures and supply voltages, and they order a few batches of test wafers from the foundry to fine-tune the manufacturing process before mass production.",
+     "words": [
+      {
+       "h": "除了",
+       "py": "chúle",
+       "gl": "except; besides; apart from",
+       "pos": "prep."
+      },
+      {
+       "h": "逻辑",
+       "py": "luójí",
+       "gl": "logic; logical",
+       "pos": "adj."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "物理设计",
+       "py": "wùlǐshèjì",
+       "gl": "physical design (chips)",
+       "pos": "n."
+      },
+      {
+       "h": "之外",
+       "py": "zhīwài",
+       "gl": "outside; apart from (除了…之外 besides …)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on; be (at, in); particle: action in progress (他在吃 'he is eating')",
+       "pos": "prep."
+      },
+      {
+       "h": "流片",
+       "py": "liúpiàn",
+       "gl": "tape-out (chip manufacturing)",
+       "pos": "n."
+      },
+      {
+       "h": "之前",
+       "py": "zhīqián",
+       "gl": "before; prior to",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "工程师",
+       "py": "gōngchéngshī",
+       "gl": "engineer",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "adv."
+      },
+      {
+       "h": "进行",
+       "py": "jìnxíng",
+       "gl": "carry out; conduct",
+       "pos": "v."
+      },
+      {
+       "h": "静态时序分析",
+       "py": "jìngtàishíxùfēnxī",
+       "gl": "static timing analysis",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "设计规则检查",
+       "py": "shèjìguīzéjiǎnchá",
+       "gl": "design rule check (DRC)",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "形式化验证",
+       "py": "xíngshìhuàyànzhèng",
+       "gl": "formal verification",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "以",
+       "py": "yǐ",
+       "gl": "in order to; so as to",
+       "pos": "prep."
+      },
+      {
+       "h": "确认",
+       "py": "quèrèn",
+       "gl": "confirm",
+       "pos": "v."
+      },
+      {
+       "h": "电路",
+       "py": "diànlù",
+       "gl": "circuit",
+       "pos": "n."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "不同",
+       "py": "bùtóng",
+       "gl": "different",
+       "pos": "adj."
+      },
+      {
+       "h": "温度",
+       "py": "wēndù",
+       "gl": "temperature; warmth",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "供电电压",
+       "py": "gōngdiàndiànyā",
+       "gl": "supply voltage",
+       "pos": "n."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "under (conditions); in (a context)",
+       "pos": "postposition"
+      },
+      {
+       "h": "仍",
+       "py": "réng",
+       "gl": "still; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "以",
+       "py": "yǐ",
+       "gl": "with; by means of; as; in order to (以…为… take … as …)",
+       "pos": "prep."
+      },
+      {
+       "h": "目标频率",
+       "py": "mùbiāopínlǜ",
+       "gl": "target frequency",
+       "pos": "n."
+      },
+      {
+       "h": "正常",
+       "py": "zhèngcháng",
+       "gl": "normal",
+       "pos": "adv."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并",
+       "py": "bìng",
+       "gl": "and; also; moreover",
+       "pos": "conj."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "adv."
+      },
+      {
+       "h": "向",
+       "py": "xiàng",
+       "gl": "to; toward; from (向她借钱 'borrow money from her')",
+       "pos": "prep."
+      },
+      {
+       "h": "代工厂",
+       "py": "dàigōngchǎng",
+       "gl": "contract manufacturer; foundry",
+       "pos": "n."
+      },
+      {
+       "h": "订购",
+       "py": "dìnggòu",
+       "gl": "order; purchase",
+       "pos": "v."
+      },
+      {
+       "h": "几",
+       "py": "jǐ",
+       "gl": "several; a few",
+       "pos": "num."
+      },
+      {
+       "h": "批",
+       "py": "pī",
+       "gl": "batch; group (measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "试验晶圆",
+       "py": "shìyànjīngyuán",
+       "gl": "test wafer",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "用来",
+       "py": "yònglái",
+       "gl": "be used for; use to",
+       "pos": "conj."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on; be (at, in); particle: action in progress (他在吃 'he is eating')",
+       "pos": "prep."
+      },
+      {
+       "h": "大规模量产",
+       "py": "dàguīmóliàngchǎn",
+       "gl": "mass production",
+       "pos": "n."
+      },
+      {
+       "h": "之前",
+       "py": "zhīqián",
+       "gl": "before; prior to",
+       "pos": "postposition"
+      },
+      {
+       "h": "调试",
+       "py": "tiáoshì",
+       "gl": "debug; fine-tune",
+       "pos": "v."
+      },
+      {
+       "h": "工艺流程",
+       "py": "gōngyìliúchéng",
+       "gl": "technological process; manufacturing process",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Engineer Han joked that a modern chip is like a multistory city whose billions of tiny \"residents\" (the transistors) have to exchange signals in a fraction of a nanosecond.",
+   "phrases": [
+    {
+     "en": "Engineer Han joked that a modern chip is like a multistory city whose billions of tiny \"residents\" (the transistors) have to exchange signals in a fraction of a nanosecond.",
+     "words": [
+      {
+       "h": "韩工",
+       "py": "hángōng",
+       "gl": "Engineer Han (form of address)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "开玩笑",
+       "py": "kāiwánxiào",
+       "gl": "joke; make fun of",
+       "pos": "v."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "现代",
+       "py": "xiàndài",
+       "gl": "modern",
+       "pos": "adj."
+      },
+      {
+       "h": "芯片",
+       "py": "xīnpiàn",
+       "gl": "chip; microchip",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away; just (emphasis)",
+       "pos": "adv."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like; such as (像…这样 such as)",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "座",
+       "py": "zuò",
+       "gl": "measure word for cities, mountains, buildings, bridges",
+       "pos": "measure word"
+      },
+      {
+       "h": "多层",
+       "py": "duōcéng",
+       "gl": "multilayered",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "里面",
+       "py": "lǐmiàn",
+       "gl": "inside",
+       "pos": "n."
+      },
+      {
+       "h": "数十亿",
+       "py": "shùshíyì",
+       "gl": "billions",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "measure word (general, for people and things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "微小",
+       "py": "wēixiǎo",
+       "gl": "tiny; slight",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "「"
+      },
+      {
+       "h": "居民",
+       "py": "jūmín",
+       "gl": "resident; inhabitant",
+       "pos": "n."
+      },
+      {
+       "h": "」"
+      },
+      {
+       "h": "——"
+      },
+      {
+       "h": "晶体管",
+       "py": "jīngtǐguǎn",
+       "gl": "transistor",
+       "pos": "n."
+      },
+      {
+       "h": "——"
+      },
+      {
+       "h": "必须",
+       "py": "bìxū",
+       "gl": "must; have to",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "几分之一纳秒",
+       "py": "jǐfēnzhīyīnàmiǎo",
+       "gl": "fraction of a nanosecond",
+       "pos": "n."
+      },
+      {
+       "h": "内",
+       "py": "nèi",
+       "gl": "within; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "完成",
+       "py": "wánchéng",
+       "gl": "finish; complete",
+       "pos": "v."
+      },
+      {
+       "h": "信号交换",
+       "py": "xìnhàojiāohuàn",
+       "gl": "signal exchange",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Tired as they were, the two engineers were happy, because the technology they were helping to create with their own hands would one day be inside the phones and computers of millions of people.",
+   "phrases": [
+    {
+     "en": "Tired as they were, the two engineers were happy, because the technology they were helping to create with their own hands would one day be inside the phones and computers of millions of people.",
+     "words": [
+      {
+       "h": "尽管",
+       "py": "jǐnguǎn",
+       "gl": "although; despite",
+       "pos": "conj."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "疲惫",
+       "py": "píbèi",
+       "gl": "tired; exhausted",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "位",
+       "py": "wèi",
+       "gl": "polite measure word for people",
+       "pos": "measure word"
+      },
+      {
+       "h": "工程师",
+       "py": "gōngchéngshī",
+       "gl": "engineer",
+       "pos": "n."
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "高兴",
+       "py": "gāoxìng",
+       "gl": "happy; glad",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "因为",
+       "py": "yīnwèi",
+       "gl": "because",
+       "pos": "conj."
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "亲手",
+       "py": "qīnshǒu",
+       "gl": "with one's own hands; personally",
+       "pos": "adv."
+      },
+      {
+       "h": "参与",
+       "py": "cānyù",
+       "gl": "take part in; participate",
+       "pos": "v."
+      },
+      {
+       "h": "创造",
+       "py": "chuàngzào",
+       "gl": "create; creation",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "这项技术",
+       "py": "zhèxiàngjìshù",
+       "gl": "this technology",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "将来",
+       "py": "jiānglái",
+       "gl": "future; in the future",
+       "pos": "n."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "adv."
+      },
+      {
+       "h": "出现",
+       "py": "chūxiàn",
+       "gl": "appear; emerge",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "数百万人",
+       "py": "shùbǎiwànrén",
+       "gl": "millions of people",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "电脑",
+       "py": "diànnǎo",
+       "gl": "computer",
+       "pos": "n."
+      },
+      {
+       "h": "之中",
+       "py": "zhīzhōng",
+       "gl": "among; in the midst of",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "series": "engineering",
+ "episode": 9,
+ "episode_count": 20
+}

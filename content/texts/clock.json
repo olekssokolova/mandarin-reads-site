@@ -1,0 +1,374 @@
+{
+ "id": "clock",
+ "level": 1,
+ "title_zh": "现在几点",
+ "title_en": "What Time Is It?",
+ "free": true,
+ "audio_url": null,
+ "note_en": "Clock time is number + 点 (o'clock) + minutes: 三点四十 \"three forty.\" 半 means \"half\", so 三点半 is \"three thirty.\" To ask the time, use 几 (how many): 现在几点了？ \"What time is it now?\" No word order change, the question word just sits where the answer goes.",
+ "sentences": [
+  {
+   "en": "\"Excuse me, what time is it?\"",
+   "phrases": [
+    {
+     "en": "\"Excuse me,",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "请问",
+       "py": "qǐngwèn",
+       "gl": "excuse me, may I ask...",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "what time is it now?\"",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "n."
+      },
+      {
+       "h": "几",
+       "py": "jǐ",
+       "gl": "how many (under ten); which (number)",
+       "pos": "question word"
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"It's three thirty.\"",
+   "phrases": [
+    {
+     "en": "\"It's three thirty.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "n."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "半",
+       "py": "bàn",
+       "gl": "half",
+       "pos": "num."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Oh, I have class at three forty!\"",
+   "phrases": [
+    {
+     "en": "\"Oh,",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "啊",
+       "py": "a",
+       "gl": "particle: agreement, emotion (ah; oh)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "I have class at three forty!\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "四十",
+       "py": "sìshí",
+       "gl": "forty",
+       "pos": "num."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "课",
+       "py": "kè",
+       "gl": "class; lesson",
+       "pos": "n."
+      },
+      {
+       "h": "！"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Is the school far?\"",
+   "phrases": [
+    {
+     "en": "\"Is the school far?\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "学校",
+       "py": "xuéxiào",
+       "gl": "school",
+       "pos": "n."
+      },
+      {
+       "h": "远",
+       "py": "yuǎn",
+       "gl": "far; distant",
+       "pos": "adj."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"No, it's a ten-minute walk.\"",
+   "phrases": [
+    {
+     "en": "\"Not far,",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "远",
+       "py": "yuǎn",
+       "gl": "far; distant",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "a ten-minute walk.\"",
+     "words": [
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "walk; go; leave",
+       "pos": "v."
+      },
+      {
+       "h": "路",
+       "py": "lù",
+       "gl": "road; route; (bus) line",
+       "pos": "n."
+      },
+      {
+       "h": "十",
+       "py": "shí",
+       "gl": "ten",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Then you'd better hurry!\"",
+   "phrases": [
+    {
+     "en": "\"Then you'd better hurry!\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick; quickly",
+       "pos": "adj."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "walk; go; leave",
+       "pos": "v."
+      },
+      {
+       "h": "吧",
+       "py": "ba",
+       "gl": "particle: suggestion or soft request (let's…; …OK?)",
+       "pos": "particle"
+      },
+      {
+       "h": "！"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Thank you, bye!\"",
+   "phrases": [
+    {
+     "en": "\"Thank you,",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "谢谢",
+       "py": "xièxie",
+       "gl": "thank you; thanks",
+       "pos": "phrase"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "bye!\"",
+     "words": [
+      {
+       "h": "再见",
+       "py": "zàijiàn",
+       "gl": "goodbye",
+       "pos": "phrase"
+      },
+      {
+       "h": "！"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
