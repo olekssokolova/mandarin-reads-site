@@ -5,13 +5,13 @@
  "title_en": "Chinese Words in English",
  "free": false,
  "audio_url": null,
- "note_en": "来自 (láizì) means \"come from\" and names where something originates: 英语里有一些词来自中文 \"some English words come from Chinese.\" English needs \"from\" as a separate word, but in Chinese 自 already means \"from,\" so the place follows directly.",
+ "note_en": "来自 (láizì) means \"come from\" and names where something originates: 这个词确实来自中文 \"this word really does come from Chinese.\" English needs \"from\" as a separate word, but in Chinese 自 already means \"from,\" so the source follows directly.",
  "sentences": [
   {
-   "en": "I found out that some words in English come from Chinese.",
+   "en": "When I was drinking tea with my American friend, she said the English word for 茶 doesn't sound much like the Chinese.",
    "phrases": [
     {
-     "en": "I found out that some words in English come from Chinese.",
+     "en": "When I was drinking tea with my American friend,",
      "words": [
       {
        "h": "我",
@@ -20,10 +20,75 @@
        "pos": "pron."
       },
       {
-       "h": "发现",
-       "py": "fāxiàn",
-       "gl": "discover; notice; find",
+       "h": "和",
+       "py": "hé",
+       "gl": "and; with",
+       "pos": "conj."
+      },
+      {
+       "h": "美国",
+       "py": "měiguó",
+       "gl": "the United States; American",
+       "pos": "proper noun"
+      },
+      {
+       "h": "朋友",
+       "py": "péngyǒu",
+       "gl": "friend",
+       "pos": "n."
+      },
+      {
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
+      },
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
        "pos": "v."
+      },
+      {
+       "h": "茶",
+       "py": "chá",
+       "gl": "tea",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she said the English word for 茶 doesn't sound much like the Chinese.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "英语",
@@ -38,22 +103,121 @@
        "pos": "postposition"
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
+       "h": "“"
       },
       {
-       "h": "一些",
-       "py": "yìxie",
-       "gl": "some; a few",
-       "pos": "num."
+       "h": "茶",
+       "py": "chá",
+       "gl": "tea",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
       },
       {
        "h": "词",
        "py": "cí",
        "gl": "word",
        "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "particle"
+      },
+      {
+       "h": "发音",
+       "py": "fāyīn",
+       "gl": "pronunciation",
+       "pos": "n."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; as (跟…一样 the same as …)",
+       "pos": "prep."
+      },
+      {
+       "h": "中文",
+       "py": "zhōngwén",
+       "gl": "Chinese (language)",
+       "pos": "n."
+      },
+      {
+       "h": "不太",
+       "py": "bútài",
+       "gl": "not very; not quite",
+       "pos": "adv."
+      },
+      {
+       "h": "一样",
+       "py": "yíyàng",
+       "gl": "same; alike",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I told her that this word really does come from Chinese.",
+   "phrases": [
+    {
+     "en": "I told her",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that this word really does come from Chinese.",
+     "words": [
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "词",
+       "py": "cí",
+       "gl": "word",
+       "pos": "n."
+      },
+      {
+       "h": "确实",
+       "py": "quèshí",
+       "gl": "indeed; really",
+       "pos": "adv."
       },
       {
        "h": "来自",
@@ -75,44 +239,11 @@
    ]
   },
   {
-   "en": "Take the character 茶 (cha, \"tea\"): lots of languages have a similar word.",
+   "en": "Lots of languages have a similar word, which shows that Chinese culture influenced other countries a long time ago.",
    "phrases": [
     {
-     "en": "Take the character 茶 (cha, \"tea\"): lots of languages have a similar word.",
+     "en": "Lots of languages have a similar word,",
      "words": [
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "茶",
-       "py": "chá",
-       "gl": "tea",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "这个",
-       "py": "zhège",
-       "gl": "this; this one",
-       "pos": "pron."
-      },
-      {
-       "h": "字",
-       "py": "zì",
-       "gl": "character (Chinese); written character",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
       {
        "h": "很多",
        "py": "hěnduō",
@@ -162,30 +293,13 @@
        "pos": "n."
       },
       {
-       "h": "。"
+       "h": "，"
       }
      ]
-    }
-   ]
-  },
-  {
-   "en": "I think this shows that Chinese culture influenced other countries a long time ago.",
-   "phrases": [
+    },
     {
-     "en": "I think this shows that Chinese culture influenced other countries a long time ago.",
+     "en": "which shows that Chinese culture influenced other countries a long time ago.",
      "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
       {
        "h": "这",
        "py": "zhè",
@@ -263,13 +377,19 @@
    "en": "Since I started learning Chinese, I've gotten even more interested in these words.",
    "phrases": [
     {
-     "en": "Since I started learning Chinese, I've gotten even more interested in these words.",
+     "en": "Since I started learning Chinese,",
      "words": [
       {
        "h": "学",
        "py": "xué",
        "gl": "study; learn",
        "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "汉语",
@@ -285,7 +405,12 @@
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "I've gotten even more interested in these words.",
+     "words": [
       {
        "h": "我",
        "py": "wǒ",
@@ -339,7 +464,7 @@
    "en": "The connections between languages are really interesting.",
    "phrases": [
     {
-     "en": "The connections between languages are really interesting.",
+     "en": "The connections between languages",
      "words": [
       {
        "h": "语言",
@@ -365,6 +490,14 @@
        "gl": "connection; contact; get in touch",
        "pos": "v."
       },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "are really interesting.",
+     "words": [
       {
        "h": "真的",
        "py": "zhēnde",

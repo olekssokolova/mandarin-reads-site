@@ -8,22 +8,34 @@
  "note_en": "反而 (fǎn'ér) means \"instead\" or \"on the contrary\": the result is the opposite of what you'd expect. In this text: 他反而输了比赛 \"he lost the contest instead,\" and 做了多余的事，反而把事情弄糟 \"doing something unnecessary ends up making things worse.\" English often needs \"actually\" or \"ended up\" to get the same twist.",
  "sentences": [
   {
-   "en": "The idiom huashe tianzu (\"drawing a snake and adding legs\") is about a man who finished drawing a snake and then gave it feet.",
+   "en": "In class, the teacher told us the story behind a chengyu (four-character idiom): \"A man finished drawing a snake, and then he drew two feet on it too.\"",
    "phrases": [
     {
-     "en": "The idiom huashe tianzu (\"drawing a snake and adding legs\") is about a man who finished drawing a snake and then gave it feet.",
+     "en": "In class, the teacher told us the story behind a chengyu (four-character idiom):",
      "words": [
       {
-       "h": "“"
+       "h": "老师",
+       "py": "lǎoshī",
+       "gl": "teacher",
+       "pos": "n."
       },
       {
-       "h": "画蛇添足",
-       "py": "huàshétiānzú",
-       "gl": "overdo it (idiom: draw legs on a snake)",
-       "pos": "phrase"
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
       },
       {
-       "h": "”"
+       "h": "课堂",
+       "py": "kètáng",
+       "gl": "classroom; class",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on; in (after a noun: 桌子上 on the table; 历史上 in history)",
+       "pos": "postposition"
       },
       {
        "h": "讲",
@@ -32,22 +44,51 @@
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
       },
       {
        "h": "一",
        "py": "yí",
        "gl": "one",
        "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "成语",
+       "py": "chéngyǔ",
+       "gl": "chengyu; four-character idiom",
+       "pos": "n."
+      },
+      {
+       "h": "故事",
+       "py": "gùshì",
+       "gl": "story",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "\"A man finished drawing a snake, and then he drew two feet on it too.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are",
+       "pos": "v."
       },
       {
        "h": "个",
@@ -64,7 +105,7 @@
       {
        "h": "画",
        "py": "huà",
-       "gl": "draw; paint; picture",
+       "gl": "draw; paint",
        "pos": "v."
       },
       {
@@ -91,25 +132,19 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "and also; both … and (又…又…)",
        "pos": "adv."
       },
       {
-       "h": "给",
-       "py": "gěi",
-       "gl": "for; to (someone); give",
-       "pos": "prep."
+       "h": "多",
+       "py": "duō",
+       "gl": "extra; one more (多画 draw extra)",
+       "pos": "adj."
       },
       {
-       "h": "蛇",
-       "py": "shé",
-       "gl": "snake",
-       "pos": "n."
-      },
-      {
-       "h": "加",
-       "py": "jiā",
-       "gl": "add",
+       "h": "画",
+       "py": "huà",
+       "gl": "draw; paint",
        "pos": "v."
       },
       {
@@ -119,6 +154,18 @@
        "pos": "particle"
       },
       {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "measure word for animals (and one of a pair)",
+       "pos": "measure word"
+      },
+      {
        "h": "脚",
        "py": "jiǎo",
        "gl": "foot",
@@ -126,17 +173,23 @@
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "In the end everyone said it wasn't a snake anymore, and he lost the contest instead.",
+   "en": "\"In the end everyone said it wasn't a snake anymore, and he lost the contest instead.\"",
    "phrases": [
     {
-     "en": "In the end everyone said it wasn't a snake anymore, and he lost the contest instead.",
+     "en": "\"In the end everyone said it wasn't a snake anymore,",
      "words": [
+      {
+       "h": "“"
+      },
       {
        "h": "结果",
        "py": "jiéguǒ",
@@ -144,9 +197,9 @@
        "pos": "conj."
       },
       {
-       "h": "别人",
-       "py": "biéren",
-       "gl": "other people; others",
+       "h": "大家",
+       "py": "dàjiā",
+       "gl": "everyone; everybody",
        "pos": "pron."
       },
       {
@@ -162,21 +215,24 @@
        "pos": "v."
       },
       {
+       "h": "，"
+      },
+      {
        "h": "这",
        "py": "zhè",
        "gl": "this",
        "pos": "pron."
       },
       {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
        "pos": "adv."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
        "pos": "v."
       },
       {
@@ -193,7 +249,12 @@
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "and he lost the contest instead.\"",
+     "words": [
       {
        "h": "他",
        "py": "tā",
@@ -202,7 +263,7 @@
       },
       {
        "h": "反而",
-       "py": "fǎn'ér",
+       "py": "fǎnér",
        "gl": "on the contrary; instead",
        "pos": "adv."
       },
@@ -221,21 +282,24 @@
       {
        "h": "比赛",
        "py": "bǐsài",
-       "gl": "competition; match; game",
-       "pos": "n."
+       "gl": "compete",
+       "pos": "v."
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "This chengyu (four-character idiom) describes doing something unnecessary that only makes things worse.",
+   "en": "This chengyu, huashe tianzu (\"drawing a snake and adding feet\"), describes doing something unnecessary that only makes things worse.",
    "phrases": [
     {
-     "en": "This chengyu (four-character idiom) describes doing something unnecessary that only makes things worse.",
+     "en": "This chengyu, huashe tianzu (\"drawing a snake and adding feet\"),",
      "words": [
       {
        "h": "这个",
@@ -250,10 +314,36 @@
        "pos": "n."
       },
       {
+       "h": "“"
+      },
+      {
+       "h": "画蛇添足",
+       "py": "huàshétiānzú",
+       "gl": "overdo it (idiom: draw legs on a snake)",
+       "pos": "phrase"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "describes doing something unnecessary that only makes things worse.",
+     "words": [
+      {
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "exactly; precisely; just; simply",
+       "pos": "v."
+      },
+      {
        "h": "用来",
        "py": "yònglái",
        "gl": "be used for; use to",
-       "pos": "v."
+       "pos": "function word"
       },
       {
        "h": "形容",
@@ -288,7 +378,7 @@
       {
        "h": "事",
        "py": "shì",
-       "gl": "matter; thing; event",
+       "gl": "matter; thing",
        "pos": "n."
       },
       {
@@ -296,7 +386,7 @@
       },
       {
        "h": "反而",
-       "py": "fǎn'ér",
+       "py": "fǎnér",
        "gl": "on the contrary; instead",
        "pos": "adv."
       },
@@ -308,8 +398,8 @@
       },
       {
        "h": "事情",
-       "py": "shìqing",
-       "gl": "thing; matter",
+       "py": "shìqíng",
+       "gl": "thing; matter; incident",
        "pos": "n."
       },
       {
@@ -326,10 +416,10 @@
    ]
   },
   {
-   "en": "English has a similar expression: huashe tianzu is like \"overdoing it.\"",
+   "en": "English has a similar expression too; it means roughly \"overdoing it.\"",
    "phrases": [
     {
-     "en": "English has a similar expression: huashe tianzu is like \"overdoing it.\"",
+     "en": "English has a similar expression too;",
      "words": [
       {
        "h": "英语",
@@ -374,19 +464,24 @@
        "pos": "n."
       },
       {
-       "h": "："
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "it means roughly \"overdoing it.\"",
+     "words": [
+      {
+       "h": "意思",
+       "py": "yìsi",
+       "gl": "meaning",
+       "pos": "n."
       },
       {
-       "h": "画蛇添足",
-       "py": "huàshétiānzú",
-       "gl": "overdo it (idiom: draw legs on a snake)",
-       "pos": "phrase"
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like",
-       "pos": "v."
+       "h": "差不多",
+       "py": "chàbuduō",
+       "gl": "about the same; almost",
+       "pos": "adv."
       },
       {
        "h": "是",
@@ -398,28 +493,10 @@
        "h": "“"
       },
       {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too; very",
+       "h": "太过",
+       "py": "tàiguò",
+       "gl": "too; excessively",
        "pos": "adv."
-      },
-      {
-       "h": "过",
-       "py": "guò",
-       "gl": "particle: past experience; spend (time); celebrate; pass",
-       "pos": "particle"
       },
       {
        "h": "”"
@@ -432,11 +509,17 @@
    ]
   },
   {
-   "en": "When I write, I often remind myself not to draw legs on the snake.",
+   "en": "Now, when I write, I often remind myself too: don't draw legs on the snake.",
    "phrases": [
     {
-     "en": "When I write, I often remind myself not to draw legs on the snake.",
+     "en": "Now, when I write,",
      "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "n."
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -463,10 +546,18 @@
       },
       {
        "h": "时候",
-       "py": "shíhou",
+       "py": "shíhòu",
        "gl": "time; moment (when ...)",
        "pos": "n."
       },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "I often remind myself too: don't draw legs on the snake.",
+     "words": [
       {
        "h": "也",
        "py": "yě",
@@ -492,10 +583,13 @@
        "pos": "pron."
       },
       {
+       "h": "："
+      },
+      {
        "h": "不要",
        "py": "búyào",
        "gl": "don't; must not",
-       "pos": "adv."
+       "pos": "function word"
       },
       {
        "h": "画蛇添足",
