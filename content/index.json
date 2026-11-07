@@ -947,6 +947,24 @@
    "file": "hospital.json"
   },
   {
+   "id": "museumticket2",
+   "level": 2,
+   "title_zh": "网上订博物馆门票",
+   "title_en": "Booking Museum Tickets Online",
+   "free": false,
+   "chars": 52,
+   "file": "museumticket2.json"
+  },
+  {
+   "id": "weatherapp2",
+   "level": 2,
+   "title_zh": "天气预报App",
+   "title_en": "The Weather App",
+   "free": false,
+   "chars": 56,
+   "file": "weatherapp2.json"
+  },
+  {
    "id": "jobfair2",
    "level": 2,
    "title_zh": "招聘会",
@@ -1019,13 +1037,13 @@
    "file": "secondhandmarket2.json"
   },
   {
-   "id": "museumticket2",
+   "id": "falsefriend2",
    "level": 2,
-   "title_zh": "网上订博物馆门票",
-   "title_en": "Booking Museum Tickets Online",
+   "title_zh": "翻译的陷阱",
+   "title_en": "Translation Traps",
    "free": false,
-   "chars": 65,
-   "file": "museumticket2.json"
+   "chars": 63,
+   "file": "falsefriend2.json"
   },
   {
    "id": "dorm2",
@@ -1053,15 +1071,6 @@
    "free": false,
    "chars": 66,
    "file": "ebook2.json"
-  },
-  {
-   "id": "weatherapp2",
-   "level": 2,
-   "title_zh": "天气预报App",
-   "title_en": "The Weather App",
-   "free": false,
-   "chars": 66,
-   "file": "weatherapp2.json"
   },
   {
    "id": "trainticket2",
@@ -1271,15 +1280,6 @@
    "file": "voiceassistant2.json"
   },
   {
-   "id": "falsefriend2",
-   "level": 2,
-   "title_zh": "翻译的陷阱",
-   "title_en": "Translation Traps",
-   "free": false,
-   "chars": 77,
-   "file": "falsefriend2.json"
-  },
-  {
    "id": "declutter2",
    "level": 2,
    "title_zh": "断舍离",
@@ -1314,6 +1314,15 @@
    "free": false,
    "chars": 78,
    "file": "usedclothes2.json"
+  },
+  {
+   "id": "online",
+   "level": 2,
+   "title_zh": "网上买东西",
+   "title_en": "Shopping Online",
+   "free": false,
+   "chars": 78,
+   "file": "online.json"
   },
   {
    "id": "studyinchina2",
@@ -1568,6 +1577,15 @@
    "file": "tutor.json"
   },
   {
+   "id": "ruloanword2",
+   "level": 2,
+   "title_zh": "英语里的中文词",
+   "title_en": "Chinese Words in English",
+   "free": false,
+   "chars": 89,
+   "file": "ruloanword2.json"
+  },
+  {
    "id": "rentcar",
    "level": 2,
    "title_zh": "租车",
@@ -1721,15 +1739,6 @@
    "file": "newhome.json"
   },
   {
-   "id": "online",
-   "level": 2,
-   "title_zh": "网上买东西",
-   "title_en": "Shopping Online",
-   "free": false,
-   "chars": 94,
-   "file": "online.json"
-  },
-  {
    "id": "onlinefriend",
    "level": 2,
    "title_zh": "网上交友",
@@ -1784,15 +1793,6 @@
    "file": "metro.json"
   },
   {
-   "id": "ruloanword2",
-   "level": 2,
-   "title_zh": "英语里的中文词",
-   "title_en": "Chinese Words in English",
-   "free": false,
-   "chars": 102,
-   "file": "ruloanword2.json"
-  },
-  {
    "id": "parcel",
    "level": 2,
    "title_zh": "寄包裹",
@@ -1845,6 +1845,15 @@
    "free": true,
    "chars": 169,
    "file": "campus.json"
+  },
+  {
+   "id": "historycrisis3",
+   "level": 3,
+   "title_zh": "历史上的危机",
+   "title_en": "Crises in History",
+   "free": false,
+   "chars": 66,
+   "file": "historycrisis3.json"
   },
   {
    "id": "campuslife3",
@@ -2000,15 +2009,6 @@
    "file": "studyfinland3.json"
   },
   {
-   "id": "historycrisis3",
-   "level": 3,
-   "title_zh": "历史上的危机",
-   "title_en": "Crises in History",
-   "free": false,
-   "chars": 83,
-   "file": "historycrisis3.json"
-  },
-  {
    "id": "applyvisa3",
    "level": 3,
    "title_zh": "办理留学签证",
@@ -2052,6 +2052,15 @@
    "free": false,
    "chars": 84,
    "file": "newjobcontent3.json"
+  },
+  {
+   "id": "ruwordchina3",
+   "level": 3,
+   "title_zh": "英语中的另一个汉语借词",
+   "title_en": "Another Chinese Loanword in English",
+   "free": false,
+   "chars": 84,
+   "file": "ruwordchina3.json"
   },
   {
    "id": "driving",
@@ -2126,6 +2135,15 @@
    "file": "newjoblive3.json"
   },
   {
+   "id": "chineseword_ru3",
+   "level": 3,
+   "title_zh": "英语中的汉语借词",
+   "title_en": "Chinese Loanwords in English",
+   "free": false,
+   "chars": 86,
+   "file": "chineseword_ru3.json"
+  },
+  {
    "id": "aicourse3",
    "level": 3,
    "title_zh": "人工智能课",
@@ -2142,6 +2160,15 @@
    "free": false,
    "chars": 86,
    "file": "dataprivacy3.json"
+  },
+  {
+   "id": "chengyu4_3",
+   "level": 3,
+   "title_zh": "井底之蛙",
+   "title_en": "The Frog in the Well",
+   "free": false,
+   "chars": 86,
+   "file": "chengyu4_3.json"
   },
   {
    "id": "falsefriends3",
@@ -2178,6 +2205,15 @@
    "free": false,
    "chars": 87,
    "file": "memorychars3.json"
+  },
+  {
+   "id": "chengyuproverb3",
+   "level": 3,
+   "title_zh": "成语和英语谚语",
+   "title_en": "Chengyu and English Proverbs",
+   "free": false,
+   "chars": 89,
+   "file": "chengyuproverb3.json"
   },
   {
    "id": "csscholar3",
@@ -2286,15 +2322,6 @@
    "free": false,
    "chars": 95,
    "file": "historyfamine3.json"
-  },
-  {
-   "id": "ruwordchina3",
-   "level": 3,
-   "title_zh": "英语中的另一个汉语借词",
-   "title_en": "Another Chinese Loanword in English",
-   "free": false,
-   "chars": 97,
-   "file": "ruwordchina3.json"
   },
   {
    "id": "major",
@@ -2414,15 +2441,6 @@
    "file": "internship.json"
   },
   {
-   "id": "chineseword_ru3",
-   "level": 3,
-   "title_zh": "英语中的汉语借词",
-   "title_en": "Chinese Loanwords in English",
-   "free": false,
-   "chars": 102,
-   "file": "chineseword_ru3.json"
-  },
-  {
    "id": "parttimescam3",
    "level": 3,
    "title_zh": "兼职陷阱",
@@ -2484,24 +2502,6 @@
    "free": false,
    "chars": 106,
    "file": "volunteer.json"
-  },
-  {
-   "id": "chengyuproverb3",
-   "level": 3,
-   "title_zh": "成语和英语谚语",
-   "title_en": "Chengyu and English Proverbs",
-   "free": false,
-   "chars": 108,
-   "file": "chengyuproverb3.json"
-  },
-  {
-   "id": "chengyu4_3",
-   "level": 3,
-   "title_zh": "井底之蛙",
-   "title_en": "The Frog in the Well",
-   "free": false,
-   "chars": 108,
-   "file": "chengyu4_3.json"
   },
   {
    "id": "grandparents",
@@ -2741,6 +2741,15 @@
    "episode_count": 15
   },
   {
+   "id": "study",
+   "level": 4,
+   "title_zh": "怎样学好汉语",
+   "title_en": "How to Learn Chinese Well",
+   "free": false,
+   "chars": 116,
+   "file": "study.json"
+  },
+  {
    "id": "wuhanuni4",
    "level": 4,
    "title_zh": "武汉大学",
@@ -2748,15 +2757,6 @@
    "free": false,
    "chars": 127,
    "file": "wuhanuni4.json"
-  },
-  {
-   "id": "study",
-   "level": 4,
-   "title_zh": "怎样学好汉语",
-   "title_en": "How to Learn Chinese Well",
-   "free": false,
-   "chars": 128,
-   "file": "study.json"
   },
   {
    "id": "classics03",
@@ -3119,6 +3119,15 @@
    "episode_count": 15
   },
   {
+   "id": "investmentscam4",
+   "level": 4,
+   "title_zh": "投资骗局",
+   "title_en": "Investment Scams",
+   "free": false,
+   "chars": 144,
+   "file": "investmentscam4.json"
+  },
+  {
    "id": "tea08",
    "level": 4,
    "title_zh": "白茶：一年茶三年药",
@@ -3129,6 +3138,15 @@
    "series": "tea",
    "episode": 8,
    "episode_count": 15
+  },
+  {
+   "id": "deepfakescam4",
+   "level": 4,
+   "title_zh": "深度伪造诈骗",
+   "title_en": "Deepfake Scams",
+   "free": false,
+   "chars": 145,
+   "file": "deepfakescam4.json"
   },
   {
    "id": "subject11",
@@ -3162,6 +3180,24 @@
    "free": false,
    "chars": 145,
    "file": "tcm_classics4.json"
+  },
+  {
+   "id": "spacedrepetition4",
+   "level": 4,
+   "title_zh": "间隔重复记忆法",
+   "title_en": "Spaced Repetition",
+   "free": false,
+   "chars": 146,
+   "file": "spacedrepetition4.json"
+  },
+  {
+   "id": "chengyu_dongshi4",
+   "level": 4,
+   "title_zh": "东施效颦",
+   "title_en": "Dong Shi Imitates Xi Shi's Frown",
+   "free": false,
+   "chars": 147,
+   "file": "chengyu_dongshi4.json"
   },
   {
    "id": "tea06",
@@ -3210,6 +3246,18 @@
    "series": "classics",
    "episode": 15,
    "episode_count": 15
+  },
+  {
+   "id": "oddjobs20",
+   "level": 4,
+   "title_zh": "口哨音效师",
+   "title_en": "Unusual Jobs (20/20): Professional Whistler",
+   "free": false,
+   "chars": 148,
+   "file": "oddjobs20.json",
+   "series": "oddjobs",
+   "episode": 20,
+   "episode_count": 20
   },
   {
    "id": "oddjobs03",
@@ -3308,6 +3356,15 @@
    "episode_count": 15
   },
   {
+   "id": "friendship_distance",
+   "level": 4,
+   "title_zh": "异地的友谊",
+   "title_en": "Long-Distance Friendship",
+   "free": false,
+   "chars": 153,
+   "file": "friendship_distance.json"
+  },
+  {
    "id": "future12",
    "level": 4,
    "title_zh": "斯拉夫：光明终将获胜",
@@ -3398,6 +3455,24 @@
    "episode_count": 15
   },
   {
+   "id": "happinessofficer4",
+   "level": 4,
+   "title_zh": "新兴职业：首席幸福官",
+   "title_en": "New Jobs: Chief Happiness Officer",
+   "free": false,
+   "chars": 158,
+   "file": "happinessofficer4.json"
+  },
+  {
+   "id": "chengyu_cowlute4",
+   "level": 4,
+   "title_zh": "对牛弹琴",
+   "title_en": "Playing the Lute to a Cow",
+   "free": false,
+   "chars": 158,
+   "file": "chengyu_cowlute4.json"
+  },
+  {
    "id": "tea12",
    "level": 4,
    "title_zh": "茶道与礼仪",
@@ -3456,6 +3531,15 @@
    "series": "classics",
    "episode": 11,
    "episode_count": 15
+  },
+  {
+   "id": "petculture",
+   "level": 4,
+   "title_zh": "养宠物的意义",
+   "title_en": "Why We Keep Pets",
+   "free": false,
+   "chars": 159,
+   "file": "petculture.json"
   },
   {
    "id": "tcm13",
@@ -3528,15 +3612,6 @@
    "free": false,
    "chars": 162,
    "file": "studyfunding4.json"
-  },
-  {
-   "id": "investmentscam4",
-   "level": 4,
-   "title_zh": "投资骗局",
-   "title_en": "Investment Scams",
-   "free": false,
-   "chars": 163,
-   "file": "investmentscam4.json"
   },
   {
    "id": "degree_pressure",
@@ -3651,6 +3726,15 @@
    "free": false,
    "chars": 168,
    "file": "chengyu_eartheft4.json"
+  },
+  {
+   "id": "globalinequality4",
+   "level": 4,
+   "title_zh": "全球范围内的不平等",
+   "title_en": "Inequality Around the World",
+   "free": false,
+   "chars": 168,
+   "file": "globalinequality4.json"
   },
   {
    "id": "xiamenuni4",
@@ -3776,15 +3860,6 @@
    "episode_count": 15
   },
   {
-   "id": "friendship_distance",
-   "level": 4,
-   "title_zh": "异地的友谊",
-   "title_en": "Long-Distance Friendship",
-   "free": false,
-   "chars": 173,
-   "file": "friendship_distance.json"
-  },
-  {
    "id": "choosinguni4",
    "level": 4,
    "title_zh": "如何选择留学大学",
@@ -3890,6 +3965,15 @@
    "file": "socialmedia.json"
   },
   {
+   "id": "blackdeath4",
+   "level": 4,
+   "title_zh": "黑死病与中国古代瘟疫的比较",
+   "title_en": "The Black Death and Plagues in Ancient China",
+   "free": false,
+   "chars": 177,
+   "file": "blackdeath4.json"
+  },
+  {
    "id": "oddjobs14",
    "level": 4,
    "title_zh": "采毒员",
@@ -3944,22 +4028,13 @@
    "file": "traditions_fading.json"
   },
   {
-   "id": "happinessofficer4",
+   "id": "economiccrisis4",
    "level": 4,
-   "title_zh": "新兴职业：首席幸福官",
-   "title_en": "New Jobs: Chief Happiness Officer",
+   "title_zh": "1929年与历史上的经济危机",
+   "title_en": "The 1929 Crash and Other Economic Crises",
    "free": false,
    "chars": 179,
-   "file": "happinessofficer4.json"
-  },
-  {
-   "id": "spacedrepetition4",
-   "level": 4,
-   "title_zh": "间隔重复记忆法",
-   "title_en": "Spaced Repetition",
-   "free": false,
-   "chars": 179,
-   "file": "spacedrepetition4.json"
+   "file": "economiccrisis4.json"
   },
   {
    "id": "classics14",
@@ -3972,15 +4047,6 @@
    "series": "classics",
    "episode": 14,
    "episode_count": 15
-  },
-  {
-   "id": "deepfakescam4",
-   "level": 4,
-   "title_zh": "深度伪造诈骗",
-   "title_en": "Deepfake Scams",
-   "free": false,
-   "chars": 180,
-   "file": "deepfakescam4.json"
   },
   {
    "id": "mnemonics4",
@@ -4010,15 +4076,6 @@
    "file": "privacy.json"
   },
   {
-   "id": "chengyu_cowlute4",
-   "level": 4,
-   "title_zh": "对牛弹琴",
-   "title_en": "Playing the Lute to a Cow",
-   "free": false,
-   "chars": 182,
-   "file": "chengyu_cowlute4.json"
-  },
-  {
    "id": "shortvideo",
    "level": 4,
    "title_zh": "短视频",
@@ -4026,15 +4083,6 @@
    "free": false,
    "chars": 182,
    "file": "shortvideo.json"
-  },
-  {
-   "id": "petculture",
-   "level": 4,
-   "title_zh": "养宠物的意义",
-   "title_en": "Why We Keep Pets",
-   "free": false,
-   "chars": 182,
-   "file": "petculture.json"
   },
   {
    "id": "gapyear",
@@ -4146,15 +4194,6 @@
    "free": false,
    "chars": 186,
    "file": "datacenter_water4.json"
-  },
-  {
-   "id": "chengyu_dongshi4",
-   "level": 4,
-   "title_zh": "东施效颦",
-   "title_en": "Dong Shi Imitates Xi Shi's Frown",
-   "free": false,
-   "chars": 186,
-   "file": "chengyu_dongshi4.json"
   },
   {
    "id": "falsefriend_deep4",
@@ -4275,15 +4314,6 @@
    "free": false,
    "chars": 194,
    "file": "genderinequality4.json"
-  },
-  {
-   "id": "globalinequality4",
-   "level": 4,
-   "title_zh": "全球范围内的不平等",
-   "title_en": "Inequality Around the World",
-   "free": false,
-   "chars": 194,
-   "file": "globalinequality4.json"
   },
   {
    "id": "petfuneral4",
@@ -4421,24 +4451,6 @@
    "file": "train.json"
   },
   {
-   "id": "economiccrisis4",
-   "level": 4,
-   "title_zh": "1929年与历史上的经济危机",
-   "title_en": "The 1929 Crash and Other Economic Crises",
-   "free": false,
-   "chars": 205,
-   "file": "economiccrisis4.json"
-  },
-  {
-   "id": "blackdeath4",
-   "level": 4,
-   "title_zh": "黑死病与中国古代瘟疫的比较",
-   "title_en": "The Black Death and Plagues in Ancient China",
-   "free": false,
-   "chars": 206,
-   "file": "blackdeath4.json"
-  },
-  {
    "id": "oddjobs19",
    "level": 4,
    "title_zh": "推人员",
@@ -4460,18 +4472,6 @@
    "file": "oddjobs07.json",
    "series": "oddjobs",
    "episode": 7,
-   "episode_count": 20
-  },
-  {
-   "id": "oddjobs20",
-   "level": 4,
-   "title_zh": "口哨音效师",
-   "title_en": "Unusual Jobs (20/20): Professional Whistler",
-   "free": false,
-   "chars": 221,
-   "file": "oddjobs20.json",
-   "series": "oddjobs",
-   "episode": 20,
    "episode_count": 20
   },
   {
@@ -4823,6 +4823,18 @@
    "episode_count": 20
   },
   {
+   "id": "modernslang03",
+   "level": 5,
+   "title_zh": "从拼命三郎到选择躺平",
+   "title_en": "New Slang, New Stories (3/20): From Workaholic to Lying Flat",
+   "free": false,
+   "chars": 689,
+   "file": "modernslang03.json",
+   "series": "modernslang",
+   "episode": 3,
+   "episode_count": 20
+  },
+  {
    "id": "funnytales18",
    "level": 5,
    "title_zh": "邻居的“秘密”原来是惊喜派对",
@@ -4907,15 +4919,15 @@
    "episode_count": 20
   },
   {
-   "id": "modernslang03",
+   "id": "worldnews19",
    "level": 5,
-   "title_zh": "从拼命三郎到选择躺平",
-   "title_en": "New Slang, New Stories (3/20): From Workaholic to Lying Flat",
+   "title_zh": "农民发明省水装置",
+   "title_en": "Good News (19/20): A Farmer Invents a Water-Saving Device",
    "free": false,
-   "chars": 726,
-   "file": "modernslang03.json",
-   "series": "modernslang",
-   "episode": 3,
+   "chars": 735,
+   "file": "worldnews19.json",
+   "series": "worldnews",
+   "episode": 19,
    "episode_count": 20
   },
   {
@@ -5012,6 +5024,18 @@
    "file": "recipes05.json",
    "series": "recipes",
    "episode": 5,
+   "episode_count": 20
+  },
+  {
+   "id": "recipes06",
+   "level": 5,
+   "title_zh": "饺子",
+   "title_en": "Cooking Chinese Dishes (6/20): Jiaozi (Dumplings)",
+   "free": false,
+   "chars": 782,
+   "file": "recipes06.json",
+   "series": "recipes",
+   "episode": 6,
    "episode_count": 20
   },
   {
@@ -5123,15 +5147,15 @@
    "episode_count": 20
   },
   {
-   "id": "recipes06",
+   "id": "recipes02",
    "level": 5,
-   "title_zh": "饺子",
-   "title_en": "Cooking Chinese Dishes (6/20): Jiaozi (Dumplings)",
+   "title_zh": "麻婆豆腐",
+   "title_en": "Cooking Chinese Dishes (2/20): Mapo Tofu",
    "free": false,
-   "chars": 846,
-   "file": "recipes06.json",
+   "chars": 850,
+   "file": "recipes02.json",
    "series": "recipes",
-   "episode": 6,
+   "episode": 2,
    "episode_count": 20
   },
   {
@@ -5144,6 +5168,18 @@
    "file": "recipes18.json",
    "series": "recipes",
    "episode": 18,
+   "episode_count": 20
+  },
+  {
+   "id": "modernslang09",
+   "level": 5,
+   "title_zh": "加班夜聊出的润学",
+   "title_en": "New Slang, New Stories (9/20): Talking About \"Run-ology\" After a Late Night at Work",
+   "free": false,
+   "chars": 859,
+   "file": "modernslang09.json",
+   "series": "modernslang",
+   "episode": 9,
    "episode_count": 20
   },
   {
@@ -5195,15 +5231,15 @@
    "episode_count": 20
   },
   {
-   "id": "recipes02",
+   "id": "modernslang20",
    "level": 5,
-   "title_zh": "麻婆豆腐",
-   "title_en": "Cooking Chinese Dishes (2/20): Mapo Tofu",
+   "title_zh": "三年后的老同事聚会",
+   "title_en": "New Slang, New Stories (20/20): Old Coworkers Reunite Three Years Later",
    "free": false,
-   "chars": 882,
-   "file": "recipes02.json",
-   "series": "recipes",
-   "episode": 2,
+   "chars": 889,
+   "file": "modernslang20.json",
+   "series": "modernslang",
+   "episode": 20,
    "episode_count": 20
   },
   {
@@ -5255,18 +5291,6 @@
    "episode_count": 20
   },
   {
-   "id": "modernslang09",
-   "level": 5,
-   "title_zh": "加班夜聊出的润学",
-   "title_en": "New Slang, New Stories (9/20): Talking About \"Run-ology\" After a Late Night at Work",
-   "free": false,
-   "chars": 914,
-   "file": "modernslang09.json",
-   "series": "modernslang",
-   "episode": 9,
-   "episode_count": 20
-  },
-  {
    "id": "modernslang04",
    "level": 5,
    "title_zh": "牛肉面馆的yyds招牌",
@@ -5291,6 +5315,18 @@
    "episode_count": 20
   },
   {
+   "id": "classicpoems14",
+   "level": 5,
+   "title_zh": "阿炳与《二泉映月》",
+   "title_en": "Great Poems and Songs (14/20): Ah Bing and \"The Moon Reflected in Second Spring\"",
+   "free": false,
+   "chars": 927,
+   "file": "classicpoems14.json",
+   "series": "classicpoems",
+   "episode": 14,
+   "episode_count": 20
+  },
+  {
    "id": "recipes17",
    "level": 5,
    "title_zh": "水煮鱼",
@@ -5303,15 +5339,15 @@
    "episode_count": 20
   },
   {
-   "id": "modernslang20",
+   "id": "ruraltales12",
    "level": 5,
-   "title_zh": "三年后的老同事聚会",
-   "title_en": "New Slang, New Stories (20/20): Old Coworkers Reunite Three Years Later",
+   "title_zh": "一村的猕猴桃",
+   "title_en": "Stories of Modern China (12/20): A Village of Kiwis",
    "free": false,
    "chars": 932,
-   "file": "modernslang20.json",
-   "series": "modernslang",
-   "episode": 20,
+   "file": "ruraltales12.json",
+   "series": "ruraltales",
+   "episode": 12,
    "episode_count": 20
   },
   {
@@ -5336,6 +5372,39 @@
    "file": "worldnews04.json",
    "series": "worldnews",
    "episode": 4,
+   "episode_count": 20
+  },
+  {
+   "id": "scam5",
+   "level": 5,
+   "title_zh": "小心电话和网络诈骗",
+   "title_en": "Watch Out for Phone and Online Scams",
+   "free": false,
+   "chars": 945,
+   "file": "scam5.json"
+  },
+  {
+   "id": "recipes10",
+   "level": 5,
+   "title_zh": "火锅",
+   "title_en": "Cooking Chinese Dishes (10/20): Hot Pot",
+   "free": false,
+   "chars": 948,
+   "file": "recipes10.json",
+   "series": "recipes",
+   "episode": 10,
+   "episode_count": 20
+  },
+  {
+   "id": "classicpoems08",
+   "level": 5,
+   "title_zh": "陶渊明归隐田园",
+   "title_en": "Great Poems and Songs (8/20): Tao Yuanming Returns to the Fields",
+   "free": false,
+   "chars": 951,
+   "file": "classicpoems08.json",
+   "series": "classicpoems",
+   "episode": 8,
    "episode_count": 20
   },
   {
@@ -5399,6 +5468,18 @@
    "episode_count": 20
   },
   {
+   "id": "classicpoems07",
+   "level": 5,
+   "title_zh": "《茉莉花》的旅程",
+   "title_en": "Great Poems and Songs (7/20): The Journey of \"Jasmine Flower\"",
+   "free": false,
+   "chars": 967,
+   "file": "classicpoems07.json",
+   "series": "classicpoems",
+   "episode": 7,
+   "episode_count": 20
+  },
+  {
    "id": "classicpoems12",
    "level": 5,
    "title_zh": "岳飞与《满江红》",
@@ -5423,15 +5504,15 @@
    "episode_count": 20
   },
   {
-   "id": "classicpoems14",
+   "id": "recipes09",
    "level": 5,
-   "title_zh": "阿炳与《二泉映月》",
-   "title_en": "Great Poems and Songs (14/20): Ah Bing and \"The Moon Reflected in Second Spring\"",
+   "title_zh": "兰州拉面",
+   "title_en": "Cooking Chinese Dishes (9/20): Lanzhou Hand-Pulled Noodles",
    "free": false,
-   "chars": 979,
-   "file": "classicpoems14.json",
-   "series": "classicpoems",
-   "episode": 14,
+   "chars": 978,
+   "file": "recipes09.json",
+   "series": "recipes",
+   "episode": 9,
    "episode_count": 20
   },
   {
@@ -5444,30 +5525,6 @@
    "file": "recipes13.json",
    "series": "recipes",
    "episode": 13,
-   "episode_count": 20
-  },
-  {
-   "id": "recipes10",
-   "level": 5,
-   "title_zh": "火锅",
-   "title_en": "Cooking Chinese Dishes (10/20): Hot Pot",
-   "free": false,
-   "chars": 984,
-   "file": "recipes10.json",
-   "series": "recipes",
-   "episode": 10,
-   "episode_count": 20
-  },
-  {
-   "id": "classicpoems08",
-   "level": 5,
-   "title_zh": "陶渊明归隐田园",
-   "title_en": "Great Poems and Songs (8/20): Tao Yuanming Returns to the Fields",
-   "free": false,
-   "chars": 986,
-   "file": "classicpoems08.json",
-   "series": "classicpoems",
-   "episode": 8,
    "episode_count": 20
   },
   {
@@ -5493,6 +5550,15 @@
    "series": "worldnews",
    "episode": 18,
    "episode_count": 20
+  },
+  {
+   "id": "reconcile_informal5",
+   "level": 5,
+   "title_zh": "兄妹和好",
+   "title_en": "A Brother and Sister Make Up",
+   "free": false,
+   "chars": 995,
+   "file": "reconcile_informal5.json"
   },
   {
    "id": "elderlycare5",
@@ -5561,18 +5627,6 @@
    "file": "robotics5.json"
   },
   {
-   "id": "recipes09",
-   "level": 5,
-   "title_zh": "兰州拉面",
-   "title_en": "Cooking Chinese Dishes (9/20): Lanzhou Hand-Pulled Noodles",
-   "free": false,
-   "chars": 1016,
-   "file": "recipes09.json",
-   "series": "recipes",
-   "episode": 9,
-   "episode_count": 20
-  },
-  {
    "id": "classicpoems11",
    "level": 5,
    "title_zh": "科举考试与一首诗的命运",
@@ -5582,18 +5636,6 @@
    "file": "classicpoems11.json",
    "series": "classicpoems",
    "episode": 11,
-   "episode_count": 20
-  },
-  {
-   "id": "ruraltales12",
-   "level": 5,
-   "title_zh": "一村的猕猴桃",
-   "title_en": "Stories of Modern China (12/20): A Village of Kiwis",
-   "free": false,
-   "chars": 1019,
-   "file": "ruraltales12.json",
-   "series": "ruraltales",
-   "episode": 12,
    "episode_count": 20
   },
   {
@@ -5616,18 +5658,6 @@
    "free": false,
    "chars": 1025,
    "file": "pension5.json"
-  },
-  {
-   "id": "worldnews19",
-   "level": 5,
-   "title_zh": "农民发明省水装置",
-   "title_en": "Good News (19/20): A Farmer Invents a Water-Saving Device",
-   "free": false,
-   "chars": 1025,
-   "file": "worldnews19.json",
-   "series": "worldnews",
-   "episode": 19,
-   "episode_count": 20
   },
   {
    "id": "countries5",
@@ -5750,18 +5780,6 @@
    "episode_count": 20
   },
   {
-   "id": "classicpoems07",
-   "level": 5,
-   "title_zh": "《茉莉花》的旅程",
-   "title_en": "Great Poems and Songs (7/20): The Journey of \"Jasmine Flower\"",
-   "free": false,
-   "chars": 1073,
-   "file": "classicpoems07.json",
-   "series": "classicpoems",
-   "episode": 7,
-   "episode_count": 20
-  },
-  {
    "id": "worldnews05",
    "level": 5,
    "title_zh": "癌症研究新突破",
@@ -5846,15 +5864,6 @@
    "episode_count": 20
   },
   {
-   "id": "scam5",
-   "level": 5,
-   "title_zh": "小心电话和网络诈骗",
-   "title_en": "Watch Out for Phone and Online Scams",
-   "free": false,
-   "chars": 1098,
-   "file": "scam5.json"
-  },
-  {
    "id": "ruraltales11",
    "level": 5,
    "title_zh": "媒人马婆婆",
@@ -5898,6 +5907,15 @@
    "free": false,
    "chars": 1112,
    "file": "stockmarket5.json"
+  },
+  {
+   "id": "transit_etiquette5",
+   "level": 5,
+   "title_zh": "坐地铁公交的礼貌",
+   "title_en": "Subway and Bus Etiquette",
+   "free": false,
+   "chars": 1114,
+   "file": "transit_etiquette5.json"
   },
   {
    "id": "mentalhealth5",
@@ -5972,6 +5990,18 @@
    "episode_count": 20
   },
   {
+   "id": "classicpoems18",
+   "level": 5,
+   "title_zh": "古诗和流行歌曲",
+   "title_en": "Great Poems and Songs (18/20): Ms. Li on Old Poems and New Songs",
+   "free": false,
+   "chars": 1144,
+   "file": "classicpoems18.json",
+   "series": "classicpoems",
+   "episode": 18,
+   "episode_count": 20
+  },
+  {
    "id": "selfdriving5",
    "level": 5,
    "title_zh": "无人驾驶的时代",
@@ -5979,15 +6009,6 @@
    "free": false,
    "chars": 1145,
    "file": "selfdriving5.json"
-  },
-  {
-   "id": "transit_etiquette5",
-   "level": 5,
-   "title_zh": "坐地铁公交的礼貌",
-   "title_en": "Subway and Bus Etiquette",
-   "free": false,
-   "chars": 1146,
-   "file": "transit_etiquette5.json"
   },
   {
    "id": "redchamber02",
@@ -6092,13 +6113,31 @@
    "episode_count": 20
   },
   {
-   "id": "reconcile_informal5",
+   "id": "politics5",
    "level": 5,
-   "title_zh": "兄妹和好",
-   "title_en": "A Brother and Sister Make Up",
+   "title_zh": "中国的政治体系",
+   "title_en": "How China's Political System Works",
    "free": false,
-   "chars": 1170,
-   "file": "reconcile_informal5.json"
+   "chars": 1160,
+   "file": "politics5.json"
+  },
+  {
+   "id": "urbanrural5",
+   "level": 5,
+   "title_zh": "城市与农村的变化",
+   "title_en": "Changing Cities and Villages",
+   "free": false,
+   "chars": 1165,
+   "file": "urbanrural5.json"
+  },
+  {
+   "id": "singers5",
+   "level": 5,
+   "title_zh": "歌手与粉丝文化",
+   "title_en": "Singers and Fan Culture",
+   "free": false,
+   "chars": 1167,
+   "file": "singers5.json"
   },
   {
    "id": "scifi02",
@@ -6203,6 +6242,15 @@
    "episode_count": 20
   },
   {
+   "id": "gym5",
+   "level": 5,
+   "title_zh": "办健身卡",
+   "title_en": "Getting a Gym Membership",
+   "free": false,
+   "chars": 1186,
+   "file": "gym5.json"
+  },
+  {
    "id": "classicpoems10",
    "level": 5,
    "title_zh": "李叔同与《送别》",
@@ -6215,6 +6263,15 @@
    "episode_count": 20
   },
   {
+   "id": "gender5",
+   "level": 5,
+   "title_zh": "职场中的性别平等",
+   "title_en": "Gender Equality in the Chinese Workplace",
+   "free": false,
+   "chars": 1191,
+   "file": "gender5.json"
+  },
+  {
    "id": "aiethics5",
    "level": 5,
    "title_zh": "人工智能的利与弊",
@@ -6222,6 +6279,15 @@
    "free": false,
    "chars": 1193,
    "file": "aiethics5.json"
+  },
+  {
+   "id": "familyquarrel5",
+   "level": 5,
+   "title_zh": "家里的争吵",
+   "title_en": "A Family Quarrel",
+   "free": false,
+   "chars": 1197,
+   "file": "familyquarrel5.json"
   },
   {
    "id": "ruraltales06",
@@ -6234,6 +6300,15 @@
    "series": "ruraltales",
    "episode": 6,
    "episode_count": 20
+  },
+  {
+   "id": "toilet5",
+   "level": 5,
+   "title_zh": "找公共厕所",
+   "title_en": "Finding a Public Restroom",
+   "free": false,
+   "chars": 1200,
+   "file": "toilet5.json"
   },
   {
    "id": "calligraphy5",
@@ -6257,13 +6332,16 @@
    "episode_count": 20
   },
   {
-   "id": "politics5",
+   "id": "classicpoems20",
    "level": 5,
-   "title_zh": "中国的政治体系",
-   "title_en": "How China's Political System Works",
+   "title_zh": "奶奶教孙女读唐诗",
+   "title_en": "Great Poems and Songs (20/20): Grandma Teaches Her Granddaughter Tang Poems",
    "free": false,
    "chars": 1201,
-   "file": "politics5.json"
+   "file": "classicpoems20.json",
+   "series": "classicpoems",
+   "episode": 20,
+   "episode_count": 20
   },
   {
    "id": "worklaw5",
@@ -6273,15 +6351,6 @@
    "free": false,
    "chars": 1204,
    "file": "worklaw5.json"
-  },
-  {
-   "id": "singers5",
-   "level": 5,
-   "title_zh": "歌手与粉丝文化",
-   "title_en": "Singers and Fan Culture",
-   "free": false,
-   "chars": 1204,
-   "file": "singers5.json"
   },
   {
    "id": "scifi16",
@@ -6296,6 +6365,15 @@
    "episode_count": 20
   },
   {
+   "id": "workethics5",
+   "level": 5,
+   "title_zh": "工作与生活的平衡",
+   "title_en": "Work-Life Balance",
+   "free": false,
+   "chars": 1206,
+   "file": "workethics5.json"
+  },
+  {
    "id": "visa5",
    "level": 5,
    "title_zh": "办签证",
@@ -6303,6 +6381,15 @@
    "free": false,
    "chars": 1208,
    "file": "visa5.json"
+  },
+  {
+   "id": "taiji5",
+   "level": 5,
+   "title_zh": "公园里的太极拳",
+   "title_en": "Tai Chi in the Park",
+   "free": false,
+   "chars": 1213,
+   "file": "taiji5.json"
   },
   {
    "id": "scifi04",
@@ -6338,6 +6425,15 @@
    "file": "divorce5.json"
   },
   {
+   "id": "ecommerce5",
+   "level": 5,
+   "title_zh": "网上购物的文化",
+   "title_en": "Online Shopping Culture",
+   "free": false,
+   "chars": 1228,
+   "file": "ecommerce5.json"
+  },
+  {
    "id": "phoneapps5",
    "level": 5,
    "title_zh": "手机软件里的一天",
@@ -6347,16 +6443,13 @@
    "file": "phoneapps5.json"
   },
   {
-   "id": "classicpoems18",
+   "id": "parenting5",
    "level": 5,
-   "title_zh": "古诗和流行歌曲",
-   "title_en": "Great Poems and Songs (18/20): Ms. Li on Old Poems and New Songs",
+   "title_zh": "两代人的教育观念",
+   "title_en": "Two Generations, Two Views on Raising Kids",
    "free": false,
-   "chars": 1230,
-   "file": "classicpoems18.json",
-   "series": "classicpoems",
-   "episode": 18,
-   "episode_count": 20
+   "chars": 1229,
+   "file": "parenting5.json"
   },
   {
    "id": "cybersecurity5",
@@ -6378,15 +6471,6 @@
    "series": "scifi",
    "episode": 19,
    "episode_count": 20
-  },
-  {
-   "id": "gender5",
-   "level": 5,
-   "title_zh": "职场中的性别平等",
-   "title_en": "Gender Equality in the Chinese Workplace",
-   "free": false,
-   "chars": 1232,
-   "file": "gender5.json"
   },
   {
    "id": "poetry5",
@@ -6446,22 +6530,22 @@
    "episode_count": 20
   },
   {
-   "id": "taiji5",
+   "id": "transport5",
    "level": 5,
-   "title_zh": "公园里的太极拳",
-   "title_en": "Tai Chi in the Park",
+   "title_zh": "挤地铁",
+   "title_en": "Packed Subways",
    "free": false,
    "chars": 1254,
-   "file": "taiji5.json"
+   "file": "transport5.json"
   },
   {
-   "id": "workethics5",
+   "id": "influencer5",
    "level": 5,
-   "title_zh": "工作与生活的平衡",
-   "title_en": "Work-Life Balance",
+   "title_zh": "小美的自媒体生活",
+   "title_en": "Xiao Mei's Life as a Content Creator",
    "free": false,
    "chars": 1258,
-   "file": "workethics5.json"
+   "file": "influencer5.json"
   },
   {
    "id": "ruraltales19",
@@ -6473,27 +6557,6 @@
    "file": "ruraltales19.json",
    "series": "ruraltales",
    "episode": 19,
-   "episode_count": 20
-  },
-  {
-   "id": "parenting5",
-   "level": 5,
-   "title_zh": "两代人的教育观念",
-   "title_en": "Two Generations, Two Views on Raising Kids",
-   "free": false,
-   "chars": 1262,
-   "file": "parenting5.json"
-  },
-  {
-   "id": "classicpoems20",
-   "level": 5,
-   "title_zh": "奶奶教孙女读唐诗",
-   "title_en": "Great Poems and Songs (20/20): Grandma Teaches Her Granddaughter Tang Poems",
-   "free": false,
-   "chars": 1268,
-   "file": "classicpoems20.json",
-   "series": "classicpoems",
-   "episode": 20,
    "episode_count": 20
   },
   {
@@ -6533,6 +6596,15 @@
    "episode_count": 20
   },
   {
+   "id": "contract5",
+   "level": 5,
+   "title_zh": "签租房合同",
+   "title_en": "Signing a Lease",
+   "free": false,
+   "chars": 1275,
+   "file": "contract5.json"
+  },
+  {
    "id": "brokenequip5",
    "level": 5,
    "title_zh": "洗衣机坏了",
@@ -6552,24 +6624,6 @@
    "series": "ruraltales",
    "episode": 18,
    "episode_count": 20
-  },
-  {
-   "id": "gym5",
-   "level": 5,
-   "title_zh": "办健身卡",
-   "title_en": "Getting a Gym Membership",
-   "free": false,
-   "chars": 1281,
-   "file": "gym5.json"
-  },
-  {
-   "id": "familyquarrel5",
-   "level": 5,
-   "title_zh": "家里的争吵",
-   "title_en": "A Family Quarrel",
-   "free": false,
-   "chars": 1282,
-   "file": "familyquarrel5.json"
   },
   {
    "id": "ruraltales14",
@@ -6596,15 +6650,6 @@
    "episode_count": 20
   },
   {
-   "id": "toilet5",
-   "level": 5,
-   "title_zh": "找公共厕所",
-   "title_en": "Finding a Public Restroom",
-   "free": false,
-   "chars": 1292,
-   "file": "toilet5.json"
-  },
-  {
    "id": "redchamber08",
    "level": 5,
    "title_zh": "宝玉受笞",
@@ -6615,15 +6660,6 @@
    "series": "redchamber",
    "episode": 8,
    "episode_count": 20
-  },
-  {
-   "id": "ecommerce5",
-   "level": 5,
-   "title_zh": "网上购物的文化",
-   "title_en": "Online Shopping Culture",
-   "free": false,
-   "chars": 1294,
-   "file": "ecommerce5.json"
   },
   {
    "id": "videogames5",
@@ -6642,15 +6678,6 @@
    "free": false,
    "chars": 1298,
    "file": "agriculture5.json"
-  },
-  {
-   "id": "transport5",
-   "level": 5,
-   "title_zh": "挤地铁",
-   "title_en": "Packed Subways",
-   "free": false,
-   "chars": 1301,
-   "file": "transport5.json"
   },
   {
    "id": "history20c5",
@@ -6674,22 +6701,13 @@
    "episode_count": 20
   },
   {
-   "id": "urbanrural5",
+   "id": "realestate5",
    "level": 5,
-   "title_zh": "城市与农村的变化",
-   "title_en": "Changing Cities and Villages",
+   "title_zh": "小李买房的经历",
+   "title_en": "Xiao Li Buys an Apartment",
    "free": false,
    "chars": 1314,
-   "file": "urbanrural5.json"
-  },
-  {
-   "id": "contract5",
-   "level": 5,
-   "title_zh": "签租房合同",
-   "title_en": "Signing a Lease",
-   "free": false,
-   "chars": 1322,
-   "file": "contract5.json"
+   "file": "realestate5.json"
   },
   {
    "id": "ruraltales02",
@@ -6726,15 +6744,6 @@
    "series": "redchamber",
    "episode": 12,
    "episode_count": 20
-  },
-  {
-   "id": "influencer5",
-   "level": 5,
-   "title_zh": "小美的自媒体生活",
-   "title_en": "Xiao Mei's Life as a Content Creator",
-   "free": false,
-   "chars": 1330,
-   "file": "influencer5.json"
   },
   {
    "id": "ruraltales08",
@@ -6831,15 +6840,6 @@
    "series": "redchamber",
    "episode": 7,
    "episode_count": 20
-  },
-  {
-   "id": "realestate5",
-   "level": 5,
-   "title_zh": "小李买房的经历",
-   "title_en": "Xiao Li Buys an Apartment",
-   "free": false,
-   "chars": 1392,
-   "file": "realestate5.json"
   },
   {
    "id": "ruraltales16",
@@ -6983,6 +6983,18 @@
    "episode_count": 20
   },
   {
+   "id": "aitopics01",
+   "level": 6,
+   "title_zh": "聊天机器人",
+   "title_en": "Artificial Intelligence (1/20): Talking to a Chatbot",
+   "free": true,
+   "chars": 981,
+   "file": "aitopics01.json",
+   "series": "aitopics",
+   "episode": 1,
+   "episode_count": 20
+  },
+  {
    "id": "l6blogger1",
    "level": 6,
    "title_zh": "旅行博主的一天",
@@ -7004,14 +7016,14 @@
    "episode_count": 20
   },
   {
-   "id": "aitopics01",
+   "id": "ports01",
    "level": 6,
-   "title_zh": "聊天机器人",
-   "title_en": "Artificial Intelligence (1/20): Talking to a Chatbot",
+   "title_zh": "上海港：世界最大的集装箱港口",
+   "title_en": "China's Ports (1/20): Shanghai, the World's Largest Container Port",
    "free": true,
-   "chars": 1045,
-   "file": "aitopics01.json",
-   "series": "aitopics",
+   "chars": 1033,
+   "file": "ports01.json",
+   "series": "ports",
    "episode": 1,
    "episode_count": 20
   },
@@ -7049,14 +7061,26 @@
    "episode_count": 20
   },
   {
-   "id": "ports01",
+   "id": "professions01",
    "level": 6,
-   "title_zh": "上海港：世界最大的集装箱港口",
-   "title_en": "China's Ports (1/20): Shanghai, the World's Largest Container Port",
+   "title_zh": "医生的一天",
+   "title_en": "Jobs (1/20): A Day in the Life of a Doctor",
    "free": true,
-   "chars": 1320,
-   "file": "ports01.json",
-   "series": "ports",
+   "chars": 1300,
+   "file": "professions01.json",
+   "series": "professions",
+   "episode": 1,
+   "episode_count": 20
+  },
+  {
+   "id": "futurevisions01",
+   "level": 6,
+   "title_zh": "蓬莱仙境",
+   "title_en": "Visions of the Future (1/20): Penglai, Island of the Immortals",
+   "free": true,
+   "chars": 1316,
+   "file": "futurevisions01.json",
+   "series": "futurevisions",
    "episode": 1,
    "episode_count": 20
   },
@@ -7069,18 +7093,6 @@
    "chars": 1322,
    "file": "popsongs01.json",
    "series": "popsongs",
-   "episode": 1,
-   "episode_count": 20
-  },
-  {
-   "id": "professions01",
-   "level": 6,
-   "title_zh": "医生的一天",
-   "title_en": "Jobs (1/20): A Day in the Life of a Doctor",
-   "free": true,
-   "chars": 1328,
-   "file": "professions01.json",
-   "series": "professions",
    "episode": 1,
    "episode_count": 20
   },
@@ -7109,6 +7121,18 @@
    "episode_count": 20
   },
   {
+   "id": "destinations01",
+   "level": 6,
+   "title_zh": "张家界:云雾中的石峰",
+   "title_en": "Beautiful Places in China (1/20): Zhangjiajie, Stone Peaks in the Mist",
+   "free": true,
+   "chars": 1367,
+   "file": "destinations01.json",
+   "series": "destinations",
+   "episode": 1,
+   "episode_count": 20
+  },
+  {
    "id": "corporations01",
    "level": 6,
    "title_zh": "阿里巴巴的创业故事",
@@ -7117,18 +7141,6 @@
    "chars": 1383,
    "file": "corporations01.json",
    "series": "corporations",
-   "episode": 1,
-   "episode_count": 20
-  },
-  {
-   "id": "futurevisions01",
-   "level": 6,
-   "title_zh": "蓬莱仙境",
-   "title_en": "Visions of the Future (1/20): Penglai, Island of the Immortals",
-   "free": true,
-   "chars": 1397,
-   "file": "futurevisions01.json",
-   "series": "futurevisions",
    "episode": 1,
    "episode_count": 20
   },
@@ -7145,14 +7157,14 @@
    "episode_count": 20
   },
   {
-   "id": "destinations01",
+   "id": "celebrities01",
    "level": 6,
-   "title_zh": "张家界:云雾中的石峰",
-   "title_en": "Beautiful Places in China (1/20): Zhangjiajie, Stone Peaks in the Mist",
+   "title_zh": "袁隆平：杂交水稻之父",
+   "title_en": "Famous Chinese People (1/20): Yuan Longping, Father of Hybrid Rice",
    "free": true,
-   "chars": 1459,
-   "file": "destinations01.json",
-   "series": "destinations",
+   "chars": 1443,
+   "file": "celebrities01.json",
+   "series": "celebrities",
    "episode": 1,
    "episode_count": 20
   },
@@ -7162,21 +7174,9 @@
    "title_zh": "宫廷古装剧：穿越千年的皇宫故事",
    "title_en": "Chinese TV Dramas (1/20): Palace Tales Across a Thousand Years",
    "free": true,
-   "chars": 1577,
+   "chars": 1514,
    "file": "dramas01.json",
    "series": "dramas",
-   "episode": 1,
-   "episode_count": 20
-  },
-  {
-   "id": "celebrities01",
-   "level": 6,
-   "title_zh": "袁隆平：杂交水稻之父",
-   "title_en": "Famous Chinese People (1/20): Yuan Longping, Father of Hybrid Rice",
-   "free": true,
-   "chars": 1599,
-   "file": "celebrities01.json",
-   "series": "celebrities",
    "episode": 1,
    "episode_count": 20
   },
@@ -7186,7 +7186,7 @@
    "title_zh": "三峡大坝",
    "title_en": "Wonders of Chinese Engineering (1/20): The Three Gorges Dam",
    "free": true,
-   "chars": 1721,
+   "chars": 1581,
    "file": "construction01.json",
    "series": "construction",
    "episode": 1,
@@ -7274,6 +7274,18 @@
    "episode_count": 20
   },
   {
+   "id": "psychology13",
+   "level": 6,
+   "title_zh": "再看五分钟手机就好",
+   "title_en": "Psychology Made Simple (13/20): Just Five More Minutes on My Phone",
+   "free": false,
+   "chars": 784,
+   "file": "psychology13.json",
+   "series": "psychology",
+   "episode": 13,
+   "episode_count": 20
+  },
+  {
    "id": "riddles08",
    "level": 6,
    "title_zh": "小鸟张嘴叫",
@@ -7343,18 +7355,6 @@
    "file": "courtcases02.json",
    "series": "courtcases",
    "episode": 2,
-   "episode_count": 20
-  },
-  {
-   "id": "psychology13",
-   "level": 6,
-   "title_zh": "再看五分钟手机就好",
-   "title_en": "Psychology Made Simple (13/20): Just Five More Minutes on My Phone",
-   "free": false,
-   "chars": 814,
-   "file": "psychology13.json",
-   "series": "psychology",
-   "episode": 13,
    "episode_count": 20
   },
   {
@@ -7535,6 +7535,18 @@
    "episode_count": 20
   },
   {
+   "id": "aitopics03",
+   "level": 6,
+   "title_zh": "人工智能辅助诊断",
+   "title_en": "Artificial Intelligence (3/20): AI in the Doctor's Office",
+   "free": false,
+   "chars": 862,
+   "file": "aitopics03.json",
+   "series": "aitopics",
+   "episode": 3,
+   "episode_count": 20
+  },
+  {
    "id": "l6colloc3",
    "level": 6,
    "title_zh": "爷爷和他的手机",
@@ -7680,6 +7692,18 @@
    "free": false,
    "chars": 897,
    "file": "l6colloc2.json"
+  },
+  {
+   "id": "humour18",
+   "level": 6,
+   "title_zh": "全家福拍摄“大作战”",
+   "title_en": "Chinese Humor (18/20): The Great Family Photo Battle",
+   "free": false,
+   "chars": 898,
+   "file": "humour18.json",
+   "series": "humour",
+   "episode": 18,
+   "episode_count": 20
   },
   {
    "id": "riddles19",
@@ -8090,6 +8114,18 @@
    "file": "l6hsrail2.json"
   },
   {
+   "id": "aitopics06",
+   "level": 6,
+   "title_zh": "人工智能绘画",
+   "title_en": "Artificial Intelligence (6/20): AI Draws an Illustration",
+   "free": false,
+   "chars": 982,
+   "file": "aitopics06.json",
+   "series": "aitopics",
+   "episode": 6,
+   "episode_count": 20
+  },
+  {
    "id": "l6truth1",
    "level": 6,
    "title_zh": "中国治理污染的历程",
@@ -8097,6 +8133,18 @@
    "free": false,
    "chars": 990,
    "file": "l6truth1.json"
+  },
+  {
+   "id": "aitopics10",
+   "level": 6,
+   "title_zh": "智能音箱",
+   "title_en": "Artificial Intelligence (10/20): The Smart Speaker at Home",
+   "free": false,
+   "chars": 991,
+   "file": "aitopics10.json",
+   "series": "aitopics",
+   "episode": 10,
+   "episode_count": 20
   },
   {
    "id": "l6urbanrural2",
@@ -8141,6 +8189,18 @@
    "episode_count": 20
   },
   {
+   "id": "eateries20",
+   "level": 6,
+   "title_zh": "新派融合餐厅",
+   "title_en": "Famous Restaurants (20/20): A Modern Chinese-Western Fusion Restaurant",
+   "free": false,
+   "chars": 996,
+   "file": "eateries20.json",
+   "series": "eateries",
+   "episode": 20,
+   "episode_count": 20
+  },
+  {
    "id": "medicine09",
    "level": 6,
    "title_zh": "小美配眼镜",
@@ -8165,6 +8225,18 @@
    "episode_count": 20
   },
   {
+   "id": "ports05",
+   "level": 6,
+   "title_zh": "青岛港：黄海之滨的智慧港口",
+   "title_en": "China's Ports (5/20): Qingdao, the Smart Port on the Yellow Sea",
+   "free": false,
+   "chars": 1000,
+   "file": "ports05.json",
+   "series": "ports",
+   "episode": 5,
+   "episode_count": 20
+  },
+  {
    "id": "engineering14",
    "level": 6,
    "title_zh": "屋顶上安装太阳能板",
@@ -8186,15 +8258,63 @@
    "file": "l6hsk6word2.json"
   },
   {
-   "id": "aitopics03",
+   "id": "aitopics05",
    "level": 6,
-   "title_zh": "人工智能辅助诊断",
-   "title_en": "Artificial Intelligence (3/20): AI in the Doctor's Office",
+   "title_zh": "工厂里的机器人",
+   "title_en": "Artificial Intelligence (5/20): Robots in the Factory",
+   "free": false,
+   "chars": 1007,
+   "file": "aitopics05.json",
+   "series": "aitopics",
+   "episode": 5,
+   "episode_count": 20
+  },
+  {
+   "id": "aitopics18",
+   "level": 6,
+   "title_zh": "深夜找聊天机器人帮忙",
+   "title_en": "Artificial Intelligence (18/20): Late-Night Help from a Chatbot",
+   "free": false,
+   "chars": 1008,
+   "file": "aitopics18.json",
+   "series": "aitopics",
+   "episode": 18,
+   "episode_count": 20
+  },
+  {
+   "id": "ports02",
+   "level": 6,
+   "title_zh": "宁波舟山港：货物吞吐量世界第一",
+   "title_en": "China's Ports (2/20): Ningbo-Zhoushan, the World's Busiest Cargo Port",
+   "free": false,
+   "chars": 1011,
+   "file": "ports02.json",
+   "series": "ports",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "medicine10",
+   "level": 6,
+   "title_zh": "急诊室的夜晚",
+   "title_en": "Doctors and Pharmacies (10/20): A Night in the ER",
    "free": false,
    "chars": 1014,
-   "file": "aitopics03.json",
+   "file": "medicine10.json",
+   "series": "medicine",
+   "episode": 10,
+   "episode_count": 20
+  },
+  {
+   "id": "aitopics07",
+   "level": 6,
+   "title_zh": "人工智能辅导软件",
+   "title_en": "Artificial Intelligence (7/20): An AI Tutor",
+   "free": false,
+   "chars": 1019,
+   "file": "aitopics07.json",
    "series": "aitopics",
-   "episode": 3,
+   "episode": 7,
    "episode_count": 20
   },
   {
@@ -8237,15 +8357,15 @@
    "file": "l6hsk6word3.json"
   },
   {
-   "id": "humour18",
+   "id": "aitopics16",
    "level": 6,
-   "title_zh": "全家福拍摄“大作战”",
-   "title_en": "Chinese Humor (18/20): The Great Family Photo Battle",
+   "title_zh": "机器狗",
+   "title_en": "Artificial Intelligence (16/20): A Robot Dog at Home",
    "free": false,
    "chars": 1023,
-   "file": "humour18.json",
-   "series": "humour",
-   "episode": 18,
+   "file": "aitopics16.json",
+   "series": "aitopics",
+   "episode": 16,
    "episode_count": 20
   },
   {
@@ -8269,6 +8389,18 @@
    "chars": 1024,
    "file": "medicine17.json",
    "series": "medicine",
+   "episode": 17,
+   "episode_count": 20
+  },
+  {
+   "id": "aitopics17",
+   "level": 6,
+   "title_zh": "自动交易系统",
+   "title_en": "Artificial Intelligence (17/20): Algorithms on the Stock Exchange",
+   "free": false,
+   "chars": 1029,
+   "file": "aitopics17.json",
+   "series": "aitopics",
    "episode": 17,
    "episode_count": 20
   },
@@ -8315,6 +8447,18 @@
    "episode_count": 20
   },
   {
+   "id": "engineering20",
+   "level": 6,
+   "title_zh": "学生机器人比赛",
+   "title_en": "Technology and Engineering (20/20): A Student Robotics Competition",
+   "free": false,
+   "chars": 1042,
+   "file": "engineering20.json",
+   "series": "engineering",
+   "episode": 20,
+   "episode_count": 20
+  },
+  {
    "id": "l6blogger3",
    "level": 6,
    "title_zh": "科技博主开箱测评",
@@ -8322,6 +8466,30 @@
    "free": false,
    "chars": 1043,
    "file": "l6blogger3.json"
+  },
+  {
+   "id": "ports13",
+   "level": 6,
+   "title_zh": "吉布提港：红海门户上的战略港口",
+   "title_en": "China's Ports (13/20): Djibouti, the Strategic Port at the Gate of the Red Sea",
+   "free": false,
+   "chars": 1044,
+   "file": "ports13.json",
+   "series": "ports",
+   "episode": 13,
+   "episode_count": 20
+  },
+  {
+   "id": "ports03",
+   "level": 6,
+   "title_zh": "深圳港：珠江口的自动化码头",
+   "title_en": "China's Ports (3/20): Shenzhen, the Automated Port on the Pearl River Estuary",
+   "free": false,
+   "chars": 1045,
+   "file": "ports03.json",
+   "series": "ports",
+   "episode": 3,
+   "episode_count": 20
   },
   {
    "id": "medicine15",
@@ -8363,18 +8531,6 @@
    "file": "l6blogger4.json"
   },
   {
-   "id": "medicine10",
-   "level": 6,
-   "title_zh": "急诊室的夜晚",
-   "title_en": "Doctors and Pharmacies (10/20): A Night in the ER",
-   "free": false,
-   "chars": 1049,
-   "file": "medicine10.json",
-   "series": "medicine",
-   "episode": 10,
-   "episode_count": 20
-  },
-  {
    "id": "engineering13",
    "level": 6,
    "title_zh": "数据中心的服务器",
@@ -8396,18 +8552,6 @@
    "file": "professions13.json",
    "series": "professions",
    "episode": 13,
-   "episode_count": 20
-  },
-  {
-   "id": "aitopics06",
-   "level": 6,
-   "title_zh": "人工智能绘画",
-   "title_en": "Artificial Intelligence (6/20): AI Draws an Illustration",
-   "free": false,
-   "chars": 1052,
-   "file": "aitopics06.json",
-   "series": "aitopics",
-   "episode": 6,
    "episode_count": 20
   },
   {
@@ -8465,30 +8609,6 @@
    "episode_count": 20
   },
   {
-   "id": "aitopics10",
-   "level": 6,
-   "title_zh": "智能音箱",
-   "title_en": "Artificial Intelligence (10/20): The Smart Speaker at Home",
-   "free": false,
-   "chars": 1059,
-   "file": "aitopics10.json",
-   "series": "aitopics",
-   "episode": 10,
-   "episode_count": 20
-  },
-  {
-   "id": "aitopics16",
-   "level": 6,
-   "title_zh": "机器狗",
-   "title_en": "Artificial Intelligence (16/20): A Robot Dog at Home",
-   "free": false,
-   "chars": 1059,
-   "file": "aitopics16.json",
-   "series": "aitopics",
-   "episode": 16,
-   "episode_count": 20
-  },
-  {
    "id": "medicine16",
    "level": 6,
    "title_zh": "皮肤科的检查",
@@ -8513,6 +8633,18 @@
    "episode_count": 20
   },
   {
+   "id": "aitopics12",
+   "level": 6,
+   "title_zh": "智能农业",
+   "title_en": "Artificial Intelligence (12/20): AI on the Farm",
+   "free": false,
+   "chars": 1061,
+   "file": "aitopics12.json",
+   "series": "aitopics",
+   "episode": 12,
+   "episode_count": 20
+  },
+  {
    "id": "chinahistory18",
    "level": 6,
    "title_zh": "中国古代四大发明",
@@ -8532,18 +8664,6 @@
    "free": false,
    "chars": 1062,
    "file": "l6slang4.json"
-  },
-  {
-   "id": "aitopics07",
-   "level": 6,
-   "title_zh": "人工智能辅导软件",
-   "title_en": "Artificial Intelligence (7/20): An AI Tutor",
-   "free": false,
-   "chars": 1062,
-   "file": "aitopics07.json",
-   "series": "aitopics",
-   "episode": 7,
-   "episode_count": 20
   },
   {
    "id": "chinahistory17",
@@ -8595,6 +8715,18 @@
    "free": false,
    "chars": 1072,
    "file": "l6generation2.json"
+  },
+  {
+   "id": "professions18",
+   "level": 6,
+   "title_zh": "会计做账",
+   "title_en": "Jobs (18/20): An Accountant Balances the Books",
+   "free": false,
+   "chars": 1080,
+   "file": "professions18.json",
+   "series": "professions",
+   "episode": 18,
+   "episode_count": 20
   },
   {
    "id": "l6blogger2",
@@ -8663,6 +8795,18 @@
    "file": "professions14.json",
    "series": "professions",
    "episode": 14,
+   "episode_count": 20
+  },
+  {
+   "id": "professions17",
+   "level": 6,
+   "title_zh": "兽医看诊",
+   "title_en": "Jobs (17/20): A Day at the Vet's",
+   "free": false,
+   "chars": 1087,
+   "file": "professions17.json",
+   "series": "professions",
+   "episode": 17,
    "episode_count": 20
   },
   {
@@ -8744,18 +8888,6 @@
    "file": "l6generation1.json"
   },
   {
-   "id": "aitopics12",
-   "level": 6,
-   "title_zh": "智能农业",
-   "title_en": "Artificial Intelligence (12/20): AI on the Farm",
-   "free": false,
-   "chars": 1094,
-   "file": "aitopics12.json",
-   "series": "aitopics",
-   "episode": 12,
-   "episode_count": 20
-  },
-  {
    "id": "corporations11",
    "level": 6,
    "title_zh": "联想：传达室里的创业故事",
@@ -8765,6 +8897,18 @@
    "file": "corporations11.json",
    "series": "corporations",
    "episode": 11,
+   "episode_count": 20
+  },
+  {
+   "id": "ports15",
+   "level": 6,
+   "title_zh": "莱基港：西非第一座深水港",
+   "title_en": "China's Ports (15/20): Lekki, West Africa's First Deepwater Port",
+   "free": false,
+   "chars": 1096,
+   "file": "ports15.json",
+   "series": "ports",
+   "episode": 15,
    "episode_count": 20
   },
   {
@@ -8825,18 +8969,6 @@
    "file": "l6funnews1.json"
   },
   {
-   "id": "aitopics18",
-   "level": 6,
-   "title_zh": "深夜找聊天机器人帮忙",
-   "title_en": "Artificial Intelligence (18/20): Late-Night Help from a Chatbot",
-   "free": false,
-   "chars": 1103,
-   "file": "aitopics18.json",
-   "series": "aitopics",
-   "episode": 18,
-   "episode_count": 20
-  },
-  {
    "id": "courtcases07",
    "level": 6,
    "title_zh": "抄袭设计案",
@@ -8849,15 +8981,75 @@
    "episode_count": 20
   },
   {
-   "id": "professions18",
+   "id": "celebrities10",
    "level": 6,
-   "title_zh": "会计做账",
-   "title_en": "Jobs (18/20): An Accountant Balances the Books",
+   "title_zh": "郎朗：用钢琴打动世界的音乐家",
+   "title_en": "Famous Chinese People (10/20): Lang Lang, the Pianist Who Moved the World",
    "free": false,
-   "chars": 1111,
-   "file": "professions18.json",
+   "chars": 1106,
+   "file": "celebrities10.json",
+   "series": "celebrities",
+   "episode": 10,
+   "episode_count": 20
+  },
+  {
+   "id": "ports11",
+   "level": 6,
+   "title_zh": "瓜达尔港：中巴经济走廊的深水港",
+   "title_en": "China's Ports (11/20): Gwadar, the Deepwater Port of the China-Pakistan Economic Corridor",
+   "free": false,
+   "chars": 1108,
+   "file": "ports11.json",
+   "series": "ports",
+   "episode": 11,
+   "episode_count": 20
+  },
+  {
+   "id": "ports04",
+   "level": 6,
+   "title_zh": "广州港：千年商都的海上门户",
+   "title_en": "China's Ports (4/20): Guangzhou, Sea Gateway of a Thousand-Year-Old Trading City",
+   "free": false,
+   "chars": 1108,
+   "file": "ports04.json",
+   "series": "ports",
+   "episode": 4,
+   "episode_count": 20
+  },
+  {
+   "id": "ports12",
+   "level": 6,
+   "title_zh": "汉班托塔港：斯里兰卡的租赁港口",
+   "title_en": "China's Ports (12/20): Hambantota, Sri Lanka's Leased Port",
+   "free": false,
+   "chars": 1109,
+   "file": "ports12.json",
+   "series": "ports",
+   "episode": 12,
+   "episode_count": 20
+  },
+  {
+   "id": "professions15",
+   "level": 6,
+   "title_zh": "翻译的工作",
+   "title_en": "Jobs (15/20): A Translator at Work",
+   "free": false,
+   "chars": 1110,
+   "file": "professions15.json",
    "series": "professions",
-   "episode": 18,
+   "episode": 15,
+   "episode_count": 20
+  },
+  {
+   "id": "dramas09",
+   "level": 6,
+   "title_zh": "悬疑剧：昏暗房间里的秘密",
+   "title_en": "Chinese TV Dramas (9/20): Secrets in a Dim Room",
+   "free": false,
+   "chars": 1112,
+   "file": "dramas09.json",
+   "series": "dramas",
+   "episode": 9,
    "episode_count": 20
   },
   {
@@ -8873,15 +9065,27 @@
    "episode_count": 20
   },
   {
-   "id": "professions17",
+   "id": "aitopics08",
    "level": 6,
-   "title_zh": "兽医看诊",
-   "title_en": "Jobs (17/20): A Day at the Vet's",
+   "title_zh": "人工智能伦理讨论会",
+   "title_en": "Artificial Intelligence (8/20): A Debate on AI Ethics",
    "free": false,
-   "chars": 1116,
-   "file": "professions17.json",
+   "chars": 1113,
+   "file": "aitopics08.json",
+   "series": "aitopics",
+   "episode": 8,
+   "episode_count": 20
+  },
+  {
+   "id": "professions11",
+   "level": 6,
+   "title_zh": "建筑师的图纸",
+   "title_en": "Jobs (11/20): An Architect's Drawings",
+   "free": false,
+   "chars": 1119,
+   "file": "professions11.json",
    "series": "professions",
-   "episode": 17,
+   "episode": 11,
    "episode_count": 20
   },
   {
@@ -8894,18 +9098,6 @@
    "file": "chinahistory19.json",
    "series": "chinahistory",
    "episode": 19,
-   "episode_count": 20
-  },
-  {
-   "id": "engineering20",
-   "level": 6,
-   "title_zh": "学生机器人比赛",
-   "title_en": "Technology and Engineering (20/20): A Student Robotics Competition",
-   "free": false,
-   "chars": 1121,
-   "file": "engineering20.json",
-   "series": "engineering",
-   "episode": 20,
    "episode_count": 20
   },
   {
@@ -8942,6 +9134,30 @@
    "episode_count": 20
   },
   {
+   "id": "dramas02",
+   "level": 6,
+   "title_zh": "都市爱情剧：屋顶上的夕阳",
+   "title_en": "Chinese TV Dramas (2/20): Sunset on the Rooftop",
+   "free": false,
+   "chars": 1128,
+   "file": "dramas02.json",
+   "series": "dramas",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "dramas06",
+   "level": 6,
+   "title_zh": "校园剧：穿校服的青春",
+   "title_en": "Chinese TV Dramas (6/20): Youth in School Uniforms",
+   "free": false,
+   "chars": 1132,
+   "file": "dramas06.json",
+   "series": "dramas",
+   "episode": 6,
+   "episode_count": 20
+  },
+  {
    "id": "medicine14",
    "level": 6,
    "title_zh": "心理咨询室里的谈话",
@@ -8963,6 +9179,18 @@
    "file": "chinahistory20.json",
    "series": "chinahistory",
    "episode": 20,
+   "episode_count": 20
+  },
+  {
+   "id": "dramas18",
+   "level": 6,
+   "title_zh": "音乐选秀：舞台上的梦想",
+   "title_en": "Chinese TV Dramas (18/20): Music Talent Shows, Dreams on Stage",
+   "free": false,
+   "chars": 1134,
+   "file": "dramas18.json",
+   "series": "dramas",
+   "episode": 18,
    "episode_count": 20
   },
   {
@@ -9011,26 +9239,110 @@
    "episode_count": 20
   },
   {
-   "id": "professions15",
+   "id": "celebrities05",
    "level": 6,
-   "title_zh": "翻译的工作",
-   "title_en": "Jobs (15/20): A Translator at Work",
+   "title_zh": "郎平：「铁榔头」的教练之路",
+   "title_en": "Famous Chinese People (5/20): Lang Ping, the Iron Hammer Turned Coach",
    "free": false,
-   "chars": 1141,
-   "file": "professions15.json",
-   "series": "professions",
-   "episode": 15,
+   "chars": 1140,
+   "file": "celebrities05.json",
+   "series": "celebrities",
+   "episode": 5,
    "episode_count": 20
   },
   {
-   "id": "professions11",
+   "id": "aitopics14",
    "level": 6,
-   "title_zh": "建筑师的图纸",
-   "title_en": "Jobs (11/20): An Architect's Drawings",
+   "title_zh": "人工智能作曲",
+   "title_en": "Artificial Intelligence (14/20): A Melody Written by AI",
    "free": false,
-   "chars": 1148,
-   "file": "professions11.json",
+   "chars": 1141,
+   "file": "aitopics14.json",
+   "series": "aitopics",
+   "episode": 14,
+   "episode_count": 20
+  },
+  {
+   "id": "ports17",
+   "level": 6,
+   "title_zh": "杜库姆港：阿拉伯海畔的新兴港口",
+   "title_en": "China's Ports (17/20): Duqm, a Rising Port on the Arabian Sea",
+   "free": false,
+   "chars": 1142,
+   "file": "ports17.json",
+   "series": "ports",
+   "episode": 17,
+   "episode_count": 20
+  },
+  {
+   "id": "ports19",
+   "level": 6,
+   "title_zh": "钱凯港：连接南美与亚洲的新港口",
+   "title_en": "China's Ports (19/20): Chancay, a New Port Linking South America and Asia",
+   "free": false,
+   "chars": 1146,
+   "file": "ports19.json",
+   "series": "ports",
+   "episode": 19,
+   "episode_count": 20
+  },
+  {
+   "id": "ports08",
+   "level": 6,
+   "title_zh": "大连港：中国东北的不冻港",
+   "title_en": "China's Ports (8/20): Dalian, the Northeast's Ice-Free Port",
+   "free": false,
+   "chars": 1146,
+   "file": "ports08.json",
+   "series": "ports",
+   "episode": 8,
+   "episode_count": 20
+  },
+  {
+   "id": "dramas12",
+   "level": 6,
+   "title_zh": "仙侠剧：法袍飘飘的奇幻世界",
+   "title_en": "Chinese TV Dramas (12/20): Xianxia, Fantasy Worlds of Flowing Robes",
+   "free": false,
+   "chars": 1151,
+   "file": "dramas12.json",
+   "series": "dramas",
+   "episode": 12,
+   "episode_count": 20
+  },
+  {
+   "id": "professions20",
+   "level": 6,
+   "title_zh": "导游带团",
+   "title_en": "Jobs (20/20): A Tour Guide and Her Group",
+   "free": false,
+   "chars": 1151,
+   "file": "professions20.json",
    "series": "professions",
+   "episode": 20,
+   "episode_count": 20
+  },
+  {
+   "id": "professions07",
+   "level": 6,
+   "title_zh": "程序员加班",
+   "title_en": "Jobs (7/20): A Programmer Against the Deadline",
+   "free": false,
+   "chars": 1151,
+   "file": "professions07.json",
+   "series": "professions",
+   "episode": 7,
+   "episode_count": 20
+  },
+  {
+   "id": "celebrities11",
+   "level": 6,
+   "title_zh": "刘洋：中国第一位女航天员",
+   "title_en": "Famous Chinese People (11/20): Liu Yang, China's First Woman in Space",
+   "free": false,
+   "chars": 1153,
+   "file": "celebrities11.json",
+   "series": "celebrities",
    "episode": 11,
    "episode_count": 20
   },
@@ -9044,15 +9356,27 @@
    "file": "l6family3.json"
   },
   {
-   "id": "aitopics17",
+   "id": "humour04",
    "level": 6,
-   "title_zh": "自动交易系统",
-   "title_en": "Artificial Intelligence (17/20): Algorithms on the Stock Exchange",
+   "title_zh": "健身房新手的尴尬",
+   "title_en": "Chinese Humor (4/20): A Gym Newbie's Embarrassment",
    "free": false,
-   "chars": 1155,
-   "file": "aitopics17.json",
-   "series": "aitopics",
-   "episode": 17,
+   "chars": 1156,
+   "file": "humour04.json",
+   "series": "humour",
+   "episode": 4,
+   "episode_count": 20
+  },
+  {
+   "id": "dramas08",
+   "level": 6,
+   "title_zh": "农村剧：院子里的烟火气",
+   "title_en": "Chinese TV Dramas (8/20): Life in the Courtyard",
+   "free": false,
+   "chars": 1156,
+   "file": "dramas08.json",
+   "series": "dramas",
+   "episode": 8,
    "episode_count": 20
   },
   {
@@ -9068,6 +9392,66 @@
    "episode_count": 20
   },
   {
+   "id": "ports07",
+   "level": 6,
+   "title_zh": "厦门港：海峡两岸的重要口岸",
+   "title_en": "China's Ports (7/20): Xiamen, a Key Port Facing the Taiwan Strait",
+   "free": false,
+   "chars": 1157,
+   "file": "ports07.json",
+   "series": "ports",
+   "episode": 7,
+   "episode_count": 20
+  },
+  {
+   "id": "dramas13",
+   "level": 6,
+   "title_zh": "情景喜剧：客厅里的笑声",
+   "title_en": "Chinese TV Dramas (13/20): Sitcoms, Laughter in the Living Room",
+   "free": false,
+   "chars": 1158,
+   "file": "dramas13.json",
+   "series": "dramas",
+   "episode": 13,
+   "episode_count": 20
+  },
+  {
+   "id": "celebrities14",
+   "level": 6,
+   "title_zh": "全红婵：十四岁的奥运冠军",
+   "title_en": "Famous Chinese People (14/20): Quan Hongchan, Olympic Champion at Fourteen",
+   "free": false,
+   "chars": 1158,
+   "file": "celebrities14.json",
+   "series": "celebrities",
+   "episode": 14,
+   "episode_count": 20
+  },
+  {
+   "id": "ports14",
+   "level": 6,
+   "title_zh": "科伦坡港：南亚重要的转运枢纽",
+   "title_en": "China's Ports (14/20): Colombo, South Asia's Key Transshipment Hub",
+   "free": false,
+   "chars": 1159,
+   "file": "ports14.json",
+   "series": "ports",
+   "episode": 14,
+   "episode_count": 20
+  },
+  {
+   "id": "ports09",
+   "level": 6,
+   "title_zh": "香港港：曾经的世界第一大港",
+   "title_en": "China's Ports (9/20): Hong Kong, Once the World's Busiest Port",
+   "free": false,
+   "chars": 1160,
+   "file": "ports09.json",
+   "series": "ports",
+   "episode": 9,
+   "episode_count": 20
+  },
+  {
    "id": "chinahistory15",
    "level": 6,
    "title_zh": "中国加入世界贸易组织",
@@ -9077,6 +9461,18 @@
    "file": "chinahistory15.json",
    "series": "chinahistory",
    "episode": 15,
+   "episode_count": 20
+  },
+  {
+   "id": "professions19",
+   "level": 6,
+   "title_zh": "快递员送货",
+   "title_en": "Jobs (19/20): A Courier on the Rounds",
+   "free": false,
+   "chars": 1160,
+   "file": "professions19.json",
+   "series": "professions",
+   "episode": 19,
    "episode_count": 20
   },
   {
@@ -9092,18 +9488,6 @@
    "episode_count": 20
   },
   {
-   "id": "aitopics08",
-   "level": 6,
-   "title_zh": "人工智能伦理讨论会",
-   "title_en": "Artificial Intelligence (8/20): A Debate on AI Ethics",
-   "free": false,
-   "chars": 1163,
-   "file": "aitopics08.json",
-   "series": "aitopics",
-   "episode": 8,
-   "episode_count": 20
-  },
-  {
    "id": "aitopics13",
    "level": 6,
    "title_zh": "智能客服",
@@ -9113,6 +9497,18 @@
    "file": "aitopics13.json",
    "series": "aitopics",
    "episode": 13,
+   "episode_count": 20
+  },
+  {
+   "id": "ports18",
+   "level": 6,
+   "title_zh": "哈利法港：阿布扎比的现代化港口",
+   "title_en": "China's Ports (18/20): Khalifa Port, Abu Dhabi's Modern Harbor",
+   "free": false,
+   "chars": 1165,
+   "file": "ports18.json",
+   "series": "ports",
+   "episode": 18,
    "episode_count": 20
   },
   {
@@ -9146,6 +9542,18 @@
    "file": "l6funnews4.json"
   },
   {
+   "id": "dramas19",
+   "level": 6,
+   "title_zh": "纪录片：云海翻涌的壮美山河",
+   "title_en": "Chinese TV Dramas (19/20): Documentaries, Majestic Landscapes and Seas of Clouds",
+   "free": false,
+   "chars": 1171,
+   "file": "dramas19.json",
+   "series": "dramas",
+   "episode": 19,
+   "episode_count": 20
+  },
+  {
    "id": "corporations13",
    "level": 6,
    "title_zh": "农夫山泉：大自然的搬运工",
@@ -9158,27 +9566,15 @@
    "episode_count": 20
   },
   {
-   "id": "aitopics05",
+   "id": "ports06",
    "level": 6,
-   "title_zh": "工厂里的机器人",
-   "title_en": "Artificial Intelligence (5/20): Robots in the Factory",
-   "free": false,
-   "chars": 1174,
-   "file": "aitopics05.json",
-   "series": "aitopics",
-   "episode": 5,
-   "episode_count": 20
-  },
-  {
-   "id": "aitopics14",
-   "level": 6,
-   "title_zh": "人工智能作曲",
-   "title_en": "Artificial Intelligence (14/20): A Melody Written by AI",
+   "title_zh": "天津港：中国北方第一大港",
+   "title_en": "China's Ports (6/20): Tianjin, Northern China's Largest Port",
    "free": false,
    "chars": 1175,
-   "file": "aitopics14.json",
-   "series": "aitopics",
-   "episode": 14,
+   "file": "ports06.json",
+   "series": "ports",
+   "episode": 6,
    "episode_count": 20
   },
   {
@@ -9206,6 +9602,18 @@
    "episode_count": 20
   },
   {
+   "id": "professions08",
+   "level": 6,
+   "title_zh": "农民的一年",
+   "title_en": "Jobs (8/20): A Farmer's Year",
+   "free": false,
+   "chars": 1179,
+   "file": "professions08.json",
+   "series": "professions",
+   "episode": 8,
+   "episode_count": 20
+  },
+  {
    "id": "l6analyst1",
    "level": 6,
    "title_zh": "经济学家如何看中国经济",
@@ -9215,15 +9623,15 @@
    "file": "l6analyst1.json"
   },
   {
-   "id": "dramas02",
+   "id": "celebrities09",
    "level": 6,
-   "title_zh": "都市爱情剧：屋顶上的夕阳",
-   "title_en": "Chinese TV Dramas (2/20): Sunset on the Rooftop",
+   "title_zh": "成龙：把功夫带到世界的电影明星",
+   "title_en": "Famous Chinese People (9/20): Jackie Chan, the Star Who Took Kung Fu to the World",
    "free": false,
-   "chars": 1182,
-   "file": "dramas02.json",
-   "series": "dramas",
-   "episode": 2,
+   "chars": 1181,
+   "file": "celebrities09.json",
+   "series": "celebrities",
+   "episode": 9,
    "episode_count": 20
   },
   {
@@ -9239,15 +9647,39 @@
    "episode_count": 20
   },
   {
-   "id": "professions20",
+   "id": "dramas15",
    "level": 6,
-   "title_zh": "导游带团",
-   "title_en": "Jobs (20/20): A Tour Guide and Her Group",
+   "title_zh": "职场剧：新人的办公室生活",
+   "title_en": "Chinese TV Dramas (15/20): Workplace Dramas, a Newcomer's Office Life",
+   "free": false,
+   "chars": 1183,
+   "file": "dramas15.json",
+   "series": "dramas",
+   "episode": 15,
+   "episode_count": 20
+  },
+  {
+   "id": "dramas14",
+   "level": 6,
+   "title_zh": "年代剧：八十年代的记忆",
+   "title_en": "Chinese TV Dramas (14/20): Period Dramas, Memories of the Eighties",
    "free": false,
    "chars": 1184,
-   "file": "professions20.json",
-   "series": "professions",
-   "episode": 20,
+   "file": "dramas14.json",
+   "series": "dramas",
+   "episode": 14,
+   "episode_count": 20
+  },
+  {
+   "id": "celebrities08",
+   "level": 6,
+   "title_zh": "莫言：获得诺贝尔文学奖的中国作家",
+   "title_en": "Famous Chinese People (8/20): Mo Yan, China's Nobel Prize-Winning Novelist",
+   "free": false,
+   "chars": 1184,
+   "file": "celebrities08.json",
+   "series": "celebrities",
+   "episode": 8,
    "episode_count": 20
   },
   {
@@ -9308,6 +9740,18 @@
    "file": "l6boat2.json"
   },
   {
+   "id": "dramas03",
+   "level": 6,
+   "title_zh": "刑侦剧：证据板前的较量",
+   "title_en": "Chinese TV Dramas (3/20): Showdown at the Evidence Board",
+   "free": false,
+   "chars": 1190,
+   "file": "dramas03.json",
+   "series": "dramas",
+   "episode": 3,
+   "episode_count": 20
+  },
+  {
    "id": "popsongs11",
    "level": 6,
    "title_zh": "张学友：被誉为「歌神」的香港传奇歌手",
@@ -9320,51 +9764,51 @@
    "episode_count": 20
   },
   {
-   "id": "celebrities10",
+   "id": "aitopics02",
    "level": 6,
-   "title_zh": "郎朗：用钢琴打动世界的音乐家",
-   "title_en": "Famous Chinese People (10/20): Lang Lang, the Pianist Who Moved the World",
-   "free": false,
-   "chars": 1192,
-   "file": "celebrities10.json",
-   "series": "celebrities",
-   "episode": 10,
-   "episode_count": 20
-  },
-  {
-   "id": "dramas09",
-   "level": 6,
-   "title_zh": "悬疑剧：昏暗房间里的秘密",
-   "title_en": "Chinese TV Dramas (9/20): Secrets in a Dim Room",
+   "title_zh": "无人驾驶汽车",
+   "title_en": "Artificial Intelligence (2/20): A Driverless Car in the City",
    "free": false,
    "chars": 1193,
-   "file": "dramas09.json",
-   "series": "dramas",
-   "episode": 9,
+   "file": "aitopics02.json",
+   "series": "aitopics",
+   "episode": 2,
    "episode_count": 20
   },
   {
-   "id": "professions07",
+   "id": "dramas04",
    "level": 6,
-   "title_zh": "程序员加班",
-   "title_en": "Jobs (7/20): A Programmer Against the Deadline",
+   "title_zh": "家庭剧：餐桌上的眼泪与和解",
+   "title_en": "Chinese TV Dramas (4/20): Tears and Reconciliation at the Dinner Table",
+   "free": false,
+   "chars": 1193,
+   "file": "dramas04.json",
+   "series": "dramas",
+   "episode": 4,
+   "episode_count": 20
+  },
+  {
+   "id": "celebrities06",
+   "level": 6,
+   "title_zh": "杨利伟：中国第一位航天员",
+   "title_en": "Famous Chinese People (6/20): Yang Liwei, China's First Astronaut",
    "free": false,
    "chars": 1195,
-   "file": "professions07.json",
-   "series": "professions",
-   "episode": 7,
+   "file": "celebrities06.json",
+   "series": "celebrities",
+   "episode": 6,
    "episode_count": 20
   },
   {
-   "id": "professions19",
+   "id": "ports10",
    "level": 6,
-   "title_zh": "快递员送货",
-   "title_en": "Jobs (19/20): A Courier on the Rounds",
+   "title_zh": "比雷埃夫斯港：中远入股的希腊古港",
+   "title_en": "China's Ports (10/20): Piraeus, the Ancient Greek Port Where COSCO Bought In",
    "free": false,
-   "chars": 1196,
-   "file": "professions19.json",
-   "series": "professions",
-   "episode": 19,
+   "chars": 1198,
+   "file": "ports10.json",
+   "series": "ports",
+   "episode": 10,
    "episode_count": 20
   },
   {
@@ -9392,27 +9836,15 @@
    "episode_count": 20
   },
   {
-   "id": "professions08",
+   "id": "celebrities13",
    "level": 6,
-   "title_zh": "农民的一年",
-   "title_en": "Jobs (8/20): A Farmer's Year",
-   "free": false,
-   "chars": 1202,
-   "file": "professions08.json",
-   "series": "professions",
-   "episode": 8,
-   "episode_count": 20
-  },
-  {
-   "id": "dramas18",
-   "level": 6,
-   "title_zh": "音乐选秀：舞台上的梦想",
-   "title_en": "Chinese TV Dramas (18/20): Music Talent Shows, Dreams on Stage",
+   "title_zh": "林丹：羽毛球历史上的「超级丹」",
+   "title_en": "Famous Chinese People (13/20): Lin Dan, Badminton's \"Super Dan\"",
    "free": false,
    "chars": 1205,
-   "file": "dramas18.json",
-   "series": "dramas",
-   "episode": 18,
+   "file": "celebrities13.json",
+   "series": "celebrities",
+   "episode": 13,
    "episode_count": 20
   },
   {
@@ -9428,6 +9860,18 @@
    "episode_count": 20
   },
   {
+   "id": "celebrities04",
+   "level": 6,
+   "title_zh": "李娜：第一位获得大满贯的亚洲球员",
+   "title_en": "Famous Chinese People (4/20): Li Na, Asia's First Grand Slam Champion",
+   "free": false,
+   "chars": 1206,
+   "file": "celebrities04.json",
+   "series": "celebrities",
+   "episode": 4,
+   "episode_count": 20
+  },
+  {
    "id": "eateries11",
    "level": 6,
    "title_zh": "海底捞",
@@ -9437,6 +9881,18 @@
    "file": "eateries11.json",
    "series": "eateries",
    "episode": 11,
+   "episode_count": 20
+  },
+  {
+   "id": "professions09",
+   "level": 6,
+   "title_zh": "护士的夜班",
+   "title_en": "Jobs (9/20): A Nurse's Night Shift",
+   "free": false,
+   "chars": 1207,
+   "file": "professions09.json",
+   "series": "professions",
+   "episode": 9,
    "episode_count": 20
   },
   {
@@ -9464,6 +9920,30 @@
    "episode_count": 20
   },
   {
+   "id": "humour05",
+   "level": 6,
+   "title_zh": "“买家秀”与“卖家秀”",
+   "title_en": "Chinese Humor (5/20): \"Buyer Show\" vs. \"Seller Show\"",
+   "free": false,
+   "chars": 1212,
+   "file": "humour05.json",
+   "series": "humour",
+   "episode": 5,
+   "episode_count": 20
+  },
+  {
+   "id": "dramas11",
+   "level": 6,
+   "title_zh": "医疗剧：手术台旁的生死时速",
+   "title_en": "Chinese TV Dramas (11/20): Racing Against Death at the Operating Table",
+   "free": false,
+   "chars": 1212,
+   "file": "dramas11.json",
+   "series": "dramas",
+   "episode": 11,
+   "episode_count": 20
+  },
+  {
    "id": "eateries18",
    "level": 6,
    "title_zh": "云林素食馆",
@@ -9488,15 +9968,15 @@
    "episode_count": 20
   },
   {
-   "id": "dramas12",
+   "id": "dramas10",
    "level": 6,
-   "title_zh": "仙侠剧：法袍飘飘的奇幻世界",
-   "title_en": "Chinese TV Dramas (12/20): Xianxia, Fantasy Worlds of Flowing Robes",
+   "title_zh": "军旅剧：训练场上的汗水",
+   "title_en": "Chinese TV Dramas (10/20): Sweat on the Training Ground",
    "free": false,
    "chars": 1213,
-   "file": "dramas12.json",
+   "file": "dramas10.json",
    "series": "dramas",
-   "episode": 12,
+   "episode": 10,
    "episode_count": 20
   },
   {
@@ -9512,18 +9992,6 @@
    "episode_count": 20
   },
   {
-   "id": "dramas13",
-   "level": 6,
-   "title_zh": "情景喜剧：客厅里的笑声",
-   "title_en": "Chinese TV Dramas (13/20): Sitcoms, Laughter in the Living Room",
-   "free": false,
-   "chars": 1215,
-   "file": "dramas13.json",
-   "series": "dramas",
-   "episode": 13,
-   "episode_count": 20
-  },
-  {
    "id": "popsongs13",
    "level": 6,
    "title_zh": "TFBOYS：中国人气最高的男孩组合",
@@ -9536,15 +10004,15 @@
    "episode_count": 20
   },
   {
-   "id": "dramas06",
+   "id": "dramas17",
    "level": 6,
-   "title_zh": "校园剧：穿校服的青春",
-   "title_en": "Chinese TV Dramas (6/20): Youth in School Uniforms",
+   "title_zh": "相亲真人秀：爱情的游戏",
+   "title_en": "Chinese TV Dramas (17/20): Dating Reality Shows, the Game of Love",
    "free": false,
-   "chars": 1216,
-   "file": "dramas06.json",
+   "chars": 1217,
+   "file": "dramas17.json",
    "series": "dramas",
-   "episode": 6,
+   "episode": 17,
    "episode_count": 20
   },
   {
@@ -9584,15 +10052,15 @@
    "episode_count": 20
   },
   {
-   "id": "humour04",
+   "id": "dramas07",
    "level": 6,
-   "title_zh": "健身房新手的尴尬",
-   "title_en": "Chinese Humor (4/20): A Gym Newbie's Embarrassment",
+   "title_zh": "职场商战剧：会议室里的较量",
+   "title_en": "Chinese TV Dramas (7/20): Showdown in the Conference Room",
    "free": false,
-   "chars": 1225,
-   "file": "humour04.json",
-   "series": "humour",
-   "episode": 4,
+   "chars": 1224,
+   "file": "dramas07.json",
+   "series": "dramas",
+   "episode": 7,
    "episode_count": 20
   },
   {
@@ -9632,18 +10100,6 @@
    "episode_count": 20
   },
   {
-   "id": "aitopics02",
-   "level": 6,
-   "title_zh": "无人驾驶汽车",
-   "title_en": "Artificial Intelligence (2/20): A Driverless Car in the City",
-   "free": false,
-   "chars": 1228,
-   "file": "aitopics02.json",
-   "series": "aitopics",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
    "id": "corporations03",
    "level": 6,
    "title_zh": "华为的创业故事",
@@ -9668,6 +10124,18 @@
    "episode_count": 20
   },
   {
+   "id": "professions05",
+   "level": 6,
+   "title_zh": "老师的课堂",
+   "title_en": "Jobs (5/20): A Teacher's Classroom",
+   "free": false,
+   "chars": 1233,
+   "file": "professions05.json",
+   "series": "professions",
+   "episode": 5,
+   "episode_count": 20
+  },
+  {
    "id": "corporations05",
    "level": 6,
    "title_zh": "字节跳动：算法改变内容世界",
@@ -9676,18 +10144,6 @@
    "chars": 1234,
    "file": "corporations05.json",
    "series": "corporations",
-   "episode": 5,
-   "episode_count": 20
-  },
-  {
-   "id": "celebrities05",
-   "level": 6,
-   "title_zh": "郎平：「铁榔头」的教练之路",
-   "title_en": "Famous Chinese People (5/20): Lang Ping, the Iron Hammer Turned Coach",
-   "free": false,
-   "chars": 1235,
-   "file": "celebrities05.json",
-   "series": "celebrities",
    "episode": 5,
    "episode_count": 20
   },
@@ -9704,30 +10160,6 @@
    "episode_count": 20
   },
   {
-   "id": "dramas03",
-   "level": 6,
-   "title_zh": "刑侦剧：证据板前的较量",
-   "title_en": "Chinese TV Dramas (3/20): Showdown at the Evidence Board",
-   "free": false,
-   "chars": 1238,
-   "file": "dramas03.json",
-   "series": "dramas",
-   "episode": 3,
-   "episode_count": 20
-  },
-  {
-   "id": "professions09",
-   "level": 6,
-   "title_zh": "护士的夜班",
-   "title_en": "Jobs (9/20): A Nurse's Night Shift",
-   "free": false,
-   "chars": 1238,
-   "file": "professions09.json",
-   "series": "professions",
-   "episode": 9,
-   "episode_count": 20
-  },
-  {
    "id": "corporations06",
    "level": 6,
    "title_zh": "比亚迪：从电池到电动汽车",
@@ -9740,15 +10172,15 @@
    "episode_count": 20
   },
   {
-   "id": "celebrities11",
+   "id": "professions06",
    "level": 6,
-   "title_zh": "刘洋：中国第一位女航天员",
-   "title_en": "Famous Chinese People (11/20): Liu Yang, China's First Woman in Space",
+   "title_zh": "律师的案子",
+   "title_en": "Jobs (6/20): A Case for the Lawyer",
    "free": false,
-   "chars": 1239,
-   "file": "celebrities11.json",
-   "series": "celebrities",
-   "episode": 11,
+   "chars": 1241,
+   "file": "professions06.json",
+   "series": "professions",
+   "episode": 6,
    "episode_count": 20
   },
   {
@@ -9764,75 +10196,51 @@
    "episode_count": 20
   },
   {
-   "id": "dramas15",
+   "id": "celebrities03",
    "level": 6,
-   "title_zh": "职场剧：新人的办公室生活",
-   "title_en": "Chinese TV Dramas (15/20): Workplace Dramas, a Newcomer's Office Life",
-   "free": false,
-   "chars": 1242,
-   "file": "dramas15.json",
-   "series": "dramas",
-   "episode": 15,
-   "episode_count": 20
-  },
-  {
-   "id": "dramas08",
-   "level": 6,
-   "title_zh": "农村剧：院子里的烟火气",
-   "title_en": "Chinese TV Dramas (8/20): Life in the Courtyard",
-   "free": false,
-   "chars": 1242,
-   "file": "dramas08.json",
-   "series": "dramas",
-   "episode": 8,
-   "episode_count": 20
-  },
-  {
-   "id": "dramas04",
-   "level": 6,
-   "title_zh": "家庭剧：餐桌上的眼泪与和解",
-   "title_en": "Chinese TV Dramas (4/20): Tears and Reconciliation at the Dinner Table",
+   "title_zh": "姚明：中国篮球的巨人",
+   "title_en": "Famous Chinese People (3/20): Yao Ming, China's Basketball Giant",
    "free": false,
    "chars": 1244,
-   "file": "dramas04.json",
-   "series": "dramas",
-   "episode": 4,
-   "episode_count": 20
-  },
-  {
-   "id": "celebrities14",
-   "level": 6,
-   "title_zh": "全红婵：十四岁的奥运冠军",
-   "title_en": "Famous Chinese People (14/20): Quan Hongchan, Olympic Champion at Fourteen",
-   "free": false,
-   "chars": 1244,
-   "file": "celebrities14.json",
+   "file": "celebrities03.json",
    "series": "celebrities",
-   "episode": 14,
+   "episode": 3,
    "episode_count": 20
   },
   {
-   "id": "ports05",
+   "id": "celebrities19",
    "level": 6,
-   "title_zh": "青岛港：黄海之滨的智慧港口",
-   "title_en": "China's Ports (5/20): Qingdao, the Smart Port on the Yellow Sea",
+   "title_zh": "刘翔：中国田径的「飞人」",
+   "title_en": "Famous Chinese People (19/20): Liu Xiang, China's \"Flying Man\" of Track and Field",
    "free": false,
    "chars": 1246,
-   "file": "ports05.json",
-   "series": "ports",
-   "episode": 5,
+   "file": "celebrities19.json",
+   "series": "celebrities",
+   "episode": 19,
    "episode_count": 20
   },
   {
-   "id": "dramas14",
+   "id": "destinations19",
    "level": 6,
-   "title_zh": "年代剧：八十年代的记忆",
-   "title_en": "Chinese TV Dramas (14/20): Period Dramas, Memories of the Eighties",
+   "title_zh": "黄果树瀑布:云雾中的层叠水幕",
+   "title_en": "Beautiful Places in China (19/20): Huangguoshu Waterfall, Curtains of Water in the Mist",
    "free": false,
-   "chars": 1246,
-   "file": "dramas14.json",
-   "series": "dramas",
-   "episode": 14,
+   "chars": 1248,
+   "file": "destinations19.json",
+   "series": "destinations",
+   "episode": 19,
+   "episode_count": 20
+  },
+  {
+   "id": "celebrities17",
+   "level": 6,
+   "title_zh": "陈景润：痴迷数学的「哥德巴赫猜想」研究者",
+   "title_en": "Famous Chinese People (17/20): Chen Jingrun, the Mathematician Obsessed with the Goldbach Conjecture",
+   "free": false,
+   "chars": 1251,
+   "file": "celebrities17.json",
+   "series": "celebrities",
+   "episode": 17,
    "episode_count": 20
   },
   {
@@ -9869,6 +10277,18 @@
    "file": "corporations09.json",
    "series": "corporations",
    "episode": 9,
+   "episode_count": 20
+  },
+  {
+   "id": "celebrities12",
+   "level": 6,
+   "title_zh": "丁俊晖：让斯诺克在中国流行起来的球员",
+   "title_en": "Famous Chinese People (12/20): Ding Junhui, the Player Who Made Snooker Popular in China",
+   "free": false,
+   "chars": 1254,
+   "file": "celebrities12.json",
+   "series": "celebrities",
+   "episode": 12,
    "episode_count": 20
   },
   {
@@ -9968,6 +10388,18 @@
    "episode_count": 20
   },
   {
+   "id": "humour20",
+   "level": 6,
+   "title_zh": "咖啡馆里的“相亲”",
+   "title_en": "Chinese Humor (20/20): A Blind Date at the Coffee Shop",
+   "free": false,
+   "chars": 1261,
+   "file": "humour20.json",
+   "series": "humour",
+   "episode": 20,
+   "episode_count": 20
+  },
+  {
    "id": "humour03",
    "level": 6,
    "title_zh": "家庭群聊记",
@@ -9992,15 +10424,39 @@
    "episode_count": 20
   },
   {
-   "id": "professions06",
+   "id": "professions03",
    "level": 6,
-   "title_zh": "律师的案子",
-   "title_en": "Jobs (6/20): A Case for the Lawyer",
+   "title_zh": "厨师的厨房",
+   "title_en": "Jobs (3/20): In the Chef's Kitchen",
    "free": false,
    "chars": 1265,
-   "file": "professions06.json",
+   "file": "professions03.json",
    "series": "professions",
-   "episode": 6,
+   "episode": 3,
+   "episode_count": 20
+  },
+  {
+   "id": "celebrities18",
+   "level": 6,
+   "title_zh": "巩俐：华语影坛最具影响力的女演员",
+   "title_en": "Famous Chinese People (18/20): Gong Li, the Most Influential Actress in Chinese Cinema",
+   "free": false,
+   "chars": 1266,
+   "file": "celebrities18.json",
+   "series": "celebrities",
+   "episode": 18,
+   "episode_count": 20
+  },
+  {
+   "id": "celebrities07",
+   "level": 6,
+   "title_zh": "钟南山：敢医敢言的「国士」",
+   "title_en": "Famous Chinese People (7/20): Zhong Nanshan, the Doctor Who Dared to Speak",
+   "free": false,
+   "chars": 1266,
+   "file": "celebrities07.json",
+   "series": "celebrities",
+   "episode": 7,
    "episode_count": 20
   },
   {
@@ -10028,18 +10484,6 @@
    "episode_count": 20
   },
   {
-   "id": "dramas11",
-   "level": 6,
-   "title_zh": "医疗剧：手术台旁的生死时速",
-   "title_en": "Chinese TV Dramas (11/20): Racing Against Death at the Operating Table",
-   "free": false,
-   "chars": 1271,
-   "file": "dramas11.json",
-   "series": "dramas",
-   "episode": 11,
-   "episode_count": 20
-  },
-  {
    "id": "eateries14",
    "level": 6,
    "title_zh": "珍宝海鲜舫",
@@ -10049,18 +10493,6 @@
    "file": "eateries14.json",
    "series": "eateries",
    "episode": 14,
-   "episode_count": 20
-  },
-  {
-   "id": "humour05",
-   "level": 6,
-   "title_zh": "“买家秀”与“卖家秀”",
-   "title_en": "Chinese Humor (5/20): \"Buyer Show\" vs. \"Seller Show\"",
-   "free": false,
-   "chars": 1272,
-   "file": "humour05.json",
-   "series": "humour",
-   "episode": 5,
    "episode_count": 20
   },
   {
@@ -10076,27 +10508,51 @@
    "episode_count": 20
   },
   {
-   "id": "celebrities09",
+   "id": "dramas05",
    "level": 6,
-   "title_zh": "成龙：把功夫带到世界的电影明星",
-   "title_en": "Famous Chinese People (9/20): Jackie Chan, the Star Who Took Kung Fu to the World",
+   "title_zh": "宫斗剧：宫殿里的较量",
+   "title_en": "Chinese TV Dramas (5/20): Battles Inside the Palace",
    "free": false,
-   "chars": 1276,
-   "file": "celebrities09.json",
-   "series": "celebrities",
-   "episode": 9,
+   "chars": 1275,
+   "file": "dramas05.json",
+   "series": "dramas",
+   "episode": 5,
    "episode_count": 20
   },
   {
-   "id": "professions03",
+   "id": "celebrities15",
    "level": 6,
-   "title_zh": "厨师的厨房",
-   "title_en": "Jobs (3/20): In the Chef's Kitchen",
+   "title_zh": "马龙：乒乓球历史上的「大满贯」选手",
+   "title_en": "Famous Chinese People (15/20): Ma Long, Table Tennis's \"Grand Slam\" Champion",
    "free": false,
-   "chars": 1276,
-   "file": "professions03.json",
-   "series": "professions",
-   "episode": 3,
+   "chars": 1283,
+   "file": "celebrities15.json",
+   "series": "celebrities",
+   "episode": 15,
+   "episode_count": 20
+  },
+  {
+   "id": "ports20",
+   "level": 6,
+   "title_zh": "港口的世界：全球贸易的海上网络",
+   "title_en": "China's Ports (20/20): A World of Ports, the Sea Network of Global Trade",
+   "free": false,
+   "chars": 1284,
+   "file": "ports20.json",
+   "series": "ports",
+   "episode": 20,
+   "episode_count": 20
+  },
+  {
+   "id": "destinations20",
+   "level": 6,
+   "title_zh": "喀纳斯湖:秋色中的碧蓝湖水",
+   "title_en": "Beautiful Places in China (20/20): Kanas Lake, Blue Water in Autumn Colors",
+   "free": false,
+   "chars": 1285,
+   "file": "destinations20.json",
+   "series": "destinations",
+   "episode": 20,
    "episode_count": 20
   },
   {
@@ -10112,27 +10568,15 @@
    "episode_count": 20
   },
   {
-   "id": "celebrities06",
+   "id": "celebrities20",
    "level": 6,
-   "title_zh": "杨利伟：中国第一位航天员",
-   "title_en": "Famous Chinese People (6/20): Yang Liwei, China's First Astronaut",
+   "title_zh": "邓亚萍：从赛场走向国际体育舞台",
+   "title_en": "Famous Chinese People (20/20): Deng Yaping, from the Court to the World Sports Stage",
    "free": false,
-   "chars": 1286,
-   "file": "celebrities06.json",
+   "chars": 1285,
+   "file": "celebrities20.json",
    "series": "celebrities",
-   "episode": 6,
-   "episode_count": 20
-  },
-  {
-   "id": "celebrities08",
-   "level": 6,
-   "title_zh": "莫言：获得诺贝尔文学奖的中国作家",
-   "title_en": "Famous Chinese People (8/20): Mo Yan, China's Nobel Prize-Winning Novelist",
-   "free": false,
-   "chars": 1287,
-   "file": "celebrities08.json",
-   "series": "celebrities",
-   "episode": 8,
+   "episode": 20,
    "episode_count": 20
   },
   {
@@ -10148,18 +10592,6 @@
    "episode_count": 20
   },
   {
-   "id": "dramas17",
-   "level": 6,
-   "title_zh": "相亲真人秀：爱情的游戏",
-   "title_en": "Chinese TV Dramas (17/20): Dating Reality Shows, the Game of Love",
-   "free": false,
-   "chars": 1290,
-   "file": "dramas17.json",
-   "series": "dramas",
-   "episode": 17,
-   "episode_count": 20
-  },
-  {
    "id": "popsongs05",
    "level": 6,
    "title_zh": "蔡依林：华语乐坛的舞台女王",
@@ -10172,39 +10604,27 @@
    "episode_count": 20
   },
   {
-   "id": "dramas19",
+   "id": "popsongs06",
    "level": 6,
-   "title_zh": "纪录片：云海翻涌的壮美山河",
-   "title_en": "Chinese TV Dramas (19/20): Documentaries, Majestic Landscapes and Seas of Clouds",
+   "title_zh": "陈绮贞：台湾独立音乐的温柔声音",
+   "title_en": "Chinese Pop Songs (6/20): Cheer Chen, the Gentle Voice of Taiwanese Indie",
    "free": false,
-   "chars": 1295,
-   "file": "dramas19.json",
-   "series": "dramas",
-   "episode": 19,
+   "chars": 1296,
+   "file": "popsongs06.json",
+   "series": "popsongs",
+   "episode": 6,
    "episode_count": 20
   },
   {
-   "id": "celebrities13",
+   "id": "destinations06",
    "level": 6,
-   "title_zh": "林丹：羽毛球历史上的「超级丹」",
-   "title_en": "Famous Chinese People (13/20): Lin Dan, Badminton's \"Super Dan\"",
+   "title_zh": "黄山:云海中的奇松怪石",
+   "title_en": "Beautiful Places in China (6/20): Huangshan, Strange Pines and Rocks in a Sea of Clouds",
    "free": false,
-   "chars": 1295,
-   "file": "celebrities13.json",
-   "series": "celebrities",
-   "episode": 13,
-   "episode_count": 20
-  },
-  {
-   "id": "professions05",
-   "level": 6,
-   "title_zh": "老师的课堂",
-   "title_en": "Jobs (5/20): A Teacher's Classroom",
-   "free": false,
-   "chars": 1300,
-   "file": "professions05.json",
-   "series": "professions",
-   "episode": 5,
+   "chars": 1298,
+   "file": "destinations06.json",
+   "series": "destinations",
+   "episode": 6,
    "episode_count": 20
   },
   {
@@ -10217,30 +10637,6 @@
    "file": "eateries09.json",
    "series": "eateries",
    "episode": 9,
-   "episode_count": 20
-  },
-  {
-   "id": "dramas10",
-   "level": 6,
-   "title_zh": "军旅剧：训练场上的汗水",
-   "title_en": "Chinese TV Dramas (10/20): Sweat on the Training Ground",
-   "free": false,
-   "chars": 1303,
-   "file": "dramas10.json",
-   "series": "dramas",
-   "episode": 10,
-   "episode_count": 20
-  },
-  {
-   "id": "celebrities04",
-   "level": 6,
-   "title_zh": "李娜：第一位获得大满贯的亚洲球员",
-   "title_en": "Famous Chinese People (4/20): Li Na, Asia's First Grand Slam Champion",
-   "free": false,
-   "chars": 1305,
-   "file": "celebrities04.json",
-   "series": "celebrities",
-   "episode": 4,
    "episode_count": 20
   },
   {
@@ -10268,15 +10664,27 @@
    "episode_count": 20
   },
   {
-   "id": "eateries20",
+   "id": "dramas16",
    "level": 6,
-   "title_zh": "新派融合餐厅",
-   "title_en": "Famous Restaurants (20/20): A Modern Chinese-Western Fusion Restaurant",
+   "title_zh": "偶像剧：咖啡馆里的浪漫邂逅",
+   "title_en": "Chinese TV Dramas (16/20): Idol Dramas, a Romantic Encounter in a Café",
    "free": false,
-   "chars": 1310,
-   "file": "eateries20.json",
-   "series": "eateries",
-   "episode": 20,
+   "chars": 1307,
+   "file": "dramas16.json",
+   "series": "dramas",
+   "episode": 16,
+   "episode_count": 20
+  },
+  {
+   "id": "celebrities16",
+   "level": 6,
+   "title_zh": "钱学森：中国航天之父",
+   "title_en": "Famous Chinese People (16/20): Qian Xuesen, Father of China's Space Program",
+   "free": false,
+   "chars": 1311,
+   "file": "celebrities16.json",
+   "series": "celebrities",
+   "episode": 16,
    "episode_count": 20
   },
   {
@@ -10289,18 +10697,6 @@
    "file": "humour06.json",
    "series": "humour",
    "episode": 6,
-   "episode_count": 20
-  },
-  {
-   "id": "dramas07",
-   "level": 6,
-   "title_zh": "职场商战剧：会议室里的较量",
-   "title_en": "Chinese TV Dramas (7/20): Showdown in the Conference Room",
-   "free": false,
-   "chars": 1313,
-   "file": "dramas07.json",
-   "series": "dramas",
-   "episode": 7,
    "episode_count": 20
   },
   {
@@ -10340,18 +10736,6 @@
    "episode_count": 20
   },
   {
-   "id": "dramas05",
-   "level": 6,
-   "title_zh": "宫斗剧：宫殿里的较量",
-   "title_en": "Chinese TV Dramas (5/20): Battles Inside the Palace",
-   "free": false,
-   "chars": 1326,
-   "file": "dramas05.json",
-   "series": "dramas",
-   "episode": 5,
-   "episode_count": 20
-  },
-  {
    "id": "corporations17",
    "level": 6,
    "title_zh": "顺丰：摩托车上的快递帝国",
@@ -10364,15 +10748,15 @@
    "episode_count": 20
   },
   {
-   "id": "popsongs06",
+   "id": "destinations08",
    "level": 6,
-   "title_zh": "陈绮贞：台湾独立音乐的温柔声音",
-   "title_en": "Chinese Pop Songs (6/20): Cheer Chen, the Gentle Voice of Taiwanese Indie",
+   "title_zh": "故宫:红墙黄瓦间的六百年",
+   "title_en": "Beautiful Places in China (8/20): The Forbidden City, Six Centuries of Red Walls and Yellow Tiles",
    "free": false,
    "chars": 1329,
-   "file": "popsongs06.json",
-   "series": "popsongs",
-   "episode": 6,
+   "file": "destinations08.json",
+   "series": "destinations",
+   "episode": 8,
    "episode_count": 20
   },
   {
@@ -10400,15 +10784,27 @@
    "episode_count": 20
   },
   {
-   "id": "humour20",
+   "id": "destinations16",
    "level": 6,
-   "title_zh": "咖啡馆里的“相亲”",
-   "title_en": "Chinese Humor (20/20): A Blind Date at the Coffee Shop",
+   "title_zh": "三亚:椰林边的热带海滩",
+   "title_en": "Beautiful Places in China (16/20): Sanya, Tropical Beaches Under the Coconut Palms",
    "free": false,
-   "chars": 1332,
-   "file": "humour20.json",
-   "series": "humour",
-   "episode": 20,
+   "chars": 1333,
+   "file": "destinations16.json",
+   "series": "destinations",
+   "episode": 16,
+   "episode_count": 20
+  },
+  {
+   "id": "destinations07",
+   "level": 6,
+   "title_zh": "西湖:柳树下的游船",
+   "title_en": "Beautiful Places in China (7/20): West Lake, Boats Beneath the Willows",
+   "free": false,
+   "chars": 1334,
+   "file": "destinations07.json",
+   "series": "destinations",
+   "episode": 7,
    "episode_count": 20
   },
   {
@@ -10424,6 +10820,30 @@
    "episode_count": 20
   },
   {
+   "id": "professions04",
+   "level": 6,
+   "title_zh": "消防员出警",
+   "title_en": "Jobs (4/20): Firefighters on a Call",
+   "free": false,
+   "chars": 1340,
+   "file": "professions04.json",
+   "series": "professions",
+   "episode": 4,
+   "episode_count": 20
+  },
+  {
+   "id": "construction17",
+   "level": 6,
+   "title_zh": "核电站",
+   "title_en": "Wonders of Chinese Engineering (17/20): A Nuclear Power Plant on the Coast",
+   "free": false,
+   "chars": 1340,
+   "file": "construction17.json",
+   "series": "construction",
+   "episode": 17,
+   "episode_count": 20
+  },
+  {
    "id": "popsongs16",
    "level": 6,
    "title_zh": "李宇春：从选秀舞台走出的华语歌手",
@@ -10436,39 +10856,15 @@
    "episode_count": 20
   },
   {
-   "id": "celebrities03",
+   "id": "futurevisions02",
    "level": 6,
-   "title_zh": "姚明：中国篮球的巨人",
-   "title_en": "Famous Chinese People (3/20): Yao Ming, China's Basketball Giant",
-   "free": false,
-   "chars": 1343,
-   "file": "celebrities03.json",
-   "series": "celebrities",
-   "episode": 3,
-   "episode_count": 20
-  },
-  {
-   "id": "destinations19",
-   "level": 6,
-   "title_zh": "黄果树瀑布:云雾中的层叠水幕",
-   "title_en": "Beautiful Places in China (19/20): Huangguoshu Waterfall, Curtains of Water in the Mist",
+   "title_zh": "西方极乐世界",
+   "title_en": "Visions of the Future (2/20): The Western Pure Land",
    "free": false,
    "chars": 1344,
-   "file": "destinations19.json",
-   "series": "destinations",
-   "episode": 19,
-   "episode_count": 20
-  },
-  {
-   "id": "celebrities12",
-   "level": 6,
-   "title_zh": "丁俊晖：让斯诺克在中国流行起来的球员",
-   "title_en": "Famous Chinese People (12/20): Ding Junhui, the Player Who Made Snooker Popular in China",
-   "free": false,
-   "chars": 1344,
-   "file": "celebrities12.json",
-   "series": "celebrities",
-   "episode": 12,
+   "file": "futurevisions02.json",
+   "series": "futurevisions",
+   "episode": 2,
    "episode_count": 20
   },
   {
@@ -10484,18 +10880,6 @@
    "episode_count": 20
   },
   {
-   "id": "celebrities19",
-   "level": 6,
-   "title_zh": "刘翔：中国田径的「飞人」",
-   "title_en": "Famous Chinese People (19/20): Liu Xiang, China's \"Flying Man\" of Track and Field",
-   "free": false,
-   "chars": 1349,
-   "file": "celebrities19.json",
-   "series": "celebrities",
-   "episode": 19,
-   "episode_count": 20
-  },
-  {
    "id": "chinahistory12",
    "level": 6,
    "title_zh": "辛亥革命与清朝的终结",
@@ -10505,30 +10889,6 @@
    "file": "chinahistory12.json",
    "series": "chinahistory",
    "episode": 12,
-   "episode_count": 20
-  },
-  {
-   "id": "ports03",
-   "level": 6,
-   "title_zh": "深圳港：珠江口的自动化码头",
-   "title_en": "China's Ports (3/20): Shenzhen, the Automated Port on the Pearl River Estuary",
-   "free": false,
-   "chars": 1352,
-   "file": "ports03.json",
-   "series": "ports",
-   "episode": 3,
-   "episode_count": 20
-  },
-  {
-   "id": "celebrities17",
-   "level": 6,
-   "title_zh": "陈景润：痴迷数学的「哥德巴赫猜想」研究者",
-   "title_en": "Famous Chinese People (17/20): Chen Jingrun, the Mathematician Obsessed with the Goldbach Conjecture",
-   "free": false,
-   "chars": 1354,
-   "file": "celebrities17.json",
-   "series": "celebrities",
-   "episode": 17,
    "episode_count": 20
   },
   {
@@ -10556,78 +10916,6 @@
    "episode_count": 20
   },
   {
-   "id": "celebrities07",
-   "level": 6,
-   "title_zh": "钟南山：敢医敢言的「国士」",
-   "title_en": "Famous Chinese People (7/20): Zhong Nanshan, the Doctor Who Dared to Speak",
-   "free": false,
-   "chars": 1361,
-   "file": "celebrities07.json",
-   "series": "celebrities",
-   "episode": 7,
-   "episode_count": 20
-  },
-  {
-   "id": "ports02",
-   "level": 6,
-   "title_zh": "宁波舟山港：货物吞吐量世界第一",
-   "title_en": "China's Ports (2/20): Ningbo-Zhoushan, the World's Busiest Cargo Port",
-   "free": false,
-   "chars": 1362,
-   "file": "ports02.json",
-   "series": "ports",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
-   "id": "celebrities18",
-   "level": 6,
-   "title_zh": "巩俐：华语影坛最具影响力的女演员",
-   "title_en": "Famous Chinese People (18/20): Gong Li, the Most Influential Actress in Chinese Cinema",
-   "free": false,
-   "chars": 1363,
-   "file": "celebrities18.json",
-   "series": "celebrities",
-   "episode": 18,
-   "episode_count": 20
-  },
-  {
-   "id": "celebrities15",
-   "level": 6,
-   "title_zh": "马龙：乒乓球历史上的「大满贯」选手",
-   "title_en": "Famous Chinese People (15/20): Ma Long, Table Tennis's \"Grand Slam\" Champion",
-   "free": false,
-   "chars": 1370,
-   "file": "celebrities15.json",
-   "series": "celebrities",
-   "episode": 15,
-   "episode_count": 20
-  },
-  {
-   "id": "professions04",
-   "level": 6,
-   "title_zh": "消防员出警",
-   "title_en": "Jobs (4/20): Firefighters on a Call",
-   "free": false,
-   "chars": 1372,
-   "file": "professions04.json",
-   "series": "professions",
-   "episode": 4,
-   "episode_count": 20
-  },
-  {
-   "id": "destinations20",
-   "level": 6,
-   "title_zh": "喀纳斯湖:秋色中的碧蓝湖水",
-   "title_en": "Beautiful Places in China (20/20): Kanas Lake, Blue Water in Autumn Colors",
-   "free": false,
-   "chars": 1376,
-   "file": "destinations20.json",
-   "series": "destinations",
-   "episode": 20,
-   "episode_count": 20
-  },
-  {
    "id": "corporations19",
    "level": 6,
    "title_zh": "TCL：从磁带工厂到科技集团",
@@ -10640,27 +10928,15 @@
    "episode_count": 20
   },
   {
-   "id": "dramas16",
+   "id": "construction03",
    "level": 6,
-   "title_zh": "偶像剧：咖啡馆里的浪漫邂逅",
-   "title_en": "Chinese TV Dramas (16/20): Idol Dramas, a Romantic Encounter in a Café",
+   "title_zh": "北京大兴国际机场",
+   "title_en": "Wonders of Chinese Engineering (3/20): Beijing Daxing International Airport",
    "free": false,
-   "chars": 1385,
-   "file": "dramas16.json",
-   "series": "dramas",
-   "episode": 16,
-   "episode_count": 20
-  },
-  {
-   "id": "celebrities20",
-   "level": 6,
-   "title_zh": "邓亚萍：从赛场走向国际体育舞台",
-   "title_en": "Famous Chinese People (20/20): Deng Yaping, from the Court to the World Sports Stage",
-   "free": false,
-   "chars": 1391,
-   "file": "celebrities20.json",
-   "series": "celebrities",
-   "episode": 20,
+   "chars": 1386,
+   "file": "construction03.json",
+   "series": "construction",
+   "episode": 3,
    "episode_count": 20
   },
   {
@@ -10688,15 +10964,15 @@
    "episode_count": 20
   },
   {
-   "id": "destinations06",
+   "id": "construction18",
    "level": 6,
-   "title_zh": "黄山:云海中的奇松怪石",
-   "title_en": "Beautiful Places in China (6/20): Huangshan, Strange Pines and Rocks in a Sea of Clouds",
+   "title_zh": "地铁隧道施工",
+   "title_en": "Wonders of Chinese Engineering (18/20): Digging a Subway Tunnel",
    "free": false,
-   "chars": 1414,
-   "file": "destinations06.json",
-   "series": "destinations",
-   "episode": 6,
+   "chars": 1410,
+   "file": "construction18.json",
+   "series": "construction",
+   "episode": 18,
    "episode_count": 20
   },
   {
@@ -10724,27 +11000,15 @@
    "episode_count": 20
   },
   {
-   "id": "celebrities16",
+   "id": "destinations02",
    "level": 6,
-   "title_zh": "钱学森：中国航天之父",
-   "title_en": "Famous Chinese People (16/20): Qian Xuesen, Father of China's Space Program",
+   "title_zh": "桂林:漓江边的晨曦",
+   "title_en": "Beautiful Places in China (2/20): Guilin, Dawn on the Li River",
    "free": false,
-   "chars": 1421,
-   "file": "celebrities16.json",
-   "series": "celebrities",
-   "episode": 16,
-   "episode_count": 20
-  },
-  {
-   "id": "ports13",
-   "level": 6,
-   "title_zh": "吉布提港：红海门户上的战略港口",
-   "title_en": "China's Ports (13/20): Djibouti, the Strategic Port at the Gate of the Red Sea",
-   "free": false,
-   "chars": 1423,
-   "file": "ports13.json",
-   "series": "ports",
-   "episode": 13,
+   "chars": 1422,
+   "file": "destinations02.json",
+   "series": "destinations",
+   "episode": 2,
    "episode_count": 20
   },
   {
@@ -10760,63 +11024,39 @@
    "episode_count": 20
   },
   {
-   "id": "ports11",
+   "id": "destinations03",
    "level": 6,
-   "title_zh": "瓜达尔港：中巴经济走廊的深水港",
-   "title_en": "China's Ports (11/20): Gwadar, the Deepwater Port of the China-Pakistan Economic Corridor",
+   "title_zh": "九寨沟:彩色的湖水",
+   "title_en": "Beautiful Places in China (3/20): Jiuzhaigou, Lakes of Many Colors",
    "free": false,
-   "chars": 1430,
-   "file": "ports11.json",
-   "series": "ports",
-   "episode": 11,
-   "episode_count": 20
-  },
-  {
-   "id": "destinations08",
-   "level": 6,
-   "title_zh": "故宫:红墙黄瓦间的六百年",
-   "title_en": "Beautiful Places in China (8/20): The Forbidden City, Six Centuries of Red Walls and Yellow Tiles",
-   "free": false,
-   "chars": 1431,
-   "file": "destinations08.json",
+   "chars": 1427,
+   "file": "destinations03.json",
    "series": "destinations",
-   "episode": 8,
+   "episode": 3,
    "episode_count": 20
   },
   {
-   "id": "futurevisions02",
+   "id": "construction20",
    "level": 6,
-   "title_zh": "西方极乐世界",
-   "title_en": "Visions of the Future (2/20): The Western Pure Land",
+   "title_zh": "自动化集装箱码头",
+   "title_en": "Wonders of Chinese Engineering (20/20): An Automated Container Terminal",
    "free": false,
-   "chars": 1432,
-   "file": "futurevisions02.json",
-   "series": "futurevisions",
-   "episode": 2,
+   "chars": 1427,
+   "file": "construction20.json",
+   "series": "construction",
+   "episode": 20,
    "episode_count": 20
   },
   {
-   "id": "destinations16",
+   "id": "construction16",
    "level": 6,
-   "title_zh": "三亚:椰林边的热带海滩",
-   "title_en": "Beautiful Places in China (16/20): Sanya, Tropical Beaches Under the Coconut Palms",
+   "title_zh": "海上风电场",
+   "title_en": "Wonders of Chinese Engineering (16/20): Offshore Wind Farms",
    "free": false,
-   "chars": 1433,
-   "file": "destinations16.json",
-   "series": "destinations",
+   "chars": 1428,
+   "file": "construction16.json",
+   "series": "construction",
    "episode": 16,
-   "episode_count": 20
-  },
-  {
-   "id": "ports04",
-   "level": 6,
-   "title_zh": "广州港：千年商都的海上门户",
-   "title_en": "China's Ports (4/20): Guangzhou, Sea Gateway of a Thousand-Year-Old Trading City",
-   "free": false,
-   "chars": 1433,
-   "file": "ports04.json",
-   "series": "ports",
-   "episode": 4,
    "episode_count": 20
   },
   {
@@ -10832,18 +11072,6 @@
    "episode_count": 20
   },
   {
-   "id": "destinations07",
-   "level": 6,
-   "title_zh": "西湖:柳树下的游船",
-   "title_en": "Beautiful Places in China (7/20): West Lake, Boats Beneath the Willows",
-   "free": false,
-   "chars": 1435,
-   "file": "destinations07.json",
-   "series": "destinations",
-   "episode": 7,
-   "episode_count": 20
-  },
-  {
    "id": "chinahistory09",
    "level": 6,
    "title_zh": "活字印刷术",
@@ -10856,15 +11084,39 @@
    "episode_count": 20
   },
   {
-   "id": "construction03",
+   "id": "destinations04",
    "level": 6,
-   "title_zh": "北京大兴国际机场",
-   "title_en": "Wonders of Chinese Engineering (3/20): Beijing Daxing International Airport",
+   "title_zh": "丽江古城:灯笼下的黄昏",
+   "title_en": "Beautiful Places in China (4/20): Lijiang Old Town, Dusk Under the Lanterns",
    "free": false,
-   "chars": 1446,
-   "file": "construction03.json",
+   "chars": 1441,
+   "file": "destinations04.json",
+   "series": "destinations",
+   "episode": 4,
+   "episode_count": 20
+  },
+  {
+   "id": "destinations05",
+   "level": 6,
+   "title_zh": "布达拉宫:雪域圣殿",
+   "title_en": "Beautiful Places in China (5/20): The Potala Palace, Sacred Hall of the Land of Snows",
+   "free": false,
+   "chars": 1441,
+   "file": "destinations05.json",
+   "series": "destinations",
+   "episode": 5,
+   "episode_count": 20
+  },
+  {
+   "id": "construction02",
+   "level": 6,
+   "title_zh": "港珠澳大桥",
+   "title_en": "Wonders of Chinese Engineering (2/20): The Hong Kong–Zhuhai–Macao Bridge",
+   "free": false,
+   "chars": 1449,
+   "file": "construction02.json",
    "series": "construction",
-   "episode": 3,
+   "episode": 2,
    "episode_count": 20
   },
   {
@@ -10880,6 +11132,30 @@
    "episode_count": 20
   },
   {
+   "id": "dramas20",
+   "level": 6,
+   "title_zh": "网络剧：片场里的杀青时刻",
+   "title_en": "Chinese TV Dramas (20/20): Web Series, Wrapping Up on Set",
+   "free": false,
+   "chars": 1455,
+   "file": "dramas20.json",
+   "series": "dramas",
+   "episode": 20,
+   "episode_count": 20
+  },
+  {
+   "id": "destinations15",
+   "level": 6,
+   "title_zh": "成都大熊猫基地:竹林里的笨拙身影",
+   "title_en": "Beautiful Places in China (15/20): Chengdu's Panda Base, Clumsy Figures in the Bamboo",
+   "free": false,
+   "chars": 1456,
+   "file": "destinations15.json",
+   "series": "destinations",
+   "episode": 15,
+   "episode_count": 20
+  },
+  {
    "id": "chinahistory06",
    "level": 6,
    "title_zh": "蔡伦与造纸术",
@@ -10892,15 +11168,39 @@
    "episode_count": 20
   },
   {
-   "id": "construction17",
+   "id": "construction04",
    "level": 6,
-   "title_zh": "核电站",
-   "title_en": "Wonders of Chinese Engineering (17/20): A Nuclear Power Plant on the Coast",
+   "title_zh": "上海中心大厦",
+   "title_en": "Wonders of Chinese Engineering (4/20): The Shanghai Tower",
    "free": false,
-   "chars": 1459,
-   "file": "construction17.json",
+   "chars": 1457,
+   "file": "construction04.json",
    "series": "construction",
-   "episode": 17,
+   "episode": 4,
+   "episode_count": 20
+  },
+  {
+   "id": "construction19",
+   "level": 6,
+   "title_zh": "白鹤滩水电站",
+   "title_en": "Wonders of Chinese Engineering (19/20): The Baihetan Hydropower Station",
+   "free": false,
+   "chars": 1463,
+   "file": "construction19.json",
+   "series": "construction",
+   "episode": 19,
+   "episode_count": 20
+  },
+  {
+   "id": "construction07",
+   "level": 6,
+   "title_zh": "平塘大桥",
+   "title_en": "Wonders of Chinese Engineering (7/20): The Pingtang Bridge",
+   "free": false,
+   "chars": 1466,
+   "file": "construction07.json",
+   "series": "construction",
+   "episode": 7,
    "episode_count": 20
   },
   {
@@ -10916,30 +11216,6 @@
    "episode_count": 20
   },
   {
-   "id": "ports12",
-   "level": 6,
-   "title_zh": "汉班托塔港：斯里兰卡的租赁港口",
-   "title_en": "China's Ports (12/20): Hambantota, Sri Lanka's Leased Port",
-   "free": false,
-   "chars": 1478,
-   "file": "ports12.json",
-   "series": "ports",
-   "episode": 12,
-   "episode_count": 20
-  },
-  {
-   "id": "ports09",
-   "level": 6,
-   "title_zh": "香港港：曾经的世界第一大港",
-   "title_en": "China's Ports (9/20): Hong Kong, Once the World's Busiest Port",
-   "free": false,
-   "chars": 1479,
-   "file": "ports09.json",
-   "series": "ports",
-   "episode": 9,
-   "episode_count": 20
-  },
-  {
    "id": "chinahistory07",
    "level": 6,
    "title_zh": "唐朝的盛世",
@@ -10952,98 +11228,134 @@
    "episode_count": 20
   },
   {
-   "id": "ports08",
+   "id": "construction06",
    "level": 6,
-   "title_zh": "大连港：中国东北的不冻港",
-   "title_en": "China's Ports (8/20): Dalian, the Northeast's Ice-Free Port",
+   "title_zh": "南水北调工程",
+   "title_en": "Wonders of Chinese Engineering (6/20): The South–North Water Transfer Project",
    "free": false,
-   "chars": 1483,
-   "file": "ports08.json",
-   "series": "ports",
-   "episode": 8,
-   "episode_count": 20
-  },
-  {
-   "id": "ports06",
-   "level": 6,
-   "title_zh": "天津港：中国北方第一大港",
-   "title_en": "China's Ports (6/20): Tianjin, Northern China's Largest Port",
-   "free": false,
-   "chars": 1492,
-   "file": "ports06.json",
-   "series": "ports",
+   "chars": 1481,
+   "file": "construction06.json",
+   "series": "construction",
    "episode": 6,
    "episode_count": 20
   },
   {
-   "id": "destinations05",
+   "id": "destinations09",
    "level": 6,
-   "title_zh": "布达拉宫:雪域圣殿",
-   "title_en": "Beautiful Places in China (5/20): The Potala Palace, Sacred Hall of the Land of Snows",
+   "title_zh": "莫高窟:沙漠中的佛教艺术宝库",
+   "title_en": "Beautiful Places in China (9/20): The Mogao Caves, a Treasure House of Buddhist Art in the Desert",
    "free": false,
-   "chars": 1503,
-   "file": "destinations05.json",
+   "chars": 1492,
+   "file": "destinations09.json",
    "series": "destinations",
-   "episode": 5,
+   "episode": 9,
    "episode_count": 20
   },
   {
-   "id": "ports07",
+   "id": "construction15",
    "level": 6,
-   "title_zh": "厦门港：海峡两岸的重要口岸",
-   "title_en": "China's Ports (7/20): Xiamen, a Key Port Facing the Taiwan Strait",
+   "title_zh": "川藏铁路",
+   "title_en": "Wonders of Chinese Engineering (15/20): The Sichuan–Tibet Railway",
    "free": false,
-   "chars": 1504,
-   "file": "ports07.json",
-   "series": "ports",
-   "episode": 7,
-   "episode_count": 20
-  },
-  {
-   "id": "destinations03",
-   "level": 6,
-   "title_zh": "九寨沟:彩色的湖水",
-   "title_en": "Beautiful Places in China (3/20): Jiuzhaigou, Lakes of Many Colors",
-   "free": false,
-   "chars": 1505,
-   "file": "destinations03.json",
-   "series": "destinations",
-   "episode": 3,
-   "episode_count": 20
-  },
-  {
-   "id": "ports15",
-   "level": 6,
-   "title_zh": "莱基港：西非第一座深水港",
-   "title_en": "China's Ports (15/20): Lekki, West Africa's First Deepwater Port",
-   "free": false,
-   "chars": 1527,
-   "file": "ports15.json",
-   "series": "ports",
+   "chars": 1494,
+   "file": "construction15.json",
+   "series": "construction",
    "episode": 15,
    "episode_count": 20
   },
   {
-   "id": "construction18",
+   "id": "construction13",
    "level": 6,
-   "title_zh": "地铁隧道施工",
-   "title_en": "Wonders of Chinese Engineering (18/20): Digging a Subway Tunnel",
+   "title_zh": "平安金融中心",
+   "title_en": "Wonders of Chinese Engineering (13/20): The Ping An Finance Center",
    "free": false,
-   "chars": 1527,
-   "file": "construction18.json",
+   "chars": 1507,
+   "file": "construction13.json",
    "series": "construction",
-   "episode": 18,
+   "episode": 13,
    "episode_count": 20
   },
   {
-   "id": "destinations02",
+   "id": "futurevisions07",
    "level": 6,
-   "title_zh": "桂林:漓江边的晨曦",
-   "title_en": "Beautiful Places in China (2/20): Guilin, Dawn on the Li River",
+   "title_zh": "明信片上的2000年",
+   "title_en": "Visions of the Future (7/20): The Year 2000 on a Postcard",
    "free": false,
-   "chars": 1532,
-   "file": "destinations02.json",
+   "chars": 1516,
+   "file": "futurevisions07.json",
+   "series": "futurevisions",
+   "episode": 7,
+   "episode_count": 20
+  },
+  {
+   "id": "construction14",
+   "level": 6,
+   "title_zh": "高铁列车组装工厂",
+   "title_en": "Wonders of Chinese Engineering (14/20): The High-Speed Train Factory",
+   "free": false,
+   "chars": 1526,
+   "file": "construction14.json",
+   "series": "construction",
+   "episode": 14,
+   "episode_count": 20
+  },
+  {
+   "id": "destinations13",
+   "level": 6,
+   "title_zh": "华山:悬崖上的栈道",
+   "title_en": "Beautiful Places in China (13/20): Mount Hua's Cliffside Plank Walks",
+   "free": false,
+   "chars": 1527,
+   "file": "destinations13.json",
    "series": "destinations",
+   "episode": 13,
+   "episode_count": 20
+  },
+  {
+   "id": "destinations14",
+   "level": 6,
+   "title_zh": "阳朔:竹筏上的田园风光",
+   "title_en": "Beautiful Places in China (14/20): Yangshuo, Countryside from a Bamboo Raft",
+   "free": false,
+   "chars": 1531,
+   "file": "destinations14.json",
+   "series": "destinations",
+   "episode": 14,
+   "episode_count": 20
+  },
+  {
+   "id": "futurevisions06",
+   "level": 6,
+   "title_zh": "凡尔纳的幻想机器",
+   "title_en": "Visions of the Future (6/20): Jules Verne's Fantastic Machines",
+   "free": false,
+   "chars": 1533,
+   "file": "futurevisions06.json",
+   "series": "futurevisions",
+   "episode": 6,
+   "episode_count": 20
+  },
+  {
+   "id": "futurevisions09",
+   "level": 6,
+   "title_zh": "回顾未来",
+   "title_en": "Visions of the Future (9/20): Looking Backward at the Future",
+   "free": false,
+   "chars": 1535,
+   "file": "futurevisions09.json",
+   "series": "futurevisions",
+   "episode": 9,
+   "episode_count": 20
+  },
+  {
+   "id": "celebrities02",
+   "level": 6,
+   "title_zh": "屠呦呦与青蒿素",
+   "title_en": "Famous Chinese People (2/20): Tu Youyou and Artemisinin",
+   "free": false,
+   "chars": 1536,
+   "file": "celebrities02.json",
+   "series": "celebrities",
    "episode": 2,
    "episode_count": 20
   },
@@ -11060,87 +11372,51 @@
    "episode_count": 20
   },
   {
-   "id": "dramas20",
+   "id": "construction08",
    "level": 6,
-   "title_zh": "网络剧：片场里的杀青时刻",
-   "title_en": "Chinese TV Dramas (20/20): Web Series, Wrapping Up on Set",
+   "title_zh": "杭州湾跨海大桥",
+   "title_en": "Wonders of Chinese Engineering (8/20): The Hangzhou Bay Bridge",
    "free": false,
-   "chars": 1540,
-   "file": "dramas20.json",
-   "series": "dramas",
-   "episode": 20,
+   "chars": 1547,
+   "file": "construction08.json",
+   "series": "construction",
+   "episode": 8,
    "episode_count": 20
   },
   {
-   "id": "destinations15",
+   "id": "destinations18",
    "level": 6,
-   "title_zh": "成都大熊猫基地:竹林里的笨拙身影",
-   "title_en": "Beautiful Places in China (15/20): Chengdu's Panda Base, Clumsy Figures in the Bamboo",
+   "title_zh": "香格里拉:雪山下的梯田与村落",
+   "title_en": "Beautiful Places in China (18/20): Shangri-La, Terraced Fields and Villages Below the Snow Peaks",
    "free": false,
-   "chars": 1541,
-   "file": "destinations15.json",
+   "chars": 1552,
+   "file": "destinations18.json",
    "series": "destinations",
-   "episode": 15,
+   "episode": 18,
    "episode_count": 20
   },
   {
-   "id": "construction20",
+   "id": "construction05",
    "level": 6,
-   "title_zh": "自动化集装箱码头",
-   "title_en": "Wonders of Chinese Engineering (20/20): An Automated Container Terminal",
+   "title_zh": "中国天眼",
+   "title_en": "Wonders of Chinese Engineering (5/20): The China Sky Eye (FAST)",
    "free": false,
-   "chars": 1551,
-   "file": "construction20.json",
+   "chars": 1560,
+   "file": "construction05.json",
    "series": "construction",
-   "episode": 20,
+   "episode": 5,
    "episode_count": 20
   },
   {
-   "id": "construction02",
+   "id": "construction12",
    "level": 6,
-   "title_zh": "港珠澳大桥",
-   "title_en": "Wonders of Chinese Engineering (2/20): The Hong Kong–Zhuhai–Macao Bridge",
+   "title_zh": "广州塔",
+   "title_en": "Wonders of Chinese Engineering (12/20): The Canton Tower",
    "free": false,
-   "chars": 1557,
-   "file": "construction02.json",
+   "chars": 1561,
+   "file": "construction12.json",
    "series": "construction",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
-   "id": "destinations04",
-   "level": 6,
-   "title_zh": "丽江古城:灯笼下的黄昏",
-   "title_en": "Beautiful Places in China (4/20): Lijiang Old Town, Dusk Under the Lanterns",
-   "free": false,
-   "chars": 1562,
-   "file": "destinations04.json",
-   "series": "destinations",
-   "episode": 4,
-   "episode_count": 20
-  },
-  {
-   "id": "construction16",
-   "level": 6,
-   "title_zh": "海上风电场",
-   "title_en": "Wonders of Chinese Engineering (16/20): Offshore Wind Farms",
-   "free": false,
-   "chars": 1567,
-   "file": "construction16.json",
-   "series": "construction",
-   "episode": 16,
-   "episode_count": 20
-  },
-  {
-   "id": "construction04",
-   "level": 6,
-   "title_zh": "上海中心大厦",
-   "title_en": "Wonders of Chinese Engineering (4/20): The Shanghai Tower",
-   "free": false,
-   "chars": 1567,
-   "file": "construction04.json",
-   "series": "construction",
-   "episode": 4,
+   "episode": 12,
    "episode_count": 20
   },
   {
@@ -11153,6 +11429,30 @@
    "file": "chinahistory05.json",
    "series": "chinahistory",
    "episode": 5,
+   "episode_count": 20
+  },
+  {
+   "id": "futurevisions03",
+   "level": 6,
+   "title_zh": "最后的审判",
+   "title_en": "Visions of the Future (3/20): The Last Judgment",
+   "free": false,
+   "chars": 1568,
+   "file": "futurevisions03.json",
+   "series": "futurevisions",
+   "episode": 3,
+   "episode_count": 20
+  },
+  {
+   "id": "futurevisions04",
+   "level": 6,
+   "title_zh": "通往来世之路",
+   "title_en": "Visions of the Future (4/20): The Road to the Afterlife",
+   "free": false,
+   "chars": 1568,
+   "file": "futurevisions04.json",
+   "series": "futurevisions",
+   "episode": 4,
    "episode_count": 20
   },
   {
@@ -11173,334 +11473,10 @@
    "title_zh": "丹戎不碌港：印尼最繁忙的港口",
    "title_en": "China's Ports (16/20): Tanjung Priok, Indonesia's Busiest Port",
    "free": false,
-   "chars": 1572,
+   "chars": 1573,
    "file": "ports16.json",
    "series": "ports",
    "episode": 16,
-   "episode_count": 20
-  },
-  {
-   "id": "ports10",
-   "level": 6,
-   "title_zh": "比雷埃夫斯港：中远入股的希腊古港",
-   "title_en": "China's Ports (10/20): Piraeus, the Ancient Greek Port Where COSCO Bought In",
-   "free": false,
-   "chars": 1573,
-   "file": "ports10.json",
-   "series": "ports",
-   "episode": 10,
-   "episode_count": 20
-  },
-  {
-   "id": "futurevisions07",
-   "level": 6,
-   "title_zh": "明信片上的2000年",
-   "title_en": "Visions of the Future (7/20): The Year 2000 on a Postcard",
-   "free": false,
-   "chars": 1586,
-   "file": "futurevisions07.json",
-   "series": "futurevisions",
-   "episode": 7,
-   "episode_count": 20
-  },
-  {
-   "id": "ports17",
-   "level": 6,
-   "title_zh": "杜库姆港：阿拉伯海畔的新兴港口",
-   "title_en": "China's Ports (17/20): Duqm, a Rising Port on the Arabian Sea",
-   "free": false,
-   "chars": 1591,
-   "file": "ports17.json",
-   "series": "ports",
-   "episode": 17,
-   "episode_count": 20
-  },
-  {
-   "id": "destinations09",
-   "level": 6,
-   "title_zh": "莫高窟:沙漠中的佛教艺术宝库",
-   "title_en": "Beautiful Places in China (9/20): The Mogao Caves, a Treasure House of Buddhist Art in the Desert",
-   "free": false,
-   "chars": 1592,
-   "file": "destinations09.json",
-   "series": "destinations",
-   "episode": 9,
-   "episode_count": 20
-  },
-  {
-   "id": "construction06",
-   "level": 6,
-   "title_zh": "南水北调工程",
-   "title_en": "Wonders of Chinese Engineering (6/20): The South–North Water Transfer Project",
-   "free": false,
-   "chars": 1597,
-   "file": "construction06.json",
-   "series": "construction",
-   "episode": 6,
-   "episode_count": 20
-  },
-  {
-   "id": "construction07",
-   "level": 6,
-   "title_zh": "平塘大桥",
-   "title_en": "Wonders of Chinese Engineering (7/20): The Pingtang Bridge",
-   "free": false,
-   "chars": 1597,
-   "file": "construction07.json",
-   "series": "construction",
-   "episode": 7,
-   "episode_count": 20
-  },
-  {
-   "id": "construction19",
-   "level": 6,
-   "title_zh": "白鹤滩水电站",
-   "title_en": "Wonders of Chinese Engineering (19/20): The Baihetan Hydropower Station",
-   "free": false,
-   "chars": 1598,
-   "file": "construction19.json",
-   "series": "construction",
-   "episode": 19,
-   "episode_count": 20
-  },
-  {
-   "id": "futurevisions09",
-   "level": 6,
-   "title_zh": "回顾未来",
-   "title_en": "Visions of the Future (9/20): Looking Backward at the Future",
-   "free": false,
-   "chars": 1605,
-   "file": "futurevisions09.json",
-   "series": "futurevisions",
-   "episode": 9,
-   "episode_count": 20
-  },
-  {
-   "id": "futurevisions06",
-   "level": 6,
-   "title_zh": "凡尔纳的幻想机器",
-   "title_en": "Visions of the Future (6/20): Jules Verne's Fantastic Machines",
-   "free": false,
-   "chars": 1606,
-   "file": "futurevisions06.json",
-   "series": "futurevisions",
-   "episode": 6,
-   "episode_count": 20
-  },
-  {
-   "id": "destinations14",
-   "level": 6,
-   "title_zh": "阳朔:竹筏上的田园风光",
-   "title_en": "Beautiful Places in China (14/20): Yangshuo, Countryside from a Bamboo Raft",
-   "free": false,
-   "chars": 1619,
-   "file": "destinations14.json",
-   "series": "destinations",
-   "episode": 14,
-   "episode_count": 20
-  },
-  {
-   "id": "construction15",
-   "level": 6,
-   "title_zh": "川藏铁路",
-   "title_en": "Wonders of Chinese Engineering (15/20): The Sichuan–Tibet Railway",
-   "free": false,
-   "chars": 1620,
-   "file": "construction15.json",
-   "series": "construction",
-   "episode": 15,
-   "episode_count": 20
-  },
-  {
-   "id": "destinations13",
-   "level": 6,
-   "title_zh": "华山:悬崖上的栈道",
-   "title_en": "Beautiful Places in China (13/20): Mount Hua's Cliffside Plank Walks",
-   "free": false,
-   "chars": 1621,
-   "file": "destinations13.json",
-   "series": "destinations",
-   "episode": 13,
-   "episode_count": 20
-  },
-  {
-   "id": "ports19",
-   "level": 6,
-   "title_zh": "钱凯港：连接南美与亚洲的新港口",
-   "title_en": "China's Ports (19/20): Chancay, a New Port Linking South America and Asia",
-   "free": false,
-   "chars": 1627,
-   "file": "ports19.json",
-   "series": "ports",
-   "episode": 19,
-   "episode_count": 20
-  },
-  {
-   "id": "construction13",
-   "level": 6,
-   "title_zh": "平安金融中心",
-   "title_en": "Wonders of Chinese Engineering (13/20): The Ping An Finance Center",
-   "free": false,
-   "chars": 1634,
-   "file": "construction13.json",
-   "series": "construction",
-   "episode": 13,
-   "episode_count": 20
-  },
-  {
-   "id": "ports18",
-   "level": 6,
-   "title_zh": "哈利法港：阿布扎比的现代化港口",
-   "title_en": "China's Ports (18/20): Khalifa Port, Abu Dhabi's Modern Harbor",
-   "free": false,
-   "chars": 1637,
-   "file": "ports18.json",
-   "series": "ports",
-   "episode": 18,
-   "episode_count": 20
-  },
-  {
-   "id": "celebrities02",
-   "level": 6,
-   "title_zh": "屠呦呦与青蒿素",
-   "title_en": "Famous Chinese People (2/20): Tu Youyou and Artemisinin",
-   "free": false,
-   "chars": 1651,
-   "file": "celebrities02.json",
-   "series": "celebrities",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
-   "id": "destinations18",
-   "level": 6,
-   "title_zh": "香格里拉:雪山下的梯田与村落",
-   "title_en": "Beautiful Places in China (18/20): Shangri-La, Terraced Fields and Villages Below the Snow Peaks",
-   "free": false,
-   "chars": 1653,
-   "file": "destinations18.json",
-   "series": "destinations",
-   "episode": 18,
-   "episode_count": 20
-  },
-  {
-   "id": "futurevisions04",
-   "level": 6,
-   "title_zh": "通往来世之路",
-   "title_en": "Visions of the Future (4/20): The Road to the Afterlife",
-   "free": false,
-   "chars": 1653,
-   "file": "futurevisions04.json",
-   "series": "futurevisions",
-   "episode": 4,
-   "episode_count": 20
-  },
-  {
-   "id": "construction14",
-   "level": 6,
-   "title_zh": "高铁列车组装工厂",
-   "title_en": "Wonders of Chinese Engineering (14/20): The High-Speed Train Factory",
-   "free": false,
-   "chars": 1657,
-   "file": "construction14.json",
-   "series": "construction",
-   "episode": 14,
-   "episode_count": 20
-  },
-  {
-   "id": "futurevisions03",
-   "level": 6,
-   "title_zh": "最后的审判",
-   "title_en": "Visions of the Future (3/20): The Last Judgment",
-   "free": false,
-   "chars": 1658,
-   "file": "futurevisions03.json",
-   "series": "futurevisions",
-   "episode": 3,
-   "episode_count": 20
-  },
-  {
-   "id": "ports14",
-   "level": 6,
-   "title_zh": "科伦坡港：南亚重要的转运枢纽",
-   "title_en": "China's Ports (14/20): Colombo, South Asia's Key Transshipment Hub",
-   "free": false,
-   "chars": 1663,
-   "file": "ports14.json",
-   "series": "ports",
-   "episode": 14,
-   "episode_count": 20
-  },
-  {
-   "id": "construction05",
-   "level": 6,
-   "title_zh": "中国天眼",
-   "title_en": "Wonders of Chinese Engineering (5/20): The China Sky Eye (FAST)",
-   "free": false,
-   "chars": 1674,
-   "file": "construction05.json",
-   "series": "construction",
-   "episode": 5,
-   "episode_count": 20
-  },
-  {
-   "id": "construction08",
-   "level": 6,
-   "title_zh": "杭州湾跨海大桥",
-   "title_en": "Wonders of Chinese Engineering (8/20): The Hangzhou Bay Bridge",
-   "free": false,
-   "chars": 1680,
-   "file": "construction08.json",
-   "series": "construction",
-   "episode": 8,
-   "episode_count": 20
-  },
-  {
-   "id": "futurevisions12",
-   "level": 6,
-   "title_zh": "月球城市之梦",
-   "title_en": "Visions of the Future (12/20): Dreams of Cities on the Moon",
-   "free": false,
-   "chars": 1681,
-   "file": "futurevisions12.json",
-   "series": "futurevisions",
-   "episode": 12,
-   "episode_count": 20
-  },
-  {
-   "id": "futurevisions05",
-   "level": 6,
-   "title_zh": "诸神的黄昏",
-   "title_en": "Visions of the Future (5/20): Twilight of the Gods",
-   "free": false,
-   "chars": 1683,
-   "file": "futurevisions05.json",
-   "series": "futurevisions",
-   "episode": 5,
-   "episode_count": 20
-  },
-  {
-   "id": "futurevisions08",
-   "level": 6,
-   "title_zh": "威尔斯的时间机器",
-   "title_en": "Visions of the Future (8/20): H. G. Wells's Time Machine",
-   "free": false,
-   "chars": 1690,
-   "file": "futurevisions08.json",
-   "series": "futurevisions",
-   "episode": 8,
-   "episode_count": 20
-  },
-  {
-   "id": "construction12",
-   "level": 6,
-   "title_zh": "广州塔",
-   "title_en": "Wonders of Chinese Engineering (12/20): The Canton Tower",
-   "free": false,
-   "chars": 1698,
-   "file": "construction12.json",
-   "series": "construction",
-   "episode": 12,
    "episode_count": 20
   },
   {
@@ -11509,7 +11485,7 @@
    "title_zh": "青藏铁路",
    "title_en": "Wonders of Chinese Engineering (10/20): The Qinghai–Tibet Railway",
    "free": false,
-   "chars": 1717,
+   "chars": 1593,
    "file": "construction10.json",
    "series": "construction",
    "episode": 10,
@@ -11521,10 +11497,46 @@
    "title_zh": "京沪高速铁路",
    "title_en": "Wonders of Chinese Engineering (9/20): The Beijing–Shanghai High-Speed Railway",
    "free": false,
-   "chars": 1720,
+   "chars": 1596,
    "file": "construction09.json",
    "series": "construction",
    "episode": 9,
+   "episode_count": 20
+  },
+  {
+   "id": "futurevisions05",
+   "level": 6,
+   "title_zh": "诸神的黄昏",
+   "title_en": "Visions of the Future (5/20): Twilight of the Gods",
+   "free": false,
+   "chars": 1598,
+   "file": "futurevisions05.json",
+   "series": "futurevisions",
+   "episode": 5,
+   "episode_count": 20
+  },
+  {
+   "id": "futurevisions12",
+   "level": 6,
+   "title_zh": "月球城市之梦",
+   "title_en": "Visions of the Future (12/20): Dreams of Cities on the Moon",
+   "free": false,
+   "chars": 1600,
+   "file": "futurevisions12.json",
+   "series": "futurevisions",
+   "episode": 12,
+   "episode_count": 20
+  },
+  {
+   "id": "futurevisions08",
+   "level": 6,
+   "title_zh": "威尔斯的时间机器",
+   "title_en": "Visions of the Future (8/20): H. G. Wells's Time Machine",
+   "free": false,
+   "chars": 1617,
+   "file": "futurevisions08.json",
+   "series": "futurevisions",
+   "episode": 8,
    "episode_count": 20
   },
   {
@@ -11533,9 +11545,21 @@
    "title_zh": "兵马俑:地下的千军万马",
    "title_en": "Beautiful Places in China (11/20): The Terracotta Army, an Underground Host",
    "free": false,
-   "chars": 1729,
+   "chars": 1637,
    "file": "destinations11.json",
    "series": "destinations",
+   "episode": 11,
+   "episode_count": 20
+  },
+  {
+   "id": "construction11",
+   "level": 6,
+   "title_zh": "大连湾海底隧道",
+   "title_en": "Wonders of Chinese Engineering (11/20): The Dalian Bay Undersea Tunnel",
+   "free": false,
+   "chars": 1642,
+   "file": "construction11.json",
+   "series": "construction",
    "episode": 11,
    "episode_count": 20
   },
@@ -11545,21 +11569,9 @@
    "title_zh": "长城:山脊上的徒步路线",
    "title_en": "Beautiful Places in China (10/20): Hiking the Great Wall's Ridgelines",
    "free": false,
-   "chars": 1744,
+   "chars": 1644,
    "file": "destinations10.json",
    "series": "destinations",
-   "episode": 10,
-   "episode_count": 20
-  },
-  {
-   "id": "futurevisions10",
-   "level": 6,
-   "title_zh": "维多利亚时代的飞行马车",
-   "title_en": "Visions of the Future (10/20): Victorian Dreams of Flying Carriages",
-   "free": false,
-   "chars": 1750,
-   "file": "futurevisions10.json",
-   "series": "futurevisions",
    "episode": 10,
    "episode_count": 20
   },
@@ -11569,7 +11581,7 @@
    "title_zh": "张掖丹霞:大地上的彩虹",
    "title_en": "Beautiful Places in China (17/20): Zhangye Danxia, a Rainbow Across the Land",
    "free": false,
-   "chars": 1754,
+   "chars": 1644,
    "file": "destinations17.json",
    "series": "destinations",
    "episode": 17,
@@ -11581,34 +11593,22 @@
    "title_zh": "苏州园林:移步换景的诗意空间",
    "title_en": "Beautiful Places in China (12/20): The Gardens of Suzhou, a Scene at Every Step",
    "free": false,
-   "chars": 1769,
+   "chars": 1655,
    "file": "destinations12.json",
    "series": "destinations",
    "episode": 12,
    "episode_count": 20
   },
   {
-   "id": "construction11",
+   "id": "futurevisions10",
    "level": 6,
-   "title_zh": "大连湾海底隧道",
-   "title_en": "Wonders of Chinese Engineering (11/20): The Dalian Bay Undersea Tunnel",
+   "title_zh": "维多利亚时代的飞行马车",
+   "title_en": "Visions of the Future (10/20): Victorian Dreams of Flying Carriages",
    "free": false,
-   "chars": 1786,
-   "file": "construction11.json",
-   "series": "construction",
-   "episode": 11,
-   "episode_count": 20
-  },
-  {
-   "id": "ports20",
-   "level": 6,
-   "title_zh": "港口的世界：全球贸易的海上网络",
-   "title_en": "China's Ports (20/20): A World of Ports, the Sea Network of Global Trade",
-   "free": false,
-   "chars": 1818,
-   "file": "ports20.json",
-   "series": "ports",
-   "episode": 20,
+   "chars": 1680,
+   "file": "futurevisions10.json",
+   "series": "futurevisions",
+   "episode": 10,
    "episode_count": 20
   },
   {
@@ -11617,7 +11617,7 @@
    "title_zh": "后院里的防核掩体",
    "title_en": "Visions of the Future (14/20): Fallout Shelters in the Backyard",
    "free": false,
-   "chars": 1850,
+   "chars": 1769,
    "file": "futurevisions14.json",
    "series": "futurevisions",
    "episode": 14,
@@ -11629,7 +11629,7 @@
    "title_zh": "飞行汽车与穹顶之城",
    "title_en": "Visions of the Future (13/20): Flying Cars and Domed Cities",
    "free": false,
-   "chars": 1951,
+   "chars": 1861,
    "file": "futurevisions13.json",
    "series": "futurevisions",
    "episode": 13,
@@ -11641,7 +11641,7 @@
    "title_zh": "原子能的乐观年代",
    "title_en": "Visions of the Future (11/20): The Optimism of the Atomic Age",
    "free": false,
-   "chars": 1997,
+   "chars": 1901,
    "file": "futurevisions11.json",
    "series": "futurevisions",
    "episode": 11,
@@ -11653,7 +11653,7 @@
    "title_zh": "通往火星的现实之路",
    "title_en": "Visions of the Future (18/20): The Real Road to Mars",
    "free": false,
-   "chars": 2027,
+   "chars": 1934,
    "file": "futurevisions18.json",
    "series": "futurevisions",
    "episode": 18,
@@ -11665,7 +11665,7 @@
    "title_zh": "绿色城市与废墟世界",
    "title_en": "Visions of the Future (17/20): Green Cities and Ruined Worlds",
    "free": false,
-   "chars": 2102,
+   "chars": 2002,
    "file": "futurevisions17.json",
    "series": "futurevisions",
    "episode": 17,
@@ -11677,7 +11677,7 @@
    "title_zh": "智慧城市：理想与现实",
    "title_en": "Visions of the Future (19/20): Smart Cities, Ideal and Reality",
    "free": false,
-   "chars": 2140,
+   "chars": 2052,
    "file": "futurevisions19.json",
    "series": "futurevisions",
    "episode": 19,
@@ -11689,7 +11689,7 @@
    "title_zh": "家用机器人的梦想",
    "title_en": "Visions of the Future (15/20): Dreams of a Robot Maid",
    "free": false,
-   "chars": 2280,
+   "chars": 2190,
    "file": "futurevisions15.json",
    "series": "futurevisions",
    "episode": 15,
@@ -11701,7 +11701,7 @@
    "title_zh": "人工智能与工作的未来",
    "title_en": "Visions of the Future (16/20): AI and the Future of Work",
    "free": false,
-   "chars": 2360,
+   "chars": 2264,
    "file": "futurevisions16.json",
    "series": "futurevisions",
    "episode": 16,
@@ -11713,7 +11713,7 @@
    "title_zh": "从仙丹到基因编辑",
    "title_en": "Visions of the Future (20/20): From Elixirs to Gene Editing",
    "free": false,
-   "chars": 2408,
+   "chars": 2320,
    "file": "futurevisions20.json",
    "series": "futurevisions",
    "episode": 20,
