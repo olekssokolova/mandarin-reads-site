@@ -1,56 +1,274 @@
 {
  "id": "reconcile_informal5",
  "level": 5,
- "title_zh": "门缝下的纸条",
- "title_en": "The Note Under the Door",
+ "title_zh": "冰箱上的白板",
+ "title_en": "The Whiteboard on the Fridge",
  "free": false,
  "audio_url": null,
- "note_en": "The particle 着 after a verb shows that an action is ongoing or its result remains: 上面写着“我错了，别生气啦” \"on it was written 'I was wrong, don't be mad'\" (the words are there and stay there); 我拿着手机 \"I'm holding my phone\"; 哥哥靠着墙站着 \"my brother was standing leaning against the wall.\" 着 often describes a background state against which the main action happens: 总是笑着说 \"always said, laughing.\"",
+ "note_en": "The particle 着 after a verb shows that an action is ongoing or its result remains: 上面写着我们俩的名字 \"our two names are written on it\" (the writing is there and stays); 拿着记号笔指着我的名字 \"holding the marker, she pointed at my name\"; 妹妹靠着墙站着 \"my sister stood leaning against the wall.\" 着 often sets the background for the main action: 她低着头问 \"she asked, head down.\"",
  "sentences": [
   {
-   "en": "Last night my brother and I had a fight over whose turn it was to do the dishes.",
+   "en": "On our fridge hangs a little whiteboard with both our names written on it.",
    "phrases": [
     {
-     "en": "Last night my brother and I had a fight over whose turn it was to do the dishes.",
+     "en": "On our fridge hangs a little whiteboard with both our names written on it.",
      "words": [
       {
-       "h": "昨天",
-       "py": "zuótiān",
-       "gl": "yesterday",
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
        "pos": "n."
       },
       {
-       "h": "晚上",
-       "py": "wǎnshàng",
-       "gl": "evening",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "冰箱",
+       "py": "bīngxiāng",
+       "gl": "refrigerator; fridge",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "挂",
+       "py": "guà",
+       "gl": "hang",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "一块",
+       "py": "yīkuài",
+       "gl": "a piece of; one (measure word for chunks, plots, pieces)",
+       "pos": "measure word"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "白板",
+       "py": "báibǎn",
+       "gl": "whiteboard",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "跟",
-       "py": "gēn",
-       "gl": "with; together with",
-       "pos": "prep."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "哥",
-       "py": "gē",
-       "gl": "older brother; bro",
+       "h": "上面",
+       "py": "shàngmiàn",
+       "gl": "on top; on the surface; above",
        "pos": "n."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "我们俩",
+       "py": "wǒmenliǎ",
+       "gl": "the two of us; we both",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "名字",
+       "py": "míngzì",
+       "gl": "name",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It's the dishwashing rota: Monday me, Tuesday her, and it's been that way for six years.",
+   "phrases": [
+    {
+     "en": "It's the dishwashing rota: Monday me, Tuesday her, and it's been that way for six years.",
+     "words": [
+      {
+       "h": "这是",
+       "py": "zhèshì",
+       "gl": "this is",
+       "pos": "phrase"
+      },
+      {
+       "h": "洗碗表",
+       "py": "xǐwǎnbiǎo",
+       "gl": "dishwashing rota",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "星期一",
+       "py": "xīngqīyī",
+       "gl": "Monday",
+       "pos": "n."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "星期二",
+       "py": "xīngqīèr",
+       "gl": "Tuesday",
+       "pos": "n."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就这样",
+       "py": "jiùzhèyàng",
+       "gl": "just like that; in this way",
+       "pos": "adv."
+      },
+      {
+       "h": "排",
+       "py": "pái",
+       "gl": "line up; arrange in a row (排队 wait in line)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "六",
+       "py": "liù",
+       "gl": "six",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The week before I left for university, we had a fight over one bowl.",
+   "phrases": [
+    {
+     "en": "The week before I left for university, we had a fight over one bowl.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "大学",
+       "py": "dàxué",
+       "gl": "university; college",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
       },
       {
        "h": "为了",
@@ -59,28 +277,16 @@
        "pos": "prep."
       },
       {
-       "h": "谁",
-       "py": "shuí",
-       "gl": "who; anyone; everyone",
-       "pos": "pron."
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "洗",
-       "py": "xǐ",
-       "gl": "wash",
-       "pos": "v."
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
       },
       {
        "h": "碗",
        "py": "wǎn",
        "gl": "bowl (also measure word)",
-       "pos": "measure word"
+       "pos": "n."
       },
       {
        "h": "吵",
@@ -114,55 +320,43 @@
    ]
   },
   {
-   "en": "It started as just a couple of words, then got nastier and nastier, and in the end we both slammed our doors and weren't speaking.",
+   "en": "It was her turn, but she said the rota was wrong and, holding the marker, pointed at my name.",
    "phrases": [
     {
-     "en": "It started as just a couple of words, then got nastier and nastier,",
+     "en": "It was her turn, but she said the rota was wrong and, holding the marker, pointed at my name.",
      "words": [
       {
-       "h": "一开始",
-       "py": "yīkāishǐ",
-       "gl": "at first; in the beginning",
-       "pos": "adv."
-      },
-      {
-       "h": "只是",
-       "py": "zhǐshì",
-       "gl": "just; merely; only",
-       "pos": "adv."
-      },
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "句",
-       "py": "jù",
-       "gl": "measure word for sentences and remarks",
-       "pos": "measure word"
-      },
-      {
-       "h": "话",
-       "py": "huà",
-       "gl": "words; speech; what someone says",
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
        "pos": "n."
+      },
+      {
+       "h": "轮到",
+       "py": "lúndào",
+       "gl": "be someone's turn",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
        "h": "，"
       },
       {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "adv."
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
       },
       {
-       "h": "越",
-       "py": "yuè",
-       "gl": "the more … (越…越… the more … the more …)",
-       "pos": "adv."
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
        "h": "说",
@@ -171,59 +365,15 @@
        "pos": "v."
       },
       {
-       "h": "越",
-       "py": "yuè",
-       "gl": "the more … (越…越… the more … the more …)",
-       "pos": "adv."
-      },
-      {
-       "h": "凶",
-       "py": "xiōng",
-       "gl": "fierce; heated; harsh",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and in the end we both slammed our doors and weren't speaking.",
-     "words": [
-      {
-       "h": "最后",
-       "py": "zuìhòu",
-       "gl": "the end; in the end",
-       "pos": "adv."
-      },
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "表",
+       "py": "biǎo",
+       "gl": "watch; form; table",
        "pos": "n."
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "摔",
-       "py": "shuāi",
-       "gl": "fall; throw down; slam",
+       "h": "写错",
+       "py": "xiěcuò",
+       "gl": "write incorrectly",
        "pos": "v."
       },
       {
@@ -233,43 +383,55 @@
        "pos": "particle"
       },
       {
-       "h": "门",
-       "py": "mén",
-       "gl": "door",
-       "pos": "n."
-      },
-      {
        "h": "，"
       },
       {
-       "h": "谁",
-       "py": "shuí",
-       "gl": "who; anyone; everyone (谁也不… nobody)",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "理",
-       "py": "lǐ",
-       "gl": "pay attention to; respond to (someone)",
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
        "pos": "v."
       },
       {
-       "h": "谁",
-       "py": "shuí",
-       "gl": "who; anyone; everyone (谁也不… nobody)",
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "记号笔",
+       "py": "jìhàobǐ",
+       "gl": "marker pen",
+       "pos": "n."
+      },
+      {
+       "h": "指",
+       "py": "zhǐ",
+       "gl": "refer to; mean; point at",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "名字",
+       "py": "míngzì",
+       "gl": "name",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -279,22 +441,258 @@
    ]
   },
   {
-   "en": "The dirty dishes sat piled in the sink, and the cat sniffed every one of them.",
+   "en": "I said, \"One more week and you'll be washing them all yourself — that'll make you happy,\" and regretted it the moment I said it.",
    "phrases": [
     {
-     "en": "The dirty dishes sat piled in the sink, and the cat sniffed every one of them.",
+     "en": "I said, \"One more week and you'll be washing them all yourself — that'll make you happy,\" and regretted it the moment I said it.",
      "words": [
       {
-       "h": "脏",
-       "py": "zàng",
-       "gl": "dirty",
-       "pos": "adj."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "再过",
+       "py": "zàiguo",
+       "gl": "in (a period of time from now); after another",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "pron."
+      },
+      {
+       "h": "洗",
+       "py": "xǐ",
+       "gl": "wash",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "高兴",
+       "py": "gāoxìng",
+       "gl": "happy; glad",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "吧",
+       "py": "ba",
+       "gl": "particle: supposition (…right?)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "说完",
+       "py": "shuōwán",
+       "gl": "finish speaking",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "后悔",
+       "py": "hòuhuǐ",
+       "gl": "regret",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Tao said nothing, slammed her door, and went to her room.",
+   "phrases": [
+    {
+     "en": "Xiao Tao said nothing, slammed her door, and went to her room.",
+     "words": [
+      {
+       "h": "小桃",
+       "py": "Xiǎo Táo",
+       "gl": "Xiao Tao",
+       "pos": "proper noun"
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "摔门",
+       "py": "shuāimén",
+       "gl": "to slam the door",
+       "pos": "v."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "reply",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "房间",
+       "py": "fángjiān",
+       "gl": "room",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "We didn't speak for three days, and that bowl just sat in the sink.",
+   "phrases": [
+    {
+     "en": "We didn't speak for three days, and that bowl just sat in the sink.",
+     "words": [
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "冷战",
+       "py": "lěngzhàn",
+       "gl": "to give the silent treatment",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "三天",
+       "py": "sāntiān",
+       "gl": "three days",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
       },
       {
        "h": "碗",
        "py": "wǎn",
        "gl": "bowl (also measure word)",
-       "pos": "measure word"
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
       },
       {
        "h": "一直",
@@ -303,16 +701,10 @@
        "pos": "adv."
       },
       {
-       "h": "堆",
-       "py": "duī",
-       "gl": "pile up",
+       "h": "放在",
+       "py": "fàngzài",
+       "gl": "put in; put on; place",
        "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
       },
       {
        "h": "水池",
@@ -327,25 +719,86 @@
        "pos": "postposition"
       },
       {
-       "h": "，"
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She's fourteen, I'm eighteen; when we fought before, it was fine again in half an hour, usually thanks to a bubble tea.",
+   "phrases": [
+    {
+     "en": "She's fourteen, I'm eighteen; when we fought before, it was fine again in half an hour, usually thanks to a bubble tea.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
-       "h": "猫",
-       "py": "māo",
-       "gl": "cat",
+       "h": "十四岁",
+       "py": "shísìsuì",
+       "gl": "fourteen years old",
        "pos": "n."
       },
       {
-       "h": "挨个",
-       "py": "āigè",
-       "gl": "one by one",
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "十八",
+       "py": "shíbā",
+       "gl": "eighteen",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "postposition"
+      },
+      {
+       "h": "吵架",
+       "py": "chǎojià",
+       "gl": "quarrel; argue",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "半个小时",
+       "py": "bàngèxiǎoshí",
+       "gl": "half an hour",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "闻",
-       "py": "wén",
-       "gl": "sniff; smell",
-       "pos": "v."
+       "h": "好",
+       "py": "hǎo",
+       "gl": "to make up, be fine again",
+       "pos": "adj."
       },
       {
        "h": "了",
@@ -354,10 +807,31 @@
        "pos": "particle"
       },
       {
-       "h": "一遍",
-       "py": "yībiàn",
-       "gl": "once (from start to finish); one time through",
+       "h": "，"
+      },
+      {
+       "h": "一般",
+       "py": "yìbān",
+       "gl": "usually; generally",
        "pos": "adv."
+      },
+      {
+       "h": "靠",
+       "py": "kào",
+       "gl": "rely on; depend on",
+       "pos": "prep."
+      },
+      {
+       "h": "一杯",
+       "py": "yībēi",
+       "gl": "a cup of; a glass of",
+       "pos": "measure word"
+      },
+      {
+       "h": "奶茶",
+       "py": "nǎichá",
+       "gl": "milk tea",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -367,16 +841,19 @@
    ]
   },
   {
-   "en": "That night I lay in bed staring at the ceiling, thinking how childish it was to give each other the silent treatment over a few bowls.",
+   "en": "This time the bubble tea I bought sat outside her door untouched.",
    "phrases": [
     {
-     "en": "That night I lay in bed staring at the ceiling,",
+     "en": "This time the bubble tea I bought sat outside her door untouched.",
      "words": [
       {
-       "h": "夜里",
-       "py": "yèlǐ",
-       "gl": "at night",
-       "pos": "n."
+       "h": "这次",
+       "py": "zhècì",
+       "gl": "this time",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "我",
@@ -385,10 +862,22 @@
        "pos": "pron."
       },
       {
-       "h": "躺",
-       "py": "tǎng",
-       "gl": "lie (down)",
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
        "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "奶茶",
+       "py": "nǎichá",
+       "gl": "milk tea",
+       "pos": "n."
       },
       {
        "h": "在",
@@ -397,9 +886,606 @@
        "pos": "prep."
       },
       {
-       "h": "床",
-       "py": "chuáng",
-       "gl": "bed",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "门口",
+       "py": "ménkǒu",
+       "gl": "entrance; doorway",
+       "pos": "n."
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一口",
+       "py": "yìkǒu",
+       "gl": "a mouthful; a bite",
+       "pos": "measure word"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "动",
+       "py": "dòng",
+       "gl": "move",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the kitchen Mom said to me, \"She's not angry about the bowl. She doesn't want you to go.\"",
+   "phrases": [
+    {
+     "en": "In the kitchen Mom said to me, \"She's not angry about the bowl. She doesn't want you to go.\"",
+     "words": [
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "厨房",
+       "py": "chúfáng",
+       "gl": "kitchen",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
+       "h": "为了",
+       "py": "wèile",
+       "gl": "in order to; for",
+       "pos": "prep."
+      },
+      {
+       "h": "碗",
+       "py": "wǎn",
+       "gl": "bowl (also measure word)",
+       "pos": "n."
+      },
+      {
+       "h": "生气",
+       "py": "shēngqì",
+       "gl": "get angry; angry",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "不想",
+       "py": "bùxiǎng",
+       "gl": "not want to",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I hadn't thought of that. At her age, I couldn't say \"I'm sad\" either.",
+   "phrases": [
+    {
+     "en": "I hadn't thought of that. At her age, I couldn't say \"I'm sad\" either.",
+     "words": [
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "没想到",
+       "py": "méixiǎngdào",
+       "gl": "didn't expect; never thought",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "年纪",
+       "py": "niánjì",
+       "gl": "age (of a person)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely (会不会 'will or won't')",
+       "pos": "v."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "难过",
+       "py": "nánguò",
+       "gl": "sad; upset",
+       "pos": "adj."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the last evening I washed that bowl myself and put it back in the cupboard.",
+   "phrases": [
+    {
+     "en": "On the last evening I washed that bowl myself and put it back in the cupboard.",
+     "words": [
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
+       "pos": "adj."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "碗",
+       "py": "wǎn",
+       "gl": "bowl (also measure word)",
+       "pos": "n."
+      },
+      {
+       "h": "洗",
+       "py": "xǐ",
+       "gl": "wash",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "放回",
+       "py": "fànghuí",
+       "gl": "put back",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "碗柜",
+       "py": "wǎnguì",
+       "gl": "dish cupboard",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the morning my suitcase stood by the door, and my sister stood leaning against the wall, head down.",
+   "phrases": [
+    {
+     "en": "In the morning my suitcase stood by the door, and my sister stood leaning against the wall, head down.",
+     "words": [
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "行李箱",
+       "py": "xínglixiāng",
+       "gl": "suitcase",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "门口",
+       "py": "ménkǒu",
+       "gl": "entrance; doorway",
+       "pos": "n."
+      },
+      {
+       "h": "立",
+       "py": "lì",
+       "gl": "stand; erect; set up",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "妹妹",
+       "py": "mèimei",
+       "gl": "younger sister",
+       "pos": "n."
+      },
+      {
+       "h": "靠",
+       "py": "kào",
+       "gl": "lean (against); press close",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "墙",
+       "py": "qiáng",
+       "gl": "wall",
+       "pos": "n."
+      },
+      {
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "低",
+       "py": "dī",
+       "gl": "low",
+       "pos": "adj."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "头",
+       "py": "tóu",
+       "gl": "head",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Did you look at the whiteboard?\" she asked, head still down.",
+   "phrases": [
+    {
+     "en": "\"Did you look at the whiteboard?\" she asked, head still down.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "白板",
+       "py": "báibǎn",
+       "gl": "whiteboard",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "低",
+       "py": "dī",
+       "gl": "low",
+       "pos": "adj."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "头",
+       "py": "tóu",
+       "gl": "head",
+       "pos": "n."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the whiteboard my name had been wiped off, and after every day of the week was written her name.",
+   "phrases": [
+    {
+     "en": "On the whiteboard my name had been wiped off, and after every day of the week was written her name.",
+     "words": [
+      {
+       "h": "白板",
+       "py": "báibǎn",
+       "gl": "whiteboard",
        "pos": "n."
       },
       {
@@ -412,81 +1498,106 @@
        "h": "，"
       },
       {
-       "h": "盯着",
-       "py": "dīngzhe",
-       "gl": "stare at; keep an eye on",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "名字",
+       "py": "míngzì",
+       "gl": "name",
+       "pos": "n."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "擦掉",
+       "py": "cādiào",
+       "gl": "wipe off; erase",
        "pos": "v."
       },
       {
-       "h": "天花板",
-       "py": "tiānhuābǎn",
-       "gl": "ceiling",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "后面",
+       "py": "hòumiàn",
+       "gl": "later (on); further on",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "thinking how childish it was to give each other the silent treatment over a few bowls.",
-     "words": [
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
       },
       {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "碗",
-       "py": "wǎn",
-       "gl": "bowl (also measure word)",
-       "pos": "measure word"
-      },
-      {
-       "h": "冷战",
-       "py": "lěngzhàn",
-       "gl": "to give the silent treatment",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "真",
-       "py": "zhēn",
-       "gl": "real; genuine; really",
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
        "pos": "adv."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
        "pos": "v."
       },
       {
-       "h": "幼稚",
-       "py": "yòuzhì",
-       "gl": "childish; naive",
-       "pos": "adj."
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "名字",
+       "py": "míngzì",
+       "gl": "name",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -496,11 +1607,120 @@
    ]
   },
   {
-   "en": "I picked up my phone and sent him a sticker: a kitten bowing, with \"I was wrong, don't be mad\" written above it.",
+   "en": "And on the very bottom line, in small letters: \"National Day — your turn. Come home and wash.\"",
    "phrases": [
     {
-     "en": "I picked up my phone and sent him a sticker:",
+     "en": "And on the very bottom line, in small letters: \"National Day — your turn. Come home and wash.\"",
      "words": [
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "下面",
+       "py": "xiàmiàn",
+       "gl": "under; below; beneath",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "行",
+       "py": "háng",
+       "gl": "measure word for lines (of text, rows)",
+       "pos": "measure word"
+      },
+      {
+       "h": "小字",
+       "py": "xiǎozì",
+       "gl": "small print; small characters",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "国庆节",
+       "py": "Guóqìngjié",
+       "gl": "National Day (October 1)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "轮到",
+       "py": "lúndào",
+       "gl": "be someone's turn",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "回来",
+       "py": "huílái",
+       "gl": "come back; return",
+       "pos": "v."
+      },
+      {
+       "h": "洗",
+       "py": "xǐ",
+       "gl": "wash",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the train I opened my phone: she had sent a photo of the whiteboard and written nothing.",
+   "phrases": [
+    {
+     "en": "On the train I opened my phone: she had sent a photo of the whiteboard and written nothing.",
+     "words": [
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "火车",
+       "py": "huǒchē",
+       "gl": "train",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -508,9 +1728,9 @@
        "pos": "pron."
       },
       {
-       "h": "拿着",
-       "py": "názhe",
-       "gl": "holding; with",
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
        "pos": "v."
       },
       {
@@ -523,560 +1743,28 @@
        "h": "，"
       },
       {
-       "h": "给",
-       "py": "gěi",
-       "gl": "to; for (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "他",
+       "h": "她",
        "py": "tā",
-       "gl": "he; him",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
-       "h": "发",
-       "py": "fā",
-       "gl": "send",
+       "h": "发来",
+       "py": "fālái",
+       "gl": "send (to me); sent",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一个",
-       "py": "yígè",
-       "gl": "one (with measure word: one item)",
+       "h": "一张",
+       "py": "yīzhāng",
+       "gl": "a; one (measure word for flat objects: sheets, photos, discs)",
        "pos": "num."
       },
       {
-       "h": "表情包",
-       "py": "biǎoqíngbāo",
-       "gl": "meme, sticker",
+       "h": "白板",
+       "py": "báibǎn",
+       "gl": "whiteboard",
        "pos": "n."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "a kitten bowing, with \"I was wrong, don't be mad\" written above it.",
-     "words": [
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "只",
-       "py": "zhī",
-       "gl": "(measure word for animals, one of a pair)",
-       "pos": "measure word"
-      },
-      {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "猫",
-       "py": "māo",
-       "gl": "cat",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "鞠躬",
-       "py": "jūgōng",
-       "gl": "to bow",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "上面",
-       "py": "shàngmiàn",
-       "gl": "on top; on the surface; above",
-       "pos": "n."
-      },
-      {
-       "h": "写着",
-       "py": "xiězhe",
-       "gl": "be written; say (on paper)",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "错",
-       "py": "cuò",
-       "gl": "wrong; mistaken (坐错 take the wrong one)",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "别",
-       "py": "bié",
-       "gl": "don't (prohibition); other",
-       "pos": "adv."
-      },
-      {
-       "h": "生气",
-       "py": "shēngqì",
-       "gl": "get angry; angry",
-       "pos": "v."
-      },
-      {
-       "h": "啦",
-       "py": "la",
-       "gl": "particle: emphatic or softening (了 + 啊)",
-       "pos": "particle"
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Five minutes later he replied, \"Took you long enough?\" followed by a mischievous grin.",
-   "phrases": [
-    {
-     "en": "Five minutes later he replied, \"Took you long enough?\"",
-     "words": [
-      {
-       "h": "五",
-       "py": "wǔ",
-       "gl": "five",
-       "pos": "num."
-      },
-      {
-       "h": "分钟",
-       "py": "fēnzhōng",
-       "gl": "minute",
-       "pos": "measure word"
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after; later; behind",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "回",
-       "py": "huí",
-       "gl": "reply",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "句",
-       "py": "jù",
-       "gl": "measure word for sentences and remarks",
-       "pos": "measure word"
-      },
-      {
-       "h": "："
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "你",
-       "py": "nǐ",
-       "gl": "you",
-       "pos": "pron."
-      },
-      {
-       "h": "才",
-       "py": "cái",
-       "gl": "only then; not until",
-       "pos": "adv."
-      },
-      {
-       "h": "知道",
-       "py": "zhīdào",
-       "gl": "know",
-       "pos": "v."
-      },
-      {
-       "h": "啊",
-       "py": "a",
-       "gl": "particle: agreement, emotion (ah; oh)",
-       "pos": "particle"
-      },
-      {
-       "h": "？"
-      },
-      {
-       "h": "”"
-      }
-     ]
-    },
-    {
-     "en": "followed by a mischievous grin.",
-     "words": [
-      {
-       "h": "后面",
-       "py": "hòumiàn",
-       "gl": "after that; next",
-       "pos": "n."
-      },
-      {
-       "h": "跟着",
-       "py": "gēnzhe",
-       "gl": "follow; along with",
-       "pos": "v."
-      },
-      {
-       "h": "一个",
-       "py": "yígè",
-       "gl": "one (with measure word: one item)",
-       "pos": "num."
-      },
-      {
-       "h": "坏笑",
-       "py": "huàixiào",
-       "gl": "mischievous grin",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I couldn't help laughing out loud and ran to his room, just as he opened his door to come out, and we bumped right into each other.",
-   "phrases": [
-    {
-     "en": "I couldn't help laughing out loud and ran to his room,",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "忍不住",
-       "py": "rěnbúzhù",
-       "gl": "can't help (doing); cannot resist",
-       "pos": "v."
-      },
-      {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
-      },
-      {
-       "h": "出",
-       "py": "chū",
-       "gl": "out (directional complement)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "声",
-       "py": "shēng",
-       "gl": "measure word for sounds and utterances; sound",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "跑",
-       "py": "pǎo",
-       "gl": "rush (somewhere)",
-       "pos": "v."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go (to)",
-       "pos": "v."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "房间",
-       "py": "fángjiān",
-       "gl": "room",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "just as he opened his door to come out, and we bumped right into each other.",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "正好",
-       "py": "zhènghǎo",
-       "gl": "just right; happen to; exactly",
-       "pos": "adv."
-      },
-      {
-       "h": "开",
-       "py": "kāi",
-       "gl": "open; start (a business)",
-       "pos": "v."
-      },
-      {
-       "h": "门",
-       "py": "mén",
-       "gl": "door",
-       "pos": "n."
-      },
-      {
-       "h": "出来",
-       "py": "chūlái",
-       "gl": "directional complement: out; into being; come out",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "撞了个满怀",
-       "py": "zhuàng le ge mǎnhuái",
-       "gl": "to bump right into",
-       "pos": "phrase"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "We looked at each other and laughed so hard we couldn't stand up straight, and Mom came running out of the kitchen.",
-   "phrases": [
-    {
-     "en": "We looked at each other and laughed so hard we couldn't stand up straight, and Mom came running out of the kitchen.",
-     "words": [
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "看着",
-       "py": "kànzhe",
-       "gl": "look at; watching",
-       "pos": "v."
-      },
-      {
-       "h": "对方",
-       "py": "duìfāng",
-       "gl": "each other",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
-      },
-      {
-       "h": "直",
-       "py": "zhí",
-       "gl": "to straighten up",
-       "pos": "v."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "起",
-       "py": "qǐ",
-       "gl": "(complement: up)",
-       "pos": "v."
-      },
-      {
-       "h": "腰",
-       "py": "yāo",
-       "gl": "lower back",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "妈妈",
-       "py": "māma",
-       "gl": "mom",
-       "pos": "n."
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "厨房",
-       "py": "chúfáng",
-       "gl": "kitchen",
-       "pos": "n."
-      },
-      {
-       "h": "跑",
-       "py": "pǎo",
-       "gl": "run",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "出来",
-       "py": "chūlái",
-       "gl": "directional complement: out; into being; come out",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "My brother patted my head and said, \"Next time we take turns. No slacking.\"",
-   "phrases": [
-    {
-     "en": "My brother patted my head and said, \"Next time we take turns. No slacking.\"",
-     "words": [
-      {
-       "h": "哥哥",
-       "py": "gēge",
-       "gl": "older brother",
-       "pos": "n."
-      },
-      {
-       "h": "拍拍",
-       "py": "pāipāi",
-       "gl": "pat",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
       },
       {
        "h": "的",
@@ -1085,713 +1773,18 @@
        "pos": "particle"
       },
       {
-       "h": "头",
-       "py": "tóu",
-       "gl": "head",
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "："
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "下",
-       "py": "xià",
-       "gl": "next; below; down",
-       "pos": "adj."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
-      },
-      {
-       "h": "轮流",
-       "py": "lúnliú",
-       "gl": "take turns; in turn",
-       "pos": "adv."
-      },
-      {
-       "h": "洗",
-       "py": "xǐ",
-       "gl": "wash",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "别",
-       "py": "bié",
-       "gl": "don't (prohibition); other",
-       "pos": "adv."
-      },
-      {
-       "h": "偷懒",
-       "py": "tōulǎn",
-       "gl": "slack off; be lazy",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "。"
-      },
-      {
-       "h": "”"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I said OK, and treated him to a bubble tea as a \"peace offering.\"",
-   "phrases": [
-    {
-     "en": "I said OK, and treated him to a bubble tea as a \"peace offering.\"",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "请",
-       "py": "qǐng",
-       "gl": "treat (to food/drink)",
-       "pos": "v."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "喝",
-       "py": "hē",
-       "gl": "drink",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "杯",
-       "py": "bēi",
-       "gl": "cup; glass (also measure word)",
-       "pos": "n."
-      },
-      {
-       "h": "奶茶",
-       "py": "nǎichá",
-       "gl": "milk tea",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "当",
-       "py": "dàng",
-       "gl": "as; for (当报酬 'as payment')",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "赔礼",
-       "py": "péilǐ",
-       "gl": "apology (with a gift)",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Actually, this wasn't the first time we'd made up; last month we fought over the TV remote too.",
-   "phrases": [
-    {
-     "en": "Actually, this wasn't the first time we'd made up;",
-     "words": [
-      {
-       "h": "其实",
-       "py": "qíshí",
-       "gl": "actually; in fact",
-       "pos": "adv."
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "不是",
-       "py": "búshì",
-       "gl": "not be; is not",
-       "pos": "v."
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "第一次",
-       "py": "dìyīcì",
-       "gl": "first time; for the first time",
-       "pos": "adv."
-      },
-      {
-       "h": "和好",
-       "py": "héhǎo",
-       "gl": "make up; reconcile",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "last month we fought over the TV remote too.",
-     "words": [
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "抢",
-       "py": "qiǎng",
-       "gl": "grab; snatch; compete for",
-       "pos": "v."
-      },
-      {
-       "h": "电视",
-       "py": "diànshì",
-       "gl": "TV; television",
-       "pos": "n."
-      },
-      {
-       "h": "遥控器",
-       "py": "yáokòngqì",
-       "gl": "remote control",
-       "pos": "n."
-      },
-      {
-       "h": "吵",
-       "py": "chǎo",
-       "gl": "quarrel; argue",
-       "pos": "v."
-      },
-      {
-       "h": "过",
-       "py": "guò",
-       "gl": "particle: past experience (have done)",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "That time we settled it with rock, paper, scissors: the loser watched second and had to peel an orange for the winner.",
-   "phrases": [
-    {
-     "en": "That time we settled it with rock, paper, scissors:",
-     "words": [
-      {
-       "h": "那",
-       "py": "nà",
-       "gl": "then; in that case",
-       "pos": "conj."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "石头剪刀布",
-       "py": "shítou jiǎndāo bù",
-       "gl": "rock, paper, scissors",
-       "pos": "n."
-      },
-      {
-       "h": "解决",
-       "py": "jiějué",
-       "gl": "solve; settle",
-       "pos": "v."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "the loser watched second and had to peel an orange for the winner.",
-     "words": [
-      {
-       "h": "输",
-       "py": "shū",
-       "gl": "lose (a game)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "to; for (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "赢",
-       "py": "yíng",
-       "gl": "win",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "剥",
-       "py": "bāo",
-       "gl": "peel; shell",
-       "pos": "v."
-      },
-      {
-       "h": "一个",
-       "py": "yígè",
-       "gl": "one (with measure word: one item)",
-       "pos": "num."
-      },
-      {
-       "h": "橘子",
-       "py": "júzi",
-       "gl": "tangerine; orange",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Watching us, Grandma always said, laughing, \"You two can't keep a fight going for three sentences.\"",
-   "phrases": [
-    {
-     "en": "Watching us, Grandma always said, laughing, \"You two can't keep a fight going for three sentences.\"",
-     "words": [
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "看着",
-       "py": "kànzhe",
-       "gl": "look at; watching",
-       "pos": "v."
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "总是",
-       "py": "zǒngshì",
-       "gl": "always",
-       "pos": "adv."
-      },
-      {
-       "h": "笑着",
-       "py": "xiàozhe",
-       "gl": "smiling; with a smile",
-       "pos": "v."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "："
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "你们",
-       "py": "nǐmen",
-       "gl": "you (plural)",
-       "pos": "pron."
-      },
-      {
-       "h": "俩",
-       "py": "liǎ",
-       "gl": "two; both (of us/them)",
-       "pos": "pron."
-      },
-      {
-       "h": "吵架",
-       "py": "chǎojià",
-       "gl": "quarrel; argue",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "句",
-       "py": "jù",
-       "gl": "measure word for sentences and remarks",
-       "pos": "measure word"
-      },
-      {
-       "h": "话",
-       "py": "huà",
-       "gl": "words; speech; what someone says",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both; even; already",
-       "pos": "adv."
-      },
-      {
-       "h": "吵",
-       "py": "chǎo",
-       "gl": "noisy; make noise; quarrel",
-       "pos": "v."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "过",
-       "py": "guò",
-       "gl": "particle: past experience (have done)",
-       "pos": "function word"
-      },
-      {
-       "h": "。"
-      },
-      {
-       "h": "”"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But the one last week was different. We fought hard over cleaning the room and didn't speak to each other all day.",
-   "phrases": [
-    {
-     "en": "But the one last week was different.",
-     "words": [
-      {
-       "h": "可是",
-       "py": "kěshì",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
-      },
-      {
-       "h": "周",
-       "py": "zhōu",
-       "gl": "week",
-       "pos": "n."
-      },
-      {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "一样",
-       "py": "yīyàng",
-       "gl": "same; identical",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    },
-    {
-     "en": "We fought hard over cleaning the room and didn't speak to each other all day.",
-     "words": [
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "打扫",
-       "py": "dǎsǎo",
-       "gl": "clean (up); sweep",
-       "pos": "n."
-      },
-      {
-       "h": "房间",
-       "py": "fángjiān",
-       "gl": "room",
-       "pos": "n."
-      },
-      {
-       "h": "吵",
-       "py": "chǎo",
-       "gl": "quarrel; argue",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "凶",
-       "py": "xiōng",
-       "gl": "fierce; heated; harsh",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "整天",
-       "py": "zhěngtiān",
-       "gl": "all day; the whole day",
-       "pos": "n."
-      },
-      {
-       "h": "谁",
-       "py": "shuí",
-       "gl": "who; anyone; everyone",
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
        "pos": "pron."
       },
       {
@@ -1807,67 +1800,9 @@
        "pos": "adv."
       },
       {
-       "h": "理",
-       "py": "lǐ",
-       "gl": "pay attention to; respond to (someone)",
-       "pos": "v."
-      },
-      {
-       "h": "谁",
-       "py": "shuí",
-       "gl": "who; anyone; everyone",
-       "pos": "pron."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I sent a sticker, and he didn't reply.",
-   "phrases": [
-    {
-     "en": "I sent a sticker, and he didn't reply.",
-     "words": [
-      {
-       "h": "表情包",
-       "py": "biǎoqíngbāo",
-       "gl": "meme, sticker",
-       "pos": "n."
-      },
-      {
-       "h": "发",
-       "py": "fā",
-       "gl": "send",
-       "pos": "v."
-      },
-      {
-       "h": "过去",
-       "py": "guòqu",
-       "gl": "over; there (complement)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "没",
-       "py": "méi",
-       "gl": "not (yet); negates 有 and past actions",
-       "pos": "adv."
-      },
-      {
-       "h": "回",
-       "py": "huí",
-       "gl": "reply",
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
        "pos": "v."
       },
       {
@@ -1878,83 +1813,15 @@
    ]
   },
   {
-   "en": "So Mom gave each of us a sheet of paper and had us write down what we wanted to say, then swap and read.",
+   "en": "I set it as my phone screen and looked at it all the way, while unfamiliar fields went by outside the window.",
    "phrases": [
     {
-     "en": "So Mom gave each of us a sheet of paper",
+     "en": "I set it as my phone screen and looked at it all the way, while unfamiliar fields went by outside the window.",
      "words": [
       {
-       "h": "妈妈",
-       "py": "māma",
-       "gl": "mom",
-       "pos": "n."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "to; for (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "一人",
-       "py": "yīrén",
-       "gl": "one person",
-       "pos": "n."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "张",
-       "py": "zhāng",
-       "gl": "measure word for flat objects (paper, photos, tables)",
-       "pos": "measure word"
-      },
-      {
-       "h": "纸",
-       "py": "zhǐ",
-       "gl": "paper",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and had us write down what we wanted to say, then swap and read.",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "make (someone do); cause",
-       "pos": "v."
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
@@ -1964,61 +1831,49 @@
        "pos": "prep."
       },
       {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like",
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "设",
+       "py": "shè",
+       "gl": "be located; set up; establish",
        "pos": "v."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "成",
+       "py": "chéng",
+       "gl": "become; turn into",
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "话",
-       "py": "huà",
-       "gl": "words; speech; what someone says",
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
        "pos": "n."
       },
       {
-       "h": "写",
-       "py": "xiě",
-       "gl": "write",
-       "pos": "v."
-      },
-      {
-       "h": "下来",
-       "py": "xiàlái",
-       "gl": "verb complement: settling down (坐下来 sit down)",
-       "pos": "particle"
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; then",
+       "h": "一路上",
+       "py": "yīlùshàng",
+       "gl": "all the way; along the way",
        "pos": "adv."
-      },
-      {
-       "h": "交换",
-       "py": "jiāohuàn",
-       "gl": "exchange; swap",
-       "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
       },
       {
        "h": "看",
@@ -2027,539 +1882,24 @@
        "pos": "v."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I wrote a lot: I was tired, he was always hogging the bathroom, I felt wronged.",
-   "phrases": [
-    {
-     "en": "I wrote a lot: I was tired, he was always hogging the bathroom, I felt wronged.",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "写",
-       "py": "xiě",
-       "gl": "write",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "："
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "累",
-       "py": "lèi",
-       "gl": "tired",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "老",
-       "py": "lǎo",
-       "gl": "old; elderly",
-       "pos": "adj."
-      },
-      {
-       "h": "占",
-       "py": "zhàn",
-       "gl": "take up; occupy; account for",
-       "pos": "v."
-      },
-      {
        "h": "着",
        "py": "zhe",
        "gl": "particle: ongoing action or state",
        "pos": "particle"
       },
       {
-       "h": "洗手间",
-       "py": "xǐshǒujiān",
-       "gl": "restroom; bathroom",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "委屈",
-       "py": "wěiqū",
-       "gl": "feel wronged; aggrieved",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In the middle of the night, his note was slipped under my door.",
-   "phrases": [
-    {
-     "en": "In the middle of the night, his note was slipped under my door.",
-     "words": [
-      {
-       "h": "半夜",
-       "py": "bànyè",
-       "gl": "midnight; middle of the night",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "他",
+       "h": "它",
        "py": "tā",
-       "gl": "he; him",
+       "gl": "it",
        "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "纸条",
-       "py": "zhǐtiáo",
-       "gl": "note; slip of paper",
-       "pos": "n."
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "门缝",
-       "py": "ménfèng",
-       "gl": "crack under the door",
-       "pos": "n."
-      },
-      {
-       "h": "下面",
-       "py": "xiàmiàn",
-       "gl": "under; below; beneath",
-       "pos": "n."
-      },
-      {
-       "h": "塞",
-       "py": "sāi",
-       "gl": "stuff; squeeze in; slip (something to someone)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "进来",
-       "py": "jìnlái",
-       "gl": "come in",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "It said just one line: \"Sorry. The bathroom is yours in the mornings.\"",
-   "phrases": [
-    {
-     "en": "It said just one line: \"Sorry. The bathroom is yours in the mornings.\"",
-     "words": [
-      {
-       "h": "纸条",
-       "py": "zhǐtiáo",
-       "gl": "note; slip of paper",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "写着",
-       "py": "xiězhe",
-       "gl": "be written; say (on paper)",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "句",
-       "py": "jù",
-       "gl": "measure word for sentences and remarks",
-       "pos": "measure word"
-      },
-      {
-       "h": "："
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "对不起",
-       "py": "duìbùqǐ",
-       "gl": "sorry; excuse me",
-       "pos": "phrase"
-      },
-      {
-       "h": "。"
-      },
-      {
-       "h": "早上",
-       "py": "zǎoshàng",
-       "gl": "morning",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "洗手间",
-       "py": "xǐshǒujiān",
-       "gl": "restroom; bathroom",
-       "pos": "n."
-      },
-      {
-       "h": "归",
-       "py": "guī",
-       "gl": "belong to; go to (someone); attribute (to)",
-       "pos": "v."
-      },
-      {
-       "h": "你",
-       "py": "nǐ",
-       "gl": "you",
-       "pos": "pron."
-      },
-      {
-       "h": "。"
-      },
-      {
-       "h": "”"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I sat on the floor by the door holding the note, not knowing whether to laugh or cry.",
-   "phrases": [
-    {
-     "en": "I sat on the floor by the door holding the note, not knowing whether to laugh or cry.",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "拿着",
-       "py": "názhe",
-       "gl": "holding; with",
-       "pos": "v."
-      },
-      {
-       "h": "纸条",
-       "py": "zhǐtiáo",
-       "gl": "note; slip of paper",
-       "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "坐",
-       "py": "zuò",
-       "gl": "sit; ride; take (transport)",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "门",
-       "py": "mén",
-       "gl": "door",
-       "pos": "n."
-      },
-      {
-       "h": "边",
-       "py": "biān",
-       "gl": "by, beside",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
-       "pos": "particle"
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "知道",
-       "py": "zhīdào",
-       "gl": "know",
-       "pos": "v."
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
-      },
-      {
-       "h": "还是",
-       "py": "háishì",
-       "gl": "or (in questions)",
-       "pos": "conj."
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "哭",
-       "py": "kū",
-       "gl": "cry",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In the morning I opened the door, and my brother was standing leaning against the wall, holding two bubble teas.",
-   "phrases": [
-    {
-     "en": "In the morning I opened the door,",
-     "words": [
-      {
-       "h": "早上",
-       "py": "zǎoshàng",
-       "gl": "morning",
-       "pos": "n."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "开",
-       "py": "kāi",
-       "gl": "open; start (a business)",
-       "pos": "v."
-      },
-      {
-       "h": "门",
-       "py": "mén",
-       "gl": "door",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and my brother was standing leaning against the wall, holding two bubble teas.",
-     "words": [
-      {
-       "h": "哥哥",
-       "py": "gēge",
-       "gl": "older brother",
-       "pos": "n."
-      },
-      {
-       "h": "靠着",
-       "py": "kàozhe",
-       "gl": "lean against",
-       "pos": "v."
-      },
-      {
-       "h": "墙",
-       "py": "qiáng",
-       "gl": "wall",
-       "pos": "n."
-      },
-      {
-       "h": "站着",
-       "py": "zhànzhe",
-       "gl": "stand; standing",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "手",
-       "py": "shǒu",
-       "gl": "hand",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "拿着",
-       "py": "názhe",
-       "gl": "holding; with",
-       "pos": "v."
-      },
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "杯",
-       "py": "bēi",
-       "gl": "cup; glass (also measure word)",
-       "pos": "n."
-      },
-      {
-       "h": "奶茶",
-       "py": "nǎichá",
-       "gl": "milk tea",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "\"One's yours,\" he said. \"And the other — by the rules, I owe you that one too.\"",
-   "phrases": [
-    {
-     "en": "\"One's yours,\" he said. \"And the other — by the rules, I owe you that one too.\"",
-     "words": [
-      {
-       "h": "“"
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "杯",
-       "py": "bēi",
-       "gl": "cup; glass (also measure word)",
+       "h": "窗外",
+       "py": "chuāngwài",
+       "gl": "outside the window",
        "pos": "n."
       },
       {
@@ -2569,177 +1909,15 @@
        "pos": "v."
       },
       {
-       "h": "你",
-       "py": "nǐ",
-       "gl": "you",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "另",
-       "py": "lìng",
-       "gl": "another; other",
-       "pos": "pron."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
+       "h": "一片片",
+       "py": "yípiànpiàn",
+       "gl": "piece after piece; slices (of)",
        "pos": "num."
       },
       {
-       "h": "杯",
-       "py": "bēi",
-       "gl": "cup; glass (also measure word)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "按",
-       "py": "àn",
-       "gl": "according to; by",
-       "pos": "prep."
-      },
-      {
-       "h": "规矩",
-       "py": "guīju",
-       "gl": "rule; custom",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "请",
-       "py": "qǐng",
-       "gl": "to treat (someone to)",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      },
-      {
-       "h": "”"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Now we both know: fighting isn't the scary part; the scary part is when neither of you is willing to give in first.",
-   "phrases": [
-    {
-     "en": "Now we both know:",
-     "words": [
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "adv."
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "知道",
-       "py": "zhīdào",
-       "gl": "know",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "fighting isn't the scary part; the scary part is when neither of you is willing to give in first.",
-     "words": [
-      {
-       "h": "吵架",
-       "py": "chǎojià",
-       "gl": "quarrel; argue",
-       "pos": "v."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "可怕",
-       "py": "kěpà",
-       "gl": "scary; frightening; terrible",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "可怕",
-       "py": "kěpà",
-       "gl": "scary; frightening; terrible",
+       "h": "陌生",
+       "py": "mòshēng",
+       "gl": "unfamiliar; strange",
        "pos": "adj."
       },
       {
@@ -2749,46 +1927,10 @@
        "pos": "particle"
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "谁",
-       "py": "shuí",
-       "gl": "who; anyone; everyone (谁也不… nobody)",
-       "pos": "pron."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "愿意",
-       "py": "yuànyì",
-       "gl": "be willing",
-       "pos": "v."
-      },
-      {
-       "h": "先",
-       "py": "xiān",
-       "gl": "first; before",
-       "pos": "adv."
-      },
-      {
-       "h": "低头",
-       "py": "dītóu",
-       "gl": "give in; back down",
-       "pos": "v."
+       "h": "田",
+       "py": "tián",
+       "gl": "field",
+       "pos": "n."
       },
       {
        "h": "。"
