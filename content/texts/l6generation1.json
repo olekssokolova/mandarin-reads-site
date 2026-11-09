@@ -1,34 +1,40 @@
 {
  "id": "l6generation1",
  "level": 6,
- "title_zh": "两代人，两种想法",
- "title_en": "Two Generations, Two Mindsets",
+ "title_zh": "饼干盒里的存折",
+ "title_en": "Bankbooks in a Cookie Tin",
  "free": false,
  "audio_url": null,
- "note_en": "The family motto 该省的省，该花的花 uses 该 + verb + 的 to mean \"what ought to be V-ed\" and then repeats the verb: \"save what should be saved, spend what should be spent.\" Chinese builds the rule just by echoing the verb, with no \"what\" or \"when\" needed; the text plays with it all the way through, down to 该聚的聚，该买的买 \"get together with whoever you should, buy whatever you should.\"",
+ "note_en": "该 + verb + 的 turns an action into a noun phrase, \"what should be [done]\": 该省的一定要省 \"what should be saved must be saved.\" It often comes in contrasting pairs: 该省的钱用在平时，该花的钱用在要紧时候 \"the money to save is for ordinary days; the money to spend is for when it really matters.\" Here 的 stands in for an omitted noun (\"what,\" \"the money that\").",
  "sentences": [
   {
-   "en": "At Chinese New Year, Grandma started telling us stories from her youth again.",
+   "en": "Halfway through New Year's Eve dinner, my cousin put down his chopsticks and made an announcement: next year he would quit his job and go south to try a new industry.",
    "phrases": [
     {
-     "en": "At Chinese New Year,",
+     "en": "Halfway through New Year's Eve dinner,",
      "words": [
       {
-       "h": "过年",
-       "py": "guònián",
-       "gl": "celebrate New Year",
+       "h": "年夜饭",
+       "py": "niányèfàn",
+       "gl": "New Year's Eve dinner",
+       "pos": "n."
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
       },
       {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
+       "h": "一半",
+       "py": "yíbàn",
+       "gl": "half",
        "pos": "n."
       },
       {
@@ -37,7 +43,264 @@
      ]
     },
     {
-     "en": "Grandma started telling us",
+     "en": "my cousin put down his chopsticks",
+     "words": [
+      {
+       "h": "表弟",
+       "py": "biǎodì",
+       "gl": "(younger male) cousin",
+       "pos": "n."
+      },
+      {
+       "h": "放下",
+       "py": "fàngxià",
+       "gl": "put down; set aside",
+       "pos": "v."
+      },
+      {
+       "h": "筷子",
+       "py": "kuàizi",
+       "gl": "chopsticks",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and made an announcement:",
+     "words": [
+      {
+       "h": "宣布",
+       "py": "xuānbù",
+       "gl": "announce; declare",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "件",
+       "py": "jiàn",
+       "gl": "measure word for clothing, matters, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "next year he would quit his job and go south to try a new industry.",
+     "words": [
+      {
+       "h": "明年",
+       "py": "míngnián",
+       "gl": "next year",
+       "pos": "n."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "辞职",
+       "py": "cízhí",
+       "gl": "resign; quit (one's job)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "南方",
+       "py": "nánfāng",
+       "gl": "south; southern",
+       "pos": "n."
+      },
+      {
+       "h": "试",
+       "py": "shì",
+       "gl": "try",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adj."
+      },
+      {
+       "h": "行业",
+       "py": "hángyè",
+       "gl": "industry; line of business",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The table went silent at once, except for the Spring Festival Gala still singing away merrily on TV.",
+   "phrases": [
+    {
+     "en": "The table went silent at once,",
+     "words": [
+      {
+       "h": "桌",
+       "py": "zhuō",
+       "gl": "table",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "一下子",
+       "py": "yīxiàzi",
+       "gl": "all at once; suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "安静",
+       "py": "ānjìng",
+       "gl": "quiet; calm",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "except for the Spring Festival Gala still singing away merrily on TV.",
+     "words": [
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
+      },
+      {
+       "h": "电视",
+       "py": "diànshì",
+       "gl": "TV; television",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "春晚",
+       "py": "Chūnwǎn",
+       "gl": "Spring Festival Gala (CCTV)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "热热闹闹",
+       "py": "rèrènàonào",
+       "gl": "lively; bustling",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "唱着",
+       "py": "chàngzhe",
+       "gl": "sing",
+       "pos": "v."
+      },
+      {
+       "h": "歌",
+       "py": "gē",
+       "gl": "song",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Grandma spoke first: \"A perfectly good job, and you'll just up and quit? How will you buy a home, how will you get married?\"",
+   "phrases": [
+    {
+     "en": "Grandma spoke first:",
      "words": [
       {
        "h": "奶奶",
@@ -46,57 +309,33 @@
        "pos": "n."
       },
       {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again",
-       "pos": "adv."
+       "h": "第一个",
+       "py": "dìyígè",
+       "gl": "the first",
+       "pos": "num."
       },
       {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
+       "h": "开口",
+       "py": "kāikǒu",
+       "gl": "speak up; open one's mouth",
        "pos": "v."
       },
       {
-       "h": "跟",
-       "py": "gēn",
-       "gl": "with; together with",
-       "pos": "prep."
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "讲",
-       "py": "jiǎng",
-       "gl": "tell; talk about",
-       "pos": "v."
+       "h": "："
       }
      ]
     },
     {
-     "en": "stories from her youth again.",
+     "en": "\"A perfectly good job, and you'll just up and quit?",
      "words": [
       {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
+       "h": "“"
       },
       {
-       "h": "年轻",
-       "py": "niánqīng",
-       "gl": "young",
-       "pos": "adj."
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
+       "h": "好好",
+       "py": "hǎohǎo",
+       "gl": "properly; well; to one's heart's content",
+       "pos": "adv."
       },
       {
        "h": "的",
@@ -105,29 +344,13 @@
        "pos": "particle"
       },
       {
-       "h": "故事",
-       "py": "gùshi",
-       "gl": "story",
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
        "pos": "n."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "She said that for her generation, getting married was simple.",
-   "phrases": [
-    {
-     "en": "She said",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
+       "h": "，"
       },
       {
        "h": "说",
@@ -136,42 +359,57 @@
        "pos": "v."
       },
       {
-       "h": "，"
+       "h": "辞职",
+       "py": "cízhí",
+       "gl": "resign; quit (one's job)",
+       "pos": "v."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "辞职",
+       "py": "cízhí",
+       "gl": "resign; quit (one's job)",
+       "pos": "v."
+      },
+      {
+       "h": "？"
       }
      ]
     },
     {
-     "en": "that for her generation, getting married was simple.",
+     "en": "How will you buy a home, how will you get married?\"",
      "words": [
       {
-       "h": "她们",
-       "py": "tāmen",
-       "gl": "they; them (female)",
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after; later; in the future",
+       "pos": "postposition"
+      },
+      {
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
        "pos": "pron."
       },
       {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
+       "h": "买房",
+       "py": "mǎifáng",
+       "gl": "buy a home; buying a home",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
        "pos": "pron."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "代",
-       "py": "dài",
-       "gl": "generation; era; dynasty",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
       },
       {
        "h": "结婚",
@@ -180,15 +418,173 @@
        "pos": "v."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Grandma had worked for only one employer in her whole life, from twenty until retirement; the photo on her work ID had gone from black-and-white to color.",
+   "phrases": [
+    {
+     "en": "Grandma had worked for only one employer in her whole life,",
+     "words": [
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "这辈子",
+       "py": "zhèbèizi",
+       "gl": "in this lifetime; all one's life",
+       "pos": "n."
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
        "pos": "adv."
       },
       {
-       "h": "简单",
-       "py": "jiǎndān",
-       "gl": "simple; easy",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "单位",
+       "py": "dānwèi",
+       "gl": "work unit; employer; organization",
+       "pos": "n."
+      },
+      {
+       "h": "干",
+       "py": "gàn",
+       "gl": "do; work",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "from twenty until retirement;",
+     "words": [
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "二十",
+       "py": "èrshí",
+       "gl": "twenty",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "干",
+       "py": "gàn",
+       "gl": "do; work",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "退休",
+       "py": "tuìxiū",
+       "gl": "retire; retirement",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the photo on her work ID had gone from black-and-white to color.",
+     "words": [
+      {
+       "h": "工作证",
+       "py": "gōngzuòzhèng",
+       "gl": "work ID card",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
+       "pos": "n."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "黑白",
+       "py": "hēibái",
+       "gl": "black and white",
+       "pos": "adj."
+      },
+      {
+       "h": "变成",
+       "py": "biànchéng",
+       "gl": "turn into; become",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "彩色",
+       "py": "cǎisè",
+       "gl": "colored; colorful",
        "pos": "adj."
       },
       {
@@ -199,10 +595,42 @@
    ]
   },
   {
-   "en": "No house, no car: if two people liked each other, they could get married.",
+   "en": "When she got married, she had no house and no car; Grandpa brought her home on a bicycle, and their belongings didn't fill a single wooden chest.",
    "phrases": [
     {
-     "en": "No house, no car:",
+     "en": "When she got married,",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "结婚",
+       "py": "jiéhūn",
+       "gl": "marry; get married",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she had no house and no car;",
      "words": [
       {
        "h": "没有",
@@ -243,7 +671,63 @@
      ]
     },
     {
-     "en": "if two people liked each other, they could get married.",
+     "en": "Grandpa brought her home on a bicycle,",
+     "words": [
+      {
+       "h": "爷爷",
+       "py": "yéye",
+       "gl": "grandpa; grandfather (father's father)",
+       "pos": "n."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "自行车",
+       "py": "zìxíngchē",
+       "gl": "bicycle; bike",
+       "pos": "n."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "接",
+       "py": "jiē",
+       "gl": "pick up; take away",
+       "pos": "v."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "return; go back",
+       "pos": "v."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and their belongings didn't fill a single wooden chest.",
      "words": [
       {
        "h": "两",
@@ -264,144 +748,33 @@
        "pos": "n."
       },
       {
-       "h": "互相",
-       "py": "hùxiāng",
-       "gl": "each other; mutually",
-       "pos": "adv."
-      },
-      {
-       "h": "喜欢",
-       "py": "xǐhuan",
-       "gl": "like; love",
-       "pos": "v."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "v."
-      },
-      {
-       "h": "结婚",
-       "py": "jiéhūn",
-       "gl": "marry; get married",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: change of state",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "As for work, Grandma believes a person should stay with one employer for life.",
-   "phrases": [
-    {
-     "en": "As for work,",
-     "words": [
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
+       "h": "家当",
+       "py": "jiādàng",
+       "gl": "belongings",
        "pos": "n."
       },
       {
-       "h": "方面",
-       "py": "fāngmiàn",
-       "gl": "aspect; respect; side",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Grandma believes a person should stay with one employer for life.",
-     "words": [
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
+       "h": "装不满",
+       "py": "zhuāng bu mǎn",
+       "gl": "can't fill up",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "应该",
-       "py": "yīnggāi",
-       "gl": "should; ought to; probably",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "单位",
-       "py": "dānwèi",
-       "gl": "work unit; employer; organization",
-       "pos": "n."
-      },
-      {
-       "h": "干",
-       "py": "gàn",
-       "gl": "do; work",
-       "pos": "v."
-      },
-      {
-       "h": "一辈子",
-       "py": "yíbèizi",
-       "gl": "whole life; all one's life",
+       "h": "木箱",
+       "py": "mùxiāng",
+       "gl": "wooden chest",
        "pos": "n."
       },
       {
@@ -412,10 +785,10 @@
    ]
   },
   {
-   "en": "She says hopping from job to job just isn't reliable.",
+   "en": "Every month she saved part of her pay, and in a tin cookie box she had used for forty years she still kept stacks of bankbooks.",
    "phrases": [
     {
-     "en": "She says",
+     "en": "Every month she saved part of her pay,",
      "words": [
       {
        "h": "她",
@@ -424,92 +797,9 @@
        "pos": "pron."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "hopping from job to job just isn't reliable.",
-     "words": [
-      {
-       "h": "跳来跳去",
-       "py": "tiàoláitiàoqù",
-       "gl": "jump around; keep switching (jobs)",
-       "pos": "v."
-      },
-      {
-       "h": "找",
-       "py": "zhǎo",
-       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
-       "pos": "v."
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "靠谱",
-       "py": "kàopǔ",
-       "gl": "reliable; trustworthy",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "As for money, Grandma's rule is that whatever can be saved must be saved.",
-   "phrases": [
-    {
-     "en": "As for money,",
-     "words": [
-      {
-       "h": "至于",
-       "py": "zhìyú",
-       "gl": "as for; as far as … is concerned",
-       "pos": "prep."
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Grandma's rule is that whatever can be saved must be saved.",
-     "words": [
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
+       "h": "每个月",
+       "py": "měigèyuè",
+       "gl": "every month",
        "pos": "n."
       },
       {
@@ -519,22 +809,180 @@
        "pos": "particle"
       },
       {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "habit",
+       "h": "工资",
+       "py": "gōngzī",
+       "gl": "salary; wages",
        "pos": "n."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
        "pos": "v."
+      },
+      {
+       "h": "存",
+       "py": "cún",
+       "gl": "save; deposit; store",
+       "pos": "v."
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "(complement: put away)",
+       "pos": "v."
+      },
+      {
+       "h": "一部分",
+       "py": "yībùfèn",
+       "gl": "part; portion",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and in a tin cookie box she had used for forty years",
+     "words": [
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use; with (by means of)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "四十",
+       "py": "sìshí",
+       "gl": "forty",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "铁皮",
+       "py": "tiěpí",
+       "gl": "tin; sheet iron",
+       "pos": "n."
+      },
+      {
+       "h": "饼干盒",
+       "py": "bǐnggānhé",
+       "gl": "cookie tin",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she still kept stacks of bankbooks.",
+     "words": [
+      {
+       "h": "至今",
+       "py": "zhìjīn",
+       "gl": "until now; to this day",
+       "pos": "adv."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "放着",
+       "py": "fàngzhe",
+       "gl": "be placed; lie; sit (somewhere)",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "叠",
+       "py": "dié",
+       "gl": "fold; pile up",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "叠",
+       "py": "dié",
+       "gl": "fold; pile up",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "存折",
+       "py": "cúnzhé",
+       "gl": "bankbook",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"What should be saved must be saved,\" she always said, \"or what will you do when you're old?\"",
+   "phrases": [
+    {
+     "en": "\"What should be saved must be saved,\"",
+     "words": [
+      {
+       "h": "“"
       },
       {
        "h": "该",
        "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
+       "gl": "should (该…的: what ought to)",
+       "pos": "function word"
       },
       {
        "h": "省",
@@ -545,7 +993,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -567,17 +1015,15 @@
        "pos": "v."
       },
       {
-       "h": "。"
+       "h": "，"
+      },
+      {
+       "h": "”"
       }
      ]
-    }
-   ]
-  },
-  {
-   "en": "Every month she puts part of her pay into savings and never spends money carelessly.",
-   "phrases": [
+    },
     {
-     "en": "Every month she puts part of her pay into savings,",
+     "en": "she always said,",
      "words": [
       {
        "h": "她",
@@ -586,990 +1032,10 @@
        "pos": "pron."
       },
       {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
-       "pos": "pron."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "工资",
-       "py": "gōngzī",
-       "gl": "salary; wages",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both; even; already",
+       "h": "常",
+       "py": "cháng",
+       "gl": "often",
        "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "存起来",
-       "py": "cúnqǐlái",
-       "gl": "save up; put away",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "部分",
-       "py": "bùfen",
-       "gl": "part; section",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and never spends money carelessly.",
-     "words": [
-      {
-       "h": "从来",
-       "py": "cónglái",
-       "gl": "never (with negation); always",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "乱",
-       "py": "luàn",
-       "gl": "at random; recklessly; chaotic; in disorder",
-       "pos": "adv."
-      },
-      {
-       "h": "花钱",
-       "py": "huāqián",
-       "gl": "spend money",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But my younger cousin doesn't see it that way.",
-   "phrases": [
-    {
-     "en": "But my younger cousin doesn't see it that way.",
-     "words": [
-      {
-       "h": "可是",
-       "py": "kěshì",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "表弟",
-       "py": "biǎodì",
-       "gl": "(younger male) cousin",
-       "pos": "n."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "这么",
-       "py": "zhème",
-       "gl": "so; like this",
-       "pos": "pron."
-      },
-      {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "think",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "He says changing jobs is normal these days, and as long as you can learn something new, there's nothing wrong with switching.",
-   "phrases": [
-    {
-     "en": "He says changing jobs is normal these days,",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "换",
-       "py": "huàn",
-       "gl": "change (换个角度 from another angle)",
-       "pos": "v."
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "正常",
-       "py": "zhèngcháng",
-       "gl": "normal",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and as long as you can learn something new,",
-     "words": [
-      {
-       "h": "只要",
-       "py": "zhǐyào",
-       "gl": "as long as; if only",
-       "pos": "conj."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "学到",
-       "py": "xuédào",
-       "gl": "learn",
-       "pos": "v."
-      },
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; stuff",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "there's nothing wrong with switching.",
-     "words": [
-      {
-       "h": "跳槽",
-       "py": "tiàocáo",
-       "gl": "change jobs; job-hop",
-       "pos": "v."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "没什么",
-       "py": "méishénme",
-       "gl": "nothing much; nothing wrong with",
-       "pos": "pron."
-      },
-      {
-       "h": "不好",
-       "py": "bùhǎo",
-       "gl": "bad; not good",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "He also likes buying things he enjoys and thinks money is for enjoying life.",
-   "phrases": [
-    {
-     "en": "He also likes buying things he enjoys,",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "喜欢",
-       "py": "xǐhuan",
-       "gl": "like; love",
-       "pos": "v."
-      },
-      {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "喜欢",
-       "py": "xǐhuan",
-       "gl": "like; love",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; stuff",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and thinks money is for enjoying life.",
-     "words": [
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "用来",
-       "py": "yònglái",
-       "gl": "be used for; use to",
-       "pos": "v."
-      },
-      {
-       "h": "享受",
-       "py": "xiǎngshòu",
-       "gl": "enjoy",
-       "pos": "v."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "particle: emphasis / assertion (是…的 construction)",
-       "pos": "particle"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Grandma just shook her head at this, saying young people are too headstrong and don't understand how hard it is to make ends meet.",
-   "phrases": [
-    {
-     "en": "Grandma just shook her head at this,",
-     "words": [
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "听",
-       "py": "tīng",
-       "gl": "listen; hear",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "直",
-       "py": "zhí",
-       "gl": "continuously; keep (doing)",
-       "pos": "adv."
-      },
-      {
-       "h": "摇头",
-       "py": "yáotóu",
-       "gl": "shake one's head",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "saying young people are too headstrong,",
-     "words": [
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "年轻人",
-       "py": "niánqīngrén",
-       "gl": "young people",
-       "pos": "n."
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "任性",
-       "py": "rènxìng",
-       "gl": "willful; headstrong",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and don't understand how hard it is to make ends meet.",
-     "words": [
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "懂得",
-       "py": "dǒngde",
-       "gl": "understand; know",
-       "pos": "v."
-      },
-      {
-       "h": "过日子",
-       "py": "guòrìzi",
-       "gl": "live; get by",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "辛苦",
-       "py": "xīnkǔ",
-       "gl": "hard; tiring; laborious",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Though the two generations saw things completely differently, everyone still had a lively, happy conversation over dinner.",
-   "phrases": [
-    {
-     "en": "Though the two generations saw things completely differently,",
-     "words": [
-      {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
-      },
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "代",
-       "py": "dài",
-       "gl": "generation; era",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "想法",
-       "py": "xiǎngfǎ",
-       "gl": "idea; thought; opinion",
-       "pos": "n."
-      },
-      {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "一样",
-       "py": "yíyàng",
-       "gl": "same; identical",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "everyone still had a lively, happy conversation over dinner.",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "吃饭",
-       "py": "chīfàn",
-       "gl": "eat; have a meal",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "还是",
-       "py": "háishi",
-       "gl": "still; nevertheless; after all",
-       "pos": "adv."
-      },
-      {
-       "h": "聊",
-       "py": "liáo",
-       "gl": "chat; talk (about)",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its degree or result (发展得很快 develop fast)",
-       "pos": "function word"
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "开心",
-       "py": "kāixīn",
-       "gl": "happy; cheerful",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Grandpa, who had been sitting quietly the whole time, chimed in with a smile, saying young people have their own way of living and don't need to measure everything against the older generation.",
-   "phrases": [
-    {
-     "en": "Grandpa, who had been sitting quietly the whole time,",
-     "words": [
-      {
-       "h": "爷爷",
-       "py": "yéye",
-       "gl": "grandpa; grandfather (father's father)",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "旁边",
-       "py": "pángbiān",
-       "gl": "next to; beside",
-       "pos": "n."
-      },
-      {
-       "h": "一直",
-       "py": "yìzhí",
-       "gl": "all along; always; continuously",
-       "pos": "adv."
-      },
-      {
-       "h": "没",
-       "py": "méi",
-       "gl": "not (yet); negates 有 and past actions",
-       "pos": "adv."
-      },
-      {
-       "h": "说话",
-       "py": "shuōhuà",
-       "gl": "speak; talk",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "chimed in with a smile,",
-     "words": [
-      {
-       "h": "这时",
-       "py": "zhèshí",
-       "gl": "at this moment; at that time",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
-      },
-      {
-       "h": "插",
-       "py": "chā",
-       "gl": "interject (插一句 put in a word)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "句",
-       "py": "jù",
-       "gl": "measure word for sentences and lines",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "saying young people have their own way of living,",
-     "words": [
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "年轻人",
-       "py": "niánqīngrén",
-       "gl": "young people",
-       "pos": "n."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "活法",
-       "py": "huófǎ",
-       "gl": "way of life",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "and don't need to measure everything against the older generation.",
-     "words": [
-      {
-       "h": "，"
-      },
-      {
-       "h": "不用",
-       "py": "bùyòng",
-       "gl": "not need; no need to",
-       "pos": "v."
-      },
-      {
-       "h": "事事",
-       "py": "shìshì",
-       "gl": "everything; every matter",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both; even; already",
-       "pos": "adv."
-      },
-      {
-       "h": "跟",
-       "py": "gēn",
-       "gl": "with; together with",
-       "pos": "prep."
-      },
-      {
-       "h": "老一辈",
-       "py": "lǎoyībèi",
-       "gl": "older generation",
-       "pos": "n."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "compare",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Mom was caught in the middle: she understood Grandma's frugal habits but also supported my cousin in pursuing the life he wanted.",
-   "phrases": [
-    {
-     "en": "Mom was caught in the middle:",
-     "words": [
-      {
-       "h": "妈妈",
-       "py": "māma",
-       "gl": "mom",
-       "pos": "n."
-      },
-      {
-       "h": "夹",
-       "py": "jiā",
-       "gl": "be caught in between",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "中间",
-       "py": "zhōngjiān",
-       "gl": "middle; in the middle",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she understood Grandma's frugal habits,",
-     "words": [
-      {
-       "h": "既",
-       "py": "jì",
-       "gl": "both (既…又… both … and …); neither (既不…也不… neither … nor …)",
-       "pos": "conj."
-      },
-      {
-       "h": "理解",
-       "py": "lǐjiě",
-       "gl": "understand; understanding",
-       "pos": "v."
-      },
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "节省",
-       "py": "jiéshěng",
-       "gl": "save; economize",
-       "pos": "n."
-      },
-      {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "habit",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but also supported my cousin in pursuing the life he wanted.",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "支持",
-       "py": "zhīchí",
-       "gl": "support",
-       "pos": "v."
-      },
-      {
-       "h": "表弟",
-       "py": "biǎodì",
-       "gl": "(younger male) cousin",
-       "pos": "n."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go (to); go (to do something)",
-       "pos": "v."
-      },
-      {
-       "h": "追求",
-       "py": "zhuīqiú",
-       "gl": "pursue; seek; pursuit",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "喜欢",
-       "py": "xǐhuān",
-       "gl": "like; love",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "She said these times are completely different from when Grandma was young, and where we need to adapt to new circumstances, we should.",
-   "phrases": [
-    {
-     "en": "She said",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
       },
       {
        "h": "说",
@@ -1583,72 +1049,21 @@
      ]
     },
     {
-     "en": "these times are completely different from when Grandma was young,",
+     "en": "\"or what will you do when you're old?\"",
      "words": [
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
+       "h": "“"
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "measure word (general: 换个角度 from another angle)",
-       "pos": "measure word"
+       "h": "不然",
+       "py": "bùrán",
+       "gl": "otherwise; or else",
+       "pos": "conj."
       },
       {
-       "h": "时代",
-       "py": "shídài",
-       "gl": "era; times",
-       "pos": "n."
-      },
-      {
-       "h": "跟",
-       "py": "gēn",
-       "gl": "with; together with",
-       "pos": "prep."
-      },
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "年轻",
-       "py": "niánqīng",
-       "gl": "young",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "一样",
-       "py": "yīyàng",
-       "gl": "same; identical",
+       "h": "老",
+       "py": "lǎo",
+       "gl": "old; elderly",
        "pos": "adj."
       },
       {
@@ -1658,79 +1073,26 @@
        "pos": "particle"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and where we need to adapt to new circumstances, we should.",
-     "words": [
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
+       "h": "怎么办",
+       "py": "zěnmebàn",
+       "gl": "what to do",
+       "pos": "pron."
       },
       {
-       "h": "适应",
-       "py": "shìyìng",
-       "gl": "adapt; get used to",
-       "pos": "v."
+       "h": "？"
       },
       {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "环境",
-       "py": "huánjìng",
-       "gl": "environment; surroundings",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "地方",
-       "py": "dìfāng",
-       "gl": "part; aspect (what is special)",
-       "pos": "n."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "应该",
-       "py": "yīnggāi",
-       "gl": "should; ought to; probably",
-       "pos": "v."
-      },
-      {
-       "h": "适应",
-       "py": "shìyìng",
-       "gl": "adapt; get used to",
-       "pos": "v."
-      },
-      {
-       "h": "。"
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "My cousin seized the moment to announce that next year he planned to quit and try his luck in an up-and-coming industry down south, even if it meant lower pay for a while.",
+   "en": "My cousin smiled and said many people his age weren't in a hurry to buy a home now; he would rather spend his money on learning and travel first.",
    "phrases": [
     {
-     "en": "My cousin seized the moment to announce",
+     "en": "My cousin smiled and said",
      "words": [
       {
        "h": "表弟",
@@ -1739,9 +1101,9 @@
        "pos": "n."
       },
       {
-       "h": "趁机",
-       "py": "chènjī",
-       "gl": "seize the chance; take the opportunity",
+       "h": "笑着",
+       "py": "xiàozhe",
+       "gl": "smiling; with a smile",
        "pos": "adv."
       },
       {
@@ -1756,352 +1118,7 @@
      ]
     },
     {
-     "en": "that next year he planned to quit and try his luck in an up-and-coming industry down south,",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "打算",
-       "py": "dǎsuàn",
-       "gl": "plan; intend",
-       "pos": "v."
-      },
-      {
-       "h": "明年",
-       "py": "míngnián",
-       "gl": "next year",
-       "pos": "n."
-      },
-      {
-       "h": "辞职",
-       "py": "cízhí",
-       "gl": "resign; quit (one's job)",
-       "pos": "v."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go (to); go (to do something)",
-       "pos": "v."
-      },
-      {
-       "h": "南方",
-       "py": "nánfāng",
-       "gl": "south; southern; the South",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "measure word (general: 换个角度 from another angle)",
-       "pos": "measure word"
-      },
-      {
-       "h": "新兴",
-       "py": "xīnxīng",
-       "gl": "new; emerging",
-       "pos": "adj."
-      },
-      {
-       "h": "行业",
-       "py": "hángyè",
-       "gl": "industry; line of business",
-       "pos": "n."
-      },
-      {
-       "h": "试试",
-       "py": "shìshì",
-       "gl": "give it a try; try",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "even if it meant lower pay for a while.",
-     "words": [
-      {
-       "h": "哪怕",
-       "py": "nǎpà",
-       "gl": "even if",
-       "pos": "conj."
-      },
-      {
-       "h": "工资",
-       "py": "gōngzī",
-       "gl": "salary; wages",
-       "pos": "n."
-      },
-      {
-       "h": "暂时",
-       "py": "zànshí",
-       "gl": "for now; temporarily",
-       "pos": "adv."
-      },
-      {
-       "h": "低",
-       "py": "dī",
-       "gl": "low",
-       "pos": "adj."
-      },
-      {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; a bit",
-       "pos": "num."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "没关系",
-       "py": "méiguānxì",
-       "gl": "it doesn't matter; that's OK",
-       "pos": "phrase"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Grandma got worked up the moment she heard it, saying young people shouldn't be so impulsive: how could he just quit a stable job like that, and how would he ever buy a home or get married?",
-   "phrases": [
-    {
-     "en": "Grandma got worked up the moment she heard it,",
-     "words": [
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "as soon as (一…就… no sooner … than)",
-       "pos": "adv."
-      },
-      {
-       "h": "听",
-       "py": "tīng",
-       "gl": "listen; hear",
-       "pos": "v."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "急",
-       "py": "jí",
-       "gl": "anxious; in a hurry",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      }
-     ]
-    },
-    {
-     "en": "saying young people shouldn't be so impulsive:",
-     "words": [
-      {
-       "h": "，"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "年轻人",
-       "py": "niánqīngrén",
-       "gl": "young people",
-       "pos": "n."
-      },
-      {
-       "h": "不能",
-       "py": "bùnéng",
-       "gl": "cannot; must not",
-       "pos": "v."
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "冲动",
-       "py": "chōngdòng",
-       "gl": "impulsive; impulse",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "how could he just quit a stable job like that,",
-     "words": [
-      {
-       "h": "稳定",
-       "py": "wěndìng",
-       "gl": "stable; steady",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "辞职",
-       "py": "cízhí",
-       "gl": "resign; quit (one's job)",
-       "pos": "v."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "辞职",
-       "py": "cízhí",
-       "gl": "resign; quit (one's job)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and how would he ever buy a home or get married?",
-     "words": [
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "n."
-      },
-      {
-       "h": "怎么",
-       "py": "zěnme",
-       "gl": "how",
-       "pos": "pron."
-      },
-      {
-       "h": "买房",
-       "py": "mǎifáng",
-       "gl": "buy a home; buying a home",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "怎么",
-       "py": "zěnme",
-       "gl": "how",
-       "pos": "pron."
-      },
-      {
-       "h": "结婚",
-       "py": "jiéhūn",
-       "gl": "marry; get married",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "My cousin answered with a smile that many people his age aren't in a hurry to buy a home these days; they'd rather spend their money on learning and travel first.",
-   "phrases": [
-    {
-     "en": "My cousin answered with a smile",
-     "words": [
-      {
-       "h": "表弟",
-       "py": "biǎodì",
-       "gl": "(younger male) cousin",
-       "pos": "n."
-      },
-      {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
-      },
-      {
-       "h": "回答",
-       "py": "huídá",
-       "gl": "answer; reply",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that many people his age aren't in a hurry to buy a home these days;",
+     "en": "many people his age weren't in a hurry to buy a home now;",
      "words": [
       {
        "h": "现在",
@@ -2134,48 +1151,36 @@
        "pos": "adv."
       },
       {
-       "h": "急",
-       "py": "jí",
-       "gl": "urgent; urgently; anxious",
+       "h": "急着",
+       "py": "jízhe",
+       "gl": "be in a hurry to",
        "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
       },
       {
        "h": "买房",
        "py": "mǎifáng",
        "gl": "buy a home; buying a home",
        "pos": "v."
+      },
+      {
+       "h": "，"
       }
      ]
     },
     {
-     "en": "they'd rather spend their money on learning and travel first.",
+     "en": "he would rather spend his money on learning and travel first.",
      "words": [
       {
-       "h": "，"
-      },
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
        "pos": "pron."
       },
       {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "愿意",
-       "py": "yuànyì",
-       "gl": "be willing",
-       "pos": "v."
+       "h": "宁可",
+       "py": "nìngkě",
+       "gl": "would rather",
+       "pos": "conj."
       },
       {
        "h": "先",
@@ -2204,14 +1209,14 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
        "h": "学习",
        "py": "xuéxí",
        "gl": "study; learn",
-       "pos": "n."
+       "pos": "v."
       },
       {
        "h": "和",
@@ -2228,7 +1233,7 @@
       {
        "h": "上",
        "py": "shàng",
-       "gl": "on (a surface: 床上 on the bed)",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
        "pos": "postposition"
       },
       {
@@ -2239,10 +1244,10 @@
    ]
   },
   {
-   "en": "Grandma sighed and said the one principle she'd believed in all her life was to save what should be saved and put away what should be put away; otherwise, what would you do when you got old?",
+   "en": "Grandma kept shaking her head, saying young people were too willful and didn't know how hard life could be.",
    "phrases": [
     {
-     "en": "Grandma sighed and said",
+     "en": "Grandma kept shaking her head,",
      "words": [
       {
        "h": "奶奶",
@@ -2251,9 +1256,267 @@
        "pos": "n."
       },
       {
-       "h": "叹",
-       "py": "tàn",
-       "gl": "sigh",
+       "h": "直",
+       "py": "zhí",
+       "gl": "keep (doing); nonstop",
+       "pos": "adv."
+      },
+      {
+       "h": "摇头",
+       "py": "yáotóu",
+       "gl": "shake one's head",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "saying young people were too willful",
+     "words": [
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "年轻人",
+       "py": "niánqīngrén",
+       "gl": "young people",
+       "pos": "n."
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "任性",
+       "py": "rènxìng",
+       "gl": "willful; headstrong",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and didn't know how hard life could be.",
+     "words": [
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "过日子",
+       "py": "guòrìzi",
+       "gl": "live; get by",
+       "pos": "v."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "难",
+       "py": "nán",
+       "gl": "difficult; hard",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "My mother was caught in the middle, one moment putting food in Grandma's bowl, the next signaling to my cousin with her eyes.",
+   "phrases": [
+    {
+     "en": "My mother was caught in the middle,",
+     "words": [
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "夹",
+       "py": "jiā",
+       "gl": "be caught; be wedged",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "中间",
+       "py": "zhōngjiān",
+       "gl": "middle; in the middle",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "one moment putting food in Grandma's bowl,",
+     "words": [
+      {
+       "h": "一会儿",
+       "py": "yíhuìr",
+       "gl": "a while; a moment",
+       "pos": "adv."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "夹",
+       "py": "jiā",
+       "gl": "put (food) for someone with chopsticks",
+       "pos": "v."
+      },
+      {
+       "h": "菜",
+       "py": "cài",
+       "gl": "dish (food)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the next signaling to my cousin with her eyes.",
+     "words": [
+      {
+       "h": "一会儿",
+       "py": "yíhuìr",
+       "gl": "a while; a moment",
+       "pos": "adv."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "表弟",
+       "py": "biǎodì",
+       "gl": "(younger male) cousin",
+       "pos": "n."
+      },
+      {
+       "h": "使眼色",
+       "py": "shǐ yǎnsè",
+       "gl": "signal with one's eyes; wink",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Grandpa hadn't said a word, but now he slowly put in: \"Young people have their own way of living. Didn't you run off from the countryside to the city back then too?\"",
+   "phrases": [
+    {
+     "en": "Grandpa hadn't said a word,",
+     "words": [
+      {
+       "h": "爷爷",
+       "py": "yéye",
+       "gl": "grandpa; grandfather (father's father)",
+       "pos": "n."
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but now he slowly put in:",
+     "words": [
+      {
+       "h": "这时候",
+       "py": "zhèshíhòu",
+       "gl": "at this time; at this point",
+       "pos": "n."
+      },
+      {
+       "h": "慢慢",
+       "py": "mànmàn",
+       "gl": "slowly; gradually",
+       "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "插",
+       "py": "chā",
+       "gl": "interject (插一句 put in a word)",
        "pos": "v."
       },
       {
@@ -2263,77 +1526,88 @@
        "pos": "particle"
       },
       {
-       "h": "口",
-       "py": "kǒu",
-       "gl": "measure word for mouthfuls, breaths, wells, pots; mouth",
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
        "pos": "measure word"
       },
       {
-       "h": "气",
-       "py": "qì",
-       "gl": "breath; sigh",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
+       "h": "："
       }
      ]
     },
     {
-     "en": "the one principle she'd believed in all her life was to save what should be saved,",
+     "en": "\"Young people have their own way of living.",
      "words": [
       {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
+       "h": "“"
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "辈子",
-       "py": "bèizi",
-       "gl": "lifetime (一辈子 all one's life)",
+       "h": "年轻人",
+       "py": "niánqīngrén",
+       "gl": "young people",
        "pos": "n."
       },
       {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
       },
       {
-       "h": "信",
-       "py": "xìn",
-       "gl": "believe; trust",
-       "pos": "v."
+       "h": "年轻人",
+       "py": "niánqīngrén",
+       "gl": "young people",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "道理",
-       "py": "dàolǐ",
-       "gl": "reason; principle; sense",
+       "h": "活法",
+       "py": "huófǎ",
+       "gl": "way of life",
        "pos": "n."
       },
       {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "Didn't you run off from the countryside to the city back then too?\"",
+     "words": [
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "当年",
+       "py": "dāngnián",
+       "gl": "back then; in those years",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
        "pos": "adv."
       },
       {
@@ -2343,704 +1617,62 @@
        "pos": "v."
       },
       {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "一定",
-       "py": "yídìng",
-       "gl": "definitely; surely; must",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and put away what should be put away; otherwise, what would you do when you got old?",
-     "words": [
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "攒",
-       "py": "zǎn",
-       "gl": "save up; accumulate",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "一定",
-       "py": "yídìng",
-       "gl": "definitely; surely; must",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "攒",
-       "py": "zǎn",
-       "gl": "save up; accumulate",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不然",
-       "py": "bùrán",
-       "gl": "otherwise; or else",
-       "pos": "conj."
-      },
-      {
-       "h": "老",
-       "py": "lǎo",
-       "gl": "old; elderly",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "怎么办",
-       "py": "zěnmebàn",
-       "gl": "what to do",
-       "pos": "phrase"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Mom quickly cut in, saying that as long as everyone takes responsibility for their own choices, saving when it's time to save and spending when it's time to spend, nobody is really right or wrong.",
-   "phrases": [
-    {
-     "en": "Mom quickly cut in, saying",
-     "words": [
-      {
-       "h": "妈妈",
-       "py": "māma",
-       "gl": "mom",
-       "pos": "n."
-      },
-      {
-       "h": "赶紧",
-       "py": "gǎnjǐn",
-       "gl": "hurry; quickly; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "打岔",
-       "py": "dǎchà",
-       "gl": "interrupt; change the subject",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "that as long as everyone takes responsibility for their own choices,",
-     "words": [
-      {
-       "h": "只要",
-       "py": "zhǐyào",
-       "gl": "as long as; if only",
-       "pos": "conj."
-      },
-      {
-       "h": "每个",
-       "py": "měigè",
-       "gl": "every; each",
-       "pos": "pron."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "for; to (对…的要求 'requirements for')",
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
        "pos": "prep."
       },
       {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "选择",
-       "py": "xuǎnzé",
-       "gl": "choice; option",
+       "h": "农村",
+       "py": "nóngcūn",
+       "gl": "countryside; rural area",
        "pos": "n."
       },
       {
-       "h": "负责",
-       "py": "fùzé",
-       "gl": "be responsible for; be in charge of",
-       "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "saving when it's time to save and spending when it's time to spend,",
-     "words": [
-      {
-       "h": "，"
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "花",
-       "py": "huā",
-       "gl": "spend (time, money); flower",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "花",
-       "py": "huā",
-       "gl": "spend (time, money); flower",
-       "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "nobody is really right or wrong.",
-     "words": [
-      {
-       "h": "，"
-      },
-      {
-       "h": "其实",
-       "py": "qíshí",
-       "gl": "actually; in fact",
-       "pos": "adv."
-      },
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
-       "pos": "v."
-      },
-      {
-       "h": "谁",
-       "py": "shuí",
-       "gl": "who; anyone; everyone",
-       "pos": "pron."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "right; correct",
-       "pos": "adj."
-      },
-      {
-       "h": "谁",
-       "py": "shuí",
-       "gl": "who; anyone; everyone",
-       "pos": "pron."
-      },
-      {
-       "h": "错",
-       "py": "cuò",
-       "gl": "wrong; mistaken",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Dad added with a smile that the different views across the generations in our family just show that life is getting more varied, and that's no bad thing.",
-   "phrases": [
-    {
-     "en": "Dad added with a smile",
-     "words": [
-      {
-       "h": "爸爸",
-       "py": "bàba",
-       "gl": "dad; father",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
-      },
-      {
-       "h": "补充",
-       "py": "bǔchōng",
-       "gl": "supplement; add",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that the different views across the generations in our family",
-     "words": [
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "家里",
-       "py": "jiālǐ",
-       "gl": "at home; in the family",
-       "pos": "n."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "代",
-       "py": "dài",
-       "gl": "generation; era",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "people; others",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "想法",
-       "py": "xiǎngfǎ",
-       "gl": "idea; thought; opinion",
-       "pos": "n."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "一样",
-       "py": "yīyàng",
-       "gl": "same; identical",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "just show that life is getting more varied,",
-     "words": [
-      {
-       "h": "正好",
-       "py": "zhènghǎo",
-       "gl": "just right; happen to; exactly",
-       "pos": "adv."
-      },
-      {
-       "h": "说明",
-       "py": "shuōmíng",
-       "gl": "show; explain; indicate",
-       "pos": "v."
-      },
-      {
-       "h": "日子",
-       "py": "rìzi",
-       "gl": "life; days",
-       "pos": "n."
-      },
-      {
-       "h": "越",
-       "py": "yuè",
-       "gl": "the more … (越…越… the more … the more …)",
-       "pos": "adv."
-      },
-      {
-       "h": "过",
-       "py": "guò",
-       "gl": "live; spend (time)",
-       "pos": "v."
-      },
-      {
-       "h": "越",
-       "py": "yuè",
-       "gl": "the more … (越…越… the more … the more …)",
-       "pos": "adv."
-      },
-      {
-       "h": "多样",
-       "py": "duōyàng",
-       "gl": "diverse; varied",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and that's no bad thing.",
-     "words": [
-      {
-       "h": "不是",
-       "py": "búshì",
-       "gl": "not be; is not",
-       "pos": "v."
-      },
-      {
-       "h": "什么",
-       "py": "shénme",
-       "gl": "what; any; (not) anything",
-       "pos": "pron."
-      },
-      {
-       "h": "坏事",
-       "py": "huàishì",
-       "gl": "bad thing; misfortune",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "At that, my cousin raised his glass and said that whether or not we all think alike, just being able to sit down to a meal together as a family is happiness enough.",
-   "phrases": [
-    {
-     "en": "At that, my cousin raised his glass and said",
-     "words": [
-      {
-       "h": "听",
-       "py": "tīng",
-       "gl": "listen; hear",
+       "h": "跑",
+       "py": "pǎo",
+       "gl": "run",
        "pos": "v."
       },
       {
        "h": "到",
        "py": "dào",
-       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
-       "pos": "v."
-      },
-      {
-       "h": "这里",
-       "py": "zhèlǐ",
-       "gl": "here",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "表弟",
-       "py": "biǎodì",
-       "gl": "(younger male) cousin",
-       "pos": "n."
-      },
-      {
-       "h": "举起",
-       "py": "jǔqǐ",
-       "gl": "raise; lift up",
-       "pos": "v."
-      },
-      {
-       "h": "杯子",
-       "py": "bēizi",
-       "gl": "cup; glass",
-       "pos": "n."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that whether or not we all think alike,",
-     "words": [
-      {
-       "h": "不管",
-       "py": "bùguǎn",
-       "gl": "no matter; regardless of",
-       "pos": "conj."
-      },
-      {
-       "h": "想法",
-       "py": "xiǎngfǎ",
-       "gl": "idea; thought; opinion",
-       "pos": "n."
-      },
-      {
-       "h": "一样",
-       "py": "yīyàng",
-       "gl": "same; identical",
-       "pos": "adj."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "一样",
-       "py": "yīyàng",
-       "gl": "same; identical",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "just being able to sit down to a meal together as a family is happiness enough.",
-     "words": [
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "people; others",
-       "pos": "n."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "坐",
-       "py": "zuò",
-       "gl": "sit; ride; take (transport)",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
+       "gl": "to; up to (从…到… from … to …)",
        "pos": "prep."
       },
       {
-       "h": "一起",
-       "py": "yìqǐ",
-       "gl": "together",
-       "pos": "adv."
-      },
-      {
-       "h": "吃饭",
-       "py": "chīfàn",
-       "gl": "eat; have a meal",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "幸福",
-       "py": "xìngfú",
-       "gl": "happy; happiness",
+       "h": "城里",
+       "py": "chénglǐ",
+       "gl": "in the city; in town",
        "pos": "n."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "。"
+       "h": "？"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "Those words brought tears to Grandma's eyes, and she hurried off to the kitchen to bring out the last dish she had saved specially.",
+   "en": "Grandma paused and didn't reply; she turned and went to the kitchen to bring out the red-braised fish she had saved for last.",
    "phrases": [
     {
-     "en": "Those words brought tears to Grandma's eyes,",
+     "en": "Grandma paused and didn't reply;",
      "words": [
       {
        "h": "奶奶",
@@ -3049,58 +1681,10 @@
        "pos": "n."
       },
       {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "句",
-       "py": "jù",
-       "gl": "measure word for sentences and lines",
-       "pos": "measure word"
-      },
-      {
-       "h": "话",
-       "py": "huà",
-       "gl": "words; speech; what someone says",
-       "pos": "n."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "愣",
+       "py": "lèng",
+       "gl": "be stunned; freeze",
        "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "dé",
-       "gl": "particle linking a verb to its degree or result (发展得很快 develop fast)",
-       "pos": "function word"
-      },
-      {
-       "h": "眼睛",
-       "py": "yǎnjīng",
-       "gl": "eye; eyes",
-       "pos": "n."
-      },
-      {
-       "h": "一下子",
-       "py": "yīxiàzi",
-       "gl": "all at once; suddenly",
-       "pos": "adv."
-      },
-      {
-       "h": "红",
-       "py": "hóng",
-       "gl": "blush; turn red",
-       "pos": "adj."
       },
       {
        "h": "了",
@@ -3109,23 +1693,38 @@
        "pos": "particle"
       },
       {
+       "h": "一下",
+       "py": "yíxià",
+       "gl": "a bit; once (softens the verb: take a look)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "接话",
+       "py": "jiēhuà",
+       "gl": "pick up the conversation; chime in",
+       "pos": "v."
+      },
+      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "and she hurried off to the kitchen",
+     "en": "she turned and went to the kitchen to bring out the red-braised fish she had saved for last.",
      "words": [
-      {
-       "h": "连忙",
-       "py": "liánmáng",
-       "gl": "hurriedly; at once",
-       "pos": "adv."
-      },
       {
        "h": "转身",
        "py": "zhuǎnshēn",
-       "gl": "turn around; turn away (fig.: favor is withdrawn)",
+       "gl": "turn around",
        "pos": "v."
       },
       {
@@ -3139,12 +1738,7 @@
        "py": "chúfáng",
        "gl": "kitchen",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "to bring out the last dish she had saved specially.",
-     "words": [
+      },
       {
        "h": "端",
        "py": "duān",
@@ -3154,8 +1748,14 @@
       {
        "h": "出",
        "py": "chū",
-       "gl": "resultative complement: out (showing a result)",
+       "gl": "out (directional complement)",
        "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "她",
@@ -3172,14 +1772,14 @@
       {
        "h": "留",
        "py": "liú",
-       "gl": "leave; set aside",
+       "gl": "stay; remain",
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
       },
       {
        "h": "最后",
@@ -3188,21 +1788,27 @@
        "pos": "adj."
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
       },
       {
        "h": "道",
        "py": "dào",
-       "gl": "measure word for courses, questions, steps, beams, walls, etc.",
+       "gl": "measure word for exam questions, dishes",
        "pos": "measure word"
       },
       {
-       "h": "菜",
-       "py": "cài",
-       "gl": "dish (food); cuisine",
+       "h": "红烧鱼",
+       "py": "hóngshāoyú",
+       "gl": "red-braised fish",
        "pos": "n."
       },
       {
@@ -3213,21 +1819,15 @@
    ]
   },
   {
-   "en": "That night the family talked until late before going their separate ways; no one brought up who was right or wrong again, and all anyone remembered was the laughter filling the room and the aroma of the food.",
+   "en": "That night no one mentioned quitting again; the family talked until late, and the whole room was filled with the smell of good food.",
    "phrases": [
     {
-     "en": "That night the family talked until late before going their separate ways;",
+     "en": "That night",
      "words": [
       {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "day",
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
        "pos": "n."
       },
       {
@@ -3238,23 +1838,72 @@
       },
       {
        "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "no one mentioned quitting again;",
+     "words": [
+      {
+       "h": "谁",
+       "py": "shuí",
+       "gl": "who; anyone; everyone (谁也不… nobody)",
+       "pos": "pron."
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
       },
       {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "measure word"
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "people; others",
+       "h": "再",
+       "py": "zài",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "提",
+       "py": "tí",
+       "gl": "bring up; mention",
+       "pos": "v."
+      },
+      {
+       "h": "辞职",
+       "py": "cízhí",
+       "gl": "resign; quit (one's job)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the family talked until late,",
+     "words": [
+      {
+       "h": "一家人",
+       "py": "yījiārén",
+       "gl": "whole family; family",
        "pos": "n."
       },
       {
@@ -3282,30 +1931,18 @@
        "pos": "adj."
       },
       {
-       "h": "才",
-       "py": "cái",
-       "gl": "only then; not until",
-       "pos": "adv."
-      },
-      {
-       "h": "散",
-       "py": "sàn",
-       "gl": "scatter; disperse; break up",
-       "pos": "v."
+       "h": "，"
       }
      ]
     },
     {
-     "en": "no one brought up who was right or wrong again,",
+     "en": "and the whole room was filled with the smell of good food.",
      "words": [
       {
-       "h": "，"
-      },
-      {
-       "h": "谁",
-       "py": "shuí",
-       "gl": "who; anyone; everyone",
-       "pos": "pron."
+       "h": "满屋子",
+       "py": "mǎnwūzi",
+       "gl": "all over the room; a whole room of",
+       "pos": "n."
       },
       {
        "h": "都",
@@ -3314,96 +1951,10 @@
        "pos": "adv."
       },
       {
-       "h": "没",
-       "py": "méi",
-       "gl": "not (yet); negates 有 and past actions",
-       "pos": "adv."
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; once more",
-       "pos": "adv."
-      },
-      {
-       "h": "提",
-       "py": "tí",
-       "gl": "bring up; mention; raise (an idea)",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
-      },
-      {
-       "h": "谁",
-       "py": "shuí",
-       "gl": "who; anyone; everyone",
-       "pos": "pron."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "right; correct",
-       "pos": "adj."
-      },
-      {
-       "h": "谁",
-       "py": "shuí",
-       "gl": "who; anyone; everyone",
-       "pos": "pron."
-      },
-      {
-       "h": "错",
-       "py": "cuò",
-       "gl": "wrong; mistaken",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and all anyone remembered was the laughter filling the room and the aroma of the food.",
-     "words": [
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "记得",
-       "py": "jìde",
-       "gl": "remember",
-       "pos": "v."
-      },
-      {
-       "h": "满",
-       "py": "mǎn",
-       "gl": "full",
-       "pos": "adj."
-      },
-      {
-       "h": "屋子",
-       "py": "wūzi",
-       "gl": "room",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "笑声",
-       "py": "xiàoshēng",
-       "gl": "laughter",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
       },
       {
        "h": "饭菜",
@@ -3414,7 +1965,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -3431,79 +1982,22 @@
    ]
   },
   {
-   "en": "The next morning, Grandma secretly slipped my cousin a red envelope, saying it was \"emergency money\" she had set aside from her savings, for him to use if he ran into trouble down south.",
+   "en": "Early the next morning, when my cousin got up, he found a red envelope beside his pillow.",
    "phrases": [
     {
-     "en": "The next morning, Grandma secretly slipped my cousin a red envelope,",
+     "en": "Early the next morning,",
      "words": [
       {
-       "h": "第二",
-       "py": "dìèr",
-       "gl": "second",
-       "pos": "num."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "day",
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
        "pos": "n."
       },
       {
-       "h": "早上",
-       "py": "zǎoshàng",
-       "gl": "morning",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "偷偷",
-       "py": "tōutōu",
-       "gl": "secretly; on the sly",
+       "h": "一早",
+       "py": "yīzǎo",
+       "gl": "early in the morning; first thing in the morning",
        "pos": "adv."
-      },
-      {
-       "h": "塞",
-       "py": "sāi",
-       "gl": "stuff; squeeze in; slip (something to someone)",
-       "pos": "v."
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "to; for (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "表弟",
-       "py": "biǎodì",
-       "gl": "(younger male) cousin",
-       "pos": "n."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "measure word (general: 换个角度 from another angle)",
-       "pos": "measure word"
-      },
-      {
-       "h": "红包",
-       "py": "hóngbāo",
-       "gl": "red envelope (with money)",
-       "pos": "n."
       },
       {
        "h": "，"
@@ -3511,172 +2005,7 @@
      ]
     },
     {
-     "en": "saying it was \"emergency money\" she had set aside from her savings,",
-     "words": [
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "平时",
-       "py": "píngshí",
-       "gl": "usually; ordinarily",
-       "pos": "adv."
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "出来",
-       "py": "chūlái",
-       "gl": "directional complement: out; into being; come out",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "\""
-      },
-      {
-       "h": "应急费",
-       "py": "yìngjífèi",
-       "gl": "emergency fund",
-       "pos": "n."
-      },
-      {
-       "h": "\""
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "for him to use if he ran into trouble down south.",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "南方",
-       "py": "nánfāng",
-       "gl": "south; southern; the South",
-       "pos": "n."
-      },
-      {
-       "h": "万一",
-       "py": "wànyī",
-       "gl": "in case; if by chance",
-       "pos": "conj."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "困难",
-       "py": "kùnnán",
-       "gl": "difficulty",
-       "pos": "n."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "v."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "At first my cousin refused to take it, but Grandma insisted: money saved is for everyday life, money spent is for the moments that matter, and this money ought to be spent on him.",
-   "phrases": [
-    {
-     "en": "At first my cousin refused to take it,",
+     "en": "when my cousin got up,",
      "words": [
       {
        "h": "表弟",
@@ -3685,177 +2014,20 @@
        "pos": "n."
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "as soon as (一…就… no sooner … than)",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
-       "pos": "n."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "肯",
-       "py": "kěn",
-       "gl": "be willing to; agree to",
-       "pos": "v."
-      },
-      {
-       "h": "收",
-       "py": "shōu",
-       "gl": "accept",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but Grandma insisted: money saved is for everyday life,",
-     "words": [
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "却",
-       "py": "què",
-       "gl": "but; yet",
-       "pos": "adv."
-      },
-      {
-       "h": "坚持",
-       "py": "jiānchí",
-       "gl": "insist",
-       "pos": "v."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
+       "h": "起床",
+       "py": "qǐchuáng",
+       "gl": "get up (out of bed)",
        "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "平时",
-       "py": "píngshí",
-       "gl": "usually; ordinarily",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "money spent is for the moments that matter,",
-     "words": [
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "花",
-       "py": "huā",
-       "gl": "spend (time, money); flower",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "关键",
-       "py": "guānjiàn",
-       "gl": "key; crucial; critical",
-       "pos": "adj."
       },
       {
        "h": "时候",
-       "py": "shíhòu",
+       "py": "shíhou",
        "gl": "time; moment (when ...)",
        "pos": "n."
       },
@@ -3865,60 +2037,42 @@
      ]
     },
     {
-     "en": "and this money ought to be spent on him.",
+     "en": "he found a red envelope beside his pillow.",
      "words": [
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
       },
       {
-       "h": "笔",
-       "py": "bǐ",
-       "gl": "measure word for sums of money",
-       "pos": "measure word"
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
+       "h": "枕头",
+       "py": "zhěntou",
+       "gl": "pillow",
        "pos": "n."
       },
       {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
+       "h": "边",
+       "py": "biān",
+       "gl": "beside; by",
+       "pos": "n."
       },
       {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
+       "h": "放着",
+       "py": "fàngzhe",
+       "gl": "be placed; lie; sit (somewhere)",
        "pos": "v."
       },
       {
-       "h": "花",
-       "py": "huā",
-       "gl": "spend (time, money); flower",
-       "pos": "v."
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "身上",
-       "py": "shēnshàng",
-       "gl": "on the body; on oneself",
+       "h": "红包",
+       "py": "hóngbāo",
+       "gl": "red envelope (with money)",
        "pos": "n."
       },
       {
@@ -3929,10 +2083,583 @@
    ]
   },
   {
-   "en": "Six months later, my cousin really did find a good job down south, and he made a point of buying Grandma a wool scarf she'd never been willing to buy for herself.",
+   "en": "Inside was a stack of old banknotes, and on top a slip of paper in Grandma's wobbly handwriting: The money to save is for ordinary days; the money to spend is for when it really matters. This is your emergency fund.",
    "phrases": [
     {
-     "en": "Six months later, my cousin really did find a good job down south,",
+     "en": "Inside was a stack of old banknotes,",
+     "words": [
+      {
+       "h": "红包",
+       "py": "hóngbāo",
+       "gl": "red envelope (with money)",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "叠",
+       "py": "dié",
+       "gl": "fold; pile up",
+       "pos": "v."
+      },
+      {
+       "h": "旧",
+       "py": "jiù",
+       "gl": "old (not new); worn",
+       "pos": "adj."
+      },
+      {
+       "h": "钞票",
+       "py": "chāopiào",
+       "gl": "banknotes",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and on top a slip of paper",
+     "words": [
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "上面",
+       "py": "shàngmiàn",
+       "gl": "on top; on the surface; above",
+       "pos": "n."
+      },
+      {
+       "h": "压着",
+       "py": "yāzhe",
+       "gl": "weighing on; pressing down",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "张",
+       "py": "zhāng",
+       "gl": "measure word for flat objects (paper, photos, tables)",
+       "pos": "measure word"
+      },
+      {
+       "h": "纸条",
+       "py": "zhǐtiáo",
+       "gl": "note; slip of paper",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "in Grandma's wobbly handwriting:",
+     "words": [
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "歪歪扭扭",
+       "py": "wāiwāiniǔniǔ",
+       "gl": "crooked; wobbly",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "handwriting",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "The money to save is for ordinary days;",
+     "words": [
+      {
+       "h": "该",
+       "py": "gāi",
+       "gl": "should (该…的: what ought to)",
+       "pos": "function word"
+      },
+      {
+       "h": "省",
+       "py": "shěng",
+       "gl": "save (time, money)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "钱",
+       "py": "qián",
+       "gl": "money",
+       "pos": "n."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "平时",
+       "py": "píngshí",
+       "gl": "usually; ordinarily",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the money to spend is for when it really matters.",
+     "words": [
+      {
+       "h": "该",
+       "py": "gāi",
+       "gl": "should (该…的: what ought to)",
+       "pos": "function word"
+      },
+      {
+       "h": "花",
+       "py": "huā",
+       "gl": "spend (time, money); flower",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "钱",
+       "py": "qián",
+       "gl": "money",
+       "pos": "n."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "要紧",
+       "py": "yàojǐn",
+       "gl": "important; what matters",
+       "pos": "adj."
+      },
+      {
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "This is your emergency fund.",
+     "words": [
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "应急费",
+       "py": "yìngjífèi",
+       "gl": "emergency money",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "My cousin took the envelope to find Grandma; she was watering the plants on the balcony and said without turning around: \"Take it. Don't let your mom know.\"",
+   "phrases": [
+    {
+     "en": "My cousin took the envelope to find Grandma;",
+     "words": [
+      {
+       "h": "表弟",
+       "py": "biǎodì",
+       "gl": "(younger male) cousin",
+       "pos": "n."
+      },
+      {
+       "h": "拿着",
+       "py": "názhe",
+       "gl": "holding; with",
+       "pos": "v."
+      },
+      {
+       "h": "红包",
+       "py": "hóngbāo",
+       "gl": "red envelope (with money)",
+       "pos": "n."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "找",
+       "py": "zhǎo",
+       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
+       "pos": "v."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she was watering the plants on the balcony",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "正",
+       "py": "zhèng",
+       "gl": "just; right now (in progress)",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "阳台",
+       "py": "yángtái",
+       "gl": "balcony",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "浇",
+       "py": "jiāo",
+       "gl": "pour over; water",
+       "pos": "v."
+      },
+      {
+       "h": "花",
+       "py": "huā",
+       "gl": "flower",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and said without turning around: \"Take it. Don't let your mom know.\"",
+     "words": [
+      {
+       "h": "头",
+       "py": "tóu",
+       "gl": "head",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "return; go back",
+       "pos": "v."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "拿着",
+       "py": "názhe",
+       "gl": "holding; with",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "别",
+       "py": "bié",
+       "gl": "don't (prohibition); other",
+       "pos": "adv."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "妈",
+       "py": "mā",
+       "gl": "mom; mother",
+       "pos": "n."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That cookie tin, my cousin learned later, had become a good deal lighter than usual.",
+   "phrases": [
+    {
+     "en": "That cookie tin,",
+     "words": [
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "饼干盒",
+       "py": "bǐnggānhé",
+       "gl": "cookie tin",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "my cousin learned later,",
+     "words": [
+      {
+       "h": "表弟",
+       "py": "biǎodì",
+       "gl": "(younger male) cousin",
+       "pos": "n."
+      },
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "had become a good deal lighter than usual.",
+     "words": [
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "平时",
+       "py": "píngshí",
+       "gl": "usually; ordinarily",
+       "pos": "adv."
+      },
+      {
+       "h": "轻",
+       "py": "qīng",
+       "gl": "light (in weight); gentle; soft",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "不少",
+       "py": "bùshǎo",
+       "gl": "quite a lot; a good deal",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Half a year later, my cousin had found his feet in the south, and when his first month's pay came, he bought Grandma a wool scarf.",
+   "phrases": [
+    {
+     "en": "Half a year later,",
      "words": [
       {
        "h": "半年",
@@ -3943,12 +2670,17 @@
       {
        "h": "后",
        "py": "hòu",
-       "gl": "after",
-       "pos": "n."
+       "gl": "after; later; behind",
+       "pos": "postposition"
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "my cousin had found his feet in the south,",
+     "words": [
       {
        "h": "表弟",
        "py": "biǎodì",
@@ -3956,27 +2688,21 @@
        "pos": "n."
       },
       {
-       "h": "真的",
-       "py": "zhēnde",
-       "gl": "really; truly",
-       "pos": "adv."
-      },
-      {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
        "h": "南方",
        "py": "nánfāng",
-       "gl": "south; southern; the South",
+       "gl": "south; southern",
        "pos": "n."
       },
       {
-       "h": "找到",
-       "py": "zhǎodào",
-       "gl": "find",
+       "h": "站稳",
+       "py": "zhànwěn",
+       "gl": "stand steady",
        "pos": "v."
       },
       {
@@ -3986,54 +2712,74 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "份",
-       "py": "fèn",
-       "gl": "measure word for portions, copies, documents, jobs (and feelings)",
-       "pos": "measure word"
-      },
-      {
-       "h": "不错",
-       "py": "bùcuò",
-       "gl": "good; decent",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
+       "h": "脚",
+       "py": "jiǎo",
+       "gl": "foot",
        "pos": "n."
+      },
+      {
+       "h": "，"
       }
      ]
     },
     {
-     "en": "and he made a point of buying Grandma a wool scarf she'd never been willing to buy for herself.",
+     "en": "and when his first month's pay came,",
      "words": [
       {
-       "h": "，"
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
       },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "月",
+       "py": "yuè",
+       "gl": "month; moon",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "工资",
+       "py": "gōngzī",
+       "gl": "salary; wages",
+       "pos": "n."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "he bought Grandma a wool scarf.",
+     "words": [
       {
        "h": "他",
        "py": "tā",
        "gl": "he; him",
        "pos": "pron."
-      },
-      {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
-       "pos": "adv."
       },
       {
        "h": "给",
@@ -4061,45 +2807,15 @@
       },
       {
        "h": "一",
-       "py": "yī",
+       "py": "yì",
        "gl": "one",
        "pos": "num."
       },
       {
        "h": "条",
        "py": "tiáo",
-       "gl": "measure word for long things (roads, rivers, fish), lines, messages, items",
+       "gl": "measure word for long things (fish, roads, rivers)",
        "pos": "measure word"
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "一直",
-       "py": "yìzhí",
-       "gl": "all along; always; continuously",
-       "pos": "adv."
-      },
-      {
-       "h": "舍不得",
-       "py": "shěbùdé",
-       "gl": "hate to part with; be reluctant to",
-       "pos": "v."
-      },
-      {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
       },
       {
        "h": "羊毛",
@@ -4121,10 +2837,139 @@
    ]
   },
   {
-   "en": "Grandma was delighted with the scarf but also fretted over the cost; she kept saying, \"What a waste of money,\" yet she wore it every time she went out.",
+   "en": "It was the one Grandma had touched several times in the department store and put back every time.",
    "phrases": [
     {
-     "en": "Grandma was delighted with the scarf but also fretted over the cost;",
+     "en": "It was the one Grandma had touched several times in the department store",
+     "words": [
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "商场",
+       "py": "shāngchǎng",
+       "gl": "shopping mall",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "摸",
+       "py": "mō",
+       "gl": "feel (with the hand); touch",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "好几",
+       "py": "hǎojǐ",
+       "gl": "quite a few; several",
+       "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
+       "h": "、"
+      }
+     ]
+    },
+    {
+     "en": "and put back every time.",
+     "words": [
+      {
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "adv."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "回去",
+       "py": "huíqù",
+       "gl": "back (complement: give back)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When Grandma got the scarf, she said \"What a waste of money,\" but the next day she wore it to the market and told everyone she met that her grandson had bought it.",
+   "phrases": [
+    {
+     "en": "When Grandma got the scarf,",
      "words": [
       {
        "h": "奶奶",
@@ -4145,36 +2990,12 @@
        "pos": "n."
       },
       {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "高兴",
-       "py": "gāoxìng",
-       "gl": "happy; glad",
-       "pos": "v."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "心疼",
-       "py": "xīnténg",
-       "gl": "feel sorry for; ache for (someone)",
-       "pos": "v."
-      },
-      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "she kept saying, \"What a waste of money,\"",
+     "en": "she said \"What a waste of money,\"",
      "words": [
       {
        "h": "嘴上",
@@ -4183,19 +3004,13 @@
        "pos": "n."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "说着",
+       "py": "shuōzhe",
+       "gl": "saying; while saying",
        "pos": "v."
       },
       {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
-      },
-      {
-       "h": "\""
+       "h": "“"
       },
       {
        "h": "太",
@@ -4207,7 +3022,7 @@
        "h": "浪费",
        "py": "làngfèi",
        "gl": "waste",
-       "pos": "adj."
+       "pos": "v."
       },
       {
        "h": "钱",
@@ -4222,7 +3037,7 @@
        "pos": "particle"
       },
       {
-       "h": "\""
+       "h": "”"
       },
       {
        "h": "，"
@@ -4230,8 +3045,14 @@
      ]
     },
     {
-     "en": "yet she wore it every time she went out.",
+     "en": "but the next day she wore it to the market",
      "words": [
+      {
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
+       "pos": "n."
+      },
       {
        "h": "却",
        "py": "què",
@@ -4239,22 +3060,10 @@
        "pos": "adv."
       },
       {
-       "h": "天天",
-       "py": "tiāntiān",
-       "gl": "every day",
-       "pos": "n."
-      },
-      {
-       "h": "围",
-       "py": "wéi",
-       "gl": "wrap around (one's neck)",
+       "h": "围着",
+       "py": "wéizhe",
+       "gl": "wear (a scarf)",
        "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
       },
       {
        "h": "它",
@@ -4263,10 +3072,66 @@
        "pos": "pron."
       },
       {
-       "h": "出门",
-       "py": "chūmén",
-       "gl": "go out (of the house); leave home",
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
        "pos": "v."
+      },
+      {
+       "h": "菜市场",
+       "py": "càishìchǎng",
+       "gl": "food market",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and told everyone she met that her grandson had bought it.",
+     "words": [
+      {
+       "h": "逢人",
+       "py": "féng rén",
+       "gl": "everyone one meets",
+       "pos": "adv."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "孙子",
+       "py": "sūnzi",
+       "gl": "grandson",
+       "pos": "n."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -4276,92 +3141,29 @@
    ]
   },
   {
-   "en": "From then on, a little tradition gradually took shape in our family: at every family reunion dinner, we all talk about how much we saved of what should be saved that year, and where we spent what should be spent.",
+   "en": "From then on, family reunion dinners had a new little tradition: everyone talked about their year, where they had saved what should be saved, and where they had spent what should be spent.",
    "phrases": [
     {
-     "en": "From then on, a little tradition gradually took shape in our family:",
+     "en": "From then on,",
      "words": [
       {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "n."
+       "h": "从那以后",
+       "py": "cóngnàyǐhòu",
+       "gl": "since then; from then on",
+       "pos": "phrase"
       },
       {
        "h": "，"
-      },
-      {
-       "h": "家里",
-       "py": "jiālǐ",
-       "gl": "at home; in the family",
-       "pos": "n."
-      },
-      {
-       "h": "渐渐",
-       "py": "jiànjiàn",
-       "gl": "gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "形成",
-       "py": "xíngchéng",
-       "gl": "form; take shape",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "measure word (general: 换个角度 from another angle)",
-       "pos": "measure word"
-      },
-      {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "传统",
-       "py": "chuántǒng",
-       "gl": "tradition; traditional",
-       "pos": "n."
-      },
-      {
-       "h": "："
       }
      ]
     },
     {
-     "en": "at every family reunion dinner, we all talk about",
+     "en": "family reunion dinners had a new little tradition:",
      "words": [
       {
-       "h": "每次",
-       "py": "měicì",
-       "gl": "every time",
+       "h": "家里",
+       "py": "jiālǐ",
+       "gl": "at home; in the family",
        "pos": "n."
       },
       {
@@ -4377,12 +3179,53 @@
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "时",
+       "py": "shí",
+       "gl": "when; time",
+       "pos": "n."
       },
       {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "传统",
+       "py": "chuántǒng",
+       "gl": "traditional; tradition",
+       "pos": "adj."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "everyone talked about their year,",
+     "words": [
+      {
+       "h": "每个人",
+       "py": "měigèrén",
+       "gl": "everyone; each person",
        "pos": "pron."
       },
       {
@@ -4392,22 +3235,11 @@
        "pos": "adv."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "聊聊",
-       "py": "liáoliáo",
-       "gl": "have a chat",
+       "h": "说说",
+       "py": "shuōshuo",
+       "gl": "just talk; say casually",
        "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "how much we saved of what should be saved that year,",
-     "words": [
+      },
       {
        "h": "这",
        "py": "zhè",
@@ -4416,7 +3248,7 @@
       },
       {
        "h": "一",
-       "py": "yī",
+       "py": "yì",
        "gl": "one",
        "pos": "num."
       },
@@ -4427,83 +3259,41 @@
        "pos": "measure word"
       },
       {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "多少",
-       "py": "duōshǎo",
-       "gl": "how many; how much",
-       "pos": "pron."
-      },
-      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "and where we spent what should be spent.",
+     "en": "where they had saved what should be saved,",
      "words": [
       {
        "h": "该",
        "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
+       "gl": "should (该…的: what ought to)",
+       "pos": "function word"
       },
       {
-       "h": "花",
-       "py": "huā",
-       "gl": "spend (time, money); flower",
+       "h": "省",
+       "py": "shěng",
+       "gl": "save (time, money)",
        "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "花",
-       "py": "huā",
-       "gl": "spend (time, money); flower",
+       "h": "省",
+       "py": "shěng",
+       "gl": "save (time, money)",
        "pos": "v."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -4516,159 +3306,57 @@
        "h": "哪里",
        "py": "nǎlǐ",
        "gl": "where",
-       "pos": "pron."
+       "pos": "question word"
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Grandma has slowly begun to change too; sometimes she's the one suggesting that when it's time to get away on a trip, you shouldn't deny yourself too much.",
-   "phrases": [
-    {
-     "en": "Grandma has slowly begun to change too;",
-     "words": [
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "慢慢",
-       "py": "mànmàn",
-       "gl": "slowly; gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "改变",
-       "py": "gǎibiàn",
-       "gl": "change; transform",
-       "pos": "v."
+       "h": "，"
       }
      ]
     },
     {
-     "en": "sometimes she's the one suggesting that when it's time to get away on a trip,",
+     "en": "and where they had spent what should be spent.",
      "words": [
-      {
-       "h": "，"
-      },
-      {
-       "h": "有时候",
-       "py": "yǒushíhòu",
-       "gl": "sometimes",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "主动",
-       "py": "zhǔdòng",
-       "gl": "on one's own initiative; proactively",
-       "pos": "adv."
-      },
-      {
-       "h": "提议",
-       "py": "tíyì",
-       "gl": "propose; suggest; proposal",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
       {
        "h": "该",
        "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
+       "gl": "should (该…的: what ought to)",
+       "pos": "function word"
       },
       {
-       "h": "出去",
-       "py": "chūqù",
-       "gl": "go out",
-       "pos": "v."
-      },
-      {
-       "h": "旅游",
-       "py": "lǚyóu",
-       "gl": "travel; go on a trip",
-       "pos": "v."
-      },
-      {
-       "h": "散心",
-       "py": "sànxīn",
-       "gl": "relax; take one's mind off things",
+       "h": "花",
+       "py": "huā",
+       "gl": "spend (time, money); flower",
        "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "you shouldn't deny yourself too much.",
-     "words": [
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "不要",
-       "py": "búyào",
-       "gl": "don't; must not",
-       "pos": "adv."
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "委屈",
-       "py": "wěiqū",
-       "gl": "feel wronged; aggrieved",
+       "h": "花",
+       "py": "huā",
+       "gl": "spend (time, money); flower",
        "pos": "v."
       },
       {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "哪里",
+       "py": "nǎlǐ",
+       "gl": "where",
+       "pos": "question word"
       },
       {
        "h": "。"
@@ -4678,28 +3366,16 @@
    ]
   },
   {
-   "en": "My cousin joked that this must be what happens when two generations educate each other: he has learned to save a little when it's time to save, and Grandma has learned to spend a little when it's time to spend.",
+   "en": "My cousin said he had learned to save a little when he should, and no longer emptied his shopping cart the moment he got paid.",
    "phrases": [
     {
-     "en": "My cousin joked",
+     "en": "My cousin said",
      "words": [
       {
        "h": "表弟",
        "py": "biǎodì",
        "gl": "(younger male) cousin",
        "pos": "n."
-      },
-      {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
       },
       {
        "h": "说",
@@ -4713,81 +3389,7 @@
      ]
     },
     {
-     "en": "that this must be what happens when two generations educate each other:",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "大概",
-       "py": "dàgài",
-       "gl": "probably; about; approximately",
-       "pos": "adv."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "代",
-       "py": "dài",
-       "gl": "generation; era",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "people; others",
-       "pos": "n."
-      },
-      {
-       "h": "互相",
-       "py": "hùxiāng",
-       "gl": "each other; mutually",
-       "pos": "adv."
-      },
-      {
-       "h": "教育",
-       "py": "jiàoyù",
-       "gl": "educate; bring up",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "结果",
-       "py": "jiéguǒ",
-       "gl": "as a result; in the end; result",
-       "pos": "n."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "he has learned to save a little when it's time to save,",
+     "en": "he had learned to save a little when he should,",
      "words": [
       {
        "h": "他",
@@ -4810,8 +3412,8 @@
       {
        "h": "该",
        "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
+       "gl": "should (该…的: what ought to)",
+       "pos": "function word"
       },
       {
        "h": "省",
@@ -4822,7 +3424,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -4841,7 +3443,7 @@
        "h": "一点",
        "py": "yìdiǎn",
        "gl": "a little; a bit",
-       "pos": "num."
+       "pos": "adv."
       },
       {
        "h": "，"
@@ -4849,7 +3451,62 @@
      ]
     },
     {
-     "en": "and Grandma has learned to spend a little when it's time to spend.",
+     "en": "and no longer emptied his shopping cart the moment he got paid.",
+     "words": [
+      {
+       "h": "不再",
+       "py": "bùzài",
+       "gl": "no longer; not anymore",
+       "pos": "adv."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "工资",
+       "py": "gōngzī",
+       "gl": "salary; wages",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "清空",
+       "py": "qīngkōng",
+       "gl": "empty; clear out",
+       "pos": "v."
+      },
+      {
+       "h": "购物车",
+       "py": "gòuwùchē",
+       "gl": "shopping cart",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Grandma had learned to spend a little when she should, too; last autumn she went to see the sea with a seniors' tour group for the first time.",
+   "phrases": [
+    {
+     "en": "Grandma had learned to spend a little when she should, too;",
      "words": [
       {
        "h": "奶奶",
@@ -4878,8 +3535,8 @@
       {
        "h": "该",
        "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
+       "gl": "should (该…的: what ought to)",
+       "pos": "function word"
       },
       {
        "h": "花",
@@ -4890,7 +3547,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -4909,88 +3566,26 @@
        "h": "一点",
        "py": "yìdiǎn",
        "gl": "a little; a bit",
-       "pos": "num."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After that, every Chinese New Year my cousin made a point of taking a day off and coming home specially to stay with Grandma for a few days, rather than just eating a meal and leaving like before.",
-   "phrases": [
-    {
-     "en": "After that, every Chinese New Year my cousin made a point of taking a day off,",
-     "words": [
-      {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "n."
+       "pos": "adv."
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "last autumn",
+     "words": [
       {
-       "h": "表弟",
-       "py": "biǎodì",
-       "gl": "(younger male) cousin",
+       "h": "去年",
+       "py": "qùnián",
+       "gl": "last year",
        "pos": "n."
       },
       {
-       "h": "每年",
-       "py": "měinián",
-       "gl": "every year",
-       "pos": "n."
-      },
-      {
-       "h": "过年",
-       "py": "guònián",
-       "gl": "celebrate New Year",
-       "pos": "v."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
-       "pos": "adv."
-      },
-      {
-       "h": "请",
-       "py": "qǐng",
-       "gl": "ask for (leave)",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "day",
-       "pos": "n."
-      },
-      {
-       "h": "假",
-       "py": "jiǎ",
-       "gl": "leave; time off (jià)",
+       "h": "秋天",
+       "py": "qiūtiān",
+       "gl": "fall; autumn",
        "pos": "n."
       },
       {
@@ -4999,369 +3594,48 @@
      ]
     },
     {
-     "en": "and coming home specially to stay with Grandma for a few days,",
+     "en": "she went to see the sea with a seniors' tour group for the first time.",
      "words": [
       {
-       "h": "专程",
-       "py": "zhuānchéng",
-       "gl": "specially (make a special trip)",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
        "pos": "adv."
       },
       {
-       "h": "回",
-       "py": "huí",
-       "gl": "return; go back",
+       "h": "跟着",
+       "py": "gēnzhe",
+       "gl": "follow; along with",
        "pos": "v."
       },
       {
-       "h": "老家",
-       "py": "lǎojiā",
-       "gl": "hometown; family home",
-       "pos": "n."
-      },
-      {
-       "h": "陪",
-       "py": "péi",
-       "gl": "accompany; keep company",
-       "pos": "v."
-      },
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "住",
-       "py": "zhù",
-       "gl": "live; stay",
-       "pos": "v."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "day",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "rather than just eating a meal and leaving like before.",
-     "words": [
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "but; whereas; and",
-       "pos": "conj."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "prep."
-      },
-      {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
-       "pos": "n."
-      },
-      {
-       "h": "一样",
-       "py": "yīyàng",
-       "gl": "same; identical",
+       "h": "老年",
+       "py": "lǎonián",
+       "gl": "elderly; old age",
        "pos": "adj."
       },
       {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
-      },
-      {
-       "h": "顿",
-       "py": "dùn",
-       "gl": "measure word for meals",
-       "pos": "measure word"
-      },
-      {
-       "h": "饭",
-       "py": "fàn",
-       "gl": "meal; food; cooked rice",
+       "h": "旅行团",
+       "py": "lǚxíngtuán",
+       "gl": "tour group",
        "pos": "n."
       },
       {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "走",
-       "py": "zǒu",
-       "gl": "walk; go; leave",
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
        "pos": "v."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Grandma no longer frowns the moment money comes up, as she used to, and now and then she'll even say on her own, \"This New Year, let's get together with whoever we should and buy whatever we need; don't scrimp too much.\"",
-   "phrases": [
-    {
-     "en": "Grandma no longer frowns the moment money comes up, as she used to,",
-     "words": [
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; once more",
-       "pos": "adv."
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "prep."
-      },
-      {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
-       "pos": "n."
-      },
-      {
-       "h": "那样",
-       "py": "nàyàng",
-       "gl": "that way; like that",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "as soon as (一…就… no sooner … than)",
-       "pos": "adv."
-      },
-      {
-       "h": "提到",
-       "py": "tídào",
-       "gl": "mention",
-       "pos": "v."
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "皱",
-       "py": "zhòu",
-       "gl": "wrinkle; frown",
-       "pos": "v."
-      },
-      {
-       "h": "眉头",
-       "py": "méitóu",
-       "gl": "brows",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and now and then she'll even say on her own,",
-     "words": [
-      {
-       "h": "偶尔",
-       "py": "ǒuěr",
-       "gl": "occasionally; once in a while",
-       "pos": "adv."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "主动",
-       "py": "zhǔdòng",
-       "gl": "on one's own initiative; proactively",
-       "pos": "adv."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "\"This New Year, let's get together with whoever we should and buy whatever we need;",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
-      },
-      {
-       "h": "过年",
-       "py": "guònián",
-       "gl": "celebrate New Year",
-       "pos": "v."
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "聚",
-       "py": "jù",
-       "gl": "gather; get together",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "聚",
-       "py": "jù",
-       "gl": "gather; get together",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "don't scrimp too much.\"",
-     "words": [
-      {
-       "h": "别",
-       "py": "bié",
-       "gl": "don't (prohibition); other",
-       "pos": "adv."
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
        "pos": "v."
       },
       {
@@ -5371,6 +3645,12 @@
        "pos": "particle"
       },
       {
+       "h": "海",
+       "py": "hǎi",
+       "gl": "sea",
+       "pos": "n."
+      },
+      {
        "h": "。"
       }
      ]
@@ -5378,244 +3658,281 @@
    ]
   },
   {
-   "en": "Watching all this from the sidelines, it suddenly struck me that \"save what should be saved, spend what should be spent\" isn't a rigid rule at all, but an understanding our family has slowly worked out together.",
+   "en": "She took a photo at the seaside, wearing that scarf, smiling so hard her eyes narrowed to slits.",
    "phrases": [
     {
-     "en": "Watching all this from the sidelines, it suddenly struck me",
+     "en": "She took a photo at the seaside,",
      "words": [
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "旁边",
-       "py": "pángbiān",
-       "gl": "next to; beside",
+       "h": "海边",
+       "py": "hǎibiān",
+       "gl": "seaside; beach",
        "pos": "n."
       },
       {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
+       "h": "拍",
+       "py": "pāi",
+       "gl": "take (a photo); shoot (a video); pat; clap",
        "pos": "v."
       },
       {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "一切",
-       "py": "yīqiè",
-       "gl": "everything; all",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "忽然",
-       "py": "hūrán",
-       "gl": "suddenly",
-       "pos": "adv."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that \"save what should be saved, spend what should be spent\"",
-     "words": [
-      {
-       "h": "所谓",
-       "py": "suǒwèi",
-       "gl": "so-called; what is called",
-       "pos": "v."
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "v."
-      },
-      {
-       "h": "花",
-       "py": "huā",
-       "gl": "spend (time, money); flower",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "花",
-       "py": "huā",
-       "gl": "spend (time, money); flower",
-       "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "isn't a rigid rule at all,",
-     "words": [
-      {
-       "h": "，"
-      },
-      {
-       "h": "其实",
-       "py": "qíshí",
-       "gl": "actually; in fact",
-       "pos": "adv."
-      },
-      {
-       "h": "不是",
-       "py": "búshì",
-       "gl": "not be; is not",
-       "pos": "v."
       },
       {
        "h": "一",
-       "py": "yī",
+       "py": "yì",
        "gl": "one",
        "pos": "num."
       },
       {
-       "h": "句",
-       "py": "jù",
-       "gl": "measure word for sentences and lines",
+       "h": "张",
+       "py": "zhāng",
+       "gl": "measure word for flat objects (paper, photos, tables)",
        "pos": "measure word"
       },
       {
-       "h": "死",
-       "py": "sǐ",
-       "gl": "rigid; inflexible",
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "wearing that scarf,",
+     "words": [
+      {
+       "h": "脖子",
+       "py": "bózi",
+       "gl": "neck",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "围着",
+       "py": "wéizhe",
+       "gl": "be wrapped around",
+       "pos": "v."
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "围巾",
+       "py": "wéijīn",
+       "gl": "scarf",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "smiling so hard her eyes narrowed to slits.",
+     "words": [
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "眼睛",
+       "py": "yǎnjīng",
+       "gl": "eye; eyes",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "眯成",
+       "py": "mīchéng",
+       "gl": "narrow into",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "缝",
+       "py": "féng",
+       "gl": "sew; stitch",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That photo now sits on top of everything in the tin cookie box, more important than the bankbooks.",
+   "phrases": [
+    {
+     "en": "That photo now sits on top of everything in the tin cookie box,",
+     "words": [
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "张",
+       "py": "zhāng",
+       "gl": "measure word for flat objects (paper, photos, tables)",
+       "pos": "measure word"
+      },
+      {
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
+       "pos": "n."
+      },
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "压",
+       "py": "yā",
+       "gl": "press; compress; suppress",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "铁皮",
+       "py": "tiěpí",
+       "gl": "tin; sheet iron",
+       "pos": "n."
+      },
+      {
+       "h": "饼干盒",
+       "py": "bǐnggānhé",
+       "gl": "cookie tin",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "上面",
+       "py": "shàngmiàn",
+       "gl": "on top; on the surface; above",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "more important than the bankbooks.",
+     "words": [
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "存折",
+       "py": "cúnzhé",
+       "gl": "bankbook",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "重要",
+       "py": "zhòngyào",
+       "gl": "important",
        "pos": "adj."
-      },
-      {
-       "h": "规矩",
-       "py": "guījǔ",
-       "gl": "rule; custom",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but an understanding our family has slowly worked out together.",
-     "words": [
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "but; whereas; and",
-       "pos": "conj."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "people; others",
-       "pos": "n."
-      },
-      {
-       "h": "慢慢",
-       "py": "mànmàn",
-       "gl": "slowly; gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "商量",
-       "py": "shāngliáng",
-       "gl": "discuss; consult",
-       "pos": "v."
-      },
-      {
-       "h": "出来",
-       "py": "chūlái",
-       "gl": "directional complement: out; into being; come out",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "默契",
-       "py": "mòqì",
-       "gl": "tacit understanding; in sync",
-       "pos": "n."
       },
       {
        "h": "。"

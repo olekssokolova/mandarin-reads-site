@@ -1,102 +1,631 @@
 {
  "id": "l6greenenergy1",
  "level": 6,
- "title_zh": "中国的太阳能和风能",
- "title_en": "Solar and Wind Power in China",
+ "title_zh": "从井下到水上",
+ "title_en": "From Down the Mine to Out on the Water",
  "free": false,
  "audio_url": null,
- "note_en": "The frame 随 A 而 B means \"B happens as A changes\": 发电量会随天气变化而波动 \"output fluctuates with the weather.\" 随 introduces the thing that drives the change and 而 links it to the verb that follows, a bookish pattern found in news and science writing. Compare 随之 later in the text (比重也会随之进一步提高), where 之 stands for \"that\" and means \"along with it.\"",
+ "note_en": "随 A 而 B expresses direct dependence: B changes along with A. 随 goes before what changes first, and 而 introduces the result. In the text: 发电量随天气变化而波动 \"power output fluctuates with the weather.\" It's a written structure; near the end its short form 随之 \"along with it\" appears: 发电量随天气起落，他的心情也随之起落 \"output rises and falls with the weather, and his mood rises and falls along with it.\"",
  "sentences": [
   {
-   "en": "In recent years, the speed of China's growth in solar and wind power has astonished the world.",
+   "en": "Lao Meng worked down a coal mine in Huainan for twenty-two years, and the color he knew best was black.",
    "phrases": [
     {
-     "en": "In recent years, the speed of China's growth in solar and wind power",
+     "en": "Lao Meng worked down a coal mine in Huainan for twenty-two years,",
      "words": [
       {
-       "h": "近年来",
-       "py": "jìnniánlái",
-       "gl": "in recent years",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "中国",
-       "py": "Zhōngguó",
-       "gl": "China",
+       "h": "老孟",
+       "py": "Lǎo Mèng",
+       "gl": "Lao Meng",
        "pos": "proper noun"
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "太阳能",
-       "py": "tàiyángnéng",
-       "gl": "solar energy",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "风能",
-       "py": "fēngnéng",
-       "gl": "wind energy; wind power",
-       "pos": "n."
-      },
-      {
-       "h": "领域",
-       "py": "lǐngyù",
-       "gl": "field; area; domain",
-       "pos": "n."
+       "h": "淮南",
+       "py": "Huáinán",
+       "gl": "Huainan (city)",
+       "pos": "proper noun"
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "发展",
-       "py": "fāzhǎn",
-       "gl": "develop; development",
+       "h": "煤矿",
+       "py": "méikuàng",
+       "gl": "coal mine",
+       "pos": "n."
+      },
+      {
+       "h": "下面",
+       "py": "xiàmiàn",
+       "gl": "under; below; beneath",
+       "pos": "n."
+      },
+      {
+       "h": "干",
+       "py": "gàn",
+       "gl": "do; work",
        "pos": "v."
       },
       {
-       "h": "速度",
-       "py": "sùdù",
-       "gl": "speed",
-       "pos": "n."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "二十二",
+       "py": "èrshíèr",
+       "gl": "twenty-two",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
       }
      ]
     },
     {
-     "en": "has astonished the world.",
+     "en": "and the color he knew best was black.",
      "words": [
       {
-       "h": "令",
-       "py": "lìng",
-       "gl": "make; cause (令人惊喜 pleasantly surprising); order; command",
-       "pos": "v."
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
       },
       {
-       "h": "世界",
-       "py": "shìjiè",
-       "gl": "world",
+       "h": "熟悉",
+       "py": "shúxī",
+       "gl": "familiar; know well",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "颜色",
+       "py": "yánsè",
+       "gl": "color",
        "pos": "n."
       },
       {
-       "h": "瞠目",
-       "py": "chēngmù",
-       "gl": "stare in amazement",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "黑色",
+       "py": "hēisè",
+       "gl": "black (color)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Coal dust worked its way under his fingernails and no amount of washing would get it out; when he came home, the first thing his wife did was throw his clothes into the washing machine.",
+   "phrases": [
+    {
+     "en": "Coal dust worked its way under his fingernails",
+     "words": [
+      {
+       "h": "煤灰",
+       "py": "méihuī",
+       "gl": "coal dust",
+       "pos": "n."
+      },
+      {
+       "h": "钻",
+       "py": "zuān",
+       "gl": "slip in; squeeze through",
+       "pos": "v."
+      },
+      {
+       "h": "进",
+       "py": "jìn",
+       "gl": "enter; come in",
+       "pos": "v."
+      },
+      {
+       "h": "指甲缝",
+       "py": "zhǐjiafèng",
+       "gl": "under one's fingernails",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and no amount of washing would get it out;",
+     "words": [
+      {
+       "h": "洗",
+       "py": "xǐ",
+       "gl": "wash",
+       "pos": "v."
+      },
+      {
+       "h": "多少",
+       "py": "duōshǎo",
+       "gl": "how many; how much",
+       "pos": "pron."
+      },
+      {
+       "h": "遍",
+       "py": "biàn",
+       "gl": "measure word for times (doing something from start to finish)",
+       "pos": "measure word"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "洗不干净",
+       "py": "xǐ bu gānjìng",
+       "gl": "can't wash clean",
+       "pos": "v."
+      },
+      {
+       "h": "；"
+      }
+     ]
+    },
+    {
+     "en": "when he came home,",
+     "words": [
+      {
+       "h": "回到",
+       "py": "huídào",
+       "gl": "return to; get back to",
+       "pos": "v."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the first thing his wife did was throw his clothes into the washing machine.",
+     "words": [
+      {
+       "h": "妻子",
+       "py": "qīzǐ",
+       "gl": "wife",
+       "pos": "n."
+      },
+      {
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
+      },
+      {
+       "h": "件",
+       "py": "jiàn",
+       "gl": "measure word for clothing, matters, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "衣服",
+       "py": "yīfu",
+       "gl": "clothes",
+       "pos": "n."
+      },
+      {
+       "h": "扔",
+       "py": "rēng",
+       "gl": "throw; throw away",
+       "pos": "v."
+      },
+      {
+       "h": "进",
+       "py": "jìn",
+       "gl": "enter; come in",
+       "pos": "v."
+      },
+      {
+       "h": "洗衣机",
+       "py": "xǐyījī",
+       "gl": "washing machine",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Later the coal ran out and the mine shut down; the ground sank little by little, rainwater poured in, and it became pond after pond.",
+   "phrases": [
+    {
+     "en": "Later the coal ran out and the mine shut down;",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "煤",
+       "py": "méi",
+       "gl": "coal",
+       "pos": "n."
+      },
+      {
+       "h": "挖",
+       "py": "wā",
+       "gl": "dig",
+       "pos": "v."
+      },
+      {
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "矿井",
+       "py": "kuàngjǐng",
+       "gl": "mine shaft",
+       "pos": "n."
+      },
+      {
+       "h": "关",
+       "py": "guān",
+       "gl": "turn off; close",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the ground sank little by little,",
+     "words": [
+      {
+       "h": "地面",
+       "py": "dìmiàn",
+       "gl": "ground; surface",
+       "pos": "n."
+      },
+      {
+       "h": "一点一点",
+       "py": "yìdiǎnyìdiǎn",
+       "gl": "little by little; bit by bit",
+       "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "塌",
+       "py": "tā",
+       "gl": "sag; cave in",
+       "pos": "v."
+      },
+      {
+       "h": "下去",
+       "py": "xiàqu",
+       "gl": "down (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "rainwater poured in,",
+     "words": [
+      {
+       "h": "雨水",
+       "py": "yǔshuǐ",
+       "gl": "rainwater",
+       "pos": "n."
+      },
+      {
+       "h": "灌",
+       "py": "guàn",
+       "gl": "pour in; fill",
+       "pos": "v."
+      },
+      {
+       "h": "进来",
+       "py": "jìnlái",
+       "gl": "come in",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and it became pond after pond.",
+     "words": [
+      {
+       "h": "成",
+       "py": "chéng",
+       "gl": "become; turn into",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "片",
+       "py": "piàn",
+       "gl": "measure word for expanses (一片白 all white); slice; piece",
+       "pos": "measure word"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "片",
+       "py": "piàn",
+       "gl": "measure word for expanses (一片白 all white); slice; piece",
+       "pos": "measure word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "水塘",
+       "py": "shuǐtáng",
+       "gl": "pond",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The locals called that water \"the subsidence zone\"; there weren't many fish, the weeds grew wild, and hardly anyone went there.",
+   "phrases": [
+    {
+     "en": "The locals called that water \"the subsidence zone\";",
+     "words": [
+      {
+       "h": "当地人",
+       "py": "dāngdìrén",
+       "gl": "local; local people",
+       "pos": "n."
+      },
+      {
+       "h": "管",
+       "py": "guǎn",
+       "gl": "call (管…叫 call something ...)",
+       "pos": "v."
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "片",
+       "py": "piàn",
+       "gl": "measure word for expanses (一片白 all white); slice; piece",
+       "pos": "measure word"
+      },
+      {
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
+       "pos": "n."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "沉陷区",
+       "py": "chénxiànqū",
+       "gl": "subsidence zone",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "there weren't many fish, the weeds grew wild,",
+     "words": [
+      {
+       "h": "鱼",
+       "py": "yú",
+       "gl": "fish",
+       "pos": "n."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "草",
+       "py": "cǎo",
+       "gl": "grass; plant",
+       "pos": "n."
+      },
+      {
+       "h": "长",
+       "py": "zhǎng",
+       "gl": "grow; have (a feature); look (长得…)",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "乱",
+       "py": "luàn",
+       "gl": "at random; recklessly; chaotic; in disorder",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and hardly anyone went there.",
+     "words": [
+      {
+       "h": "很少",
+       "py": "hěnshǎo",
+       "gl": "rarely; seldom; few",
+       "pos": "adv."
+      },
+      {
+       "h": "有人",
+       "py": "yǒurén",
+       "gl": "someone; some people",
+       "pos": "pron."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
        "pos": "v."
       },
       {
@@ -107,39 +636,59 @@
    ]
   },
   {
-   "en": "In the desert regions of the northwest, row upon row of solar panels neatly cover the Gobi, and from a distance they look like a blue ocean.",
+   "en": "Five years ago, Lao Meng first rowed a little boat out to the middle of the water, following a group of young people in blue work clothes.",
    "phrases": [
     {
-     "en": "In the desert regions of the northwest,",
+     "en": "Five years ago,",
      "words": [
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
+       "pos": "num."
       },
       {
-       "h": "西北",
-       "py": "xīběi",
-       "gl": "northwest",
-       "pos": "n."
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "前",
+       "py": "qián",
+       "gl": "ago; before",
+       "pos": "postposition"
       },
       {
-       "h": "沙漠",
-       "py": "shāmò",
-       "gl": "desert",
-       "pos": "n."
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "Lao Meng first rowed a little boat",
+     "words": [
+      {
+       "h": "老孟",
+       "py": "Lǎo Mèng",
+       "gl": "Lao Meng",
+       "pos": "proper noun"
       },
       {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "划着",
+       "py": "huázhe",
+       "gl": "rowing; paddling (划 + 着)",
+       "pos": "v."
+      },
+      {
+       "h": "小船",
+       "py": "xiǎochuán",
+       "gl": "small boat",
        "pos": "n."
       },
       {
@@ -148,13 +697,136 @@
      ]
     },
     {
-     "en": "row upon row of solar panels neatly cover the Gobi,",
+     "en": "out to the middle of the water, following a group of young people in blue work clothes.",
      "words": [
       {
-       "h": "一排排",
-       "py": "yìpáipái",
-       "gl": "row upon row; rows of",
+       "h": "跟着",
+       "py": "gēnzhe",
+       "gl": "follow; along with",
+       "pos": "prep."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
        "pos": "num."
+      },
+      {
+       "h": "群",
+       "py": "qún",
+       "gl": "group chat; group",
+       "pos": "n."
+      },
+      {
+       "h": "穿",
+       "py": "chuān",
+       "gl": "put on; wear",
+       "pos": "v."
+      },
+      {
+       "h": "蓝色",
+       "py": "lánsè",
+       "gl": "blue",
+       "pos": "n."
+      },
+      {
+       "h": "工作服",
+       "py": "gōngzuòfú",
+       "gl": "work clothes; uniform",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "年轻人",
+       "py": "niánqīngrén",
+       "gl": "young people",
+       "pos": "n."
+      },
+      {
+       "h": "来到",
+       "py": "láidào",
+       "gl": "come to; arrive at",
+       "pos": "v."
+      },
+      {
+       "h": "水面",
+       "py": "shuǐmiàn",
+       "gl": "water surface",
+       "pos": "n."
+      },
+      {
+       "h": "中央",
+       "py": "zhōngyāng",
+       "gl": "center; central (government)",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "By then tens of thousands of solar panels were already floating on the water, in neat rows, glinting in the sun, as if someone had laid a layer of blue tiles across the surface.",
+   "phrases": [
+    {
+     "en": "By then",
+     "words": [
+      {
+       "h": "那时",
+       "py": "nàshí",
+       "gl": "at that time; then",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "tens of thousands of solar panels were already floating on the water,",
+     "words": [
+      {
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "漂着",
+       "py": "piāozhe",
+       "gl": "float",
+       "pos": "v."
+      },
+      {
+       "h": "成千上万",
+       "py": "chéngqiānshàngwàn",
+       "gl": "thousands upon thousands",
+       "pos": "phrase"
+      },
+      {
+       "h": "块",
+       "py": "kuài",
+       "gl": "piece (measure word)",
+       "pos": "measure word"
       },
       {
        "h": "太阳能板",
@@ -163,22 +835,51 @@
        "pos": "n."
       },
       {
-       "h": "整齐地",
-       "py": "zhěngqíde",
-       "gl": "neatly; in neat rows",
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "in neat rows, glinting in the sun,",
+     "words": [
+      {
+       "h": "整整齐齐",
+       "py": "zhěngzhěngqíqí",
+       "gl": "neat and tidy; in neat rows",
        "pos": "adv."
       },
       {
-       "h": "铺满",
-       "py": "pūmǎn",
-       "gl": "cover completely; fill",
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "太阳",
+       "py": "tàiyáng",
+       "gl": "sun",
+       "pos": "n."
+      },
+      {
+       "h": "底下",
+       "py": "dǐxià",
+       "gl": "under; beneath",
+       "pos": "n."
+      },
+      {
+       "h": "闪着",
+       "py": "shǎnzhe",
+       "gl": "glinting; sparkling",
        "pos": "v."
       },
       {
-       "h": "戈壁",
-       "py": "Gēbì",
-       "gl": "Gobi; stony desert",
-       "pos": "proper noun"
+       "h": "光",
+       "py": "guāng",
+       "gl": "light; ray",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -186,36 +887,60 @@
      ]
     },
     {
-     "en": "and from a distance they look like a blue ocean.",
+     "en": "as if someone had laid a layer of blue tiles across the surface.",
      "words": [
-      {
-       "h": "远远",
-       "py": "yuǎnyuǎn",
-       "gl": "from afar; at a distance",
-       "pos": "adv."
-      },
-      {
-       "h": "看去",
-       "py": "kànqù",
-       "gl": "look; seem (from a distance)",
-       "pos": "v."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
       {
        "h": "像",
        "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
+       "gl": "resemble; be like; like",
        "pos": "v."
       },
       {
-       "h": "一片",
-       "py": "yípiàn",
-       "gl": "a stretch of; an expanse of",
+       "h": "有人",
+       "py": "yǒurén",
+       "gl": "someone; some people",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "水面",
+       "py": "shuǐmiàn",
+       "gl": "water surface",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (a surface: 床上 on the bed)",
+       "pos": "postposition"
+      },
+      {
+       "h": "铺",
+       "py": "pù",
+       "gl": "spread; lay; pave",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "层",
+       "py": "céng",
+       "gl": "measure word for layers (一层信任 'an extra layer of trust')",
        "pos": "measure word"
       },
       {
@@ -227,13 +952,13 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "海洋",
-       "py": "hǎiyáng",
-       "gl": "ocean",
+       "h": "瓦",
+       "py": "wǎ",
+       "gl": "roof tile",
        "pos": "n."
       },
       {
@@ -244,154 +969,67 @@
    ]
   },
   {
-   "en": "Along the coast, meanwhile, countless giant wind turbines have gone up, their blades turning slowly in the wind, converting wind energy into electricity.",
+   "en": "He had come to apply for a job as an inspector, checking whether the panels were damaged and whether the wiring had come loose.",
    "phrases": [
     {
-     "en": "Along the coast, meanwhile, countless giant wind turbines have gone up,",
+     "en": "He had come to apply for a job as an inspector,",
      "words": [
       {
-       "h": "沿海",
-       "py": "yánhǎi",
-       "gl": "coastal",
-       "pos": "adj."
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
-       "pos": "n."
-      },
-      {
-       "h": "则",
-       "py": "zé",
-       "gl": "but; while; on the other hand (literary)",
-       "pos": "conj."
-      },
-      {
-       "h": "竖起",
-       "py": "shùqǐ",
-       "gl": "erect; put up",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
       },
       {
-       "h": "无数",
-       "py": "wúshù",
-       "gl": "countless; innumerable",
-       "pos": "adj."
+       "h": "应聘",
+       "py": "yìngpìn",
+       "gl": "apply for a job",
+       "pos": "v."
       },
       {
-       "h": "台",
-       "py": "tái",
-       "gl": "measure word for machines (computers, TVs)",
-       "pos": "measure word"
-      },
-      {
-       "h": "巨大",
-       "py": "jùdà",
-       "gl": "huge; enormous",
-       "pos": "adj."
+       "h": "巡检员",
+       "py": "xúnjiǎnyuán",
+       "gl": "inspector",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "风力发电机",
-       "py": "fēnglìfādiànjī",
-       "gl": "wind turbine",
-       "pos": "n."
-      },
-      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "their blades turning slowly in the wind,",
+     "en": "checking whether the panels were damaged",
      "words": [
       {
-       "h": "叶片",
-       "py": "yèpiàn",
-       "gl": "blade (of a turbine); leaf blade",
-       "pos": "n."
-      },
-      {
-       "h": "随",
-       "py": "suí",
-       "gl": "along with; follow",
-       "pos": "prep."
-      },
-      {
-       "h": "风",
-       "py": "fēng",
-       "gl": "wind",
-       "pos": "n."
-      },
-      {
-       "h": "缓缓",
-       "py": "huǎnhuǎn",
-       "gl": "slowly",
-       "pos": "adv."
-      },
-      {
-       "h": "转动",
-       "py": "zhuàndòng",
-       "gl": "turn; rotate",
+       "h": "负责",
+       "py": "fùzé",
+       "gl": "be responsible for; be in charge of",
        "pos": "v."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "converting wind energy into electricity.",
-     "words": [
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "风能",
-       "py": "fēngnéng",
-       "gl": "wind energy; wind power",
-       "pos": "n."
-      },
-      {
-       "h": "转化为",
-       "py": "zhuǎnhuàwéi",
-       "gl": "convert into; turn into",
+       "h": "检查",
+       "py": "jiǎnchá",
+       "gl": "check; inspect",
        "pos": "v."
       },
-      {
-       "h": "电能",
-       "py": "diànnéng",
-       "gl": "electric power",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "These renewable energy projects have not only reduced dependence on coal but also created large numbers of local jobs.",
-   "phrases": [
-    {
-     "en": "These renewable energy projects have not only reduced dependence on coal",
-     "words": [
       {
        "h": "这些",
        "py": "zhèxiē",
@@ -399,57 +1037,21 @@
        "pos": "pron."
       },
       {
-       "h": "可再生能源",
-       "py": "kězàishēngnéngyuán",
-       "gl": "renewable energy",
+       "h": "板子",
+       "py": "bǎnzi",
+       "gl": "board; panel",
        "pos": "n."
       },
       {
-       "h": "项目",
-       "py": "xiàngmù",
-       "gl": "project; item",
-       "pos": "n."
-      },
-      {
-       "h": "不仅",
-       "py": "bùjǐn",
-       "gl": "not only",
-       "pos": "conj."
-      },
-      {
-       "h": "降低",
-       "py": "jiàngdī",
-       "gl": "lower; reduce",
+       "h": "有没有",
+       "py": "yǒuméiyǒu",
+       "gl": "whether (or not); have or not",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "煤炭",
-       "py": "méitàn",
-       "gl": "coal",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "依赖",
-       "py": "yīlài",
-       "gl": "rely on; depend on; dependence",
+       "h": "破损",
+       "py": "pòsǔn",
+       "gl": "damaged; torn",
        "pos": "n."
       },
       {
@@ -458,49 +1060,25 @@
      ]
     },
     {
-     "en": "but also created large numbers of local jobs.",
+     "en": "and whether the wiring had come loose.",
      "words": [
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
-      {
-       "h": "当地",
-       "py": "dāngdì",
-       "gl": "local; locality",
+       "h": "线路",
+       "py": "xiànlù",
+       "gl": "line; circuit; route",
        "pos": "n."
       },
       {
-       "h": "创造",
-       "py": "chuàngzào",
-       "gl": "create; creation",
+       "h": "有没有",
+       "py": "yǒuméiyǒu",
+       "gl": "whether (or not); have or not",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "大量",
-       "py": "dàliàng",
-       "gl": "large amount of; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "就业机会",
-       "py": "jiùyèjīhuì",
-       "gl": "job opportunity",
-       "pos": "n."
+       "h": "松动",
+       "py": "sōngdòng",
+       "gl": "loose; come loose",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -510,54 +1088,546 @@
    ]
   },
   {
-   "en": "According to statistics, China's total solar and wind power generation has ranked first in the world for many years running.",
+   "en": "On his first day at work, he squatted on a floating platform, watching his shadow fall on the solar panels, and said nothing for a long time.",
    "phrases": [
     {
-     "en": "According to statistics, China's total solar and wind power generation",
+     "en": "On his first day at work,",
      "words": [
       {
-       "h": "据",
-       "py": "jù",
-       "gl": "according to",
-       "pos": "prep."
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
       },
       {
-       "h": "统计",
-       "py": "tǒngjì",
-       "gl": "count; compile statistics; statistics",
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "上班",
+       "py": "shàngbān",
+       "gl": "go to work; work",
+       "pos": "v."
       },
       {
-       "h": "中国",
-       "py": "Zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "he squatted on a floating platform,",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "蹲",
+       "py": "dūn",
+       "gl": "squat; crouch",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "浮台",
+       "py": "fútái",
+       "gl": "floating platform",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "watching his shadow fall on the solar panels,",
+     "words": [
+      {
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "look at; watching",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "太阳能",
-       "py": "tàiyángnéng",
-       "gl": "solar energy",
+       "h": "影子",
+       "py": "yǐngzi",
+       "gl": "shadow; reflection",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
+       "h": "落",
+       "py": "luò",
+       "gl": "fall (on); land",
+       "pos": "v."
       },
       {
-       "h": "风能",
-       "py": "fēngnéng",
-       "gl": "wind energy; wind power",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "光伏板",
+       "py": "guāngfúbǎn",
+       "gl": "solar panel",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and said nothing for a long time.",
+     "words": [
+      {
+       "h": "半天",
+       "py": "bàntiān",
+       "gl": "a long time; ages",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The young team leader thought he was afraid of the water and came over to ask if he felt unwell.",
+   "phrases": [
+    {
+     "en": "The young team leader thought he was afraid of the water",
+     "words": [
+      {
+       "h": "年轻",
+       "py": "niánqīng",
+       "gl": "young",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "组长",
+       "py": "zǔzhǎng",
+       "gl": "team leader; group leader",
+       "pos": "n."
+      },
+      {
+       "h": "以为",
+       "py": "yǐwéi",
+       "gl": "think (mistakenly); assume",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "害怕",
+       "py": "hàipà",
+       "gl": "be afraid; fear",
+       "pos": "v."
+      },
+      {
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and came over to ask if he felt unwell.",
+     "words": [
+      {
+       "h": "过来",
+       "py": "guòlái",
+       "gl": "come over; (after a verb) toward the speaker",
+       "pos": "particle"
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "是不是",
+       "py": "shìbúshì",
+       "gl": "isn't it?; right? (tag question); whether (or not)",
+       "pos": "v."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "舒服",
+       "py": "shūfu",
+       "gl": "comfortable; feel well",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lao Meng shook his head: \"I used to dig up underground the stuff the sun had made, and now I'm out on the water letting the sun shine on things directly. Strange, isn't it?\"",
+   "phrases": [
+    {
+     "en": "Lao Meng shook his head:",
+     "words": [
+      {
+       "h": "老孟",
+       "py": "Lǎo Mèng",
+       "gl": "Lao Meng",
+       "pos": "proper noun"
+      },
+      {
+       "h": "摇摇头",
+       "py": "yáoyáotóu",
+       "gl": "shake one's head",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "\"I used to dig up underground the stuff the sun had made,",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "postposition"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "地底下",
+       "py": "dì dǐxia",
+       "gl": "underground",
+       "pos": "n."
+      },
+      {
+       "h": "挖",
+       "py": "wā",
+       "gl": "dig",
+       "pos": "v."
+      },
+      {
+       "h": "太阳",
+       "py": "tàiyáng",
+       "gl": "sun",
+       "pos": "n."
+      },
+      {
+       "h": "晒",
+       "py": "shài",
+       "gl": "dry in the sun; bask",
+       "pos": "v."
+      },
+      {
+       "h": "出来",
+       "py": "chūlái",
+       "gl": "directional complement: out; into being; come out",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "东西",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and now I'm out on the water letting the sun shine on things directly.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
+       "pos": "n."
+      },
+      {
+       "h": "上面",
+       "py": "shàngmiàn",
+       "gl": "on top; on the surface; above",
+       "pos": "n."
+      },
+      {
+       "h": "直接",
+       "py": "zhíjiē",
+       "gl": "directly; straight",
+       "pos": "adv."
+      },
+      {
+       "h": "晒",
+       "py": "shài",
+       "gl": "dry in the sun; bask",
+       "pos": "v."
+      },
+      {
+       "h": "太阳",
+       "py": "tàiyáng",
+       "gl": "sun",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "Strange, isn't it?\"",
+     "words": [
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "怪",
+       "py": "guài",
+       "gl": "strange; odd; blame",
+       "pos": "adj."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "怪",
+       "py": "guài",
+       "gl": "strange; odd; blame",
+       "pos": "adj."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The team leader laughed and said this plant got two uses out of one patch of land: the panels made electricity, and they also blocked the sunlight, cutting down evaporation.",
+   "phrases": [
+    {
+     "en": "The team leader laughed",
+     "words": [
+      {
+       "h": "组长",
+       "py": "zǔzhǎng",
+       "gl": "team leader; group leader",
+       "pos": "n."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and said this plant got two uses out of one patch of land:",
+     "words": [
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this; these",
+       "pos": "pron."
+      },
+      {
+       "h": "片",
+       "py": "piàn",
+       "gl": "measure word for expanses (一片白 all white); slice; piece",
+       "pos": "measure word"
+      },
+      {
+       "h": "电站",
+       "py": "diànzhàn",
+       "gl": "power station",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "块",
+       "py": "kuài",
+       "gl": "plot; patch (measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "种",
+       "py": "zhǒng",
+       "gl": "kind; type (measure word); plant; grow",
+       "pos": "measure word"
+      },
+      {
+       "h": "用处",
+       "py": "yòngchǔ",
+       "gl": "use; usefulness",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "the panels made electricity,",
+     "words": [
+      {
+       "h": "板子",
+       "py": "bǎnzi",
+       "gl": "board; panel",
        "pos": "n."
       },
       {
@@ -567,51 +1637,57 @@
        "pos": "v."
       },
       {
-       "h": "总量",
-       "py": "zǒngliàng",
-       "gl": "total amount",
-       "pos": "n."
+       "h": "，"
       }
      ]
     },
     {
-     "en": "has ranked first in the world for many years running.",
+     "en": "and they also blocked the sunlight, cutting down evaporation.",
      "words": [
       {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
-       "h": "连续",
-       "py": "liánxù",
-       "gl": "in a row; continuously",
-       "pos": "adv."
-      },
-      {
-       "h": "多年",
-       "py": "duōnián",
-       "gl": "many years",
-       "pos": "n."
-      },
-      {
-       "h": "位居",
-       "py": "wèijū",
-       "gl": "rank; be placed (位居前列 rank among the top)",
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
        "pos": "v."
       },
       {
-       "h": "世界",
-       "py": "shìjiè",
-       "gl": "world",
+       "h": "挡住",
+       "py": "dǎngzhù",
+       "gl": "block; obstruct",
+       "pos": "v."
+      },
+      {
+       "h": "阳光",
+       "py": "yángguāng",
+       "gl": "sunlight; sunshine",
        "pos": "n."
       },
       {
-       "h": "第一",
-       "py": "dìyī",
-       "gl": "first",
-       "pos": "num."
+       "h": "，"
+      },
+      {
+       "h": "减少",
+       "py": "jiǎnshǎo",
+       "gl": "reduce; cut down",
+       "pos": "v."
+      },
+      {
+       "h": "水分",
+       "py": "shuǐfèn",
+       "gl": "moisture; water content",
+       "pos": "n."
+      },
+      {
+       "h": "蒸发",
+       "py": "zhēngfā",
+       "gl": "evaporate; evaporation; vanish (of money)",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -621,39 +1697,63 @@
    ]
   },
   {
-   "en": "Of course, new energy faces challenges too: output fluctuates with the weather, and energy storage technology still needs further breakthroughs.",
+   "en": "Lao Meng slowly learned to read the data on the computer: on sunny days the output curve arched up high; on cloudy days it suddenly sagged.",
    "phrases": [
     {
-     "en": "Of course, new energy faces challenges too:",
+     "en": "Lao Meng slowly learned to read the data on the computer:",
      "words": [
       {
-       "h": "当然",
-       "py": "dāngrán",
-       "gl": "of course; certainly",
+       "h": "老孟",
+       "py": "Lǎo Mèng",
+       "gl": "Lao Meng",
+       "pos": "proper noun"
+      },
+      {
+       "h": "慢慢",
+       "py": "mànmàn",
+       "gl": "slowly; gradually",
        "pos": "adv."
       },
       {
-       "h": "新能源",
-       "py": "xīnnéngyuán",
-       "gl": "new energy (clean, renewable)",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "面临",
-       "py": "miànlín",
-       "gl": "face; be confronted with",
+       "h": "学会",
+       "py": "xuéhuì",
+       "gl": "learn (to do); master",
        "pos": "v."
       },
       {
-       "h": "挑战",
-       "py": "tiǎozhàn",
-       "gl": "challenge",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "电脑",
+       "py": "diànnǎo",
+       "gl": "computer",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "数据",
+       "py": "shùjù",
+       "gl": "data",
        "pos": "n."
       },
       {
@@ -662,8 +1762,29 @@
      ]
     },
     {
-     "en": "output fluctuates with the weather,",
+     "en": "on sunny days the output curve arched up high;",
      "words": [
+      {
+       "h": "晴天",
+       "py": "qíngtiān",
+       "gl": "sunny day",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "发电量",
        "py": "fādiànliàng",
@@ -671,10 +1792,112 @@
        "pos": "n."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "曲线",
+       "py": "qūxiàn",
+       "gl": "curve (on a graph)",
+       "pos": "n."
+      },
+      {
+       "h": "高高",
+       "py": "gāogāo",
+       "gl": "high; tall",
+       "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "拱",
+       "py": "gǒng",
+       "gl": "arch",
        "pos": "v."
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
+      },
+      {
+       "h": "；"
+      }
+     ]
+    },
+    {
+     "en": "on cloudy days it suddenly sagged.",
+     "words": [
+      {
+       "h": "阴天",
+       "py": "yīntiān",
+       "gl": "Cloudy Day (song by Karen Mok)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "一下子",
+       "py": "yīxiàzi",
+       "gl": "all at once; suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "塌",
+       "py": "tā",
+       "gl": "collapse; cave in",
+       "pos": "v."
+      },
+      {
+       "h": "下去",
+       "py": "xiàqu",
+       "gl": "down (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Power output fluctuates with the weather; that's the biggest headache with new energy, the team leader said, which is why energy storage stations are being built all over the country to save the extra power produced in the daytime.",
+   "phrases": [
+    {
+     "en": "Power output fluctuates with the weather;",
+     "words": [
+      {
+       "h": "发电量",
+       "py": "fādiànliàng",
+       "gl": "power output; electricity generated",
+       "pos": "n."
       },
       {
        "h": "随",
@@ -692,19 +1915,19 @@
        "h": "变化",
        "py": "biànhuà",
        "gl": "change; changes",
-       "pos": "v."
+       "pos": "n."
       },
       {
        "h": "而",
        "py": "ér",
-       "gl": "and (yet); while; but; whereas",
+       "gl": "but; whereas; and",
        "pos": "conj."
       },
       {
        "h": "波动",
        "py": "bōdòng",
-       "gl": "fluctuation; fluctuate",
-       "pos": "v."
+       "gl": "fluctuation",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -712,270 +1935,24 @@
      ]
     },
     {
-     "en": "and energy storage technology still needs further breakthroughs.",
+     "en": "that's the biggest headache with new energy,",
      "words": [
       {
-       "h": "储能",
-       "py": "chǔnéng",
-       "gl": "energy storage",
-       "pos": "n."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "进一步",
-       "py": "jìnyíbù",
-       "gl": "further",
-       "pos": "adv."
-      },
-      {
-       "h": "突破",
-       "py": "tūpò",
-       "gl": "break through; breakthrough",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But as long as technology keeps advancing, green energy will eventually become a major force driving the whole country's development.",
-   "phrases": [
-    {
-     "en": "But as long as technology keeps advancing,",
-     "words": [
-      {
-       "h": "不过",
-       "py": "búguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "只要",
-       "py": "zhǐyào",
-       "gl": "as long as; if only",
-       "pos": "conj."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "持续",
-       "py": "chíxù",
-       "gl": "continue; last",
-       "pos": "adv."
-      },
-      {
-       "h": "进步",
-       "py": "jìnbù",
-       "gl": "progress; improve",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "green energy will eventually become a major force driving the whole country's development.",
-     "words": [
-      {
-       "h": "绿色能源",
-       "py": "lǜsènéngyuán",
-       "gl": "green energy",
-       "pos": "n."
-      },
-      {
-       "h": "终",
-       "py": "zhōng",
-       "gl": "eventually; in the end",
-       "pos": "adv."
-      },
-      {
-       "h": "将",
-       "py": "jiāng",
-       "gl": "will; be going to",
-       "pos": "adv."
-      },
-      {
-       "h": "成为",
-       "py": "chéngwéi",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "支撑",
-       "py": "zhīchēng",
-       "gl": "support; prop up",
-       "pos": "v."
-      },
-      {
-       "h": "整个",
-       "py": "zhěnggè",
-       "gl": "whole; entire",
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
        "pos": "pron."
       },
       {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "state; country",
-       "pos": "n."
-      },
-      {
-       "h": "发展",
-       "py": "fāzhǎn",
-       "gl": "develop; development",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
-      },
-      {
-       "h": "力量",
-       "py": "lìliàng",
-       "gl": "strength; power",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Thanks to ever-improving solar cell efficiency, Chinese companies such as LONGi Green Energy have become some of the world's largest manufacturers of solar modules by output, exporting their products all over the world.",
-   "phrases": [
-    {
-     "en": "Thanks to ever-improving solar cell efficiency, Chinese companies such as LONGi Green Energy",
-     "words": [
-      {
-       "h": "隆基绿能",
-       "py": "lóngjīlǜnéng",
-       "gl": "LONGi Green Energy",
-       "pos": "proper noun"
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "conj."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "凭借",
-       "py": "píngjiè",
-       "gl": "by virtue of; relying on",
-       "pos": "prep."
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "提升",
-       "py": "tíshēng",
-       "gl": "raise; improve; boost",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "太阳能",
-       "py": "tàiyángnéng",
-       "gl": "solar energy",
-       "pos": "n."
-      },
-      {
-       "h": "电池",
-       "py": "diànchí",
-       "gl": "cell (solar cell)",
-       "pos": "n."
-      },
-      {
-       "h": "效率",
-       "py": "xiàolǜ",
-       "gl": "efficiency",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "have become some of the world's largest manufacturers of solar modules by output,",
-     "words": [
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "成为",
-       "py": "chéngwéi",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "全球",
-       "py": "quánqiú",
-       "gl": "global; worldwide",
-       "pos": "n."
-      },
-      {
-       "h": "产量",
-       "py": "chǎnliàng",
-       "gl": "output; yield",
+       "h": "新能源",
+       "py": "xīnnéngyuán",
+       "gl": "new energy (clean, renewable)",
        "pos": "n."
       },
       {
@@ -993,32 +1970,14 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "太阳能",
-       "py": "tàiyángnéng",
-       "gl": "solar energy",
-       "pos": "n."
-      },
-      {
-       "h": "组件",
-       "py": "zǔjiàn",
-       "gl": "module; component",
-       "pos": "n."
-      },
-      {
-       "h": "制造商",
-       "py": "zhìzàoshāng",
-       "gl": "manufacturer",
-       "pos": "n."
-      },
-      {
-       "h": "之一",
-       "py": "zhīyī",
-       "gl": "one of (最…之一 'one of the most …')",
-       "pos": "pron."
+       "h": "麻烦",
+       "py": "máfan",
+       "gl": "troublesome; inconvenient; trouble",
+       "pos": "adj."
       },
       {
        "h": "，"
@@ -1026,30 +1985,33 @@
      ]
     },
     {
-     "en": "exporting their products all over the world.",
+     "en": "the team leader said, which is why energy storage stations are being built all over the country",
      "words": [
       {
-       "h": "产品",
-       "py": "chǎnpǐn",
-       "gl": "product; goods",
+       "h": "组长",
+       "py": "zǔzhǎng",
+       "gl": "team leader; group leader",
        "pos": "n."
       },
       {
-       "h": "出口",
-       "py": "chūkǒu",
-       "gl": "export",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "到",
-       "py": "dào",
-       "gl": "by (a time)",
-       "pos": "prep."
+       "h": "，"
       },
       {
-       "h": "世界",
-       "py": "shìjiè",
-       "gl": "world",
+       "h": "所以",
+       "py": "suǒyǐ",
+       "gl": "so; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "全国",
+       "py": "quánguó",
+       "gl": "the whole country; nationwide",
        "pos": "n."
       },
       {
@@ -1059,6 +2021,92 @@
        "pos": "n."
       },
       {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "建",
+       "py": "jiàn",
+       "gl": "build; set up; create",
+       "pos": "v."
+      },
+      {
+       "h": "储能",
+       "py": "chǔnéng",
+       "gl": "energy storage",
+       "pos": "n."
+      },
+      {
+       "h": "电站",
+       "py": "diànzhàn",
+       "gl": "power station",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "to save the extra power produced in the daytime.",
+     "words": [
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "白天",
+       "py": "báitiān",
+       "gl": "during the day",
+       "pos": "n."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "出来",
+       "py": "chūlái",
+       "gl": "directional complement: out; into being; come out",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "电",
+       "py": "diàn",
+       "gl": "electricity; power",
+       "pos": "n."
+      },
+      {
+       "h": "存",
+       "py": "cún",
+       "gl": "save up; store",
+       "pos": "v."
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
+      },
+      {
        "h": "。"
       }
      ]
@@ -1066,125 +2114,234 @@
    ]
   },
   {
-   "en": "In wind power, turbines made by Chinese manufacturers such as Goldwind also hold a leading position in the global market, and their technology was once described as a case of \"the latecomer becoming the front-runner.\"",
+   "en": "One summer Lao Meng's daughter came back from Beijing on her summer vacation to see him.",
    "phrases": [
     {
-     "en": "In wind power, turbines made by Chinese manufacturers such as Goldwind",
+     "en": "One summer",
      "words": [
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
       },
       {
-       "h": "风电",
-       "py": "fēngdiàn",
-       "gl": "wind power",
+       "h": "一年",
+       "py": "yīnián",
+       "gl": "one year; a year",
        "pos": "n."
       },
       {
-       "h": "领域",
-       "py": "lǐngyù",
-       "gl": "field; area; domain",
+       "h": "夏天",
+       "py": "xiàtiān",
+       "gl": "summer",
        "pos": "n."
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "Lao Meng's daughter came back from Beijing",
+     "words": [
       {
-       "h": "金风科技",
-       "py": "jīnfēngkējì",
-       "gl": "Goldwind (wind turbine maker)",
+       "h": "老孟",
+       "py": "Lǎo Mèng",
+       "gl": "Lao Meng",
        "pos": "proper noun"
       },
       {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "conj."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "厂商",
-       "py": "chǎngshāng",
-       "gl": "manufacturer; company",
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
        "pos": "n."
       },
       {
-       "h": "生产",
-       "py": "shēngchǎn",
-       "gl": "produce; manufacture",
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "暑假",
+       "py": "shǔjià",
+       "gl": "summer vacation",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "on her summer vacation to see him.",
+     "words": [
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "北京",
+       "py": "běijīng",
+       "gl": "Beijing",
+       "pos": "proper noun"
+      },
+      {
+       "h": "回来",
+       "py": "huílái",
+       "gl": "come back; return",
+       "pos": "v."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She was studying electrical engineering at university, and pointed to the distant power-line towers, saying that some of the electricity generated here might end up traveling along ultra-high-voltage lines to cities two thousand kilometers away.",
+   "phrases": [
+    {
+     "en": "She was studying electrical engineering at university,",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "大学",
+       "py": "dàxué",
+       "gl": "university; college",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "电气",
+       "py": "diànqì",
+       "gl": "electrical",
+       "pos": "adj."
+      },
+      {
+       "h": "工程",
+       "py": "gōngchéng",
+       "gl": "project; engineering; construction",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and pointed to the distant power-line towers, saying",
+     "words": [
+      {
+       "h": "指着",
+       "py": "zhǐzhe",
+       "gl": "point at",
+       "pos": "v."
+      },
+      {
+       "h": "远处",
+       "py": "yuǎnchù",
+       "gl": "distance; far away (向远处 into the distance)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "function word"
+      },
+      {
+       "h": "输电塔",
+       "py": "shūdiàntǎ",
+       "gl": "power-line tower; pylon",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that some of the electricity generated here",
+     "words": [
+      {
+       "h": "这里",
+       "py": "zhèlǐ",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "generate (electricity)",
        "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "风力",
-       "py": "fēnglì",
-       "gl": "wind power; wind force",
+       "h": "一部分",
+       "py": "yībùfèn",
+       "gl": "part; portion",
        "pos": "n."
       },
       {
-       "h": "发电机",
-       "py": "fādiànjī",
-       "gl": "generator",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "also hold a leading position in the global market,",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "全球",
-       "py": "quánqiú",
-       "gl": "global; worldwide",
-       "pos": "n."
-      },
-      {
-       "h": "市场",
-       "py": "shìchǎng",
-       "gl": "market",
-       "pos": "n."
-      },
-      {
-       "h": "占据",
-       "py": "zhànjù",
-       "gl": "occupy; take up",
-       "pos": "v."
-      },
-      {
-       "h": "领先",
-       "py": "lǐngxiān",
-       "gl": "lead; be leading; be ahead",
-       "pos": "adj."
-      },
-      {
-       "h": "地位",
-       "py": "dìwèi",
-       "gl": "status; position",
+       "h": "电",
+       "py": "diàn",
+       "gl": "electricity; power",
        "pos": "n."
       },
       {
@@ -1193,45 +2350,132 @@
      ]
     },
     {
-     "en": "and their technology was once described as a case of \"the latecomer becoming the front-runner.\"",
+     "en": "might end up traveling along ultra-high-voltage lines to cities two thousand kilometers away.",
      "words": [
       {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "一度",
-       "py": "yídù",
-       "gl": "at one time; for a while; once",
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally",
        "pos": "adv."
       },
       {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "h": "可能",
+       "py": "kěnéng",
+       "gl": "maybe; perhaps; possibly",
+       "pos": "adv."
       },
       {
-       "h": "认为",
-       "py": "rènwéi",
-       "gl": "think; believe; consider",
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
        "pos": "v."
       },
       {
-       "h": "\""
+       "h": "顺着",
+       "py": "shùnzhe",
+       "gl": "along",
+       "pos": "prep."
       },
       {
-       "h": "后来者",
-       "py": "hòuláizhě",
-       "gl": "latecomer",
+       "h": "特高压",
+       "py": "tègāoyā",
+       "gl": "ultra-high voltage (UHV)",
+       "pos": "adj."
+      },
+      {
+       "h": "线路",
+       "py": "xiànlù",
+       "gl": "line; circuit; route",
        "pos": "n."
       },
       {
-       "h": "变成",
-       "py": "biànchéng",
-       "gl": "turn into; become",
+       "h": "，"
+      },
+      {
+       "h": "送",
+       "py": "sòng",
+       "gl": "send; deliver",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "两千",
+       "py": "liǎngqiān",
+       "gl": "two thousand",
+       "pos": "num."
+      },
+      {
+       "h": "公里",
+       "py": "gōnglǐ",
+       "gl": "kilometer",
+       "pos": "measure word"
+      },
+      {
+       "h": "以外",
+       "py": "yǐwài",
+       "gl": "outside; beyond",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lao Meng didn't really follow, and asked only: \"So do the lights in Beijing have some of our power?\"",
+   "phrases": [
+    {
+     "en": "Lao Meng didn't really follow,",
+     "words": [
+      {
+       "h": "老孟",
+       "py": "Lǎo Mèng",
+       "gl": "Lao Meng",
+       "pos": "proper noun"
+      },
+      {
+       "h": "听不太懂",
+       "py": "tīng bu tài dǒng",
+       "gl": "not really understand (by ear)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and asked only: \"So do the lights in Beijing have some of our power?\"",
+     "words": [
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
        "pos": "v."
       },
       {
@@ -1241,13 +2485,140 @@
        "pos": "particle"
       },
       {
-       "h": "领跑者",
-       "py": "lǐngpǎozhě",
-       "gl": "front-runner; leader",
+       "h": "一",
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
+       "pos": "adv."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "北京",
+       "py": "běijīng",
+       "gl": "Beijing",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "灯",
+       "py": "dēng",
+       "gl": "light; lamp",
        "pos": "n."
       },
       {
-       "h": "\""
+       "h": "，"
+      },
+      {
+       "h": "有没有",
+       "py": "yǒuméiyǒu",
+       "gl": "whether (or not); have or not",
+       "pos": "v."
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "这儿",
+       "py": "zhèr",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "电",
+       "py": "diàn",
+       "gl": "electricity; power",
+       "pos": "n."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "His daughter thought for a moment and said maybe.",
+   "phrases": [
+    {
+     "en": "His daughter thought for a moment and said maybe.",
+     "words": [
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "也许",
+       "py": "yěxǔ",
+       "gl": "perhaps; maybe",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -1257,27 +2628,21 @@
    ]
   },
   {
-   "en": "According to relevant statistics, China added more than 277 gigawatts of new solar capacity in 2024 alone, a record high.",
+   "en": "That night Lao Meng sat in the courtyard for a long time, watching the lights of the distant town come on one by one.",
    "phrases": [
     {
-     "en": "According to relevant statistics,",
+     "en": "That night",
      "words": [
       {
-       "h": "根据",
-       "py": "gēnjù",
-       "gl": "according to; based on",
-       "pos": "prep."
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
       },
       {
-       "h": "相关",
-       "py": "xiāngguān",
-       "gl": "related; relevant",
-       "pos": "adj."
-      },
-      {
-       "h": "统计",
-       "py": "tǒngjì",
-       "gl": "count; compile statistics; statistics",
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
        "pos": "n."
       },
       {
@@ -1286,37 +2651,177 @@
      ]
     },
     {
-     "en": "China added more than 277 gigawatts of new solar capacity in 2024 alone,",
+     "en": "Lao Meng sat in the courtyard for a long time,",
      "words": [
       {
-       "h": "二",
-       "py": "èr",
-       "gl": "two; second (in 第二)",
+       "h": "老孟",
+       "py": "Lǎo Mèng",
+       "gl": "Lao Meng",
+       "pos": "proper noun"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "院子",
+       "py": "yuànzi",
+       "gl": "yard; courtyard",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "久",
+       "py": "jiǔ",
+       "gl": "long (time); for a long time",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "watching the lights of the distant town come on one by one.",
+     "words": [
+      {
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "look at; watching",
+       "pos": "v."
+      },
+      {
+       "h": "远处",
+       "py": "yuǎnchù",
+       "gl": "distance; far away (向远处 into the distance)",
+       "pos": "n."
+      },
+      {
+       "h": "城里",
+       "py": "chénglǐ",
+       "gl": "in the city; in town",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "灯光",
+       "py": "dēngguāng",
+       "gl": "light; lighting",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
        "pos": "num."
       },
       {
-       "h": "零",
-       "py": "líng",
-       "gl": "zero",
-       "pos": "num."
-      },
-      {
-       "h": "二",
-       "py": "èr",
-       "gl": "two; second (in 第二)",
-       "pos": "num."
-      },
-      {
-       "h": "四",
-       "py": "sì",
-       "gl": "four",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "盏",
+       "py": "zhǎn",
+       "gl": "measure word for lamps",
        "pos": "measure word"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "盏",
+       "py": "zhǎn",
+       "gl": "measure word for lamps",
+       "pos": "measure word"
+      },
+      {
+       "h": "亮",
+       "py": "liàng",
+       "gl": "light up",
+       "pos": "v."
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The news said that in 2024 China added more than 277 gigawatts of solar capacity, and the combined capacity of wind and solar surpassed coal power for the first time.",
+   "phrases": [
+    {
+     "en": "The news said",
+     "words": [
+      {
+       "h": "新闻",
+       "py": "xīnwén",
+       "gl": "news",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that in 2024 China added more than 277 gigawatts of solar capacity,",
+     "words": [
+      {
+       "h": "二零二四年",
+       "py": "èrlíngèrsìnián",
+       "gl": "(the year) 2024",
+       "pos": "num."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "中国",
@@ -1328,12 +2833,12 @@
        "h": "新增",
        "py": "xīnzēng",
        "gl": "newly added",
-       "pos": "v."
+       "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -1343,22 +2848,16 @@
        "pos": "n."
       },
       {
-       "h": "发电",
-       "py": "fādiàn",
-       "gl": "generate electricity; power generation",
-       "pos": "n."
+       "h": "装机",
+       "py": "zhuāngjī",
+       "gl": "installed (capacity)",
+       "pos": "v."
       },
       {
-       "h": "装机容量",
-       "py": "zhuāngjīróngliàng",
-       "gl": "installed capacity",
+       "h": "容量",
+       "py": "róngliàng",
+       "gl": "capacity",
        "pos": "n."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
       },
       {
        "h": "超过",
@@ -1373,102 +2872,15 @@
        "pos": "particle"
       },
       {
-       "h": "二",
-       "py": "èr",
-       "gl": "two; second (in 第二)",
-       "pos": "num."
-      },
-      {
-       "h": "百",
-       "py": "bǎi",
-       "gl": "hundred",
-       "pos": "num."
-      },
-      {
-       "h": "七十七",
-       "py": "qīshíqī",
-       "gl": "seventy-seven",
+       "h": "二百七十七",
+       "py": "èrbǎi qīshíqī",
+       "gl": "two hundred seventy-seven",
        "pos": "num."
       },
       {
        "h": "吉瓦",
        "py": "jíwǎ",
        "gl": "gigawatt",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "a record high.",
-     "words": [
-      {
-       "h": "创下",
-       "py": "chuàngxià",
-       "gl": "set (a record)",
-       "pos": "v."
-      },
-      {
-       "h": "历史",
-       "py": "lìshǐ",
-       "gl": "history",
-       "pos": "n."
-      },
-      {
-       "h": "新高",
-       "py": "xīngāo",
-       "gl": "new high; record high",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "That same year, China's combined installed wind and solar capacity overtook coal power for the first time in history, which many media outlets called an important milestone in the transformation of the energy mix.",
-   "phrases": [
-    {
-     "en": "That same year,",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
        "pos": "measure word"
       },
       {
@@ -1477,14 +2889,8 @@
      ]
     },
     {
-     "en": "China's combined installed wind and solar capacity overtook coal power for the first time in history,",
+     "en": "and the combined capacity of wind and solar surpassed coal power for the first time.",
      "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
       {
        "h": "风能",
        "py": "fēngnéng",
@@ -1504,15 +2910,9 @@
        "pos": "n."
       },
       {
-       "h": "发电",
-       "py": "fādiàn",
-       "gl": "generate electricity; power generation",
-       "pos": "n."
-      },
-      {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -1522,28 +2922,22 @@
        "pos": "adj."
       },
       {
-       "h": "装机容量",
-       "py": "zhuāngjīróngliàng",
-       "gl": "installed capacity",
-       "pos": "n."
+       "h": "装机",
+       "py": "zhuāngjī",
+       "gl": "installed (capacity)",
+       "pos": "v."
       },
       {
-       "h": "历史",
-       "py": "lìshǐ",
-       "gl": "history",
+       "h": "容量",
+       "py": "róngliàng",
+       "gl": "capacity",
        "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on; in; in terms of (after a noun: 世界上 in the world, 工作上 at work)",
-       "pos": "postposition"
       },
       {
        "h": "第一次",
        "py": "dìyīcì",
        "gl": "first time; for the first time",
-       "pos": "measure word"
+       "pos": "adv."
       },
       {
        "h": "超过",
@@ -1564,74 +2958,6 @@
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which many media outlets called an important milestone in the transformation of the energy mix.",
-     "words": [
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "媒体",
-       "py": "méitǐ",
-       "gl": "media",
-       "pos": "n."
-      },
-      {
-       "h": "称为",
-       "py": "chēngwéi",
-       "gl": "be called; be known as",
-       "pos": "v."
-      },
-      {
-       "h": "能源",
-       "py": "néngyuán",
-       "gl": "energy",
-       "pos": "n."
-      },
-      {
-       "h": "结构",
-       "py": "jiégòu",
-       "gl": "structure",
-       "pos": "n."
-      },
-      {
-       "h": "转变",
-       "py": "zhuǎnbiàn",
-       "gl": "change; shift; transformation",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
-      },
-      {
-       "h": "里程碑",
-       "py": "lǐchéngbēi",
-       "gl": "milestone",
-       "pos": "n."
-      },
-      {
        "h": "。"
       }
      ]
@@ -1639,151 +2965,15 @@
    ]
   },
   {
-   "en": "Besides building large wind and solar bases in the Gobi and other deserts, China has also turned its attention to abandoned mining areas: Huainan, in Anhui Province, has turned land that subsided after decades of coal mining into a floating solar power plant.",
+   "en": "Lao Meng read the story aloud to his wife, and when he got to \"surpassed coal power,\" he paused.",
    "phrases": [
     {
-     "en": "Besides building large wind and solar bases in the Gobi and other deserts,",
+     "en": "Lao Meng read the story aloud to his wife,",
      "words": [
       {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "戈壁",
-       "py": "gēbì",
-       "gl": "Gobi; stony desert",
-       "pos": "proper noun"
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "沙漠",
-       "py": "shāmò",
-       "gl": "desert",
-       "pos": "n."
-      },
-      {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
-       "pos": "n."
-      },
-      {
-       "h": "建设",
-       "py": "jiànshè",
-       "gl": "build; develop",
-       "pos": "v."
-      },
-      {
-       "h": "大型",
-       "py": "dàxíng",
-       "gl": "large; large-scale",
-       "pos": "adj."
-      },
-      {
-       "h": "风光",
-       "py": "fēngguāng",
-       "gl": "wind and solar (power)",
-       "pos": "n."
-      },
-      {
-       "h": "基地",
-       "py": "jīdì",
-       "gl": "base; center",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "China has also turned its attention to abandoned mining areas:",
-     "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "目光",
-       "py": "mùguāng",
-       "gl": "gaze; attention",
-       "pos": "n."
-      },
-      {
-       "h": "投向",
-       "py": "tóuxiàng",
-       "gl": "turn (one's eyes) to; direct toward",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "废弃",
-       "py": "fèiqì",
-       "gl": "abandoned; disused",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "矿区",
-       "py": "kuàngqū",
-       "gl": "mining area",
-       "pos": "n."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "Huainan, in Anhui Province, has taken land that subsided after decades of coal mining",
-     "words": [
-      {
-       "h": "安徽",
-       "py": "ānhuī",
-       "gl": "Anhui (province)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "淮南",
-       "py": "huáinán",
-       "gl": "Huainan (city)",
+       "h": "老孟",
+       "py": "Lǎo Mèng",
+       "gl": "Lao Meng",
        "pos": "proper noun"
       },
       {
@@ -1793,1151 +2983,46 @@
        "pos": "prep."
       },
       {
-       "h": "过去",
-       "py": "guòqù",
-       "gl": "past; go over (跑过去 \"run over\"); the past; pass (of time)",
-       "pos": "n."
-      },
-      {
-       "h": "采煤",
-       "py": "cǎiméi",
-       "gl": "mine coal",
-       "pos": "v."
-      },
-      {
-       "h": "留",
-       "py": "liú",
-       "gl": "leave; set aside",
-       "pos": "v."
-      },
-      {
-       "h": "下",
-       "py": "xià",
-       "gl": "verb complement: down; completion (写下 write down)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "沉陷区",
-       "py": "chénxiànqū",
-       "gl": "subsidence area",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "and turned it into a floating solar power plant.",
-     "words": [
-      {
-       "h": "改造",
-       "py": "gǎizào",
-       "gl": "overhaul; upgrade; transformation",
-       "pos": "v."
-      },
-      {
-       "h": "成",
-       "py": "chéng",
-       "gl": "into (after a verb: 翻译成 translate into); become; turn into",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "水上",
-       "py": "shuǐshàng",
-       "gl": "on the water; water-borne",
-       "pos": "n."
-      },
-      {
-       "h": "光伏",
-       "py": "guāngfú",
-       "gl": "solar photovoltaic (PV); solar power",
-       "pos": "n."
-      },
-      {
-       "h": "电站",
-       "py": "diànzhàn",
-       "gl": "power station",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The panels floating on the water not only generate electricity but also reduce evaporation, so you could call it \"one piece of land, two uses.\"",
-   "phrases": [
-    {
-     "en": "The panels floating on the water not only generate electricity",
-     "words": [
-      {
-       "h": "水面",
-       "py": "shuǐmiàn",
-       "gl": "water surface",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (a surface: 床上 on the bed)",
-       "pos": "postposition"
-      },
-      {
-       "h": "漂浮",
-       "py": "piāofú",
-       "gl": "floating; float",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "太阳能",
-       "py": "tàiyángnéng",
-       "gl": "solar energy",
-       "pos": "n."
-      },
-      {
-       "h": "板",
-       "py": "bǎn",
-       "gl": "board; panel",
-       "pos": "n."
-      },
-      {
-       "h": "不但",
-       "py": "bùdàn",
-       "gl": "not only",
-       "pos": "conj."
-      },
-      {
-       "h": "发电",
-       "py": "fādiàn",
-       "gl": "generate electricity; power generation",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but also reduce evaporation,",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "减少",
-       "py": "jiǎnshǎo",
-       "gl": "reduce; cut down",
-       "pos": "v."
-      },
-      {
-       "h": "水分",
-       "py": "shuǐfèn",
-       "gl": "moisture; water content",
-       "pos": "n."
-      },
-      {
-       "h": "蒸发",
-       "py": "zhēngfā",
-       "gl": "evaporate; evaporation",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "so you could call it \"one piece of land, two uses.\"",
-     "words": [
-      {
-       "h": "，"
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "v."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "\""
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "块",
-       "py": "kuài",
-       "gl": "measure word for plots (of land)",
-       "pos": "measure word"
-      },
-      {
-       "h": "地",
-       "py": "dì",
-       "gl": "land; field",
-       "pos": "n."
-      },
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "kind; type (measure word)",
-       "pos": "measure word"
-      },
-      {
-       "h": "用处",
-       "py": "yòngchǔ",
-       "gl": "use; usefulness",
-       "pos": "n."
-      },
-      {
-       "h": "\""
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "To meet its goals of peaking carbon emissions before 2030 and reaching carbon neutrality before 2060, regions across China are also speeding up construction of pumped-storage hydropower plants and large battery storage systems to tackle the instability of renewable power.",
-   "phrases": [
-    {
-     "en": "To meet its goals of peaking carbon emissions before 2030 and reaching carbon neutrality before 2060,",
-     "words": [
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "实现",
-       "py": "shíxiàn",
-       "gl": "realize; achieve",
-       "pos": "v."
-      },
-      {
-       "h": "二",
-       "py": "èr",
-       "gl": "two; second (in 第二)",
-       "pos": "num."
-      },
-      {
-       "h": "零",
-       "py": "líng",
-       "gl": "zero",
-       "pos": "num."
-      },
-      {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "零",
-       "py": "líng",
-       "gl": "zero",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "前",
-       "py": "qián",
-       "gl": "ago; before",
-       "pos": "postposition"
-      },
-      {
-       "h": "碳达峰",
-       "py": "tàndáfēng",
-       "gl": "carbon peak (peak emissions)",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "二",
-       "py": "èr",
-       "gl": "two; second (in 第二)",
-       "pos": "num."
-      },
-      {
-       "h": "零",
-       "py": "líng",
-       "gl": "zero",
-       "pos": "num."
-      },
-      {
-       "h": "六",
-       "py": "liù",
-       "gl": "six",
-       "pos": "num."
-      },
-      {
-       "h": "零",
-       "py": "líng",
-       "gl": "zero",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "前",
-       "py": "qián",
-       "gl": "ago; before",
-       "pos": "postposition"
-      },
-      {
-       "h": "碳中和",
-       "py": "tànzhōnghé",
-       "gl": "carbon neutrality",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "目标",
-       "py": "mùbiāo",
-       "gl": "goal; target",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "regions across China are also speeding up construction of pumped-storage hydropower plants and large battery storage systems",
-     "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "各地",
-       "py": "gèdì",
-       "gl": "all over; various places",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "particle: action in progress (他在吃 'he is eating')",
-       "pos": "adv."
-      },
-      {
-       "h": "加快",
-       "py": "jiākuài",
-       "gl": "speed up; accelerate",
-       "pos": "v."
-      },
-      {
-       "h": "建设",
-       "py": "jiànshè",
-       "gl": "build; develop",
-       "pos": "v."
-      },
-      {
-       "h": "抽水蓄能",
-       "py": "chōushuǐxùnéng",
-       "gl": "pumped-storage (hydropower)",
-       "pos": "n."
-      },
-      {
-       "h": "电站",
-       "py": "diànzhàn",
-       "gl": "power station",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "大型",
-       "py": "dàxíng",
-       "gl": "large; large-scale",
-       "pos": "adj."
-      },
-      {
-       "h": "电池",
-       "py": "diànchí",
-       "gl": "cell (solar cell)",
-       "pos": "n."
-      },
-      {
-       "h": "储能",
-       "py": "chǔnéng",
-       "gl": "energy storage",
-       "pos": "n."
-      },
-      {
-       "h": "系统",
-       "py": "xìtǒng",
-       "gl": "system",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to tackle the instability of renewable power.",
-     "words": [
-      {
-       "h": "解决",
-       "py": "jiějué",
-       "gl": "solve; settle",
-       "pos": "v."
-      },
-      {
-       "h": "新能源",
-       "py": "xīnnéngyuán",
-       "gl": "new energy (clean, renewable)",
-       "pos": "n."
-      },
-      {
-       "h": "发电",
-       "py": "fādiàn",
-       "gl": "generate electricity; power generation",
-       "pos": "n."
-      },
-      {
-       "h": "不稳定",
-       "py": "bùwěndìng",
-       "gl": "unstable",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Many experts predict that storage costs will keep falling as the technology scales up, and that green energy's share of the overall power mix will rise further along with it.",
-   "phrases": [
-    {
-     "en": "Many experts predict",
-     "words": [
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "专家",
-       "py": "zhuānjiā",
-       "gl": "expert; specialist",
-       "pos": "n."
-      },
-      {
-       "h": "预测",
-       "py": "yùcè",
-       "gl": "predict; forecast; prediction",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that storage costs will keep falling as the technology scales up,",
-     "words": [
-      {
-       "h": "储能",
-       "py": "chǔnéng",
-       "gl": "energy storage",
-       "pos": "n."
-      },
-      {
-       "h": "成本",
-       "py": "chéngběn",
-       "gl": "cost",
-       "pos": "n."
-      },
-      {
-       "h": "将",
-       "py": "jiāng",
-       "gl": "will; be going to",
-       "pos": "adv."
-      },
-      {
-       "h": "随",
-       "py": "suí",
-       "gl": "along with; follow",
-       "pos": "prep."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "规模",
-       "py": "guīmó",
-       "gl": "scale; size",
-       "pos": "n."
-      },
-      {
-       "h": "扩大",
-       "py": "kuòdà",
-       "gl": "expand; enlarge",
-       "pos": "v."
-      },
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but; whereas",
-       "pos": "conj."
-      },
-      {
-       "h": "持续",
-       "py": "chíxù",
-       "gl": "continue; last",
-       "pos": "adv."
-      },
-      {
-       "h": "下降",
-       "py": "xiàjiàng",
-       "gl": "fall; decline; drop",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and that green energy's share of the overall power mix will rise further along with it.",
-     "words": [
-      {
-       "h": "绿色",
-       "py": "lǜsè",
-       "gl": "green",
-       "pos": "adj."
-      },
-      {
-       "h": "能源",
-       "py": "néngyuán",
-       "gl": "energy",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "整体",
-       "py": "zhěngtǐ",
-       "gl": "whole; overall",
-       "pos": "adj."
-      },
-      {
-       "h": "电力",
-       "py": "diànlì",
-       "gl": "electric power; electricity",
-       "pos": "n."
-      },
-      {
-       "h": "结构",
-       "py": "jiégòu",
-       "gl": "structure",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "所",
-       "py": "suǒ",
-       "gl": "particle before a verb (所提出的 that which is proposed)",
-       "pos": "function word"
-      },
-      {
-       "h": "占",
-       "py": "zhàn",
-       "gl": "take up; occupy; account for",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "比重",
-       "py": "bǐzhòng",
-       "gl": "proportion; share",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "随之",
-       "py": "suízhī",
-       "gl": "along with it; accordingly",
-       "pos": "adv."
-      },
-      {
-       "h": "进一步",
-       "py": "jìnyíbù",
-       "gl": "further",
-       "pos": "adv."
-      },
-      {
-       "h": "提高",
-       "py": "tígāo",
-       "gl": "raise; improve",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "From solar panels on the edge of the desert to wind turbines on the coast to floating solar farms over old mines, China is using an ever-denser green energy network to redefine its role in the global energy landscape.",
-   "phrases": [
-    {
-     "en": "From solar panels on the edge of the desert to wind turbines on the coast to floating solar farms over old mines,",
-     "words": [
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "沙漠",
-       "py": "shāmò",
-       "gl": "desert",
-       "pos": "n."
-      },
-      {
-       "h": "边缘",
-       "py": "biānyuán",
-       "gl": "edge",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "太阳能",
-       "py": "tàiyángnéng",
-       "gl": "solar energy",
-       "pos": "n."
-      },
-      {
-       "h": "板",
-       "py": "bǎn",
-       "gl": "board; panel",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "by (a time)",
-       "pos": "prep."
-      },
-      {
-       "h": "沿海",
-       "py": "yánhǎi",
-       "gl": "coastal; coast",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "风力",
-       "py": "fēnglì",
-       "gl": "wind power; wind force",
-       "pos": "n."
-      },
-      {
-       "h": "发电机",
-       "py": "fādiànjī",
-       "gl": "generator",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "then; after that",
-       "pos": "adv."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "by (a time)",
-       "pos": "prep."
-      },
-      {
-       "h": "矿区",
-       "py": "kuàngqū",
-       "gl": "mining area",
-       "pos": "n."
-      },
-      {
-       "h": "上空",
-       "py": "shàngkōng",
-       "gl": "sky above; airspace",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "水上",
-       "py": "shuǐshàng",
-       "gl": "on the water; water-borne",
-       "pos": "n."
-      },
-      {
-       "h": "光伏",
-       "py": "guāngfú",
-       "gl": "solar photovoltaic (PV); solar power",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "China is using an ever-denser green energy network",
-     "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "正在",
-       "py": "zhèngzài",
-       "gl": "be in the middle of (doing)",
-       "pos": "adv."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "张",
-       "py": "zhāng",
-       "gl": "measure word for flat objects (paper, photos, tables)",
-       "pos": "measure word"
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "密",
-       "py": "mì",
-       "gl": "dense; thick; heavy (rain)",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "绿色",
-       "py": "lǜsè",
-       "gl": "green",
-       "pos": "adj."
-      },
-      {
-       "h": "能源",
-       "py": "néngyuán",
-       "gl": "energy",
-       "pos": "n."
-      },
-      {
-       "h": "网络",
-       "py": "wǎngluò",
-       "gl": "internet; network; online",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to redefine its role in the global energy landscape.",
-     "words": [
-      {
-       "h": "重新",
-       "py": "chóngxīn",
-       "gl": "again; anew",
-       "pos": "adv."
-      },
-      {
-       "h": "定义",
-       "py": "dìngyì",
-       "gl": "definition; define",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
        "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "全球",
-       "py": "quánqiú",
-       "gl": "global; worldwide",
-       "pos": "n."
-      },
-      {
-       "h": "能源",
-       "py": "néngyuán",
-       "gl": "energy",
-       "pos": "n."
-      },
-      {
-       "h": "格局",
-       "py": "géjú",
-       "gl": "setup; structure; balance of power",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "角色",
-       "py": "juésè",
-       "gl": "role",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "To send the northwest's abundant wind and solar power to the eastern coast, where demand is greater, China has built a number of ultra-high-voltage transmission lines, carrying out the plan of \"sending western power east.\"",
-   "phrases": [
-    {
-     "en": "To send the northwest's abundant wind and solar power to the eastern coast, where demand is greater,",
-     "words": [
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "西北",
-       "py": "xīběi",
-       "gl": "northwest",
-       "pos": "n."
-      },
-      {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
-       "pos": "n."
-      },
-      {
-       "h": "丰富",
-       "py": "fēngfù",
-       "gl": "rich; varied; extensive",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "风能",
-       "py": "fēngnéng",
-       "gl": "wind energy; wind power",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "太阳能",
-       "py": "tàiyángnéng",
-       "gl": "solar energy",
-       "pos": "n."
-      },
-      {
-       "h": "送",
-       "py": "sòng",
-       "gl": "deliver",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "by (a time)",
-       "pos": "prep."
-      },
-      {
-       "h": "用电",
-       "py": "yòngdiàn",
-       "gl": "electricity use; power consumption",
-       "pos": "n."
-      },
-      {
-       "h": "需求",
-       "py": "xūqiú",
-       "gl": "need; requirement; demand",
-       "pos": "n."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "东部",
-       "py": "dōngbù",
-       "gl": "eastern part; east",
-       "pos": "n."
-      },
-      {
-       "h": "沿海",
-       "py": "yánhǎi",
-       "gl": "coastal; coast",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "China has built a number of ultra-high-voltage transmission lines,",
-     "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "建设",
-       "py": "jiànshè",
-       "gl": "build; develop",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
       },
       {
        "h": "条",
        "py": "tiáo",
-       "gl": "measure word for long things (roads, rivers, fish), lines, messages, items",
+       "gl": "measure word for long things (fish, roads, rivers)",
        "pos": "measure word"
       },
       {
-       "h": "特高压",
-       "py": "tègāoyā",
-       "gl": "ultra-high voltage (UHV)",
+       "h": "新闻",
+       "py": "xīnwén",
+       "gl": "news",
        "pos": "n."
       },
       {
-       "h": "输电",
-       "py": "shūdiàn",
-       "gl": "power transmission",
+       "h": "念",
+       "py": "niàn",
+       "gl": "read aloud",
+       "pos": "v."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "妻子",
+       "py": "qīzǐ",
+       "gl": "wife",
        "pos": "n."
       },
       {
-       "h": "线路",
-       "py": "xiànlù",
-       "gl": "line; circuit; route",
-       "pos": "n."
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
       },
       {
        "h": "，"
@@ -2945,106 +3030,22 @@
      ]
     },
     {
-     "en": "carrying out the plan of \"sending western power east.\"",
+     "en": "and when he got to \"surpassed coal power,\" he paused.",
      "words": [
       {
-       "h": "实现",
-       "py": "shíxiàn",
-       "gl": "realize; achieve",
+       "h": "念",
+       "py": "niàn",
+       "gl": "read aloud",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
       },
       {
-       "h": "\""
-      },
-      {
-       "h": "西电东送",
-       "py": "xīdiàndōngsòng",
-       "gl": "West-to-East Power Transmission",
-       "pos": "n."
-      },
-      {
-       "h": "\""
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "These lines operate at very high voltages and can carry power more than 2,000 kilometers, yet their losses are far lower than those of ordinary lines.",
-   "phrases": [
-    {
-     "en": "These lines operate at very high voltages",
-     "words": [
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "线路",
-       "py": "xiànlù",
-       "gl": "line; circuit; route",
-       "pos": "n."
-      },
-      {
-       "h": "电压",
-       "py": "diànyā",
-       "gl": "voltage",
-       "pos": "n."
-      },
-      {
-       "h": "等级",
-       "py": "děngjí",
-       "gl": "level; grade; rank",
-       "pos": "n."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "高",
-       "py": "gāo",
-       "gl": "tall; high",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and can carry power more than 2,000 kilometers,",
-     "words": [
-      {
-       "h": "输送",
-       "py": "shūsòng",
-       "gl": "supply; transport",
-       "pos": "v."
-      },
-      {
-       "h": "距离",
-       "py": "jùlí",
-       "gl": "distance",
-       "pos": "n."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "v."
+       "h": "“"
       },
       {
        "h": "超过",
@@ -3053,422 +3054,39 @@
        "pos": "v."
       },
       {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "千",
-       "py": "qiān",
-       "gl": "thousand",
-       "pos": "num."
-      },
-      {
-       "h": "公里",
-       "py": "gōnglǐ",
-       "gl": "kilometer",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "yet their losses are far lower than those of ordinary lines.",
-     "words": [
-      {
-       "h": "损耗",
-       "py": "sǔnhào",
-       "gl": "loss; wastage",
+       "h": "煤电",
+       "py": "méidiàn",
+       "gl": "coal power",
        "pos": "n."
       },
       {
-       "h": "却",
-       "py": "què",
-       "gl": "but; yet",
-       "pos": "adv."
+       "h": "”"
       },
       {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "普通",
-       "py": "pǔtōng",
-       "gl": "ordinary; common",
-       "pos": "adj."
-      },
-      {
-       "h": "线路",
-       "py": "xiànlù",
-       "gl": "line; circuit; route",
-       "pos": "n."
-      },
-      {
-       "h": "低",
-       "py": "dī",
-       "gl": "low",
-       "pos": "adj."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of; much (after a comparison: 低很多 much lower)",
-       "pos": "adv."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Besides wind and solar, China's hydropower is also world-famous: the Three Gorges Dam on the Yangtze is currently the hydropower station with the largest installed capacity in the world.",
-   "phrases": [
-    {
-     "en": "Besides wind and solar, China's hydropower is also world-famous:",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "风能",
-       "py": "fēngnéng",
-       "gl": "wind energy; wind power",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "太阳能",
-       "py": "tàiyángnéng",
-       "gl": "solar energy",
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "水电",
-       "py": "shuǐdiàn",
-       "gl": "hydropower",
-       "pos": "n."
-      },
-      {
-       "h": "同样",
-       "py": "tóngyàng",
-       "gl": "likewise; equally",
-       "pos": "adv."
-      },
-      {
-       "h": "举世闻名",
-       "py": "jǔshìwénmíng",
-       "gl": "world-famous (idiom)",
-       "pos": "phrase"
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "the Three Gorges Dam on the Yangtze",
-     "words": [
-      {
-       "h": "长江",
-       "py": "chángjiāng",
-       "gl": "Yangtze River",
-       "pos": "proper noun"
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (a surface: 床上 on the bed)",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "三峡",
-       "py": "sānxiá",
-       "gl": "Three Gorges (on the Yangtze)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "水电站",
-       "py": "shuǐdiànzhàn",
-       "gl": "hydropower station",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "is currently the hydropower station with the largest installed capacity in the world.",
-     "words": [
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "目前",
-       "py": "mùqián",
-       "gl": "currently; at present",
-       "pos": "n."
-      },
-      {
-       "h": "世界",
-       "py": "shìjiè",
-       "gl": "world",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (a surface: 床上 on the bed)",
-       "pos": "postposition"
-      },
-      {
-       "h": "装机容量",
-       "py": "zhuāngjīróngliàng",
-       "gl": "installed capacity",
-       "pos": "n."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "水电站",
-       "py": "shuǐdiànzhàn",
-       "gl": "hydropower station",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Hydro, wind and solar power complement one another, keeping the grid's supply stable across different seasons and weather.",
-   "phrases": [
-    {
-     "en": "Hydro, wind and solar power complement one another,",
-     "words": [
-      {
-       "h": "水电",
-       "py": "shuǐdiàn",
-       "gl": "hydropower",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "风电",
-       "py": "fēngdiàn",
-       "gl": "wind power",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "太阳能",
-       "py": "tàiyángnéng",
-       "gl": "solar energy",
-       "pos": "n."
-      },
-      {
-       "h": "互相",
-       "py": "hùxiāng",
-       "gl": "each other; mutually",
-       "pos": "adv."
-      },
-      {
-       "h": "配合",
-       "py": "pèihé",
-       "gl": "teamwork; cooperation; cooperate",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "keeping the grid's supply stable across different seasons and weather.",
-     "words": [
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "不同",
-       "py": "bùtóng",
-       "gl": "different",
-       "pos": "adj."
-      },
-      {
-       "h": "季节",
-       "py": "jìjié",
-       "gl": "season",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "不同",
-       "py": "bùtóng",
-       "gl": "different",
-       "pos": "adj."
-      },
-      {
-       "h": "天气",
-       "py": "tiānqì",
-       "gl": "weather",
-       "pos": "n."
-      },
-      {
-       "h": "下",
-       "py": "xià",
-       "gl": "under (conditions); in (a context)",
-       "pos": "postposition"
-      },
-      {
-       "h": "保证",
-       "py": "bǎozhèng",
-       "gl": "guarantee; ensure; promise",
-       "pos": "v."
-      },
-      {
-       "h": "电网",
-       "py": "diànwǎng",
-       "gl": "power grid",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "稳定",
-       "py": "wěndìng",
-       "gl": "stable; steady",
-       "pos": "adj."
-      },
-      {
-       "h": "供应",
-       "py": "gōngyìng",
-       "gl": "supply; provide",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The growth of green energy has also boosted related industries: the EV batteries made by the Chinese company CATL now hold the largest share of the global electric-vehicle battery market.",
-   "phrases": [
-    {
-     "en": "The growth of green energy has also boosted related industries:",
-     "words": [
-      {
-       "h": "绿色",
-       "py": "lǜsè",
-       "gl": "green",
-       "pos": "adj."
-      },
-      {
-       "h": "能源",
-       "py": "néngyuán",
-       "gl": "energy",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "发展",
-       "py": "fāzhǎn",
-       "gl": "develop; development",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "带动",
-       "py": "dàidòng",
-       "gl": "drive; boost; spur",
+       "h": "停顿",
+       "py": "tíngdùn",
+       "gl": "pause",
        "pos": "v."
       },
       {
@@ -3478,66 +3096,35 @@
        "pos": "particle"
       },
       {
-       "h": "相关",
-       "py": "xiāngguān",
-       "gl": "related; relevant",
-       "pos": "adj."
-      },
-      {
-       "h": "产业",
-       "py": "chǎnyè",
-       "gl": "industry",
-       "pos": "n."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "the EV batteries made by the Chinese company CATL",
-     "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "宁德时代",
-       "py": "níngdéshídài",
-       "gl": "CATL (battery company)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "生产",
-       "py": "shēngchǎn",
-       "gl": "produce; manufacture",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "h": "一下",
+       "py": "yíxià",
+       "gl": "a bit; once (softens the verb: take a look)",
        "pos": "particle"
       },
       {
-       "h": "动力",
-       "py": "dònglì",
-       "gl": "power (battery); traction",
-       "pos": "adj."
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "His wife said: so the coal you used to dig every day has lost now?",
+   "phrases": [
+    {
+     "en": "His wife said:",
+     "words": [
+      {
+       "h": "妻子",
+       "py": "qīzǐ",
+       "gl": "wife",
+       "pos": "n."
       },
       {
-       "h": "电池",
-       "py": "diànchí",
-       "gl": "cell (solar cell)",
-       "pos": "n."
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
       },
       {
        "h": "，"
@@ -3545,125 +3132,162 @@
      ]
     },
     {
-     "en": "now hold the largest share of the global electric-vehicle battery market.",
+     "en": "so the coal you used to dig every day has lost now?",
+     "words": [
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "postposition"
+      },
+      {
+       "h": "天天",
+       "py": "tiāntiān",
+       "gl": "every day",
+       "pos": "adv."
+      },
+      {
+       "h": "挖",
+       "py": "wā",
+       "gl": "dig",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "煤",
+       "py": "méi",
+       "gl": "coal",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "输",
+       "py": "shū",
+       "gl": "lose (a game)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lao Meng laughed: \"It didn't lose. It handed over the shift.\"",
+   "phrases": [
+    {
+     "en": "Lao Meng laughed: \"It didn't lose. It handed over the shift.\"",
+     "words": [
+      {
+       "h": "老孟",
+       "py": "Lǎo Mèng",
+       "gl": "Lao Meng",
+       "pos": "proper noun"
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
+       "h": "输",
+       "py": "shū",
+       "gl": "lose (a game)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "换班",
+       "py": "huànbān",
+       "gl": "change shifts",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "These days there's no more coal dust under his nails, and what occasionally clings to his clothes is the smell of water weeds and sunshine.",
+   "phrases": [
+    {
+     "en": "These days",
      "words": [
       {
        "h": "如今",
        "py": "rújīn",
        "gl": "nowadays; now",
-       "pos": "n."
-      },
-      {
-       "h": "占据",
-       "py": "zhànjù",
-       "gl": "occupy; take up",
-       "pos": "v."
-      },
-      {
-       "h": "全球",
-       "py": "quánqiú",
-       "gl": "global; worldwide",
-       "pos": "n."
-      },
-      {
-       "h": "电动汽车",
-       "py": "diàndòngqìchē",
-       "gl": "electric car",
-       "pos": "n."
-      },
-      {
-       "h": "电池",
-       "py": "diànchí",
-       "gl": "cell (solar cell)",
-       "pos": "n."
-      },
-      {
-       "h": "市场",
-       "py": "shìchǎng",
-       "gl": "market",
-       "pos": "n."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
        "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "份额",
-       "py": "fèné",
-       "gl": "share (of the market)",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "From power generation to storage to electric cars, China is building a complete green energy supply chain whose influence has long since reached beyond its borders.",
-   "phrases": [
-    {
-     "en": "From power generation to storage to electric cars,",
-     "words": [
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "发电",
-       "py": "fādiàn",
-       "gl": "generate electricity; power generation",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "by (a time)",
-       "pos": "prep."
-      },
-      {
-       "h": "储能",
-       "py": "chǔnéng",
-       "gl": "energy storage",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "then; after that",
-       "pos": "adv."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "by (a time)",
-       "pos": "prep."
-      },
-      {
-       "h": "电动汽车",
-       "py": "diàndòngqìchē",
-       "gl": "electric car",
-       "pos": "n."
       },
       {
        "h": "，"
@@ -3671,357 +3295,102 @@
      ]
     },
     {
-     "en": "China is building a complete green energy supply chain",
+     "en": "there's no more coal dust under his nails,",
      "words": [
       {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "正在",
-       "py": "zhèngzài",
-       "gl": "be in the middle of (doing)",
-       "pos": "adv."
-      },
-      {
-       "h": "形成",
-       "py": "xíngchéng",
-       "gl": "form; take shape",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "条",
-       "py": "tiáo",
-       "gl": "measure word for long things (roads, rivers, fish), lines, messages, items",
-       "pos": "measure word"
-      },
-      {
-       "h": "完整",
-       "py": "wánzhěng",
-       "gl": "complete; whole",
-       "pos": "adj."
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "绿色",
-       "py": "lǜsè",
-       "gl": "green",
-       "pos": "adj."
-      },
-      {
-       "h": "能源",
-       "py": "néngyuán",
-       "gl": "energy",
+       "h": "指甲缝",
+       "py": "zhǐjiafèng",
+       "gl": "under one's fingernails",
        "pos": "n."
       },
       {
-       "h": "产业链",
-       "py": "chǎnyèliàn",
-       "gl": "industrial chain; industry",
-       "pos": "n."
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "whose influence has long since reached beyond its borders.",
-     "words": [
-      {
-       "h": "影响力",
-       "py": "yǐngxiǎnglì",
-       "gl": "influence",
-       "pos": "n."
-      },
-      {
-       "h": "早已",
-       "py": "zǎoyǐ",
-       "gl": "long ago; long since",
-       "pos": "adv."
-      },
-      {
-       "h": "超出",
-       "py": "chāochū",
-       "gl": "exceed; go beyond",
-       "pos": "v."
-      },
-      {
-       "h": "国界",
-       "py": "guójiè",
-       "gl": "national border",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "China is growing astonishingly fast in offshore wind as well: roughly half of the world's offshore wind capacity now in operation is in China.",
-   "phrases": [
-    {
-     "en": "China is growing astonishingly fast in offshore wind as well:",
-     "words": [
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "海上",
-       "py": "hǎishàng",
-       "gl": "offshore; at sea",
-       "pos": "n."
-      },
-      {
-       "h": "风电",
-       "py": "fēngdiàn",
-       "gl": "wind power",
-       "pos": "n."
-      },
-      {
-       "h": "方面",
-       "py": "fāngmiàn",
-       "gl": "aspect; respect; side",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "发展",
-       "py": "fāzhǎn",
-       "gl": "develop; development",
-       "pos": "n."
-      },
-      {
-       "h": "速度",
-       "py": "sùdù",
-       "gl": "speed",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "十分",
-       "py": "shífēn",
-       "gl": "very; extremely",
-       "pos": "adv."
-      },
-      {
-       "h": "惊人",
-       "py": "jīngrén",
-       "gl": "astonishing; amazing",
-       "pos": "adj."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "of the world's offshore wind capacity now in operation,",
-     "words": [
-      {
-       "h": "目前",
-       "py": "mùqián",
-       "gl": "currently; at present",
-       "pos": "n."
-      },
-      {
-       "h": "全球",
-       "py": "quánqiú",
-       "gl": "global; worldwide",
-       "pos": "n."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "投入",
-       "py": "tóurù",
-       "gl": "put into (use); invest",
-       "pos": "v."
-      },
-      {
-       "h": "运行",
-       "py": "yùnxíng",
-       "gl": "run; operate (of software, machines)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "海上",
-       "py": "hǎishàng",
-       "gl": "offshore; at sea",
-       "pos": "n."
-      },
-      {
-       "h": "风电",
-       "py": "fēngdiàn",
-       "gl": "wind power",
-       "pos": "n."
-      },
-      {
-       "h": "装机容量",
-       "py": "zhuāngjīróngliàng",
-       "gl": "installed capacity",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "roughly half is in China.",
-     "words": [
-      {
-       "h": "大约",
-       "py": "dàyuē",
-       "gl": "about; approximately",
+       "h": "不再",
+       "py": "bùzài",
+       "gl": "no longer; not anymore",
        "pos": "adv."
       },
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
+       "h": "煤灰",
+       "py": "méihuī",
+       "gl": "coal dust",
+       "pos": "n."
       },
       {
-       "h": "半",
-       "py": "bàn",
-       "gl": "half",
-       "pos": "num."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "。"
+       "h": "，"
       }
      ]
-    }
-   ]
-  },
-  {
-   "en": "Most of these offshore wind farms are off the coasts of Jiangsu, Guangdong and Fujian, where sea winds are steadier and generate power more efficiently than wind farms on land.",
-   "phrases": [
+    },
     {
-     "en": "Most of these offshore wind farms are off the coasts of Jiangsu, Guangdong and Fujian,",
+     "en": "and what occasionally clings to his clothes is the smell of water weeds and sunshine.",
      "words": [
       {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "海上",
-       "py": "hǎishàng",
-       "gl": "offshore; at sea",
+       "h": "衣服",
+       "py": "yīfu",
+       "gl": "clothes",
        "pos": "n."
       },
       {
-       "h": "风电场",
-       "py": "fēngdiànchǎng",
-       "gl": "wind farm",
-       "pos": "n."
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
-       "h": "大多",
-       "py": "dàduō",
-       "gl": "mostly; for the most part",
+       "h": "偶尔",
+       "py": "ǒuěr",
+       "gl": "occasionally; once in a while",
        "pos": "adv."
       },
       {
-       "h": "建",
-       "py": "jiàn",
-       "gl": "build; set up; create",
+       "h": "沾着",
+       "py": "zhānzhe",
+       "gl": "be stained with; smell of",
        "pos": "v."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "江苏",
-       "py": "jiāngsū",
-       "gl": "Jiangsu (province)",
-       "pos": "proper noun"
+       "h": "，"
       },
       {
-       "h": "、"
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
       },
       {
-       "h": "广东",
-       "py": "guǎngdōng",
-       "gl": "Guangdong (province)",
-       "pos": "proper noun"
+       "h": "水草",
+       "py": "shuǐcǎo",
+       "gl": "water weeds",
+       "pos": "n."
       },
       {
        "h": "和",
@@ -4030,42 +3399,53 @@
        "pos": "conj."
       },
       {
-       "h": "福建",
-       "py": "fújiàn",
-       "gl": "Fujian (province)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "沿海",
-       "py": "yánhǎi",
-       "gl": "coastal; coast",
+       "h": "阳光",
+       "py": "yángguāng",
+       "gl": "sunlight; sunshine",
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "味道",
+       "py": "wèidào",
+       "gl": "smell; odor",
+       "pos": "n."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "It's just that whenever it rains, he still looks up at the sky out of habit — in the past, worried about water seeping into the mine, now, working out tomorrow's power output.",
+   "phrases": [
     {
-     "en": "where sea winds are steadier",
+     "en": "It's just that whenever it rains,",
      "words": [
       {
-       "h": "海风",
-       "py": "hǎifēng",
-       "gl": "sea breeze",
-       "pos": "n."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
        "pos": "adv."
       },
       {
-       "h": "稳定",
-       "py": "wěndìng",
-       "gl": "stable; steady",
-       "pos": "adj."
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "adv."
+      },
+      {
+       "h": "下雨",
+       "py": "xiàyǔ",
+       "gl": "rain (it rains)",
+       "pos": "v."
       },
       {
        "h": "，"
@@ -4073,18 +3453,208 @@
      ]
     },
     {
-     "en": "and generate power more efficiently than wind farms on land.",
+     "en": "he still looks up at the sky out of habit —",
      "words": [
       {
-       "h": "发电",
-       "py": "fādiàn",
-       "gl": "generate electricity; power generation",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "习惯性",
+       "py": "xíguànxìng",
+       "gl": "habitual; out of habit",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "抬头",
+       "py": "táitóu",
+       "gl": "raise one's head; look up",
+       "pos": "v."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
        "pos": "n."
       },
       {
-       "h": "效率",
-       "py": "xiàolǜ",
-       "gl": "efficiency",
+       "h": "—"
+      },
+      {
+       "h": "—"
+      }
+     ]
+    },
+    {
+     "en": "in the past, worried about water seeping into the mine,",
+     "words": [
+      {
+       "h": "过去",
+       "py": "guòqù",
+       "gl": "past; the past",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "怕",
+       "py": "pà",
+       "gl": "be afraid; fear; worry",
+       "pos": "v."
+      },
+      {
+       "h": "井",
+       "py": "jǐng",
+       "gl": "well (for water)",
+       "pos": "n."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "under (强光下 under bright light)",
+       "pos": "postposition"
+      },
+      {
+       "h": "渗水",
+       "py": "shènshuǐ",
+       "gl": "seep; leak (water)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "now, working out tomorrow's power output.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "算",
+       "py": "suàn",
+       "gl": "work out; calculate",
+       "pos": "v."
+      },
+      {
+       "h": "明天",
+       "py": "míngtiān",
+       "gl": "tomorrow",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "发电量",
+       "py": "fādiànliàng",
+       "gl": "power output; electricity generated",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Output rises and falls with the weather, and his mood rises and falls along with it; his wife teases him: \"Your whole life, you've never been free of the moods of heaven.\"",
+   "phrases": [
+    {
+     "en": "Output rises and falls with the weather,",
+     "words": [
+      {
+       "h": "发电量",
+       "py": "fādiànliàng",
+       "gl": "power output; electricity generated",
+       "pos": "n."
+      },
+      {
+       "h": "随",
+       "py": "suí",
+       "gl": "along with; follow",
+       "pos": "prep."
+      },
+      {
+       "h": "天气",
+       "py": "tiānqì",
+       "gl": "weather",
+       "pos": "n."
+      },
+      {
+       "h": "起落",
+       "py": "qǐluò",
+       "gl": "rise and fall",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and his mood rises and falls along with it;",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "心情",
+       "py": "xīnqíng",
+       "gl": "mood",
        "pos": "n."
       },
       {
@@ -4094,49 +3664,99 @@
        "pos": "adv."
       },
       {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
+       "h": "随之",
+       "py": "suízhī",
+       "gl": "along with it; accordingly",
+       "pos": "adv."
       },
       {
-       "h": "陆地",
-       "py": "lùdì",
-       "gl": "land",
+       "h": "起落",
+       "py": "qǐluò",
+       "gl": "rise and fall",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "his wife teases him: \"Your whole life, you've never been free of the moods of heaven.\"",
+     "words": [
+      {
+       "h": "妻子",
+       "py": "qīzǐ",
+       "gl": "wife",
        "pos": "n."
       },
       {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (a surface: 床上 on the bed)",
-       "pos": "postposition"
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "这辈子",
+       "py": "zhèbèizi",
+       "gl": "in this lifetime; all one's life",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "离不开",
+       "py": "líbùkāi",
+       "gl": "can't do without",
+       "pos": "v."
+      },
+      {
+       "h": "老天爷",
+       "py": "lǎotiānyé",
+       "gl": "heaven; the heavens",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "风电场",
-       "py": "fēngdiànchǎng",
-       "gl": "wind farm",
+       "h": "脸色",
+       "py": "liǎnsè",
+       "gl": "complexion; look on one's face",
        "pos": "n."
       },
       {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "高",
-       "py": "gāo",
-       "gl": "tall; high",
-       "pos": "adj."
-      },
-      {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }

@@ -1,17 +1,344 @@
 {
  "id": "l6hsk6word1",
  "level": 6,
- "title_zh": "从实习生到组长",
- "title_en": "From Intern to Team Leader",
+ "title_zh": "实习生的第一个月",
+ "title_en": "An Intern's First Month",
  "free": false,
  "audio_url": null,
- "note_en": "连…都/也… means \"even\": 连一个小错误都不放过 \"she didn't let even one small mistake slip.\" 连 goes right before the extreme example, and 都 or 也 must come before the verb; in English \"even\" alone does the job. The text keeps returning to it, e.g. 连会议记录里的日期格式都要统一 \"she wants even the date format in meeting minutes to be consistent.\"",
+ "note_en": "连…都/也… stresses that something holds even in the most extreme case: 连一个电话号码里多出来的空格都没放过 \"she didn't let even an extra space in a phone number slip past.\" 连 moves that extreme example forward, and 都 (or 也) before the verb confirms it is included. The same frame from the other side: 他连最简单的表格都填错了三次 \"he got even the simplest form wrong three times.\"",
  "sentences": [
   {
-   "en": "Lin Han had just graduated from college and joined an advertising agency as an intern.",
+   "en": "On her very first day at work, Lin Han spilled a cup of coffee on her supervisor's keyboard.",
    "phrases": [
     {
-     "en": "Lin Han had just graduated from college",
+     "en": "On her very first day at work,",
+     "words": [
+      {
+       "h": "林涵",
+       "py": "Lín Hán",
+       "gl": "Lin Han (name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "上班",
+       "py": "shàngbān",
+       "gl": "go to work; work",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "Lin Han spilled a cup of coffee on her supervisor's keyboard.",
+     "words": [
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "杯",
+       "py": "bēi",
+       "gl": "cup; glass (also measure word)",
+       "pos": "n."
+      },
+      {
+       "h": "咖啡",
+       "py": "kāfēi",
+       "gl": "coffee",
+       "pos": "n."
+      },
+      {
+       "h": "洒",
+       "py": "sǎ",
+       "gl": "spill; sprinkle",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "主管",
+       "py": "zhǔguǎn",
+       "gl": "supervisor; manager",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "键盘",
+       "py": "jiànpán",
+       "gl": "keyboard",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The supervisor looked at the dripping keyboard, didn't lose his temper, and simply handed her a stack of client files, saying: \"Get these sorted out first.\"",
+   "phrases": [
+    {
+     "en": "The supervisor looked at the dripping keyboard,",
+     "words": [
+      {
+       "h": "主管",
+       "py": "zhǔguǎn",
+       "gl": "supervisor; manager",
+       "pos": "n."
+      },
+      {
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "look at; watching",
+       "pos": "v."
+      },
+      {
+       "h": "滴",
+       "py": "dī",
+       "gl": "drop (measure word); drip",
+       "pos": "v."
+      },
+      {
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "键盘",
+       "py": "jiànpán",
+       "gl": "keyboard",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "didn't lose his temper,",
+     "words": [
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "发火",
+       "py": "fāhuǒ",
+       "gl": "flare up; lose one's temper",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and simply handed her a stack of client files,",
+     "words": [
+      {
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
+      },
+      {
+       "h": "递给",
+       "py": "dìgěi",
+       "gl": "hand to; pass to",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
+       "pos": "adv."
+      },
+      {
+       "h": "沓",
+       "py": "dá",
+       "gl": "stack; wad (measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "客户",
+       "py": "kèhù",
+       "gl": "client; customer",
+       "pos": "n."
+      },
+      {
+       "h": "资料",
+       "py": "zīliào",
+       "gl": "information; materials; data",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "saying: \"Get these sorted out first.\"",
+     "words": [
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "先",
+       "py": "xiān",
+       "gl": "first; before",
+       "pos": "adv."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "整理",
+       "py": "zhěnglǐ",
+       "gl": "compile; organize (into)",
+       "pos": "v."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It was an advertising agency; Lin Han had just graduated from university and was the youngest intern in the department.",
+   "phrases": [
+    {
+     "en": "It was an advertising agency;",
+     "words": [
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一家",
+       "py": "yìjiā",
+       "gl": "a; one (shop, family, company)",
+       "pos": "measure word"
+      },
+      {
+       "h": "广告",
+       "py": "guǎnggào",
+       "gl": "advertisement; ad",
+       "pos": "n."
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "Lin Han had just graduated from university",
      "words": [
       {
        "h": "林涵",
@@ -43,49 +370,43 @@
      ]
     },
     {
-     "en": "and joined an advertising agency as an intern.",
+     "en": "and was the youngest intern in the department.",
      "words": [
       {
-       "h": "进",
-       "py": "jìn",
-       "gl": "into (写进 write into); enter; come in",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
+       "h": "部门",
+       "py": "bùmén",
+       "gl": "department; government agency",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "年轻",
+       "py": "niánqīng",
+       "gl": "young",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "measure word for shops, businesses; home; family",
-       "pos": "measure word"
-      },
-      {
-       "h": "广告",
-       "py": "guǎnggào",
-       "gl": "advertisement; ad",
-       "pos": "n."
-      },
-      {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company",
-       "pos": "n."
-      },
-      {
-       "h": "当",
-       "py": "dāng",
-       "gl": "serve as; be; become",
-       "pos": "v."
       },
       {
        "h": "实习生",
@@ -101,30 +422,10 @@
    ]
   },
   {
-   "en": "On her first day she made up her mind to keep her feet on the ground and start with the simplest tasks.",
+   "en": "She quietly made up her mind: to work with her feet on the ground, starting from the simplest tasks.",
    "phrases": [
     {
-     "en": "On her first day at work",
-     "words": [
-      {
-       "h": "第一天",
-       "py": "dìyītiān",
-       "gl": "first day",
-       "pos": "n."
-      },
-      {
-       "h": "上班",
-       "py": "shàngbān",
-       "gl": "go to work; work",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she made up her mind to keep her feet on the ground in everything she did,",
+     "en": "She quietly made up her mind:",
      "words": [
       {
        "h": "她",
@@ -133,31 +434,30 @@
        "pos": "pron."
       },
       {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
+       "h": "暗暗",
+       "py": "ànàn",
+       "gl": "secretly; to oneself",
        "pos": "adv."
       },
       {
        "h": "下定决心",
        "py": "xiàdìngjuéxīn",
        "gl": "make up one's mind; resolve firmly",
-       "pos": "v."
+       "pos": "phrase"
       },
       {
-       "h": "，"
-      },
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "to work with her feet on the ground,",
+     "words": [
       {
        "h": "做事",
        "py": "zuòshì",
        "gl": "act; do things",
        "pos": "v."
-      },
-      {
-       "h": "一定",
-       "py": "yídìng",
-       "gl": "definitely; surely; must",
-       "pos": "adv."
       },
       {
        "h": "要",
@@ -177,7 +477,7 @@
      ]
     },
     {
-     "en": "starting with the simplest tasks.",
+     "en": "starting from the simplest tasks.",
      "words": [
       {
        "h": "从",
@@ -200,7 +500,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -210,10 +510,16 @@
        "pos": "n."
       },
       {
-       "h": "做起",
-       "py": "zuòqǐ",
-       "gl": "start doing; take up",
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
        "pos": "v."
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "(从…起) starting from",
+       "pos": "postposition"
       },
       {
        "h": "。"
@@ -223,22 +529,28 @@
    ]
   },
   {
-   "en": "Her supervisor asked her to organize client files, and she did it meticulously, not letting even one small mistake slip by.",
+   "en": "She spent three days sorting that stack of files, meticulously, not letting even an extra space in a phone number slip past.",
    "phrases": [
     {
-     "en": "Her supervisor asked her to organize client files,",
+     "en": "She spent three days sorting that stack of files,",
      "words": [
       {
-       "h": "主管",
-       "py": "zhǔguǎn",
-       "gl": "supervisor; manager",
-       "pos": "n."
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
       },
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
+       "h": "沓",
+       "py": "dá",
+       "gl": "stack; wad (measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "资料",
+       "py": "zīliào",
+       "gl": "information; materials; data",
+       "pos": "n."
       },
       {
        "h": "她",
@@ -253,15 +565,21 @@
        "pos": "v."
       },
       {
-       "h": "客户",
-       "py": "kèhù",
-       "gl": "client; customer",
-       "pos": "n."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "资料",
-       "py": "zīliào",
-       "gl": "information; materials; data",
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
        "pos": "n."
       },
       {
@@ -270,31 +588,13 @@
      ]
     },
     {
-     "en": "and she did it meticulously,",
+     "en": "meticulously,",
      "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its degree or result (发展得很快 develop fast)",
-       "pos": "function word"
-      },
       {
        "h": "一丝不苟",
        "py": "yīsībùgǒu",
        "gl": "meticulous; scrupulous (idiom; lit. not careless in a single thread)",
-       "pos": "phrase"
+       "pos": "adj."
       },
       {
        "h": "，"
@@ -302,36 +602,54 @@
      ]
     },
     {
-     "en": "not letting even one small mistake slip by.",
+     "en": "not letting even an extra space in a phone number slip past.",
      "words": [
       {
        "h": "连",
        "py": "lián",
        "gl": "even (连…都… even)",
-       "pos": "conj."
+       "pos": "prep."
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
+       "h": "电话号码",
+       "py": "diànhuàhàomǎ",
+       "gl": "phone number",
+       "pos": "n."
       },
       {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
        "pos": "adj."
       },
       {
-       "h": "错误",
-       "py": "cuòwù",
-       "gl": "mistake; error",
+       "h": "出来",
+       "py": "chūlái",
+       "gl": "directional complement: out; into being; come out",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "空格",
+       "py": "kònggé",
+       "gl": "space (character)",
        "pos": "n."
       },
       {
@@ -341,9 +659,9 @@
        "pos": "adv."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
        "pos": "adv."
       },
       {
@@ -360,40 +678,194 @@
    ]
   },
   {
-   "en": "The company was preparing an important project; everyone was giving it their all and often worked overtime late into the night.",
+   "en": "On the fourth day the supervisor leafed through her work, looked up at her, and said: \"Come to the project meeting tomorrow.\"",
    "phrases": [
     {
-     "en": "The company was preparing an important project;",
+     "en": "On the fourth day",
      "words": [
       {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company",
-       "pos": "n."
-      },
-      {
-       "h": "准备",
-       "py": "zhǔnbèi",
-       "gl": "prepare; get ready; preparation",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "第四",
+       "py": "dìsì",
+       "gl": "fourth",
        "pos": "num."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the supervisor leafed through her work,",
+     "words": [
+      {
+       "h": "主管",
+       "py": "zhǔguǎn",
+       "gl": "supervisor; manager",
+       "pos": "n."
+      },
+      {
+       "h": "翻",
+       "py": "fān",
+       "gl": "rummage through; turn over; flip through",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "翻",
+       "py": "fān",
+       "gl": "rummage through; turn over; flip through",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "looked up at her,",
+     "words": [
+      {
+       "h": "抬起",
+       "py": "táiqǐ",
+       "gl": "raise; lift",
+       "pos": "v."
+      },
+      {
+       "h": "头",
+       "py": "tóu",
+       "gl": "head",
+       "pos": "n."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "一眼",
+       "py": "yīyǎn",
+       "gl": "one glance; at a glance",
        "pos": "measure word"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and said: \"Come to the project meeting tomorrow.\"",
+     "words": [
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "明天",
+       "py": "míngtiān",
+       "gl": "tomorrow",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; turn on; drive; start (a business); prescribe; hold (a meeting)",
+       "pos": "v."
+      },
+      {
+       "h": "项目",
+       "py": "xiàngmù",
+       "gl": "project; item",
+       "pos": "n."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It was an important project; everyone gave it their all, and the office lights often stayed on late into the night.",
+   "phrases": [
+    {
+     "en": "It was an important project;",
+     "words": [
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
       },
       {
        "h": "重要",
        "py": "zhòngyào",
        "gl": "important",
        "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "项目",
@@ -407,19 +879,13 @@
      ]
     },
     {
-     "en": "everyone was giving it their all",
+     "en": "everyone gave it their all,",
      "words": [
       {
-       "h": "所有",
-       "py": "suǒyǒu",
-       "gl": "all; every",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
+       "h": "所有人",
+       "py": "suǒyǒurén",
+       "gl": "everyone",
+       "pos": "pron."
       },
       {
        "h": "都",
@@ -439,18 +905,36 @@
      ]
     },
     {
-     "en": "and often worked overtime late into the night.",
+     "en": "and the office lights often stayed on late into the night.",
      "words": [
       {
-       "h": "经常",
-       "py": "jīngcháng",
+       "h": "办公室",
+       "py": "bàngōngshì",
+       "gl": "office",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "灯",
+       "py": "dēng",
+       "gl": "light; lamp",
+       "pos": "n."
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
        "gl": "often",
        "pos": "adv."
       },
       {
-       "h": "加班",
-       "py": "jiābān",
-       "gl": "work overtime",
+       "h": "亮",
+       "py": "liàng",
+       "gl": "be on (of a light); shine",
        "pos": "v."
       },
       {
@@ -473,10 +957,10 @@
    ]
   },
   {
-   "en": "Lin Han was in charge of designing the posters, and to get the best result she revised them again and again, always striving for perfection; she would try even a single color many times.",
+   "en": "Lin Han was in charge of designing the poster, and for a single background color she tried more than twenty shades of blue, so her coworkers teased her about her \"terminal perfectionism.\"",
    "phrases": [
     {
-     "en": "Lin Han was in charge of designing the posters,",
+     "en": "Lin Han was in charge of designing the poster,",
      "words": [
       {
        "h": "林涵",
@@ -508,7 +992,7 @@
      ]
     },
     {
-     "en": "and to get the best result she revised them again and again, always striving for perfection;",
+     "en": "and for a single background color",
      "words": [
       {
        "h": "为了",
@@ -517,96 +1001,16 @@
        "pos": "prep."
       },
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "效果",
-       "py": "xiàoguǒ",
-       "gl": "effect; result",
-       "pos": "n."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "反复",
-       "py": "fǎnfù",
-       "gl": "repeatedly; again and again",
-       "pos": "adv."
-      },
-      {
-       "h": "修改",
-       "py": "xiūgǎi",
-       "gl": "revise; edit; correct; revision; correction",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "力求",
-       "py": "lìqiú",
-       "gl": "strive for; make every effort to",
-       "pos": "v."
-      },
-      {
-       "h": "精益求精",
-       "py": "jīngyìqiújīng",
-       "gl": "strive for perfection (idiom)",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she would try even a single color many times.",
-     "words": [
-      {
-       "h": "哪怕",
-       "py": "nǎpà",
-       "gl": "even if",
-       "pos": "conj."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
+       "h": "背景",
+       "py": "bèijǐng",
+       "gl": "background; context",
+       "pos": "n."
       },
       {
        "h": "颜色",
@@ -615,85 +1019,12 @@
        "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too; (with negation) even",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "试",
-       "py": "shì",
-       "gl": "try",
-       "pos": "v."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Just as the project was about to wrap up, she fell ill and had to take two days off.",
-   "phrases": [
-    {
-     "en": "Just as the project was about to wrap up,",
-     "words": [
-      {
-       "h": "项目",
-       "py": "xiàngmù",
-       "gl": "project; item",
-       "pos": "n."
-      },
-      {
-       "h": "快要",
-       "py": "kuàiyào",
-       "gl": "about to; soon",
-       "pos": "adv."
-      },
-      {
-       "h": "结束",
-       "py": "jiéshù",
-       "gl": "finish; end",
-       "pos": "v."
-      },
-      {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; time",
-       "pos": "n."
-      },
-      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "she fell ill",
+     "en": "she tried more than twenty shades of blue,",
      "words": [
       {
        "h": "她",
@@ -702,15 +1033,9 @@
        "pos": "pron."
       },
       {
-       "h": "却",
-       "py": "què",
-       "gl": "but; yet; however (contrast)",
-       "pos": "adv."
-      },
-      {
-       "h": "生病",
-       "py": "shēngbìng",
-       "gl": "get sick; fall ill",
+       "h": "试",
+       "py": "shì",
+       "gl": "try",
        "pos": "v."
       },
       {
@@ -720,28 +1045,245 @@
        "pos": "particle"
       },
       {
+       "h": "二十多",
+       "py": "èrshíduō",
+       "gl": "twenty-some; over twenty",
+       "pos": "num."
+      },
+      {
+       "h": "种",
+       "py": "zhǒng",
+       "gl": "kind; type (measure word); plant; grow",
+       "pos": "measure word"
+      },
+      {
+       "h": "蓝",
+       "py": "lán",
+       "gl": "blue",
+       "pos": "adj."
+      },
+      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "and had to take two days off to rest.",
+     "en": "so her coworkers teased her about her \"terminal perfectionism.\"",
      "words": [
       {
-       "h": "只好",
-       "py": "zhǐhǎo",
-       "gl": "have no choice but to",
-       "pos": "adv."
+       "h": "同事",
+       "py": "tóngshì",
+       "gl": "colleague; coworker",
+       "pos": "n."
       },
       {
-       "h": "请假",
-       "py": "qǐngjià",
-       "gl": "ask for leave; take time off",
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
        "pos": "v."
       },
       {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "精益求精",
+       "py": "jīng yì qiú jīng",
+       "gl": "strive for perfection (idiom)",
+       "pos": "phrase"
+      },
+      {
+       "h": "病",
+       "py": "bìng",
+       "gl": "illness; be ill (病死 die of illness)",
+       "pos": "n."
+      },
+      {
+       "h": "晚期",
+       "py": "wǎnqī",
+       "gl": "late stage; late period",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Toward the end of the project, running a fever, she was still eagerly posting revised drafts in the group chat, until the supervisor ordered her to stay home and rest for two days.",
+   "phrases": [
+    {
+     "en": "Toward the end of the project,",
+     "words": [
+      {
+       "h": "项目",
+       "py": "xiàngmù",
+       "gl": "project; item",
+       "pos": "n."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
+      },
+      {
+       "h": "结束",
+       "py": "jiéshù",
+       "gl": "finish; end",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "running a fever,",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "发着",
+       "py": "fāzhe",
+       "gl": "have (a fever) (发烧)",
+       "pos": "v."
+      },
+      {
+       "h": "烧",
+       "py": "shāo",
+       "gl": "fever (发高烧 run a high fever)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she was still eagerly posting revised drafts in the group chat,",
+     "words": [
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "兴致勃勃",
+       "py": "xìngzhìbóbó",
+       "gl": "full of enthusiasm (idiom)",
+       "pos": "phrase"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "群",
+       "py": "qún",
+       "gl": "group chat; group",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "修改稿",
+       "py": "xiūgǎigǎo",
+       "gl": "revised draft",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "until the supervisor ordered her to stay home and rest for two days.",
+     "words": [
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "主管",
+       "py": "zhǔguǎn",
+       "gl": "supervisor; manager",
+       "pos": "n."
+      },
+      {
+       "h": "命令",
+       "py": "mìnglìng",
+       "gl": "order; command",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
        "h": "休息",
-       "py": "xiūxi",
+       "py": "xiūxī",
        "gl": "rest",
        "pos": "v."
       },
@@ -754,177 +1296,7 @@
       {
        "h": "天",
        "py": "tiān",
-       "gl": "day; sky",
-       "pos": "measure word"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Her coworkers all said she was pushing herself too hard, but inside she was full of enthusiasm and didn't feel worn out at all; if anything, she felt she had learned a lot.",
-   "phrases": [
-    {
-     "en": "Her coworkers all said she was pushing herself too hard,",
-     "words": [
-      {
-       "h": "同事们",
-       "py": "tóngshìmen",
-       "gl": "colleagues",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "拼",
-       "py": "pīn",
-       "gl": "go all out; work hard; hardworking; driven",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but inside she was full of enthusiasm and didn't feel worn out at all;",
-     "words": [
-      {
-       "h": "可",
-       "py": "kě",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "心里",
-       "py": "xīnli",
-       "gl": "in one's heart; inside",
-       "pos": "n."
-      },
-      {
-       "h": "兴致勃勃",
-       "py": "xìngzhìbóbó",
-       "gl": "full of enthusiasm (idiom)",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; (not) at all (一点都不… not at all)",
-       "pos": "num."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too; (with negation) even",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "辛苦",
-       "py": "xīnkǔ",
-       "gl": "hard; tiring; laborious",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "if anything, she felt she had learned a lot.",
-     "words": [
-      {
-       "h": "反而",
-       "py": "fǎnér",
-       "gl": "on the contrary; instead",
-       "pos": "adv."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "学到",
-       "py": "xuédào",
-       "gl": "learn",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; stuff",
+       "gl": "day",
        "pos": "n."
       },
       {
@@ -935,21 +1307,21 @@
    ]
   },
   {
-   "en": "In the end the project went smoothly and the client was very pleased; the supervisor said with a smile that the collaboration had been smooth sailing, all thanks to everyone's hard work.",
+   "en": "In the end the proposal was approved without a hitch, and the client said at the meeting that the collaboration had been smooth sailing.",
    "phrases": [
     {
-     "en": "In the end the project was completed successfully,",
+     "en": "In the end the proposal was approved without a hitch,",
      "words": [
       {
-       "h": "项目",
-       "py": "xiàngmù",
-       "gl": "project; item",
+       "h": "方案",
+       "py": "fāngàn",
+       "gl": "plan; proposal",
        "pos": "n."
       },
       {
        "h": "最后",
        "py": "zuìhòu",
-       "gl": "in the end; finally; last",
+       "gl": "in the end; finally",
        "pos": "adv."
       },
       {
@@ -959,10 +1331,10 @@
        "pos": "adv."
       },
       {
-       "h": "完成",
-       "py": "wánchéng",
-       "gl": "finish; complete",
-       "pos": "v."
+       "h": "通过",
+       "py": "tōngguò",
+       "gl": "through; by means of; via",
+       "pos": "prep."
       },
       {
        "h": "，"
@@ -970,7 +1342,7 @@
      ]
     },
     {
-     "en": "and the client was very pleased;",
+     "en": "and the client said at the meeting",
      "words": [
       {
        "h": "客户",
@@ -979,42 +1351,22 @@
        "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
-       "h": "非常",
-       "py": "fēicháng",
-       "gl": "very; extremely",
-       "pos": "adv."
-      },
-      {
-       "h": "满意",
-       "py": "mǎnyì",
-       "gl": "satisfied; pleased",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the supervisor said with a smile that the collaboration had been smooth sailing, all thanks to everyone's hard work.",
-     "words": [
-      {
-       "h": "主管",
-       "py": "zhǔguǎn",
-       "gl": "supervisor; manager",
-       "pos": "n."
-      },
-      {
-       "h": "笑着",
-       "py": "xiàozhe",
-       "gl": "smiling; with a smile",
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
        "pos": "v."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
        "h": "说",
@@ -1024,7 +1376,12 @@
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "that the collaboration had been smooth sailing.",
+     "words": [
       {
        "h": "这次",
        "py": "zhècì",
@@ -1044,39 +1401,6 @@
        "pos": "phrase"
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "多亏",
-       "py": "duōkuī",
-       "gl": "thanks to",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "努力",
-       "py": "nǔlì",
-       "gl": "work hard; try hard; effort",
-       "pos": "n."
-      },
-      {
        "h": "。"
       }
      ]
@@ -1084,11 +1408,17 @@
    ]
   },
   {
-   "en": "Lin Han thought to herself, as long as you're willing to work hard, opportunities will always come.",
+   "en": "Only Lin Han knew that behind that poster were forty-seven discarded drafts.",
    "phrases": [
     {
-     "en": "Lin Han thought to herself,",
+     "en": "Only Lin Han knew",
      "words": [
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
+      },
       {
        "h": "林涵",
        "py": "Lín Hán",
@@ -1096,9 +1426,9 @@
        "pos": "proper noun"
       },
       {
-       "h": "心想",
-       "py": "xīnxiǎng",
-       "gl": "think to oneself",
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
        "pos": "v."
       },
       {
@@ -1107,58 +1437,75 @@
      ]
     },
     {
-     "en": "as long as you're willing to work hard, opportunities will always come.",
+     "en": "that behind that poster",
      "words": [
       {
-       "h": "只要",
-       "py": "zhǐyào",
-       "gl": "as long as; if only",
-       "pos": "conj."
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
       },
       {
-       "h": "肯",
-       "py": "kěn",
-       "gl": "be willing to; agree to",
-       "pos": "v."
+       "h": "张",
+       "py": "zhāng",
+       "gl": "measure word for flat objects (paper, photos, tables)",
+       "pos": "measure word"
       },
       {
-       "h": "努力",
-       "py": "nǔlì",
-       "gl": "work hard; try hard; effort",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "机会",
-       "py": "jīhuì",
-       "gl": "opportunity; chance",
+       "h": "海报",
+       "py": "hǎibào",
+       "gl": "poster",
        "pos": "n."
       },
       {
-       "h": "总",
-       "py": "zǒng",
-       "gl": "always; in any case (晚做总比不做好 'better late than never'); chief; total",
-       "pos": "adv."
+       "h": "背后",
+       "py": "bèihòu",
+       "gl": "behind (it); underlying",
+       "pos": "n."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "were forty-seven discarded drafts.",
+     "words": [
       {
-       "h": "来",
-       "py": "lái",
-       "gl": "come",
+       "h": "删掉",
+       "py": "shāndiào",
+       "gl": "delete",
        "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "particle: emphasis / assertion (是…的 construction)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
+      },
+      {
+       "h": "稿子",
+       "py": "gǎozi",
+       "gl": "draft; manuscript",
+       "pos": "n."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "四十七",
+       "py": "sìshíqī",
+       "gl": "forty-seven",
+       "pos": "num."
+      },
+      {
+       "h": "张",
+       "py": "zhāng",
+       "gl": "measure word for flat objects (paper, photos, tables)",
+       "pos": "measure word"
       },
       {
        "h": "。"
@@ -1168,15 +1515,15 @@
    ]
   },
   {
-   "en": "Shortly after the project ended, the company officially decided to keep Lin Han on, making her a full-time employee.",
+   "en": "When her internship ended, the company kept her on.",
    "phrases": [
     {
-     "en": "Shortly after the project ended,",
+     "en": "When her internship ended, the company kept her on.",
      "words": [
       {
-       "h": "项目",
-       "py": "xiàngmù",
-       "gl": "project; item",
+       "h": "实习",
+       "py": "shíxí",
+       "gl": "intern; do an internship",
        "pos": "n."
       },
       {
@@ -1186,25 +1533,8 @@
        "pos": "v."
       },
       {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "不久",
-       "py": "bùjiǔ",
-       "gl": "soon; before long; not long after",
-       "pos": "adv."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the company officially decided to keep Lin Han on,",
-     "words": [
+      },
       {
        "h": "公司",
        "py": "gōngsī",
@@ -1212,78 +1542,22 @@
        "pos": "n."
       },
       {
-       "h": "正式",
-       "py": "zhèngshì",
-       "gl": "officially",
-       "pos": "adv."
-      },
-      {
-       "h": "决定",
-       "py": "juédìng",
-       "gl": "decide; decision",
+       "h": "留下",
+       "py": "liúxià",
+       "gl": "keep; leave (behind)",
        "pos": "v."
       },
       {
-       "h": "留用",
-       "py": "liúyòng",
-       "gl": "keep on (staff); retain",
-       "pos": "v."
-      },
-      {
-       "h": "林涵",
-       "py": "línhán",
-       "gl": "Lin Han (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "turning her from an intern into a full-time employee.",
-     "words": [
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "她",
        "py": "tā",
        "gl": "she; her",
        "pos": "pron."
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "实习生",
-       "py": "shíxíshēng",
-       "gl": "intern",
-       "pos": "n."
-      },
-      {
-       "h": "转为",
-       "py": "zhuǎnwéi",
-       "gl": "turn into; switch to",
-       "pos": "v."
-      },
-      {
-       "h": "正式",
-       "py": "zhèngshì",
-       "gl": "officially; formal; official; final; actual",
-       "pos": "adj."
-      },
-      {
-       "h": "员工",
-       "py": "yuángōng",
-       "gl": "employee; staff",
-       "pos": "n."
       },
       {
        "h": "。"
@@ -1293,90 +1567,28 @@
    ]
   },
   {
-   "en": "Once she was on staff, she was put in charge of a bigger project: designing a complete ad campaign for a well-known brand.",
+   "en": "On her first project of her own, she got a client famous for being picky: the proposal was revised eight times, and he still shook his head.",
    "phrases": [
     {
-     "en": "Once she was on staff,",
+     "en": "On her first project of her own,",
      "words": [
       {
-       "h": "成为",
-       "py": "chéngwéi",
-       "gl": "become",
-       "pos": "v."
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
       },
       {
-       "h": "正式",
-       "py": "zhèngshì",
-       "gl": "officially; formal; official; final; actual",
-       "pos": "adj."
-      },
-      {
-       "h": "员工",
-       "py": "yuángōng",
-       "gl": "employee; staff",
-       "pos": "n."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she was put in charge of a bigger project:",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
-      },
-      {
-       "h": "安排",
-       "py": "ānpái",
-       "gl": "arrange; plan; organize",
-       "pos": "v."
-      },
-      {
-       "h": "负责",
-       "py": "fùzé",
-       "gl": "be responsible for; be in charge of",
-       "pos": "v."
-      },
-      {
-       "h": "一个",
-       "py": "yígè",
-       "gl": "one (with measure word: one item)",
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
        "pos": "measure word"
       },
       {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
+       "h": "独立",
+       "py": "dúlì",
+       "gl": "independent; independence",
        "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
       },
       {
        "h": "项目",
@@ -1390,92 +1602,49 @@
      ]
     },
     {
-     "en": "designing a complete ad campaign for a well-known brand.",
+     "en": "she got a client famous for being picky:",
      "words": [
       {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
-      {
-       "h": "一个",
-       "py": "yígè",
-       "gl": "one (with measure word: one item)",
-       "pos": "measure word"
-      },
-      {
-       "h": "知名",
-       "py": "zhīmíng",
-       "gl": "well-known; famous",
-       "pos": "adj."
-      },
-      {
-       "h": "品牌",
-       "py": "pǐnpái",
-       "gl": "brand",
-       "pos": "n."
-      },
-      {
-       "h": "设计",
-       "py": "shèjì",
-       "gl": "design",
-       "pos": "v."
-      },
-      {
-       "h": "整套",
-       "py": "zhěngtào",
-       "gl": "whole set; complete system",
-       "pos": "adj."
-      },
-      {
-       "h": "广告",
-       "py": "guǎnggào",
-       "gl": "advertisement; ad",
-       "pos": "n."
-      },
-      {
-       "h": "方案",
-       "py": "fāngàn",
-       "gl": "plan; proposal",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "This client was notoriously picky; the proposal was revised seven or eight times and they still weren't satisfied.",
-   "phrases": [
-    {
-     "en": "This client was notoriously picky;",
-     "words": [
-      {
-       "h": "这个",
-       "py": "zhège",
-       "gl": "this; this one",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
-       "h": "客户",
-       "py": "kèhù",
-       "gl": "client; customer",
-       "pos": "n."
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
       },
       {
-       "h": "出了名",
-       "py": "chūlemíng",
-       "gl": "become famous; be well known",
+       "h": "碰上",
+       "py": "pèngshàng",
+       "gl": "run into; bump into",
        "pos": "v."
       },
       {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (认真地 'carefully')",
-       "pos": "function word"
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "出",
+       "py": "chū",
+       "gl": "become famous (出名)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "名",
+       "py": "míng",
+       "gl": "fame; reputation",
+       "pos": "n."
       },
       {
        "h": "挑剔",
@@ -1484,12 +1653,24 @@
        "pos": "adj."
       },
       {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "客户",
+       "py": "kèhù",
+       "gl": "client; customer",
+       "pos": "n."
+      },
+      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "the proposal was revised seven or eight times,",
+     "en": "the proposal was revised eight times,",
      "words": [
       {
        "h": "方案",
@@ -1506,14 +1687,20 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "七八次",
-       "py": "qībācì",
-       "gl": "seven or eight times",
+       "h": "八",
+       "py": "bā",
+       "gl": "eight",
        "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
       },
       {
        "h": "，"
@@ -1521,25 +1708,25 @@
      ]
     },
     {
-     "en": "and they still weren't satisfied.",
+     "en": "and he still shook his head.",
      "words": [
       {
-       "h": "仍然",
-       "py": "réngrán",
-       "gl": "still; yet",
+       "h": "对方",
+       "py": "duìfāng",
+       "gl": "the other party; the other person",
+       "pos": "n."
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
        "pos": "adv."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "满意",
-       "py": "mǎnyì",
-       "gl": "satisfied; pleased",
-       "pos": "adj."
+       "h": "摇头",
+       "py": "yáotóu",
+       "gl": "shake one's head",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -1549,34 +1736,58 @@
    ]
   },
   {
-   "en": "Lin Han didn't complain; instead she patiently wrote down the client's comments one by one, taking even the tiniest color-adjustment request seriously.",
+   "en": "On the evening it came back for the eighth time, she sat in the stairwell for a long time and very nearly gave up.",
    "phrases": [
     {
-     "en": "Lin Han didn't complain;",
+     "en": "On the evening it came back for the eighth time,",
      "words": [
       {
-       "h": "林涵",
-       "py": "línhán",
-       "gl": "Lin Han (name)",
-       "pos": "proper noun"
+       "h": "第八",
+       "py": "dìbā",
+       "gl": "eighth",
+       "pos": "num."
       },
       {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) not at all; actually",
-       "pos": "adv."
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
       },
       {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no; not; did not (negates past actions)",
-       "pos": "adv."
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
       },
       {
-       "h": "抱怨",
-       "py": "bàoyuàn",
-       "gl": "complain; grumble",
+       "h": "退",
+       "py": "tuì",
+       "gl": "return (of goods); refund",
        "pos": "v."
+      },
+      {
+       "h": "回来",
+       "py": "huílái",
+       "gl": "come back; return",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -1584,37 +1795,112 @@
      ]
     },
     {
-     "en": "instead she patiently wrote down the client's comments one by one,",
+     "en": "she sat in the stairwell for a long time",
      "words": [
       {
-       "h": "而是",
-       "py": "érshì",
-       "gl": "but rather (不是…而是… not … but …)",
-       "pos": "conj."
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
-       "h": "耐心",
-       "py": "nàixīn",
-       "gl": "patient; patience",
-       "pos": "adv."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (认真地 'carefully')",
-       "pos": "function word"
+       "h": "楼梯间",
+       "py": "lóutījiān",
+       "gl": "stairwell",
+       "pos": "n."
       },
       {
-       "h": "一条条",
-       "py": "yītiáotiáo",
-       "gl": "one by one; item by item",
-       "pos": "adv."
-      },
-      {
-       "h": "记录",
-       "py": "jìlù",
-       "gl": "record; write down",
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
        "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "久",
+       "py": "jiǔ",
+       "gl": "long (time); for a long time",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and very nearly gave up.",
+     "words": [
+      {
+       "h": "差一点",
+       "py": "chàyìdiǎn",
+       "gl": "almost; nearly",
+       "pos": "adv."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "放弃",
+       "py": "fàngqì",
+       "gl": "give up",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After that she copied every one of the client's comments into a notebook, even writing down remarks like \"this red looks too much like New Year\" in all seriousness.",
+   "phrases": [
+    {
+     "en": "After that she copied every one of the client's comments into a notebook,",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
       },
       {
        "h": "客户",
@@ -1623,9 +1909,27 @@
        "pos": "n."
       },
       {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -1635,12 +1939,42 @@
        "pos": "n."
       },
       {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "抄",
+       "py": "chāo",
+       "gl": "copy (by hand)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "本子",
+       "py": "běnzi",
+       "gl": "notebook",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "taking even the tiniest color-adjustment request seriously.",
+     "en": "even writing down remarks like \"this red looks too much like New Year\" in all seriousness.",
      "words": [
       {
        "h": "连",
@@ -1649,52 +1983,88 @@
        "pos": "prep."
       },
       {
-       "h": "一个",
-       "py": "yígè",
-       "gl": "one (with measure word: one item)",
-       "pos": "measure word"
+       "h": "“"
       },
       {
-       "h": "细小",
-       "py": "xìxiǎo",
-       "gl": "fine; tiny",
-       "pos": "adj."
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "红色",
+       "py": "hóngsè",
+       "gl": "red",
+       "pos": "n."
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "过年",
+       "py": "guònián",
+       "gl": "celebrate New Year",
+       "pos": "v."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "调色",
-       "py": "tiáosè",
-       "gl": "color matching; color adjustment",
-       "pos": "n."
-      },
-      {
-       "h": "要求",
-       "py": "yāoqiú",
-       "gl": "requirement; demand",
+       "h": "话",
+       "py": "huà",
+       "gl": "words; speech; what someone says",
        "pos": "n."
       },
       {
        "h": "都",
        "py": "dōu",
-       "gl": "even (连…都… even)",
+       "gl": "all; both; even; already",
        "pos": "adv."
       },
       {
-       "h": "认真",
-       "py": "rènzhēn",
-       "gl": "serious; conscientious; carefully",
+       "h": "认认真真",
+       "py": "rènrènzhēnzhēn",
+       "gl": "very carefully; conscientiously",
        "pos": "adv."
       },
       {
-       "h": "对待",
-       "py": "duìdài",
-       "gl": "treat; deal with",
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "记",
+       "py": "jì",
+       "gl": "remember; memorize; write down",
        "pos": "v."
+      },
+      {
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -1704,7 +2074,7 @@
    ]
   },
   {
-   "en": "Hard work pays off: the ninth revision finally won the client's approval, and they even wrote a thank-you letter.",
+   "en": "Hard work pays off: the ninth draft was finally approved, and the client even mailed a handwritten thank-you letter.",
    "phrases": [
     {
      "en": "Hard work pays off:",
@@ -1721,30 +2091,18 @@
      ]
     },
     {
-     "en": "the ninth revision finally won the client's approval,",
+     "en": "the ninth draft was finally approved,",
      "words": [
       {
-       "h": "第九次",
-       "py": "dìjiǔcì",
-       "gl": "ninth time",
+       "h": "第九",
+       "py": "dì jiǔ",
+       "gl": "ninth",
        "pos": "num."
       },
       {
-       "h": "修改",
-       "py": "xiūgǎi",
-       "gl": "revise; edit; correct; revision; correction",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "方案",
-       "py": "fāngàn",
-       "gl": "plan; proposal",
+       "h": "稿",
+       "py": "gǎo",
+       "gl": "draft; version",
        "pos": "n."
       },
       {
@@ -1754,34 +2112,16 @@
        "pos": "adv."
       },
       {
-       "h": "得到",
-       "py": "dédào",
-       "gl": "get; obtain; receive",
-       "pos": "v."
+       "h": "通过",
+       "py": "tōngguò",
+       "gl": "through; by means of; via",
+       "pos": "prep."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
-      },
-      {
-       "h": "客户",
-       "py": "kèhù",
-       "gl": "client; customer",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "认可",
-       "py": "rènkě",
-       "gl": "recognize; approve; recognition",
-       "pos": "n."
       },
       {
        "h": "，"
@@ -1789,12 +2129,12 @@
      ]
     },
     {
-     "en": "and they even wrote a thank-you letter.",
+     "en": "and the client even mailed a handwritten thank-you letter.",
      "words": [
       {
-       "h": "对方",
-       "py": "duìfāng",
-       "gl": "the other party; the other person",
+       "h": "客户",
+       "py": "kèhù",
+       "gl": "client; customer",
        "pos": "n."
       },
       {
@@ -1804,28 +2144,40 @@
        "pos": "adv."
       },
       {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
-       "pos": "adv."
-      },
-      {
-       "h": "写",
-       "py": "xiě",
-       "gl": "write",
+       "h": "寄来",
+       "py": "jìlái",
+       "gl": "send (here) by mail",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "一封",
-       "py": "yīfēng",
-       "gl": "measure word for letters: one (letter, email)",
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "封",
+       "py": "fēng",
+       "gl": "measure word for letters",
        "pos": "measure word"
+      },
+      {
+       "h": "手写",
+       "py": "shǒuxiě",
+       "gl": "handwriting; handwritten",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "感谢信",
@@ -1841,171 +2193,10 @@
    ]
   },
   {
-   "en": "The experience taught Lin Han that with a picky client, the most important thing is not to get angry but to stay calm and find a way to solve the problem.",
+   "en": "Half a year later, a new intern joined the department, and the supervisor put him in Lin Han's charge.",
    "phrases": [
     {
-     "en": "The experience taught Lin Han",
-     "words": [
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
-       "pos": "n."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "林涵",
-       "py": "línhán",
-       "gl": "Lin Han (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "明白",
-       "py": "míngbái",
-       "gl": "understand; realize",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that with a picky client, the most important thing is not to get angry",
-     "words": [
-      {
-       "h": "面对",
-       "py": "miànduì",
-       "gl": "face; confront",
-       "pos": "v."
-      },
-      {
-       "h": "挑剔",
-       "py": "tiāotī",
-       "gl": "picky; fussy",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "客户",
-       "py": "kèhù",
-       "gl": "client; customer",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "不是",
-       "py": "búshì",
-       "gl": "not be; is not",
-       "pos": "v."
-      },
-      {
-       "h": "生气",
-       "py": "shēngqì",
-       "gl": "get angry; angry",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but to stay calm and find a way to solve the problem.",
-     "words": [
-      {
-       "h": "而是",
-       "py": "érshì",
-       "gl": "but rather (不是…而是… not … but …)",
-       "pos": "conj."
-      },
-      {
-       "h": "沉住气",
-       "py": "chénzhùqì",
-       "gl": "keep calm; stay composed",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "找到",
-       "py": "zhǎodào",
-       "gl": "find",
-       "pos": "v."
-      },
-      {
-       "h": "解决",
-       "py": "jiějué",
-       "gl": "solve; settle",
-       "pos": "v."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "办法",
-       "py": "bànfǎ",
-       "gl": "way; method; (没办法) there's nothing one can do",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Six months later the company hired a new intern, and the supervisor assigned him to Lin Han to mentor.",
-   "phrases": [
-    {
-     "en": "Six months later",
+     "en": "Half a year later,",
      "words": [
       {
        "h": "半年",
@@ -2016,7 +2207,7 @@
       {
        "h": "后",
        "py": "hòu",
-       "gl": "after",
+       "gl": "after; later; behind",
        "pos": "postposition"
       },
       {
@@ -2025,37 +2216,37 @@
      ]
     },
     {
-     "en": "the company hired a new intern,",
+     "en": "a new intern joined the department,",
      "words": [
       {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company",
+       "h": "部门",
+       "py": "bùmén",
+       "gl": "department; government agency",
        "pos": "n."
       },
       {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adv."
-      },
-      {
-       "h": "招",
-       "py": "zhāo",
-       "gl": "recruit; hire",
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "一名",
-       "py": "yīmíng",
-       "gl": "one (person; 名 is the measure word for people)",
-       "pos": "measure word"
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adj."
       },
       {
        "h": "实习生",
@@ -2069,7 +2260,7 @@
      ]
     },
     {
-     "en": "and the supervisor assigned him to Lin Han to mentor.",
+     "en": "and the supervisor put him in Lin Han's charge.",
      "words": [
       {
        "h": "主管",
@@ -2096,162 +2287,16 @@
        "pos": "v."
       },
       {
-       "h": "林涵",
-       "py": "línhán",
-       "gl": "Lin Han (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "带",
-       "py": "dài",
-       "gl": "lead; coach; mentor",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Lin Han passed on to him everything she had learned back then, stressing in particular that you have to keep your feet on the ground and not aim high while lacking the skills to deliver.",
-   "phrases": [
-    {
-     "en": "Lin Han passed on to him, one by one, the lessons she had learned back then,",
-     "words": [
-      {
-       "h": "林涵",
-       "py": "línhán",
-       "gl": "Lin Han (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "当年",
-       "py": "dāngnián",
-       "gl": "back then; in those years",
-       "pos": "n."
-      },
-      {
-       "h": "学到",
-       "py": "xuédào",
-       "gl": "learn",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "经验",
-       "py": "jīngyàn",
-       "gl": "experience (practical); work experience",
-       "pos": "n."
-      },
-      {
-       "h": "一一",
-       "py": "yīyī",
-       "gl": "one by one; one after another",
-       "pos": "adv."
-      },
-      {
-       "h": "传授",
-       "py": "chuánshòu",
-       "gl": "pass on (knowledge, skills); teach",
-       "pos": "v."
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "to; for (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "stressing in particular that you have to keep your feet on the ground",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly",
-       "pos": "adv."
-      },
-      {
-       "h": "强调",
-       "py": "qiángdiào",
-       "gl": "emphasize; stress",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "做事",
-       "py": "zuòshì",
-       "gl": "act; do things",
-       "pos": "v."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "脚踏实地",
-       "py": "jiǎotàshídì",
-       "gl": "down-to-earth; steady and practical (idiom; lit. feet on solid ground)",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and not aim high while lacking the skills to deliver.",
-     "words": [
-      {
-       "h": "不能",
-       "py": "bùnéng",
-       "gl": "cannot; must not",
-       "pos": "v."
-      },
-      {
-       "h": "眼高手低",
-       "py": "yǎngāoshǒudī",
-       "gl": "have high standards but poor ability (idiom)",
-       "pos": "adj."
+       "h": "林涵",
+       "py": "Lín Hán",
+       "gl": "Lin Han (name)",
+       "pos": "proper noun"
       },
       {
        "h": "。"
@@ -2261,27 +2306,36 @@
    ]
   },
   {
-   "en": "At first the new intern struggled to adjust and filled in even the simplest forms wrong several times, but Lin Han never found it a bother and patiently explained things again and again.",
+   "en": "The young man was smart and confident, and on his first day he said he wanted to work on big projects, not sort files.",
    "phrases": [
     {
-     "en": "At first the new intern struggled to adjust",
+     "en": "The young man was smart and confident,",
      "words": [
       {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "实习生",
-       "py": "shíxíshēng",
-       "gl": "intern",
+       "h": "小伙子",
+       "py": "xiǎohuǒzi",
+       "gl": "young man; guy",
        "pos": "n."
       },
       {
-       "h": "起初",
-       "py": "qǐchū",
-       "gl": "at first; originally",
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "聪明",
+       "py": "cōngmíng",
+       "gl": "smart; clever",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
        "pos": "adv."
       },
       {
@@ -2291,16 +2345,10 @@
        "pos": "adv."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "适应",
-       "py": "shìyìng",
-       "gl": "adapt; get used to",
-       "pos": "v."
+       "h": "自信",
+       "py": "zìxìn",
+       "gl": "self-confidence",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -2308,8 +2356,122 @@
      ]
     },
     {
-     "en": "and filled in even the simplest forms wrong several times,",
+     "en": "and on his first day he said he wanted to work on big projects,",
      "words": [
+      {
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make; be; work as",
+       "pos": "v."
+      },
+      {
+       "h": "大",
+       "py": "dà",
+       "gl": "big; large",
+       "pos": "adj."
+      },
+      {
+       "h": "项目",
+       "py": "xiàngmù",
+       "gl": "project; item",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "not sort files.",
+     "words": [
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "整理",
+       "py": "zhěnglǐ",
+       "gl": "tidy up; put in order",
+       "pos": "v."
+      },
+      {
+       "h": "资料",
+       "py": "zīliào",
+       "gl": "information; materials; data",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "As a result, he got even the simplest form wrong three times.",
+   "phrases": [
+    {
+     "en": "As a result, he got even the simplest form wrong three times.",
+     "words": [
+      {
+       "h": "结果",
+       "py": "jiéguǒ",
+       "gl": "as a result; in the end; result",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
       {
        "h": "连",
        "py": "lián",
@@ -2331,7 +2493,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -2343,79 +2505,38 @@
       {
        "h": "都",
        "py": "dōu",
-       "gl": "even (连…都… even)",
+       "gl": "all; both; even; already",
        "pos": "adv."
       },
       {
-       "h": "填错",
-       "py": "tiáncuò",
-       "gl": "fill in wrongly",
+       "h": "填",
+       "py": "tián",
+       "gl": "fill in (a form)",
        "pos": "v."
       },
       {
-       "h": "好几次",
-       "py": "hǎojǐcì",
-       "gl": "quite a few times",
+       "h": "错",
+       "py": "cuò",
+       "gl": "wrong; mistaken (坐错 take the wrong one)",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
        "pos": "num."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but Lin Han never found it a bother and patiently explained things again and again.",
-     "words": [
-      {
-       "h": "林涵",
-       "py": "línhán",
-       "gl": "Lin Han (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "却",
-       "py": "què",
-       "gl": "but; yet",
-       "pos": "adv."
-      },
-      {
-       "h": "从不",
-       "py": "cóngbù",
-       "gl": "never",
-       "pos": "adv."
-      },
-      {
-       "h": "嫌",
-       "py": "xián",
-       "gl": "dislike; be dissatisfied with",
-       "pos": "v."
-      },
-      {
-       "h": "麻烦",
-       "py": "máfán",
-       "gl": "trouble; hassle; troublesome; inconvenient",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一遍遍",
-       "py": "yībiànbiàn",
-       "gl": "over and over again",
-       "pos": "adv."
-      },
-      {
-       "h": "耐心",
-       "py": "nàixīn",
-       "gl": "patient; patience",
-       "pos": "adv."
-      },
-      {
-       "h": "讲解",
-       "py": "jiǎngjiě",
-       "gl": "explain",
-       "pos": "v."
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
       },
       {
        "h": "。"
@@ -2425,22 +2546,34 @@
    ]
   },
   {
-   "en": "Gradually the newcomer, too, got into the habit of being careful and thorough, and his efficiency clearly improved.",
+   "en": "Lin Han didn't criticize him; she simply handed him a stack of client files, saying: \"Get these sorted out first.\"",
    "phrases": [
     {
-     "en": "Gradually",
+     "en": "Lin Han didn't criticize him;",
      "words": [
       {
-       "h": "渐渐",
-       "py": "jiànjiàn",
-       "gl": "gradually",
-       "pos": "adv."
+       "h": "林涵",
+       "py": "Lín Hán",
+       "gl": "Lin Han (name)",
+       "pos": "proper noun"
       },
       {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (认真地 'carefully')",
-       "pos": "function word"
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "批评",
+       "py": "pīpíng",
+       "gl": "criticize; criticism",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
        "h": "，"
@@ -2448,55 +2581,139 @@
      ]
     },
     {
-     "en": "the newcomer, too, got into the habit of being careful and thorough,",
+     "en": "she simply handed him a stack of client files,",
      "words": [
       {
-       "h": "新人",
-       "py": "xīnrén",
-       "gl": "newcomer; new employee",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
        "pos": "adv."
       },
       {
-       "h": "养成",
-       "py": "yǎngchéng",
-       "gl": "form (a habit); develop",
+       "h": "递给",
+       "py": "dìgěi",
+       "gl": "hand to; pass to",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
+       "pos": "adv."
+      },
+      {
+       "h": "沓",
+       "py": "dá",
+       "gl": "stack; wad (measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "客户",
+       "py": "kèhù",
+       "gl": "client; customer",
+       "pos": "n."
+      },
+      {
+       "h": "资料",
+       "py": "zīliào",
+       "gl": "information; materials; data",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "saying: \"Get these sorted out first.\"",
+     "words": [
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "先",
+       "py": "xiān",
+       "gl": "first; before",
+       "pos": "adv."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "整理",
+       "py": "zhěnglǐ",
+       "gl": "compile; organize (into)",
+       "pos": "v."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The young man paused for a moment, as if he had caught something in her words.",
+   "phrases": [
+    {
+     "en": "The young man paused for a moment,",
+     "words": [
+      {
+       "h": "小伙子",
+       "py": "xiǎohuǒzi",
+       "gl": "young man; guy",
+       "pos": "n."
+      },
+      {
+       "h": "愣",
+       "py": "lèng",
+       "gl": "be stunned; freeze",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "认真",
-       "py": "rènzhēn",
-       "gl": "serious; conscientious; carefully",
-       "pos": "adj."
-      },
-      {
-       "h": "细致",
-       "py": "xìzhì",
-       "gl": "detailed; meticulous",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "一下",
+       "py": "yíxià",
+       "gl": "a bit; once (softens the verb: take a look)",
        "pos": "particle"
-      },
-      {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "habit",
-       "pos": "n."
       },
       {
        "h": "，"
@@ -2504,31 +2721,37 @@
      ]
     },
     {
-     "en": "and his efficiency clearly improved.",
+     "en": "as if he had caught something in her words.",
      "words": [
       {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "效率",
-       "py": "xiàolǜ",
-       "gl": "efficiency",
-       "pos": "n."
-      },
-      {
-       "h": "明显",
-       "py": "míngxiǎn",
-       "gl": "obvious; clear; clearly",
+       "h": "好像",
+       "py": "hǎoxiàng",
+       "gl": "seem; be like",
        "pos": "adv."
       },
       {
-       "h": "提高",
-       "py": "tígāo",
-       "gl": "raise; improve",
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
        "pos": "v."
+      },
+      {
+       "h": "出",
+       "py": "chū",
+       "gl": "out (resultative: catch, pick up)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
       },
       {
        "h": "。"
@@ -2538,11 +2761,73 @@
    ]
   },
   {
-   "en": "At the end of that year the company held its annual awards, and thanks to her solid professional skills Lin Han was named \"Best Mentor for New Hires.\"",
+   "en": "Lin Han smiled; she suddenly remembered that keyboard dripping with coffee a year earlier.",
    "phrases": [
     {
-     "en": "At the end of that year the company held its annual awards,",
+     "en": "Lin Han smiled;",
      "words": [
+      {
+       "h": "林涵",
+       "py": "Lín Hán",
+       "gl": "Lin Han (name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she suddenly remembered that keyboard dripping with coffee a year earlier.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "忽然",
+       "py": "hūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "想起",
+       "py": "xiǎngqǐ",
+       "gl": "remember; think of; remind (让我想起 'remind me of')",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
       {
        "h": "那",
        "py": "nà",
@@ -2550,11 +2835,48 @@
        "pos": "pron."
       },
       {
-       "h": "一年",
-       "py": "yīnián",
-       "gl": "one year; a year",
+       "h": "块",
+       "py": "kuài",
+       "gl": "measure word for keyboards, boards",
        "pos": "measure word"
       },
+      {
+       "h": "滴着",
+       "py": "dīzhe",
+       "gl": "dripping",
+       "pos": "v."
+      },
+      {
+       "h": "咖啡",
+       "py": "kāfēi",
+       "gl": "coffee",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "键盘",
+       "py": "jiànpán",
+       "gl": "keyboard",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At the end of the year, the company chose its \"best mentor for new hires\"; Lin Han went up to accept the award and said just one thing: \"When your ambitions run ahead of your skills, first lower your head and do the small task in your hands well.\"",
+   "phrases": [
+    {
+     "en": "At the end of the year,",
+     "words": [
       {
        "h": "年底",
        "py": "niándǐ",
@@ -2563,7 +2885,12 @@
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "the company chose its \"best mentor for new hires\";",
+     "words": [
       {
        "h": "公司",
        "py": "gōngsī",
@@ -2571,89 +2898,13 @@
        "pos": "n."
       },
       {
-       "h": "举办",
-       "py": "jǔbàn",
-       "gl": "hold (an event); host",
+       "h": "评",
+       "py": "píng",
+       "gl": "judge; evaluate",
        "pos": "v."
       },
       {
-       "h": "年度",
-       "py": "niándù",
-       "gl": "annual; of the year",
-       "pos": "adj."
-      },
-      {
-       "h": "评选",
-       "py": "píngxuǎn",
-       "gl": "selection; awards; ranking",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and thanks to her solid professional skills,",
-     "words": [
-      {
-       "h": "林涵",
-       "py": "línhán",
-       "gl": "Lin Han (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "凭着",
-       "py": "píngzhe",
-       "gl": "relying on; thanks to",
-       "pos": "prep."
-      },
-      {
-       "h": "扎实",
-       "py": "zhāshí",
-       "gl": "solid; well-grounded; steady",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "业务",
-       "py": "yèwù",
-       "gl": "professional (skills)",
-       "pos": "adj."
-      },
-      {
-       "h": "能力",
-       "py": "nénglì",
-       "gl": "ability",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Lin Han was named \"Best Mentor for New Hires.\"",
-     "words": [
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
-      },
-      {
-       "h": "评为",
-       "py": "píngwèi",
-       "gl": "be named as; be rated as",
-       "pos": "v."
-      },
-      {
-       "h": "「"
+       "h": "“"
       },
       {
        "h": "最佳",
@@ -2674,21 +2925,28 @@
        "pos": "n."
       },
       {
-       "h": "」"
+       "h": "”"
       },
       {
-       "h": "。"
+       "h": "，"
       }
      ]
-    }
-   ]
-  },
-  {
-   "en": "As she accepted the award, she remembered how flustered she had been when she first started, and couldn't help smiling.",
-   "phrases": [
+    },
     {
-     "en": "As she accepted the award,",
+     "en": "Lin Han went up to accept the award",
      "words": [
+      {
+       "h": "林涵",
+       "py": "Lín Hán",
+       "gl": "Lin Han (name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "上台",
+       "py": "shàngtái",
+       "gl": "go on stage",
+       "pos": "v."
+      },
       {
        "h": "领奖",
        "py": "lǐngjiǎng",
@@ -2696,148 +2954,13 @@
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "那一刻",
-       "py": "nàyīkè",
-       "gl": "that moment",
-       "pos": "n."
-      },
-      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "she remembered how flustered she had been when she first started,",
+     "en": "and said just one thing:",
      "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "想起",
-       "py": "xiǎngqǐ",
-       "gl": "remember; think of; remind (让我想起 'remind me of')",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "刚",
-       "py": "gāng",
-       "gl": "just (now); only just",
-       "pos": "adv."
-      },
-      {
-       "h": "入职",
-       "py": "rùzhí",
-       "gl": "join a company; start a job",
-       "pos": "v."
-      },
-      {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; time",
-       "pos": "n."
-      },
-      {
-       "h": "手忙脚乱",
-       "py": "shǒumángjiǎoluàn",
-       "gl": "flustered; in a frantic rush (idiom)",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "样子",
-       "py": "yàngzi",
-       "gl": "appearance; look; shape",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and couldn't help smiling.",
-     "words": [
-      {
-       "h": "忍不住",
-       "py": "rěnbúzhù",
-       "gl": "can't help (doing); cannot resist",
-       "pos": "v."
-      },
-      {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In her speech onstage she said that even the most trivial little task, if you do it conscientiously, can build up into real skill.",
-   "phrases": [
-    {
-     "en": "In her speech onstage she said",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "台上",
-       "py": "táishàng",
-       "gl": "on stage",
-       "pos": "n."
-      },
-      {
-       "h": "感言",
-       "py": "gǎnyán",
-       "gl": "speech (expressing one's feelings); acceptance speech",
-       "pos": "n."
-      },
       {
        "h": "说",
        "py": "shuō",
@@ -2845,35 +2968,106 @@
        "pos": "v."
       },
       {
-       "h": "，"
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "话",
+       "py": "huà",
+       "gl": "words; speech; what someone says",
+       "pos": "n."
+      },
+      {
+       "h": "："
       }
      ]
     },
     {
-     "en": "that even the most trivial little task, if you do it conscientiously,",
+     "en": "\"When your ambitions run ahead of your skills,",
      "words": [
       {
-       "h": "连",
-       "py": "lián",
-       "gl": "even (连…都… even)",
-       "pos": "prep."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "不起眼",
-       "py": "bùqǐyǎn",
-       "gl": "inconspicuous; unremarkable",
+       "h": "眼高手低",
+       "py": "yǎngāoshǒudī",
+       "gl": "have high standards but poor ability (idiom)",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "first lower your head and do the small task in your hands well.\"",
+     "words": [
+      {
+       "h": "先",
+       "py": "xiān",
+       "gl": "first; before",
+       "pos": "adv."
+      },
+      {
+       "h": "低下",
+       "py": "dīxià",
+       "gl": "lower; bow (one's head)",
+       "pos": "v."
+      },
+      {
+       "h": "头",
+       "py": "tóu",
+       "gl": "head",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -2883,81 +3077,10 @@
        "pos": "n."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "只要",
-       "py": "zhǐyào",
-       "gl": "as long as; if only",
-       "pos": "conj."
-      },
-      {
-       "h": "认真",
-       "py": "rènzhēn",
-       "gl": "serious; conscientious; carefully",
-       "pos": "adv."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "(before a verb) to; in order",
+       "h": "做好",
+       "py": "zuòhǎo",
+       "gl": "do well; get ready; finish making",
        "pos": "v."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "can build up into real skill.",
-     "words": [
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "even (连…都… even)",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "积累",
-       "py": "jīlěi",
-       "gl": "accumulate; build up",
-       "pos": "v."
-      },
-      {
-       "h": "成",
-       "py": "chéng",
-       "gl": "into (after a verb: 翻译成 translate into); become; turn into",
-       "pos": "v."
-      },
-      {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "real; true; genuine",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "本事",
-       "py": "běnshì",
-       "gl": "skill; ability",
-       "pos": "n."
       },
       {
        "h": "。"
@@ -2967,7 +3090,7 @@
    ]
   },
   {
-   "en": "After the meeting, her supervisor patted her on the shoulder and said the company planned to promote her to project team leader next year.",
+   "en": "After the meeting, the supervisor patted her on the shoulder and said next year he wanted her to lead a project team.",
    "phrases": [
     {
      "en": "After the meeting,",
@@ -2990,7 +3113,7 @@
      ]
     },
     {
-     "en": "her supervisor patted her on the shoulder and said",
+     "en": "the supervisor patted her on the shoulder",
      "words": [
       {
        "h": "主管",
@@ -2999,16 +3122,10 @@
        "pos": "n."
       },
       {
-       "h": "拍",
-       "py": "pāi",
-       "gl": "take (a photo); shoot (a video); pat; clap",
+       "h": "拍拍",
+       "py": "pāipāi",
+       "gl": "pat",
        "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
       },
       {
        "h": "她",
@@ -3019,7 +3136,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -3029,24 +3146,18 @@
        "pos": "n."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "the company planned to promote her to project team leader next year.",
+     "en": "and said next year he wanted her to lead a project team.",
      "words": [
       {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company",
-       "pos": "n."
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
       },
       {
        "h": "明年",
@@ -3055,1452 +3166,71 @@
        "pos": "n."
       },
       {
-       "h": "准备",
-       "py": "zhǔnbèi",
-       "gl": "plan to; intend to",
-       "pos": "v."
-      },
-      {
-       "h": "升",
-       "py": "shēng",
-       "gl": "promote (to a post)",
-       "pos": "v."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make; be; work as",
-       "pos": "v."
-      },
-      {
-       "h": "项目",
-       "py": "xiàngmù",
-       "gl": "project; item",
-       "pos": "n."
-      },
-      {
-       "h": "组长",
-       "py": "zǔzhǎng",
-       "gl": "team leader; group leader",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Lin Han was both happy and a little nervous; she knew the responsibility was bigger now, but she also believed that as long as she stayed as meticulous as she had been at the start, there was no obstacle she couldn't overcome.",
-   "phrases": [
-    {
-     "en": "Lin Han was both happy and a little nervous;",
-     "words": [
-      {
-       "h": "林涵",
-       "py": "línhán",
-       "gl": "Lin Han (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "既",
-       "py": "jì",
-       "gl": "both (既…又… both … and …)",
-       "pos": "conj."
-      },
-      {
-       "h": "高兴",
-       "py": "gāoxìng",
-       "gl": "happy; glad",
-       "pos": "adj."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "and also; both … and (既…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "有点",
-       "py": "yǒudiǎn",
-       "gl": "a little; somewhat",
-       "pos": "adv."
-      },
-      {
-       "h": "紧张",
-       "py": "jǐnzhāng",
-       "gl": "nervous; tense",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she knew the responsibility was bigger now,",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "知道",
-       "py": "zhīdào",
-       "gl": "know",
-       "pos": "v."
-      },
-      {
-       "h": "责任",
-       "py": "zérèn",
-       "gl": "responsibility; duty",
-       "pos": "n."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but she also believed that as long as she stayed as meticulous as she had been at the start,",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "相信",
-       "py": "xiāngxìn",
-       "gl": "believe; trust",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "只要",
-       "py": "zhǐyào",
-       "gl": "as long as; if only",
-       "pos": "conj."
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "prep."
-      },
-      {
-       "h": "当初",
-       "py": "dāngchū",
-       "gl": "at first; originally; back then",
-       "pos": "n."
-      },
-      {
-       "h": "那样",
-       "py": "nàyàng",
-       "gl": "that way; like that",
-       "pos": "pron."
-      },
-      {
-       "h": "一丝不苟",
-       "py": "yīsībùgǒu",
-       "gl": "meticulous; scrupulous (idiom; lit. not careless in a single thread)",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "there was no obstacle she couldn't overcome.",
-     "words": [
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no; not; did not (negates past actions)",
-       "pos": "v."
-      },
-      {
-       "h": "过不去",
-       "py": "guòbùqù",
-       "gl": "insurmountable; cannot get through",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "难关",
-       "py": "nánguān",
-       "gl": "difficulty; hard times",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "All the way from intern to team leader, what Lin Han relied on wasn't luck but down-to-earth hard work and a carefulness that didn't let even small things slip.",
-   "phrases": [
-    {
-     "en": "All the way from intern to team leader,",
-     "words": [
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "实习生",
-       "py": "shíxíshēng",
-       "gl": "intern",
-       "pos": "n."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; up to (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "项目",
-       "py": "xiàngmù",
-       "gl": "project; item",
-       "pos": "n."
-      },
-      {
-       "h": "组长",
-       "py": "zǔzhǎng",
-       "gl": "team leader; group leader",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "一路",
-       "py": "yīlù",
-       "gl": "all the way; the whole way",
-       "pos": "n."
-      },
-      {
-       "h": "走来",
-       "py": "zǒulái",
-       "gl": "come along (this way)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "what Lin Han relied on wasn't luck",
-     "words": [
-      {
-       "h": "林涵",
-       "py": "línhán",
-       "gl": "Lin Han (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "不是",
-       "py": "búshì",
-       "gl": "not be; is not",
-       "pos": "v."
-      },
-      {
-       "h": "运气",
-       "py": "yùnqì",
-       "gl": "luck",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but down-to-earth hard work and a carefulness that didn't let even small things slip.",
-     "words": [
-      {
-       "h": "而是",
-       "py": "érshì",
-       "gl": "but rather (不是…而是… not … but …)",
-       "pos": "conj."
-      },
-      {
-       "h": "脚踏实地",
-       "py": "jiǎotàshídì",
-       "gl": "down-to-earth; steady and practical (idiom; lit. feet on solid ground)",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "努力",
-       "py": "nǔlì",
-       "gl": "work hard; try hard; effort",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "连",
-       "py": "lián",
-       "gl": "even (连…都… even)",
-       "pos": "prep."
-      },
-      {
-       "h": "小事",
-       "py": "xiǎoshì",
-       "gl": "small matter; trifle",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "even (连…都… even)",
-       "pos": "adv."
-      },
-      {
-       "h": "不放过",
-       "py": "bùfàngguò",
-       "gl": "not let slip; not overlook",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "认真",
-       "py": "rènzhēn",
-       "gl": "serious; conscientious; carefully",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In her first week as team leader she set a rule: any document the team delivered to a client must not contain a single typo, not even one character.",
-   "phrases": [
-    {
-     "en": "In her first week as team leader",
-     "words": [
-      {
-       "h": "升任",
-       "py": "shēngrèn",
-       "gl": "be promoted to",
-       "pos": "v."
-      },
-      {
-       "h": "组长",
-       "py": "zǔzhǎng",
-       "gl": "team leader; group leader",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "第一周",
-       "py": "dìyīzhōu",
-       "gl": "first week",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she set a rule:",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "定下",
-       "py": "dìngxià",
-       "gl": "set; establish",
-       "pos": "v."
-      },
-      {
-       "h": "规矩",
-       "py": "guījǔ",
-       "gl": "rule; custom",
-       "pos": "n."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "in any document the team delivers to a client,",
-     "words": [
-      {
-       "h": "团队",
-       "py": "tuánduì",
-       "gl": "team",
-       "pos": "n."
-      },
-      {
-       "h": "交付",
-       "py": "jiāofù",
-       "gl": "deliver; hand over",
-       "pos": "v."
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "to; for (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "客户",
-       "py": "kèhù",
-       "gl": "client; customer",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "任何",
-       "py": "rènhé",
-       "gl": "any",
-       "pos": "pron."
-      },
-      {
-       "h": "文件",
-       "py": "wénjiàn",
-       "gl": "document; file",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "not even a one-character error is ever allowed.",
-     "words": [
-      {
-       "h": "哪怕",
-       "py": "nǎpà",
-       "gl": "even if",
-       "pos": "conj."
-      },
-      {
-       "h": "只有",
-       "py": "zhǐyǒu",
-       "gl": "only; only have",
-       "pos": "adv."
-      },
-      {
-       "h": "一个",
-       "py": "yígè",
-       "gl": "one (with measure word: one item)",
-       "pos": "measure word"
-      },
-      {
-       "h": "字",
-       "py": "zì",
-       "gl": "character (Chinese); word",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "错误",
-       "py": "cuòwù",
-       "gl": "mistake; error",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "绝不",
-       "py": "juébù",
-       "gl": "never; absolutely not",
-       "pos": "adv."
-      },
-      {
-       "h": "允许",
-       "py": "yǔnxǔ",
-       "gl": "allow; permit",
-       "pos": "v."
-      },
-      {
-       "h": "出现",
-       "py": "chūxiàn",
-       "gl": "appear; emerge",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "At first her team members thought she was too strict, but they gradually found that it was precisely this strictness that kept improving the team's reputation and pushing up client renewal rates.",
-   "phrases": [
-    {
-     "en": "At first her team members thought she was too strict,",
-     "words": [
-      {
-       "h": "组员",
-       "py": "zǔyuán",
-       "gl": "team member",
-       "pos": "n."
-      },
-      {
-       "h": "一开始",
-       "py": "yīkāishǐ",
-       "gl": "at first; in the beginning",
-       "pos": "adv."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "严格",
-       "py": "yángé",
-       "gl": "strict",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but they gradually found that it was precisely this strictness",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "渐渐",
-       "py": "jiànjiàn",
-       "gl": "gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "发现",
-       "py": "fāxiàn",
-       "gl": "discover; find out; notice",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "正是",
-       "py": "zhèngshì",
-       "gl": "precisely; it is exactly",
-       "pos": "adv."
-      },
-      {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "严格",
-       "py": "yángé",
-       "gl": "strictness",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that kept improving the team's reputation",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "团队",
-       "py": "tuánduì",
-       "gl": "team",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "口碑",
-       "py": "kǒubēi",
-       "gl": "reputation; word of mouth",
-       "pos": "n."
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and pushing up client renewal rates.",
-     "words": [
-      {
-       "h": "客户",
-       "py": "kèhù",
-       "gl": "client; customer",
-       "pos": "n."
-      },
-      {
-       "h": "续约率",
-       "py": "xùyuēlǜ",
-       "gl": "renewal rate",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "上升",
-       "py": "shàngshēng",
-       "gl": "rise; go up; increase",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Later the company decided to turn the working methods Lin Han had developed into a training manual for new hires, for every department to use.",
-   "phrases": [
-    {
-     "en": "Later the company decided to turn the working methods Lin Han had developed into a training manual for new hires,",
-     "words": [
-      {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company",
-       "pos": "n."
-      },
-      {
-       "h": "决定",
-       "py": "juédìng",
-       "gl": "decide; decision",
-       "pos": "v."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "林涵",
-       "py": "línhán",
-       "gl": "Lin Han (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "总结",
-       "py": "zǒngjié",
-       "gl": "sum up; summarize",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "方法",
-       "py": "fāngfǎ",
-       "gl": "method; way",
-       "pos": "n."
-      },
-      {
-       "h": "整理成",
-       "py": "zhěnglǐchéng",
-       "gl": "organize into; compile into",
-       "pos": "v."
-      },
-      {
-       "h": "一份",
-       "py": "yīfèn",
-       "gl": "one (copy, portion, share)",
-       "pos": "measure word"
-      },
-      {
-       "h": "新人",
-       "py": "xīnrén",
-       "gl": "newcomer; new employee",
-       "pos": "n."
-      },
-      {
-       "h": "培训",
-       "py": "péixùn",
-       "gl": "training",
-       "pos": "n."
-      },
-      {
-       "h": "手册",
-       "py": "shǒucè",
-       "gl": "handbook; manual",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "for every department to use.",
-     "words": [
-      {
-       "h": "供",
-       "py": "gōng",
-       "gl": "for (the use of); provide for",
-       "pos": "v."
-      },
-      {
-       "h": "所有",
-       "py": "suǒyǒu",
-       "gl": "all; every",
-       "pos": "adj."
-      },
-      {
-       "h": "部门",
-       "py": "bùmén",
-       "gl": "department; government agency",
-       "pos": "n."
-      },
-      {
-       "h": "参考",
-       "py": "cānkǎo",
-       "gl": "consult; refer to; take into account",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The manual had a whole chapter called \"Details Make or Break Success,\" filled with the pitfalls she had stumbled into over the years and the lessons she had drawn from them.",
-   "phrases": [
-    {
-     "en": "The manual had a whole chapter",
-     "words": [
-      {
-       "h": "手册",
-       "py": "shǒucè",
-       "gl": "handbook; manual",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "一章",
-       "py": "yīzhāng",
-       "gl": "one chapter",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "called \"Details Make or Break Success,\"",
-     "words": [
-      {
-       "h": "叫作",
-       "py": "jiàozuò",
-       "gl": "be called",
-       "pos": "v."
-      },
-      {
-       "h": "「"
-      },
-      {
-       "h": "细节",
-       "py": "xìjié",
-       "gl": "detail",
-       "pos": "n."
-      },
-      {
-       "h": "决定",
-       "py": "juédìng",
-       "gl": "determine",
-       "pos": "v."
-      },
-      {
-       "h": "成败",
-       "py": "chéngbài",
-       "gl": "success or failure",
-       "pos": "n."
-      },
-      {
-       "h": "」"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "filled with the pitfalls she had stumbled into over the years and the lessons she had drawn from them.",
-     "words": [
-      {
-       "h": "里面",
-       "py": "lǐmiàn",
-       "gl": "inside",
-       "pos": "n."
-      },
-      {
-       "h": "写满",
-       "py": "xiěmǎn",
-       "gl": "filled with writing; covered in writing",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "这些年",
-       "py": "zhèxiēnián",
-       "gl": "these years; in recent years",
-       "pos": "n."
-      },
-      {
-       "h": "踩过",
-       "py": "cǎiguò",
-       "gl": "stepped on (踩过的坑 pitfalls one has run into)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "坑",
-       "py": "kēng",
-       "gl": "pit; trap (figurative)",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "总结出",
-       "py": "zǒngjiéchū",
-       "gl": "sum up; distill",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "经验",
-       "py": "jīngyàn",
-       "gl": "experience (practical); work experience",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Some coworkers joked that Lin Han was now even stricter than her old supervisor; she wanted even the date format in meeting minutes to be consistent.",
-   "phrases": [
-    {
-     "en": "Some coworkers joked",
-     "words": [
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "同事",
-       "py": "tóngshì",
-       "gl": "colleague; coworker",
-       "pos": "n."
-      },
-      {
-       "h": "开玩笑",
-       "py": "kāiwánxiào",
-       "gl": "joke; make fun of",
-       "pos": "v."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that Lin Han was now even stricter than her old supervisor;",
-     "words": [
-      {
-       "h": "林涵",
-       "py": "línhán",
-       "gl": "Lin Han (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "当年",
-       "py": "dāngnián",
-       "gl": "back then; in those years",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "主管",
-       "py": "zhǔguǎn",
-       "gl": "supervisor; manager",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "严格",
-       "py": "yángé",
-       "gl": "strict",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she wanted even the date format in meeting minutes to be consistent.",
-     "words": [
-      {
-       "h": "连",
-       "py": "lián",
-       "gl": "even (连…都… even)",
-       "pos": "prep."
-      },
-      {
-       "h": "会议",
-       "py": "huìyì",
-       "gl": "meeting; conference",
-       "pos": "n."
-      },
-      {
-       "h": "记录",
-       "py": "jìlù",
-       "gl": "record; write down",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "日期",
-       "py": "rìqī",
-       "gl": "date",
-       "pos": "n."
-      },
-      {
-       "h": "格式",
-       "py": "géshì",
-       "gl": "format",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "even (连…都… even)",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "统一",
-       "py": "tǒngyī",
-       "gl": "unify; unite; unified; centrally; collectively",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Lin Han would just smile and say that details may be small, but added up, they decide whether a client wants to keep working with you.",
-   "phrases": [
-    {
-     "en": "Lin Han would just smile and say",
-     "words": [
-      {
-       "h": "林涵",
-       "py": "línhán",
-       "gl": "Lin Han (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "只是",
-       "py": "zhǐshì",
-       "gl": "just; merely; only",
-       "pos": "adv."
-      },
-      {
-       "h": "笑笑",
-       "py": "xiàoxiào",
-       "gl": "just smile; laugh it off",
-       "pos": "v."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that details may be small, but added up,",
-     "words": [
-      {
-       "h": "细节",
-       "py": "xìjié",
-       "gl": "detail",
-       "pos": "n."
-      },
-      {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
-      },
-      {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "累积起来",
-       "py": "lěijīqǐlái",
-       "gl": "when added up; accumulated",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "they decide whether a client wants to keep working with you.",
-     "words": [
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "客户",
-       "py": "kèhù",
-       "gl": "client; customer",
-       "pos": "n."
-      },
-      {
-       "h": "愿不愿意",
-       "py": "yuànbùyuànyì",
-       "gl": "be willing or not",
-       "pos": "v."
-      },
-      {
-       "h": "继续",
-       "py": "jìxù",
-       "gl": "continue; go on",
-       "pos": "v."
-      },
-      {
-       "h": "合作",
-       "py": "hézuò",
-       "gl": "cooperate; cooperation",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "关键",
-       "py": "guānjiàn",
-       "gl": "key; crux",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Today there's a saying at the company: if you want to learn to do things properly, look at how Lin Han made her way, step by step, from intern to where she is now.",
-   "phrases": [
-    {
-     "en": "Today there's a saying at the company:",
-     "words": [
-      {
-       "h": "如今",
-       "py": "rújīn",
-       "gl": "nowadays; now",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "流传",
-       "py": "liúchuán",
-       "gl": "spread; be passed down",
-       "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
-      },
-      {
-       "h": "一句话",
-       "py": "yījùhuà",
-       "gl": "a sentence; a word",
-       "pos": "measure word"
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "if you want to learn to do things properly,",
-     "words": [
-      {
        "h": "想",
        "py": "xiǎng",
        "gl": "want; would like",
        "pos": "v."
       },
       {
-       "h": "学会",
-       "py": "xuéhuì",
-       "gl": "learn (to do); master",
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
-       "h": "做事",
-       "py": "zuòshì",
-       "gl": "act; do things",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "带",
+       "py": "dài",
+       "gl": "lead (a team)",
        "pos": "v."
       },
       {
-       "h": "认真",
-       "py": "rènzhēn",
-       "gl": "serious; conscientious; carefully",
-       "pos": "adv."
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "项目组",
+       "py": "xiàngmùzǔ",
+       "gl": "project team",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When Lin Han got back to her desk, she found the new intern had left a cup of coffee on it, with a note tucked under the cup: Didn't spill it this time.",
+   "phrases": [
+    {
+     "en": "When Lin Han got back to her desk,",
+     "words": [
+      {
+       "h": "林涵",
+       "py": "Lín Hán",
+       "gl": "Lin Han (name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "回到",
+       "py": "huídào",
+       "gl": "return to; get back to",
+       "pos": "v."
+      },
+      {
+       "h": "工位",
+       "py": "gōngwèi",
+       "gl": "workstation; desk",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -4508,55 +3238,19 @@
      ]
     },
     {
-     "en": "look at how Lin Han made her way, step by step, from intern to where she is now.",
+     "en": "she found the new intern had left a cup of coffee on it,",
      "words": [
       {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "(before a verb) to; in order",
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
        "pos": "v."
       },
       {
-       "h": "看看",
-       "py": "kànkàn",
-       "gl": "have a look; take a look",
-       "pos": "v."
-      },
-      {
-       "h": "林涵",
-       "py": "línhán",
-       "gl": "Lin Han (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "当年",
-       "py": "dāngnián",
-       "gl": "back then; in those years",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "怎么",
-       "py": "zěnme",
-       "gl": "how",
-       "pos": "pron."
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from (从…到… from … to …)",
-       "pos": "prep."
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adj."
       },
       {
        "h": "实习生",
@@ -4565,22 +3259,123 @@
        "pos": "n."
       },
       {
-       "h": "一步步",
-       "py": "yíbùbù",
-       "gl": "step by step",
-       "pos": "adv."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
-       "h": "走过来",
-       "py": "zǒuguòlái",
-       "gl": "come over; walk over",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "桌",
+       "py": "zhuō",
+       "gl": "table",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "杯",
+       "py": "bēi",
+       "gl": "cup; glass (also measure word)",
+       "pos": "n."
+      },
+      {
+       "h": "咖啡",
+       "py": "kāfēi",
+       "gl": "coffee",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "with a note tucked under the cup: Didn't spill it this time.",
+     "words": [
+      {
+       "h": "杯子",
+       "py": "bēizi",
+       "gl": "cup; glass",
+       "pos": "n."
+      },
+      {
+       "h": "下面",
+       "py": "xiàmiàn",
+       "gl": "under; below; beneath",
+       "pos": "n."
+      },
+      {
+       "h": "压着",
+       "py": "yāzhe",
+       "gl": "weighing on; pressing down",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "张",
+       "py": "zhāng",
+       "gl": "measure word for flat objects (paper, photos, tables)",
+       "pos": "measure word"
+      },
+      {
+       "h": "纸条",
+       "py": "zhǐtiáo",
+       "gl": "note; slip of paper",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "这次",
+       "py": "zhècì",
+       "gl": "this time",
+       "pos": "pron."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "洒",
+       "py": "sǎ",
+       "gl": "spill; sprinkle",
+       "pos": "v."
       },
       {
        "h": "。"

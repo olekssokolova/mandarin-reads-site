@@ -1,35 +1,47 @@
 {
  "id": "l6hsrail2",
  "level": 6,
- "title_zh": "高铁网络的建设",
- "title_en": "Building the High-Speed Rail Network",
+ "title_zh": "天窗里的人",
+ "title_en": "The People of the Night Window",
  "free": false,
  "audio_url": null,
- "note_en": "不管 A，都 B means \"no matter A, B still holds\": 不管是零下三十度的东北，还是四十度高温的南方，高铁都能照常运行 \"whether it's minus 30 in the northeast or 40 degrees in the south, the trains run as usual.\" The options are linked with 还是 (not 或者), and 都 before the main verb is required. English can put \"no matter\" at either end of the sentence, but Chinese always puts the 不管 clause first.",
+ "note_en": "不管 A，都 B means \"no matter what A is, B still happens\": the condition can be anything, and the result doesn't depend on it. Options are joined with 还是: 不管是东北的冰，还是南方的热，列车第二天早上都要准时出发 \"whether it's ice in the northeast or heat in the south, the trains still have to leave on time the next morning.\" A yes-or-no question can replace the list: 不管乘客知不知道，他都觉得… \"whether or not the passengers know, he still feels….\" The order is fixed: 不管 with the condition first, then 都 before the verb.",
  "sentences": [
   {
-   "en": "In just over a decade, China built the world's longest high-speed rail network.",
+   "en": "Just after midnight, the last train pulled off the Danyang–Kunshan Bridge, and the lights on the bridge went dark one after another.",
    "phrases": [
     {
-     "en": "In just over a decade,",
+     "en": "Just after midnight,",
      "words": [
       {
-       "h": "短短",
-       "py": "duǎnduǎn",
-       "gl": "only; very short (of time)",
-       "pos": "adj."
+       "h": "凌晨",
+       "py": "língchén",
+       "gl": "before dawn; early morning",
+       "pos": "n."
       },
       {
-       "h": "十几",
-       "py": "shíjǐ",
-       "gl": "a dozen or so; over ten",
+       "h": "零",
+       "py": "líng",
+       "gl": "zero",
        "pos": "num."
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "刚",
+       "py": "gāng",
+       "gl": "just (now); only just",
+       "pos": "adv."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
       },
       {
        "h": "，"
@@ -37,24 +49,116 @@
      ]
     },
     {
-     "en": "China built the world's longest high-speed rail network.",
+     "en": "the last train pulled off the Danyang–Kunshan Bridge,",
      "words": [
       {
-       "h": "中国",
-       "py": "Zhōngguó",
-       "gl": "China",
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
+       "pos": "adj."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "趟",
+       "py": "tàng",
+       "gl": "measure word for trips",
+       "pos": "measure word"
+      },
+      {
+       "h": "列车",
+       "py": "lièchē",
+       "gl": "train",
+       "pos": "n."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "丹阳昆山大桥",
+       "py": "Dānyáng Kūnshān Dàqiáo",
+       "gl": "Danyang-Kunshan Grand Bridge",
        "pos": "proper noun"
       },
       {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
+       "h": "上",
+       "py": "shàng",
+       "gl": "on; in; in terms of (after a noun: 世界上 in the world, 工作上 at work)",
+       "pos": "postposition"
       },
       {
-       "h": "建成",
-       "py": "jiànchéng",
-       "gl": "complete construction; be built",
+       "h": "开走",
+       "py": "kāizǒu",
+       "gl": "drive away",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and the lights on the bridge went dark one after another.",
+     "words": [
+      {
+       "h": "桥",
+       "py": "qiáo",
+       "gl": "bridge",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "灯",
+       "py": "dēng",
+       "gl": "(ship's) lights",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "盏",
+       "py": "zhǎn",
+       "gl": "measure word for lamps",
+       "pos": "measure word"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "盏",
+       "py": "zhǎn",
+       "gl": "measure word for lamps",
+       "pos": "measure word"
+      },
+      {
+       "h": "暗",
+       "py": "àn",
+       "gl": "go dark; dim",
        "pos": "v."
       },
       {
@@ -64,40 +168,10 @@
        "pos": "particle"
       },
       {
-       "h": "世界上",
-       "py": "shìjièshàng",
-       "gl": "in the world",
-       "pos": "n."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "长",
-       "py": "cháng",
-       "gl": "long",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
        "pos": "particle"
-      },
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "网络",
-       "py": "wǎngluò",
-       "gl": "internet; network; online",
-       "pos": "n."
       },
       {
        "h": "。"
@@ -107,189 +181,27 @@
    ]
   },
   {
-   "en": "To date, China's high-speed rail lines total more than 50,000 kilometers, more than the rest of the world combined.",
+   "en": "Lao Zhou slung his tool bag onto his back, switched on his headlamp, and walked out onto the bridge.",
    "phrases": [
     {
-     "en": "To date, China's high-speed rail lines total more than 50,000 kilometers,",
+     "en": "Lao Zhou slung his tool bag onto his back,",
      "words": [
       {
-       "h": "截至",
-       "py": "jiézhì",
-       "gl": "as of; up to",
-       "pos": "prep."
-      },
-      {
-       "h": "目前",
-       "py": "mùqián",
-       "gl": "currently; at present",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "中国",
-       "py": "Zhōngguó",
-       "gl": "China",
+       "h": "老周",
+       "py": "Lǎo Zhōu",
+       "gl": "Lao Zhou (old Zhou)",
        "pos": "proper noun"
       },
       {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "总里程",
-       "py": "zǒnglǐchéng",
-       "gl": "total length; total mileage",
-       "pos": "n."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "超过",
-       "py": "chāoguò",
-       "gl": "exceed; surpass; be more than",
+       "h": "背上",
+       "py": "bēishang",
+       "gl": "sling onto one's back",
        "pos": "v."
       },
       {
-       "h": "五万",
-       "py": "wǔwàn",
-       "gl": "fifty thousand",
-       "pos": "num."
-      },
-      {
-       "h": "公里",
-       "py": "gōnglǐ",
-       "gl": "kilometer",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "more than the rest of the world combined.",
-     "words": [
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "世界",
-       "py": "shìjiè",
-       "gl": "world",
-       "pos": "n."
-      },
-      {
-       "h": "其他",
-       "py": "qítā",
-       "gl": "other; else",
-       "pos": "pron."
-      },
-      {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "state; country",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "总和",
-       "py": "zǒnghé",
-       "gl": "sum; total",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Building high-speed rail means overcoming extremely complex terrain: engineers have to tunnel through mountains, cross rivers and even build bridges over deserts and swamps.",
-   "phrases": [
-    {
-     "en": "Building high-speed rail means overcoming extremely complex terrain:",
-     "words": [
-      {
-       "h": "修建",
-       "py": "xiūjiàn",
-       "gl": "build; construct",
-       "pos": "v."
-      },
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "克服",
-       "py": "kèfú",
-       "gl": "overcome",
-       "pos": "v."
-      },
-      {
-       "h": "极其",
-       "py": "jíqí",
-       "gl": "extremely",
-       "pos": "adv."
-      },
-      {
-       "h": "复杂",
-       "py": "fùzá",
-       "gl": "complicated; complex",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "地形",
-       "py": "dìxíng",
-       "gl": "terrain; landform",
+       "h": "工具包",
+       "py": "gōngjùbāo",
+       "gl": "tool bag",
        "pos": "n."
       },
       {
@@ -298,112 +210,38 @@
      ]
     },
     {
-     "en": "engineers have to tunnel through mountains and cross rivers,",
+     "en": "switched on his headlamp, and walked out onto the bridge.",
      "words": [
       {
-       "h": "工程师",
-       "py": "gōngchéngshī",
-       "gl": "engineer",
-       "pos": "n."
-      },
-      {
-       "h": "们",
-       "py": "men",
-       "gl": "plural suffix for people",
-       "pos": "function word"
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "turn on; open (an app)",
        "pos": "v."
       },
       {
-       "h": "穿过",
-       "py": "chuānguò",
-       "gl": "pass through; cross",
-       "pos": "v."
-      },
-      {
-       "h": "高山",
-       "py": "gāoshān",
-       "gl": "high mountain",
+       "h": "头灯",
+       "py": "tóudēng",
+       "gl": "headlamp",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "跨过",
-       "py": "kuàguò",
-       "gl": "cross; get over",
+       "h": "走上",
+       "py": "zǒushàng",
+       "gl": "set out on; walk onto",
        "pos": "v."
       },
       {
-       "h": "江河",
-       "py": "jiānghé",
-       "gl": "rivers",
-       "pos": "n."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and even build bridges over deserts and swamps.",
-     "words": [
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "沙漠",
-       "py": "shāmò",
-       "gl": "desert",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "沼泽",
-       "py": "zhǎozé",
-       "gl": "swamp; marsh",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on; in; in terms of (after a noun: 世界上 in the world, 工作上 at work)",
-       "pos": "postposition"
-      },
-      {
-       "h": "架起",
-       "py": "jiàqǐ",
-       "gl": "set up",
-       "pos": "v."
-      },
-      {
-       "h": "桥梁",
-       "py": "qiáoliáng",
+       "h": "桥",
+       "py": "qiáo",
        "gl": "bridge",
        "pos": "n."
       },
@@ -415,33 +253,35 @@
    ]
   },
   {
-   "en": "On some sections nearly half the route is tunnels and bridges, and the construction is no easier than putting up a skyscraper.",
+   "en": "Every night, the high-speed trains stop running for a few hours; this stretch of time is called the \"skylight,\" and it's set aside specially for track maintenance workers like them.",
    "phrases": [
     {
-     "en": "On some sections nearly half the route is tunnels and bridges,",
+     "en": "Every night,",
      "words": [
       {
-       "h": "有的",
-       "py": "yǒude",
-       "gl": "some (of them)",
-       "pos": "pron."
-      },
-      {
-       "h": "路段",
-       "py": "lùduàn",
-       "gl": "section of road",
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
        "pos": "n."
       },
       {
-       "h": "几乎",
-       "py": "jīhū",
-       "gl": "almost; nearly",
-       "pos": "adv."
+       "h": "凌晨",
+       "py": "língchén",
+       "gl": "small hours; before dawn",
+       "pos": "n."
       },
       {
-       "h": "一半",
-       "py": "yíbàn",
-       "gl": "half",
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the high-speed trains stop running for a few hours;",
+     "words": [
+      {
+       "h": "高铁",
+       "py": "gāotiě",
+       "gl": "high-speed rail; bullet train",
        "pos": "n."
       },
       {
@@ -451,172 +291,34 @@
        "pos": "adv."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
-       "h": "隧道",
-       "py": "suìdào",
-       "gl": "tunnel",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "桥梁",
-       "py": "qiáoliáng",
-       "gl": "bridge",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the construction is no easier than putting up a skyscraper.",
-     "words": [
-      {
-       "h": "施工",
-       "py": "shīgōng",
-       "gl": "do construction work; construction",
-       "pos": "n."
-      },
-      {
-       "h": "难度",
-       "py": "nándù",
-       "gl": "difficulty (level)",
-       "pos": "n."
-      },
-      {
-       "h": "一点也不",
-       "py": "yìdiǎnyěbù",
-       "gl": "not at all; not the least bit",
-       "pos": "adv."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "盖",
-       "py": "gài",
-       "gl": "build (a house); cover",
+       "h": "停运",
+       "py": "tíngyùn",
+       "gl": "suspend service; stop running",
        "pos": "v."
       },
       {
-       "h": "大楼",
-       "py": "dàlóu",
-       "gl": "building; high-rise",
-       "pos": "n."
-      },
-      {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Whether it's minus 30 degrees Celsius in the northeast or 40-degree heat in the south, the trains run as usual, thanks to a great deal of technological innovation.",
-   "phrases": [
-    {
-     "en": "Whether it's minus 30 degrees Celsius in the northeast or 40-degree heat in the south,",
-     "words": [
-      {
-       "h": "不管",
-       "py": "bùguǎn",
-       "gl": "no matter; regardless of",
-       "pos": "conj."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "零下",
-       "py": "língxià",
-       "gl": "below zero",
-       "pos": "n."
-      },
-      {
-       "h": "三十",
-       "py": "sānshí",
-       "gl": "thirty",
+       "h": "几",
+       "py": "jǐ",
+       "gl": "several; a few",
        "pos": "num."
       },
       {
-       "h": "度",
-       "py": "dù",
-       "gl": "degree; level (suffix: 敏感度 'sensitivity')",
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
        "pos": "measure word"
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "东北",
-       "py": "dōngběi",
-       "gl": "northeast; Northeast China",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "还是",
-       "py": "háishì",
-       "gl": "or (in questions)",
-       "pos": "conj."
-      },
-      {
-       "h": "四十",
-       "py": "sìshí",
-       "gl": "forty",
-       "pos": "num."
-      },
-      {
-       "h": "度",
-       "py": "dù",
-       "gl": "degree; level (suffix: 敏感度 'sensitivity')",
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
        "pos": "measure word"
-      },
-      {
-       "h": "高温",
-       "py": "gāowēn",
-       "gl": "high temperature; heat wave",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "南方",
-       "py": "nánfāng",
-       "gl": "south; southern",
-       "pos": "n."
       },
       {
        "h": "，"
@@ -624,45 +326,7 @@
      ]
     },
     {
-     "en": "the trains run as usual,",
-     "words": [
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both; even; already",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "照常",
-       "py": "zhàocháng",
-       "gl": "as usual",
-       "pos": "adv."
-      },
-      {
-       "h": "运行",
-       "py": "yùnxíng",
-       "gl": "run; operate (of software, machines)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and behind this lies a great deal of technological innovation.",
+     "en": "this stretch of time is called the \"skylight,\"",
      "words": [
       {
        "h": "这",
@@ -671,454 +335,72 @@
        "pos": "pron."
       },
       {
-       "h": "背后",
-       "py": "bèihòu",
-       "gl": "behind; behind the scenes",
-       "pos": "n."
-      },
-      {
-       "h": "离不开",
-       "py": "líbukāi",
-       "gl": "can't do without",
-       "pos": "v."
-      },
-      {
-       "h": "大量",
-       "py": "dàliàng",
-       "gl": "large amount of; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "创新",
-       "py": "chuàngxīn",
-       "gl": "innovation; innovate",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Today China's high-speed rail technology and construction know-how are being exported to Southeast Asia, Europe and elsewhere.",
-   "phrases": [
-    {
-     "en": "Today China's high-speed rail technology and construction know-how",
-     "words": [
-      {
-       "h": "如今",
-       "py": "rújīn",
-       "gl": "nowadays; now",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "中国",
-       "py": "Zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "建造",
-       "py": "jiànzào",
-       "gl": "build; construct; construction",
-       "pos": "n."
-      },
-      {
-       "h": "经验",
-       "py": "jīngyàn",
-       "gl": "experience (practical); work experience",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "are being exported to Southeast Asia, Europe and elsewhere.",
-     "words": [
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "出口",
-       "py": "chūkǒu",
-       "gl": "export",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; into",
-       "pos": "prep."
-      },
-      {
-       "h": "东南亚",
-       "py": "Dōngnányà",
-       "gl": "Southeast Asia",
-       "pos": "proper noun"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "欧洲",
-       "py": "ōuzhōu",
-       "gl": "Europe",
-       "pos": "proper noun"
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "地",
-       "py": "dì",
-       "gl": "place; region",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In a little over ten years China covered ground that took other countries decades, a pace of construction that is truly rare.",
-   "phrases": [
-    {
-     "en": "In a little over ten years China covered ground that took other countries decades,",
-     "words": [
-      {
-       "h": "中国",
-       "py": "Zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "prep."
-      },
-      {
-       "h": "十几",
-       "py": "shíjǐ",
-       "gl": "a dozen or so; over ten",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "走完",
-       "py": "zǒuwán",
-       "gl": "walk the whole way; complete (a journey)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "别的",
-       "py": "biéde",
-       "gl": "other; else",
-       "pos": "pron."
-      },
-      {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "state; country",
-       "pos": "n."
-      },
-      {
-       "h": "几十",
-       "py": "jǐshí",
-       "gl": "several dozen; tens of",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "才",
-       "py": "cái",
-       "gl": "only then; not until; (emphasis) really; precisely",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "完成",
-       "py": "wánchéng",
-       "gl": "finish; complete",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "路",
-       "py": "lù",
-       "gl": "road; route; (bus) line",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "a pace of construction that is truly rare.",
-     "words": [
-      {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "this way; like this; such; like (比亚迪这样的 brands like BYD)",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "建设",
-       "py": "jiànshè",
-       "gl": "construction; development",
-       "pos": "n."
-      },
-      {
-       "h": "速度",
-       "py": "sùdù",
-       "gl": "speed",
-       "pos": "n."
-      },
-      {
-       "h": "确实",
-       "py": "quèshí",
-       "gl": "indeed; really",
-       "pos": "adv."
-      },
-      {
-       "h": "少见",
-       "py": "shǎojiàn",
-       "gl": "rare; uncommon",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In recent years the figure has kept growing, and official plans call for the network to reach about 60,000 kilometers by 2030.",
-   "phrases": [
-    {
-     "en": "In recent years the figure has kept growing,",
-     "words": [
-      {
-       "h": "近年来",
-       "py": "jìnniánlái",
-       "gl": "in recent years",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "这个",
-       "py": "zhège",
-       "gl": "this; this one",
-       "pos": "pron."
-      },
-      {
-       "h": "数字",
-       "py": "shùzì",
-       "gl": "number; figure; digit; digital",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "particle: action in progress (他在吃 'he is eating')",
-       "pos": "adv."
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "增长",
-       "py": "zēngzhǎng",
-       "gl": "grow; increase; growth",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and official plans call for the network to reach about 60,000 kilometers by 2030.",
-     "words": [
-      {
-       "h": "官方",
-       "py": "guānfāng",
-       "gl": "official; authorities",
-       "pos": "n."
-      },
-      {
-       "h": "计划",
-       "py": "jìhuà",
-       "gl": "plan; program",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "by (a time); up to",
-       "pos": "prep."
-      },
-      {
-       "h": "二零三零",
-       "py": "èrlíngsānlíng",
-       "gl": "2030 (year, read digit by digit)",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "运营",
-       "py": "yùnyíng",
-       "gl": "run; operate (business, community)",
-       "pos": "n."
-      },
-      {
-       "h": "里程",
-       "py": "lǐchéng",
-       "gl": "mileage; length (of lines, routes)",
-       "pos": "n."
-      },
-      {
-       "h": "增加",
-       "py": "zēngjiā",
-       "gl": "increase; raise",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "by (a time); up to",
-       "pos": "prep."
-      },
-      {
-       "h": "六万",
-       "py": "liùwàn",
-       "gl": "sixty thousand",
-       "pos": "num."
-      },
-      {
-       "h": "公里",
-       "py": "gōnglǐ",
-       "gl": "kilometer",
+       "h": "段",
+       "py": "duàn",
+       "gl": "measure word for a stretch of time",
        "pos": "measure word"
       },
       {
-       "h": "左右",
-       "py": "zuǒyòu",
-       "gl": "about; around (after a number)",
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "天窗",
+       "py": "tiānchuāng",
+       "gl": "maintenance window (lit. \"skylight\")",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and it's set aside specially for track maintenance workers like them.",
+     "words": [
+      {
+       "h": "专门",
+       "py": "zhuānmén",
+       "gl": "specially; special; specialized",
        "pos": "adv."
+      },
+      {
+       "h": "留给",
+       "py": "liúgěi",
+       "gl": "leave (for someone)",
+       "pos": "v."
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "这些",
+       "py": "zhèxiē",
+       "gl": "these",
+       "pos": "pron."
+      },
+      {
+       "h": "检修工",
+       "py": "jiǎnxiūgōng",
+       "gl": "track maintenance worker",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -1128,102 +410,28 @@
    ]
   },
   {
-   "en": "One of the most iconic routes is the Beijing–Shanghai line, which runs over the Danyang–Kunshan Grand Bridge, nearly 165 kilometers long and the longest bridge in the world.",
+   "en": "The bridge is nearly 165 kilometers long, the longest bridge in the world, and the Beijing–Shanghai High-Speed Railway runs right across it.",
    "phrases": [
     {
-     "en": "One of the most iconic routes is the Beijing–Shanghai line,",
+     "en": "The bridge is nearly 165 kilometers long,",
      "words": [
       {
-       "h": "其中",
-       "py": "qízhōng",
-       "gl": "among them; of which; in it",
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
        "pos": "pron."
       },
       {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
+       "h": "座",
+       "py": "zuò",
+       "gl": "measure word for bridges",
+       "pos": "measure word"
       },
       {
-       "h": "具",
-       "py": "jù",
-       "gl": "have; possess (literary)",
-       "pos": "v."
-      },
-      {
-       "h": "代表性",
-       "py": "dàibiǎoxìng",
-       "gl": "representativeness; representative",
+       "h": "桥",
+       "py": "qiáo",
+       "gl": "bridge",
        "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "路段",
-       "py": "lùduàn",
-       "gl": "section of road",
-       "pos": "n."
-      },
-      {
-       "h": "之一",
-       "py": "zhīyī",
-       "gl": "one of (最…之一 'one of the most …')",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "京沪",
-       "py": "jīnghù",
-       "gl": "Beijing-Shanghai",
-       "pos": "proper noun"
-      },
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which runs over the Danyang–Kunshan Grand Bridge, nearly 165 kilometers long and the longest bridge in the world.",
-     "words": [
-      {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
-       "pos": "pron."
-      },
-      {
-       "h": "经过",
-       "py": "jīngguò",
-       "gl": "go through; undergo; pass by",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "丹阳昆山大桥",
-       "py": "dānyángkūnshāndàqiáo",
-       "gl": "Danyang-Kunshan Grand Bridge",
-       "pos": "proper noun"
       },
       {
        "h": "全长",
@@ -1251,7 +459,12 @@
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "the longest bridge in the world,",
+     "words": [
       {
        "h": "是",
        "py": "shì",
@@ -1259,10 +472,16 @@
        "pos": "v."
       },
       {
-       "h": "世界上",
-       "py": "shìjièshàng",
-       "gl": "in the world",
+       "h": "世界",
+       "py": "shìjiè",
+       "gl": "world",
        "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
        "h": "最",
@@ -1279,14 +498,58 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "桥梁",
-       "py": "qiáoliáng",
+       "h": "桥",
+       "py": "qiáo",
        "gl": "bridge",
        "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and the Beijing–Shanghai High-Speed Railway runs right across it.",
+     "words": [
+      {
+       "h": "京沪高铁",
+       "py": "Jīng Hù gāotiě",
+       "gl": "Beijing–Shanghai High-Speed Railway",
+       "pos": "proper noun"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "上面",
+       "py": "shàngmiàn",
+       "gl": "on top; on the surface; above",
+       "pos": "n."
+      },
+      {
+       "h": "经过",
+       "py": "jīngguò",
+       "gl": "go through; undergo; pass by",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -1296,167 +559,57 @@
    ]
   },
   {
-   "en": "The main train model on China's high-speed lines today is the Fuxing (\"Rejuvenation\"); it entered service in 2017, unified technical standards, and reaches a top commercial speed of 350 kilometers per hour.",
+   "en": "The section Lao Zhou is responsible for is only four kilometers, but he taps every single bolt with a small hammer and listens to the sound.",
    "phrases": [
     {
-     "en": "The main train model on China's high-speed lines today is the Fuxing (\"Rejuvenation\");",
+     "en": "The section Lao Zhou is responsible for is only four kilometers,",
      "words": [
       {
-       "h": "目前",
-       "py": "mùqián",
-       "gl": "currently; at present",
-       "pos": "n."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
+       "h": "老周",
+       "py": "Lǎo Zhōu",
+       "gl": "Lao Zhou (old Zhou)",
        "pos": "proper noun"
       },
       {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
+       "h": "负责",
+       "py": "fùzé",
+       "gl": "be responsible for; be in charge of",
+       "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "主力",
-       "py": "zhǔlì",
-       "gl": "main force; mainstay; main",
-       "pos": "n."
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
       },
       {
-       "h": "车型",
-       "py": "chēxíng",
-       "gl": "vehicle model; train model",
-       "pos": "n."
-      },
-      {
-       "h": "叫做",
-       "py": "jiàozuò",
-       "gl": "be called",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "复兴号",
-       "py": "fùxīnghào",
-       "gl": "Fuxing (Chinese high-speed train)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it entered service in 2017, unified technical standards, and reaches a top commercial speed of 350 kilometers per hour.",
-     "words": [
-      {
-       "h": "二零一七",
-       "py": "èrlíngyīqī",
-       "gl": "2017",
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
        "pos": "num."
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "段",
+       "py": "duàn",
+       "gl": "section (of a road or railway)",
        "pos": "n."
       },
       {
-       "h": "投入",
-       "py": "tóurù",
-       "gl": "put into (use); invest",
-       "pos": "v."
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
       },
       {
-       "h": "运营",
-       "py": "yùnyíng",
-       "gl": "run; operate (business, community)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "统一",
-       "py": "tǒngyī",
-       "gl": "unify; unite; unified; centrally; collectively",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "标准",
-       "py": "biāozhǔn",
-       "gl": "standard",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "最高",
-       "py": "zuìgāo",
-       "gl": "highest; supreme",
-       "pos": "adj."
-      },
-      {
-       "h": "商业",
-       "py": "shāngyè",
-       "gl": "commercial; business",
-       "pos": "n."
-      },
-      {
-       "h": "运营",
-       "py": "yùnyíng",
-       "gl": "run; operate (business, community)",
-       "pos": "n."
-      },
-      {
-       "h": "速度",
-       "py": "sùdù",
-       "gl": "speed",
-       "pos": "n."
-      },
-      {
-       "h": "达到",
-       "py": "dádào",
-       "gl": "reach; achieve",
-       "pos": "v."
-      },
-      {
-       "h": "每小时",
-       "py": "měixiǎoshí",
-       "gl": "per hour",
-       "pos": "n."
-      },
-      {
-       "h": "三百五十",
-       "py": "sānbǎiwǔshí",
-       "gl": "three hundred fifty",
+       "h": "四",
+       "py": "sì",
+       "gl": "four",
        "pos": "num."
       },
       {
@@ -1466,6 +619,107 @@
        "pos": "measure word"
       },
       {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but he taps every single bolt with a small hammer and listens to the sound.",
+     "words": [
+      {
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "颗",
+       "py": "kē",
+       "gl": "measure word for small round things (teeth, grains)",
+       "pos": "measure word"
+      },
+      {
+       "h": "螺丝",
+       "py": "luósī",
+       "gl": "bolt; screw",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "小锤",
+       "py": "xiǎochuí",
+       "gl": "small hammer",
+       "pos": "n."
+      },
+      {
+       "h": "敲",
+       "py": "qiāo",
+       "gl": "knock",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "敲",
+       "py": "qiāo",
+       "gl": "knock",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "听听",
+       "py": "tīngtīng",
+       "gl": "listen to; hear (out)",
+       "pos": "v."
+      },
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound",
+       "pos": "n."
+      },
+      {
        "h": "。"
       }
      ]
@@ -1473,36 +727,132 @@
    ]
   },
   {
-   "en": "In 2019 the Beijing–Zhangjiakou line opened; linking Beijing and Zhangjiakou, it runs with automatic train operation and was the world's first smart high-speed railway at that speed.",
+   "en": "A crisp sound means everything's fine; a dull sound means stop and check carefully.",
    "phrases": [
     {
-     "en": "In 2019 the Beijing–Zhangjiakou line opened;",
+     "en": "A crisp sound means everything's fine;",
      "words": [
       {
-       "h": "二零一九",
-       "py": "èrlíngyījiǔ",
-       "gl": "2019",
-       "pos": "num."
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound",
+       "pos": "n."
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
+       "h": "清脆",
+       "py": "qīngcuì",
+       "gl": "crisp; clear (of sound)",
+       "pos": "adj."
       },
       {
        "h": "，"
       },
       {
-       "h": "京张",
-       "py": "jīngzhāng",
-       "gl": "Beijing–Zhangjiakou (railway)",
-       "pos": "proper noun"
+       "h": "说明",
+       "py": "shuōmíng",
+       "gl": "mean; show",
+       "pos": "v."
       },
       {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
+       "h": "没事",
+       "py": "méishì",
+       "gl": "it's all right; be fine",
+       "pos": "phrase"
+      },
+      {
+       "h": "；"
+      }
+     ]
+    },
+    {
+     "en": "a dull sound means stop and check carefully.",
+     "words": [
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound",
+       "pos": "n."
+      },
+      {
+       "h": "发闷",
+       "py": "fāmèn",
+       "gl": "sound dull; sound hollow",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "得",
+       "py": "děi",
+       "gl": "have to; must",
+       "pos": "v."
+      },
+      {
+       "h": "停",
+       "py": "tíng",
+       "gl": "stop; park",
+       "pos": "v."
+      },
+      {
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
+       "pos": "particle"
+      },
+      {
+       "h": "仔细",
+       "py": "zǐxì",
+       "gl": "carefully",
+       "pos": "adv."
+      },
+      {
+       "h": "查",
+       "py": "chá",
+       "gl": "check; look up (in a dictionary, online)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Before this line opened in 2011, he had spent ten years doing maintenance in the northeast.",
+   "phrases": [
+    {
+     "en": "Before this line opened in 2011,",
+     "words": [
+      {
+       "h": "二零一一年",
+       "py": "èr líng yī yī nián",
+       "gl": "the year 2011",
+       "pos": "n."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "线路",
+       "py": "xiànlù",
+       "gl": "line; circuit; route",
        "pos": "n."
       },
       {
@@ -1512,223 +862,10 @@
        "pos": "v."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "linking Beijing and Zhangjiakou, it runs with automatic train operation and was the world's first smart high-speed railway at that speed.",
-     "words": [
-      {
-       "h": "这条",
-       "py": "zhètiáo",
-       "gl": "this (measure word 条: river, road, line, etc.)",
-       "pos": "pron."
-      },
-      {
-       "h": "连接",
-       "py": "liánjiē",
-       "gl": "connect; link",
-       "pos": "v."
-      },
-      {
-       "h": "北京",
-       "py": "běijīng",
-       "gl": "Beijing",
-       "pos": "proper noun"
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "张家口",
-       "py": "zhāngjiākǒu",
-       "gl": "Zhangjiakou",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "线路",
-       "py": "xiànlù",
-       "gl": "line; circuit; route",
-       "pos": "n."
-      },
-      {
-       "h": "实现",
-       "py": "shíxiàn",
-       "gl": "realize; achieve",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "自动",
-       "py": "zìdòng",
-       "gl": "automatic",
-       "pos": "adj."
-      },
-      {
-       "h": "驾驶",
-       "py": "jiàshǐ",
-       "gl": "drive; driving",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "世界上",
-       "py": "shìjièshàng",
-       "gl": "in the world",
-       "pos": "n."
-      },
-      {
-       "h": "第一",
-       "py": "dìyī",
-       "gl": "first",
-       "pos": "num."
-      },
-      {
-       "h": "条",
-       "py": "tiáo",
-       "gl": "measure word for long things (fish, roads, slides)",
-       "pos": "measure word"
-      },
-      {
-       "h": "达到",
-       "py": "dádào",
-       "gl": "reach; achieve",
-       "pos": "v."
-      },
-      {
-       "h": "这一",
-       "py": "zhèyī",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "速度",
-       "py": "sùdù",
-       "gl": "speed",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "智能",
-       "py": "zhìnéng",
-       "gl": "smart (devices); intelligent",
-       "pos": "adj."
-      },
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The trains start, adjust speed and stop automatically without manual control, and the driver only needs to take over in an emergency.",
-   "phrases": [
-    {
-     "en": "The trains start, adjust speed and stop automatically without manual control,",
-     "words": [
-      {
-       "h": "列车",
-       "py": "lièchē",
-       "gl": "train",
-       "pos": "n."
-      },
-      {
-       "h": "不需要",
-       "py": "bùxūyào",
-       "gl": "not need; no need to",
-       "pos": "v."
-      },
-      {
-       "h": "人工",
-       "py": "réngōng",
-       "gl": "man-made; artificial; manual",
-       "pos": "adj."
-      },
-      {
-       "h": "操作",
-       "py": "cāozuò",
-       "gl": "operation; operate",
-       "pos": "n."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "自动",
-       "py": "zìdòng",
-       "gl": "automatically; automatic",
-       "pos": "adv."
-      },
-      {
-       "h": "启动",
-       "py": "qǐdòng",
-       "gl": "start; launch",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "调速",
-       "py": "diàosù",
-       "gl": "adjust speed",
-       "pos": "v."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "停车",
-       "py": "tíngchē",
-       "gl": "park (a car); stop",
-       "pos": "v."
+       "h": "之前",
+       "py": "zhīqián",
+       "gl": "before; prior to",
+       "pos": "postposition"
       },
       {
        "h": "，"
@@ -1736,438 +873,338 @@
      ]
     },
     {
-     "en": "and the driver only needs to take over in an emergency.",
+     "en": "he had spent ten years doing maintenance in the northeast.",
      "words": [
       {
-       "h": "司机",
-       "py": "sījī",
-       "gl": "driver",
-       "pos": "n."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need to; have to",
-       "pos": "v."
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "紧急",
-       "py": "jǐnjí",
-       "gl": "urgent; emergency",
-       "pos": "adj."
-      },
-      {
-       "h": "情况",
-       "py": "qíngkuàng",
-       "gl": "situation; circumstances",
+       "h": "东北",
+       "py": "dōngběi",
+       "gl": "northeast; Northeast China",
        "pos": "n."
       },
       {
-       "h": "下",
-       "py": "xià",
-       "gl": "under (conditions); in (a context)",
-       "pos": "postposition"
-      },
-      {
-       "h": "接管",
-       "py": "jiēguǎn",
-       "gl": "take over",
+       "h": "干",
+       "py": "gàn",
+       "gl": "do; work",
        "pos": "v."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "During the 2022 Beijing Winter Olympics, the line also carried athletes to and from the venues.",
-   "phrases": [
-    {
-     "en": "During the 2022 Beijing Winter Olympics,",
-     "words": [
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
       {
-       "h": "二零二二",
-       "py": "èrlíngèrèr",
-       "gl": "2022 (read digit by digit)",
+       "h": "十",
+       "py": "shí",
+       "gl": "ten",
        "pos": "num."
       },
       {
        "h": "年",
        "py": "nián",
        "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "北京",
-       "py": "běijīng",
-       "gl": "Beijing",
-       "pos": "proper noun"
-      },
-      {
-       "h": "冬奥会",
-       "py": "dōngàohuì",
-       "gl": "Winter Olympics",
-       "pos": "n."
-      },
-      {
-       "h": "期间",
-       "py": "qījiān",
-       "gl": "during; period",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the line also carried athletes to and from the venues.",
-     "words": [
-      {
-       "h": "这条",
-       "py": "zhètiáo",
-       "gl": "this (measure word 条: river, road, line, etc.)",
-       "pos": "pron."
-      },
-      {
-       "h": "线路",
-       "py": "xiànlù",
-       "gl": "line; circuit; route",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "承担",
-       "py": "chéngdān",
-       "gl": "take on; bear (a responsibility)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "接送",
-       "py": "jiēsòng",
-       "gl": "pick up and drop off",
-       "pos": "v."
-      },
-      {
-       "h": "运动员",
-       "py": "yùndòngyuán",
-       "gl": "athlete",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "任务",
-       "py": "rènwù",
-       "gl": "task; assignment; mission",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In recent years China's high-speed rail technology has not only served the domestic market but has truly gone overseas.",
-   "phrases": [
-    {
-     "en": "In recent years China's high-speed rail technology has not only served the domestic market",
-     "words": [
-      {
-       "h": "近些年",
-       "py": "jìnxiēnián",
-       "gl": "in recent years",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "不仅",
-       "py": "bùjǐn",
-       "gl": "not only",
-       "pos": "conj."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "v."
-      },
-      {
-       "h": "国内",
-       "py": "guónèi",
-       "gl": "domestic; at home (in one's own country)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but has truly gone overseas.",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "real; true; genuine",
-       "pos": "adv."
-      },
-      {
-       "h": "走向",
-       "py": "zǒuxiàng",
-       "gl": "move toward; head for; lead to",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "海外",
-       "py": "hǎiwài",
-       "gl": "overseas; abroad",
-       "pos": "n."
-      },
-      {
-       "h": "市场",
-       "py": "shìchǎng",
-       "gl": "market",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In 2023 Indonesia's Jakarta–Bandung high-speed railway officially opened; it is Southeast Asia's first high-speed line, and its trains were built by Chinese companies and shipped there.",
-   "phrases": [
-    {
-     "en": "In 2023 Indonesia's Jakarta–Bandung high-speed railway officially opened;",
-     "words": [
-      {
-       "h": "二零二三",
-       "py": "èrlíngèrsān",
-       "gl": "2023 (year)",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "印度尼西亚",
-       "py": "yìndùníxīyà",
-       "gl": "Indonesia",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "雅万",
-       "py": "yǎwàn",
-       "gl": "Jakarta–Bandung (railway)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "正式",
-       "py": "zhèngshì",
-       "gl": "officially",
-       "pos": "adv."
-      },
-      {
-       "h": "通车",
-       "py": "tōngchē",
-       "gl": "open to traffic",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it is Southeast Asia's first high-speed line, and its trains were built by Chinese companies and shipped there.",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "东南亚",
-       "py": "dōngnányà",
-       "gl": "Southeast Asia",
-       "pos": "proper noun"
-      },
-      {
-       "h": "第一",
-       "py": "dìyī",
-       "gl": "first",
-       "pos": "num."
-      },
-      {
-       "h": "条",
-       "py": "tiáo",
-       "gl": "measure word for long things (fish, roads, slides)",
        "pos": "measure word"
       },
       {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
+       "h": "检修",
+       "py": "jiǎnxiū",
+       "gl": "inspection and repair; maintenance",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the northeast, winter hits thirty below, the rails freeze like ice pops, and if your glove touches them it won't come off.",
+   "phrases": [
+    {
+     "en": "In the northeast, winter hits thirty below,",
+     "words": [
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "东北",
+       "py": "dōngběi",
+       "gl": "northeast; Northeast China",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "使用",
-       "py": "shǐyòng",
-       "gl": "use",
+       "h": "冬天",
+       "py": "dōngtiān",
+       "gl": "winter",
+       "pos": "n."
+      },
+      {
+       "h": "零下",
+       "py": "língxià",
+       "gl": "below zero",
+       "pos": "n."
+      },
+      {
+       "h": "三十",
+       "py": "sānshí",
+       "gl": "thirty",
+       "pos": "num."
+      },
+      {
+       "h": "度",
+       "py": "dù",
+       "gl": "degree; level (suffix: 敏感度 'sensitivity')",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the rails freeze like ice pops,",
+     "words": [
+      {
+       "h": "钢轨",
+       "py": "gāngguǐ",
+       "gl": "rail; steel rail",
+       "pos": "n."
+      },
+      {
+       "h": "冻",
+       "py": "dòng",
+       "gl": "jelly; aspic",
+       "pos": "n."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
        "pos": "v."
+      },
+      {
+       "h": "冰棍",
+       "py": "bīnggùn",
+       "gl": "ice pop; popsicle",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and if your glove touches them it won't come off.",
+     "words": [
+      {
+       "h": "手套",
+       "py": "shǒutào",
+       "gl": "glove",
+       "pos": "n."
+      },
+      {
+       "h": "贴",
+       "py": "tiē",
+       "gl": "press against; stick",
+       "pos": "v."
+      },
+      {
+       "h": "上去",
+       "py": "shàngqù",
+       "gl": "up (directional complement); go up",
+       "pos": "v."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "撕",
+       "py": "sī",
+       "gl": "tear; rip off",
+       "pos": "v."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the south, even summer nights are as muggy as a steamer, and he drinks three bottles of water in a single night.",
+   "phrases": [
+    {
+     "en": "In the south, even summer nights are as muggy as a steamer,",
+     "words": [
+      {
+       "h": "到了",
+       "py": "dàole",
+       "gl": "reach; arrive; when it comes to (time); by (到了清朝 by the Qing dynasty)",
+       "pos": "v."
+      },
+      {
+       "h": "南方",
+       "py": "nánfāng",
+       "gl": "south; southern",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "夏天",
+       "py": "xiàtiān",
+       "gl": "summer",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "动车组",
-       "py": "dòngchēzǔ",
-       "gl": "bullet train (EMU trainset)",
+       "h": "夜里",
+       "py": "yèli",
+       "gl": "at night",
        "pos": "n."
       },
       {
-       "h": "由",
-       "py": "yóu",
-       "gl": "by (marks the agent)",
-       "pos": "prep."
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too; (with negation) even",
+       "pos": "adv."
       },
       {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
+       "h": "闷热",
+       "py": "mēnrè",
+       "gl": "hot and stuffy; muggy",
+       "pos": "adj."
       },
       {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "蒸笼",
+       "py": "zhēnglóng",
+       "gl": "bamboo steamer",
        "pos": "n."
       },
       {
-       "h": "制造",
-       "py": "zhìzào",
-       "gl": "make; manufacture; produce",
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and he drinks three bottles of water in a single night.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "conj."
-      },
-      {
-       "h": "运往",
-       "py": "yùnwǎng",
-       "gl": "ship to; transport to",
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
        "pos": "v."
       },
       {
-       "h": "当地",
-       "py": "dāngdì",
-       "gl": "local; locality",
+       "h": "掉",
+       "py": "diào",
+       "gl": "all up (complement)",
+       "pos": "v."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "瓶",
+       "py": "píng",
+       "gl": "measure word for bottles",
+       "pos": "measure word"
+      },
+      {
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
        "pos": "n."
       },
       {
@@ -2178,10 +1215,10 @@
    ]
   },
   {
-   "en": "Whether facing complex geology at home or an unfamiliar climate and market abroad, Chinese engineers and companies keep building experience and have gradually made high-speed rail into a striking calling card.",
+   "en": "Whether it's ice in the northeast or heat in the south, the trains still have to leave on time the next morning; that's the unchanging rule of their trade.",
    "phrases": [
     {
-     "en": "Whether facing complex geology at home or an unfamiliar climate and market abroad,",
+     "en": "Whether it's ice in the northeast or heat in the south,",
      "words": [
       {
        "h": "不管",
@@ -2196,33 +1233,21 @@
        "pos": "v."
       },
       {
-       "h": "国内",
-       "py": "guónèi",
-       "gl": "domestic; at home (in one's own country)",
+       "h": "东北",
+       "py": "dōngběi",
+       "gl": "northeast; Northeast China",
        "pos": "n."
-      },
-      {
-       "h": "复杂",
-       "py": "fùzá",
-       "gl": "complicated; complex",
-       "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "地质",
-       "py": "dìzhì",
-       "gl": "geology; geological",
-       "pos": "n."
-      },
-      {
-       "h": "条件",
-       "py": "tiáojiàn",
-       "gl": "conditions",
+       "h": "冰",
+       "py": "bīng",
+       "gl": "ice; iced; cold",
        "pos": "n."
       },
       {
@@ -2235,45 +1260,21 @@
        "pos": "conj."
       },
       {
-       "h": "海外",
-       "py": "hǎiwài",
-       "gl": "overseas; abroad",
+       "h": "南方",
+       "py": "nánfāng",
+       "gl": "south; southern",
        "pos": "n."
-      },
-      {
-       "h": "陌生",
-       "py": "mòshēng",
-       "gl": "unfamiliar; strange",
-       "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "气候",
-       "py": "qìhòu",
-       "gl": "climate",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "市场",
-       "py": "shìchǎng",
-       "gl": "market",
-       "pos": "n."
-      },
-      {
-       "h": "环境",
-       "py": "huánjìng",
-       "gl": "environment; conditions",
+       "h": "热",
+       "py": "rè",
+       "gl": "heat",
        "pos": "n."
       },
       {
@@ -2282,844 +1283,265 @@
      ]
     },
     {
-     "en": "Chinese engineers and companies keep building experience and have gradually made high-speed rail into a striking calling card.",
+     "en": "the trains still have to leave on time the next morning;",
      "words": [
       {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "工程师",
-       "py": "gōngchéngshī",
-       "gl": "engineer",
+       "h": "列车",
+       "py": "lièchē",
+       "gl": "train",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
+       "h": "第二",
+       "py": "dìèr",
+       "gl": "second",
+       "pos": "num."
       },
       {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
        "pos": "n."
       },
       {
        "h": "都",
        "py": "dōu",
-       "gl": "all; both; even; already",
+       "gl": "all; both",
        "pos": "adv."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "particle: action in progress (他在吃 'he is eating')",
-       "pos": "adv."
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "积累",
-       "py": "jīlěi",
-       "gl": "accumulate; build up",
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
-       "h": "经验",
-       "py": "jīngyàn",
-       "gl": "experience (practical); work experience",
-       "pos": "n."
+       "h": "准时",
+       "py": "zhǔnshí",
+       "gl": "on time; punctual",
+       "pos": "adv."
+      },
+      {
+       "h": "出发",
+       "py": "chūfā",
+       "gl": "set off; depart",
+       "pos": "v."
       },
       {
        "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that's the unchanging rule of their trade.",
+     "words": [
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
       },
       {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "行",
+       "py": "háng",
+       "gl": "profession; line of work",
+       "pos": "n."
+      },
+      {
+       "h": "不变",
+       "py": "bùbiàn",
+       "gl": "unchanging; constant",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "规矩",
+       "py": "guījǔ",
+       "gl": "rule; custom",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Over these ten-odd years, he has watched with his own eyes as the country's high-speed rail grew from a few lines into a network, with a total length now over 50,000 kilometers.",
+   "phrases": [
+    {
+     "en": "Over these ten-odd years,",
+     "words": [
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "十几",
+       "py": "shíjǐ",
+       "gl": "a dozen or so; over ten",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "he has watched with his own eyes as the country's high-speed rail grew from a few lines into a network,",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "亲眼",
+       "py": "qīnyǎn",
+       "gl": "with one's own eyes",
+       "pos": "adv."
+      },
+      {
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "look at; watching",
+       "pos": "v."
+      },
+      {
+       "h": "全国",
+       "py": "quánguó",
+       "gl": "the whole country; nationwide",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "高铁",
        "py": "gāotiě",
-       "gl": "high-speed rail",
+       "gl": "high-speed rail; bullet train",
        "pos": "n."
       },
       {
-       "h": "逐步",
-       "py": "zhúbù",
-       "gl": "gradually; step by step",
-       "pos": "adv."
-      },
-      {
-       "h": "打造",
-       "py": "dǎzào",
-       "gl": "create; build; forge",
-       "pos": "v."
-      },
-      {
-       "h": "成",
-       "py": "chéng",
-       "gl": "into (after a verb: 翻译成 translate into); become; turn into",
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
        "pos": "prep."
+      },
+      {
+       "h": "几",
+       "py": "jǐ",
+       "gl": "several; a few",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (roads, rivers, fish), lines, messages, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "线",
+       "py": "xiàn",
+       "gl": "line",
+       "pos": "n."
+      },
+      {
+       "h": "变成",
+       "py": "biànchéng",
+       "gl": "turn into; become",
+       "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
        "h": "一",
-       "py": "yī",
+       "py": "yì",
        "gl": "one",
        "pos": "num."
       },
       {
        "h": "张",
        "py": "zhāng",
-       "gl": "measure word for flat objects (paper, photos, tables)",
+       "gl": "measure word for nets, sheets",
        "pos": "measure word"
       },
       {
-       "h": "亮眼",
-       "py": "liàngyǎn",
-       "gl": "eye-catching; impressive",
+       "h": "网",
+       "py": "wǎng",
+       "gl": "net; the internet; online",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "with a total length now over 50,000 kilometers.",
+     "words": [
+      {
+       "h": "总",
+       "py": "zǒng",
+       "gl": "total; overall",
        "pos": "adj."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "名片",
-       "py": "míngpiàn",
-       "gl": "business card; (fig.) calling card",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Beyond raising speeds, China's railways keep adding new kinds of service: in 2024 they launched high-speed sleeper trains linking Hong Kong with Beijing and Shanghai, making long overnight trips easier.",
-   "phrases": [
-    {
-     "en": "Beyond raising speeds, China's railways keep adding new kinds of service:",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "提速",
-       "py": "tísù",
-       "gl": "speed up; increase speed",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "铁路",
-       "py": "tiělù",
-       "gl": "railway; railroad",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "particle: action in progress (他在吃 'he is eating')",
-       "pos": "adv."
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "丰富",
-       "py": "fēngfù",
-       "gl": "enrich; diversify",
-       "pos": "v."
-      },
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "形式",
-       "py": "xíngshì",
-       "gl": "form; format",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "in 2024 they launched high-speed sleeper trains linking Hong Kong with Beijing and Shanghai,",
-     "words": [
-      {
-       "h": "二零二四",
-       "py": "èrlíngèrsì",
-       "gl": "2024 (year)",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "开通",
-       "py": "kāitōng",
-       "gl": "open; launch (a service, line); activate",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "连接",
-       "py": "liánjiē",
-       "gl": "connect; link",
-       "pos": "v."
-      },
-      {
-       "h": "香港",
-       "py": "xiānggǎng",
-       "gl": "Hong Kong",
-       "pos": "proper noun"
-      },
-      {
-       "h": "与",
-       "py": "yǔ",
-       "gl": "and; with (formal)",
-       "pos": "conj."
-      },
-      {
-       "h": "北京",
-       "py": "běijīng",
-       "gl": "Beijing",
-       "pos": "proper noun"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "上海",
-       "py": "shànghǎi",
-       "gl": "Shanghai",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "卧铺",
-       "py": "wòpù",
-       "gl": "sleeper berth; sleeping car",
-       "pos": "n."
-      },
-      {
-       "h": "列车",
-       "py": "lièchē",
-       "gl": "train",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "making long overnight trips easier.",
-     "words": [
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "v."
-      },
-      {
-       "h": "乘客",
-       "py": "chéngkè",
-       "gl": "passenger",
-       "pos": "n."
-      },
-      {
-       "h": "夜间",
-       "py": "yèjiān",
-       "gl": "night; at night; nighttime",
-       "pos": "n."
-      },
-      {
-       "h": "长途",
-       "py": "chángtú",
-       "gl": "long-distance",
-       "pos": "adj."
-      },
-      {
-       "h": "出行",
-       "py": "chūxíng",
-       "gl": "travel; getting around",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Even faster trains are in development: the next-generation CR450 prototype has already reached 450 kilometers per hour in testing and could bring cities even closer in the future.",
-   "phrases": [
-    {
-     "en": "Even faster trains are in development:",
-     "words": [
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
-       "pos": "adv."
-      },
-      {
-       "h": "快",
-       "py": "kuài",
-       "gl": "fast; quick",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "列车",
-       "py": "lièchē",
-       "gl": "train",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "particle: action in progress (他在吃 'he is eating')",
-       "pos": "adv."
-      },
-      {
-       "h": "研发",
-       "py": "yánfā",
-       "gl": "research and develop; develop",
-       "pos": "v."
-      },
-      {
-       "h": "之中",
-       "py": "zhīzhōng",
-       "gl": "among; in the midst of",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the next-generation CR450 prototype has already reached 450 kilometers per hour in testing,",
-     "words": [
-      {
-       "h": "新一代",
-       "py": "xīnyídài",
-       "gl": "new generation",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "CR450"
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "原型车",
-       "py": "yuánxíngchē",
-       "gl": "prototype (vehicle, train)",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "测试",
-       "py": "cèshì",
-       "gl": "test; trial",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among (after a noun: 过程中 in the process)",
-       "pos": "postposition"
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "达到",
-       "py": "dádào",
-       "gl": "reach; achieve",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "每小时",
-       "py": "měixiǎoshí",
-       "gl": "per hour",
-       "pos": "n."
-      },
-      {
-       "h": "四百五十",
-       "py": "sìbǎiwǔshí",
-       "gl": "four hundred fifty",
-       "pos": "num."
-      },
-      {
-       "h": "公里",
-       "py": "gōnglǐ",
-       "gl": "kilometer",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and could bring cities even closer in the future.",
-     "words": [
-      {
-       "h": "未来",
-       "py": "wèilái",
-       "gl": "future; in the future",
-       "pos": "n."
-      },
-      {
-       "h": "有望",
-       "py": "yǒuwàng",
-       "gl": "be expected to; be likely to",
-       "pos": "v."
-      },
-      {
-       "h": "进一步",
-       "py": "jìnyíbù",
-       "gl": "further",
-       "pos": "adv."
-      },
-      {
-       "h": "缩短",
-       "py": "suōduǎn",
-       "gl": "shorten",
-       "pos": "v."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "之间",
-       "py": "zhījiān",
-       "gl": "between; among",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "距离",
-       "py": "jùlí",
-       "gl": "distance",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "For ordinary people, perhaps the biggest change high-speed rail has brought is that spur-of-the-moment travel, \"just up and go,\" has truly become reality.",
-   "phrases": [
-    {
-     "en": "For ordinary people,",
-     "words": [
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "for; to (对…来说 'for…, as far as … is concerned')",
-       "pos": "prep."
-      },
-      {
-       "h": "普通",
-       "py": "pǔtōng",
-       "gl": "ordinary; common",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "来说",
-       "py": "láishuō",
-       "gl": "as for; for (对…来说 for someone)",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "perhaps the biggest change high-speed rail has brought",
-     "words": [
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "带来",
-       "py": "dàilái",
-       "gl": "bring; bring about",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "最大",
-       "py": "zuìdà",
-       "gl": "biggest; largest",
-       "pos": "adj."
-      },
-      {
-       "h": "变化",
-       "py": "biànhuà",
-       "gl": "change; changes",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "is that spur-of-the-moment travel, \"just up and go,\" has truly become reality.",
-     "words": [
-      {
-       "h": "也许",
-       "py": "yěxǔ",
-       "gl": "perhaps; maybe",
-       "pos": "adv."
-      },
-      {
-       "h": "就是",
-       "py": "jiùshì",
-       "gl": "exactly; precisely; just; simply",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "说走就走",
-       "py": "shuōzǒujiùzǒu",
-       "gl": "just pack up and go (on a whim)",
-       "pos": "phrase"
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "旅行",
-       "py": "lǚxíng",
-       "gl": "travel; trip",
-       "pos": "n."
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      },
-      {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "truly; really",
-       "pos": "adv."
-      },
-      {
-       "h": "成为",
-       "py": "chéngwéi",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "现实",
-       "py": "xiànshí",
-       "gl": "reality; realistic",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Take the Beijing–Shanghai line: it opened in 2011, and so far it has carried more than 2.3 billion passenger trips.",
-   "phrases": [
-    {
-     "en": "Take the Beijing–Shanghai line:",
-     "words": [
-      {
-       "h": "以",
-       "py": "yǐ",
-       "gl": "with; by means of; as; in order to (以…为… take … as …)",
-       "pos": "prep."
-      },
-      {
-       "h": "京沪",
-       "py": "jīnghù",
-       "gl": "Beijing-Shanghai",
-       "pos": "proper noun"
-      },
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "(wéi) as; be; into",
-       "pos": "prep."
-      },
-      {
-       "h": "例",
-       "py": "lì",
-       "gl": "example",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it opened in 2011,",
-     "words": [
-      {
-       "h": "这条",
-       "py": "zhètiáo",
-       "gl": "this (measure word 条: river, road, line, etc.)",
-       "pos": "pron."
-      },
-      {
-       "h": "线路",
-       "py": "xiànlù",
-       "gl": "line; circuit; route",
-       "pos": "n."
-      },
-      {
-       "h": "二零一一",
-       "py": "èrlíngyīyī",
-       "gl": "2011 (read digit by digit)",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "开通",
-       "py": "kāitōng",
-       "gl": "open; launch (a service, line); activate",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and so far",
-     "words": [
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "until; up to (time)",
-       "pos": "prep."
-      },
-      {
-       "h": "目前",
-       "py": "mùqián",
-       "gl": "currently; at present",
-       "pos": "n."
-      },
-      {
-       "h": "为止",
-       "py": "wéizhǐ",
-       "gl": "up to; until (到...为止)",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it has carried more than 2.3 billion passenger trips.",
-     "words": [
-      {
-       "h": "累计",
-       "py": "lěijì",
-       "gl": "cumulatively; in total",
-       "pos": "adv."
-      },
-      {
-       "h": "运送",
-       "py": "yùnsòng",
-       "gl": "transport; deliver",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "乘客",
-       "py": "chéngkè",
-       "gl": "passenger",
+       "h": "里程",
+       "py": "lǐchéng",
+       "gl": "mileage; length (of lines, routes)",
        "pos": "n."
       },
       {
@@ -3135,15 +1557,15 @@
        "pos": "v."
       },
       {
-       "h": "二十三亿",
-       "py": "èrshísānyì",
-       "gl": "2.3 billion",
+       "h": "五万",
+       "py": "wǔwàn",
+       "gl": "fifty thousand",
        "pos": "num."
       },
       {
-       "h": "人次",
-       "py": "réncì",
-       "gl": "person-time (count of visits or trips)",
+       "h": "公里",
+       "py": "gōnglǐ",
+       "gl": "kilometer",
        "pos": "measure word"
       },
       {
@@ -3154,63 +1576,45 @@
    ]
   },
   {
-   "en": "High-speed rail has not only cut travel times between cities but also boosted tourism, real estate and other related industries in cities along the lines.",
+   "en": "In 2017, on the day the Fuxing went into service, he waited under the bridge on purpose, watching it flash past at 350 kilometers an hour, leaving only a gust of wind behind.",
    "phrases": [
     {
-     "en": "High-speed rail has not only cut travel times between cities",
+     "en": "In 2017, on the day the Fuxing went into service,",
      "words": [
       {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
+       "h": "二零一七年",
+       "py": "èr líng yī qī nián",
+       "gl": "the year 2017",
        "pos": "n."
       },
       {
-       "h": "不仅",
-       "py": "bùjǐn",
-       "gl": "not only",
-       "pos": "conj."
+       "h": "“"
       },
       {
-       "h": "拉近",
-       "py": "lājìn",
-       "gl": "bring closer; close the distance",
+       "h": "复兴号",
+       "py": "Fùxīng Hào",
+       "gl": "Fuxing (Chinese high-speed train)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "投入",
+       "py": "tóurù",
+       "gl": "put in; invest",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
+       "h": "运营",
+       "py": "yùnyíng",
+       "gl": "run; operate (business, community)",
+       "pos": "v."
       },
       {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "之间",
-       "py": "zhījiān",
-       "gl": "between; among",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "距离",
-       "py": "jùlí",
-       "gl": "distance",
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
        "pos": "n."
       },
       {
@@ -3219,8 +1623,560 @@
      ]
     },
     {
-     "en": "but also boosted tourism, real estate and other related industries in cities along the lines.",
+     "en": "he waited under the bridge on purpose,",
      "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "特意",
+       "py": "tèyì",
+       "gl": "specially; on purpose",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "桥",
+       "py": "qiáo",
+       "gl": "bridge",
+       "pos": "n."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "under (强光下 under bright light)",
+       "pos": "postposition"
+      },
+      {
+       "h": "等着",
+       "py": "děngzhe",
+       "gl": "waiting",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "watching it flash past at 350 kilometers an hour,",
+     "words": [
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "以",
+       "py": "yǐ",
+       "gl": "at (a speed); with",
+       "pos": "prep."
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
+       "pos": "n."
+      },
+      {
+       "h": "三百五十",
+       "py": "sānbǎiwǔshí",
+       "gl": "three hundred fifty",
+       "pos": "num."
+      },
+      {
+       "h": "公里",
+       "py": "gōnglǐ",
+       "gl": "kilometer",
+       "pos": "measure word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "速度",
+       "py": "sùdù",
+       "gl": "speed",
+       "pos": "n."
+      },
+      {
+       "h": "一闪而过",
+       "py": "yì shǎn ér guò",
+       "gl": "flash past (idiom)",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "leaving only a gust of wind behind.",
+     "words": [
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "留下",
+       "py": "liúxià",
+       "gl": "keep; leave (behind)",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
+       "pos": "adv."
+      },
+      {
+       "h": "阵",
+       "py": "zhèn",
+       "gl": "measure word for short spells (a gust, a burst, a pang)",
+       "pos": "measure word"
+      },
+      {
+       "h": "风",
+       "py": "fēng",
+       "gl": "wind",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The light of his headlamp fell on the rails; ahead was pitch darkness, and all he could hear were his own footsteps and his coworker's.",
+   "phrases": [
+    {
+     "en": "The light of his headlamp fell on the rails;",
+     "words": [
+      {
+       "h": "头灯",
+       "py": "tóudēng",
+       "gl": "headlamp",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "光",
+       "py": "guāng",
+       "gl": "light; ray",
+       "pos": "n."
+      },
+      {
+       "h": "照",
+       "py": "zhào",
+       "gl": "shine; light up",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "钢轨",
+       "py": "gāngguǐ",
+       "gl": "rail; steel rail",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "ahead was pitch darkness,",
+     "words": [
+      {
+       "h": "前面",
+       "py": "qiánmiàn",
+       "gl": "in front; ahead",
+       "pos": "n."
+      },
+      {
+       "h": "一片",
+       "py": "yípiàn",
+       "gl": "a stretch of; all over; a sheet of",
+       "pos": "num."
+      },
+      {
+       "h": "漆黑",
+       "py": "qīhēi",
+       "gl": "pitch-dark",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and all he could hear were his own footsteps and his coworker's.",
+     "words": [
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "听得见",
+       "py": "tīng de jiàn",
+       "gl": "can hear; be audible",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "同事",
+       "py": "tóngshì",
+       "gl": "colleague; coworker",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "脚步声",
+       "py": "jiǎobùshēng",
+       "gl": "sound of footsteps",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At two thirty his phone buzzed: a video from his daughter in Indonesia.",
+   "phrases": [
+    {
+     "en": "At two thirty his phone buzzed:",
+     "words": [
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "半",
+       "py": "bàn",
+       "gl": "half",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "震",
+       "py": "zhèn",
+       "gl": "vibrate",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一下",
+       "py": "yíxià",
+       "gl": "a bit; once (softens the verb: take a look)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "a video from his daughter in Indonesia.",
+     "words": [
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "印度尼西亚",
+       "py": "Yìndùníxīyà",
+       "gl": "Indonesia",
+       "pos": "proper noun"
+      },
+      {
+       "h": "发来",
+       "py": "fālái",
+       "gl": "send (to me); sent",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video; video call",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "His daughter is an engineer; a few years ago she helped build the Jakarta–Bandung High-Speed Railway, and after it opened in 2023 she stayed on there to do maintenance.",
+   "phrases": [
+    {
+     "en": "His daughter is an engineer;",
+     "words": [
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "工程师",
+       "py": "gōngchéngshī",
+       "gl": "engineer",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "a few years ago she helped build the Jakarta–Bandung High-Speed Railway,",
+     "words": [
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "几",
+       "py": "jǐ",
+       "gl": "several; a few",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "参与",
+       "py": "cānyù",
+       "gl": "take part in; participate",
+       "pos": "v."
+      },
+      {
+       "h": "修建",
+       "py": "xiūjiàn",
+       "gl": "build; construct",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "雅万高铁",
+       "py": "Yǎ Wàn gāotiě",
+       "gl": "Jakarta–Bandung High-Speed Railway",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and after it opened in 2023 she stayed on there to do maintenance.",
+     "words": [
+      {
+       "h": "二零二三年",
+       "py": "èr líng èr sān nián",
+       "gl": "2023",
+       "pos": "n."
+      },
+      {
+       "h": "通车",
+       "py": "tōngchē",
+       "gl": "open to traffic",
+       "pos": "v."
+      },
+      {
+       "h": "后",
+       "py": "hòu",
+       "gl": "after",
+       "pos": "postposition"
+      },
+      {
+       "h": "留",
+       "py": "liú",
+       "gl": "stay; remain",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "那里",
+       "py": "nàlǐ",
+       "gl": "there",
+       "pos": "pron."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "维护",
+       "py": "wéihù",
+       "gl": "maintenance; upkeep",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the video she was wearing a headlamp too, standing on the tracks, with dark tropical trees behind her.",
+   "phrases": [
+    {
+     "en": "In the video she was wearing a headlamp too, standing on the tracks,",
+     "words": [
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video; video call",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
       {
        "h": "也",
        "py": "yě",
@@ -3228,230 +2184,86 @@
        "pos": "adv."
       },
       {
-       "h": "带动",
-       "py": "dàidòng",
-       "gl": "drive; boost; spur",
+       "h": "戴着",
+       "py": "dàizhe",
+       "gl": "wearing",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "沿线",
-       "py": "yánxiàn",
-       "gl": "along the route (Belt and Road countries)",
-       "pos": "n."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "旅游业",
-       "py": "lǚyóuyè",
-       "gl": "tourism (industry)",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "房地产",
-       "py": "fángdìchǎn",
-       "gl": "real estate",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "相关",
-       "py": "xiāngguān",
-       "gl": "related; relevant",
-       "pos": "adj."
-      },
-      {
-       "h": "产业",
-       "py": "chǎnyè",
-       "gl": "industry",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "发展",
-       "py": "fāzhǎn",
-       "gl": "develop; development",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "For safety, most high-speed lines shut down for a few hours in the early morning, set aside for inspecting and maintaining the tracks and equipment.",
-   "phrases": [
-    {
-     "en": "For safety,",
-     "words": [
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "保证",
-       "py": "bǎozhèng",
-       "gl": "guarantee; ensure; promise",
-       "pos": "v."
-      },
-      {
-       "h": "安全",
-       "py": "ānquán",
-       "gl": "safety",
+       "h": "头灯",
+       "py": "tóudēng",
+       "gl": "headlamp",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "most high-speed lines shut down for a few hours in the early morning,",
-     "words": [
-      {
-       "h": "大部分",
-       "py": "dàbùfèn",
-       "gl": "most; the greater part",
-       "pos": "n."
       },
       {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
-      },
-      {
-       "h": "线路",
-       "py": "xiànlù",
-       "gl": "line; circuit; route",
-       "pos": "n."
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
+       "pos": "v."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
-      },
-      {
-       "h": "凌晨",
-       "py": "língchén",
-       "gl": "before dawn; early morning",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "停运",
-       "py": "tíngyùn",
-       "gl": "suspension of service; shutdown",
-       "pos": "v."
-      },
-      {
-       "h": "几个",
-       "py": "jǐgè",
-       "gl": "a few; several",
-       "pos": "num."
-      },
-      {
-       "h": "小时",
-       "py": "xiǎoshí",
-       "gl": "hour",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "set aside for inspecting and maintaining the tracks and equipment.",
-     "words": [
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "用来",
-       "py": "yònglái",
-       "gl": "be used for; use to",
-       "pos": "v."
-      },
-      {
-       "h": "检修",
-       "py": "jiǎnxiū",
-       "gl": "inspection and repair; maintenance",
-       "pos": "v."
       },
       {
        "h": "轨道",
        "py": "guǐdào",
-       "gl": "orbit; track",
+       "gl": "track; rail",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
-       "h": "相关",
-       "py": "xiāngguān",
-       "gl": "related; relevant",
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "with dark tropical trees behind her.",
+     "words": [
+      {
+       "h": "身后",
+       "py": "shēnhòu",
+       "gl": "behind (one)",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "黑乎乎",
+       "py": "hēihūhū",
+       "gl": "dark; pitch-black",
        "pos": "adj."
       },
       {
-       "h": "设备",
-       "py": "shèbèi",
-       "gl": "equipment; device",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "热带",
+       "py": "rèdài",
+       "gl": "tropical; tropics",
+       "pos": "adj."
+      },
+      {
+       "h": "树林",
+       "py": "shùlín",
+       "gl": "woods; grove",
        "pos": "n."
       },
       {
@@ -3462,45 +2274,39 @@
    ]
   },
   {
-   "en": "In wealthy regions such as the Yangtze River Delta, many people are used to commuting between cities by high-speed rail, leaving in the morning and getting home by evening.",
+   "en": "She raised a small hammer and tapped the rail in front of the camera: \"Dad, listen — crisp.\"",
    "phrases": [
     {
-     "en": "In wealthy regions such as the Yangtze River Delta,",
+     "en": "She raised a small hammer",
      "words": [
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "举起",
+       "py": "jǔqǐ",
+       "gl": "raise; lift up",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
        "pos": "prep."
       },
       {
-       "h": "长三角",
-       "py": "zhǎngsānjiǎo",
-       "gl": "Yangtze River Delta",
-       "pos": "proper noun"
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "经济",
-       "py": "jīngjì",
-       "gl": "economy",
-       "pos": "n."
-      },
-      {
-       "h": "发达",
-       "py": "fādá",
-       "gl": "developed; flourishing",
-       "pos": "adj."
-      },
-      {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
+       "h": "小锤",
+       "py": "xiǎochuí",
+       "gl": "small hammer",
        "pos": "n."
       },
       {
@@ -3509,37 +2315,265 @@
      ]
     },
     {
-     "en": "many people are used to commuting between cities by high-speed rail,",
+     "en": "and tapped the rail in front of the camera:",
      "words": [
       {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "pron."
+       "h": "对着",
+       "py": "duìzhe",
+       "gl": "facing; at",
+       "pos": "prep."
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "镜头",
+       "py": "jìngtóu",
+       "gl": "camera; lens; shot",
        "pos": "n."
       },
       {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "be used to; be in the habit of",
+       "h": "敲",
+       "py": "qiāo",
+       "gl": "knock",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
+      },
+      {
+       "h": "敲",
+       "py": "qiāo",
+       "gl": "knock",
+       "pos": "v."
+      },
+      {
+       "h": "钢轨",
+       "py": "gāngguǐ",
+       "gl": "rail; steel rail",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "\"Dad, listen — crisp.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "爸",
+       "py": "bà",
+       "gl": "dad",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "清脆",
+       "py": "qīngcuì",
+       "gl": "crisp; clear (of sound)",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lao Zhou smiled and replied with two words: \"All good.\"",
+   "phrases": [
+    {
+     "en": "Lao Zhou smiled and replied with two words: \"All good.\"",
+     "words": [
+      {
+       "h": "老周",
+       "py": "Lǎo Zhōu",
+       "gl": "Lao Zhou (old Zhou)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "reply",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "没事",
+       "py": "méishì",
+       "gl": "it's all right; be fine",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He remembered how in 2008, when the Beijing–Tianjin Intercity had just opened, his twelve-year-old daughter rode a high-speed train for the first time, pressing her face against the window and saying the trees were running backward.",
+   "phrases": [
+    {
+     "en": "He remembered how in 2008, when the Beijing–Tianjin Intercity had just opened,",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "想起",
+       "py": "xiǎngqǐ",
+       "gl": "remember; think of; remind (让我想起 'remind me of')",
+       "pos": "v."
+      },
+      {
+       "h": "二零零八年",
+       "py": "èr líng líng bā nián",
+       "gl": "2008",
+       "pos": "n."
+      },
+      {
+       "h": "京津城际",
+       "py": "Jīng Jīn chéngjì",
+       "gl": "Beijing–Tianjin Intercity Railway",
+       "pos": "proper noun"
+      },
+      {
+       "h": "刚",
+       "py": "gāng",
+       "gl": "just (now); only just",
+       "pos": "adv."
+      },
+      {
+       "h": "开通",
+       "py": "kāitōng",
+       "gl": "open; launch (a service, line); activate",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "his twelve-year-old daughter rode a high-speed train for the first time,",
+     "words": [
+      {
+       "h": "十二",
+       "py": "shíèr",
+       "gl": "twelve",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
       },
       {
        "h": "坐",
@@ -3550,19 +2584,127 @@
       {
        "h": "高铁",
        "py": "gāotiě",
-       "gl": "high-speed rail",
+       "gl": "high-speed rail; bullet train",
        "pos": "n."
       },
       {
-       "h": "跨城",
-       "py": "kuàchéng",
-       "gl": "intercity; across cities",
-       "pos": "adj."
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "pressing her face against the window and saying the trees were running backward.",
+     "words": [
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
       },
       {
-       "h": "通勤",
-       "py": "tōngqín",
-       "gl": "commute",
+       "h": "脸",
+       "py": "liǎn",
+       "gl": "face",
+       "pos": "n."
+      },
+      {
+       "h": "贴",
+       "py": "tiē",
+       "gl": "press against; be close to",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "窗户",
+       "py": "chuānghù",
+       "gl": "window",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "树",
+       "py": "shù",
+       "gl": "tree",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "往",
+       "py": "wǎng",
+       "gl": "toward; to",
+       "pos": "prep."
+      },
+      {
+       "h": "后",
+       "py": "hòu",
+       "gl": "after",
+       "pos": "postposition"
+      },
+      {
+       "h": "跑",
+       "py": "pǎo",
+       "gl": "run",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Back then she said that when she grew up she would build a train faster than the wind.",
+   "phrases": [
+    {
+     "en": "Back then she said",
+     "words": [
+      {
+       "h": "那时候",
+       "py": "nàshíhòu",
+       "gl": "at that time; back then",
+       "pos": "n."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
@@ -3571,23 +2713,937 @@
      ]
     },
     {
-     "en": "leaving in the morning and getting home by evening.",
+     "en": "that when she grew up she would build a train faster than the wind.",
      "words": [
       {
-       "h": "早上",
-       "py": "zǎoshàng",
-       "gl": "morning",
+       "h": "长大",
+       "py": "zhǎngdà",
+       "gl": "grow up",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "造",
+       "py": "zào",
+       "gl": "make; build",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "列",
+       "py": "liè",
+       "gl": "measure word for trains",
+       "pos": "measure word"
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "风",
+       "py": "fēng",
+       "gl": "wind",
        "pos": "n."
       },
       {
-       "h": "出发",
-       "py": "chūfā",
-       "gl": "set off; depart",
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "火车",
+       "py": "huǒchē",
+       "gl": "train",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A few days ago the news said that the new-generation CR450 had reached 450 kilometers an hour in testing.",
+   "phrases": [
+    {
+     "en": "A few days ago the news said",
+     "words": [
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "几",
+       "py": "jǐ",
+       "gl": "several; a few",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "新闻",
+       "py": "xīnwén",
+       "gl": "news",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
        "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that the new-generation CR450 had reached 450 kilometers an hour in testing.",
+     "words": [
+      {
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adj."
       },
+      {
+       "h": "一代",
+       "py": "yídài",
+       "gl": "generation",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "CR450"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "测试",
+       "py": "cèshì",
+       "gl": "test; test; trial",
+       "pos": "n."
+      },
+      {
+       "h": "中",
+       "py": "zhōng",
+       "gl": "in; during (工作中 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "跑",
+       "py": "pǎo",
+       "gl": "run",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
+       "pos": "n."
+      },
+      {
+       "h": "四百五十",
+       "py": "sìbǎiwǔshí",
+       "gl": "four hundred fifty",
+       "pos": "num."
+      },
+      {
+       "h": "公里",
+       "py": "gōnglǐ",
+       "gl": "kilometer",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "His daughter forwarded the story to the family group chat and added just one line: Still not fast enough.",
+   "phrases": [
+    {
+     "en": "His daughter forwarded the story to the family group chat",
+     "words": [
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "家庭",
+       "py": "jiātíng",
+       "gl": "family; household",
+       "pos": "adj."
+      },
+      {
+       "h": "群",
+       "py": "qún",
+       "gl": "group chat; group",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "转发",
+       "py": "zhuǎnfā",
+       "gl": "forward; repost; share",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (roads, rivers, fish), lines, messages, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "新闻",
+       "py": "xīnwén",
+       "gl": "news",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and added just one line: Still not fast enough.",
+     "words": [
+      {
+       "h": "后面",
+       "py": "hòumiàn",
+       "gl": "after (that)",
+       "pos": "n."
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "加",
+       "py": "jiā",
+       "gl": "add",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
+       "pos": "adv."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "不够",
+       "py": "bùgòu",
+       "gl": "not enough; be short of",
+       "pos": "adv."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A little after four, the edge of the sky began to pale; Lao Zhou and his coworker finished checking the last section, packed up their tools one by one, and counted them.",
+   "phrases": [
+    {
+     "en": "A little after four, the edge of the sky began to pale;",
+     "words": [
+      {
+       "h": "四",
+       "py": "sì",
+       "gl": "four",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "天边",
+       "py": "tiānbiān",
+       "gl": "horizon; edge of the sky",
+       "pos": "n."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start; beginning",
+       "pos": "v."
+      },
+      {
+       "h": "发白",
+       "py": "fābái",
+       "gl": "turn white; grow light",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "Lao Zhou and his coworker finished checking the last section,",
+     "words": [
+      {
+       "h": "老周",
+       "py": "Lǎo Zhōu",
+       "gl": "Lao Zhou (old Zhou)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
+       "pos": "adj."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "段",
+       "py": "duàn",
+       "gl": "section (of a road or railway)",
+       "pos": "n."
+      },
+      {
+       "h": "查",
+       "py": "chá",
+       "gl": "check; look up (in a dictionary, online)",
+       "pos": "v."
+      },
+      {
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "packed up their tools one by one, and counted them.",
+     "words": [
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "工具",
+       "py": "gōngjù",
+       "gl": "tool",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "件",
+       "py": "jiàn",
+       "gl": "measure word for clothing, matters, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "件",
+       "py": "jiàn",
+       "gl": "measure word for clothing, matters, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "收",
+       "py": "shōu",
+       "gl": "collect; gather up",
+       "pos": "v."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "count",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "数",
+       "py": "shù",
+       "gl": "count; number",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Not a single one could be missing: if a wrench were missing, it might have been left on the tracks.",
+   "phrases": [
+    {
+     "en": "Not a single one could be missing:",
+     "words": [
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "件",
+       "py": "jiàn",
+       "gl": "measure word for clothing, matters, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
+      },
+      {
+       "h": "少",
+       "py": "shǎo",
+       "gl": "be missing; be short of",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "if a wrench were missing,",
+     "words": [
+      {
+       "h": "少",
+       "py": "shǎo",
+       "gl": "be missing; be short of",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "扳手",
+       "py": "bānshou",
+       "gl": "wrench",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "it might have been left on the tracks.",
+     "words": [
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "可能",
+       "py": "kěnéng",
+       "gl": "maybe; perhaps; possibly",
+       "pos": "adv."
+      },
+      {
+       "h": "留",
+       "py": "liú",
+       "gl": "stay; remain",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "轨道",
+       "py": "guǐdào",
+       "gl": "track; rail",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At five past six, the first train came from the direction of Shanghai, its carriages full of people heading to work in other cities.",
+   "phrases": [
+    {
+     "en": "At five past six,",
+     "words": [
+      {
+       "h": "六",
+       "py": "liù",
+       "gl": "six",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "零",
+       "py": "líng",
+       "gl": "zero",
+       "pos": "num."
+      },
+      {
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
+       "pos": "num."
+      },
+      {
+       "h": "分",
+       "py": "fēn",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the first train came from the direction of Shanghai,",
+     "words": [
+      {
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
+      },
+      {
+       "h": "趟",
+       "py": "tàng",
+       "gl": "measure word for trips",
+       "pos": "measure word"
+      },
+      {
+       "h": "列车",
+       "py": "lièchē",
+       "gl": "train",
+       "pos": "n."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "上海",
+       "py": "shànghǎi",
+       "gl": "Shanghai",
+       "pos": "proper noun"
+      },
+      {
+       "h": "方向",
+       "py": "fāngxiàng",
+       "gl": "direction",
+       "pos": "n."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "go; run (of a vehicle)",
+       "pos": "v."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "its carriages full of people heading to work in other cities.",
+     "words": [
+      {
+       "h": "车厢",
+       "py": "chēxiāng",
+       "gl": "train car; carriage",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "坐满",
+       "py": "zuòmǎn",
+       "gl": "be full (of seated people)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "别的",
+       "py": "biéde",
+       "gl": "other; else",
+       "pos": "pron."
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "上班",
+       "py": "shàngbān",
+       "gl": "go to work; work",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "They had scanned their ID cards or their faces to get in, they would doze on the train, and by evening they'd be back home.",
+   "phrases": [
+    {
+     "en": "They had scanned their ID cards or their faces to get in,",
+     "words": [
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "刷",
+       "py": "shuā",
+       "gl": "swipe; scan (an ID card)",
+       "pos": "v."
+      },
+      {
+       "h": "身份证",
+       "py": "shēnfènzhèng",
+       "gl": "ID card",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "刷",
+       "py": "shuā",
+       "gl": "scan (one's face)",
+       "pos": "v."
+      },
+      {
+       "h": "脸",
+       "py": "liǎn",
+       "gl": "face",
+       "pos": "n."
+      },
+      {
+       "h": "进站",
+       "py": "jìnzhàn",
+       "gl": "enter the station",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "they would doze on the train,",
+     "words": [
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "车",
+       "py": "chē",
+       "gl": "train",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "打盹",
+       "py": "dǎdǔn",
+       "gl": "doze; take a nap",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and by evening they'd be back home.",
+     "words": [
       {
        "h": "傍晚",
        "py": "bàngwǎn",
@@ -3597,7 +3653,7 @@
       {
        "h": "就",
        "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
@@ -3626,45 +3682,168 @@
    ]
   },
   {
-   "en": "From the opening of the Beijing–Tianjin intercity line in 2008 to a network that now covers most of China, high-speed rail has profoundly changed how Chinese people think about travel and how they live.",
+   "en": "They didn't know that last night someone had tapped this bridge, bolt by bolt.",
    "phrases": [
     {
-     "en": "From the opening of the Beijing–Tianjin intercity line in 2008",
+     "en": "They didn't know",
      "words": [
       {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from (从…到… from … to …)",
-       "pos": "prep."
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
       },
       {
-       "h": "二零零八",
-       "py": "èrlínglíngbā",
-       "gl": "2008 (two thousand eight)",
-       "pos": "num."
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that last night someone had tapped this bridge, bolt by bolt.",
+     "words": [
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "座",
+       "py": "zuò",
+       "gl": "measure word for bridges",
+       "pos": "measure word"
+      },
+      {
+       "h": "桥",
+       "py": "qiáo",
+       "gl": "bridge",
        "pos": "n."
       },
       {
-       "h": "京津",
-       "py": "jīngjīn",
-       "gl": "Beijing–Tianjin",
-       "pos": "proper noun"
+       "h": "昨天",
+       "py": "zuótiān",
+       "gl": "yesterday",
+       "pos": "n."
       },
       {
-       "h": "城际",
-       "py": "chéngjì",
-       "gl": "intercity",
-       "pos": "adj."
+       "h": "夜里",
+       "py": "yèlǐ",
+       "gl": "at night",
+       "pos": "n."
       },
       {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "颗",
+       "py": "kē",
+       "gl": "measure word for small round things (teeth, grains)",
+       "pos": "measure word"
+      },
+      {
+       "h": "螺丝",
+       "py": "luósī",
+       "gl": "bolt; screw",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "颗",
+       "py": "kē",
+       "gl": "measure word for small round things (teeth, grains)",
+       "pos": "measure word"
+      },
+      {
+       "h": "螺丝",
+       "py": "luósī",
+       "gl": "bolt; screw",
+       "pos": "n."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "敲",
+       "py": "qiāo",
+       "gl": "knock",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "一遍",
+       "py": "yībiàn",
+       "gl": "once (from start to finish); one time through",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Since this line opened, it has carried more than 2.3 billion passenger trips, and Lao Zhou doesn't know a single one of those passengers.",
+   "phrases": [
+    {
+     "en": "Since this line opened, it has carried more than 2.3 billion passenger trips,",
+     "words": [
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "线路",
+       "py": "xiànlù",
+       "gl": "line; circuit; route",
        "pos": "n."
       },
       {
@@ -3674,62 +3853,13 @@
        "pos": "v."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to a network that now covers most of China,",
-     "words": [
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "until; up to (time)",
-       "pos": "prep."
-      },
-      {
-       "h": "如今",
-       "py": "rújīn",
-       "gl": "nowadays; now",
-       "pos": "n."
-      },
-      {
-       "h": "覆盖",
-       "py": "fùgài",
-       "gl": "cover; coverage",
-       "pos": "v."
-      },
-      {
-       "h": "大半",
-       "py": "dàbàn",
-       "gl": "more than half; most",
-       "pos": "n."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "measure word (general, for people and things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
+       "h": "以来",
+       "py": "yǐlái",
+       "gl": "since (长期以来 for a long time)",
+       "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "high-speed rail has profoundly changed how Chinese people think about travel and how they live.",
-     "words": [
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail",
-       "pos": "n."
       },
       {
        "h": "已经",
@@ -3738,63 +3868,194 @@
        "pos": "adv."
       },
       {
-       "h": "深刻",
-       "py": "shēnkè",
-       "gl": "profound; deep (of thought, feeling)",
-       "pos": "adv."
-      },
-      {
-       "h": "改变",
-       "py": "gǎibiàn",
-       "gl": "change; transform",
+       "h": "运送",
+       "py": "yùnsòng",
+       "gl": "transport; deliver",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "中国人",
-       "py": "zhōngguórén",
-       "gl": "Chinese person; the Chinese",
+       "h": "二十三亿",
+       "py": "èrshísānyì",
+       "gl": "2.3 billion",
+       "pos": "num."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "more (than)",
+       "pos": "adv."
+      },
+      {
+       "h": "人次",
+       "py": "réncì",
+       "gl": "person-time (count of trips)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and Lao Zhou doesn't know a single one of those passengers.",
+     "words": [
+      {
+       "h": "老周",
+       "py": "Lǎo Zhōu",
+       "gl": "Lao Zhou (old Zhou)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "认识",
+       "py": "rènshí",
+       "gl": "know (a person, a character); get to know; recognize",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He stood under the bridge and watched the train flash past; the wind blew over, carrying a faint smell of river water.",
+   "phrases": [
+    {
+     "en": "He stood under the bridge and watched the train flash past;",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "桥",
+       "py": "qiáo",
+       "gl": "bridge",
+       "pos": "n."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "under (强光下 under bright light)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "look at; watching",
+       "pos": "v."
+      },
+      {
+       "h": "列车",
+       "py": "lièchē",
+       "gl": "train",
+       "pos": "n."
+      },
+      {
+       "h": "一闪而过",
+       "py": "yì shǎn ér guò",
+       "gl": "flash past (idiom)",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the wind blew over, carrying a faint smell of river water.",
+     "words": [
+      {
+       "h": "风",
+       "py": "fēng",
+       "gl": "wind",
+       "pos": "n."
+      },
+      {
+       "h": "吹",
+       "py": "chuī",
+       "gl": "blow",
+       "pos": "v."
+      },
+      {
+       "h": "过来",
+       "py": "guòlái",
+       "gl": "come over; (after a verb) toward the speaker",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "带着",
+       "py": "dàizhe",
+       "gl": "with; carrying; taking along",
+       "pos": "v."
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "江水",
+       "py": "jiāngshuǐ",
+       "gl": "river water",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "出行",
-       "py": "chūxíng",
-       "gl": "travel; getting around",
-       "pos": "n."
-      },
-      {
-       "h": "观念",
-       "py": "guānniàn",
-       "gl": "idea; notion; concept",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
+       "h": "味道",
+       "py": "wèidào",
+       "gl": "smell; odor",
        "pos": "n."
       },
       {
@@ -3805,61 +4066,17 @@
    ]
   },
   {
-   "en": "Buying tickets and entering stations keep getting easier: passengers now just tap their ID card, or even scan their face, to pass quickly through the ticket gates.",
+   "en": "Whether or not the passengers know, he still feels that this gust of wind holds a share of his.",
    "phrases": [
     {
-     "en": "Buying tickets and entering stations keep getting easier:",
+     "en": "Whether or not the passengers know,",
      "words": [
       {
-       "h": "购票",
-       "py": "gòupiào",
-       "gl": "buy tickets",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
+       "h": "不管",
+       "py": "bùguǎn",
+       "gl": "no matter; regardless of",
        "pos": "conj."
       },
-      {
-       "h": "进站",
-       "py": "jìnzhàn",
-       "gl": "enter the station",
-       "pos": "n."
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "便捷",
-       "py": "biànjié",
-       "gl": "convenient; quick",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "passengers now just tap their ID card, or even scan their face,",
-     "words": [
       {
        "h": "乘客",
        "py": "chéngkè",
@@ -3867,48 +4084,21 @@
        "pos": "n."
       },
       {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need to; have to",
+       "h": "知",
+       "py": "zhī",
+       "gl": "know",
        "pos": "v."
       },
       {
-       "h": "刷",
-       "py": "shuā",
-       "gl": "scan; swipe (a card)",
-       "pos": "v."
-      },
-      {
-       "h": "身份证",
-       "py": "shēnfènzhèng",
-       "gl": "ID card",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
        "pos": "adv."
       },
       {
-       "h": "刷脸",
-       "py": "shuāliǎn",
-       "gl": "scan one's face; face recognition",
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
        "pos": "v."
       },
       {
@@ -3917,37 +4107,76 @@
      ]
     },
     {
-     "en": "to pass quickly through the ticket gates.",
+     "en": "he still feels that this gust of wind holds a share of his.",
      "words": [
       {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
        "pos": "adv."
       },
       {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
        "pos": "v."
       },
       {
-       "h": "快速",
-       "py": "kuàisù",
-       "gl": "fast; rapid",
-       "pos": "adv."
+       "h": "，"
       },
       {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "pass through; get through",
-       "pos": "v."
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
       },
       {
-       "h": "检票口",
-       "py": "jiǎnpiàokǒu",
-       "gl": "ticket gate",
+       "h": "阵",
+       "py": "zhèn",
+       "gl": "measure word for short spells (a gust, a burst, a pang)",
+       "pos": "measure word"
+      },
+      {
+       "h": "风",
+       "py": "fēng",
+       "gl": "wind",
        "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "一份",
+       "py": "yīfèn",
+       "gl": "a measure of; a share of (trust, respect, etc.)",
+       "pos": "measure word"
       },
       {
        "h": "。"

@@ -1,47 +1,35 @@
 {
  "id": "l6fooddelivery1",
  "level": 6,
- "title_zh": "点外卖的生活",
- "title_en": "Living on Takeout",
+ "title_zh": "汤还是热的",
+ "title_en": "The Soup Is Still Hot",
  "free": false,
  "audio_url": null,
- "note_en": "不管…还是…，只要…就… stacks two patterns: 不管加班到很晚，还是懒得做饭，只要打开手机上的外卖软件，就能… \"whether you've worked late or just can't be bothered to cook, all you have to do is open the delivery app and you can …\" 不管 sets aside the circumstances (\"no matter\"), and 只要…就… gives the one condition that is enough. In English \"as long as\" or \"all you need to do is\" usually sounds more natural than a literal \"only if.\"",
+ "note_en": "不管是 A，还是 B means \"whether A or B, …\": whichever case it is, the outcome stays the same. In the text: 不管是加班到深夜，还是周末懒得下床，她的晚饭几乎都是从这个软件里来的 \"whether she's working late into the night or too lazy to get out of bed on the weekend, her dinner almost always comes from this app.\" The second half usually has 都 or 也 (or 永远, as in 饭桌上永远有一碗热汤) to show the result doesn't change.",
  "sentences": [
   {
-   "en": "For many Chinese people today, ordering takeout has become a habit they can't live without.",
+   "en": "At eleven at night only the sound of keyboards was left in the office tower, and Xia Wen's stomach growled for the third time.",
    "phrases": [
     {
-     "en": "For many Chinese people today,",
+     "en": "At eleven at night",
      "words": [
       {
-       "h": "对",
-       "py": "duì",
-       "gl": "for; to (对…来说 'for…, as far as … is concerned')",
-       "pos": "prep."
-      },
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
        "pos": "n."
       },
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
+       "h": "十一",
+       "py": "shíyī",
+       "gl": "eleven (双十一 Singles' Day, Nov. 11)",
+       "pos": "num."
       },
       {
-       "h": "中国人",
-       "py": "zhōngguórén",
-       "gl": "Chinese person; the Chinese",
-       "pos": "n."
-      },
-      {
-       "h": "来说",
-       "py": "láishuō",
-       "gl": "as for; for (对…来说 for someone)",
-       "pos": "particle"
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
       },
       {
        "h": "，"
@@ -49,8 +37,189 @@
      ]
     },
     {
-     "en": "ordering takeout has become a habit they can't live without.",
+     "en": "only the sound of keyboards was left in the office tower,",
      "words": [
+      {
+       "h": "写字楼",
+       "py": "xiězìlóu",
+       "gl": "office building",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "剩下",
+       "py": "shèngxià",
+       "gl": "be left (over); remain",
+       "pos": "v."
+      },
+      {
+       "h": "键盘",
+       "py": "jiànpán",
+       "gl": "keyboard",
+       "pos": "n."
+      },
+      {
+       "h": "声",
+       "py": "shēng",
+       "gl": "measure word for sounds and utterances; sound",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and Xia Wen's stomach growled for the third time.",
+     "words": [
+      {
+       "h": "夏雯",
+       "py": "Xià Wén",
+       "gl": "Xia Wen (name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "肚子",
+       "py": "dǔzi",
+       "gl": "stomach; belly",
+       "pos": "n."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "growl; rumble (of a stomach)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "第三",
+       "py": "dìsān",
+       "gl": "third",
+       "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She opened the food delivery app, swiped back and forth among more than ten thousand restaurants, and finally ordered her usual bowl of beef noodles.",
+   "phrases": [
+    {
+     "en": "She opened the food delivery app,",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "外卖软件",
+       "py": "wàimài ruǎnjiàn",
+       "gl": "food delivery app",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "swiped back and forth among more than ten thousand restaurants,",
+     "words": [
+      {
+       "h": "手指",
+       "py": "shǒuzhǐ",
+       "gl": "finger",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "一万多",
+       "py": "yíwàn duō",
+       "gl": "more than ten thousand",
+       "pos": "num."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "餐厅",
+       "py": "cāntīng",
+       "gl": "restaurant",
+       "pos": "n."
+      },
+      {
+       "h": "之间",
+       "py": "zhījiān",
+       "gl": "between; among",
+       "pos": "postposition"
+      },
+      {
+       "h": "滑来滑去",
+       "py": "huá lái huá qù",
+       "gl": "swipe back and forth",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and finally ordered her usual bowl of beef noodles.",
+     "words": [
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "the end; in the end",
+       "pos": "adv."
+      },
       {
        "h": "点",
        "py": "diǎn",
@@ -58,57 +227,51 @@
        "pos": "v."
       },
       {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "成",
-       "py": "chéng",
-       "gl": "into (after a verb: 翻译成 translate into); become; turn into",
-       "pos": "v."
-      },
-      {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
       },
       {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "postposition"
+       "h": "碗",
+       "py": "wǎn",
+       "gl": "bowl (also measure word)",
+       "pos": "measure word"
       },
       {
-       "h": "离不开",
-       "py": "líbukāi",
-       "gl": "can't do without",
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "常",
+       "py": "cháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
        "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "habit",
+       "h": "牛肉面",
+       "py": "niúròumiàn",
+       "gl": "beef noodles",
        "pos": "n."
       },
       {
@@ -119,10 +282,10 @@
    ]
   },
   {
-   "en": "Whether you've worked late or just can't be bothered to cook, all you have to do is open a delivery app on your phone and you can choose whatever you feel like eating from thousands of restaurants.",
+   "en": "Whether she was working late into the night or too lazy to get out of bed on the weekend, her dinner almost always came from this app.",
    "phrases": [
     {
-     "en": "Whether you've worked late or just can't be bothered to cook,",
+     "en": "Whether she was working late into the night",
      "words": [
       {
        "h": "不管",
@@ -149,25 +312,30 @@
        "pos": "prep."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "晚",
-       "py": "wǎn",
-       "gl": "late",
-       "pos": "adj."
+       "h": "深夜",
+       "py": "shēnyè",
+       "gl": "late at night; dead of night",
+       "pos": "n."
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "or too lazy to get out of bed on the weekend,",
+     "words": [
       {
        "h": "还是",
-       "py": "háishi",
+       "py": "háishì",
        "gl": "or (in questions)",
        "pos": "conj."
+      },
+      {
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
+       "pos": "n."
       },
       {
        "h": "懒得",
@@ -176,9 +344,9 @@
        "pos": "v."
       },
       {
-       "h": "做饭",
-       "py": "zuòfàn",
-       "gl": "cook; make a meal",
+       "h": "下床",
+       "py": "xiàchuáng",
+       "gl": "get out of bed",
        "pos": "v."
       },
       {
@@ -187,578 +355,25 @@
      ]
     },
     {
-     "en": "all you have to do is open a delivery app on your phone,",
+     "en": "her dinner almost always came from this app.",
      "words": [
       {
-       "h": "只要",
-       "py": "zhǐyào",
-       "gl": "as long as; if only",
-       "pos": "conj."
-      },
-      {
-       "h": "打开",
-       "py": "dǎkāi",
-       "gl": "open",
-       "pos": "v."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "软件",
-       "py": "ruǎnjiàn",
-       "gl": "app; software",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and you can choose whatever you feel like eating from thousands of restaurants.",
-     "words": [
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "成千上万",
-       "py": "chéngqiānshàngwàn",
-       "gl": "thousands upon thousands",
-       "pos": "phrase"
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "measure word for shops, businesses",
-       "pos": "measure word"
-      },
-      {
-       "h": "餐厅",
-       "py": "cāntīng",
-       "gl": "restaurant",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "挑选",
-       "py": "tiāoxuǎn",
-       "gl": "choose; pick; select",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like",
-       "pos": "function word"
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
-      },
-      {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "菜",
-       "py": "cài",
-       "gl": "dish (food)",
+       "h": "晚饭",
+       "py": "wǎnfàn",
+       "gl": "dinner; supper",
        "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The app shows each restaurant's rating, reviews, and estimated delivery time, so customers can choose with confidence.",
-   "phrases": [
-    {
-     "en": "The app shows each restaurant's rating, reviews, and estimated delivery time,",
-     "words": [
-      {
-       "h": "软件",
-       "py": "ruǎnjiàn",
-       "gl": "app; software",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "显示",
-       "py": "xiǎnshì",
-       "gl": "show; indicate",
-       "pos": "v."
-      },
-      {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
-       "pos": "pron."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "measure word for shops, businesses",
-       "pos": "measure word"
-      },
-      {
-       "h": "店",
-       "py": "diàn",
-       "gl": "shop; store; place (business)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "评分",
-       "py": "píngfēn",
-       "gl": "score; rating",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "评论",
-       "py": "pínglùn",
-       "gl": "comment; review; critics",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "大概",
-       "py": "dàgài",
-       "gl": "approximate",
-       "pos": "adv."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "送达",
-       "py": "sòngdá",
-       "gl": "deliver (to the destination)",
-       "pos": "v."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so customers can choose with confidence.",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "顾客",
-       "py": "gùkè",
-       "gl": "customer; client",
-       "pos": "n."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "function word"
-      },
-      {
-       "h": "放心",
-       "py": "fàngxīn",
-       "gl": "feel at ease; stop worrying",
-       "pos": "v."
-      },
-      {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (认真地 'carefully')",
-       "pos": "particle"
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "选择",
-       "py": "xuǎnzé",
-       "gl": "choose; choice",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After ordering, customers can even track the courier's location in real time and know roughly when their food will arrive.",
-   "phrases": [
-    {
-     "en": "After ordering, customers can even track the courier's location in real time",
-     "words": [
-      {
-       "h": "点完",
-       "py": "diǎnwán",
-       "gl": "finish ordering",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "顾客",
-       "py": "gùkè",
-       "gl": "customer; client",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "实时",
-       "py": "shíshí",
-       "gl": "real-time",
-       "pos": "adv."
-      },
-      {
-       "h": "查看",
-       "py": "chákàn",
-       "gl": "check; look at",
-       "pos": "v."
-      },
-      {
-       "h": "骑手",
-       "py": "qíshǒu",
-       "gl": "delivery rider; courier",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "位置",
-       "py": "wèizhi",
-       "gl": "position; location; place",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and know roughly when their food will arrive.",
-     "words": [
-      {
-       "h": "知道",
-       "py": "zhīdào",
-       "gl": "know",
-       "pos": "v."
-      },
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "大概",
-       "py": "dàgài",
-       "gl": "approximate",
-       "pos": "adv."
-      },
-      {
-       "h": "什么时候",
-       "py": "shénmeshíhou",
-       "gl": "when",
-       "pos": "question word"
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "送到",
-       "py": "sòngdào",
-       "gl": "deliver",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "For many young people, takeout isn't just convenient; it also offers far more variety than cooking at home: from home-style dishes to cuisines from around the world, you can order almost anything.",
-   "phrases": [
-    {
-     "en": "For many young people, takeout isn't just convenient;",
-     "words": [
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "for; to (对…来说 'for…, as far as … is concerned')",
-       "pos": "prep."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "年轻人",
-       "py": "niánqīngrén",
-       "gl": "young people",
-       "pos": "n."
-      },
-      {
-       "h": "来说",
-       "py": "láishuō",
-       "gl": "as for; for (对…来说 for someone)",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "不仅",
-       "py": "bùjǐn",
-       "gl": "not only",
-       "pos": "conj."
-      },
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it also offers far more variety than cooking at home:",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "提供",
-       "py": "tígōng",
-       "gl": "provide",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "做饭",
-       "py": "zuòfàn",
-       "gl": "cook; make a meal",
-       "pos": "v."
-      },
-      {
-       "h": "丰富",
-       "py": "fēngfù",
-       "gl": "rich; varied; extensive",
-       "pos": "adj."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its degree or result (发展得很快 develop fast)",
-       "pos": "particle"
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "much (more) (after comparison: 方便多了 'much more convenient')",
-       "pos": "adv."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "选择",
-       "py": "xuǎnzé",
-       "gl": "choice; option",
-       "pos": "n."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "from home-style dishes to cuisines from around the world, you can order almost anything.",
-     "words": [
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "家常菜",
-       "py": "jiāchángcài",
-       "gl": "home cooking; home-style dish",
-       "pos": "n."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; up to (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "各国",
-       "py": "gèguó",
-       "gl": "every country; various countries",
-       "pos": "n."
-      },
-      {
-       "h": "料理",
-       "py": "liàolǐ",
-       "gl": "cuisine; dishes",
-       "pos": "n."
-      },
-      {
-       "h": "，"
       },
       {
        "h": "几乎",
@@ -767,562 +382,9 @@
        "pos": "adv."
       },
       {
-       "h": "什么",
-       "py": "shénme",
-       "gl": "what",
-       "pos": "question word"
-      },
-      {
        "h": "都",
        "py": "dōu",
        "gl": "all; both; even; already",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "叫到",
-       "py": "jiàodào",
-       "gl": "order (delivery, takeout)",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Some people worry, though, that ordering takeout all the time makes people less and less willing to cook and gradually robs them of the joy of cooking.",
-   "phrases": [
-    {
-     "en": "Some people worry, though, that ordering takeout all the time makes people less and less willing to cook",
-     "words": [
-      {
-       "h": "不过",
-       "py": "búguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "担心",
-       "py": "dānxīn",
-       "gl": "worry",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "经常",
-       "py": "jīngcháng",
-       "gl": "often",
-       "pos": "adv."
-      },
-      {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "order (food, etc.)",
-       "pos": "v."
-      },
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "愿意",
-       "py": "yuànyì",
-       "gl": "be willing",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "下厨",
-       "py": "xiàchú",
-       "gl": "cook; go into the kitchen",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and gradually robs them of the joy of cooking.",
-     "words": [
-      {
-       "h": "渐渐",
-       "py": "jiànjiàn",
-       "gl": "gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "失去",
-       "py": "shīqù",
-       "gl": "lose",
-       "pos": "v."
-      },
-      {
-       "h": "做饭",
-       "py": "zuòfàn",
-       "gl": "cook; make a meal",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "乐趣",
-       "py": "lèqù",
-       "gl": "fun; delight; pleasure",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "At present, China's food delivery market is dominated by two big platforms, Meituan and Ele.me, and the competition between them has given consumers more discounts and faster service.",
-   "phrases": [
-    {
-     "en": "At present,",
-     "words": [
-      {
-       "h": "目前",
-       "py": "mùqián",
-       "gl": "currently; at present",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "China's food delivery market is dominated by two big platforms, Meituan and Ele.me,",
-     "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "市场",
-       "py": "shìchǎng",
-       "gl": "market",
-       "pos": "n."
-      },
-      {
-       "h": "主要",
-       "py": "zhǔyào",
-       "gl": "main; mainly",
-       "pos": "adv."
-      },
-      {
-       "h": "由",
-       "py": "yóu",
-       "gl": "by (marks the agent)",
-       "pos": "prep."
-      },
-      {
-       "h": "美团",
-       "py": "měituán",
-       "gl": "Meituan (Chinese delivery and services platform)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "饿了么",
-       "py": "èleme",
-       "gl": "Ele.me (food delivery platform)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "占据",
-       "py": "zhànjù",
-       "gl": "occupy; take up",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the competition between them has given consumers more discounts and faster service.",
-     "words": [
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "measure word for shops, businesses; home; family",
-       "pos": "measure word"
-      },
-      {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company",
-       "pos": "n."
-      },
-      {
-       "h": "之间",
-       "py": "zhījiān",
-       "gl": "between; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "竞争",
-       "py": "jìngzhēng",
-       "gl": "competition",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "享受",
-       "py": "xiǎngshòu",
-       "gl": "enjoy; enjoyment; pleasure",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
-       "pos": "function word"
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "更多",
-       "py": "gèngduō",
-       "gl": "more; even more",
-       "pos": "adj."
-      },
-      {
-       "h": "优惠",
-       "py": "yōuhuì",
-       "gl": "discount; special offer; preferential",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "快",
-       "py": "kuài",
-       "gl": "fast; quick",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Besides meals, these platforms can now also pick up medicine, deliver flowers, and even shop for everyday household goods for you; delivery has long been about more than just bringing food.",
-   "phrases": [
-    {
-     "en": "Besides meals,",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "点餐",
-       "py": "diǎncān",
-       "gl": "order food",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "these platforms can now also pick up medicine, deliver flowers, and even shop for everyday household goods for you;",
-     "words": [
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "帮忙",
-       "py": "bāngmáng",
-       "gl": "help; do a favor",
-       "pos": "v."
-      },
-      {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
-       "pos": "v."
-      },
-      {
-       "h": "药",
-       "py": "yào",
-       "gl": "medicine",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "送",
-       "py": "sòng",
-       "gl": "give (as a gift); see off; send; deliver",
-       "pos": "v."
-      },
-      {
-       "h": "花",
-       "py": "huā",
-       "gl": "flower",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "adv."
-      },
-      {
-       "h": "代买",
-       "py": "dàimǎi",
-       "gl": "buy on someone's behalf",
-       "pos": "v."
-      },
-      {
-       "h": "日用",
-       "py": "rìyòng",
-       "gl": "everyday; for daily use",
-       "pos": "adj."
-      },
-      {
-       "h": "百货",
-       "py": "bǎihuò",
-       "gl": "general merchandise; everyday goods",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "delivery has long been about more than just bringing food.",
-     "words": [
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "早已",
-       "py": "zǎoyǐ",
-       "gl": "long ago; long since",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
        "pos": "adv."
       },
       {
@@ -1332,27 +394,39 @@
        "pos": "v."
       },
       {
-       "h": "送饭",
-       "py": "sòngfàn",
-       "gl": "deliver food; bring meals",
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "软件",
+       "py": "ruǎnjiàn",
+       "gl": "app; software",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
        "pos": "v."
       },
       {
-       "h": "那么",
-       "py": "nàme",
-       "gl": "so; that (much)",
-       "pos": "adv."
-      },
-      {
-       "h": "简单",
-       "py": "jiǎndān",
-       "gl": "simple; easy",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -1363,52 +437,60 @@
    ]
   },
   {
-   "en": "For safety and management reasons, many universities don't allow delivery workers on campus, so couriers can only leave orders on racks at the school gate for students to come out and collect.",
+   "en": "The page said: estimated delivery in thirty-five minutes; the rider is picking up your order.",
    "phrases": [
     {
-     "en": "For safety and management reasons,",
+     "en": "The page said:",
      "words": [
       {
-       "h": "出于",
-       "py": "chūyú",
-       "gl": "out of; for (reasons of)",
-       "pos": "prep."
-      },
-      {
-       "h": "安全",
-       "py": "ānquán",
-       "gl": "safety",
+       "h": "页面",
+       "py": "yèmiàn",
+       "gl": "page",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
-       "h": "管理",
-       "py": "guǎnlǐ",
-       "gl": "manage; run",
-       "pos": "n."
+       "h": "显示",
+       "py": "xiǎnshì",
+       "gl": "show; indicate",
+       "pos": "v."
       },
       {
-       "h": "方面",
-       "py": "fāngmiàn",
-       "gl": "aspect; respect; side",
-       "pos": "n."
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "estimated delivery in thirty-five minutes;",
+     "words": [
+      {
+       "h": "预计",
+       "py": "yùjì",
+       "gl": "estimated; expected",
+       "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
+       "h": "三十五",
+       "py": "sānshíwǔ",
+       "gl": "thirty-five",
+       "pos": "num."
       },
       {
-       "h": "考虑",
-       "py": "kǎolǜ",
-       "gl": "consideration",
-       "pos": "n."
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "送达",
+       "py": "sòngdá",
+       "gl": "deliver (to the destination)",
+       "pos": "v."
       },
       {
        "h": "，"
@@ -1416,116 +498,260 @@
      ]
     },
     {
-     "en": "many universities don't allow delivery workers on campus,",
-     "words": [
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "高校",
-       "py": "gāoxiào",
-       "gl": "college; university",
-       "pos": "n."
-      },
-      {
-       "h": "规定",
-       "py": "guīdìng",
-       "gl": "stipulate; prescribe",
-       "pos": "v."
-      },
-      {
-       "h": "外卖员",
-       "py": "wàimàiyuán",
-       "gl": "food delivery courier",
-       "pos": "n."
-      },
-      {
-       "h": "不能",
-       "py": "bùnéng",
-       "gl": "cannot; be unable to",
-       "pos": "v."
-      },
-      {
-       "h": "进入",
-       "py": "jìnrù",
-       "gl": "enter; get into",
-       "pos": "v."
-      },
-      {
-       "h": "校园",
-       "py": "xiàoyuán",
-       "gl": "campus",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so couriers can only leave orders on racks at the school gate,",
+     "en": "the rider is picking up your order.",
      "words": [
       {
        "h": "骑手",
        "py": "qíshǒu",
-       "gl": "delivery rider; courier",
+       "gl": "delivery rider",
        "pos": "n."
       },
       {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
+       "h": "正在",
+       "py": "zhèngzài",
+       "gl": "be in the middle of (doing)",
        "pos": "adv."
       },
       {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
+       "h": "取餐",
+       "py": "qǔcān",
+       "gl": "pick up food (an order)",
        "pos": "v."
       },
       {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Watching the tiny rider icon on the map, she revised her proposal while glancing now and then to see where it had gotten to.",
+   "phrases": [
+    {
+     "en": "Watching the tiny rider icon on the map,",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "look at; watching",
+       "pos": "v."
+      },
+      {
+       "h": "地图",
+       "py": "dìtú",
+       "gl": "map",
        "pos": "n."
       },
       {
-       "h": "放",
-       "py": "fàng",
-       "gl": "put; place",
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "小小",
+       "py": "xiǎoxiǎo",
+       "gl": "little; tiny",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "骑手",
+       "py": "qíshǒu",
+       "gl": "delivery rider",
+       "pos": "n."
+      },
+      {
+       "h": "图标",
+       "py": "túbiāo",
+       "gl": "icon",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she revised her proposal",
+     "words": [
+      {
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "改",
+       "py": "gǎi",
+       "gl": "change; revise; correct",
+       "pos": "v."
+      },
+      {
+       "h": "方案",
+       "py": "fāngàn",
+       "gl": "plan; proposal",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "while glancing now and then to see where it had gotten to.",
+     "words": [
+      {
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "时不时",
+       "py": "shíbùshí",
+       "gl": "from time to time; every now and then",
+       "pos": "adv."
+      },
+      {
+       "h": "瞄",
+       "py": "miáo",
+       "gl": "glance",
+       "pos": "v."
+      },
+      {
+       "h": "一眼",
+       "py": "yīyǎn",
+       "gl": "one glance; at a glance",
+       "pos": "measure word"
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "哪里",
+       "py": "nǎlǐ",
+       "gl": "where",
+       "pos": "question word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Outside, a heavy rain suddenly started, the drops pounding the glass as if someone outside were frantically knocking.",
+   "phrases": [
+    {
+     "en": "Outside, a heavy rain suddenly started,",
+     "words": [
+      {
+       "h": "窗外",
+       "py": "chuāngwài",
+       "gl": "outside the window",
+       "pos": "n."
+      },
+      {
+       "h": "忽然",
+       "py": "hūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "under (强光下 under bright light)",
+       "pos": "postposition"
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "(complement: start an action)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "大雨",
+       "py": "dàyǔ",
+       "gl": "heavy rain",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the drops pounding the glass",
+     "words": [
+      {
+       "h": "雨点",
+       "py": "yǔdiǎn",
+       "gl": "raindrops",
+       "pos": "n."
+      },
+      {
+       "h": "砸",
+       "py": "zá",
+       "gl": "smash; pound",
        "pos": "v."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "校门口",
-       "py": "xiàoménkǒu",
-       "gl": "school gate; campus entrance",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "架子",
-       "py": "jiàzi",
-       "gl": "shelf; rack; frame",
+       "h": "玻璃",
+       "py": "bōlí",
+       "gl": "glass",
        "pos": "n."
       },
       {
@@ -1540,36 +766,42 @@
      ]
     },
     {
-     "en": "for students to come out and collect.",
+     "en": "as if someone outside were frantically knocking.",
      "words": [
       {
-       "h": "由",
-       "py": "yóu",
-       "gl": "by (marks the agent)",
-       "pos": "prep."
-      },
-      {
-       "h": "学生",
-       "py": "xuéshēng",
-       "gl": "student",
-       "pos": "n."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "出来",
-       "py": "chūlái",
-       "gl": "directional complement: out; into being",
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
        "pos": "v."
       },
       {
-       "h": "取",
-       "py": "qǔ",
-       "gl": "take; get; pick up; collect",
+       "h": "有人",
+       "py": "yǒurén",
+       "gl": "someone; some people",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "外面",
+       "py": "wàimiàn",
+       "gl": "outside",
+       "pos": "n."
+      },
+      {
+       "h": "拼命",
+       "py": "pīnmìng",
+       "gl": "desperately; with all one's might",
+       "pos": "adv."
+      },
+      {
+       "h": "敲门",
+       "py": "qiāomén",
+       "gl": "knock on the door",
        "pos": "v."
       },
       {
@@ -1580,71 +812,74 @@
    ]
   },
   {
-   "en": "On rainy days or holidays, when orders pile up, delivery times often get longer, and some apps temporarily raise delivery fees, using price to balance supply and demand.",
+   "en": "The app popped up a notice: due to the weather, delivery may take longer, and the delivery fee has been temporarily raised by two yuan.",
    "phrases": [
     {
-     "en": "On rainy days or holidays, when orders pile up,",
+     "en": "The app popped up a notice:",
      "words": [
       {
-       "h": "下雨天",
-       "py": "xiàyǔtiān",
-       "gl": "rainy day",
+       "h": "软件",
+       "py": "ruǎnjiàn",
+       "gl": "app; software",
        "pos": "n."
       },
       {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
+       "h": "弹出",
+       "py": "dànchū",
+       "gl": "pop up",
+       "pos": "v."
       },
       {
-       "h": "节假日",
-       "py": "jiéjiàrì",
-       "gl": "holiday; festivals and holidays",
-       "pos": "n."
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
       },
       {
-       "h": "订单",
-       "py": "dìngdān",
-       "gl": "order",
-       "pos": "n."
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
       },
       {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly",
-       "pos": "adv."
+       "h": "提示",
+       "py": "tíshì",
+       "gl": "notice; reminder; prompt; cue; hint",
+       "pos": "v."
       },
       {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
+       "h": "："
       }
      ]
     },
     {
-     "en": "delivery times often get longer,",
+     "en": "due to the weather, delivery may take longer,",
      "words": [
       {
-       "h": "送餐",
-       "py": "sòngcān",
-       "gl": "deliver food; food delivery",
+       "h": "因",
+       "py": "yīn",
+       "gl": "because of; due to",
+       "pos": "prep."
+      },
+      {
+       "h": "天气",
+       "py": "tiānqì",
+       "gl": "weather",
+       "pos": "n."
+      },
+      {
+       "h": "原因",
+       "py": "yuányīn",
+       "gl": "reason; cause",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "配送",
+       "py": "pèisòng",
+       "gl": "delivery",
        "pos": "n."
       },
       {
@@ -1654,16 +889,10 @@
        "pos": "n."
       },
       {
-       "h": "往往",
-       "py": "wǎngwǎng",
-       "gl": "often; usually; tend to",
+       "h": "可能",
+       "py": "kěnéng",
+       "gl": "maybe; perhaps; possibly",
        "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
       },
       {
        "h": "延长",
@@ -1677,44 +906,8 @@
      ]
     },
     {
-     "en": "and some apps temporarily raise delivery fees,",
+     "en": "and the delivery fee has been temporarily raised by two yuan.",
      "words": [
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "pron."
-      },
-      {
-       "h": "软件",
-       "py": "ruǎnjiàn",
-       "gl": "app; software",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "临时",
-       "py": "línshí",
-       "gl": "at the last minute (临时抱佛脚 cram at the last minute); temporary",
-       "pos": "adv."
-      },
-      {
-       "h": "提高",
-       "py": "tígāo",
-       "gl": "raise; improve",
-       "pos": "v."
-      },
       {
        "h": "配送费",
        "py": "pèisòngfèi",
@@ -1722,42 +915,34 @@
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "using price to balance supply and demand.",
-     "words": [
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "prep."
+       "h": "已",
+       "py": "yǐ",
+       "gl": "already (the character 已)",
+       "pos": "adv."
       },
       {
-       "h": "价格",
-       "py": "jiàgé",
-       "gl": "price",
-       "pos": "n."
+       "h": "临时",
+       "py": "línshí",
+       "gl": "at the last minute (临时抱佛脚 cram at the last minute); temporary",
+       "pos": "adj."
       },
       {
-       "h": "来",
-       "py": "lái",
-       "gl": "(links a method to a purpose) to; in order to",
-       "pos": "function word"
-      },
-      {
-       "h": "调节",
-       "py": "tiáojié",
-       "gl": "regulate; adjust",
+       "h": "上调",
+       "py": "shàngdiào",
+       "gl": "raise; adjust upward",
        "pos": "v."
       },
       {
-       "h": "供需",
-       "py": "gōngxū",
-       "gl": "supply and demand",
-       "pos": "n."
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "元",
+       "py": "yuán",
+       "gl": "yuan (Chinese currency unit)",
+       "pos": "measure word"
       },
       {
        "h": "。"
@@ -1767,34 +952,34 @@
    ]
   },
   {
-   "en": "Now it's not just young people: more and more older people have learned to order takeout on their phones, and some grown children even set up their parents' usual orders in advance so they can order with a single tap.",
+   "en": "Forty minutes passed; the icon sat three streets away, not moving at all.",
    "phrases": [
     {
-     "en": "Now it's not just young people:",
+     "en": "Forty minutes passed;",
      "words": [
       {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
+       "h": "四十",
+       "py": "sìshí",
+       "gl": "forty",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "过去",
+       "py": "guòqù",
+       "gl": "past; the past",
        "pos": "n."
       },
       {
-       "h": "不仅",
-       "py": "bùjǐn",
-       "gl": "not only",
-       "pos": "conj."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "年轻人",
-       "py": "niánqīngrén",
-       "gl": "young people",
-       "pos": "n."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "，"
@@ -1802,31 +987,69 @@
      ]
     },
     {
-     "en": "more and more older people have learned to order takeout on their phones,",
+     "en": "the icon sat three streets away,",
      "words": [
       {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "老年人",
-       "py": "lǎoniánrén",
-       "gl": "elderly person; the elderly",
+       "h": "图标",
+       "py": "túbiāo",
+       "gl": "icon",
        "pos": "n."
+      },
+      {
+       "h": "停",
+       "py": "tíng",
+       "gl": "stop; park",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "街",
+       "py": "jiē",
+       "gl": "street",
+       "pos": "n."
+      },
+      {
+       "h": "以外",
+       "py": "yǐwài",
+       "gl": "outside; beyond",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "not moving at all.",
+     "words": [
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "动",
+       "py": "dòng",
+       "gl": "move",
+       "pos": "v."
       },
       {
        "h": "也",
@@ -1835,145 +1058,15 @@
        "pos": "adv."
       },
       {
-       "h": "学会",
-       "py": "xuéhuì",
-       "gl": "learn (to do); master",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "prep."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "order (food, etc.)",
-       "pos": "v."
-      },
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and some grown children even set up their parents' usual orders in advance",
-     "words": [
-      {
-       "h": "有的",
-       "py": "yǒude",
-       "gl": "some (of them)",
-       "pos": "pron."
-      },
-      {
-       "h": "子女",
-       "py": "zǐnǚ",
-       "gl": "children (sons and daughters)",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
        "pos": "adv."
       },
       {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "帮",
-       "py": "bāng",
-       "gl": "help",
-       "pos": "v."
-      },
-      {
-       "h": "父母",
-       "py": "fùmǔ",
-       "gl": "parents",
-       "pos": "n."
-      },
-      {
-       "h": "设置",
-       "py": "shèzhì",
-       "gl": "set (up); settings",
-       "pos": "v."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "done; complete (after a verb: 换好 'finish changing')",
-       "pos": "function word"
-      },
-      {
-       "h": "常用",
-       "py": "chángyòng",
-       "gl": "commonly used; common",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "菜单",
-       "py": "càidān",
-       "gl": "menu",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so they can order with a single tap.",
-     "words": [
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "v."
-      },
-      {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
-       "pos": "pron."
-      },
-      {
-       "h": "一键",
-       "py": "yījiàn",
-       "gl": "with one tap (one click)",
-       "pos": "adv."
-      },
-      {
-       "h": "下单",
-       "py": "xiàdān",
-       "gl": "place an order",
+       "h": "动",
+       "py": "dòng",
+       "gl": "move",
        "pos": "v."
       },
       {
@@ -1984,290 +1077,33 @@
    ]
   },
   {
-   "en": "To keep customers coming back, platforms and restaurants roll out all sorts of deals, such as membership cards, spend-and-save coupons, and \"booster\" red envelopes that grow in value, turning ordering takeout into a kind of little game.",
+   "en": "At fifty minutes, her finger was already on the words \"bad review.\"",
    "phrases": [
     {
-     "en": "To keep customers coming back,",
+     "en": "At fifty minutes,",
      "words": [
       {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "留住",
-       "py": "liúzhù",
-       "gl": "keep; make (someone) stay",
-       "pos": "v."
-      },
-      {
-       "h": "顾客",
-       "py": "gùkè",
-       "gl": "customer",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "platforms and restaurants roll out all sorts of deals, such as membership cards, spend-and-save coupons, and \"booster\" red envelopes that grow in value,",
-     "words": [
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "商家",
-       "py": "shāngjiā",
-       "gl": "seller; merchant",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "推出",
-       "py": "tuīchū",
-       "gl": "launch; introduce; release",
-       "pos": "v."
-      },
-      {
-       "h": "会员卡",
-       "py": "huìyuánkǎ",
-       "gl": "membership card",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "满减券",
-       "py": "mǎnjiǎnquàn",
-       "gl": "spend-and-save coupon",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "膨胀红包",
-       "py": "péngzhànghóngbāo",
-       "gl": "\"expanding\" coupon (red-envelope discount that grows)",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "particle"
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "kind; type (measure word); plant; grow",
-       "pos": "measure word"
-      },
-      {
-       "h": "优惠",
-       "py": "yōuhuì",
-       "gl": "discount; special offer; preferential",
-       "pos": "adj."
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "turning ordering takeout into a kind of little game.",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "order (food, etc.)",
-       "pos": "v."
-      },
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "变得",
-       "py": "biàndé",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "五十",
+       "py": "wǔshí",
+       "gl": "fifty",
        "pos": "num."
       },
       {
-       "h": "场",
-       "py": "chǎng",
-       "gl": "measure word for events, games, performances; (在场) be present",
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
        "pos": "measure word"
-      },
-      {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "游戏",
-       "py": "yóuxì",
-       "gl": "game",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But the huge volume of disposable containers, plastic bags, and utensils has created new environmental problems, and many cities have begun promoting eco-friendly packaging to cut down on waste.",
-   "phrases": [
-    {
-     "en": "But the huge volume of disposable containers, plastic bags, and utensils has created new environmental problems,",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "大量",
-       "py": "dàliàng",
-       "gl": "large amount of; a lot of",
-       "pos": "adv."
-      },
-      {
-       "h": "使用",
-       "py": "shǐyòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "一次性",
-       "py": "yícìxìng",
-       "gl": "disposable; single-use",
-       "pos": "adj."
-      },
-      {
-       "h": "餐盒",
-       "py": "cānhé",
-       "gl": "food container; takeout box",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "塑料袋",
-       "py": "sùliàodài",
-       "gl": "plastic bag",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "餐具",
-       "py": "cānjù",
-       "gl": "tableware; dishes and utensils",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "带来",
-       "py": "dàilái",
-       "gl": "bring; bring about",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "环保",
-       "py": "huánbǎo",
-       "gl": "environmental protection; eco-friendly",
-       "pos": "adj."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
        "pos": "n."
       },
       {
@@ -2276,18 +1112,24 @@
      ]
     },
     {
-     "en": "and many cities have begun promoting eco-friendly packaging",
+     "en": "her finger was already on the words \"bad review.\"",
      "words": [
       {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "手指",
+       "py": "shǒuzhǐ",
+       "gl": "finger",
        "pos": "n."
       },
       {
@@ -2295,594 +1137,6 @@
        "py": "yǐjīng",
        "gl": "already",
        "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "提倡",
-       "py": "tíchàng",
-       "gl": "advocate; promote",
-       "pos": "v."
-      },
-      {
-       "h": "使用",
-       "py": "shǐyòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "环保",
-       "py": "huánbǎo",
-       "gl": "environmental protection; eco-friendly",
-       "pos": "adj."
-      },
-      {
-       "h": "包装",
-       "py": "bāozhuāng",
-       "gl": "packaging",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to cut down on waste.",
-     "words": [
-      {
-       "h": "减少",
-       "py": "jiǎnshǎo",
-       "gl": "reduce; cut down",
-       "pos": "v."
-      },
-      {
-       "h": "浪费",
-       "py": "làngfèi",
-       "gl": "waste",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "For some restaurants, delivery orders now even outnumber dine-in customers, which has changed the way many of them do business; some have simply gone delivery-only and no longer offer seating at all.",
-   "phrases": [
-    {
-     "en": "For some restaurants,",
-     "words": [
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "to; toward; regarding (对…来说 'for…, as far as … is concerned')",
-       "pos": "prep."
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "pron."
-      },
-      {
-       "h": "餐厅",
-       "py": "cāntīng",
-       "gl": "restaurant",
-       "pos": "n."
-      },
-      {
-       "h": "来说",
-       "py": "láishuō",
-       "gl": "as for; for (对…来说 for someone)",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "delivery orders now even outnumber dine-in customers,",
-     "words": [
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "订单",
-       "py": "dìngdān",
-       "gl": "order",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "比例",
-       "py": "bǐlì",
-       "gl": "proportion; ratio",
-       "pos": "n."
-      },
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "adv."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "超过",
-       "py": "chāoguò",
-       "gl": "exceed; surpass; be more than",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "堂食",
-       "py": "tángshí",
-       "gl": "dine-in",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which has changed the way many of them do business;",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "改变",
-       "py": "gǎibiàn",
-       "gl": "change; transform",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "餐馆",
-       "py": "cānguǎn",
-       "gl": "restaurant",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "经营",
-       "py": "jīngyíng",
-       "gl": "run (a business); operate",
-       "pos": "n."
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "some have simply gone delivery-only and no longer offer seating at all.",
-     "words": [
-      {
-       "h": "有的",
-       "py": "yǒude",
-       "gl": "some (of them)",
-       "pos": "pron."
-      },
-      {
-       "h": "干脆",
-       "py": "gāncuì",
-       "gl": "simply; just (go ahead and); straightforwardly",
-       "pos": "adv."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make; be; work as",
-       "pos": "v."
-      },
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不再",
-       "py": "bùzài",
-       "gl": "no longer; not anymore",
-       "pos": "adv."
-      },
-      {
-       "h": "设",
-       "py": "shè",
-       "gl": "be located; set up; establish",
-       "pos": "v."
-      },
-      {
-       "h": "堂食",
-       "py": "tángshí",
-       "gl": "dine-in",
-       "pos": "n."
-      },
-      {
-       "h": "座位",
-       "py": "zuòwèi",
-       "gl": "seat",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "You could say that takeout has become deeply woven into Chinese people's daily lives: from a simple lunch to a late-night snack, a single phone app can meet almost every need.",
-   "phrases": [
-    {
-     "en": "You could say",
-     "words": [
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "v."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that takeout has become deeply woven into Chinese people's daily lives:",
-     "words": [
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "深深",
-       "py": "shēnshēn",
-       "gl": "deep; deeply",
-       "pos": "adv."
-      },
-      {
-       "h": "融入",
-       "py": "róngrù",
-       "gl": "blend into; integrate into",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "中国人",
-       "py": "zhōngguórén",
-       "gl": "Chinese person; the Chinese",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "日常",
-       "py": "rìcháng",
-       "gl": "daily; everyday",
-       "pos": "adj."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "from a simple lunch to a late-night snack,",
-     "words": [
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "顿",
-       "py": "dùn",
-       "gl": "measure word for meals",
-       "pos": "measure word"
-      },
-      {
-       "h": "简单",
-       "py": "jiǎndān",
-       "gl": "simple; easy",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "午饭",
-       "py": "wǔfàn",
-       "gl": "lunch",
-       "pos": "n."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; up to (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "深夜",
-       "py": "shēnyè",
-       "gl": "late at night; dead of night",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "宵夜",
-       "py": "xiāoyè",
-       "gl": "late-night snack",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "a single phone app can meet almost every need.",
-     "words": [
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "软件",
-       "py": "ruǎnjiàn",
-       "gl": "app; software",
-       "pos": "n."
-      },
-      {
-       "h": "几乎",
-       "py": "jīhū",
-       "gl": "almost; nearly",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "满足",
-       "py": "mǎnzú",
-       "gl": "meet; satisfy (conditions, needs)",
-       "pos": "v."
-      },
-      {
-       "h": "所有",
-       "py": "suǒyǒu",
-       "gl": "all; every",
-       "pos": "pron."
-      },
-      {
-       "h": "需求",
-       "py": "xūqiú",
-       "gl": "need; requirement; demand",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "During the pandemic, contactless delivery became the norm for a while: couriers would leave orders at a designated spot by the gate of the residential complex and then call or text customers to come and pick them up.",
-   "phrases": [
-    {
-     "en": "During the pandemic,",
-     "words": [
-      {
-       "h": "疫情",
-       "py": "yìqíng",
-       "gl": "epidemic; outbreak",
-       "pos": "n."
-      },
-      {
-       "h": "期间",
-       "py": "qījiān",
-       "gl": "during; period",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "contactless delivery became the norm for a while:",
-     "words": [
-      {
-       "h": "无接触",
-       "py": "wújiēchù",
-       "gl": "contactless; no-contact",
-       "pos": "adj."
-      },
-      {
-       "h": "配送",
-       "py": "pèisòng",
-       "gl": "delivery",
-       "pos": "n."
-      },
-      {
-       "h": "一度",
-       "py": "yídù",
-       "gl": "at one time; for a while; once",
-       "pos": "adv."
-      },
-      {
-       "h": "成为",
-       "py": "chéngwéi",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "主流",
-       "py": "zhǔliú",
-       "gl": "mainstream",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "couriers would leave orders at a designated spot by the gate of the residential complex",
-     "words": [
-      {
-       "h": "骑手",
-       "py": "qíshǒu",
-       "gl": "delivery rider; courier",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
       },
       {
        "h": "放",
@@ -2897,54 +1151,80 @@
        "pos": "prep."
       },
       {
-       "h": "小区",
-       "py": "xiǎoqū",
-       "gl": "residential complex; neighborhood",
-       "pos": "n."
-      },
-      {
-       "h": "门口",
-       "py": "ménkǒu",
-       "gl": "entrance; doorway",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "指定",
-       "py": "zhǐdìng",
-       "gl": "designated; specified; specify; ask for",
-       "pos": "adj."
+       "h": "“"
       },
       {
-       "h": "位置",
-       "py": "wèizhì",
-       "gl": "position; location; place",
+       "h": "差评",
+       "py": "chàpíng",
+       "gl": "negative review; bad rating",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Just then the phone rang, and a breathless voice said: \"Sorry, I can't get through the gate downstairs. Could you come down and get it?\"",
+   "phrases": [
+    {
+     "en": "Just then the phone rang,",
+     "words": [
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "这时",
+       "py": "zhèshí",
+       "gl": "at this moment; at that time",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and then call or text customers to come and pick them up.",
-     "words": [
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "then; after that",
-       "pos": "adv."
-      },
-      {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
       },
       {
        "h": "电话",
@@ -2953,971 +1233,263 @@
        "pos": "n."
       },
       {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
+       "h": "响",
+       "py": "xiǎng",
+       "gl": "ring; make a sound",
+       "pos": "v."
       },
       {
-       "h": "短信",
-       "py": "duǎnxìn",
-       "gl": "text message",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and a breathless voice said:",
+     "words": [
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "喘着粗气",
+       "py": "chuǎnzhe cūqì",
+       "gl": "breathing hard; out of breath",
+       "pos": "phrase"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound; voice",
        "pos": "n."
       },
       {
-       "h": "通知",
-       "py": "tōngzhī",
-       "gl": "notify; inform; notice",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "顾客",
-       "py": "gùkè",
-       "gl": "customer",
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "\"Sorry, I can't get through the gate downstairs.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "不好意思",
+       "py": "bùhǎoyìsi",
+       "gl": "feel embarrassed; be too shy to; sorry; excuse me",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "楼下",
+       "py": "lóuxià",
+       "gl": "downstairs",
        "pos": "n."
       },
       {
-       "h": "前来",
-       "py": "qiánlái",
-       "gl": "come; arrive",
+       "h": "门禁",
+       "py": "ménjìn",
+       "gl": "access gate",
+       "pos": "n."
+      },
+      {
+       "h": "进不去",
+       "py": "jìnbùqù",
+       "gl": "can't get in",
        "pos": "v."
       },
       {
-       "h": "领取",
-       "py": "lǐngqǔ",
-       "gl": "receive; collect",
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "Could you come down and get it?\"",
+     "words": [
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
        "pos": "v."
       },
       {
-       "h": "。"
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
+       "pos": "particle"
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "一下",
+       "py": "yíxià",
+       "gl": "a bit; once (softens the verb: take a look)",
+       "pos": "particle"
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "To save on delivery fees, many coworkers or classmates place group orders, combining several orders into one, which both saves money and cuts down on the courier's trips.",
+   "en": "A little impatiently she took the elevator down, pushed open the front door, and saw a rider soaked to the skin standing in the rain.",
    "phrases": [
     {
-     "en": "To save on delivery fees,",
+     "en": "A little impatiently she took the elevator down,",
      "words": [
       {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "节省",
-       "py": "jiéshěng",
-       "gl": "save; economize",
-       "pos": "v."
-      },
-      {
-       "h": "配送费",
-       "py": "pèisòngfèi",
-       "gl": "delivery fee",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "many coworkers or classmates place group orders,",
-     "words": [
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "同事",
-       "py": "tóngshì",
-       "gl": "colleague; coworker",
-       "pos": "n."
-      },
-      {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "同学",
-       "py": "tóngxué",
-       "gl": "classmate",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "一起",
-       "py": "yìqǐ",
-       "gl": "together",
-       "pos": "adv."
-      },
-      {
-       "h": "拼单",
-       "py": "pīndān",
-       "gl": "group order; order together (for a discount)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "combining several orders into one,",
-     "words": [
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "好几",
-       "py": "hǎojǐ",
-       "gl": "quite a few; several",
-       "pos": "num."
-      },
-      {
-       "h": "份",
-       "py": "fèn",
-       "gl": "measure word for portions, copies, documents, jobs (and feelings)",
-       "pos": "measure word"
-      },
-      {
-       "h": "订单",
-       "py": "dìngdān",
-       "gl": "order",
-       "pos": "n."
-      },
-      {
-       "h": "合并",
-       "py": "hébìng",
-       "gl": "merge; combine",
-       "pos": "v."
-      },
-      {
-       "h": "成",
-       "py": "chéng",
-       "gl": "into (after a verb: 翻译成 translate into); become; turn into",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "单",
-       "py": "dān",
-       "gl": "order (each delivery order); bill; measure word for orders; alone; just",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which both saves money and cuts down on the courier's trips.",
-     "words": [
-      {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "like this; this way; such",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
-       "h": "既",
-       "py": "jì",
-       "gl": "neither (既不…也不… neither … nor …)",
-       "pos": "conj."
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
       },
       {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
+       "h": "不耐烦",
+       "py": "bú nàifán",
+       "gl": "impatiently",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
        "pos": "v."
       },
       {
-       "h": "省钱",
-       "py": "shěngqián",
-       "gl": "save money",
+       "h": "电梯",
+       "py": "diàntī",
+       "gl": "elevator",
+       "pos": "n."
+      },
+      {
+       "h": "下楼",
+       "py": "xiàlóu",
+       "gl": "go downstairs",
        "pos": "v."
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "pushed open the front door,",
+     "words": [
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
+       "h": "推开",
+       "py": "tuīkāi",
+       "gl": "push away; push open",
        "pos": "v."
       },
       {
-       "h": "减少",
-       "py": "jiǎnshǎo",
-       "gl": "reduce; cut down",
+       "h": "大门",
+       "py": "dàmén",
+       "gl": "main gate; front door",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and saw a rider soaked to the skin standing in the rain.",
+     "words": [
+      {
+       "h": "看见",
+       "py": "kànjiàn",
+       "gl": "see",
        "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "浑身",
+       "py": "húnshēn",
+       "gl": "whole body; all over",
+       "pos": "n."
+      },
+      {
+       "h": "湿透",
+       "py": "shītòu",
+       "gl": "soaked through",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "骑手",
        "py": "qíshǒu",
-       "gl": "delivery rider; courier",
+       "gl": "delivery rider",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "跑动",
-       "py": "pǎodòng",
-       "gl": "running around; trips",
-       "pos": "n."
-      },
-      {
-       "h": "次数",
-       "py": "cìshù",
-       "gl": "number of times",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Many platforms now also offer on-demand delivery, so time-sensitive items like ice cream and cakes can reach customers in about half an hour.",
-   "phrases": [
-    {
-     "en": "Many platforms now also offer on-demand delivery:",
-     "words": [
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "提供",
-       "py": "tígōng",
-       "gl": "provide",
-       "pos": "v."
-      },
-      {
-       "h": "即时",
-       "py": "jíshí",
-       "gl": "instant; immediate; real-time",
-       "pos": "adj."
-      },
-      {
-       "h": "配送",
-       "py": "pèisòng",
-       "gl": "delivery",
-       "pos": "n."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "time-sensitive items like ice cream and cakes",
-     "words": [
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "v."
-      },
-      {
-       "h": "冰激凌",
-       "py": "bīngjīlíng",
-       "gl": "ice cream",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "蛋糕",
-       "py": "dàngāo",
-       "gl": "cake",
-       "pos": "n."
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this; these",
-       "pos": "pron."
-      },
-      {
-       "h": "类",
-       "py": "lèi",
-       "gl": "kind; type; category",
-       "pos": "measure word"
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "in; toward (对…感兴趣 'be interested in')",
-       "pos": "prep."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "要求",
-       "py": "yāoqiú",
-       "gl": "require; demand",
-       "pos": "v."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "高",
-       "py": "gāo",
-       "gl": "tall; high",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "商品",
-       "py": "shāngpǐn",
-       "gl": "goods; product",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "can reach customers in about half an hour.",
-     "words": [
-      {
-       "h": "半",
-       "py": "bàn",
-       "gl": "half",
-       "pos": "num."
-      },
-      {
-       "h": "小时",
-       "py": "xiǎoshí",
-       "gl": "hour",
-       "pos": "measure word"
-      },
-      {
-       "h": "左右",
-       "py": "zuǒyòu",
-       "gl": "about; around (after a number)",
-       "pos": "adv."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "送到",
-       "py": "sòngdào",
-       "gl": "deliver",
-       "pos": "v."
-      },
-      {
-       "h": "顾客",
-       "py": "gùkè",
-       "gl": "customer",
-       "pos": "n."
-      },
-      {
-       "h": "手中",
-       "py": "shǒuzhōng",
-       "gl": "in (one's) hands",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Besides Meituan and Ele.me, fresh-grocery e-commerce platforms such as Dingdong Maicai have grown rapidly in recent years, letting customers buy fresh vegetables and meat without leaving home.",
-   "phrases": [
-    {
-     "en": "Besides Meituan and Ele.me,",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "美团",
-       "py": "měituán",
-       "gl": "Meituan (Chinese delivery and services platform)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "饿了么",
-       "py": "èleme",
-       "gl": "Ele.me (food delivery platform)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "fresh-grocery e-commerce platforms such as Dingdong Maicai have grown rapidly in recent years,",
-     "words": [
-      {
-       "h": "近几年",
-       "py": "jìnjǐnián",
-       "gl": "in recent years",
-       "pos": "n."
-      },
-      {
-       "h": "叮咚买菜",
-       "py": "dīngdōngmǎicài",
-       "gl": "Dingdong Maicai (online grocery platform)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "particle"
-      },
-      {
-       "h": "生鲜",
-       "py": "shēngxiān",
-       "gl": "fresh produce (meat, fish, vegetables)",
-       "pos": "adj."
-      },
-      {
-       "h": "电商",
-       "py": "diànshāng",
-       "gl": "e-commerce",
-       "pos": "n."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "迅速",
-       "py": "xùnsù",
-       "gl": "rapidly; swiftly",
-       "pos": "adv."
-      },
-      {
-       "h": "发展",
-       "py": "fāzhǎn",
-       "gl": "develop; grow",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "letting customers buy fresh vegetables and meat without leaving home.",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "顾客",
-       "py": "gùkè",
-       "gl": "customer",
-       "pos": "n."
-      },
-      {
-       "h": "不用",
-       "py": "bùyòng",
-       "gl": "not need; no need to",
-       "pos": "v."
-      },
-      {
-       "h": "出门",
-       "py": "chūmén",
-       "gl": "go out (of the house); leave home",
-       "pos": "v."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "买到",
-       "py": "mǎidào",
-       "gl": "manage to buy; get",
-       "pos": "v."
-      },
-      {
-       "h": "新鲜",
-       "py": "xīnxiān",
-       "gl": "fresh",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "蔬菜",
-       "py": "shūcài",
-       "gl": "vegetable",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "肉类",
-       "py": "ròulèi",
-       "gl": "meat",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "If you want your food delivered faster, you can pay a little extra to have the courier prioritize your order, a premium service that's especially popular during peak hours.",
-   "phrases": [
-    {
-     "en": "If you want your food delivered faster,",
-     "words": [
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "希望",
-       "py": "xīwàng",
-       "gl": "hope; wish",
-       "pos": "v."
-      },
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "送",
-       "py": "sòng",
-       "gl": "deliver; send; give (as a gift)",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "dé",
-       "gl": "particle linking a verb to its degree or result (发展得很快 develop fast)",
-       "pos": "function word"
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "快",
-       "py": "kuài",
-       "gl": "fast; quick; quickly",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "you can pay a little extra",
-     "words": [
-      {
-       "h": "顾客",
-       "py": "gùkè",
-       "gl": "customer",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "v."
-      },
-      {
-       "h": "额外",
-       "py": "éwài",
-       "gl": "extra; additional(ly)",
-       "pos": "adv."
-      },
-      {
-       "h": "加",
-       "py": "jiā",
-       "gl": "add; join; plus; increase",
-       "pos": "v."
-      },
-      {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; a bit",
-       "pos": "pron."
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to have the courier prioritize your order,",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "骑手",
-       "py": "qíshǒu",
-       "gl": "delivery rider; courier",
-       "pos": "n."
-      },
-      {
-       "h": "优先",
-       "py": "yōuxiān",
-       "gl": "first; as a priority; priority",
-       "pos": "adv."
-      },
-      {
-       "h": "配送",
-       "py": "pèisòng",
-       "gl": "delivery",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "订单",
-       "py": "dìngdān",
-       "gl": "order",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "a premium service that's especially popular during peak hours.",
-     "words": [
-      {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "加价",
-       "py": "jiājià",
-       "gl": "mark up; raise the price",
-       "pos": "n."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "订单",
-       "py": "dìngdān",
-       "gl": "order",
-       "pos": "n."
-      },
-      {
-       "h": "高峰期",
-       "py": "gāofēngqī",
-       "gl": "rush hour; peak period",
-       "pos": "n."
-      },
-      {
-       "h": "格外",
-       "py": "géwài",
-       "gl": "especially; particularly",
-       "pos": "adv."
-      },
-      {
-       "h": "受欢迎",
-       "py": "shòuhuānyíng",
-       "gl": "be popular",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "If something goes wrong with an order, say it's the wrong one, it's spilled, or something is missing, customers can usually request a refund right in the app, and in most cases it's handled quickly.",
-   "phrases": [
-    {
-     "en": "If something goes wrong with an order,",
-     "words": [
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "出现",
-       "py": "chūxiàn",
-       "gl": "appear; emerge",
-       "pos": "v."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "say it's the wrong one, it's spilled, or something is missing,",
-     "words": [
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
-      },
-      {
-       "h": "送错",
-       "py": "sòngcuò",
-       "gl": "deliver to the wrong place",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "撒",
-       "py": "sā",
-       "gl": "sprinkle; spill",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "少",
-       "py": "shǎo",
-       "gl": "lack; be missing",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "东西",
-       "py": "dōngxī",
-       "gl": "thing; stuff",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "customers can usually request a refund right in the app,",
-     "words": [
-      {
-       "h": "顾客",
-       "py": "gùkè",
-       "gl": "customer",
-       "pos": "n."
-      },
-      {
-       "h": "通常",
-       "py": "tōngcháng",
-       "gl": "usually; normally",
-       "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
        "pos": "v."
       },
       {
@@ -3927,9 +1499,9 @@
        "pos": "prep."
       },
       {
-       "h": "软件",
-       "py": "ruǎnjiàn",
-       "gl": "app; software",
+       "h": "雨",
+       "py": "yǔ",
+       "gl": "rain",
        "pos": "n."
       },
       {
@@ -3939,21 +1511,58 @@
        "pos": "postposition"
       },
       {
-       "h": "直接",
-       "py": "zhíjiē",
-       "gl": "directly; straight",
-       "pos": "adv."
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "His raincoat was torn, water ran from his helmet down his face, but he held the bowl of noodles tightly against his chest, wrapped in his jacket.",
+   "phrases": [
+    {
+     "en": "His raincoat was torn,",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
-       "h": "申请",
-       "py": "shēnqǐng",
-       "gl": "apply (for); application",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "雨衣",
+       "py": "yǔyī",
+       "gl": "raincoat",
+       "pos": "n."
+      },
+      {
+       "h": "破",
+       "py": "pò",
+       "gl": "broken; torn",
        "pos": "v."
       },
       {
-       "h": "退款",
-       "py": "tuìkuǎn",
-       "gl": "refund",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "口子",
+       "py": "kǒuzi",
+       "gl": "cut; opening; slit",
        "pos": "n."
       },
       {
@@ -3962,37 +1571,718 @@
      ]
     },
     {
-     "en": "and in most cases it's handled quickly.",
+     "en": "water ran from his helmet down his face,",
      "words": [
       {
-       "h": "大多数",
-       "py": "dàduōshù",
-       "gl": "the vast majority; most",
+       "h": "头盔",
+       "py": "tóukuī",
+       "gl": "helmet",
        "pos": "n."
       },
       {
-       "h": "情况",
-       "py": "qíngkuàng",
-       "gl": "situation; circumstances",
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
        "pos": "n."
+      },
+      {
+       "h": "顺着",
+       "py": "shùnzhe",
+       "gl": "along",
+       "pos": "prep."
+      },
+      {
+       "h": "脸",
+       "py": "liǎn",
+       "gl": "face",
+       "pos": "n."
+      },
+      {
+       "h": "往",
+       "py": "wǎng",
+       "gl": "toward; to",
+       "pos": "prep."
       },
       {
        "h": "下",
        "py": "xià",
-       "gl": "under (conditions); in (a context)",
+       "gl": "under (强光下 under bright light)",
        "pos": "postposition"
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
+       "h": "流",
+       "py": "liú",
+       "gl": "flow; run",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but he held the bowl of noodles tightly against his chest, wrapped in his jacket.",
+     "words": [
+      {
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "碗",
+       "py": "wǎn",
+       "gl": "bowl (also measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "面",
+       "py": "miàn",
+       "gl": "noodles",
+       "pos": "n."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "外套",
+       "py": "wàitào",
+       "gl": "coat; jacket",
+       "pos": "n."
+      },
+      {
+       "h": "紧紧",
+       "py": "jǐnjǐn",
+       "gl": "tightly; closely",
        "pos": "adv."
       },
       {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "包",
+       "py": "bāo",
+       "gl": "wrap",
        "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "怀里",
+       "py": "huáili",
+       "gl": "in one's arms",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"My scooter ran out of battery on the way, so I pushed it here,\" he said, handing her the noodles. \"The soup should still be hot.\"",
+   "phrases": [
+    {
+     "en": "\"My scooter ran out of battery on the way, so I pushed it here,\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "路上",
+       "py": "lùshàng",
+       "gl": "on the way; on the road",
+       "pos": "n."
+      },
+      {
+       "h": "电动车",
+       "py": "diàndòngchē",
+       "gl": "e-bike; electric scooter",
+       "pos": "n."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "电",
+       "py": "diàn",
+       "gl": "electricity; power",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "推着",
+       "py": "tuīzhe",
+       "gl": "pushing",
+       "pos": "v."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "walk; go; leave",
+       "pos": "v."
+      },
+      {
+       "h": "过来",
+       "py": "guòlái",
+       "gl": "come over; (after a verb) toward the speaker",
+       "pos": "particle"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    },
+    {
+     "en": "he said, handing her the noodles.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "面",
+       "py": "miàn",
+       "gl": "noodles",
+       "pos": "n."
+      },
+      {
+       "h": "递给",
+       "py": "dìgěi",
+       "gl": "hand to; pass to",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "\"The soup should still be hot.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "汤",
+       "py": "tāng",
+       "gl": "soup; broth",
+       "pos": "n."
+      },
+      {
+       "h": "应该",
+       "py": "yīnggāi",
+       "gl": "should; ought to; probably",
+       "pos": "v."
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "热",
+       "py": "rè",
+       "gl": "hot",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She took the noodles, and sure enough, the side of the bowl was still warm.",
+   "phrases": [
+    {
+     "en": "She took the noodles,",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "接过",
+       "py": "jiēguo",
+       "gl": "take (from someone's hands); take over",
+       "pos": "v."
+      },
+      {
+       "h": "面",
+       "py": "miàn",
+       "gl": "noodles",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and sure enough, the side of the bowl was still warm.",
+     "words": [
+      {
+       "h": "碗壁",
+       "py": "wǎnbì",
+       "gl": "side of a bowl",
+       "pos": "n."
+      },
+      {
+       "h": "果然",
+       "py": "guǒrán",
+       "gl": "as expected; sure enough",
+       "pos": "adv."
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "温",
+       "py": "wēn",
+       "gl": "warm (food nature in TCM)",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Back in the office, she opened the app, canceled the bad review she had half written, and gave five stars instead.",
+   "phrases": [
+    {
+     "en": "Back in the office,",
+     "words": [
+      {
+       "h": "回到",
+       "py": "huídào",
+       "gl": "return to; get back to",
+       "pos": "v."
+      },
+      {
+       "h": "办公室",
+       "py": "bàngōngshì",
+       "gl": "office",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she opened the app,",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "软件",
+       "py": "ruǎnjiàn",
+       "gl": "app; software",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "canceled the bad review she had half written,",
+     "words": [
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一半",
+       "py": "yíbàn",
+       "gl": "half",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "差评",
+       "py": "chàpíng",
+       "gl": "negative review; bad rating",
+       "pos": "n."
+      },
+      {
+       "h": "取消",
+       "py": "qǔxiāo",
+       "gl": "cancel; abolish",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and gave five stars instead.",
+     "words": [
+      {
+       "h": "换成",
+       "py": "huànchéng",
+       "gl": "change into; replace with",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
+       "pos": "num."
+      },
+      {
+       "h": "颗",
+       "py": "kē",
+       "gl": "measure word for small round things (teeth, grains)",
+       "pos": "measure word"
+      },
+      {
+       "h": "星",
+       "py": "xīng",
+       "gl": "star (rating, e.g. Michelin)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After a moment's thought, she added a line in the comment: Thank you for not letting the soup go cold.",
+   "phrases": [
+    {
+     "en": "After a moment's thought,",
+     "words": [
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she added a line in the comment: Thank you for not letting the soup go cold.",
+     "words": [
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "评论",
+       "py": "pínglùn",
+       "gl": "comment",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "加",
+       "py": "jiā",
+       "gl": "add",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "谢谢",
+       "py": "xièxie",
+       "gl": "thank you; thanks",
+       "pos": "phrase"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "汤",
+       "py": "tāng",
+       "gl": "soup; broth",
+       "pos": "n."
+      },
+      {
+       "h": "凉",
+       "py": "liáng",
+       "gl": "cool; cold",
+       "pos": "v."
+      },
+      {
+       "h": "掉",
+       "py": "diào",
+       "gl": "completely (complement)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She ate those noodles very slowly.",
+   "phrases": [
+    {
+     "en": "She ate those noodles very slowly.",
+     "words": [
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "碗",
+       "py": "wǎn",
+       "gl": "bowl (also measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "面",
+       "py": "miàn",
+       "gl": "noodles",
+       "pos": "n."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
       },
       {
        "h": "很",
@@ -4001,22 +2291,1325 @@
        "pos": "adv."
       },
       {
-       "h": "快",
-       "py": "kuài",
-       "gl": "fast; quick; quickly",
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
        "pos": "adj."
       },
       {
-       "h": "得到",
-       "py": "dédào",
-       "gl": "get; obtain; receive",
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It suddenly struck her that she hadn't lit the stove at home in a long time; a thin layer of dust had settled on the pots in the kitchen.",
+   "phrases": [
+    {
+     "en": "It suddenly struck her",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "忽然",
+       "py": "hūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "想起",
+       "py": "xiǎngqǐ",
+       "gl": "remember; think of; remind (让我想起 'remind me of')",
        "pos": "v."
       },
       {
-       "h": "处理",
-       "py": "chǔlǐ",
-       "gl": "handle; deal with; process",
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that she hadn't lit the stove at home in a long time;",
+     "words": [
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "久",
+       "py": "jiǔ",
+       "gl": "long (time); for a long time",
+       "pos": "adj."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "家里",
+       "py": "jiālǐ",
+       "gl": "at home; in the family",
        "pos": "n."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "light (the stove) (开火)",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "火",
+       "py": "huǒ",
+       "gl": "internal heat (TCM); fire",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "a thin layer of dust had settled on the pots in the kitchen.",
+     "words": [
+      {
+       "h": "厨房",
+       "py": "chúfáng",
+       "gl": "kitchen",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "锅",
+       "py": "guō",
+       "gl": "wok; pot; pan",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "落",
+       "py": "luò",
+       "gl": "fall (on); land",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "层",
+       "py": "céng",
+       "gl": "measure word for layers (一层信任 'an extra layer of trust')",
+       "pos": "measure word"
+      },
+      {
+       "h": "薄薄",
+       "py": "báobáo",
+       "gl": "thin; thinly",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "灰",
+       "py": "huī",
+       "gl": "dust; ash",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When she was little, her mother made three dishes every day after work, and no matter how tired or how late, there was always a bowl of hot soup on the table.",
+   "phrases": [
+    {
+     "en": "When she was little,",
+     "words": [
+      {
+       "h": "小时候",
+       "py": "xiǎoshíhòu",
+       "gl": "in childhood; as a child",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "her mother made three dishes every day after work,",
+     "words": [
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "下班",
+       "py": "xiàbān",
+       "gl": "get off work; finish work",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "菜",
+       "py": "cài",
+       "gl": "dish (food); cuisine",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and no matter how tired or how late,",
+     "words": [
+      {
+       "h": "不管",
+       "py": "bùguǎn",
+       "gl": "no matter; regardless of",
+       "pos": "conj."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "累",
+       "py": "lèi",
+       "gl": "tired",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "or (in questions)",
+       "pos": "conj."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "晚",
+       "py": "wǎn",
+       "gl": "late",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "there was always a bowl of hot soup on the table.",
+     "words": [
+      {
+       "h": "饭桌",
+       "py": "fànzhuō",
+       "gl": "dining table",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "永远",
+       "py": "yǒngyuǎn",
+       "gl": "forever; always",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "碗",
+       "py": "wǎn",
+       "gl": "bowl (also measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "热",
+       "py": "rè",
+       "gl": "hot",
+       "pos": "adj."
+      },
+      {
+       "h": "汤",
+       "py": "tāng",
+       "gl": "soup; broth",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The next day was Saturday; she didn't order takeout, but went to the market downstairs and bought a bunch of greens, two tomatoes and a few eggs.",
+   "phrases": [
+    {
+     "en": "The next day was Saturday;",
+     "words": [
+      {
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "周六",
+       "py": "zhōuliù",
+       "gl": "Saturday",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she didn't order takeout,",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "order (food, etc.)",
+       "pos": "v."
+      },
+      {
+       "h": "外卖",
+       "py": "wàimài",
+       "gl": "takeout; food delivery",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but went to the market downstairs and bought a bunch of greens, two tomatoes and a few eggs.",
+     "words": [
+      {
+       "h": "而是",
+       "py": "érshì",
+       "gl": "but rather (不是…而是… not … but …)",
+       "pos": "conj."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "楼下",
+       "py": "lóuxià",
+       "gl": "downstairs",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "菜市场",
+       "py": "càishìchǎng",
+       "gl": "food market",
+       "pos": "n."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "青菜",
+       "py": "qīngcài",
+       "gl": "green vegetables; leafy greens",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "西红柿",
+       "py": "xīhóngshì",
+       "gl": "tomato",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "几",
+       "py": "jǐ",
+       "gl": "several; a few",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "鸡蛋",
+       "py": "jīdàn",
+       "gl": "egg; chicken egg",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The tomato and egg stir-fry came out too salty, the greens were a bit overcooked, but she ate every bite.",
+   "phrases": [
+    {
+     "en": "The tomato and egg stir-fry came out too salty,",
+     "words": [
+      {
+       "h": "西红柿炒鸡蛋",
+       "py": "xīhóngshì chǎo jīdàn",
+       "gl": "tomato and egg stir-fry",
+       "pos": "n."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "咸",
+       "py": "xián",
+       "gl": "salty",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the greens were a bit overcooked,",
+     "words": [
+      {
+       "h": "青菜",
+       "py": "qīngcài",
+       "gl": "green vegetables; leafy greens",
+       "pos": "n."
+      },
+      {
+       "h": "炒",
+       "py": "chǎo",
+       "gl": "stir-fry",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
+      },
+      {
+       "h": "老",
+       "py": "lǎo",
+       "gl": "old; elderly",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but she ate every bite.",
+     "words": [
+      {
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "干干净净",
+       "py": "gāngānjìngjìng",
+       "gl": "spotless; completely clean",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After the meal she video-called her mother and showed her the rather ugly dishes.",
+   "phrases": [
+    {
+     "en": "After the meal",
+     "words": [
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
+      },
+      {
+       "h": "饭",
+       "py": "fàn",
+       "gl": "meal; food; cooked rice",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she video-called her mother",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "hit; play (ball games); make (a phone call)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video; video call",
+       "pos": "n."
+      },
+      {
+       "h": "电话",
+       "py": "diànhuà",
+       "gl": "phone; phone call",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and showed her the rather ugly dishes.",
+     "words": [
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "function word"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "盘",
+       "py": "pán",
+       "gl": "measure word for plates/dishes (一盘青菜 a plate of greens); plate",
+       "pos": "measure word"
+      },
+      {
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
+      },
+      {
+       "h": "难看",
+       "py": "nánkàn",
+       "gl": "ugly; unsightly",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "function word"
+      },
+      {
+       "h": "菜",
+       "py": "cài",
+       "gl": "dish (food)",
+       "pos": "n."
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "(给...看) show",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Her mother laughed out loud on the other end of the screen, saying to add the salt last and not turn the heat up so high.",
+   "phrases": [
+    {
+     "en": "Her mother laughed out loud on the other end of the screen,",
+     "words": [
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "那头",
+       "py": "nàtóu",
+       "gl": "the other end",
+       "pos": "n."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "出",
+       "py": "chū",
+       "gl": "resultative complement: out (showing a result)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "声",
+       "py": "shēng",
+       "gl": "measure word for sounds and utterances; sound",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "saying to add the salt last and not turn the heat up so high.",
+     "words": [
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "盐",
+       "py": "yán",
+       "gl": "salt",
+       "pos": "n."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally",
+       "pos": "n."
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "火",
+       "py": "huǒ",
+       "gl": "internal heat (TCM); fire",
+       "pos": "n."
+      },
+      {
+       "h": "别",
+       "py": "bié",
+       "gl": "don't (prohibition); other",
+       "pos": "adv."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "turn on (heat)",
+       "pos": "v."
+      },
+      {
+       "h": "那么",
+       "py": "nàme",
+       "gl": "so; that (much)",
+       "pos": "adv."
+      },
+      {
+       "h": "大",
+       "py": "dà",
+       "gl": "big; large",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She still orders takeout, on nights she works late, on lazy weekends; takeout is still her most reliable friend.",
+   "phrases": [
+    {
+     "en": "She still orders takeout,",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "order (food, etc.)",
+       "pos": "v."
+      },
+      {
+       "h": "外卖",
+       "py": "wàimài",
+       "gl": "takeout; food delivery",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "on nights she works late, on lazy weekends;",
+     "words": [
+      {
+       "h": "加班",
+       "py": "jiābān",
+       "gl": "work overtime; overtime",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "懒得",
+       "py": "lǎnde",
+       "gl": "not feel like (doing); be too lazy to",
+       "pos": "v."
+      },
+      {
+       "h": "动",
+       "py": "dòng",
+       "gl": "move",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "takeout is still her most reliable friend.",
+     "words": [
+      {
+       "h": "外卖",
+       "py": "wàimài",
+       "gl": "takeout; food delivery",
+       "pos": "n."
+      },
+      {
+       "h": "依然",
+       "py": "yīrán",
+       "gl": "still; as before",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "可靠",
+       "py": "kěkào",
+       "gl": "reliable; trustworthy",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "朋友",
+       "py": "péngyǒu",
+       "gl": "friend",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It's just that whenever a rider hands her the bag, she says \"Thanks for your hard work,\" and if it's raining, she adds, \"Take it easy out there.\"",
+   "phrases": [
+    {
+     "en": "It's just that whenever a rider hands her the bag,",
+     "words": [
+      {
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
+      },
+      {
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "adv."
+      },
+      {
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "骑手",
+       "py": "qíshǒu",
+       "gl": "delivery rider",
+       "pos": "n."
+      },
+      {
+       "h": "送来",
+       "py": "sònglái",
+       "gl": "bring; deliver",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "袋子",
+       "py": "dàizi",
+       "gl": "bag; pouch",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she says \"Thanks for your hard work,\"",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "辛苦",
+       "py": "xīnkǔ",
+       "gl": "hard work; hardship",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and if it's raining, she adds, \"Take it easy out there.\"",
+     "words": [
+      {
+       "h": "如果",
+       "py": "rúguǒ",
+       "gl": "if",
+       "pos": "conj."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "下雨天",
+       "py": "xiàyǔtiān",
+       "gl": "rainy day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "路上",
+       "py": "lùshàng",
+       "gl": "on the way; on the road",
+       "pos": "n."
+      },
+      {
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
+       "pos": "adj."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "”"
       },
       {
        "h": "。"
