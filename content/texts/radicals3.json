@@ -1,17 +1,17 @@
 {
  "id": "radicals3",
  "level": 3,
- "title_zh": "汉字的部首",
- "title_en": "Radicals in Chinese Characters",
+ "title_zh": "带水的“法”",
+ "title_en": "\"Law\" With Water in It",
  "free": false,
  "audio_url": null,
- "note_en": "A 部首 (bùshǒu) or radical is the part of a character that often hints at its meaning. The pattern 跟……有关系 means \"to be related to...\": 这个字应该跟水有关系 \"this character must have something to do with water.\" Notice that the thing it relates to comes in the middle, between 跟 and 有关系, while English puts it at the end.",
+ "note_en": "The chengyu 望文生义 — literally \"look at the text and invent a meaning\" — means guessing a word's meaning from how it looks without really knowing it: 不能完全望文生义 — \"you can't judge the meaning entirely by appearance.\"",
  "sentences": [
   {
-   "en": "When I saw the new word 湖, I noticed it has the radical 氵.",
+   "en": "When I came across the new character 湖, I noticed it had the radical 氵, called \"three dots of water.\"",
    "phrases": [
     {
-     "en": "When I saw the new word 湖,",
+     "en": "When I came across the new character 湖, I noticed it had the radical 氵, called \"three dots of water.\"",
      "words": [
       {
        "h": "看到",
@@ -38,25 +38,14 @@
        "h": "”"
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I noticed it has the radical 氵.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -78,7 +67,7 @@
       {
        "h": "带",
        "py": "dài",
-       "gl": "have; contain; bear (a component)",
+       "gl": "bring; take (along); carry",
        "pos": "v."
       },
       {
@@ -94,21 +83,30 @@
        "h": "”"
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
        "pos": "pron."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "部首",
        "py": "bùshǒu",
-       "gl": "radical (of a Chinese character)",
+       "gl": "radical (of a character)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "三点水",
+       "py": "sāndiǎnshuǐ",
+       "gl": "\"three drops of water\" radical (氵)",
        "pos": "n."
       },
       {
@@ -119,7 +117,7 @@
    ]
   },
   {
-   "en": "I guessed: \"This character must have something to do with water!\" And I was right: 湖 means \"lake.\"",
+   "en": "I guessed: \"This character must have something to do with water!\"",
    "phrases": [
     {
      "en": "I guessed: \"This character must have something to do with water!\"",
@@ -143,16 +141,10 @@
        "h": "“"
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
        "pos": "pron."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "字",
@@ -164,12 +156,12 @@
        "h": "应该",
        "py": "yīnggāi",
        "gl": "should; ought to; probably",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "跟",
        "py": "gēn",
-       "gl": "with; together with",
+       "gl": "with; and; follow",
        "pos": "prep."
       },
       {
@@ -180,7 +172,7 @@
       },
       {
        "h": "有关系",
-       "py": "yǒu guānxi",
+       "py": "yǒuguānxì",
        "gl": "be related; have to do with",
        "pos": "v."
       },
@@ -191,9 +183,14 @@
        "h": "”"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "I was right: 湖 means \"lake.\"",
+   "phrases": [
     {
-     "en": "And I was right: 湖 means \"lake.\"",
+     "en": "I was right: 湖 means \"lake.\"",
      "words": [
       {
        "h": "猜对",
@@ -225,8 +222,8 @@
       {
        "h": "就是",
        "py": "jiùshì",
-       "gl": "exactly; precisely; just; simply",
-       "pos": "v."
+       "gl": "just; simply; exactly",
+       "pos": "adv."
       },
       {
        "h": "“"
@@ -243,7 +240,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -260,75 +257,85 @@
    ]
   },
   {
-   "en": "But radicals can't do everything, and you can't always guess the meaning just from how a character looks.",
+   "en": "Later I also guessed 河 (\"river\"), 海 (\"sea\") and even 汗 (\"sweat\") correctly.",
    "phrases": [
     {
-     "en": "But radicals can't do everything,",
+     "en": "Later I also guessed 河 (\"river\"), 海 (\"sea\") and even 汗 (\"sweat\") correctly.",
      "words": [
       {
-       "h": "不过",
-       "py": "bùguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "部首",
-       "py": "bùshǒu",
-       "gl": "radical (of a Chinese character)",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
        "pos": "adv."
       },
       {
-       "h": "不是",
-       "py": "búshì",
-       "gl": "not be; is not",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "猜对",
+       "py": "cāiduì",
+       "gl": "guess correctly",
        "pos": "v."
       },
       {
-       "h": "万能",
-       "py": "wànnéng",
-       "gl": "all-purpose; universal; all-powerful",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and you can't always guess the meaning just from how a character looks.",
-     "words": [
-      {
-       "h": "不能",
-       "py": "bùnéng",
-       "gl": "cannot; must not",
-       "pos": "function word"
-      },
-      {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
-       "pos": "adv."
       },
       {
        "h": "“"
       },
       {
-       "h": "望文生义",
-       "py": "wàngwénshēngyì",
-       "gl": "take words too literally; guess meaning from the characters",
-       "pos": "phrase"
+       "h": "河",
+       "py": "hé",
+       "gl": "river",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "海",
+       "py": "hǎi",
+       "gl": "sea",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
+       "pos": "conj."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "汗",
+       "py": "hàn",
+       "gl": "sweat",
+       "pos": "n."
       },
       {
        "h": "”"
@@ -341,16 +348,110 @@
    ]
   },
   {
-   "en": "For example, the character 法 also has 氵, but it means \"law\" and has no direct connection to water.",
+   "en": "I felt I'd found the secret of learning characters.",
    "phrases": [
     {
-     "en": "For example, the character 法 also has 氵,",
+     "en": "I felt I'd found the secret of learning characters.",
      "words": [
       {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "找到",
+       "py": "zhǎodào",
+       "gl": "find",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "汉字",
+       "py": "hànzì",
+       "gl": "Chinese character",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "秘密",
+       "py": "mìmì",
+       "gl": "secret; secretly",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But one day I came across the character 法.",
+   "phrases": [
+    {
+     "en": "But one day I came across the character 法.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
        "pos": "conj."
+      },
+      {
+       "h": "有一天",
+       "py": "yǒuyītiān",
+       "gl": "one day",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "“"
@@ -371,6 +472,25 @@
        "pos": "n."
       },
       {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It also has 氵, but it means \"law,\" which has nothing directly to do with water.",
+   "phrases": [
+    {
+     "en": "It also has 氵, but it means \"law,\" which has nothing directly to do with water.",
+     "words": [
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
        "h": "也",
        "py": "yě",
        "gl": "also; too",
@@ -379,7 +499,7 @@
       {
        "h": "带",
        "py": "dài",
-       "gl": "have; contain; bear (a component)",
+       "gl": "bring; take (along); carry",
        "pos": "v."
       },
       {
@@ -396,28 +516,17 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but it means \"law\" and has no direct connection to water.",
-     "words": [
+      },
       {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
        "pos": "conj."
       },
       {
-       "h": "意思",
-       "py": "yìsi",
-       "gl": "meaning",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "意思是",
+       "py": "yìsishì",
+       "gl": "means; that is to say",
        "pos": "v."
       },
       {
@@ -438,7 +547,7 @@
       {
        "h": "跟",
        "py": "gēn",
-       "gl": "with; together with",
+       "gl": "with; and; follow",
        "pos": "prep."
       },
       {
@@ -456,14 +565,14 @@
       {
        "h": "直接",
        "py": "zhíjiē",
-       "gl": "direct",
-       "pos": "adj."
+       "gl": "directly; straight",
+       "pos": "adv."
       },
       {
        "h": "关系",
        "py": "guānxì",
-       "gl": "relationship; connection",
-       "pos": "n."
+       "gl": "concern; affect",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -473,10 +582,414 @@
    ]
   },
   {
-   "en": "Once I learned to read radicals, guessing the meaning of new words got a lot easier.",
+   "en": "Mr Wang said, \"Radicals aren't a cure-all. You can't judge the meaning entirely by appearance.\"",
    "phrases": [
     {
-     "en": "Once I learned to read radicals,",
+     "en": "Mr Wang said, \"Radicals aren't a cure-all. You can't judge the meaning entirely by appearance.\"",
+     "words": [
+      {
+       "h": "王老师",
+       "py": "Wáng lǎoshī",
+       "gl": "Teacher Wang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "部首",
+       "py": "bùshǒu",
+       "gl": "radical (of a character)",
+       "pos": "n."
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
+       "h": "万能",
+       "py": "wànnéng",
+       "gl": "all-purpose; a cure-all",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
+      },
+      {
+       "h": "完全",
+       "py": "wánquán",
+       "gl": "completely; fully",
+       "pos": "adv."
+      },
+      {
+       "h": "望文生义",
+       "py": "wàng wén shēng yì",
+       "gl": "take words too literally",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I was a little disappointed.",
+   "phrases": [
+    {
+     "en": "I was a little disappointed.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
+      },
+      {
+       "h": "失望",
+       "py": "shīwàng",
+       "gl": "be disappointed",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He thought for a moment and added, \"Still, when the ancients wrote this character, they really were thinking of water.\"",
+   "phrases": [
+    {
+     "en": "He thought for a moment and added, \"Still, when the ancients wrote this character, they really were thinking of water.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "n."
+      },
+      {
+       "h": "想了想",
+       "py": "xiǎnglexiǎng",
+       "gl": "thought for a moment",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "不过",
+       "py": "bùguò",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "古人",
+       "py": "gǔrén",
+       "gl": "the ancients; people of old",
+       "pos": "n."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
+       "pos": "n."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "确实",
+       "py": "quèshí",
+       "gl": "indeed; really",
+       "pos": "adv."
+      },
+      {
+       "h": "想到",
+       "py": "xiǎngdào",
+       "gl": "think of; expect (没想到 'didn't expect')",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water (the character 水)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"They felt the law should be as level as water, and fair to everyone.\"",
+   "phrases": [
+    {
+     "en": "\"They felt the law should be as level as water, and fair to everyone.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "法律",
+       "py": "fǎlǜ",
+       "gl": "law",
+       "pos": "n."
+      },
+      {
+       "h": "应该",
+       "py": "yīnggāi",
+       "gl": "should; ought to; probably",
+       "pos": "v."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
+       "pos": "n."
+      },
+      {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "平",
+       "py": "píng",
+       "gl": "even, steady",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "每个人",
+       "py": "měigèrén",
+       "gl": "everyone; each person",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "公平",
+       "py": "gōngpíng",
+       "gl": "fair",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I looked at those three dots of water and suddenly found the character beautiful.",
+   "phrases": [
+    {
+     "en": "I looked at those three dots of water and suddenly found the character beautiful.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "三点水",
+       "py": "sāndiǎnshuǐ",
+       "gl": "\"three drops of water\" radical (氵)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
+       "pos": "n."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "漂亮",
+       "py": "piàoliang",
+       "gl": "pretty; beautiful",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Once you can read radicals, guessing new words is much easier; but when you guess wrong, you can sometimes learn even more.",
+   "phrases": [
+    {
+     "en": "Once you can read radicals, guessing new words is much easier; but when you guess wrong, you can sometimes learn even more.",
      "words": [
       {
        "h": "学会",
@@ -493,23 +1006,18 @@
       {
        "h": "部首",
        "py": "bùshǒu",
-       "gl": "radical (of a Chinese character)",
+       "gl": "radical (of a character)",
        "pos": "n."
       },
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "guessing the meaning of new words got a lot easier.",
-     "words": [
+      },
       {
        "h": "猜",
        "py": "cāi",
@@ -525,7 +1033,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -543,14 +1051,68 @@
       {
        "h": "多",
        "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
+       "gl": "more (than)",
+       "pos": "adv."
       },
       {
        "h": "了",
        "py": "le",
        "gl": "particle: completed action / change of state",
        "pos": "particle"
+      },
+      {
+       "h": "；"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "猜",
+       "py": "cāi",
+       "gl": "guess",
+       "pos": "v."
+      },
+      {
+       "h": "错",
+       "py": "cuò",
+       "gl": "wrong; mistaken (坐错 take the wrong one)",
+       "pos": "adj."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有时候",
+       "py": "yǒushíhòu",
+       "gl": "sometimes",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "学到",
+       "py": "xuédào",
+       "gl": "learn",
+       "pos": "v."
+      },
+      {
+       "h": "更多",
+       "py": "gèngduō",
+       "gl": "more; even more",
+       "pos": "adj."
       },
       {
        "h": "。"

@@ -1,49 +1,80 @@
 {
  "id": "calligraphy",
  "level": 3,
- "title_zh": "学书法",
- "title_en": "Learning Calligraphy",
+ "title_zh": "墙上的字",
+ "title_en": "The Character on the Wall",
  "free": false,
  "audio_url": null,
- "note_en": "Repeating a number plus measure word shows that something is done one unit at a time: 一笔一笔慢慢来 \"go slowly, stroke by stroke.\" English uses \"by\" (step by step, one by one), but Chinese simply says the phrase twice. You'll also see 一点一点 \"little by little\" and 一个一个 \"one by one.\"",
+ "note_en": "The construction 一笔一笔 (\"stroke by stroke\") doubles a measure word with 一 and stresses slow, step-by-step action: 一笔一笔慢慢来 — \"take it slowly, stroke by stroke.\" It is like English \"one step at a time.\"",
  "sentences": [
   {
-   "en": "Since last year, I've been learning calligraphy from an old master.",
+   "en": "Last year I was under enormous stress at work, and a friend told me to learn calligraphy from an old master.",
    "phrases": [
     {
-     "en": "Since last year,",
+     "en": "Last year I was under enormous stress at work, and a friend told me to learn calligraphy from an old master.",
      "words": [
       {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
-       "pos": "v."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "去年",
+       "py": "qùnián",
+       "gl": "last year",
        "pos": "n."
       },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I've been learning calligraphy from an old master.",
-     "words": [
       {
        "h": "我",
        "py": "wǒ",
        "gl": "I; me",
        "pos": "pron."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "压力",
+       "py": "yālì",
+       "gl": "pressure; stress",
+       "pos": "n."
+      },
+      {
+       "h": "特别",
+       "py": "tèbié",
+       "gl": "especially; particularly",
+       "pos": "adv."
+      },
+      {
+       "h": "大",
+       "py": "dà",
+       "gl": "big; large",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "朋友",
+       "py": "péngyǒu",
+       "gl": "friend",
+       "pos": "n."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
       },
       {
        "h": "跟",
@@ -52,15 +83,9 @@
        "pos": "prep."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "位",
-       "py": "wèi",
-       "gl": "polite measure word for people",
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
        "pos": "measure word"
       },
       {
@@ -89,21 +114,15 @@
    ]
   },
   {
-   "en": "In the first class, the teacher only taught us how to hold the brush.",
+   "en": "At the first lesson the master didn't teach a single character — only how to hold the brush.",
    "phrases": [
     {
-     "en": "In the first class,",
+     "en": "At the first lesson the master didn't teach a single character — only how to hold the brush.",
      "words": [
       {
-       "h": "第",
-       "py": "dì",
-       "gl": "prefix for ordinal numbers (第一 \"first\")",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
        "pos": "num."
       },
       {
@@ -120,23 +139,36 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the teacher only taught us how to hold the brush.",
-     "words": [
+      },
       {
-       "h": "老师",
-       "py": "lǎoshī",
-       "gl": "teacher",
+       "h": "师傅",
+       "py": "shīfu",
+       "gl": "master (craftsman)",
        "pos": "n."
       },
       {
-       "h": "只",
-       "py": "zhī",
-       "gl": "measure word for animals (and one of a pair)",
-       "pos": "measure word"
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
       },
       {
        "h": "教",
@@ -145,16 +177,31 @@
        "pos": "v."
       },
       {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
+       "h": "，"
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
        "h": "怎么",
        "py": "zěnme",
        "gl": "how",
-       "pos": "question word"
+       "pos": "pron."
       },
       {
        "h": "拿",
@@ -176,11 +223,126 @@
    ]
   },
   {
-   "en": "When you write, you have to go slowly, stroke by stroke, and not rush.",
+   "en": "I got a bit impatient: \"I only have two hours a week, can we go a bit faster?\"",
    "phrases": [
     {
-     "en": "When you write,",
+     "en": "I got a bit impatient: \"I only have two hours a week, can we go a bit faster?\"",
      "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
+      },
+      {
+       "h": "着急",
+       "py": "zháojí",
+       "gl": "worried; anxious; in a hurry",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
+      },
+      {
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "能不能",
+       "py": "néngbùnéng",
+       "gl": "can or not; whether (one) can",
+       "pos": "v."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The master said, \"Writing has to be done slowly, stroke by stroke. People in a hurry can't write well.\"",
+   "phrases": [
+    {
+     "en": "The master said, \"Writing has to be done slowly, stroke by stroke. People in a hurry can't write well.\"",
+     "words": [
+      {
+       "h": "师傅",
+       "py": "shīfu",
+       "gl": "master (craftsman)",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
       {
        "h": "写字",
        "py": "xiězì",
@@ -188,51 +350,16 @@
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "you have to go slowly, stroke by stroke,",
-     "words": [
-      {
        "h": "要",
        "py": "yào",
-       "gl": "want; order; be going to; need",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "笔",
-       "py": "bǐ",
-       "gl": "pen; brush; stroke (of a character)",
-       "pos": "n."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "笔",
-       "py": "bǐ",
-       "gl": "pen; brush; stroke (of a character)",
-       "pos": "n."
+       "h": "一笔一笔",
+       "py": "yì bǐ yì bǐ",
+       "gl": "stroke by stroke",
+       "pos": "phrase"
       },
       {
        "h": "慢慢",
@@ -248,54 +375,24 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and not rush.",
-     "words": [
-      {
-       "h": "不能",
-       "py": "bùnéng",
-       "gl": "cannot; must not",
-       "pos": "function word"
       },
       {
-       "h": "着急",
-       "py": "zháojí",
-       "gl": "worried; anxious; in a hurry",
-       "pos": "v."
+       "h": "急",
+       "py": "jí",
+       "gl": "anxious; in a hurry",
+       "pos": "adj."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "At first my writing was really ugly, and I often got ink on my hands.",
-   "phrases": [
-    {
-     "en": "At first my writing was really ugly,",
-     "words": [
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
       },
       {
        "h": "写",
@@ -304,10 +401,47 @@
        "pos": "v."
       },
       {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
+       "h": "不好",
+       "py": "bùhǎo",
+       "gl": "bad; not good",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At first my writing was ugly, and I kept getting ink on my hands and clothes.",
+   "phrases": [
+    {
+     "en": "At first my writing was ugly, and I kept getting ink on my hands and clothes.",
+     "words": [
+      {
+       "h": "一开始",
+       "py": "yīkāishǐ",
+       "gl": "at first; in the beginning",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "写得",
+       "py": "xiědé",
+       "gl": "write (in a certain way)",
+       "pos": "v."
       },
       {
        "h": "很",
@@ -316,19 +450,14 @@
        "pos": "adv."
       },
       {
-       "h": "丑",
-       "py": "chǒu",
-       "gl": "ugly",
+       "h": "难看",
+       "py": "nánkàn",
+       "gl": "ugly; unsightly",
        "pos": "adj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and I often got ink on my hands.",
-     "words": [
+      },
       {
        "h": "墨",
        "py": "mò",
@@ -336,9 +465,9 @@
        "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
@@ -350,19 +479,189 @@
       {
        "h": "弄",
        "py": "nòng",
-       "gl": "get (something somewhere); do; make (墨弄到手上 'get ink on one's hands')",
+       "gl": "do; make; get",
        "pos": "v."
       },
       {
        "h": "到",
        "py": "dào",
-       "gl": "arrive; reach; come",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "衣服",
+       "py": "yīfu",
+       "gl": "clothes",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Once I got so angry I threw all the paper away.",
+   "phrases": [
+    {
+     "en": "Once I got so angry I threw all the paper away.",
+     "words": [
+      {
+       "h": "有一次",
+       "py": "yǒuyīcì",
+       "gl": "once; one time",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "气得",
+       "py": "qìdé",
+       "gl": "so angry that",
        "pos": "v."
       },
       {
-       "h": "手上",
-       "py": "shǒushàng",
-       "gl": "on one's hands; in one's hands",
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "纸",
+       "py": "zhǐ",
+       "gl": "paper",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "扔",
+       "py": "rēng",
+       "gl": "throw; throw away",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The master didn't scold me; he just pointed to a sheet with a character on the wall.",
+   "phrases": [
+    {
+     "en": "The master didn't scold me; he just pointed to a sheet with a character on the wall.",
+     "words": [
+      {
+       "h": "师傅",
+       "py": "shīfu",
+       "gl": "master (craftsman)",
+       "pos": "n."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
+      },
+      {
+       "h": "指",
+       "py": "zhǐ",
+       "gl": "refer to; mean; point at",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "function word"
+      },
+      {
+       "h": "墙上",
+       "py": "qiángshàng",
+       "gl": "on the wall",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "function word"
+      },
+      {
+       "h": "一张",
+       "py": "yīzhāng",
+       "gl": "a; one (measure word for flat objects: sheets, photos, discs)",
+       "pos": "num."
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
        "pos": "n."
       },
       {
@@ -373,49 +672,394 @@
    ]
   },
   {
-   "en": "After six months of practice, my characters finally started to look like something.",
+   "en": "The character was crooked, as if a small child had written it.",
    "phrases": [
     {
-     "en": "After six months of practice,",
+     "en": "The character was crooked, as if a small child had written it.",
      "words": [
       {
-       "h": "练习",
-       "py": "liànxí",
-       "gl": "practice; exercise",
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
+       "pos": "n."
+      },
+      {
+       "h": "写得",
+       "py": "xiědé",
+       "gl": "write (in a certain way)",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
+       "h": "歪歪",
+       "py": "wāiwāi",
+       "gl": "crooked",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "半",
-       "py": "bàn",
-       "gl": "half",
+       "h": "，"
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "小孩子",
+       "py": "xiǎoháizi",
+       "gl": "child; children",
+       "pos": "n."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Who wrote that?\" I asked.",
+   "phrases": [
+    {
+     "en": "\"Who wrote that?\" I asked.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "这是",
+       "py": "zhèshì",
+       "gl": "this is",
+       "pos": "phrase"
+      },
+      {
+       "h": "谁",
+       "py": "shuí",
+       "gl": "who; anyone; everyone",
+       "pos": "pron."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"I did,\" he said. \"The first character I wrote, the year I turned fifty.\"",
+   "phrases": [
+    {
+     "en": "\"I did,\" he said. \"The first character I wrote, the year I turned fifty.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "五十",
+       "py": "wǔshí",
+       "gl": "fifty",
        "pos": "num."
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "那年",
+       "py": "nànián",
+       "gl": "that year",
+       "pos": "n."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "第一个",
+       "py": "dìyígè",
+       "gl": "the first",
+       "pos": "num."
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I didn't believe him. Now many people can't buy his work at any price.",
+   "phrases": [
+    {
+     "en": "I didn't believe him. Now many people can't buy his work at any price.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "不相信",
+       "py": "bùxiāngxìn",
+       "gl": "not believe",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "n."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "很多人",
+       "py": "hěnduōrén",
+       "gl": "many people",
+       "pos": "pron."
+      },
+      {
+       "h": "花钱",
+       "py": "huāqián",
+       "gl": "spend money",
+       "pos": "v."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "买不到",
+       "py": "mǎibúdào",
+       "gl": "can't buy; unable to buy",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"I started late, so I couldn't afford to hurry.\"",
+   "phrases": [
+    {
+     "en": "\"I started late, so I couldn't afford to hurry.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start; beginning",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "晚",
+       "py": "wǎn",
+       "gl": "late",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "所以",
+       "py": "suǒyǐ",
+       "gl": "so; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
+      },
+      {
+       "h": "急",
+       "py": "jí",
+       "gl": "anxious; in a hurry",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Six months later, my characters finally started to look like something.",
+   "phrases": [
+    {
+     "en": "Six months later, my characters finally started to look like something.",
+     "words": [
+      {
+       "h": "半年",
+       "py": "bànnián",
+       "gl": "half a year; six months",
        "pos": "n."
       },
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "my characters finally started to look like something.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -425,7 +1069,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -449,7 +1093,7 @@
       {
        "h": "样子",
        "py": "yàngzi",
-       "gl": "appearance; look; shape",
+       "gl": "shape; form",
        "pos": "n."
       },
       {
@@ -466,28 +1110,52 @@
    ]
   },
   {
-   "en": "Calligraphy has made me more patient, and calmer too.",
+   "en": "I'm still very busy, but every evening I write for half an hour, stroke by stroke.",
    "phrases": [
     {
-     "en": "Calligraphy has made me more patient,",
+     "en": "I'm still very busy, but every evening I write for half an hour, stroke by stroke.",
      "words": [
       {
-       "h": "写",
-       "py": "xiě",
-       "gl": "write",
-       "pos": "v."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
-       "h": "书法",
-       "py": "shūfǎ",
-       "gl": "calligraphy",
+       "h": "还是",
+       "py": "háishi",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "忙",
+       "py": "máng",
+       "gl": "busy",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "每天晚上",
+       "py": "měitiānwǎnshàng",
+       "gl": "every evening; every night",
        "pos": "n."
       },
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
+       "h": "，"
       },
       {
        "h": "我",
@@ -496,66 +1164,98 @@
        "pos": "pron."
       },
       {
-       "h": "变得",
-       "py": "biàndé",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
        "pos": "adv."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
        "pos": "v."
       },
       {
-       "h": "耐心",
-       "py": "nàixīn",
-       "gl": "patient; patience",
-       "pos": "adj."
+       "h": "一笔一笔",
+       "py": "yì bǐ yì bǐ",
+       "gl": "stroke by stroke",
+       "pos": "phrase"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and my mood is calmer too.",
-     "words": [
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
       {
-       "h": "心情",
-       "py": "xīnqíng",
-       "gl": "mood",
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "半个小时",
+       "py": "bàngèxiǎoshí",
+       "gl": "half an hour",
        "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "For that half hour, my phone stays in another room.",
+   "phrases": [
+    {
+     "en": "For that half hour, my phone stays in another room.",
+     "words": [
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
       },
       {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
-       "pos": "adv."
+       "h": "半个小时",
+       "py": "bàngèxiǎoshí",
+       "gl": "half an hour",
+       "pos": "n."
       },
       {
-       "h": "平静",
-       "py": "píngjìng",
-       "gl": "calm; peaceful",
-       "pos": "adj."
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
+       "h": "，"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "另一个",
+       "py": "lìngyígè",
+       "gl": "another; the other",
+       "pos": "pron."
+      },
+      {
+       "h": "房间",
+       "py": "fángjiān",
+       "gl": "room",
+       "pos": "n."
       },
       {
        "h": "。"

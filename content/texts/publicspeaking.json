@@ -1,41 +1,24 @@
 {
  "id": "publicspeaking",
  "level": 3,
- "title_zh": "演讲",
- "title_en": "My Speech",
+ "title_zh": "楼梯间里的听众",
+ "title_en": "The Listener on the Stairs",
  "free": false,
  "audio_url": null,
- "note_en": "Verb + 不了 means you can't do something: 我到现在都忘不了 \"I still can't forget it.\" English puts \"can't\" before the verb; Chinese adds 不了 after it, and 到现在都 stresses \"even now.\"",
+ "note_en": "The resultative 忘不了 (\"can't forget\") = 忘 + 不 + 了: the negative \"unable to\" form of a resultative construction. It is useful for talking about strong impressions: 我到现在都忘不了 — \"I still can't forget it.\"",
  "sentences": [
   {
-   "en": "Last month my teacher asked me to give a speech for our class.",
+   "en": "Last month the teacher asked me to give a speech on behalf of our class.",
    "phrases": [
     {
-     "en": "Last month",
+     "en": "Last month the teacher asked me to give a speech on behalf of our class.",
      "words": [
       {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
-       "pos": "postposition"
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
+       "h": "上个月",
+       "py": "shànggèyuè",
+       "gl": "last month",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "my teacher asked me to give a speech representing our class.",
-     "words": [
+      },
       {
        "h": "老师",
        "py": "lǎoshī",
@@ -73,22 +56,16 @@
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
+       "h": "一次",
+       "py": "yīcì",
+       "gl": "once; in one go; at the first attempt",
        "pos": "measure word"
       },
       {
        "h": "演讲",
        "py": "yǎnjiǎng",
-       "gl": "give a speech; speech",
-       "pos": "v."
+       "gl": "speech",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -98,10 +75,10 @@
    ]
   },
   {
-   "en": "Ever since I was little, I've been scared of speaking in front of a lot of people.",
+   "en": "Ever since I was little, I've been afraid of speaking in front of crowds.",
    "phrases": [
     {
-     "en": "Ever since I was little, I've been scared of speaking in front of a lot of people.",
+     "en": "Ever since I was little, I've been afraid of speaking in front of crowds.",
      "words": [
       {
        "h": "我",
@@ -118,7 +95,7 @@
       {
        "h": "就",
        "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
@@ -130,30 +107,24 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
+       "h": "人多",
+       "py": "rénduō",
+       "gl": "crowded; many people",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "地方",
-       "py": "dìfang",
+       "py": "dìfāng",
        "gl": "place",
        "pos": "n."
       },
@@ -171,10 +142,10 @@
    ]
   },
   {
-   "en": "While I was getting ready, I practiced in front of the mirror again and again.",
+   "en": "While preparing, I practised many times in front of the mirror.",
    "phrases": [
     {
-     "en": "While I was getting ready,",
+     "en": "While preparing, I practised many times in front of the mirror.",
      "words": [
       {
        "h": "准备",
@@ -183,25 +154,14 @@
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I practiced in front of the mirror again and again.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -209,10 +169,16 @@
        "pos": "pron."
       },
       {
-       "h": "对着",
-       "py": "duìzhe",
-       "gl": "facing; at",
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
        "pos": "prep."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
       },
       {
        "h": "镜子",
@@ -233,15 +199,9 @@
        "pos": "particle"
       },
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "遍",
-       "py": "biàn",
-       "gl": "measure word for times (doing something from start to finish)",
+       "h": "很多遍",
+       "py": "hěnduōbiàn",
+       "gl": "many times",
        "pos": "measure word"
       },
       {
@@ -252,10 +212,250 @@
    ]
   },
   {
-   "en": "The moment I stepped on stage, my hands wouldn't stop shaking.",
+   "en": "There were too many people at home, so every morning I went to practise in the school stairwell.",
    "phrases": [
     {
-     "en": "The moment I stepped on stage,",
+     "en": "There were too many people at home, so every morning I went to practise in the school stairwell.",
+     "words": [
+      {
+       "h": "家里",
+       "py": "jiālǐ",
+       "gl": "at home; in the family",
+       "pos": "n."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "学校",
+       "py": "xuéxiào",
+       "gl": "school",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "楼梯间",
+       "py": "lóutījiān",
+       "gl": "stairwell",
+       "pos": "n."
+      },
+      {
+       "h": "练",
+       "py": "liàn",
+       "gl": "practice; train",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "There was only one other person in the stairwell — the cleaning lady.",
+   "phrases": [
+    {
+     "en": "There was only one other person in the stairwell — the cleaning lady.",
+     "words": [
+      {
+       "h": "楼梯间",
+       "py": "lóutījiān",
+       "gl": "stairwell",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "打扫",
+       "py": "dǎsǎo",
+       "gl": "clean (up); sweep",
+       "pos": "v."
+      },
+      {
+       "h": "卫生",
+       "py": "wèishēng",
+       "gl": "health (public health)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "保洁",
+       "py": "bǎojié",
+       "gl": "cleaner",
+       "pos": "n."
+      },
+      {
+       "h": "阿姨",
+       "py": "āyí",
+       "gl": "auntie (older woman)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She swept there every day and had never said a word.",
+   "phrases": [
+    {
+     "en": "She swept there every day and had never said a word.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "那里",
+       "py": "nàlǐ",
+       "gl": "there",
+       "pos": "pron."
+      },
+      {
+       "h": "扫地",
+       "py": "sǎodì",
+       "gl": "sweep the floor",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "从来没有",
+       "py": "cóngláiméiyǒu",
+       "gl": "never (have)",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "一句话",
+       "py": "yījùhuà",
+       "gl": "(not) a single word",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The moment I went on stage, my hands wouldn't stop shaking.",
+   "phrases": [
+    {
+     "en": "The moment I went on stage, my hands wouldn't stop shaking.",
      "words": [
       {
        "h": "上台",
@@ -266,35 +466,18 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "刻",
-       "py": "kè",
-       "gl": "moment (那一刻 'that moment'); carve; engrave",
-       "pos": "v."
+       "h": "那一刻",
+       "py": "nàyīkè",
+       "gl": "that moment",
+       "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "my hands kept shaking.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -304,7 +487,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -316,13 +499,13 @@
       {
        "h": "一直",
        "py": "yìzhí",
-       "gl": "all the time; continuously; straight",
+       "gl": "all along; always; continuously",
        "pos": "adv."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -339,10 +522,271 @@
    ]
   },
   {
-   "en": "After a minute of talking, I slowly relaxed.",
+   "en": "I looked at the hundreds of people below, and my mind went blank.",
    "phrases": [
     {
-     "en": "After talking for a minute,",
+     "en": "I looked at the hundreds of people below, and my mind went blank.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "下面",
+       "py": "xiàmiàn",
+       "gl": "under; below; beneath",
+       "pos": "postposition"
+      },
+      {
+       "h": "几百",
+       "py": "jǐbǎi",
+       "gl": "several hundred",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "脑子",
+       "py": "nǎozi",
+       "gl": "brain; mind",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Just then I saw, in the very back row, the cleaning lady standing in the doorway with her broom, nodding at me.",
+   "phrases": [
+    {
+     "en": "Just then I saw, in the very back row, the cleaning lady standing in the doorway with her broom, nodding at me.",
+     "words": [
+      {
+       "h": "这时候",
+       "py": "zhèshíhòu",
+       "gl": "at this time; at this point",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "看见",
+       "py": "kànjiàn",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
+       "pos": "adj."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "排",
+       "py": "pái",
+       "gl": "measure word for rows",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "保洁",
+       "py": "bǎojié",
+       "gl": "cleaner",
+       "pos": "n."
+      },
+      {
+       "h": "阿姨",
+       "py": "āyí",
+       "gl": "auntie (older woman)",
+       "pos": "n."
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "扫把",
+       "py": "sàobǎ",
+       "gl": "broom",
+       "pos": "n."
+      },
+      {
+       "h": "站在",
+       "py": "zhànzài",
+       "gl": "stand in; stand on; stand at",
+       "pos": "v."
+      },
+      {
+       "h": "门口",
+       "py": "ménkǒu",
+       "gl": "entrance; doorway",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "点了点头",
+       "py": "diǎnlediǎntóu",
+       "gl": "nodded",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Just like every morning in the stairwell.",
+   "phrases": [
+    {
+     "en": "Just like every morning in the stairwell.",
+     "words": [
+      {
+       "h": "就像",
+       "py": "jiùxiàng",
+       "gl": "be just like",
+       "pos": "conj."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "楼梯间",
+       "py": "lóutījiān",
+       "gl": "stairwell",
+       "pos": "n."
+      },
+      {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After a minute of speaking, I slowly relaxed.",
+   "phrases": [
+    {
+     "en": "After a minute of speaking, I slowly relaxed.",
      "words": [
       {
        "h": "讲",
@@ -371,17 +815,12 @@
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I slowly relaxed.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -420,16 +859,16 @@
    ]
   },
   {
-   "en": "I still can't forget the applause after my speech.",
+   "en": "I still can't forget the applause at the end of the speech.",
    "phrases": [
     {
-     "en": "The applause after my speech ended,",
+     "en": "I still can't forget the applause at the end of the speech.",
      "words": [
       {
        "h": "演讲",
        "py": "yǎnjiǎng",
-       "gl": "give a speech; speech",
-       "pos": "v."
+       "gl": "speech",
+       "pos": "n."
       },
       {
        "h": "结束",
@@ -440,13 +879,13 @@
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -457,12 +896,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I still can't forget it even now.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -470,16 +904,10 @@
        "pos": "pron."
       },
       {
-       "h": "到",
-       "py": "dào",
-       "gl": "arrive; reach; come",
-       "pos": "v."
-      },
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
+       "h": "到现在",
+       "py": "dàoxiànzài",
+       "gl": "until now; to this day",
+       "pos": "adv."
       },
       {
        "h": "都",
@@ -488,22 +916,104 @@
        "pos": "adv."
       },
       {
-       "h": "忘",
-       "py": "wàng",
-       "gl": "forget",
+       "h": "忘不了",
+       "py": "wàng bu liǎo",
+       "gl": "can't forget",
        "pos": "v."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The first to clap was the person in the back row holding a broom.",
+   "phrases": [
+    {
+     "en": "The first to clap was the person in the back row holding a broom.",
+     "words": [
+      {
+       "h": "第一个",
+       "py": "dìyígè",
+       "gl": "the first",
+       "pos": "num."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
+       "h": "鼓掌",
+       "py": "gǔzhǎng",
+       "gl": "applaud; clap",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
+       "pos": "adj."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "排",
+       "py": "pái",
+       "gl": "measure word for rows",
+       "pos": "measure word"
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "扫把",
+       "py": "sàobǎ",
+       "gl": "broom",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
       },
       {
        "h": "。"

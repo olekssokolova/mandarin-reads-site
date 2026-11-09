@@ -1,67 +1,41 @@
 {
  "id": "noodles",
  "level": 3,
- "title_zh": "一碗牛肉面",
- "title_en": "A Bowl of Beef Noodles",
+ "title_zh": "四点的面馆",
+ "title_en": "The Noodle Shop at Four in the Morning",
  "free": false,
  "audio_url": null,
- "note_en": "就 and 才 go before the verb and show how you feel about the timing. 就 means earlier or sooner than expected: 我六点就去了 \"I went at six already.\" 才 means later than expected: 我常常八点才到 \"I often don't get there until eight.\" English uses words like \"already\" and \"not until,\" but Chinese packs it into one small word.",
+ "note_en": "就 and 才 are both about time, but with different shades: 四点就起床 — \"gets up as early as four,\" 八点才起床 — \"doesn't get up until eight.\" At the end of the story they swap places: 他五点才到，因为我四点就到了.",
  "sentences": [
   {
-   "en": "Near my home, there's a little noodle shop.",
+   "en": "My family runs a small noodle shop, and our most famous dish is beef noodles.",
    "phrases": [
     {
-     "en": "Near my home,",
+     "en": "My family runs a small noodle shop, and our most famous dish is beef noodles.",
      "words": [
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
+       "h": "我家",
+       "py": "wǒjiā",
+       "gl": "my home; my family",
        "pos": "n."
       },
       {
-       "h": "附近",
-       "py": "fùjìn",
-       "gl": "nearby; vicinity",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "there's a little noodle shop.",
-     "words": [
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; start (a business)",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "n."
+       "h": "一家",
+       "py": "yìjiā",
+       "gl": "a; one (shop, family, company)",
+       "pos": "measure word"
       },
       {
        "h": "小",
@@ -76,75 +50,30 @@
        "pos": "n."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The owner is a man in his fifties.",
-   "phrases": [
-    {
-     "en": "The owner is",
-     "words": [
+       "h": "，"
+      },
       {
-       "h": "老板",
-       "py": "lǎobǎn",
-       "gl": "boss; shop owner",
-       "pos": "n."
+       "h": "最有名",
+       "py": "zuìyǒumíng",
+       "gl": "most famous",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "是",
        "py": "shì",
        "gl": "be (is; am; are)",
        "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "a man in his fifties.",
-     "words": [
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
       },
       {
-       "h": "位",
-       "py": "wèi",
-       "gl": "polite measure word for people",
-       "pos": "measure word"
-      },
-      {
-       "h": "五十",
-       "py": "wǔshí",
-       "gl": "fifty",
-       "pos": "num."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
-      },
-      {
-       "h": "岁",
-       "py": "suì",
-       "gl": "year (of age): years old",
-       "pos": "measure word"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "叔叔",
-       "py": "shūshū",
-       "gl": "uncle; (polite) older man",
+       "h": "牛肉面",
+       "py": "niúròumiàn",
+       "gl": "beef noodles",
        "pos": "n."
       },
       {
@@ -155,16 +84,16 @@
    ]
   },
   {
-   "en": "He gets up at four every morning and starts making the dough.",
+   "en": "Dad gets up as early as four every morning and starts making the dough.",
    "phrases": [
     {
-     "en": "He gets up as early as four every morning",
+     "en": "Dad gets up as early as four every morning and starts making the dough.",
      "words": [
       {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
       },
       {
        "h": "每天",
@@ -174,7 +103,7 @@
       },
       {
        "h": "早上",
-       "py": "zǎoshang",
+       "py": "zǎoshàng",
        "gl": "morning",
        "pos": "n."
       },
@@ -193,7 +122,7 @@
       {
        "h": "就",
        "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
@@ -203,28 +132,17 @@
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and starts making the dough.",
-     "words": [
+      },
       {
        "h": "开始",
        "py": "kāishǐ",
-       "gl": "begin; start; beginning",
+       "gl": "begin; start",
        "pos": "v."
       },
       {
        "h": "和面",
-       "py": "huómiàn",
+       "py": "huó miàn",
        "gl": "knead dough",
        "pos": "v."
       },
@@ -236,10 +154,10 @@
    ]
   },
   {
-   "en": "The shop opens at seven, but by six thirty there's already a line at the door.",
+   "en": "The shop opens at seven, but by half past six there's already a queue outside.",
    "phrases": [
     {
-     "en": "The shop opens at seven,",
+     "en": "The shop opens at seven, but by half past six there's already a queue outside.",
      "words": [
       {
        "h": "面馆",
@@ -267,12 +185,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but by six thirty people are already lining up at the door.",
-     "words": [
+      },
       {
        "h": "可是",
        "py": "kěshì",
@@ -280,16 +193,10 @@
        "pos": "conj."
       },
       {
-       "h": "六",
-       "py": "liù",
-       "gl": "six",
-       "pos": "num."
-      },
-      {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "o'clock; point; dot",
-       "pos": "measure word"
+       "h": "六点",
+       "py": "liùdiǎn",
+       "gl": "six o'clock",
+       "pos": "n."
       },
       {
        "h": "半",
@@ -306,26 +213,14 @@
       {
        "h": "就",
        "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
+       "h": "有人",
+       "py": "yǒurén",
+       "gl": "someone; some people",
+       "pos": "pron."
       },
       {
        "h": "排队",
@@ -334,49 +229,12 @@
        "pos": "v."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The most famous dish is the beef noodles.",
-   "phrases": [
-    {
-     "en": "The most famous dish is the beef noodles.",
-     "words": [
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "有名",
-       "py": "yǒumíng",
-       "gl": "famous; well-known",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "牛肉面",
-       "py": "niúròumiàn",
-       "gl": "beef noodles",
-       "pos": "n."
-      },
-      {
        "h": "。"
       }
      ]
@@ -384,97 +242,25 @@
    ]
   },
   {
-   "en": "The owner makes the noodles himself, and the broth smells great too.",
+   "en": "As for me, I usually didn't get up until eight, by which time Dad had sold over a hundred bowls.",
    "phrases": [
     {
-     "en": "The owner makes the noodles himself,",
-     "words": [
-      {
-       "h": "面条",
-       "py": "miàntiáo",
-       "gl": "noodles",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "老板",
-       "py": "lǎobǎn",
-       "gl": "boss; shop owner",
-       "pos": "n."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the broth smells great too.",
-     "words": [
-      {
-       "h": "汤",
-       "py": "tāng",
-       "gl": "soup; broth",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "香",
-       "py": "xiāng",
-       "gl": "fragrant; smell good",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I usually don't get there until eight, and by then all the good seats are gone.",
-   "phrases": [
-    {
-     "en": "I usually don't get there until eight,",
+     "en": "As for me, I usually didn't get up until eight, by which time Dad had sold over a hundred bowls.",
      "words": [
       {
        "h": "我",
        "py": "wǒ",
        "gl": "I; me",
        "pos": "pron."
+      },
+      {
+       "h": "呢",
+       "py": "ne",
+       "gl": "particle: action in progress; softens a statement; question particle",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
       },
       {
        "h": "常常",
@@ -497,58 +283,59 @@
       {
        "h": "才",
        "py": "cái",
-       "gl": "only; only then; not until",
+       "gl": "only then; not until",
        "pos": "adv."
       },
       {
-       "h": "到",
-       "py": "dào",
-       "gl": "arrive; reach; come",
+       "h": "起床",
+       "py": "qǐchuáng",
+       "gl": "get up (out of bed)",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and by then all the good seats are gone.",
-     "words": [
-      {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
       },
       {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
+       "h": "那时候",
+       "py": "nàshíhòu",
+       "gl": "at that time; back then",
        "pos": "n."
       },
       {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
-      },
-      {
-       "h": "座位",
-       "py": "zuòwèi",
-       "gl": "seat",
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
        "pos": "n."
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
        "pos": "adv."
       },
       {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
        "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一百多",
+       "py": "yìbǎiduō",
+       "gl": "over a hundred",
+       "pos": "num."
+      },
+      {
+       "h": "碗",
+       "py": "wǎn",
+       "gl": "bowl (also measure word)",
+       "pos": "measure word"
       },
       {
        "h": "了",
@@ -564,272 +351,10 @@
    ]
   },
   {
-   "en": "One day I went at six and finally got the very first bowl.",
+   "en": "I thought making noodles was too exhausting, and after graduating I wanted to work in a big city.",
    "phrases": [
     {
-     "en": "One day",
-     "words": [
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "sky; day",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I went as early as six",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "六",
-       "py": "liù",
-       "gl": "six",
-       "pos": "num."
-      },
-      {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "o'clock; point; dot",
-       "pos": "measure word"
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and finally got the very first bowl.",
-     "words": [
-      {
-       "h": "终于",
-       "py": "zhōngyú",
-       "gl": "finally; at last",
-       "pos": "adv."
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "arrive; reach; come",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "第",
-       "py": "dì",
-       "gl": "prefix for ordinal numbers (第一 \"first\")",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "碗",
-       "py": "wǎn",
-       "gl": "bowl (also measure word)",
-       "pos": "measure word"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The owner smiled and said, \"You're here really early today!\"",
-   "phrases": [
-    {
-     "en": "The owner smiled and said,",
-     "words": [
-      {
-       "h": "老板",
-       "py": "lǎobǎn",
-       "gl": "boss; shop owner",
-       "pos": "n."
-      },
-      {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"You're here really early today!\"",
-     "words": [
-      {
-       "h": "“"
-      },
-      {
-       "h": "今天",
-       "py": "jīntiān",
-       "gl": "today",
-       "pos": "n."
-      },
-      {
-       "h": "你",
-       "py": "nǐ",
-       "gl": "you",
-       "pos": "pron."
-      },
-      {
-       "h": "来",
-       "py": "lái",
-       "gl": "come; arrive",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
-      },
-      {
-       "h": "真",
-       "py": "zhēn",
-       "gl": "really; truly; real",
-       "pos": "adv."
-      },
-      {
-       "h": "早",
-       "py": "zǎo",
-       "gl": "early",
-       "pos": "adj."
-      },
-      {
-       "h": "！"
-      },
-      {
-       "h": "”"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "That bowl of noodles was hot and delicious. I thought it was the best noodles in the world.",
-   "phrases": [
-    {
-     "en": "That bowl of noodles was hot and delicious.",
-     "words": [
-      {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
-      },
-      {
-       "h": "碗",
-       "py": "wǎn",
-       "gl": "bowl (also measure word)",
-       "pos": "measure word"
-      },
-      {
-       "h": "面",
-       "py": "miàn",
-       "gl": "face (见一面 meet once); noodles; flour",
-       "pos": "n."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "热",
-       "py": "rè",
-       "gl": "hot",
-       "pos": "adj."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "香",
-       "py": "xiāng",
-       "gl": "fragrant; smell good",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I thought it was the best noodles in the world.",
+     "en": "I thought making noodles was too exhausting, and after graduating I wanted to work in a big city.",
      "words": [
       {
        "h": "我",
@@ -844,45 +369,813 @@
        "pos": "v."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "做",
+       "py": "zuò",
+       "gl": "serve as (an official)",
        "pos": "v."
-      },
-      {
-       "h": "世界",
-       "py": "shìjiè",
-       "gl": "world",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
-       "pos": "postposition"
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "好吃",
-       "py": "hǎochī",
-       "gl": "tasty; delicious",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
       },
       {
        "h": "面",
        "py": "miàn",
-       "gl": "face (见一面 meet once); noodles; flour",
+       "gl": "noodles",
+       "pos": "n."
+      },
+      {
+       "h": "太累",
+       "py": "tàilèi",
+       "gl": "too tired; too tiring",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "毕业",
+       "py": "bìyè",
+       "gl": "graduate",
+       "pos": "v."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go",
+       "pos": "v."
+      },
+      {
+       "h": "大城市",
+       "py": "dàchéngshì",
+       "gl": "big city",
+       "pos": "n."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Last month Dad hurt his back moving things, and the doctor told him to rest for two weeks.",
+   "phrases": [
+    {
+     "en": "Last month Dad hurt his back moving things, and the doctor told him to rest for two weeks.",
+     "words": [
+      {
+       "h": "上个月",
+       "py": "shànggèyuè",
+       "gl": "last month",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "搬",
+       "py": "bān",
+       "gl": "move (house); carry",
+       "pos": "v."
+      },
+      {
+       "h": "东西",
+       "py": "dōngxi",
+       "gl": "thing; things; stuff",
+       "pos": "n."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "伤",
+       "py": "shāng",
+       "gl": "injure",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "腰",
+       "py": "yāo",
+       "gl": "lower back",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "医生",
+       "py": "yīshēng",
+       "gl": "doctor",
+       "pos": "n."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "休息",
+       "py": "xiūxī",
+       "gl": "rest",
+       "pos": "v."
+      },
+      {
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The next morning at four, for the first time, I got up on my own to make the dough.",
+   "phrases": [
+    {
+     "en": "The next morning at four, for the first time, I got up on my own to make the dough.",
+     "words": [
+      {
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
+       "pos": "n."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "四",
+       "py": "sì",
+       "gl": "four",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
+      },
+      {
+       "h": "和面",
+       "py": "huó miàn",
+       "gl": "knead dough",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The noodles were too hard, the broth wasn't fragrant enough, and we didn't open until half past seven.",
+   "phrases": [
+    {
+     "en": "The noodles were too hard, the broth wasn't fragrant enough, and we didn't open until half past seven.",
+     "words": [
+      {
+       "h": "面",
+       "py": "miàn",
+       "gl": "noodles",
+       "pos": "n."
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "硬",
+       "py": "yìng",
+       "gl": "hard; stiff",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "汤",
+       "py": "tāng",
+       "gl": "soup; broth",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不够",
+       "py": "bùgòu",
+       "gl": "not enough; be short of",
+       "pos": "adv."
+      },
+      {
+       "h": "香",
+       "py": "xiāng",
+       "gl": "fragrant; smell good",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "七点半",
+       "py": "qīdiǎnbàn",
+       "gl": "half past seven; 7:30",
+       "pos": "phrase"
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "开门",
+       "py": "kāimén",
+       "gl": "open (for business); open the door",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But the customers in the queue didn't leave.",
+   "phrases": [
+    {
+     "en": "But the customers in the queue didn't leave.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "门口",
+       "py": "ménkǒu",
+       "gl": "entrance; doorway",
+       "pos": "n."
+      },
+      {
+       "h": "排队",
+       "py": "páiduì",
+       "gl": "line up; stand in line",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "客人",
+       "py": "kèrén",
+       "gl": "guest; customer",
+       "pos": "n."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "One regular took a mouthful and said, \"That's not your dad's taste.\"",
+   "phrases": [
+    {
+     "en": "One regular took a mouthful and said, \"That's not your dad's taste.\"",
+     "words": [
+      {
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
+       "pos": "measure word"
+      },
+      {
+       "h": "老客人",
+       "py": "lǎo kèrén",
+       "gl": "regular customer",
+       "pos": "n."
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一口",
+       "py": "yīkǒu",
+       "gl": "a mouthful; a bite",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "味道",
+       "py": "wèidào",
+       "gl": "taste; flavor",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I hung my head.",
+   "phrases": [
+    {
+     "en": "I hung my head.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "低下",
+       "py": "dīxià",
+       "gl": "lower; bow (one's head)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "头",
+       "py": "tóu",
+       "gl": "head",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Then he added, \"But I'll be back tomorrow.\"",
+   "phrases": [
+    {
+     "en": "Then he added, \"But I'll be back tomorrow.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "明天",
+       "py": "míngtiān",
+       "gl": "tomorrow",
+       "pos": "n."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Two weeks later, Dad came back to the shop. He didn't arrive until five — because I was already there at four.",
+   "phrases": [
+    {
+     "en": "Two weeks later, Dad came back to the shop. He didn't arrive until five — because I was already there at four.",
+     "words": [
+      {
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after; later; in the future",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "回到",
+       "py": "huídào",
+       "gl": "return to; get back to",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "面馆",
+       "py": "miànguǎn",
+       "gl": "noodle shop",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "五点",
+       "py": "wǔdiǎn",
+       "gl": "five o'clock",
+       "pos": "n."
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "因为",
+       "py": "yīnwèi",
+       "gl": "because",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "四",
+       "py": "sì",
+       "gl": "four",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "到了",
+       "py": "dàole",
+       "gl": "reach; arrive; when it comes to (time); by (到了清朝 by the Qing dynasty)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He tasted the broth, said nothing, and just added a little more salt.",
+   "phrases": [
+    {
+     "en": "He tasted the broth, said nothing, and just added a little more salt.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "尝",
+       "py": "cháng",
+       "gl": "taste; try (food)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一口",
+       "py": "yìkǒu",
+       "gl": "a mouthful; a bite",
+       "pos": "measure word"
+      },
+      {
+       "h": "汤",
+       "py": "tāng",
+       "gl": "soup; broth",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "盐",
+       "py": "yán",
+       "gl": "salt",
        "pos": "n."
       },
       {

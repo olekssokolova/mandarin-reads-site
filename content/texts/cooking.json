@@ -1,17 +1,17 @@
 {
  "id": "cooking",
  "level": 3,
- "title_zh": "学做中国菜",
- "title_en": "Learning to Cook Chinese Food",
+ "title_zh": "一盘甜的，一盘咸的",
+ "title_en": "One Plate Sweet, One Plate Salty",
  "free": true,
  "audio_url": null,
- "note_en": "The 把 (bǎ) structure moves the object in front of the verb to show what you do to it and where it ends up: 先把鸡蛋打在碗里 \"First crack the eggs into a bowl,\" 把西红柿切成小块 \"cut the tomatoes into small pieces.\" English just says verb + object, but in Chinese, when something gets moved or changed like this, 把 is usually needed.",
+ "note_en": "The 把 construction moves the object in front of the verb: 先把鸡蛋打在碗里 — \"first crack the eggs into a bowl.\" It is needed when something is done to an object and it ends up in a new place or state. English word order is fixed differently, and in Chinese such sentences often sound unnatural without 把.",
  "sentences": [
   {
-   "en": "I've been learning to cook Chinese food lately.",
+   "en": "I've been learning to cook Chinese food lately, and my first dish was tomato and egg stir-fry.",
    "phrases": [
     {
-     "en": "Lately I've been",
+     "en": "I've been learning to cook Chinese food lately, and my first dish was tomato and egg stir-fry.",
      "words": [
       {
        "h": "我",
@@ -23,17 +23,12 @@
        "h": "最近",
        "py": "zuìjìn",
        "gl": "recently; lately",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "learning to cook Chinese food.",
-     "words": [
+       "pos": "adv."
+      },
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -49,40 +44,18 @@
        "pos": "v."
       },
       {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "菜",
-       "py": "cài",
-       "gl": "vegetable; dish (food)",
+       "h": "中国菜",
+       "py": "zhōngguócài",
+       "gl": "Chinese cuisine; Chinese dish",
        "pos": "n."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The first dish is tomato and egg stir-fry — it's really easy.",
-   "phrases": [
-    {
-     "en": "The first dish is tomato and egg stir-fry,",
-     "words": [
-      {
-       "h": "第",
-       "py": "dì",
-       "gl": "prefix for ordinal numbers (第一 \"first\")",
-       "pos": "particle"
+       "h": "，"
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
        "pos": "num."
       },
       {
@@ -94,7 +67,7 @@
       {
        "h": "菜",
        "py": "cài",
-       "gl": "vegetable; dish (food)",
+       "gl": "dish (food); cuisine",
        "pos": "n."
       },
       {
@@ -104,42 +77,10 @@
        "pos": "v."
       },
       {
-       "h": "西红柿",
-       "py": "xīhóngshì",
-       "gl": "tomato",
+       "h": "西红柿炒鸡蛋",
+       "py": "xīhóngshì chǎo jīdàn",
+       "gl": "tomato and egg stir-fry",
        "pos": "n."
-      },
-      {
-       "h": "炒",
-       "py": "chǎo",
-       "gl": "stir-fry",
-       "pos": "v."
-      },
-      {
-       "h": "鸡蛋",
-       "py": "jīdàn",
-       "gl": "egg; chicken egg",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "really easy.",
-     "words": [
-      {
-       "h": "非常",
-       "py": "fēicháng",
-       "gl": "very; extremely",
-       "pos": "adv."
-      },
-      {
-       "h": "简单",
-       "py": "jiǎndān",
-       "gl": "simple; easy",
-       "pos": "adj."
       },
       {
        "h": "。"
@@ -149,11 +90,32 @@
    ]
   },
   {
-   "en": "First crack the eggs into a bowl, then add a little salt.",
+   "en": "It looks simple: first crack the eggs into a bowl, then cut the tomatoes into small pieces.",
    "phrases": [
     {
-     "en": "First crack the eggs into a bowl,",
+     "en": "It looks simple: first crack the eggs into a bowl, then cut the tomatoes into small pieces.",
      "words": [
+      {
+       "h": "看起来",
+       "py": "kànqǐlái",
+       "gl": "look; seem; appear",
+       "pos": "v."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "简单",
+       "py": "jiǎndān",
+       "gl": "simple; easy",
+       "pos": "adj."
+      },
+      {
+       "h": "："
+      },
       {
        "h": "先",
        "py": "xiān",
@@ -175,13 +137,13 @@
       {
        "h": "打",
        "py": "dǎ",
-       "gl": "hit; play (ball games); make (a phone call)",
+       "gl": "crack (an egg)",
        "pos": "v."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -192,66 +154,19 @@
       },
       {
        "h": "里",
-       "py": "li",
+       "py": "lǐ",
        "gl": "in; inside",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "then add a little salt.",
-     "words": [
+      },
       {
        "h": "再",
        "py": "zài",
        "gl": "again; then",
        "pos": "adv."
       },
-      {
-       "h": "加",
-       "py": "jiā",
-       "gl": "add",
-       "pos": "v."
-      },
-      {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; a bit",
-       "pos": "adv."
-      },
-      {
-       "h": "盐",
-       "py": "yán",
-       "gl": "salt",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Next, cut the tomatoes into small pieces.",
-   "phrases": [
-    {
-     "en": "Next,",
-     "words": [
-      {
-       "h": "然后",
-       "py": "ránhòu",
-       "gl": "then; after that",
-       "pos": "conj."
-      }
-     ]
-    },
-    {
-     "en": "cut the tomatoes into small pieces.",
-     "words": [
       {
        "h": "把",
        "py": "bǎ",
@@ -265,28 +180,16 @@
        "pos": "n."
       },
       {
-       "h": "切",
-       "py": "qiè",
-       "gl": "cut; slice; chop",
+       "h": "切成",
+       "py": "qièchéng",
+       "gl": "cut into",
        "pos": "v."
       },
       {
-       "h": "成",
-       "py": "chéng",
-       "gl": "into; become; turn into",
-       "pos": "v."
-      },
-      {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "块",
-       "py": "kuài",
-       "gl": "yuan (colloquial); measure word for pieces (bread, cake)",
-       "pos": "measure word"
+       "h": "小块",
+       "py": "xiǎokuài",
+       "gl": "small piece",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -296,15 +199,15 @@
    ]
   },
   {
-   "en": "Once the wok is hot, fry the eggs first, then add the tomatoes.",
+   "en": "When the wok is hot, fry the eggs first, then add the tomatoes.",
    "phrases": [
     {
-     "en": "Once the wok is hot,",
+     "en": "When the wok is hot, fry the eggs first, then add the tomatoes.",
      "words": [
       {
        "h": "锅",
        "py": "guō",
-       "gl": "wok; pot; pan",
+       "gl": "wok",
        "pos": "n."
       },
       {
@@ -327,12 +230,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "fry the eggs first,",
-     "words": [
+      },
       {
        "h": "先",
        "py": "xiān",
@@ -353,12 +251,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "then add the tomatoes.",
-     "words": [
+      },
       {
        "h": "再",
        "py": "zài",
@@ -368,7 +261,7 @@
       {
        "h": "放",
        "py": "fàng",
-       "gl": "put; place; let off (fireworks)",
+       "gl": "put; place",
        "pos": "v."
       },
       {
@@ -385,37 +278,766 @@
    ]
   },
   {
-   "en": "Two minutes later, a red-and-yellow dish is ready.",
+   "en": "I asked my Chinese friend Xiao Zhong, \"What goes in at the end?\"",
    "phrases": [
     {
-     "en": "Two minutes later,",
+     "en": "I asked my Chinese friend Xiao Zhong, \"What goes in at the end?\"",
      "words": [
       {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two (before measure words)",
-       "pos": "num."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
-       "h": "分钟",
-       "py": "fēnzhōng",
-       "gl": "minute",
-       "pos": "measure word"
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
       },
       {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "朋友",
+       "py": "péngyǒu",
+       "gl": "friend",
+       "pos": "n."
+      },
+      {
+       "h": "小钟",
+       "py": "Xiǎo Zhōng",
+       "gl": "Xiao Zhong",
+       "pos": "proper noun"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally",
+       "pos": "n."
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He said, \"Salt, of course.\"",
+   "phrases": [
+    {
+     "en": "He said, \"Salt, of course.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "当然",
+       "py": "dāngrán",
+       "gl": "of course; certainly",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "盐",
+       "py": "yán",
+       "gl": "salt",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Then I asked another friend, A Xuan, and he said, \"Sugar, of course.\"",
+   "phrases": [
+    {
+     "en": "Then I asked another friend, A Xuan, and he said, \"Sugar, of course.\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "另一个",
+       "py": "lìngyígè",
+       "gl": "another; the other",
+       "pos": "pron."
+      },
+      {
+       "h": "朋友",
+       "py": "péngyǒu",
+       "gl": "friend",
+       "pos": "n."
+      },
+      {
+       "h": "阿轩",
+       "py": "Ā Xuān",
+       "gl": "A Xuan",
+       "pos": "proper noun"
       },
       {
        "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "当然",
+       "py": "dāngrán",
+       "gl": "of course; certainly",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "糖",
+       "py": "táng",
+       "gl": "sugar; candy",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "Xiao Zhong is from the north and A Xuan from the south, and they argued about it for half an hour.",
+   "phrases": [
     {
-     "en": "a plate of red and yellow food",
+     "en": "Xiao Zhong is from the north and A Xuan from the south, and they argued about it for half an hour.",
      "words": [
+      {
+       "h": "小钟",
+       "py": "Xiǎo Zhōng",
+       "gl": "Xiao Zhong",
+       "pos": "proper noun"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "北方人",
+       "py": "běifāngrén",
+       "gl": "northerner",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "阿轩",
+       "py": "Ā Xuān",
+       "gl": "A Xuan",
+       "pos": "proper noun"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "南方人",
+       "py": "nánfāngrén",
+       "gl": "southerner",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "为了",
+       "py": "wèile",
+       "gl": "in order to; for",
+       "pos": "prep."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "争",
+       "py": "zhēng",
+       "gl": "compete for; fight for; argue",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "半个小时",
+       "py": "bàngèxiǎoshí",
+       "gl": "half an hour",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I thought it over and decided to make two plates: one salty, one sweet.",
+   "phrases": [
+    {
+     "en": "I thought it over and decided to make two plates: one salty, one sweet.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "想了想",
+       "py": "xiǎnglexiǎng",
+       "gl": "thought for a moment",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "决定",
+       "py": "juédìng",
+       "gl": "decide; decision",
+       "pos": "v."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "盘",
+       "py": "pán",
+       "gl": "measure word for plates/dishes (一盘青菜 a plate of greens); plate",
+       "pos": "measure word"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "盘",
+       "py": "pán",
+       "gl": "measure word for plates/dishes (一盘青菜 a plate of greens); plate",
+       "pos": "measure word"
+      },
+      {
+       "h": "咸",
+       "py": "xián",
+       "gl": "salty",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "盘",
+       "py": "pán",
+       "gl": "measure word for plates/dishes (一盘青菜 a plate of greens); plate",
+       "pos": "measure word"
+      },
+      {
+       "h": "甜",
+       "py": "tián",
+       "gl": "sweet",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On Saturday I invited them over for dinner.",
+   "phrases": [
+    {
+     "en": "On Saturday I invited them over for dinner.",
+     "words": [
+      {
+       "h": "星期六",
+       "py": "xīngqīliù",
+       "gl": "Saturday",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "请",
+       "py": "qǐng",
+       "gl": "please; ask; invite",
+       "pos": "v."
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "我家",
+       "py": "wǒjiā",
+       "gl": "my home; my family",
+       "pos": "n."
+      },
+      {
+       "h": "吃饭",
+       "py": "chīfàn",
+       "gl": "eat; have a meal",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Zhong ate the salty one and said, \"Not bad, but a little worse than my mum's.\"",
+   "phrases": [
+    {
+     "en": "Xiao Zhong ate the salty one and said, \"Not bad, but a little worse than my mum's.\"",
+     "words": [
+      {
+       "h": "小钟",
+       "py": "Xiǎo Zhōng",
+       "gl": "Xiao Zhong",
+       "pos": "proper noun"
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "咸",
+       "py": "xián",
+       "gl": "salty",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "不错",
+       "py": "bùcuò",
+       "gl": "good; decent",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "差一点",
+       "py": "chàyìdiǎn",
+       "gl": "almost; nearly",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A Xuan ate the sweet one and also said, \"Not bad, but a little worse than my mum's.\"",
+   "phrases": [
+    {
+     "en": "A Xuan ate the sweet one and also said, \"Not bad, but a little worse than my mum's.\"",
+     "words": [
+      {
+       "h": "阿轩",
+       "py": "Ā Xuān",
+       "gl": "A Xuan",
+       "pos": "proper noun"
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "甜",
+       "py": "tián",
+       "gl": "sweet",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "不错",
+       "py": "bùcuò",
+       "gl": "good; decent",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "差一点",
+       "py": "chàyìdiǎn",
+       "gl": "almost; nearly",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Then they each finished their own plate and started on the other one.",
+   "phrases": [
+    {
+     "en": "Then they each finished their own plate and started on the other one.",
+     "words": [
+      {
+       "h": "然后",
+       "py": "ránhòu",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "吃完",
+       "py": "chīwán",
+       "gl": "finish eating",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
       {
        "h": "一",
        "py": "yì",
@@ -429,68 +1051,36 @@
        "pos": "measure word"
       },
       {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "红",
-       "py": "hóng",
-       "gl": "red",
-       "pos": "adj."
+       "h": "，"
       },
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
-       "h": "黄",
-       "py": "huáng",
-       "gl": "yellow",
-       "pos": "adj."
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "对方",
+       "py": "duìfāng",
+       "gl": "the other party; the other person",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "菜",
-       "py": "cài",
-       "gl": "vegetable; dish (food)",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "is ready.",
-     "words": [
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -501,10 +1091,10 @@
    ]
   },
   {
-   "en": "I took a bite, and it tasted pretty good.",
+   "en": "I think \"a little worse than Mum's\" is probably the highest praise a Chinese person can give.",
    "phrases": [
     {
-     "en": "I took a bite,",
+     "en": "I think \"a little worse than Mum's\" is probably the highest praise a Chinese person can give.",
      "words": [
       {
        "h": "我",
@@ -513,227 +1103,28 @@
        "pos": "pron."
       },
       {
-       "h": "尝",
-       "py": "cháng",
-       "gl": "taste; try (food)",
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
        "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "口",
-       "py": "kǒu",
-       "gl": "measure word for family members",
-       "pos": "measure word"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and it tasted pretty good.",
-     "words": [
-      {
-       "h": "味道",
-       "py": "wèidào",
-       "gl": "taste; smell; flavor",
-       "pos": "n."
       },
-      {
-       "h": "不错",
-       "py": "búcuò",
-       "gl": "not bad; good",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "It looks simple, but making it taste good isn't easy.",
-   "phrases": [
-    {
-     "en": "It looks simple,",
-     "words": [
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
-       "pos": "v."
-      },
-      {
-       "h": "起来",
-       "py": "qǐlái",
-       "gl": "up (directional complement: 站起来 stand up); start to",
-       "pos": "particle"
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "简单",
-       "py": "jiǎndān",
-       "gl": "simple; easy",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but making it taste good isn't easy.",
-     "words": [
-      {
-       "h": "可是",
-       "py": "kěshì",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "want; order; be going to; need",
-       "pos": "v."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
-      },
-      {
-       "h": "好吃",
-       "py": "hǎochī",
-       "gl": "tasty; delicious",
-       "pos": "adj."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "容易",
-       "py": "róngyì",
-       "gl": "easy; be prone to; likely to",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "My Chinese friend told me, \"Keep practicing, and you'll get better and better.\"",
-   "phrases": [
-    {
-     "en": "My Chinese friend told me,",
-     "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "朋友",
-       "py": "péngyou",
-       "gl": "friend",
-       "pos": "n."
-      },
-      {
-       "h": "告诉",
-       "py": "gàosu",
-       "gl": "tell",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"Keep practicing,",
-     "words": [
       {
        "h": "“"
       },
       {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
       },
       {
-       "h": "练习",
-       "py": "liànxí",
-       "gl": "practice; exercise",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and you'll get better and better.\"",
-     "words": [
-      {
-       "h": "你",
-       "py": "nǐ",
-       "gl": "you",
-       "pos": "pron."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
-      },
-      {
-       "h": "越",
-       "py": "yuè",
-       "gl": "the more…the more (越…越…)",
-       "pos": "adv."
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
       },
       {
        "h": "做",
@@ -742,97 +1133,64 @@
        "pos": "v."
       },
       {
-       "h": "越",
-       "py": "yuè",
-       "gl": "the more…the more (越…越…)",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "差一点",
+       "py": "chàyìdiǎn",
+       "gl": "almost; nearly",
        "pos": "adv."
       },
       {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      },
-      {
        "h": "”"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I'm planning to have friends over for dinner next week.",
-   "phrases": [
-    {
-     "en": "Next week I'm planning",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
       },
       {
-       "h": "打算",
-       "py": "dǎsuàn",
-       "gl": "plan; intend; plan (n.)",
+       "h": "，"
+      },
+      {
+       "h": "大概",
+       "py": "dàgài",
+       "gl": "probably; about; approximately",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
       },
       {
-       "h": "下",
-       "py": "xià",
-       "gl": "next; below; down",
-       "pos": "adj."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "星期",
-       "py": "xīngqī",
-       "gl": "week",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "to have friends over for dinner.",
-     "words": [
-      {
-       "h": "请",
-       "py": "qǐng",
-       "gl": "please; ask; invite",
-       "pos": "v."
-      },
-      {
-       "h": "朋友",
-       "py": "péngyou",
-       "gl": "friend",
+       "h": "中国人",
+       "py": "zhōngguórén",
+       "gl": "Chinese person; the Chinese",
        "pos": "n."
       },
       {
-       "h": "来",
-       "py": "lái",
-       "gl": "come; arrive",
-       "pos": "v."
+       "h": "最好",
+       "py": "zuìhǎo",
+       "gl": "had better; it's best to",
+       "pos": "adv."
       },
       {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "评价",
+       "py": "píngjià",
+       "gl": "rating; review; evaluation",
        "pos": "n."
       },
       {
-       "h": "吃饭",
-       "py": "chīfàn",
-       "gl": "eat; have a meal",
-       "pos": "v."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "。"

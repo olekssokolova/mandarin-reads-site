@@ -1,17 +1,17 @@
 {
  "id": "languageexchange",
  "level": 3,
- "title_zh": "语言伙伴",
- "title_en": "My Language Partner",
+ "title_zh": "不如我的语伴",
+ "title_en": "The Partner Who Was \"Worse Than Me\"",
  "free": false,
  "audio_url": null,
- "note_en": "A 不如 B means \"A is not as good as B\": 发音不如我标准 \"his pronunciation isn't as accurate as mine.\" It's a shorter way of saying 没有……那么…… and is used for negative comparisons, where English would say \"not as... as.\"",
+ "note_en": "不如 means \"not as good as\": 他的英语发音不如我的汉语标准 — \"his English pronunciation wasn't as good as my Chinese.\" It is a shorter alternative to comparing with 没有. At the end of the story A Peng explains why he chose to be \"worse\": 如果我不如你，你就不会怕了.",
  "sentences": [
   {
-   "en": "To improve my speaking, I found a Chinese language partner.",
+   "en": "To improve my spoken Chinese, I found a Chinese language partner called A Peng.",
    "phrases": [
     {
-     "en": "To improve my speaking,",
+     "en": "To improve my spoken Chinese, I found a Chinese language partner called A Peng.",
      "words": [
       {
        "h": "为了",
@@ -33,12 +33,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I found a Chinese language partner.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -58,16 +53,10 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "中国",
@@ -82,6 +71,21 @@
        "pos": "n."
       },
       {
+       "h": "，"
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "call; be called",
+       "pos": "v."
+      },
+      {
+       "h": "阿鹏",
+       "py": "Ā Péng",
+       "gl": "A Peng",
+       "pos": "proper noun"
+      },
+      {
        "h": "。"
       }
      ]
@@ -89,10 +93,10 @@
    ]
   },
   {
-   "en": "His name is Xiao Li. He's learning English, and his pronunciation isn't as good as mine.",
+   "en": "He was learning English, but his English pronunciation wasn't as good as my Chinese.",
    "phrases": [
     {
-     "en": "His name is Xiao Li.",
+     "en": "He was learning English, but his English pronunciation wasn't as good as my Chinese.",
      "words": [
       {
        "h": "他",
@@ -101,36 +105,10 @@
        "pos": "pron."
       },
       {
-       "h": "叫",
-       "py": "jiào",
-       "gl": "be called; call",
-       "pos": "v."
-      },
-      {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "李",
-       "py": "lǐ",
-       "gl": "Li (surname)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "He's learning English,",
-     "words": [
-      {
-       "h": "正在",
-       "py": "zhèngzài",
-       "gl": "be in the middle of (doing)",
-       "pos": "adv."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
        "h": "学",
@@ -146,12 +124,31 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and his pronunciation isn't as good as mine.",
-     "words": [
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "英语",
+       "py": "yīngyǔ",
+       "gl": "English (language)",
+       "pos": "n."
+      },
       {
        "h": "发音",
        "py": "fāyīn",
@@ -161,7 +158,7 @@
       {
        "h": "不如",
        "py": "bùrú",
-       "gl": "be not as good as; had better (与其…不如… 'rather than … better to …')",
+       "gl": "be not as good as",
        "pos": "v."
       },
       {
@@ -169,6 +166,18 @@
        "py": "wǒ",
        "gl": "I; me",
        "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "汉语",
+       "py": "hànyǔ",
+       "gl": "Chinese (language)",
+       "pos": "n."
       },
       {
        "h": "标准",
@@ -184,28 +193,16 @@
    ]
   },
   {
-   "en": "We agreed to meet once a week and speak Chinese half the time and English the other half.",
+   "en": "We met once a week, speaking Chinese half the time and English the other half.",
    "phrases": [
     {
-     "en": "We agreed to meet once a week,",
+     "en": "We met once a week, speaking Chinese half the time and English the other half.",
      "words": [
       {
        "h": "我们",
        "py": "wǒmen",
        "gl": "we; us",
        "pos": "pron."
-      },
-      {
-       "h": "约",
-       "py": "yuē",
-       "gl": "arrange (to meet); make an appointment",
-       "pos": "v."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
       },
       {
        "h": "每",
@@ -226,31 +223,20 @@
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
+       "h": "一次",
+       "py": "yīcì",
+       "gl": "once; in one go; at the first attempt",
        "pos": "measure word"
       },
       {
        "h": "面",
        "py": "miàn",
-       "gl": "face (见一面 meet once); noodles; flour",
+       "gl": "face (见面 meet); noodles; flour",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "speaking Chinese half the time",
-     "words": [
+      },
       {
        "h": "一半",
        "py": "yíbàn",
@@ -277,12 +263,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and English the other half.",
-     "words": [
+      },
       {
        "h": "一半",
        "py": "yíbàn",
@@ -315,10 +296,10 @@
    ]
   },
   {
-   "en": "He often corrects my tones, and I help him practice English word stress.",
+   "en": "He often corrected my tones, and I helped him practise English word stress.",
    "phrases": [
     {
-     "en": "He often corrects my tones,",
+     "en": "He often corrected my tones, and I helped him practise English word stress.",
      "words": [
       {
        "h": "他",
@@ -347,7 +328,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -358,12 +339,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and I help him practice English word stress.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -403,7 +379,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -420,102 +396,73 @@
    ]
   },
   {
-   "en": "Sometimes we also talk about the cultural differences between our two countries, which is really interesting.",
+   "en": "Strangely, his English never seemed to improve.",
    "phrases": [
     {
-     "en": "Sometimes we also talk about the cultural differences between our two countries,",
+     "en": "Strangely, his English never seemed to improve.",
      "words": [
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
-      },
-      {
-       "h": "聊",
-       "py": "liáo",
-       "gl": "chat; talk (about)",
-       "pos": "v."
-      },
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two (before measure words)",
-       "pos": "num."
-      },
-      {
-       "h": "国",
-       "py": "guó",
-       "gl": "country",
-       "pos": "n."
+       "h": "奇怪",
+       "py": "qíguài",
+       "gl": "strange; odd",
+       "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "文化",
-       "py": "wénhuà",
-       "gl": "culture",
-       "pos": "n."
-      },
-      {
-       "h": "差异",
-       "py": "chāyì",
-       "gl": "difference",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which is really interesting.",
-     "words": [
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "英语",
+       "py": "yīngyǔ",
+       "gl": "English (language)",
+       "pos": "n."
+      },
+      {
+       "h": "好像",
+       "py": "hǎoxiàng",
+       "gl": "seem; be like",
        "pos": "adv."
       },
       {
-       "h": "有意思",
-       "py": "yǒuyìsi",
-       "gl": "interesting; fun",
-       "pos": "adj."
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "进步",
+       "py": "jìnbù",
+       "gl": "progress; improve",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -525,28 +472,22 @@
    ]
   },
   {
-   "en": "After a year, my speaking has improved a lot, and we've become good friends.",
+   "en": "I'd teach him the same word five times and he'd still get it wrong.",
    "phrases": [
     {
-     "en": "After a year, my speaking has improved a lot, and we've become good friends.",
+     "en": "I'd teach him the same word five times and he'd still get it wrong.",
      "words": [
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
+       "h": "同一个",
+       "py": "tóngyīgè",
+       "gl": "the same (one)",
+       "pos": "pron."
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "词",
+       "py": "cí",
+       "gl": "word",
        "pos": "n."
-      },
-      {
-       "h": "下来",
-       "py": "xiàlái",
-       "gl": "verb complement: settling down (坐下来 sit down)",
-       "pos": "particle"
       },
       {
        "h": "，"
@@ -558,54 +499,9 @@
        "pos": "pron."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "口语",
-       "py": "kǒuyǔ",
-       "gl": "spoken language; speaking",
-       "pos": "n."
-      },
-      {
-       "h": "进步",
-       "py": "jìnbù",
-       "gl": "progress; improve",
-       "pos": "n."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "成",
-       "py": "chéng",
-       "gl": "into; become; turn into",
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
        "pos": "v."
       },
       {
@@ -615,19 +511,765 @@
        "pos": "particle"
       },
       {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
+       "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "说错",
+       "py": "shuōcuò",
+       "gl": "say something wrong; misspeak",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I was very pleased with myself, thought I was a good teacher, and grew bolder and bolder speaking Chinese in front of him.",
+   "phrases": [
+    {
+     "en": "I was very pleased with myself, thought I was a good teacher, and grew bolder and bolder speaking Chinese in front of him.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "得意",
+       "py": "déyì",
+       "gl": "proud; pleased with oneself",
        "pos": "adj."
       },
       {
-       "h": "朋友",
-       "py": "péngyou",
-       "gl": "friend",
+       "h": "，"
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "老师",
+       "py": "lǎoshī",
+       "gl": "teacher",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "面前",
+       "py": "miànqián",
+       "gl": "in front of; before (真理面前 before the truth)",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "汉语",
+       "py": "hànyǔ",
+       "gl": "Chinese (language)",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "越来越",
+       "py": "yuèláiyuè",
+       "gl": "more and more",
+       "pos": "adv."
+      },
+      {
+       "h": "大胆",
+       "py": "dàdǎn",
+       "gl": "bold; daring",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Before that, I hadn't dared say a word in class for fear of making mistakes.",
+   "phrases": [
+    {
+     "en": "Before that, I hadn't dared say a word in class for fear of making mistakes.",
+     "words": [
+      {
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "课",
+       "py": "kè",
+       "gl": "class; lesson",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on; in; in terms of (after a noun: 世界上 in the world, 工作上 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "一句话",
+       "py": "yījùhuà",
+       "gl": "(not) a single word",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "不敢",
+       "py": "bùgǎn",
+       "gl": "not dare",
+       "pos": "v."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "因为",
+       "py": "yīnwèi",
+       "gl": "because",
+       "pos": "conj."
+      },
+      {
+       "h": "怕",
+       "py": "pà",
+       "gl": "be afraid; fear; worry",
+       "pos": "v."
+      },
+      {
+       "h": "说错",
+       "py": "shuōcuò",
+       "gl": "say something wrong; misspeak",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At the end of the year the university held a party, and A Peng went on stage and recited a poem in English.",
+   "phrases": [
+    {
+     "en": "At the end of the year the university held a party, and A Peng went on stage and recited a poem in English.",
+     "words": [
+      {
+       "h": "年底",
+       "py": "niándǐ",
+       "gl": "end of the year",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "学校",
+       "py": "xuéxiào",
+       "gl": "school",
+       "pos": "n."
+      },
+      {
+       "h": "举办",
+       "py": "jǔbàn",
+       "gl": "hold (an event); host",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "晚会",
+       "py": "wǎnhuì",
+       "gl": "evening party",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "阿鹏",
+       "py": "Ā Péng",
+       "gl": "A Peng",
+       "pos": "proper noun"
+      },
+      {
+       "h": "上台",
+       "py": "shàngtái",
+       "gl": "go on stage",
+       "pos": "v."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "英语",
+       "py": "yīngyǔ",
+       "gl": "English (language)",
+       "pos": "n."
+      },
+      {
+       "h": "念",
+       "py": "niàn",
+       "gl": "read aloud",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一首",
+       "py": "yīshǒu",
+       "gl": "one (song or poem)",
+       "pos": "n."
+      },
+      {
+       "h": "诗",
+       "py": "shī",
+       "gl": "poem; poetry",
        "pos": "n."
       },
       {
        "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "His pronunciation was almost perfect — better than lots of British people's.",
+   "phrases": [
+    {
+     "en": "His pronunciation was almost perfect — better than lots of British people's.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "发音",
+       "py": "fāyīn",
+       "gl": "pronunciation",
+       "pos": "n."
+      },
+      {
+       "h": "几乎",
+       "py": "jīhū",
+       "gl": "almost; nearly",
+       "pos": "adv."
+      },
+      {
+       "h": "完美",
+       "py": "wánměi",
+       "gl": "perfect",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "英国人",
+       "py": "Yīngguórén",
+       "gl": "British people",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I was dumbstruck.",
+   "phrases": [
+    {
+     "en": "I was dumbstruck.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "呆住",
+       "py": "dāizhù",
+       "gl": "be stunned",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After the party he said, \"Sorry — I lived in London for three years.\"",
+   "phrases": [
+    {
+     "en": "After the party he said, \"Sorry — I lived in London for three years.\"",
+     "words": [
+      {
+       "h": "晚会",
+       "py": "wǎnhuì",
+       "gl": "evening party",
+       "pos": "n."
+      },
+      {
+       "h": "结束",
+       "py": "jiéshù",
+       "gl": "finish; end",
+       "pos": "v."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "对不起",
+       "py": "duìbùqǐ",
+       "gl": "sorry; excuse me",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "伦敦",
+       "py": "Lúndūn",
+       "gl": "London",
+       "pos": "proper noun"
+      },
+      {
+       "h": "住",
+       "py": "zhù",
+       "gl": "live; stay",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "三年",
+       "py": "sānnián",
+       "gl": "three years",
+       "pos": "num."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Then why did you…\"",
+   "phrases": [
+    {
+     "en": "\"Then why did you…\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "then; in that case",
+       "pos": "conj."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "为什么",
+       "py": "wèishénme",
+       "gl": "why",
+       "pos": "pron."
+      },
+      {
+       "h": "…"
+      },
+      {
+       "h": "…"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Because the first time we met, you were so nervous you couldn't speak. I thought if I was worse than you, you wouldn't be afraid.\"",
+   "phrases": [
+    {
+     "en": "\"Because the first time we met, you were so nervous you couldn't speak. I thought if I was worse than you, you wouldn't be afraid.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "因为",
+       "py": "yīnwèi",
+       "gl": "because",
+       "pos": "conj."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "见",
+       "py": "jiàn",
+       "gl": "see; meet (不见了 \"disappeared\")",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "紧张得",
+       "py": "jǐnzhāngdé",
+       "gl": "so nervous that",
+       "pos": "v."
+      },
+      {
+       "h": "说不出",
+       "py": "shuōbùchū",
+       "gl": "can't say; can't put into words",
+       "pos": "v."
+      },
+      {
+       "h": "话",
+       "py": "huà",
+       "gl": "words; speech; what someone says",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "如果",
+       "py": "rúguǒ",
+       "gl": "if",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "不如",
+       "py": "bùrú",
+       "gl": "be not as good as",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely (会不会 'will or won't')",
+       "pos": "v."
+      },
+      {
+       "h": "怕",
+       "py": "pà",
+       "gl": "be afraid; fear; worry",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }

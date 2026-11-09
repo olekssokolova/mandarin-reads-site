@@ -1,29 +1,102 @@
 {
  "id": "grandparents",
  "level": 3,
- "title_zh": "看望爷爷奶奶",
- "title_en": "Visiting My Grandparents",
+ "title_zh": "奶奶的群",
+ "title_en": "Grandma's Group Chat",
  "free": false,
  "audio_url": null,
- "note_en": "……没有A，而是B means \"not A, but B\": 我没有在家休息，而是回老家看望爷爷奶奶 \"Instead of resting at home, I went back to my hometown to see my grandparents.\" 而是 introduces what really happened, after you've said what didn't. The same pattern works with 不是: 不是A，而是B.",
+ "note_en": "The construction 不是……而是…… (\"not…, but…\") denies the first option and affirms the second: 我不是出去玩，而是去工作 — \"I wasn't out having fun, I was out working.\" A similar pair uses 没有: 没有在家休息，而是坐了四个小时的车回去看她 — \"didn't rest at home, but rode four hours to see her.\"",
  "sentences": [
   {
-   "en": "This weekend, instead of resting at home, I went back to my hometown to visit my grandparents.",
+   "en": "I thought Grandma, alone in our home village, must be very lonely.",
    "phrases": [
     {
-     "en": "This weekend,",
+     "en": "I thought Grandma, alone in our home village, must be very lonely.",
      "words": [
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
+       "h": "以为",
+       "py": "yǐwéi",
+       "gl": "think (mistakenly); assume",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "老家",
+       "py": "lǎojiā",
+       "gl": "hometown; family home",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一定",
+       "py": "yídìng",
+       "gl": "definitely; surely; must",
+       "pos": "adv."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "寂寞",
+       "py": "jìmò",
+       "gl": "lonely",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "So this weekend, instead of resting at home, I rode four hours by coach to go and see her.",
+   "phrases": [
+    {
+     "en": "So this weekend, instead of resting at home, I rode four hours by coach to go and see her.",
+     "words": [
+      {
+       "h": "所以",
+       "py": "suǒyǐ",
+       "gl": "so; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
       },
       {
        "h": "周末",
@@ -33,12 +106,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "instead of resting at home,",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -52,31 +120,20 @@
        "pos": "v."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "n."
+       "h": "在家",
+       "py": "zàijiā",
+       "gl": "at home",
+       "pos": "adv."
       },
       {
        "h": "休息",
-       "py": "xiūxi",
+       "py": "xiūxī",
        "gl": "rest",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I went back to my hometown",
-     "words": [
+      },
       {
        "h": "而是",
        "py": "érshì",
@@ -84,76 +141,10 @@
        "pos": "conj."
       },
       {
-       "h": "回",
-       "py": "huí",
-       "gl": "return; go back; reply",
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
        "pos": "v."
-      },
-      {
-       "h": "老家",
-       "py": "lǎojiā",
-       "gl": "hometown; family home",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "to visit my grandparents.",
-     "words": [
-      {
-       "h": "看望",
-       "py": "kànwàng",
-       "gl": "visit (someone)",
-       "pos": "v."
-      },
-      {
-       "h": "爷爷",
-       "py": "yéye",
-       "gl": "grandpa; grandfather (father's father)",
-       "pos": "n."
-      },
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "My grandparents are getting old, and their health isn't as good as it used to be.",
-   "phrases": [
-    {
-     "en": "My grandparents are getting old,",
-     "words": [
-      {
-       "h": "爷爷",
-       "py": "yéye",
-       "gl": "grandpa; grandfather (father's father)",
-       "pos": "n."
-      },
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "年纪",
-       "py": "niánjì",
-       "gl": "age (of a person)",
-       "pos": "n."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
       },
       {
        "h": "了",
@@ -162,48 +153,46 @@
        "pos": "particle"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and their health isn't as good as it used to be.",
-     "words": [
+       "h": "四个",
+       "py": "sìgè",
+       "gl": "four",
+       "pos": "num."
+      },
       {
-       "h": "身体",
-       "py": "shēntǐ",
-       "gl": "body; health",
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
        "pos": "n."
       },
       {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like",
+       "h": "车",
+       "py": "chē",
+       "gl": "car; vehicle; bus",
+       "pos": "n."
+      },
+      {
+       "h": "回去",
+       "py": "huíqù",
+       "gl": "go back",
        "pos": "v."
       },
       {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
-       "pos": "postposition"
+       "h": "看",
+       "py": "kàn",
+       "gl": "visit; go to see",
+       "pos": "v."
       },
       {
-       "h": "那么",
-       "py": "nàme",
-       "gl": "so; that (much)",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
        "h": "。"
@@ -213,54 +202,16 @@
    ]
   },
   {
-   "en": "When I arrived, Grandma was planting vegetables in the yard.",
+   "en": "When I got to the courtyard, nobody was there.",
    "phrases": [
     {
-     "en": "When I arrived,",
+     "en": "When I got to the courtyard, nobody was there.",
      "words": [
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "arrive; reach; come",
+       "h": "到了",
+       "py": "dàole",
+       "gl": "reach; arrive; when it comes to (time); by (到了清朝 by the Qing dynasty)",
        "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Grandma was planting vegetables in the yard.",
-     "words": [
-      {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
-       "pos": "n."
-      },
-      {
-       "h": "正在",
-       "py": "zhèngzài",
-       "gl": "be in the middle of (doing)",
-       "pos": "adv."
       },
       {
        "h": "院子",
@@ -270,20 +221,160 @@
       },
       {
        "h": "里",
-       "py": "li",
+       "py": "lǐ",
        "gl": "in; inside",
        "pos": "postposition"
       },
       {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "kind; type (measure word)",
-       "pos": "measure word"
+       "h": "，"
       },
       {
-       "h": "菜",
-       "py": "cài",
-       "gl": "vegetable; dish (food)",
+       "h": "没有人",
+       "py": "méiyǒurén",
+       "gl": "nobody; no one",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The neighbour said she'd gone to do square dancing.",
+   "phrases": [
+    {
+     "en": "The neighbour said she'd gone to do square dancing.",
+     "words": [
+      {
+       "h": "邻居",
+       "py": "línjū",
+       "gl": "neighbor",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "跳",
+       "py": "tiào",
+       "gl": "jump; dance",
+       "pos": "v."
+      },
+      {
+       "h": "广场舞",
+       "py": "guǎngchǎngwǔ",
+       "gl": "square dancing (group dancing in public squares)",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I waited an hour before she came back, phone in hand.",
+   "phrases": [
+    {
+     "en": "I waited an hour before she came back, phone in hand.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "particle"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个小时",
+       "py": "yígèxiǎoshí",
+       "gl": "one hour",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "回来",
+       "py": "huílái",
+       "gl": "come back; return",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "手里",
+       "py": "shǒulǐ",
+       "gl": "in one's hands",
+       "pos": "n."
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
        "pos": "n."
       },
       {
@@ -294,10 +385,314 @@
    ]
   },
   {
-   "en": "When she saw me, she was so happy she dropped what she was doing right away.",
+   "en": "\"Grandma, why aren't you at home?\"",
    "phrases": [
     {
-     "en": "When she saw me,",
+     "en": "\"Grandma, why aren't you at home?\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
+       "pos": "pron."
+      },
+      {
+       "h": "不在",
+       "py": "bùzài",
+       "gl": "not be present; be absent; not be (somewhere)",
+       "pos": "v."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"I wasn't out having fun, I was out working,\" she said.",
+   "phrases": [
+    {
+     "en": "\"I wasn't out having fun, I was out working,\" she said.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
+       "h": "出去",
+       "py": "chūqu",
+       "gl": "out (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "玩",
+       "py": "wán",
+       "gl": "play; have fun; hang out",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "而是",
+       "py": "érshì",
+       "gl": "but rather (不是…而是… not … but …)",
+       "pos": "conj."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It turned out she sells vegetables she grows herself online, and already has more than two hundred customers.",
+   "phrases": [
+    {
+     "en": "It turned out she sells vegetables she grows herself online, and already has more than two hundred customers.",
+     "words": [
+      {
+       "h": "原来",
+       "py": "yuánlái",
+       "gl": "it turns out; so (that's why); originally",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "网上",
+       "py": "wǎngshàng",
+       "gl": "online; on the internet",
+       "pos": "n."
+      },
+      {
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "种",
+       "py": "zhòng",
+       "gl": "plant; grow",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "菜",
+       "py": "cài",
+       "gl": "vegetable; dish (food)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "两百多个",
+       "py": "liǎngbǎiduōgè",
+       "gl": "over two hundred",
+       "pos": "num."
+      },
+      {
+       "h": "客人",
+       "py": "kèrén",
+       "gl": "customer",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At dinner her phone kept ringing.",
+   "phrases": [
+    {
+     "en": "At dinner her phone kept ringing.",
+     "words": [
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "吃饭",
+       "py": "chīfàn",
+       "gl": "eat; have a meal",
+       "pos": "v."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "响",
+       "py": "xiǎng",
+       "gl": "ring",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Answering messages, she asked me, \"And you? Busy at work? Got any friends?\"",
+   "phrases": [
+    {
+     "en": "Answering messages, she asked me, \"And you? Busy at work? Got any friends?\"",
      "words": [
       {
        "h": "她",
@@ -306,9 +701,33 @@
        "pos": "pron."
       },
       {
-       "h": "看到",
-       "py": "kàndào",
-       "gl": "see",
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "return; go back; reply",
+       "pos": "v."
+      },
+      {
+       "h": "消息",
+       "py": "xiāoxi",
+       "gl": "message; news",
+       "pos": "n."
+      },
+      {
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
        "pos": "v."
       },
       {
@@ -318,66 +737,98 @@
        "pos": "pron."
       },
       {
-       "h": "来",
-       "py": "lái",
-       "gl": "come; arrive",
-       "pos": "v."
+       "h": "："
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "呢",
+       "py": "ne",
+       "gl": "particle: action in progress; softens a statement; question particle",
        "pos": "particle"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she was so happy she dropped what she was doing right away.",
-     "words": [
+       "h": "？"
+      },
       {
-       "h": "高兴",
-       "py": "gāoxìng",
-       "gl": "happy; glad",
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "忙",
+       "py": "máng",
+       "gl": "busy",
        "pos": "adj."
       },
       {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
-      },
-      {
-       "h": "马上",
-       "py": "mǎshàng",
-       "gl": "immediately; right away",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
        "pos": "adv."
       },
       {
-       "h": "放下",
-       "py": "fàngxià",
-       "gl": "put down; set aside",
+       "h": "忙",
+       "py": "máng",
+       "gl": "busy",
+       "pos": "adj."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "有没有",
+       "py": "yǒuméiyǒu",
+       "gl": "whether (or not); have or not",
        "pos": "v."
       },
       {
-       "h": "手里",
-       "py": "shǒulǐ",
-       "gl": "in one's hands",
+       "h": "朋友",
+       "py": "péngyǒu",
+       "gl": "friend",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "？"
       },
       {
-       "h": "活儿",
-       "py": "huór",
-       "gl": "work; job; task",
-       "pos": "n."
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I said I was fine.",
+   "phrases": [
+    {
+     "en": "I said I was fine.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "还好",
+       "py": "hái hǎo",
+       "gl": "not bad; all right",
+       "pos": "phrase"
       },
       {
        "h": "。"
@@ -387,28 +838,70 @@
    ]
   },
   {
-   "en": "In the evening we had a lively dinner together and chatted about family stuff for a long time.",
+   "en": "In fact, in the city I go straight home after work every day, eat takeaway alone, and often don't say a word all weekend.",
    "phrases": [
     {
-     "en": "In the evening we had a lively dinner together,",
+     "en": "In fact, in the city I go straight home after work every day, eat takeaway alone, and often don't say a word all weekend.",
      "words": [
       {
-       "h": "晚上",
-       "py": "wǎnshang",
-       "gl": "evening",
-       "pos": "n."
+       "h": "其实",
+       "py": "qíshí",
+       "gl": "actually; in fact",
+       "pos": "adv."
       },
       {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
-       "h": "一起",
-       "py": "yìqǐ",
-       "gl": "together",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "城里",
+       "py": "chénglǐ",
+       "gl": "in the city; in town",
+       "pos": "n."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "下班",
+       "py": "xiàbān",
+       "gl": "get off work; finish work",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
        "pos": "adv."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "num."
       },
       {
        "h": "吃",
@@ -417,72 +910,49 @@
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "顿",
-       "py": "dùn",
-       "gl": "measure word for meals",
-       "pos": "measure word"
-      },
-      {
-       "h": "热闹",
-       "py": "rènào",
-       "gl": "lively; bustling",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "饭",
-       "py": "fàn",
-       "gl": "meal; food; cooked rice",
+       "h": "外卖",
+       "py": "wàimài",
+       "gl": "takeaway food",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and chatted a lot about family stuff.",
-     "words": [
-      {
-       "h": "聊",
-       "py": "liáo",
-       "gl": "chat; talk (about)",
-       "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "家常",
-       "py": "jiācháng",
-       "gl": "everyday matters; small talk (聊家常 'chat about everyday life')",
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
        "pos": "n."
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "一句话",
+       "py": "yījùhuà",
+       "gl": "(not) a single word",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -492,34 +962,22 @@
    ]
   },
   {
-   "en": "Just before I left, Grandma pushed a bag of vegetables from her own garden into my hands.",
+   "en": "When I was leaving, Grandma pressed a bag of vegetables into my hands, along with a slip of paper with the name of a dance group chat in the city.",
    "phrases": [
     {
-     "en": "Just before I left, Grandma pushed a bag of vegetables from her own garden into my hands.",
+     "en": "When I was leaving, Grandma pressed a bag of vegetables into my hands, along with a slip of paper with the name of a dance group chat in the city.",
      "words": [
       {
-       "h": "临",
-       "py": "lín",
-       "gl": "just before; on the point of (临走 'just before leaving')",
+       "h": "临走",
+       "py": "lín zǒu",
+       "gl": "before leaving",
+       "pos": "adv."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
        "pos": "conj."
-      },
-      {
-       "h": "走",
-       "py": "zǒu",
-       "gl": "walk; go; leave",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
       },
       {
        "h": "，"
@@ -531,16 +989,10 @@
        "pos": "n."
       },
       {
-       "h": "塞",
-       "py": "sāi",
-       "gl": "stuff; squeeze in; slip (something to someone)",
+       "h": "塞给",
+       "py": "sāigěi",
+       "gl": "slip (something) to; press into someone's hand",
        "pos": "v."
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "for; to (someone); give",
-       "pos": "prep."
       },
       {
        "h": "我",
@@ -561,31 +1013,170 @@
        "pos": "measure word"
       },
       {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
+       "h": "菜",
+       "py": "cài",
+       "gl": "dish (food)",
+       "pos": "n."
       },
       {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "kind; type (measure word)",
-       "pos": "measure word"
+       "h": "，"
+      },
+      {
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
+       "pos": "conj."
+      },
+      {
+       "h": "一张",
+       "py": "yīzhāng",
+       "gl": "a; one (measure word for flat objects: sheets, photos, discs)",
+       "pos": "num."
+      },
+      {
+       "h": "纸",
+       "py": "zhǐ",
+       "gl": "paper",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "上面写着",
+       "py": "shàngmiànxiězhe",
+       "gl": "with ... written on it; it says on it",
+       "pos": "phrase"
+      },
+      {
+       "h": "城里",
+       "py": "chénglǐ",
+       "gl": "in the city; in town",
+       "pos": "n."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "跳舞",
+       "py": "tiàowǔ",
+       "gl": "dance",
+       "pos": "v."
+      },
+      {
+       "h": "群",
+       "py": "qún",
+       "gl": "group chat",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "蔬菜",
-       "py": "shūcài",
-       "gl": "vegetable",
+       "h": "名字",
+       "py": "míngzì",
+       "gl": "name",
        "pos": "n."
       },
       {
        "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Go,\" she said. \"It's not only old people who get lonely.\"",
+   "phrases": [
+    {
+     "en": "\"Go,\" she said. \"It's not only old people who get lonely.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "吧",
+       "py": "ba",
+       "gl": "particle: supposition (…right?)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
+      },
+      {
+       "h": "老人",
+       "py": "lǎorén",
+       "gl": "old person; elderly people",
+       "pos": "n."
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "寂寞",
+       "py": "jìmò",
+       "gl": "lonely",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }

@@ -1,28 +1,22 @@
 {
  "id": "promptengineer3",
  "level": 3,
- "title_zh": "新兴职业：提示词工程师",
- "title_en": "A New Job: Prompt Engineer",
+ "title_zh": "最好的提示词工程师",
+ "title_en": "The Best Prompt Engineer",
  "free": false,
  "audio_url": null,
- "note_en": "随着 (suízhe) means \"along with\" or \"as... develops\" and introduces a change that causes something else: 随着人工智能发展出现的新职业 \"a new job that has appeared as AI has developed.\" In Chinese, this whole 随着 phrase sits before the noun it describes, so the sentence builds up to 新职业 at the end, the opposite of English order.",
+ "note_en": "The verb 调整 (\"adjust, fine-tune\") is often used of working with technology and plans: 设计和调整给人工智能的指令 — \"design and fine-tune instructions for AI.\"",
  "sentences": [
   {
-   "en": "Prompt engineer is a new job that has appeared as artificial intelligence (AI) has developed.",
+   "en": "Prompt engineer is a new job that has appeared with the development of AI, and that's what I do.",
    "phrases": [
     {
-     "en": "Prompt engineer is a new job that has appeared as artificial intelligence (AI) has developed.",
+     "en": "Prompt engineer is a new job that has appeared with the development of AI, and that's what I do.",
      "words": [
       {
-       "h": "提示词",
-       "py": "tíshìcí",
-       "gl": "prompt (for AI)",
-       "pos": "n."
-      },
-      {
-       "h": "工程师",
-       "py": "gōngchéngshī",
-       "gl": "engineer",
+       "h": "提示词工程师",
+       "py": "tíshìcí gōngchéngshī",
+       "gl": "prompt engineer",
        "pos": "n."
       },
       {
@@ -39,7 +33,7 @@
       },
       {
        "h": "人工智能",
-       "py": "réngōngzhìnéng",
+       "py": "réngōng zhìnéng",
        "gl": "artificial intelligence",
        "pos": "n."
       },
@@ -58,20 +52,47 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
+       "h": "新职业",
+       "py": "xīnzhíyè",
+       "gl": "new occupation",
+       "pos": "n."
       },
       {
-       "h": "职业",
-       "py": "zhíyè",
-       "gl": "occupation; profession",
-       "pos": "n."
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "just; simply; exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make; be; work as",
+       "pos": "v."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -81,21 +102,21 @@
    ]
   },
   {
-   "en": "Their job is to design and fine-tune the instructions given to AI.",
+   "en": "Our work is designing and fine-tuning instructions for AI.",
    "phrases": [
     {
-     "en": "Their job is to design and fine-tune the instructions given to AI.",
+     "en": "Our work is designing and fine-tuning instructions for AI.",
      "words": [
       {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
        "pos": "pron."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -119,37 +140,37 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
        "h": "调整",
        "py": "tiáozhěng",
-       "gl": "adjust; tune",
+       "gl": "adjust",
        "pos": "v."
       },
       {
        "h": "给",
        "py": "gěi",
-       "gl": "for; to (someone); give",
+       "gl": "to; for (someone); give",
        "pos": "prep."
       },
       {
        "h": "人工智能",
-       "py": "réngōngzhìnéng",
+       "py": "réngōng zhìnéng",
        "gl": "artificial intelligence",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "指令",
        "py": "zhǐlìng",
-       "gl": "instruction; command; prompt",
+       "gl": "instruction; command",
        "pos": "n."
       },
       {
@@ -160,63 +181,57 @@
    ]
   },
   {
-   "en": "A good prompt can get AI to give more accurate answers.",
+   "en": "Good prompts get AI to give more accurate answers.",
    "phrases": [
     {
-     "en": "A good prompt can get AI to give more accurate answers.",
+     "en": "Good prompts get AI to give more accurate answers.",
      "words": [
       {
        "h": "好",
        "py": "hǎo",
-       "gl": "good; well",
+       "gl": "good",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "提示词",
        "py": "tíshìcí",
-       "gl": "prompt (for AI)",
+       "gl": "prompt",
        "pos": "n."
       },
       {
        "h": "能",
        "py": "néng",
        "gl": "can; be able to",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "让",
        "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
        "h": "人工智能",
-       "py": "réngōngzhìnéng",
+       "py": "réngōng zhìnéng",
        "gl": "artificial intelligence",
        "pos": "n."
       },
       {
-       "h": "给",
-       "py": "gěi",
-       "gl": "for; to (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "出",
-       "py": "chū",
-       "gl": "(after verb) out; come out; go out",
+       "h": "给出",
+       "py": "gěichū",
+       "gl": "give; provide",
        "pos": "v."
       },
       {
        "h": "更",
        "py": "gèng",
-       "gl": "even more; more",
+       "gl": "more; even more",
        "pos": "adv."
       },
       {
@@ -228,12 +243,12 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "答案",
-       "py": "dá'àn",
+       "py": "dáàn",
        "gl": "answer",
        "pos": "n."
       },
@@ -245,10 +260,10 @@
    ]
   },
   {
-   "en": "This job requires logical thinking and a feel for language.",
+   "en": "The job needs logical thinking and a sensitivity to language.",
    "phrases": [
     {
-     "en": "This job requires logical thinking and a feel for language.",
+     "en": "The job needs logical thinking and a sensitivity to language.",
      "words": [
       {
        "h": "这个",
@@ -265,31 +280,25 @@
       {
        "h": "需要",
        "py": "xūyào",
-       "gl": "need; require",
+       "gl": "need to; have to",
        "pos": "v."
       },
       {
-       "h": "逻辑",
-       "py": "luójí",
-       "gl": "logic",
-       "pos": "n."
-      },
-      {
-       "h": "思维",
-       "py": "sīwéi",
-       "gl": "thinking; way of thinking",
+       "h": "逻辑思维",
+       "py": "luójí sīwéi",
+       "gl": "logical thinking",
        "pos": "n."
       },
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
        "h": "对",
        "py": "duì",
-       "gl": "to; toward; correct",
+       "gl": "regarding; on",
        "pos": "prep."
       },
       {
@@ -301,19 +310,13 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "敏感",
-       "py": "mǐngǎn",
-       "gl": "sensitive",
-       "pos": "adj."
-      },
-      {
-       "h": "度",
-       "py": "dù",
-       "gl": "degree; level (suffix: 敏感度 'sensitivity')",
+       "h": "敏感度",
+       "py": "mǐngǎndù",
+       "gl": "sensitivity",
        "pos": "n."
       },
       {
@@ -324,10 +327,556 @@
    ]
   },
   {
-   "en": "I think it's a career path with a real future.",
+   "en": "Every day I write dozens of prompts, revising them word by word.",
    "phrases": [
     {
-     "en": "I think it's a career path with a real future.",
+     "en": "Every day I write dozens of prompts, revising them word by word.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "几十",
+       "py": "jǐshí",
+       "gl": "several dozen; tens of",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "提示词",
+       "py": "tíshìcí",
+       "gl": "prompt",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个字",
+       "py": "yígèzì",
+       "gl": "one character",
+       "pos": "n."
+      },
+      {
+       "h": "一个字",
+       "py": "yígèzì",
+       "gl": "one character",
+       "pos": "n."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "改",
+       "py": "gǎi",
+       "gl": "change; revise; correct",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When I get home in the evening, my five-year-old son runs up and says, \"Daddy, tell me a story.\"",
+   "phrases": [
+    {
+     "en": "When I get home in the evening, my five-year-old son runs up and says, \"Daddy, tell me a story.\"",
+     "words": [
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "回到",
+       "py": "huídào",
+       "gl": "return to; get back to",
+       "pos": "v."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "儿子",
+       "py": "érzi",
+       "gl": "son",
+       "pos": "n."
+      },
+      {
+       "h": "跑过来",
+       "py": "pǎoguòlái",
+       "gl": "come running over",
+       "pos": "v."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "讲",
+       "py": "jiǎng",
+       "gl": "tell; talk about",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "故事",
+       "py": "gùshì",
+       "gl": "story",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"It has to have dinosaurs, not too scary — just a tiny bit scary.\"",
+   "phrases": [
+    {
+     "en": "\"It has to have dinosaurs, not too scary — just a tiny bit scary.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "恐龙",
+       "py": "kǒnglóng",
+       "gl": "dinosaur",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不要",
+       "py": "búyào",
+       "gl": "don't; must not",
+       "pos": "v."
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too; very",
+       "pos": "adv."
+      },
+      {
+       "h": "可怕",
+       "py": "kěpà",
+       "gl": "scary; frightening; terrible",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一点点",
+       "py": "yìdiǎndiǎn",
+       "gl": "a tiny bit",
+       "pos": "adv."
+      },
+      {
+       "h": "可怕",
+       "py": "kěpà",
+       "gl": "scary; frightening; terrible",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"And at the end the dinosaur has to go home, and there has to be a mummy.\"",
+   "phrases": [
+    {
+     "en": "\"And at the end the dinosaur has to go home, and there has to be a mummy.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "恐龙",
+       "py": "kǒnglóng",
+       "gl": "dinosaur",
+       "pos": "n."
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally",
+       "pos": "n."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I stopped short: it was the best prompt I'd heard all day.",
+   "phrases": [
+    {
+     "en": "I stopped short: it was the best prompt I'd heard all day.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "愣住",
+       "py": "lèngzhù",
+       "gl": "be stunned; freeze",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "这是",
+       "py": "zhèshì",
+       "gl": "this is",
+       "pos": "phrase"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "今天",
+       "py": "jīntiān",
+       "gl": "today",
+       "pos": "n."
+      },
+      {
+       "h": "听到",
+       "py": "tīngdào",
+       "gl": "hear",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "最好",
+       "py": "zuìhǎo",
+       "gl": "best",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "提示词",
+       "py": "tíshìcí",
+       "gl": "prompt",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When I finish the story, he fine-tunes it too: \"Make the scary bit a bit longer.\"",
+   "phrases": [
+    {
+     "en": "When I finish the story, he fine-tunes it too: \"Make the scary bit a bit longer.\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "讲完",
+       "py": "jiǎngwán",
+       "gl": "finish telling",
+       "pos": "v."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "调整",
+       "py": "tiáozhěng",
+       "gl": "adjust",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "可怕",
+       "py": "kěpà",
+       "gl": "scary; frightening; terrible",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "地方",
+       "py": "dìfāng",
+       "gl": "place",
+       "pos": "n."
+      },
+      {
+       "h": "再",
+       "py": "zài",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "长",
+       "py": "cháng",
+       "gl": "long",
+       "pos": "adj."
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I think this is a job with a real future.",
+   "phrases": [
+    {
+     "en": "I think this is a job with a real future.",
      "words": [
       {
        "h": "我",
@@ -342,28 +891,16 @@
        "pos": "v."
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
+       "h": "这是",
+       "py": "zhèshì",
+       "gl": "this is",
+       "pos": "phrase"
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "很",
@@ -374,7 +911,7 @@
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
@@ -386,7 +923,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -399,6 +936,103 @@
        "h": "方向",
        "py": "fāngxiàng",
        "gl": "direction",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But I also think the best prompt engineers probably haven't even started primary school yet.",
+   "phrases": [
+    {
+     "en": "But I also think the best prompt engineers probably haven't even started primary school yet.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too; (with negation) even",
+       "pos": "adv."
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "最好",
+       "py": "zuìhǎo",
+       "gl": "best",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "提示词工程师",
+       "py": "tíshìcí gōngchéngshī",
+       "gl": "prompt engineer",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可能",
+       "py": "kěnéng",
+       "gl": "possible; maybe",
+       "pos": "adv."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "go to (school, college); attend",
+       "pos": "v."
+      },
+      {
+       "h": "小学",
+       "py": "xiǎoxué",
+       "gl": "elementary school",
        "pos": "n."
       },
       {

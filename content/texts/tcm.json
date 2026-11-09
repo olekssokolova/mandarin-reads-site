@@ -1,17 +1,17 @@
 {
  "id": "tcm",
  "level": 3,
- "title_zh": "看中医",
- "title_en": "Seeing a Chinese Medicine Doctor",
+ "title_zh": "老板推荐的中医",
+ "title_en": "The Doctor My Boss Recommended",
  "free": false,
  "audio_url": null,
- "note_en": "据说 (jùshuō) means \"they say\" or \"apparently\": 据说很有效 \"apparently it really works.\" It lets you pass on something you heard without claiming it's true yourself, and it usually comes at the start of the clause with no subject.",
+ "note_en": "The word 据说 (\"it is said, reportedly\") introduces information from others that the speaker isn't fully sure of: 据说很有效 — \"they say it works very well.\" It's handy for passing on someone else's opinion without vouching for it yourself.",
  "sentences": [
   {
-   "en": "Lately I always feel tired and can't sleep well.",
+   "en": "Lately I've been feeling tired all the time and sleeping badly.",
    "phrases": [
     {
-     "en": "Lately I always feel tired,",
+     "en": "Lately I've been feeling tired all the time and sleeping badly.",
      "words": [
       {
        "h": "最近",
@@ -45,29 +45,12 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and can't sleep well.",
-     "words": [
+      },
       {
-       "h": "睡",
-       "py": "shuì",
-       "gl": "sleep",
+       "h": "睡不好",
+       "py": "shuìbùhǎo",
+       "gl": "not sleep well",
        "pos": "v."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
       },
       {
        "h": "。"
@@ -77,15 +60,27 @@
    ]
   },
   {
-   "en": "A coworker suggested I see a doctor of traditional Chinese medicine; apparently it really works.",
+   "en": "My boss suggested I see a traditional Chinese medicine doctor — they say it works very well.",
    "phrases": [
     {
-     "en": "A coworker suggested I see a doctor of traditional Chinese medicine,",
+     "en": "My boss suggested I see a traditional Chinese medicine doctor — they say it works very well.",
      "words": [
       {
-       "h": "同事",
-       "py": "tóngshì",
-       "gl": "colleague; coworker",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "老板",
+       "py": "lǎobǎn",
+       "gl": "boss",
        "pos": "n."
       },
       {
@@ -103,7 +98,7 @@
       {
        "h": "去",
        "py": "qù",
-       "gl": "go",
+       "gl": "go (to)",
        "pos": "v."
       },
       {
@@ -115,17 +110,12 @@
       {
        "h": "中医",
        "py": "zhōngyī",
-       "gl": "traditional Chinese medicine",
+       "gl": "traditional Chinese medicine doctor",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "apparently it really works.",
-     "words": [
+      },
       {
        "h": "据说",
        "py": "jùshuō",
@@ -152,15 +142,100 @@
    ]
   },
   {
-   "en": "The doctor first took my pulse, then took a look at my tongue.",
+   "en": "He even booked me in with the doctor he usually sees.",
    "phrases": [
     {
-     "en": "The doctor first took my pulse,",
+     "en": "He even booked me in with the doctor he usually sees.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "帮",
+       "py": "bāng",
+       "gl": "help",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "约",
+       "py": "yuē",
+       "gl": "book (an appointment)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "常",
+       "py": "cháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那位",
+       "py": "nàwèi",
+       "gl": "that (person, polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "医生",
+       "py": "yīshēng",
+       "gl": "doctor",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The doctor first took my pulse, then looked at my tongue.",
+   "phrases": [
+    {
+     "en": "The doctor first took my pulse, then looked at my tongue.",
      "words": [
       {
        "h": "中医",
        "py": "zhōngyī",
-       "gl": "traditional Chinese medicine",
+       "gl": "traditional Chinese medicine doctor",
        "pos": "n."
       },
       {
@@ -172,7 +247,7 @@
       {
        "h": "给",
        "py": "gěi",
-       "gl": "for; to (someone); give",
+       "gl": "to; for (someone); give",
        "pos": "prep."
       },
       {
@@ -184,8 +259,8 @@
       {
        "h": "把",
        "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
+       "gl": "take (the pulse)",
+       "pos": "v."
       },
       {
        "h": "了",
@@ -201,34 +276,17 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "then took a look at my tongue.",
-     "words": [
+      },
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
+       "h": "看了看",
+       "py": "kànlekàn",
+       "gl": "took a look",
        "pos": "v."
       },
       {
@@ -240,7 +298,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -257,10 +315,10 @@
    ]
   },
   {
-   "en": "He said I'd been under too much stress lately and my body was a bit run-down.",
+   "en": "He said I'd been under too much stress lately and was a bit run-down.",
    "phrases": [
     {
-     "en": "He said I'd been under too much stress lately and my body was a bit run-down.",
+     "en": "He said I'd been under too much stress lately and was a bit run-down.",
      "words": [
       {
        "h": "他",
@@ -289,13 +347,13 @@
       {
        "h": "压力",
        "py": "yālì",
-       "gl": "pressure; stress",
+       "gl": "stress; pressure",
        "pos": "n."
       },
       {
        "h": "太",
        "py": "tài",
-       "gl": "too; very",
+       "gl": "too",
        "pos": "adv."
       },
       {
@@ -322,7 +380,7 @@
       {
        "h": "虚",
        "py": "xū",
-       "gl": "weak (in health); run-down",
+       "gl": "run-down (of health)",
        "pos": "adj."
       },
       {
@@ -333,10 +391,414 @@
    ]
   },
   {
-   "en": "He prescribed me some Chinese herbal medicine and also told me to go to bed earlier.",
+   "en": "Then he asked, \"Do you often work overtime?\"",
    "phrases": [
     {
-     "en": "He prescribed me some Chinese herbal medicine,",
+     "en": "Then he asked, \"Do you often work overtime?\"",
+     "words": [
+      {
+       "h": "然后",
+       "py": "ránhòu",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "是不是",
+       "py": "shìbúshì",
+       "gl": "isn't it?; right? (tag question); whether (or not)",
+       "pos": "v."
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "加班",
+       "py": "jiābān",
+       "gl": "work overtime",
+       "pos": "v."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I said, \"Until ten every evening.\"",
+   "phrases": [
+    {
+     "en": "I said, \"Until ten every evening.\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "十",
+       "py": "shí",
+       "gl": "ten",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He thought for a moment and asked, \"Is your boss's surname Kuang, by any chance?\"",
+   "phrases": [
+    {
+     "en": "He thought for a moment and asked, \"Is your boss's surname Kuang, by any chance?\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "想了想",
+       "py": "xiǎnglexiǎng",
+       "gl": "thought for a moment",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "老板",
+       "py": "lǎobǎn",
+       "gl": "boss",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是不是",
+       "py": "shìbúshì",
+       "gl": "isn't it?; right? (tag question); whether (or not)",
+       "pos": "v."
+      },
+      {
+       "h": "姓",
+       "py": "xìng",
+       "gl": "surname; be surnamed",
+       "pos": "n."
+      },
+      {
+       "h": "邝",
+       "py": "Kuàng",
+       "gl": "Kuang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I was startled: \"How did you know?\"",
+   "phrases": [
+    {
+     "en": "I was startled: \"How did you know?\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "吃了一惊",
+       "py": "chī le yì jīng",
+       "gl": "be startled",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
+       "pos": "pron."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The doctor laughed: \"He came last month too — also too much stress, also working till ten every night.\"",
+   "phrases": [
+    {
+     "en": "The doctor laughed: \"He came last month too — also too much stress, also working till ten every night.\"",
+     "words": [
+      {
+       "h": "医生",
+       "py": "yīshēng",
+       "gl": "doctor",
+       "pos": "n."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "上个月",
+       "py": "shànggèyuè",
+       "gl": "last month",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也是",
+       "py": "yěshì",
+       "gl": "also; too",
+       "pos": "conj."
+      },
+      {
+       "h": "压力",
+       "py": "yālì",
+       "gl": "stress; pressure",
+       "pos": "n."
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "大",
+       "py": "dà",
+       "gl": "big; large",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也是",
+       "py": "yěshì",
+       "gl": "also; too",
+       "pos": "conj."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "加班",
+       "py": "jiābān",
+       "gl": "work overtime",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "十",
+       "py": "shí",
+       "gl": "ten",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He prescribed some herbal medicine, advised me to go to bed earlier, and then said quietly, \"Tell your boss too.\"",
+   "phrases": [
+    {
+     "en": "He prescribed some herbal medicine, advised me to go to bed earlier, and then said quietly, \"Tell your boss too.\"",
      "words": [
       {
        "h": "他",
@@ -347,7 +809,7 @@
       {
        "h": "给",
        "py": "gěi",
-       "gl": "for; to (someone); give",
+       "gl": "to; for (someone); give",
        "pos": "prep."
       },
       {
@@ -359,7 +821,7 @@
       {
        "h": "开",
        "py": "kāi",
-       "gl": "open; turn on; open (an account); prescribe",
+       "gl": "open; turn on; drive; start (a business); prescribe; hold (a meeting)",
        "pos": "v."
       },
       {
@@ -370,28 +832,23 @@
       },
       {
        "h": "一些",
-       "py": "yìxie",
-       "gl": "some; a few",
-       "pos": "num."
+       "py": "yīxiē",
+       "gl": "some; certain",
+       "pos": "pron."
       },
       {
        "h": "中药",
        "py": "zhōngyào",
-       "gl": "traditional Chinese medicine (herbal remedy)",
+       "gl": "Chinese herbal medicine",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and also told me to go to bed earlier.",
-     "words": [
+      },
       {
        "h": "还",
        "py": "hái",
-       "gl": "also; still; in addition",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
@@ -419,17 +876,77 @@
        "pos": "v."
       },
       {
+       "h": "，"
+      },
+      {
+       "h": "然后",
+       "py": "ránhòu",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "小声",
+       "py": "xiǎoshēng",
+       "gl": "in a low voice; quietly",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "老板",
+       "py": "lǎobǎn",
+       "gl": "boss",
+       "pos": "n."
+      },
+      {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "After two weeks of taking the herbal medicine, I really had a lot more energy.",
+   "en": "After two weeks of the herbal medicine, I really did have much more energy.",
    "phrases": [
     {
-     "en": "After two weeks of taking the herbal medicine,",
+     "en": "After two weeks of the herbal medicine, I really did have much more energy.",
      "words": [
       {
        "h": "喝",
@@ -444,16 +961,10 @@
        "pos": "particle"
       },
       {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two (before measure words)",
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "星期",
@@ -464,29 +975,24 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "中药",
        "py": "zhōngyào",
-       "gl": "traditional Chinese medicine (herbal remedy)",
+       "gl": "Chinese herbal medicine",
        "pos": "n."
       },
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I really had a lot more energy.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -496,14 +1002,14 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "精神",
-       "py": "jīngshén",
-       "gl": "energetic; lively; energy",
-       "pos": "adj."
+       "py": "jīngshen",
+       "gl": "energy; vigor",
+       "pos": "n."
       },
       {
        "h": "真的",
@@ -514,7 +1020,7 @@
       {
        "h": "好",
        "py": "hǎo",
-       "gl": "good; well",
+       "gl": "good",
        "pos": "adj."
       },
       {
@@ -527,6 +1033,124 @@
        "h": "了",
        "py": "le",
        "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Later our company made a rule: no meetings after eight in the evening — they say the boss made it himself.",
+   "phrases": [
+    {
+     "en": "Later our company made a rule: no meetings after eight in the evening — they say the boss made it himself.",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
+       "pos": "n."
+      },
+      {
+       "h": "规定",
+       "py": "guīdìng",
+       "gl": "regulation; rule",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "八",
+       "py": "bā",
+       "gl": "eight",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after; later; in the future",
+       "pos": "postposition"
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
+      },
+      {
+       "h": "开会",
+       "py": "kāihuì",
+       "gl": "have a meeting",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "据说",
+       "py": "jùshuō",
+       "gl": "it is said; reportedly",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "老板",
+       "py": "lǎobǎn",
+       "gl": "boss",
+       "pos": "n."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "定",
+       "py": "dìng",
+       "gl": "set; fix (a time); order (food, goods)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {

@@ -1,17 +1,17 @@
 {
  "id": "neighbor",
  "level": 3,
- "title_zh": "我的邻居",
- "title_en": "My Neighbor",
+ "title_zh": "楼下的老先生",
+ "title_en": "The Old Man Downstairs",
  "free": false,
  "audio_url": null,
- "note_en": "像……一样 means \"just like\": 就像对自己的孙女一样 \"just like she would to her own granddaughter.\" English needs only \"like,\" but Chinese wraps the comparison with 像 in front and 一样 at the end.",
+ "note_en": "The construction 像……一样 (\"like…, just as…\") compares things in essence: 像对自己的学生一样 — \"as if she were his own student.\" In the last sentence the comparison gains a second meaning: 就像我年轻时候弹的一样 — \"just like I played when I was young.\"",
  "sentences": [
   {
-   "en": "My neighbor is a seventy-year-old grandma.",
+   "en": "An old gentleman in his seventies lives below me, and he has a terrible temper.",
    "phrases": [
     {
-     "en": "My neighbor is",
+     "en": "An old gentleman in his seventies lives below me, and he has a terrible temper.",
      "words": [
       {
        "h": "我",
@@ -20,44 +20,33 @@
        "pos": "pron."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "邻居",
-       "py": "línjū",
-       "gl": "neighbor",
+       "h": "楼下",
+       "py": "lóuxià",
+       "gl": "downstairs",
        "pos": "n."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "住",
+       "py": "zhù",
+       "gl": "live; stay",
        "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "a seventy-year-old grandma.",
-     "words": [
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
       },
       {
-       "h": "位",
-       "py": "wèi",
-       "gl": "polite measure word for people",
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
        "pos": "measure word"
       },
       {
-       "h": "七十",
-       "py": "qīshí",
-       "gl": "seventy",
+       "h": "七十多",
+       "py": "qīshíduō",
+       "gl": "over seventy",
        "pos": "num."
       },
       {
@@ -69,83 +58,23 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
+       "h": "老先生",
+       "py": "lǎo xiānsheng",
+       "gl": "old gentleman",
        "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "She lives alone, but she's busy every day.",
-   "phrases": [
-    {
-     "en": "She lives alone,",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "住",
-       "py": "zhù",
-       "gl": "live; stay",
-       "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but she's busy every day.",
-     "words": [
-      {
-       "h": "可是",
-       "py": "kěshì",
-       "gl": "but; however",
-       "pos": "conj."
       },
       {
-       "h": "每天",
-       "py": "měitiān",
-       "gl": "every day",
+       "h": "脾气",
+       "py": "píqi",
+       "gl": "temper",
        "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
       },
       {
        "h": "很",
@@ -154,9 +83,9 @@
        "pos": "adv."
       },
       {
-       "h": "忙",
-       "py": "máng",
-       "gl": "busy",
+       "h": "不好",
+       "py": "bùhǎo",
+       "gl": "bad; not good",
        "pos": "adj."
       },
       {
@@ -167,103 +96,11 @@
    ]
   },
   {
-   "en": "In the morning she goes to the park to do tai chi.",
+   "en": "In my very first week after moving in, he came up and knocked on my door three times.",
    "phrases": [
     {
-     "en": "In the morning",
+     "en": "In my very first week after moving in, he came up and knocked on my door three times.",
      "words": [
-      {
-       "h": "早上",
-       "py": "zǎoshang",
-       "gl": "morning",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "she goes to the park to do tai chi.",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
-       "pos": "v."
-      },
-      {
-       "h": "公园",
-       "py": "gōngyuán",
-       "gl": "park",
-       "pos": "n."
-      },
-      {
-       "h": "打",
-       "py": "dǎ",
-       "gl": "hit; play (ball games); make (a phone call)",
-       "pos": "v."
-      },
-      {
-       "h": "太极拳",
-       "py": "tàijíquán",
-       "gl": "tai chi",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "On her way back, she often brings me some fresh vegetables.",
-   "phrases": [
-    {
-     "en": "When she comes back,",
-     "words": [
-      {
-       "h": "回来",
-       "py": "huílái",
-       "gl": "come back; return",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she often brings me some fresh vegetables.",
-     "words": [
-      {
-       "h": "常常",
-       "py": "chángcháng",
-       "gl": "often",
-       "pos": "adv."
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "for; to (someone); give",
-       "pos": "prep."
-      },
       {
        "h": "我",
        "py": "wǒ",
@@ -271,169 +108,60 @@
        "pos": "pron."
       },
       {
-       "h": "带",
-       "py": "dài",
-       "gl": "bring; take (along); carry",
+       "h": "刚",
+       "py": "gāng",
+       "gl": "just (now); only just",
+       "pos": "adv."
+      },
+      {
+       "h": "搬来",
+       "py": "bānlái",
+       "gl": "move in; bring over",
        "pos": "v."
       },
       {
-       "h": "一些",
-       "py": "yìxie",
-       "gl": "some; a few",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "第一个",
+       "py": "dìyígè",
+       "gl": "the first",
        "pos": "num."
       },
       {
-       "h": "新鲜",
-       "py": "xīnxiān",
-       "gl": "fresh",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "菜",
-       "py": "cài",
-       "gl": "vegetable; dish (food)",
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
        "pos": "n."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "She's really good to me, just like she would be to her own granddaughter.",
-   "phrases": [
-    {
-     "en": "She's really good to me,",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "to; toward; correct",
-       "pos": "prep."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly; special",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "just like she would be to her own granddaughter.",
-     "words": [
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
       {
        "h": "就",
        "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like",
+       "h": "上楼",
+       "py": "shànglóu",
+       "gl": "go upstairs",
        "pos": "v."
       },
       {
-       "h": "对",
-       "py": "duì",
-       "gl": "to; toward; correct",
-       "pos": "prep."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "孙女",
-       "py": "sūnnǚ",
-       "gl": "granddaughter",
-       "pos": "n."
-      },
-      {
-       "h": "一样",
-       "py": "yíyàng",
-       "gl": "same; alike",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Once when I was sick, she found out and brought me a bowl of hot soup.",
-   "phrases": [
-    {
-     "en": "Once when I was sick,",
-     "words": [
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
-       "pos": "measure word"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "生病",
-       "py": "shēngbìng",
-       "gl": "get sick; fall ill",
+       "h": "敲",
+       "py": "qiāo",
+       "gl": "knock",
        "pos": "v."
       },
       {
@@ -443,79 +171,15 @@
        "pos": "particle"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "after she found out,",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "知道",
-       "py": "zhīdao",
-       "gl": "know",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she brought me a bowl of hot soup.",
-     "words": [
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "for; to (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "送来",
-       "py": "sònglái",
-       "gl": "bring; deliver",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "碗",
-       "py": "wǎn",
-       "gl": "bowl (also measure word)",
+       "h": "三次",
+       "py": "sāncì",
+       "gl": "three times",
        "pos": "measure word"
       },
       {
-       "h": "热",
-       "py": "rè",
-       "gl": "hot",
-       "pos": "adj."
-      },
-      {
-       "h": "汤",
-       "py": "tāng",
-       "gl": "soup; broth",
+       "h": "门",
+       "py": "mén",
+       "gl": "door",
        "pos": "n."
       },
       {
@@ -526,79 +190,85 @@
    ]
   },
   {
-   "en": "I was really touched and said, \"Thank you so much, Grandma!\"",
+   "en": "Every time it was the same words: \"Your piano — it's far too noisy!\"",
    "phrases": [
     {
-     "en": "I was really touched",
+     "en": "Every time it was the same words: \"Your piano — it's far too noisy!\"",
      "words": [
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
        "pos": "adv."
       },
       {
-       "h": "感动",
-       "py": "gǎndòng",
-       "gl": "moved; touched",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and said:",
-     "words": [
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "都是",
+       "py": "dōushì",
+       "gl": "all are; are all",
        "pos": "v."
       },
       {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "话",
+       "py": "huà",
+       "gl": "words; speech; what someone says",
+       "pos": "n."
+      },
+      {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"Grandma,",
-     "words": [
+      },
       {
        "h": "“"
       },
       {
-       "h": "奶奶",
-       "py": "nǎinai",
-       "gl": "grandma (father's mother)",
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "钢琴",
+       "py": "gāngqín",
+       "gl": "piano",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "thank you!\"",
-     "words": [
-      {
-       "h": "谢谢",
-       "py": "xièxie",
-       "gl": "thank you; thanks",
-       "pos": "phrase"
       },
       {
-       "h": "您",
-       "py": "nín",
-       "gl": "you (polite)",
-       "pos": "pron."
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "吵",
+       "py": "chǎo",
+       "gl": "noisy; make noise; quarrel",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "！"
@@ -611,76 +281,109 @@
    ]
   },
   {
-   "en": "She smiled and said, \"We're neighbors, but we're family too.\"",
+   "en": "So I stopped playing after eight in the evening.",
    "phrases": [
     {
-     "en": "She smiled and said:",
+     "en": "So I stopped playing after eight in the evening.",
      "words": [
       {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
+       "h": "只好",
+       "py": "zhǐhǎo",
+       "gl": "have no choice but to",
+       "pos": "adv."
       },
       {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"We're neighbors,",
-     "words": [
-      {
-       "h": "“"
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "邻居",
-       "py": "línjū",
-       "gl": "neighbor",
+       "h": "每天晚上",
+       "py": "měitiānwǎnshàng",
+       "gl": "every evening; every night",
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "八",
+       "py": "bā",
+       "gl": "eight",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "弹",
+       "py": "tán",
+       "gl": "play (an instrument)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "But he still came and knocked, sometimes in the afternoon.",
+   "phrases": [
     {
-     "en": "and we're family too.\"",
+     "en": "But he still came and knocked, sometimes in the afternoon.",
      "words": [
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "敲门",
+       "py": "qiāomén",
+       "gl": "knock on the door",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有时候",
+       "py": "yǒushíhòu",
+       "gl": "sometimes",
        "pos": "adv."
       },
       {
@@ -690,22 +393,216 @@
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "家人",
-       "py": "jiārén",
-       "gl": "family members; family",
+       "h": "下午",
+       "py": "xiàwǔ",
+       "gl": "afternoon",
        "pos": "n."
       },
       {
-       "h": "啊",
-       "py": "a",
-       "gl": "particle: agreement, emotion (ah; oh)",
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "One day I got angry: \"Can't I even play in the afternoon?\"",
+   "phrases": [
+    {
+     "en": "One day I got angry: \"Can't I even play in the afternoon?\"",
+     "words": [
+      {
+       "h": "有一天",
+       "py": "yǒuyītiān",
+       "gl": "one day",
+       "pos": "adv."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "生气",
+       "py": "shēngqì",
+       "gl": "get angry; angry",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "下午",
+       "py": "xiàwǔ",
+       "gl": "afternoon",
+       "pos": "n."
+      },
+      {
+       "h": "弹",
+       "py": "tán",
+       "gl": "play (an instrument)",
+       "pos": "v."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不行",
+       "py": "bùxíng",
+       "gl": "won't do; not OK; not possible",
+       "pos": "v."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He looked at me and said, \"It's not about the time. In the twentieth bar, you get it wrong every time.\"",
+   "phrases": [
+    {
+     "en": "He looked at me and said, \"It's not about the time. In the twentieth bar, you get it wrong every time.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "第二十",
+       "py": "dì èrshí",
+       "gl": "twentieth",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "小节",
+       "py": "xiǎojié",
+       "gl": "bar (in music)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "adv."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "弹",
+       "py": "tán",
+       "gl": "play (an instrument)",
+       "pos": "v."
+      },
+      {
+       "h": "错",
+       "py": "cuò",
+       "gl": "wrong; mistaken (坐错 take the wrong one)",
+       "pos": "adj."
       },
       {
        "h": "。"
@@ -718,16 +615,47 @@
    ]
   },
   {
-   "en": "Now I often help her with her shopping too.",
+   "en": "I was stunned.",
    "phrases": [
     {
-     "en": "Now I often",
+     "en": "I was stunned.",
      "words": [
       {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "愣住",
+       "py": "lèngzhù",
+       "gl": "be stunned",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Later I found out he used to teach piano at a music conservatory.",
+   "phrases": [
+    {
+     "en": "Later I found out he used to teach piano at a music conservatory.",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
       },
       {
        "h": "我",
@@ -736,48 +664,552 @@
        "pos": "pron."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
        "pos": "adv."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "find out; learn",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "postposition"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "音乐学院",
+       "py": "yīnyuè xuéyuàn",
+       "gl": "conservatory (of music)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "钢琴",
+       "py": "gāngqín",
+       "gl": "piano",
+       "pos": "n."
+      },
+      {
+       "h": "老师",
+       "py": "lǎoshī",
+       "gl": "teacher",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "From that day on, he came to my flat every Saturday afternoon and taught me bar by bar, as if I were his own student.",
+   "phrases": [
+    {
+     "en": "From that day on, he came to my flat every Saturday afternoon and taught me bar by bar, as if I were his own student.",
+     "words": [
+      {
+       "h": "从那天起",
+       "py": "cóngnàtiānqǐ",
+       "gl": "from that day on",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "每个",
+       "py": "měigè",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "星期六",
+       "py": "xīngqīliù",
+       "gl": "Saturday",
+       "pos": "n."
+      },
+      {
+       "h": "下午",
+       "py": "xiàwu",
+       "gl": "afternoon",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "我家",
+       "py": "wǒjiā",
+       "gl": "my home; my family",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "学生",
+       "py": "xuéshēng",
+       "gl": "student",
+       "pos": "n."
+      },
+      {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "小节",
+       "py": "xiǎojié",
+       "gl": "bar (in music)",
+       "pos": "n."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "小节",
+       "py": "xiǎojié",
+       "gl": "bar (in music)",
+       "pos": "n."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He was still very strict and often said, \"No. Again.\"",
+   "phrases": [
+    {
+     "en": "He was still very strict and often said, \"No. Again.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "还是",
+       "py": "háishi",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "严格",
+       "py": "yángé",
+       "gl": "strict",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "常常",
        "py": "chángcháng",
        "gl": "often",
        "pos": "adv."
-      }
-     ]
-    },
-    {
-     "en": "help her do her shopping.",
-     "words": [
+      },
       {
-       "h": "帮",
-       "py": "bāng",
-       "gl": "help",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
+       "h": "："
       },
       {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
+       "h": "“"
+      },
+      {
+       "h": "不对",
+       "py": "búduì",
+       "gl": "wrong; not right; something's off",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "再",
+       "py": "zài",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
        "pos": "v."
-      },
-      {
-       "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; things; stuff",
-       "pos": "n."
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But once, when I'd played a whole piece through, he said nothing.",
+   "phrases": [
+    {
+     "en": "But once, when I'd played a whole piece through, he said nothing.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "有一次",
+       "py": "yǒuyīcì",
+       "gl": "once; one time",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "弹",
+       "py": "tán",
+       "gl": "play (an instrument)",
+       "pos": "v."
+      },
+      {
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "整",
+       "py": "zhěng",
+       "gl": "whole; entire",
+       "pos": "adj."
+      },
+      {
+       "h": "首",
+       "py": "shǒu",
+       "gl": "measure word for songs and poems",
+       "pos": "measure word"
+      },
+      {
+       "h": "曲子",
+       "py": "qǔzi",
+       "gl": "piece (of music)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I turned to look at him; his eyes were a little red.",
+   "phrases": [
+    {
+     "en": "I turned to look at him; his eyes were a little red.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "回头",
+       "py": "huítóu",
+       "gl": "look back; turn one's head",
+       "pos": "v."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "眼睛",
+       "py": "yǎnjīng",
+       "gl": "eye; eyes",
+       "pos": "n."
+      },
+      {
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
+      },
+      {
+       "h": "红",
+       "py": "hóng",
+       "gl": "blush; turn red",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Good,\" he said. \"Just like I played when I was young.\"",
+   "phrases": [
+    {
+     "en": "\"Good,\" he said. \"Just like I played when I was young.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "就像",
+       "py": "jiùxiàng",
+       "gl": "be just like",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "年轻",
+       "py": "niánqīng",
+       "gl": "young",
+       "pos": "adj."
+      },
+      {
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "弹",
+       "py": "tán",
+       "gl": "play (an instrument)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }

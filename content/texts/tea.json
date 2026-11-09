@@ -1,61 +1,68 @@
 {
  "id": "tea",
  "level": 3,
- "title_zh": "中国的茶",
- "title_en": "Chinese Tea",
+ "title_zh": "跟老板学喝茶",
+ "title_en": "Learning Tea From the Owner",
  "free": false,
  "audio_url": null,
- "note_en": "越来越 + adjective means \"more and more\": 喝茶的年轻人越来越多 \"more and more young people drink tea.\" English changes the adjective (more, bigger), but in Chinese the adjective stays the same and 越来越 goes in front.",
+ "note_en": "越来越 + adjective means \"more and more…\": 我的客人越来越少，越来越老 — \"my customers got fewer and fewer, and older and older.\" The adjective doesn't change; the increase is carried by the three syllables 越来越. At the end of the story the same 越来越 points the other way: 年轻人越来越多.",
  "sentences": [
   {
-   "en": "Chinese people love drinking tea, and it has a very long history.",
+   "en": "I've run a teahouse on the old street for twenty years.",
    "phrases": [
     {
-     "en": "Chinese people love drinking tea,",
+     "en": "I've run a teahouse on the old street for twenty years.",
      "words": [
       {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "老街",
+       "py": "lǎojiē",
+       "gl": "old street",
        "pos": "n."
       },
       {
-       "h": "喜欢",
-       "py": "xǐhuan",
-       "gl": "like; love",
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; start (a business)",
        "pos": "v."
       },
       {
-       "h": "喝",
-       "py": "hē",
-       "gl": "drink",
-       "pos": "v."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "茶",
-       "py": "chá",
-       "gl": "tea",
+       "h": "一家",
+       "py": "yìjiā",
+       "gl": "a; one (shop, family, company)",
+       "pos": "measure word"
+      },
+      {
+       "h": "茶馆",
+       "py": "cháguǎn",
+       "gl": "teahouse",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and this already has a long history.",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
       },
       {
        "h": "已经",
@@ -64,33 +71,9 @@
        "pos": "adv."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "长",
-       "py": "cháng",
-       "gl": "long",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "历史",
-       "py": "lìshǐ",
-       "gl": "history",
+       "h": "二十年",
+       "py": "èrshínián",
+       "gl": "twenty years",
        "pos": "n."
       },
       {
@@ -107,22 +90,43 @@
    ]
   },
   {
-   "en": "There are many kinds of tea, like green tea, black tea and flower tea.",
+   "en": "People used to come in droves; they sat together, drinking slowly and chatting slowly.",
    "phrases": [
     {
-     "en": "There are many kinds of tea,",
+     "en": "People used to come in droves; they sat together, drinking slowly and chatting slowly.",
      "words": [
       {
-       "h": "茶",
-       "py": "chá",
-       "gl": "tea",
-       "pos": "n."
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "postposition"
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "，"
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
        "pos": "v."
+      },
+      {
+       "h": "喝茶",
+       "py": "hēchá",
+       "gl": "drink tea",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
       },
       {
        "h": "很多",
@@ -131,51 +135,49 @@
        "pos": "adj."
       },
       {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "kind; type (measure word)",
-       "pos": "measure word"
+       "h": "，"
+      },
+      {
+       "h": "大家",
+       "py": "dàjiā",
+       "gl": "everyone; everybody",
+       "pos": "pron."
+      },
+      {
+       "h": "坐在一起",
+       "py": "zuòzàiyìqǐ",
+       "gl": "sit together",
+       "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "like green tea, black tea and flower tea.",
-     "words": [
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
       },
       {
-       "h": "绿茶",
-       "py": "lǜchá",
-       "gl": "green tea",
-       "pos": "n."
+       "h": "慢慢地",
+       "py": "mànmàndì",
+       "gl": "slowly; gradually",
+       "pos": "adv."
       },
       {
-       "h": "、"
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
+       "pos": "v."
       },
       {
-       "h": "红茶",
-       "py": "hóngchá",
-       "gl": "black tea",
-       "pos": "n."
+       "h": "，"
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
+       "h": "慢慢地",
+       "py": "mànmàndì",
+       "gl": "slowly; gradually",
+       "pos": "adv."
       },
       {
-       "h": "花茶",
-       "py": "huāchá",
-       "gl": "flower tea; scented tea",
-       "pos": "n."
+       "h": "聊",
+       "py": "liáo",
+       "gl": "chat; talk (about)",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -185,11 +187,329 @@
    ]
   },
   {
-   "en": "Green tea has a light taste, and black tea is a bit stronger.",
+   "en": "Later the young people all went off to drink milk tea, and my customers got fewer and fewer, and older and older.",
    "phrases": [
     {
-     "en": "Green tea tastes light,",
+     "en": "Later the young people all went off to drink milk tea, and my customers got fewer and fewer, and older and older.",
      "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "年轻人",
+       "py": "niánqīngrén",
+       "gl": "young people",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
+       "pos": "v."
+      },
+      {
+       "h": "奶茶",
+       "py": "nǎichá",
+       "gl": "milk tea",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "客人",
+       "py": "kèrén",
+       "gl": "guest; customer",
+       "pos": "n."
+      },
+      {
+       "h": "越来越少",
+       "py": "yuèláiyuèshǎo",
+       "gl": "fewer and fewer",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "越来越",
+       "py": "yuèláiyuè",
+       "gl": "more and more",
+       "pos": "adv."
+      },
+      {
+       "h": "老",
+       "py": "lǎo",
+       "gl": "old; elderly",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "One day a girl walked in and said, \"Boss, I want to learn how to drink tea.\"",
+   "phrases": [
+    {
+     "en": "One day a girl walked in and said, \"Boss, I want to learn how to drink tea.\"",
+     "words": [
+      {
+       "h": "有一天",
+       "py": "yǒuyītiān",
+       "gl": "one day",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "女孩",
+       "py": "nǚhái",
+       "gl": "girl",
+       "pos": "n."
+      },
+      {
+       "h": "走进来",
+       "py": "zǒujìnlái",
+       "gl": "walk in",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "老板",
+       "py": "lǎobǎn",
+       "gl": "boss; shop owner",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "喝茶",
+       "py": "hēchá",
+       "gl": "drink tea",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I poured her a cup of green tea. She took a sip and frowned: \"Why is it bitter?\"",
+   "phrases": [
+    {
+     "en": "I poured her a cup of green tea. She took a sip and frowned: \"Why is it bitter?\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "倒",
+       "py": "dào",
+       "gl": "pour (a drink)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一杯",
+       "py": "yībēi",
+       "gl": "a cup of; a glass of",
+       "pos": "measure word"
+      },
+      {
+       "h": "绿茶",
+       "py": "lǜchá",
+       "gl": "green tea",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一口",
+       "py": "yìkǒu",
+       "gl": "a mouthful; a bite",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "皱了皱眉",
+       "py": "zhòulezhòuméi",
+       "gl": "frowned",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how come; why",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "苦",
+       "py": "kǔ",
+       "gl": "bitter",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Green tea has a light flavour; the first sip is a bit bitter. Drink it slowly.\"",
+   "phrases": [
+    {
+     "en": "\"Green tea has a light flavour; the first sip is a bit bitter. Drink it slowly.\"",
+     "words": [
+      {
+       "h": "“"
+      },
       {
        "h": "绿茶",
        "py": "lǜchá",
@@ -199,7 +519,7 @@
       {
        "h": "味道",
        "py": "wèidào",
-       "gl": "taste; smell; flavor",
+       "gl": "taste; flavor",
        "pos": "n."
       },
       {
@@ -210,113 +530,40 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "black tea tastes a bit stronger.",
-     "words": [
-      {
-       "h": "红茶",
-       "py": "hóngchá",
-       "gl": "black tea",
-       "pos": "n."
       },
       {
-       "h": "味道",
-       "py": "wèidào",
-       "gl": "taste; smell; flavor",
-       "pos": "n."
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
       },
       {
-       "h": "浓",
-       "py": "nóng",
-       "gl": "strong (taste); thick; dense",
+       "h": "口",
+       "py": "kǒu",
+       "gl": "measure word for mouthfuls, breaths, wells, pots; mouth",
+       "pos": "measure word"
+      },
+      {
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
+      },
+      {
+       "h": "苦",
+       "py": "kǔ",
+       "gl": "bitter",
        "pos": "adj."
       },
       {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; a bit",
-       "pos": "adv."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "When Chinese people drink tea, they often chat and sip it slowly.",
-   "phrases": [
-    {
-     "en": "When drinking tea,",
-     "words": [
-      {
-       "h": "喝",
-       "py": "hē",
-       "gl": "drink",
-       "pos": "v."
-      },
-      {
-       "h": "茶",
-       "py": "chá",
-       "gl": "tea",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Chinese people often chat",
-     "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
       },
-      {
-       "h": "常常",
-       "py": "chángcháng",
-       "gl": "often",
-       "pos": "adv."
-      },
-      {
-       "h": "聊天",
-       "py": "liáotiān",
-       "gl": "chat; talk",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and drink slowly.",
-     "words": [
       {
        "h": "慢慢",
        "py": "mànmàn",
@@ -324,12 +571,6 @@
        "pos": "adv."
       },
       {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
-       "pos": "particle"
-      },
-      {
        "h": "喝",
        "py": "hē",
        "gl": "drink",
@@ -337,28 +578,40 @@
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "When a guest comes over, the host first pours them a cup of tea.",
+   "en": "The next day she came back and drank black tea; she said it was a bit stronger and she liked it more.",
    "phrases": [
     {
-     "en": "When a guest comes over,",
+     "en": "The next day she came back and drank black tea; she said it was a bit stronger and she liked it more.",
      "words": [
       {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
+       "pos": "n."
       },
       {
-       "h": "客人",
-       "py": "kèrén",
-       "gl": "guest; customer",
-       "pos": "n."
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
       },
       {
        "h": "来",
@@ -374,64 +627,238 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the host first pours them a cup of tea.",
-     "words": [
-      {
-       "h": "主人",
-       "py": "zhǔrén",
-       "gl": "host; owner; master",
-       "pos": "n."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
-      },
-      {
-       "h": "先",
-       "py": "xiān",
-       "gl": "first; before",
-       "pos": "adv."
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "for; to (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "倒",
-       "py": "dào",
-       "gl": "pour (a drink)",
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "杯",
-       "py": "bēi",
-       "gl": "cup; glass (also measure word)",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "红茶",
+       "py": "hóngchá",
+       "gl": "black tea",
        "pos": "n."
       },
       {
-       "h": "茶",
-       "py": "chá",
-       "gl": "tea",
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "红茶",
+       "py": "hóngchá",
+       "gl": "black tea",
+       "pos": "n."
+      },
+      {
+       "h": "味道",
+       "py": "wèidào",
+       "gl": "taste; flavor",
+       "pos": "n."
+      },
+      {
+       "h": "浓",
+       "py": "nóng",
+       "gl": "strong (of flavour)",
+       "pos": "adj."
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "喜欢",
+       "py": "xǐhuan",
+       "gl": "like; love",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She came every day, asked one question every day, and filmed it all on her phone.",
+   "phrases": [
+    {
+     "en": "She came every day, asked one question every day, and filmed it all on her phone.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "question; problem",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "拍下来",
+       "py": "pāixiàlai",
+       "gl": "take a picture of; film",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A month later, the teahouse was suddenly full of young people.",
+   "phrases": [
+    {
+     "en": "A month later, the teahouse was suddenly full of young people.",
+     "words": [
+      {
+       "h": "一个月",
+       "py": "yígèyuè",
+       "gl": "one month",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "店里",
+       "py": "diànlǐ",
+       "gl": "in the store; in the shop",
+       "pos": "n."
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot; much",
+       "pos": "adj."
+      },
+      {
+       "h": "年轻人",
+       "py": "niánqīngrén",
+       "gl": "young people",
        "pos": "n."
       },
       {
@@ -442,25 +869,235 @@
    ]
   },
   {
-   "en": "Now more and more young people are drinking tea, because it's good for your health.",
+   "en": "Holding up their phones, they said, \"We came because we saw the videos.\"",
    "phrases": [
     {
-     "en": "Now",
+     "en": "Holding up their phones, they said, \"We came because we saw the videos.\"",
+     "words": [
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video; video call",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It turned out the girl had posted our conversations online under the title \"Learning Tea From the Owner.\"",
+   "phrases": [
+    {
+     "en": "It turned out the girl had posted our conversations online under the title \"Learning Tea From the Owner.\"",
+     "words": [
+      {
+       "h": "原来",
+       "py": "yuánlái",
+       "gl": "it turns out; so (that's why); originally",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "女孩",
+       "py": "nǚhái",
+       "gl": "girl",
+       "pos": "n."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "对话",
+       "py": "duìhuà",
+       "gl": "dialogue; conversation",
+       "pos": "n."
+      },
+      {
+       "h": "发到",
+       "py": "fādào",
+       "gl": "post to; send to",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "网上",
+       "py": "wǎngshàng",
+       "gl": "online; on the internet",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "老板",
+       "py": "lǎobǎn",
+       "gl": "boss; shop owner",
+       "pos": "n."
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "喝茶",
+       "py": "hēchá",
+       "gl": "drink tea",
+       "pos": "v."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now more and more young people come to drink tea.",
+   "phrases": [
+    {
+     "en": "Now more and more young people come to drink tea.",
      "words": [
       {
        "h": "现在",
        "py": "xiànzài",
        "gl": "now",
-       "pos": "n."
+       "pos": "adv."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "more and more young people drink tea,",
-     "words": [
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
       {
        "h": "喝茶",
        "py": "hēchá",
@@ -470,19 +1107,110 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "年轻",
-       "py": "niánqīng",
-       "gl": "young",
+       "h": "年轻人",
+       "py": "niánqīngrén",
+       "gl": "young people",
+       "pos": "n."
+      },
+      {
+       "h": "越来越多",
+       "py": "yuèláiyuèduō",
+       "gl": "more and more",
        "pos": "adj."
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Sometimes they're on their phones, but when they drink tea, their voices get quieter and quieter.",
+   "phrases": [
+    {
+     "en": "Sometimes they're on their phones, but when they drink tea, their voices get quieter and quieter.",
+     "words": [
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "有时候",
+       "py": "yǒushíhòu",
+       "gl": "sometimes",
+       "pos": "adv."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "玩",
+       "py": "wán",
+       "gl": "play; have fun; hang out",
+       "pos": "v."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "喝茶",
+       "py": "hēchá",
+       "gl": "drink tea",
+       "pos": "v."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound",
        "pos": "n."
       },
       {
@@ -492,47 +1220,9 @@
        "pos": "adv."
       },
       {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "because tea is good for your health.",
-     "words": [
-      {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because",
-       "pos": "conj."
-      },
-      {
-       "h": "茶",
-       "py": "chá",
-       "gl": "tea",
-       "pos": "n."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "to; toward; correct",
-       "pos": "prep."
-      },
-      {
-       "h": "身体",
-       "py": "shēntǐ",
-       "gl": "body; health",
-       "pos": "n."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
        "pos": "adj."
       },
       {
@@ -543,10 +1233,10 @@
    ]
   },
   {
-   "en": "I've started drinking a cup of green tea every day too.",
+   "en": "I think the tea is the same tea; it's only the people drinking it who have changed.",
    "phrases": [
     {
-     "en": "I've started too",
+     "en": "I think the tea is the same tea; it's only the people drinking it who have changed.",
      "words": [
       {
        "h": "我",
@@ -555,85 +1245,14 @@
        "pos": "pron."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
-       "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "drinking a cup of green tea every day.",
-     "words": [
-      {
-       "h": "每天",
-       "py": "měitiān",
-       "gl": "every day",
-       "pos": "n."
-      },
-      {
-       "h": "喝",
-       "py": "hē",
-       "gl": "drink",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "杯",
-       "py": "bēi",
-       "gl": "cup; glass (also measure word)",
-       "pos": "n."
-      },
-      {
-       "h": "绿茶",
-       "py": "lǜchá",
-       "gl": "green tea",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I think tea isn't just tasty; it also helps you calm down.",
-   "phrases": [
-    {
-     "en": "I think",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "tea isn't just tasty,",
-     "words": [
+      },
       {
        "h": "茶",
        "py": "chá",
@@ -641,42 +1260,43 @@
        "pos": "n."
       },
       {
-       "h": "不但",
-       "py": "búdàn",
-       "gl": "not only",
-       "pos": "conj."
-      },
-      {
-       "h": "好喝",
-       "py": "hǎohē",
-       "gl": "tasty (of drinks)",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it also helps you calm down.",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; still; in addition",
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
        "pos": "adv."
       },
       {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
       },
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "h": "茶",
+       "py": "chá",
+       "gl": "tea",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
+      },
+      {
+       "h": "喝茶",
+       "py": "hēchá",
+       "gl": "drink tea",
        "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "人",
@@ -685,15 +1305,15 @@
        "pos": "n."
       },
       {
-       "h": "安静",
-       "py": "ānjìng",
-       "gl": "quiet; calm",
-       "pos": "adj."
+       "h": "变",
+       "py": "biàn",
+       "gl": "change; become",
+       "pos": "v."
       },
       {
-       "h": "下来",
-       "py": "xiàlái",
-       "gl": "verb complement: settling down (坐下来 sit down)",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {

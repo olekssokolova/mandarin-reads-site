@@ -1,38 +1,27 @@
 {
  "id": "stall",
  "level": 3,
- "title_zh": "摆摊",
- "title_en": "My Market Stall",
+ "title_zh": "袜子大叔",
+ "title_en": "The Sock Man",
  "free": false,
  "audio_url": null,
- "note_en": "居然 (jūrán) shows the speaker's surprise that something happened, like English \"actually\" or \"believe it or not\": 居然卖了一半 \"I actually sold half of them!\" It goes right before the verb, and the surprise can be good or bad depending on the context.",
+ "note_en": "居然 (\"unexpectedly, of all things\") shows the speaker's surprise: 我居然卖了一半 — \"I actually sold half.\" The second time it is even more surprising: the sock seller 居然也会帮我卖耳环 — \"even helps sell my earrings.\"",
  "sentences": [
   {
-   "en": "Lately I've been setting up a little stall at the night market on weekends.",
+   "en": "Last month I lost my job and started running a stall at the night market.",
    "phrases": [
     {
-     "en": "Lately, on weekends,",
+     "en": "Last month I lost my job and started running a stall at the night market.",
      "words": [
       {
-       "h": "最近",
-       "py": "zuìjìn",
-       "gl": "recently; lately",
-       "pos": "n."
-      },
-      {
-       "h": "周末",
-       "py": "zhōumò",
-       "gl": "weekend",
+       "h": "上个月",
+       "py": "shànggèyuè",
+       "gl": "last month",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I've set up a little stall at the night market.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -40,21 +29,9 @@
        "pos": "pron."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "夜市",
-       "py": "yèshì",
-       "gl": "night market",
-       "pos": "n."
-      },
-      {
-       "h": "摆",
-       "py": "bǎi",
-       "gl": "set out; display; set up (a stall)",
+       "h": "丢",
+       "py": "diū",
+       "gl": "lose; throw; toss",
        "pos": "v."
       },
       {
@@ -64,28 +41,37 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "摊",
-       "py": "tān",
-       "gl": "stall; stand",
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
        "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start; beginning",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "夜市",
+       "py": "yèshì",
+       "gl": "night market",
+       "pos": "n."
+      },
+      {
+       "h": "摆摊",
+       "py": "bǎi tān",
+       "gl": "run a street stall",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -95,10 +81,10 @@
    ]
   },
   {
-   "en": "I sell little accessories that I make myself, and they're not expensive.",
+   "en": "I sell earrings I make myself, twenty yuan a pair.",
    "phrases": [
     {
-     "en": "What I sell is little accessories I make myself,",
+     "en": "I sell earrings I make myself, twenty yuan a pair.",
      "words": [
       {
        "h": "我",
@@ -115,7 +101,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -139,46 +125,41 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "饰品",
-       "py": "shìpǐn",
-       "gl": "accessory; ornament; jewelry",
+       "h": "耳环",
+       "py": "ěrhuán",
+       "gl": "earrings",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and they're not expensive.",
-     "words": [
-      {
-       "h": "价格",
-       "py": "jiàgé",
-       "gl": "price",
-       "pos": "n."
       },
       {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
       },
       {
-       "h": "贵",
-       "py": "guì",
-       "gl": "expensive",
-       "pos": "adj."
+       "h": "对",
+       "py": "duì",
+       "gl": "pair; couple (measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "二十",
+       "py": "èrshí",
+       "gl": "twenty",
+       "pos": "num."
+      },
+      {
+       "h": "块",
+       "py": "kuài",
+       "gl": "yuan; kuai (colloquial for money)",
+       "pos": "measure word"
       },
       {
        "h": "。"
@@ -188,43 +169,26 @@
    ]
   },
   {
-   "en": "The first time I set up my stall, I was nervous and excited, and I didn't know if anyone would buy anything.",
+   "en": "On the first night I was both nervous and excited, but by ten o'clock I hadn't sold a single pair.",
    "phrases": [
     {
-     "en": "The first time I set up my stall,",
+     "en": "On the first night I was both nervous and excited, but by ten o'clock I hadn't sold a single pair.",
      "words": [
       {
-       "h": "第",
-       "py": "dì",
-       "gl": "prefix for ordinal numbers (第一 \"first\")",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "第一个",
+       "py": "dìyígè",
+       "gl": "the first",
        "pos": "num."
       },
       {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
-       "pos": "measure word"
-      },
-      {
-       "h": "摆摊",
-       "py": "bǎitān",
-       "gl": "run a street stall",
-       "pos": "v."
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I was nervous and excited,",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -234,7 +198,7 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
@@ -246,7 +210,7 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
@@ -257,52 +221,62 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and I didn't know if anyone would buy anything.",
-     "words": [
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
       },
       {
-       "h": "知道",
-       "py": "zhīdao",
-       "gl": "know",
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "到了",
+       "py": "dàole",
+       "gl": "reach; arrive; when it comes to (time); by (到了清朝 by the Qing dynasty)",
        "pos": "v."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
+       "h": "十",
+       "py": "shí",
+       "gl": "ten",
+       "pos": "num."
       },
       {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一对",
+       "py": "yīduì",
+       "gl": "a pair",
+       "pos": "measure word"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
        "pos": "adv."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
       },
       {
-       "h": "有人",
-       "py": "yǒurén",
-       "gl": "someone; some people",
-       "pos": "pron."
+       "h": "卖出",
+       "py": "màichū",
+       "gl": "sell",
+       "pos": "v."
       },
       {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
        "pos": "v."
       },
       {
@@ -313,65 +287,370 @@
    ]
   },
   {
-   "en": "To my surprise, quite a few people came by, and I actually sold half of my stuff.",
+   "en": "The man selling socks next to me kept watching me without saying anything.",
    "phrases": [
     {
-     "en": "To my surprise, quite a few people came by,",
+     "en": "The man selling socks next to me kept watching me without saying anything.",
      "words": [
       {
-       "h": "没",
-       "py": "méi",
-       "gl": "not (have); negates 有 and past actions",
-       "pos": "adv."
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
       },
       {
-       "h": "想到",
-       "py": "xiǎngdào",
-       "gl": "think of; expect (没想到 'didn't expect')",
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
        "pos": "v."
       },
       {
-       "h": "来",
-       "py": "lái",
-       "gl": "come; arrive",
-       "pos": "v."
-      },
-      {
-       "h": "逛",
-       "py": "guàng",
-       "gl": "stroll; browse (shops)",
-       "pos": "v."
+       "h": "袜子",
+       "py": "wàzi",
+       "gl": "sock",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "大叔",
+       "py": "dàshū",
+       "gl": "uncle (middle-aged man)",
        "pos": "n."
       },
       {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
        "pos": "adv."
       },
       {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
        "h": "，"
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "On the second night I almost didn't want to go.",
+   "phrases": [
     {
-     "en": "and I actually sold half.",
+     "en": "On the second night I almost didn't want to go.",
      "words": [
+      {
+       "h": "第二个",
+       "py": "dìèrgè",
+       "gl": "the second",
+       "pos": "num."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "差点儿",
+       "py": "chàdiǎnr",
+       "gl": "almost; nearly (差点儿撞到 'almost hit')",
+       "pos": "adv."
+      },
+      {
+       "h": "不想",
+       "py": "bùxiǎng",
+       "gl": "not want to",
+       "pos": "v."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But no sooner had I set out my things than a few girls came over.",
+   "phrases": [
+    {
+     "en": "But no sooner had I set out my things than a few girls came over.",
+     "words": [
+      {
+       "h": "没想到",
+       "py": "méixiǎngdào",
+       "gl": "didn't expect; never thought",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "刚",
+       "py": "gāng",
+       "gl": "just (now); only just",
+       "pos": "adv."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "东西",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
+       "pos": "n."
+      },
+      {
+       "h": "放好",
+       "py": "fànghǎo",
+       "gl": "put in place; place properly",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "几个",
+       "py": "jǐgè",
+       "gl": "a few; several",
+       "pos": "num."
+      },
+      {
+       "h": "女孩子",
+       "py": "nǚháizi",
+       "gl": "girl; young woman",
+       "pos": "n."
+      },
+      {
+       "h": "过来",
+       "py": "guòlái",
+       "gl": "come over; (after a verb) toward the speaker",
+       "pos": "particle"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Is it here? The sock man said the earrings here are really pretty.\"",
+   "phrases": [
+    {
+     "en": "\"Is it here? The sock man said the earrings here are really pretty.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "这儿",
+       "py": "zhèr",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "袜子",
+       "py": "wàzi",
+       "gl": "sock",
+       "pos": "n."
+      },
+      {
+       "h": "大叔",
+       "py": "dàshū",
+       "gl": "uncle (middle-aged man)",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这里",
+       "py": "zhèlǐ",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "耳环",
+       "py": "ěrhuán",
+       "gl": "earrings",
+       "pos": "n."
+      },
+      {
+       "h": "特别",
+       "py": "tèbié",
+       "gl": "especially; particularly",
+       "pos": "adv."
+      },
+      {
+       "h": "好看",
+       "py": "hǎokàn",
+       "gl": "good-looking; pretty; nice",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That night, I actually sold half of them.",
+   "phrases": [
+    {
+     "en": "That night, I actually sold half of them.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
       {
        "h": "居然",
        "py": "jūrán",
-       "gl": "unexpectedly; to one's surprise",
+       "gl": "unexpectedly; of all things",
        "pos": "adv."
       },
       {
@@ -400,115 +679,67 @@
    ]
   },
   {
-   "en": "One woman praised how finely made my things were, and she even added me on WeChat.",
+   "en": "As I packed up, I wanted to give the man a pair of earrings.",
    "phrases": [
     {
-     "en": "One woman praised how finely made my things were, and she even added me on WeChat.",
+     "en": "As I packed up, I wanted to give the man a pair of earrings.",
      "words": [
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "收摊",
+       "py": "shōu tān",
+       "gl": "pack up a stall; close up shop",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "位",
-       "py": "wèi",
-       "gl": "polite measure word for people",
-       "pos": "measure word"
-      },
-      {
-       "h": "大姐",
-       "py": "dàjiě",
-       "gl": "older sister; (polite) ma'am",
-       "pos": "n."
-      },
-      {
-       "h": "夸",
-       "py": "kuā",
-       "gl": "praise",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; things; stuff",
-       "pos": "n."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
-      },
-      {
-       "h": "精致",
-       "py": "jīngzhì",
-       "gl": "exquisite; fine; delicate",
-       "pos": "adj."
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
       },
       {
        "h": "，"
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; still; in addition",
-       "pos": "adv."
-      },
-      {
-       "h": "加",
-       "py": "jiā",
-       "gl": "add",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
        "h": "我",
        "py": "wǒ",
        "gl": "I; me",
        "pos": "pron."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
       },
       {
-       "h": "微信",
-       "py": "wēixìn",
-       "gl": "WeChat (messaging app)",
-       "pos": "proper noun"
+       "h": "送",
+       "py": "sòng",
+       "gl": "give (as a gift); see off; send",
+       "pos": "v."
+      },
+      {
+       "h": "一对",
+       "py": "yīduì",
+       "gl": "a pair",
+       "pos": "measure word"
+      },
+      {
+       "h": "耳环",
+       "py": "ěrhuán",
+       "gl": "earrings",
+       "pos": "n."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "大叔",
+       "py": "dàshū",
+       "gl": "uncle (middle-aged man)",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -518,83 +749,414 @@
    ]
   },
   {
-   "en": "I was really tired when I packed up, but I felt a real sense of accomplishment.",
+   "en": "He waved it away: \"I've sold socks here for ten years, and on my first day I didn't sell a single pair either.\"",
    "phrases": [
     {
-     "en": "Although I was really tired when I packed up,",
+     "en": "He waved it away: \"I've sold socks here for ten years, and on my first day I didn't sell a single pair either.\"",
      "words": [
       {
-       "h": "收摊",
-       "py": "shōutān",
-       "gl": "pack up a stall; close up shop",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "摆摆手",
+       "py": "bǎibai shǒu",
+       "gl": "wave one's hand (to say no)",
+       "pos": "phrase"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "这儿",
+       "py": "zhèr",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
        "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "十年",
+       "py": "shínián",
+       "gl": "ten years; decade",
+       "pos": "num."
+      },
+      {
+       "h": "袜子",
+       "py": "wàzi",
+       "gl": "sock",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "第一天",
+       "py": "dìyìtiān",
+       "gl": "first day",
+       "pos": "n."
+      },
+      {
+       "h": "也是",
+       "py": "yěshì",
+       "gl": "also; too",
+       "pos": "conj."
+      },
+      {
+       "h": "一双",
+       "py": "yīshuāng",
+       "gl": "a pair (of)",
+       "pos": "measure word"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "卖出",
+       "py": "màichū",
+       "gl": "sell",
+       "pos": "v."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After that, every time someone bought socks, he'd point at me and say, \"Earrings over there — go and have a look.\"",
+   "phrases": [
+    {
+     "en": "After that, every time someone bought socks, he'd point at me and say, \"Earrings over there — go and have a look.\"",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "adv."
+      },
+      {
+       "h": "有人",
+       "py": "yǒurén",
+       "gl": "someone; some people",
+       "pos": "pron."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "袜子",
+       "py": "wàzi",
+       "gl": "sock",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "指",
+       "py": "zhǐ",
+       "gl": "refer to; mean; point at",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "function word"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "那边",
+       "py": "nàbiān",
+       "gl": "that side; there",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
        "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "pos": "function word"
       },
       {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
+       "h": "耳环",
+       "py": "ěrhuán",
+       "gl": "earrings",
        "pos": "n."
-      },
-      {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "累",
-       "py": "lèi",
-       "gl": "tired",
-       "pos": "adj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I felt a real sense of accomplishment.",
-     "words": [
-      {
-       "h": "但是",
-       "py": "dànshì",
-       "gl": "but; however",
-       "pos": "conj."
       },
       {
-       "h": "心里",
-       "py": "xīnli",
-       "gl": "in one's heart; inside",
-       "pos": "n."
-      },
-      {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly; special",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "去",
+       "py": "qù",
+       "gl": "(before a verb) to; in order",
        "pos": "v."
       },
       {
-       "h": "成就感",
-       "py": "chéngjiùgǎn",
-       "gl": "sense of achievement",
+       "h": "看看",
+       "py": "kànkàn",
+       "gl": "have a look; take a look",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now I have quite a few regular customers.",
+   "phrases": [
+    {
+     "en": "Now I have quite a few regular customers.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "有了",
+       "py": "yǒule",
+       "gl": "have; there is (now); come to have",
+       "pos": "v."
+      },
+      {
+       "h": "不少",
+       "py": "bùshǎo",
+       "gl": "quite a lot; a good deal",
+       "pos": "adj."
+      },
+      {
+       "h": "老",
+       "py": "lǎo",
+       "gl": "always; keep (doing)",
+       "pos": "adv."
+      },
+      {
+       "h": "客人",
+       "py": "kèrén",
+       "gl": "customer",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Sometimes, when the sock man has sold out of socks, he even helps sell my earrings.",
+   "phrases": [
+    {
+     "en": "Sometimes, when the sock man has sold out of socks, he even helps sell my earrings.",
+     "words": [
+      {
+       "h": "有时候",
+       "py": "yǒushíhòu",
+       "gl": "sometimes",
+       "pos": "adv."
+      },
+      {
+       "h": "大叔",
+       "py": "dàshū",
+       "gl": "uncle (middle-aged man)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "袜子",
+       "py": "wàzi",
+       "gl": "sock",
+       "pos": "n."
+      },
+      {
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
+       "pos": "v."
+      },
+      {
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "居然",
+       "py": "jūrán",
+       "gl": "unexpectedly; of all things",
+       "pos": "adv."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "帮",
+       "py": "bāng",
+       "gl": "help",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
+       "pos": "v."
+      },
+      {
+       "h": "耳环",
+       "py": "ěrhuán",
+       "gl": "earrings",
        "pos": "n."
       },
       {

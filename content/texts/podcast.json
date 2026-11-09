@@ -1,44 +1,33 @@
 {
  "id": "podcast",
  "level": 3,
- "title_zh": "做播客",
- "title_en": "Making a Podcast",
+ "title_zh": "第一个听众",
+ "title_en": "Our First Listener",
  "free": false,
  "audio_url": null,
- "note_en": "Repeating a number plus measure word shows steady, one-at-a-time progress: 一期一期认真地做 \"we worked hard on it, episode by episode.\" 期 is the measure word for issues or episodes. English says \"X by X,\" while Chinese simply repeats 一期.",
+ "note_en": "The phrase 一期一期 (\"episode after episode\") repeats a number with its measure word to show a sequence, like \"stroke by stroke\" or \"step by step\": 一期一期认真地做 — \"worked hard on it, episode after episode.\"",
  "sentences": [
   {
-   "en": "Six months ago, a friend and I started a podcast together.",
+   "en": "Six months ago, a friend and I started a podcast.",
    "phrases": [
     {
-     "en": "Six months ago,",
+     "en": "Six months ago, a friend and I started a podcast.",
      "words": [
       {
-       "h": "半",
-       "py": "bàn",
-       "gl": "half",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "半年",
+       "py": "bànnián",
+       "gl": "half a year; six months",
        "pos": "n."
       },
       {
        "h": "前",
        "py": "qián",
-       "gl": "before; in front of; previous",
+       "gl": "ago; before",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "a friend and I started a podcast together.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -48,12 +37,12 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
        "h": "朋友",
-       "py": "péngyou",
+       "py": "péngyǒu",
        "gl": "friend",
        "pos": "n."
       },
@@ -76,16 +65,10 @@
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "播客",
@@ -101,10 +84,10 @@
    ]
   },
   {
-   "en": "We talk about young people's lives and jobs.",
+   "en": "We talk about young people's lives and work.",
    "phrases": [
     {
-     "en": "The topics we talk about are young people's lives",
+     "en": "We talk about young people's lives and work.",
      "words": [
       {
        "h": "我们",
@@ -121,7 +104,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -145,24 +128,19 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "生活",
        "py": "shēnghuó",
-       "gl": "life; live",
+       "gl": "life",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "and jobs.",
-     "words": [
+      },
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
@@ -179,28 +157,17 @@
    ]
   },
   {
-   "en": "At first we had very few listeners, just a few dozen.",
+   "en": "At first very few people listened — just a few dozen.",
    "phrases": [
     {
-     "en": "At first",
+     "en": "At first very few people listened — just a few dozen.",
      "words": [
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
+       "h": "一开始",
+       "py": "yīkāishǐ",
+       "gl": "at first; in the beginning",
+       "pos": "adv."
       },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
-       "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "we had very few listeners,",
-     "words": [
       {
        "h": "听",
        "py": "tīng",
@@ -210,7 +177,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -220,25 +187,14 @@
        "pos": "n."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
+       "h": "很少",
+       "py": "hěnshǎo",
+       "gl": "rarely; seldom; few",
        "pos": "adv."
       },
       {
-       "h": "少",
-       "py": "shǎo",
-       "gl": "few; little; less",
-       "pos": "adj."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "just a few dozen.",
-     "words": [
+      },
       {
        "h": "只有",
        "py": "zhǐyǒu",
@@ -246,15 +202,9 @@
        "pos": "adv."
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "how many (under ten); which (number)",
-       "pos": "question word"
-      },
-      {
-       "h": "十",
-       "py": "shí",
-       "gl": "ten",
+       "h": "几十",
+       "py": "jǐshí",
+       "gl": "several dozen; tens of",
        "pos": "num."
       },
       {
@@ -271,10 +221,389 @@
    ]
   },
   {
-   "en": "We didn't give up and kept putting real effort into it, episode by episode.",
+   "en": "But there was one person who left a comment on every episode.",
    "phrases": [
     {
-     "en": "We didn't give up,",
+     "en": "But there was one person who left a comment on every episode.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "期",
+       "py": "qī",
+       "gl": "episode",
+       "pos": "measure word"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "留言",
+       "py": "liúyán",
+       "gl": "comment; leave a message",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She said she was a nurse who often worked nights and listened to us chatting when she finished at three in the morning.",
+   "phrases": [
+    {
+     "en": "She said she was a nurse who often worked nights and listened to us chatting when she finished at three in the morning.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一名",
+       "py": "yīmíng",
+       "gl": "one (person; 名 is the measure word for people)",
+       "pos": "measure word"
+      },
+      {
+       "h": "护士",
+       "py": "hùshi",
+       "gl": "nurse",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "夜班",
+       "py": "yèbān",
+       "gl": "night shift",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "凌晨",
+       "py": "língchén",
+       "gl": "before dawn; early morning",
+       "pos": "n."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "下班",
+       "py": "xiàbān",
+       "gl": "get off work; finish work",
+       "pos": "v."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "聊天",
+       "py": "liáotiān",
+       "gl": "chat; talk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Your voices make the way home less dark.\"",
+   "phrases": [
+    {
+     "en": "\"Your voices make the way home less dark.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "你们",
+       "py": "nǐmen",
+       "gl": "you (plural)",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound; voice",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "路",
+       "py": "lù",
+       "gl": "road; route; (bus) line",
+       "pos": "n."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "那么",
+       "py": "nàme",
+       "gl": "so; that (much)",
+       "pos": "adv."
+      },
+      {
+       "h": "黑",
+       "py": "hēi",
+       "gl": "dark; black",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A few times we really wanted to give up, so we read her comments again.",
+   "phrases": [
+    {
+     "en": "A few times we really wanted to give up, so we read her comments again.",
+     "words": [
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "几次",
+       "py": "jǐcì",
+       "gl": "several times; a few times",
+       "pos": "num."
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "真的",
+       "py": "zhēnde",
+       "gl": "really; truly",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "放弃",
+       "py": "fàngqì",
+       "gl": "give up",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "留言",
+       "py": "liúyán",
+       "gl": "comment; leave a message",
+       "pos": "v."
+      },
+      {
+       "h": "读",
+       "py": "dú",
+       "gl": "read; read aloud",
+       "pos": "v."
+      },
+      {
+       "h": "一遍",
+       "py": "yībiàn",
+       "gl": "once (from start to finish); one time through",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "We didn't give up, and worked hard on it, episode after episode.",
+   "phrases": [
+    {
+     "en": "We didn't give up, and worked hard on it, episode after episode.",
      "words": [
       {
        "h": "我们",
@@ -296,47 +625,24 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and worked hard on it, episode by episode.",
-     "words": [
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
       },
       {
-       "h": "期",
-       "py": "qī",
-       "gl": "measure word for issues or episodes; period; term",
+       "h": "一期",
+       "py": "yīqī",
+       "gl": "first phase (of a project)",
        "pos": "n."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "期",
-       "py": "qī",
-       "gl": "measure word for issues or episodes; period; term",
+       "h": "一期",
+       "py": "yīqī",
+       "gl": "first phase (of a project)",
        "pos": "n."
       },
       {
-       "h": "认真",
-       "py": "rènzhēn",
-       "gl": "serious; conscientious; carefully",
-       "pos": "adj."
-      },
-      {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
-       "pos": "particle"
+       "h": "认真地",
+       "py": "rènzhēndì",
+       "gl": "seriously; earnestly",
+       "pos": "adv."
       },
       {
        "h": "做",
@@ -352,37 +658,26 @@
    ]
   },
   {
-   "en": "Six months later, we already have over ten thousand listeners.",
+   "en": "Six months later, we had more than ten thousand listeners.",
    "phrases": [
     {
-     "en": "Six months later,",
+     "en": "Six months later, we had more than ten thousand listeners.",
      "words": [
       {
-       "h": "半",
-       "py": "bàn",
-       "gl": "half",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "半年",
+       "py": "bànnián",
+       "gl": "half a year; six months",
        "pos": "n."
       },
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "we already have over ten thousand listeners.",
-     "words": [
+      },
       {
        "h": "听众",
        "py": "tīngzhòng",
@@ -398,26 +693,14 @@
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一万多",
+       "py": "yíwàn duō",
+       "gl": "more than ten thousand",
        "pos": "num."
-      },
-      {
-       "h": "万",
-       "py": "wàn",
-       "gl": "ten thousand",
-       "pos": "num."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
       },
       {
        "h": "人",
@@ -439,28 +722,28 @@
    ]
   },
   {
-   "en": "Looking at that number, we feel all our hard work was worth it.",
+   "en": "Looking at that number, we felt all the effort had been worth it.",
    "phrases": [
     {
-     "en": "Looking at that number,",
+     "en": "Looking at that number, we felt all the effort had been worth it.",
      "words": [
       {
-       "h": "看着",
-       "py": "kànzhe",
-       "gl": "look at; watching",
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
        "pos": "v."
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
       },
       {
        "h": "数字",
@@ -470,12 +753,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "we feel all our hard work was worth it.",
-     "words": [
+      },
       {
        "h": "我们",
        "py": "wǒmen",
@@ -497,14 +775,14 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "努力",
        "py": "nǔlì",
-       "gl": "work hard; hard; diligently",
-       "pos": "adv."
+       "gl": "effort",
+       "pos": "n."
       },
       {
        "h": "都",
@@ -520,6 +798,312 @@
       },
       {
        "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "For that episode, we invited her on as our guest.",
+   "phrases": [
+    {
+     "en": "For that episode, we invited her on as our guest.",
+     "words": [
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "一期",
+       "py": "yīqī",
+       "gl": "first phase (of a project)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "请",
+       "py": "qǐng",
+       "gl": "ask (someone to do); hire",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "当",
+       "py": "dāng",
+       "gl": "to be; to serve as",
+       "pos": "v."
+      },
+      {
+       "h": "嘉宾",
+       "py": "jiābīn",
+       "gl": "guest (on a show)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The first time she spoke she was very nervous, and her voice was very quiet.",
+   "phrases": [
+    {
+     "en": "The first time she spoke she was very nervous, and her voice was very quiet.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "紧张",
+       "py": "jǐnzhāng",
+       "gl": "nervous; tense",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound",
+       "pos": "n."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Later she laughed and said, \"You're even younger than I thought. I thought I was your listener — I never imagined you were listening to me too.\"",
+   "phrases": [
+    {
+     "en": "Later she laughed and said, \"You're even younger than I thought. I thought I was your listener — I never imagined you were listening to me too.\"",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "笑着说",
+       "py": "xiàozheshuō",
+       "gl": "say with a smile",
+       "pos": "phrase"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "原来",
+       "py": "yuánlái",
+       "gl": "it turns out; so (that's why); originally",
+       "pos": "adv."
+      },
+      {
+       "h": "你们",
+       "py": "nǐmen",
+       "gl": "you (plural)",
+       "pos": "pron."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "年轻",
+       "py": "niánqīng",
+       "gl": "young",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "以为",
+       "py": "yǐwéi",
+       "gl": "think (mistakenly); assume",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "你们",
+       "py": "nǐmen",
+       "gl": "you (plural)",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "听众",
+       "py": "tīngzhòng",
+       "gl": "audience; listeners",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "没想到",
+       "py": "méixiǎngdào",
+       "gl": "didn't expect; never thought",
+       "pos": "phrase"
+      },
+      {
+       "h": "你们",
+       "py": "nǐmen",
+       "gl": "you (plural)",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }

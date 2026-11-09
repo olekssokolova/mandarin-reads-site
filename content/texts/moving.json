@@ -1,35 +1,32 @@
 {
  "id": "moving",
  "level": 3,
- "title_zh": "搬家",
- "title_en": "Moving Day",
+ "title_zh": "搬不动的箱子",
+ "title_en": "The Box I Couldn't Lift",
  "free": false,
  "audio_url": null,
- "note_en": "Putting 不 between a verb and its result says you can't manage it: 搬不动 \"can't move it (it's too heavy).\" Put 得 there instead and it means you can: 搬得动 \"can move it.\" English needs \"can't\" plus a whole phrase; Chinese just slips 不 into the middle of the verb.",
+ "note_en": "Whether a result is possible is shown by putting 得 or 不 between the verb and its result: 搬得动 — \"can lift it,\" 搬不动 — \"can't lift it.\" In the story the pair 放得下 / 放不下 works two ways: \"will fit / won't fit\" and \"can let go / can't let go\" — 房间放得下，心里放不下.",
  "sentences": [
   {
-   "en": "I moved last month.",
+   "en": "After the break-up, I moved house on my own.",
    "phrases": [
     {
-     "en": "I moved last month.",
+     "en": "After the break-up, I moved house on my own.",
      "words": [
       {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
+       "h": "分手",
+       "py": "fēn shǒu",
+       "gl": "break up; breakup",
+       "pos": "v."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
-       "pos": "n."
+       "h": "，"
       },
       {
        "h": "我",
@@ -38,9 +35,15 @@
        "pos": "pron."
       },
       {
-       "h": "搬家",
-       "py": "bānjiā",
-       "gl": "move (house)",
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "pron."
+      },
+      {
+       "h": "搬",
+       "py": "bān",
+       "gl": "move (house); carry",
        "pos": "v."
       },
       {
@@ -50,6 +53,12 @@
        "pos": "particle"
       },
       {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
        "h": "。"
       }
      ]
@@ -57,10 +66,10 @@
    ]
   },
   {
-   "en": "My new place is on the sixth floor, but there's no elevator.",
+   "en": "The new flat is on the sixth floor, with no lift.",
    "phrases": [
     {
-     "en": "My new place is on the sixth floor,",
+     "en": "The new flat is on the sixth floor, with no lift.",
      "words": [
       {
        "h": "新",
@@ -77,7 +86,7 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -89,22 +98,11 @@
       {
        "h": "楼",
        "py": "lóu",
-       "gl": "floor (story); building",
+       "gl": "building; floor (story)",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but there's no elevator.",
-     "words": [
-      {
-       "h": "可是",
-       "py": "kěshì",
-       "gl": "but; however",
-       "pos": "conj."
       },
       {
        "h": "没有",
@@ -126,207 +124,16 @@
    ]
   },
   {
-   "en": "When it came to carrying the boxes, I couldn't move them by myself.",
+   "en": "My friends all said they were busy that weekend, so I had to move everything myself.",
    "phrases": [
     {
-     "en": "When it came to carrying the boxes,",
+     "en": "My friends all said they were busy that weekend, so I had to move everything myself.",
      "words": [
       {
-       "h": "搬",
-       "py": "bān",
-       "gl": "move; carry",
-       "pos": "v."
-      },
-      {
-       "h": "箱子",
-       "py": "xiāngzi",
-       "gl": "box; suitcase",
+       "h": "朋友们",
+       "py": "péngyǒumen",
+       "gl": "friends",
        "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I couldn't move them by myself.",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "搬",
-       "py": "bān",
-       "gl": "move; carry",
-       "pos": "v."
-      },
-      {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "动",
-       "py": "dòng",
-       "gl": "move (after a verb: 搬不动 'can't move it')",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Luckily, my friends came to help.",
-   "phrases": [
-    {
-     "en": "Luckily,",
-     "words": [
-      {
-       "h": "幸好",
-       "py": "xìnghǎo",
-       "gl": "luckily; fortunately",
-       "pos": "adv."
-      }
-     ]
-    },
-    {
-     "en": "my friends came to help.",
-     "words": [
-      {
-       "h": "朋友",
-       "py": "péngyou",
-       "gl": "friend",
-       "pos": "n."
-      },
-      {
-       "h": "们",
-       "py": "men",
-       "gl": "plural suffix for people",
-       "pos": "particle"
-      },
-      {
-       "h": "来",
-       "py": "lái",
-       "gl": "come; arrive",
-       "pos": "v."
-      },
-      {
-       "h": "帮忙",
-       "py": "bāngmáng",
-       "gl": "help; do a favor",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "We carried stuff for three hours and were all tired and sweaty.",
-   "phrases": [
-    {
-     "en": "We carried stuff for three hours,",
-     "words": [
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "搬",
-       "py": "bān",
-       "gl": "move; carry",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "小时",
-       "py": "xiǎoshí",
-       "gl": "hour",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "we were so tired we were all sweating.",
-     "words": [
-      {
-       "h": "累",
-       "py": "lèi",
-       "gl": "tired",
-       "pos": "adj."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
       },
       {
        "h": "都",
@@ -335,22 +142,55 @@
        "pos": "adv."
       },
       {
-       "h": "出",
-       "py": "chū",
-       "gl": "(after verb) out; come out; go out",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
+       "pos": "n."
       },
       {
-       "h": "汗",
-       "py": "hàn",
-       "gl": "sweat",
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
        "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "只好",
+       "py": "zhǐhǎo",
+       "gl": "have no choice but to",
+       "pos": "adv."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "搬",
+       "py": "bān",
+       "gl": "move (house); carry",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -360,10 +200,10 @@
    ]
   },
   {
-   "en": "The heaviest things were the books: five big boxes in all.",
+   "en": "The heaviest things were the books — five big boxes in all — and I couldn't lift them by myself.",
    "phrases": [
     {
-     "en": "The heaviest things were the books,",
+     "en": "The heaviest things were the books — five big boxes in all — and I couldn't lift them by myself.",
      "words": [
       {
        "h": "最",
@@ -380,7 +220,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -397,23 +237,12 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "five big boxes in all.",
-     "words": [
+      },
       {
        "h": "一共",
        "py": "yígòng",
        "gl": "in all; altogether",
        "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
       },
       {
        "h": "五",
@@ -436,7 +265,508 @@
       {
        "h": "箱子",
        "py": "xiāngzi",
-       "gl": "box; suitcase",
+       "gl": "box; crate",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "num."
+      },
+      {
+       "h": "搬不动",
+       "py": "bān bu dòng",
+       "gl": "can't move it",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I sat on the stairs, close to tears.",
+   "phrases": [
+    {
+     "en": "I sat on the stairs, close to tears.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
+       "pos": "v."
+      },
+      {
+       "h": "楼梯",
+       "py": "lóutī",
+       "gl": "stairs; staircase",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
+      },
+      {
+       "h": "想哭",
+       "py": "xiǎngkū",
+       "gl": "want to cry; feel like crying",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Just then an old man from downstairs came up.",
+   "phrases": [
+    {
+     "en": "Just then an old man from downstairs came up.",
+     "words": [
+      {
+       "h": "这时候",
+       "py": "zhèshíhòu",
+       "gl": "at this time; at this point",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "楼下",
+       "py": "lóuxià",
+       "gl": "downstairs",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
+       "pos": "measure word"
+      },
+      {
+       "h": "大爷",
+       "py": "dàye",
+       "gl": "grandpa (polite for an old man)",
+       "pos": "n."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "上来",
+       "py": "shànglái",
+       "gl": "come up; (after verb) up (toward the speaker)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He looked at the boxes: \"I worked as a removal man when I was young. These I can manage.\"",
+   "phrases": [
+    {
+     "en": "He looked at the boxes: \"I worked as a removal man when I was young. These I can manage.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "看了看",
+       "py": "kànlekàn",
+       "gl": "took a look",
+       "pos": "v."
+      },
+      {
+       "h": "箱子",
+       "py": "xiāngzi",
+       "gl": "box; crate",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "年轻",
+       "py": "niánqīng",
+       "gl": "young",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "serve as (an official)",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "搬家",
+       "py": "bānjiā",
+       "gl": "move (house)",
+       "pos": "v."
+      },
+      {
+       "h": "工人",
+       "py": "gōngrén",
+       "gl": "worker",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "搬得动",
+       "py": "bān de dòng",
+       "gl": "can carry it",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I didn't believe him — he was over seventy.",
+   "phrases": [
+    {
+     "en": "I didn't believe him — he was over seventy.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "不相信",
+       "py": "bùxiāngxìn",
+       "gl": "not believe",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "七十多",
+       "py": "qīshíduō",
+       "gl": "over seventy",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But he showed me how two people carry together, step by step, and in an hour everything was up.",
+   "phrases": [
+    {
+     "en": "But he showed me how two people carry together, step by step, and in an hour everything was up.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "两个人",
+       "py": "liǎnggèrén",
+       "gl": "two people",
+       "pos": "n."
+      },
+      {
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
+      },
+      {
+       "h": "抬",
+       "py": "tái",
+       "gl": "carry (together); lift",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一步一步",
+       "py": "yíbùyíbù",
+       "gl": "step by step",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个小时",
+       "py": "yígèxiǎoshí",
+       "gl": "one hour",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "搬",
+       "py": "bān",
+       "gl": "move (house); carry",
+       "pos": "v."
+      },
+      {
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "function word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The last box held no books, but photos and letters from me and my ex-boyfriend.",
+   "phrases": [
+    {
+     "en": "The last box held no books, but photos and letters from me and my ex-boyfriend.",
+     "words": [
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
+       "pos": "adj."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "箱子",
+       "py": "xiāngzi",
+       "gl": "box; crate",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
+       "h": "书",
+       "py": "shū",
+       "gl": "book",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "前男友",
+       "py": "qián nányǒu",
+       "gl": "ex-boyfriend",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "信",
+       "py": "xìn",
+       "gl": "letter (mail)",
        "pos": "n."
       },
       {
@@ -447,37 +777,233 @@
    ]
   },
   {
-   "en": "When we were done, I took everyone out for a meal.",
+   "en": "The old man asked, \"Where does this one go?\"",
    "phrases": [
     {
-     "en": "When we were done,",
+     "en": "The old man asked, \"Where does this one go?\"",
      "words": [
       {
-       "h": "搬",
-       "py": "bān",
-       "gl": "move; carry",
+       "h": "大爷",
+       "py": "dàye",
+       "gl": "grandpa (polite for an old man)",
+       "pos": "n."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
        "pos": "v."
       },
       {
-       "h": "完",
-       "py": "wán",
-       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
        "pos": "v."
       },
       {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
+       "h": "哪儿",
+       "py": "nǎr",
+       "gl": "where",
+       "pos": "question word"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I said, \"I don't know either. The room's too small, it won't fit.\"",
+   "phrases": [
+    {
+     "en": "I said, \"I don't know either. The room's too small, it won't fit.\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不知道",
+       "py": "bùzhīdào",
+       "gl": "not know; no one knows",
+       "pos": "v."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "房间",
+       "py": "fángjiān",
+       "gl": "room",
+       "pos": "n."
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "放不下",
+       "py": "fàng bu xià",
+       "gl": "won't fit; can't let go",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "He smiled: \"The room has space for it. It's your heart that can't let go, isn't it?\"",
+   "phrases": [
     {
-     "en": "I treated everyone to a meal.",
+     "en": "He smiled: \"The room has space for it. It's your heart that can't let go, isn't it?\"",
      "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "笑了笑",
+       "py": "xiàolexiào",
+       "gl": "smiled",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "房间",
+       "py": "fángjiān",
+       "gl": "room",
+       "pos": "n."
+      },
+      {
+       "h": "放得下",
+       "py": "fàng de xià",
+       "gl": "will fit",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "心里",
+       "py": "xīnli",
+       "gl": "in one's heart; inside",
+       "pos": "n."
+      },
+      {
+       "h": "放不下",
+       "py": "fàng bu xià",
+       "gl": "won't fit; can't let go",
+       "pos": "v."
+      },
+      {
+       "h": "吧",
+       "py": "ba",
+       "gl": "particle: supposition (…right?)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening I treated him to a bowl of noodles.",
+   "phrases": [
+    {
+     "en": "That evening I treated him to a bowl of noodles.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -487,13 +1013,13 @@
       {
        "h": "请",
        "py": "qǐng",
-       "gl": "please; ask; invite",
+       "gl": "treat (to food/drink)",
        "pos": "v."
       },
       {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
        "pos": "pron."
       },
       {
@@ -510,20 +1036,20 @@
       },
       {
        "h": "一",
-       "py": "yí",
+       "py": "yì",
        "gl": "one",
        "pos": "num."
       },
       {
-       "h": "顿",
-       "py": "dùn",
-       "gl": "measure word for meals",
+       "h": "碗",
+       "py": "wǎn",
+       "gl": "bowl (also measure word)",
        "pos": "measure word"
       },
       {
-       "h": "饭",
-       "py": "fàn",
-       "gl": "meal; food; cooked rice",
+       "h": "面",
+       "py": "miàn",
+       "gl": "noodles",
        "pos": "n."
       },
       {
@@ -534,25 +1060,26 @@
    ]
   },
   {
-   "en": "That evening, I sat alone in my new place, looking at the lights outside the window.",
+   "en": "The next morning I carried that box downstairs. This time, I could lift it on my own.",
    "phrases": [
     {
-     "en": "That evening,",
+     "en": "The next morning I carried that box downstairs. This time, I could lift it on my own.",
      "words": [
       {
-       "h": "晚上",
-       "py": "wǎnshang",
-       "gl": "evening",
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
+       "pos": "n."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I sat alone in my new place,",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -560,141 +1087,58 @@
        "pos": "pron."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "坐",
-       "py": "zuò",
-       "gl": "sit; ride; take (transport)",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
        "pos": "prep."
       },
       {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
       },
       {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
+       "h": "箱子",
+       "py": "xiāngzi",
+       "gl": "box; crate",
        "pos": "n."
       },
       {
-       "h": "里",
-       "py": "li",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "looking at the lights outside the window.",
-     "words": [
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
+       "h": "搬",
+       "py": "bān",
+       "gl": "move (house); carry",
        "pos": "v."
       },
       {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
+       "h": "下",
+       "py": "xià",
+       "gl": "next; below; down",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "窗户",
-       "py": "chuānghù",
-       "gl": "window",
-       "pos": "n."
-      },
-      {
-       "h": "外面",
-       "py": "wàimiàn",
-       "gl": "outside",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "灯",
-       "py": "dēng",
-       "gl": "light; lamp",
+       "h": "楼",
+       "py": "lóu",
+       "gl": "building; floor (story)",
        "pos": "n."
       },
       {
        "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I was a little tired, but I felt really happy inside.",
-   "phrases": [
-    {
-     "en": "Although I was a little tired,",
-     "words": [
-      {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
       },
       {
-       "h": "有点儿",
-       "py": "yǒudiǎnr",
-       "gl": "a little; somewhat (often negative)",
+       "h": "这一次",
+       "py": "zhèyīcì",
+       "gl": "this time",
        "pos": "adv."
       },
       {
-       "h": "累",
-       "py": "lèi",
-       "gl": "tired",
-       "pos": "adj."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I felt really happy inside.",
-     "words": [
-      {
-       "h": "但是",
-       "py": "dànshì",
-       "gl": "but; however",
-       "pos": "conj."
       },
       {
        "h": "我",
@@ -703,22 +1147,22 @@
        "pos": "pron."
       },
       {
-       "h": "心里",
-       "py": "xīnli",
-       "gl": "in one's heart; inside",
-       "pos": "n."
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "pron."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "高兴",
-       "py": "gāoxìng",
-       "gl": "happy; glad",
-       "pos": "adj."
+       "h": "搬得动",
+       "py": "bān de dòng",
+       "gl": "can carry it",
+       "pos": "v."
       },
       {
        "h": "。"

@@ -1,17 +1,17 @@
 {
  "id": "landlord",
  "level": 3,
- "title_zh": "房东",
- "title_en": "My Landlord",
+ "title_zh": "按照合同",
+ "title_en": "According to the Contract",
  "free": false,
  "audio_url": null,
- "note_en": "按照 means \"according to\": 按照合同 \"according to the lease.\" Like English, it goes at the start of the clause, but it's a fairly formal word, used with rules, plans and contracts rather than with people (for \"according to him\" use 他说).",
+ "note_en": "The preposition 按照 (\"according to, in accordance with\") often introduces a document or rule: 按照合同，维修应该是房东的责任 — \"according to the contract, repairs are the landlord's responsibility.\" It is a formal preposition, common in official situations.",
  "sentences": [
   {
-   "en": "Things keep going wrong in the apartment I rent.",
+   "en": "The flat I rent has been having problems lately.",
    "phrases": [
     {
-     "en": "The apartment I rent",
+     "en": "The flat I rent has been having problems lately.",
      "words": [
       {
        "h": "我",
@@ -28,7 +28,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -36,12 +36,7 @@
        "py": "fángzi",
        "gl": "house; apartment",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "keeps having problems lately.",
-     "words": [
+      },
       {
        "h": "最近",
        "py": "zuìjìn",
@@ -49,28 +44,16 @@
        "pos": "n."
       },
       {
-       "h": "总",
-       "py": "zǒng",
-       "gl": "always; in any case (晚做总比不做好 'better late than never')",
+       "h": "总是",
+       "py": "zǒngshì",
+       "gl": "always",
        "pos": "adv."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "出问题",
+       "py": "chūwèntí",
+       "gl": "go wrong; cause problems",
        "pos": "v."
-      },
-      {
-       "h": "出",
-       "py": "chū",
-       "gl": "(after verb) out; come out; go out",
-       "pos": "v."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem",
-       "pos": "n."
       },
       {
        "h": "。"
@@ -80,10 +63,10 @@
    ]
   },
   {
-   "en": "First a pipe started leaking, then the AC broke too.",
+   "en": "First a pipe leaked, then the air conditioner broke.",
    "phrases": [
     {
-     "en": "First a pipe started leaking,",
+     "en": "First a pipe leaked, then the air conditioner broke.",
      "words": [
       {
        "h": "先",
@@ -106,17 +89,12 @@
       {
        "h": "漏水",
        "py": "lòushuǐ",
-       "gl": "leak (water)",
+       "gl": "leak",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "then the AC broke too.",
-     "words": [
+      },
       {
        "h": "后来",
        "py": "hòulái",
@@ -132,7 +110,7 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
@@ -155,10 +133,10 @@
    ]
   },
   {
-   "en": "I called my landlord, and he kept saying he'd come take a look in a couple of days.",
+   "en": "I phoned the landlord, and he always said he'd come and look in a couple of days.",
    "phrases": [
     {
-     "en": "I called my landlord,",
+     "en": "I phoned the landlord, and he always said he'd come and look in a couple of days.",
      "words": [
       {
        "h": "我",
@@ -169,7 +147,7 @@
       {
        "h": "给",
        "py": "gěi",
-       "gl": "for; to (someone); give",
+       "gl": "to; for (someone); give",
        "pos": "prep."
       },
       {
@@ -179,25 +157,14 @@
        "pos": "n."
       },
       {
-       "h": "打",
-       "py": "dǎ",
-       "gl": "hit; play (ball games); make (a phone call)",
+       "h": "打电话",
+       "py": "dǎdiànhuà",
+       "gl": "make a phone call; call",
        "pos": "v."
       },
       {
-       "h": "电话",
-       "py": "diànhuà",
-       "gl": "phone; phone call",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and he kept saying he'd come take a look in a couple of days.",
-     "words": [
+      },
       {
        "h": "他",
        "py": "tā",
@@ -219,20 +186,20 @@
       {
        "h": "过",
        "py": "guò",
-       "gl": "particle: past experience; spend (time); celebrate; pass",
-       "pos": "particle"
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
       },
       {
        "h": "两",
        "py": "liǎng",
-       "gl": "two (before measure words)",
+       "gl": "two",
        "pos": "num."
       },
       {
        "h": "天",
        "py": "tiān",
-       "gl": "sky; day",
-       "pos": "n."
+       "gl": "day; sky",
+       "pos": "measure word"
       },
       {
        "h": "来",
@@ -254,16 +221,16 @@
    ]
   },
   {
-   "en": "Two weeks went by, and he still didn't come fix anything.",
+   "en": "I waited two weeks, and he still didn't come to fix anything.",
    "phrases": [
     {
-     "en": "After waiting two weeks,",
+     "en": "I waited two weeks, and he still didn't come to fix anything.",
      "words": [
       {
        "h": "等",
        "py": "děng",
-       "gl": "wait",
-       "pos": "v."
+       "gl": "and so on; etc.",
+       "pos": "particle"
       },
       {
        "h": "了",
@@ -272,16 +239,10 @@
        "pos": "particle"
       },
       {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two (before measure words)",
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "星期",
@@ -291,12 +252,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "he still hadn't come to fix it.",
-     "words": [
+      },
       {
        "h": "他",
        "py": "tā",
@@ -306,8 +262,8 @@
       {
        "h": "还是",
        "py": "háishì",
-       "gl": "or (in questions)",
-       "pos": "conj."
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
       },
       {
        "h": "没有",
@@ -335,10 +291,10 @@
    ]
   },
   {
-   "en": "I checked my lease: according to the lease, repairs are the landlord's responsibility.",
+   "en": "I checked the contract: according to the contract, repairs are the landlord's responsibility.",
    "phrases": [
     {
-     "en": "I checked my lease:",
+     "en": "I checked the contract: according to the contract, repairs are the landlord's responsibility.",
      "words": [
       {
        "h": "我",
@@ -360,18 +316,13 @@
       },
       {
        "h": "合同",
-       "py": "hétóng",
+       "py": "hétong",
        "gl": "contract",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "according to the lease,",
-     "words": [
+      },
       {
        "h": "按照",
        "py": "ànzhào",
@@ -380,29 +331,24 @@
       },
       {
        "h": "合同",
-       "py": "hétóng",
+       "py": "hétong",
        "gl": "contract",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "repairs should be the landlord's responsibility.",
-     "words": [
+      },
       {
        "h": "维修",
        "py": "wéixiū",
        "gl": "repair; maintain",
-       "pos": "v."
+       "pos": "n."
       },
       {
        "h": "应该",
        "py": "yīnggāi",
        "gl": "should; ought to; probably",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "是",
@@ -419,13 +365,13 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "责任",
        "py": "zérèn",
-       "gl": "responsibility; duty",
+       "gl": "responsibility",
        "pos": "n."
       },
       {
@@ -436,10 +382,10 @@
    ]
   },
   {
-   "en": "I had a serious talk with him, and the problem finally got solved.",
+   "en": "I was very angry and took the contract round to his home to find him.",
    "phrases": [
     {
-     "en": "I had a serious talk with him,",
+     "en": "I was very angry and took the contract round to his home to find him.",
      "words": [
       {
        "h": "我",
@@ -448,9 +394,230 @@
        "pos": "pron."
       },
       {
-       "h": "认真",
-       "py": "rènzhēn",
-       "gl": "serious; conscientious; carefully",
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "生气",
+       "py": "shēngqì",
+       "gl": "get angry; angry",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "合同",
+       "py": "hétong",
+       "gl": "contract",
+       "pos": "n."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "找",
+       "py": "zhǎo",
+       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The door was opened by Grandpa Sun: he's eighty-two and lives alone on the sixth floor, with no lift.",
+   "phrases": [
+    {
+     "en": "The door was opened by Grandpa Sun: he's eighty-two and lives alone on the sixth floor, with no lift.",
+     "words": [
+      {
+       "h": "开门",
+       "py": "kāimén",
+       "gl": "open (for business); open the door",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "孙爷爷",
+       "py": "Sūn yéye",
+       "gl": "Grandpa Sun",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "八十二",
+       "py": "bāshíèr",
+       "gl": "eighty-two",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "num."
+      },
+      {
+       "h": "住在",
+       "py": "zhùzài",
+       "gl": "live in; live at",
+       "pos": "v."
+      },
+      {
+       "h": "六",
+       "py": "liù",
+       "gl": "six",
+       "pos": "num."
+      },
+      {
+       "h": "楼",
+       "py": "lóu",
+       "gl": "building; floor (story)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "电梯",
+       "py": "diàntī",
+       "gl": "elevator",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He looked at the contract in my hand and said, embarrassed, \"I'm so slow getting downstairs, I was afraid you'd get fed up waiting.\"",
+   "phrases": [
+    {
+     "en": "He looked at the contract in my hand and said, embarrassed, \"I'm so slow getting downstairs, I was afraid you'd get fed up waiting.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "手里",
+       "py": "shǒuli",
+       "gl": "in one's hands",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "合同",
+       "py": "hétong",
+       "gl": "contract",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不好意思",
+       "py": "bùhǎoyìsī",
+       "gl": "feel embarrassed; be too shy to; sorry; excuse me",
        "pos": "adj."
       },
       {
@@ -458,6 +625,103 @@
        "py": "de",
        "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
        "pos": "particle"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "下楼",
+       "py": "xiàlóu",
+       "gl": "go downstairs",
+       "pos": "v."
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "怕",
+       "py": "pà",
+       "gl": "be afraid; fear; worry",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "wait",
+       "pos": "v."
+      },
+      {
+       "h": "着急",
+       "py": "zháojí",
+       "gl": "worried; anxious; in a hurry",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I had a proper talk with him, and the problems were finally solved.",
+   "phrases": [
+    {
+     "en": "I had a proper talk with him, and the problems were finally solved.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "认真地",
+       "py": "rènzhēndì",
+       "gl": "seriously; earnestly",
+       "pos": "adv."
       },
       {
        "h": "跟",
@@ -484,29 +748,18 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
+       "h": "一次",
+       "py": "yīcì",
+       "gl": "once; in one go; at the first attempt",
        "pos": "measure word"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the problem was finally solved.",
-     "words": [
+      },
       {
        "h": "问题",
        "py": "wèntí",
-       "gl": "question; problem",
+       "gl": "problem; trouble",
        "pos": "n."
       },
       {
@@ -526,6 +779,334 @@
        "py": "le",
        "gl": "particle: completed action / change of state",
        "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But not according to the contract.",
+   "phrases": [
+    {
+     "en": "But not according to the contract.",
+     "words": [
+      {
+       "h": "不过",
+       "py": "bùguò",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
+       "h": "按照",
+       "py": "ànzhào",
+       "gl": "according to",
+       "pos": "prep."
+      },
+      {
+       "h": "合同",
+       "py": "hétong",
+       "gl": "contract",
+       "pos": "n."
+      },
+      {
+       "h": "解决",
+       "py": "jiějué",
+       "gl": "solve; settle",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He gave me his tools and I fixed the pipe myself, and he got someone in to repair the air conditioner.",
+   "phrases": [
+    {
+     "en": "He gave me his tools and I fixed the pipe myself, and he got someone in to repair the air conditioner.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "工具",
+       "py": "gōngjù",
+       "gl": "tool",
+       "pos": "n."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "修好",
+       "py": "xiūhǎo",
+       "gl": "repair; fix; finish building",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "水管",
+       "py": "shuǐguǎn",
+       "gl": "water pipe",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "请",
+       "py": "qǐng",
+       "gl": "ask (someone to do); hire",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "修",
+       "py": "xiū",
+       "gl": "repair; fix; build",
+       "pos": "v."
+      },
+      {
+       "h": "空调",
+       "py": "kōngtiáo",
+       "gl": "air conditioner",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now I go up to the sixth floor every week to see him and buy his rice.",
+   "phrases": [
+    {
+     "en": "Now I go up to the sixth floor every week to see him and buy his rice.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "每个",
+       "py": "měigè",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "六",
+       "py": "liù",
+       "gl": "six",
+       "pos": "num."
+      },
+      {
+       "h": "楼",
+       "py": "lóu",
+       "gl": "building; floor (story)",
+       "pos": "n."
+      },
+      {
+       "h": "看看",
+       "py": "kànkàn",
+       "gl": "have a look; take a look",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "帮",
+       "py": "bāng",
+       "gl": "help",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "米",
+       "py": "mǐ",
+       "gl": "meter",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "None of this is written in the contract.",
+   "phrases": [
+    {
+     "en": "None of this is written in the contract.",
+     "words": [
+      {
+       "h": "这件事",
+       "py": "zhèjiànshì",
+       "gl": "this matter; this thing",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "合同",
+       "py": "hétong",
+       "gl": "contract",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
       },
       {
        "h": "。"

@@ -1,17 +1,17 @@
 {
  "id": "bike",
  "level": 3,
- "title_zh": "骑自行车",
- "title_en": "On My Bike",
+ "title_zh": "车铃",
+ "title_en": "The Bicycle Bell",
  "free": false,
  "audio_url": null,
- "note_en": "一边……一边…… links two actions happening at the same time: 我一边骑车，一边听音乐 \"I ride my bike while I listen to music.\" English uses \"while\" or \"-ing\" (riding and listening); Chinese puts 一边 in front of each verb.",
+ "note_en": "The pair 一边……一边…… describes two actions at the same time: 一边骑车，一边听音乐 — \"riding a bike while listening to music.\" In the last sentence the narrator changes what she listens to: 一边骑，一边听北京的声音.",
  "sentences": [
   {
-   "en": "When I first came to Beijing, I thought the roads here were really wide.",
+   "en": "When I first came to Beijing, I bought a yellow bicycle.",
    "phrases": [
     {
-     "en": "When I first came to Beijing,",
+     "en": "When I first came to Beijing, I bought a yellow bicycle.",
      "words": [
       {
        "h": "我",
@@ -28,8 +28,8 @@
       {
        "h": "到",
        "py": "dào",
-       "gl": "arrive; reach; come",
-       "pos": "v."
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
       },
       {
        "h": "北京",
@@ -38,160 +38,13 @@
        "pos": "proper noun"
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I thought the roads here were wide and big.",
-     "words": [
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "这里",
-       "py": "zhèlǐ",
-       "gl": "here",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "路",
-       "py": "lù",
-       "gl": "road; route; (bus) line",
-       "pos": "n."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "宽",
-       "py": "kuān",
-       "gl": "wide",
-       "pos": "adj."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "A lot of Chinese people like riding bikes.",
-   "phrases": [
-    {
-     "en": "A lot of Chinese people like riding bikes.",
-     "words": [
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "喜欢",
-       "py": "xǐhuan",
-       "gl": "like; love",
-       "pos": "v."
-      },
-      {
-       "h": "骑",
-       "py": "qí",
-       "gl": "ride (a bike, a horse)",
-       "pos": "v."
-      },
-      {
-       "h": "自行车",
-       "py": "zìxíngchē",
-       "gl": "bicycle; bike",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Later, I bought a yellow bike too.",
-   "phrases": [
-    {
-     "en": "Later,",
-     "words": [
-      {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I bought a yellow bike too.",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
       },
       {
        "h": "买",
@@ -206,15 +59,9 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "辆",
-       "py": "liàng",
-       "gl": "measure word for vehicles",
+       "h": "一辆",
+       "py": "yīliàng",
+       "gl": "one (vehicle)",
        "pos": "measure word"
       },
       {
@@ -226,7 +73,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -243,10 +90,10 @@
    ]
   },
   {
-   "en": "Every morning I listen to music while I ride.",
+   "en": "Every morning I rode while listening to music, and I rode very fast.",
    "phrases": [
     {
-     "en": "Every morning",
+     "en": "Every morning I rode while listening to music, and I rode very fast.",
      "words": [
       {
        "h": "每天",
@@ -256,18 +103,13 @@
       },
       {
        "h": "早上",
-       "py": "zǎoshang",
+       "py": "zǎoshàng",
        "gl": "morning",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I ride my bike",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -276,9 +118,9 @@
       },
       {
        "h": "一边",
-       "py": "yìbiān",
+       "py": "yībiān",
        "gl": "at the same time (一边…一边… doing two things at once)",
-       "pos": "adv."
+       "pos": "conj."
       },
       {
        "h": "骑车",
@@ -288,17 +130,12 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "while listening to music.",
-     "words": [
+      },
       {
        "h": "一边",
-       "py": "yìbiān",
+       "py": "yībiān",
        "gl": "at the same time (一边…一边… doing two things at once)",
-       "pos": "adv."
+       "pos": "conj."
       },
       {
        "h": "听",
@@ -313,124 +150,7 @@
        "pos": "n."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "There are lots of bikes on the street, so you have to be extra careful.",
-   "phrases": [
-    {
-     "en": "There are lots of bikes on the street,",
-     "words": [
-      {
-       "h": "街",
-       "py": "jiē",
-       "gl": "street",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
-       "pos": "postposition"
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "自行车",
-       "py": "zìxíngchē",
-       "gl": "bicycle; bike",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so you have to be extra careful.",
-     "words": [
-      {
-       "h": "所以",
-       "py": "suǒyǐ",
-       "gl": "so; therefore",
-       "pos": "conj."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "want; order; be going to; need",
-       "pos": "v."
-      },
-      {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly; special",
-       "pos": "adv."
-      },
-      {
-       "h": "小心",
-       "py": "xiǎoxīn",
-       "gl": "careful; be careful",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Once I was riding too fast and almost hit an old man.",
-   "phrases": [
-    {
-     "en": "Once",
-     "words": [
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I was riding too fast",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
       },
       {
        "h": "骑",
@@ -445,31 +165,57 @@
        "pos": "particle"
       },
       {
-       "h": "太",
-       "py": "tài",
-       "gl": "too; very",
+       "h": "很快",
+       "py": "hěnkuài",
+       "gl": "quickly; soon",
        "pos": "adv."
       },
       {
-       "h": "快",
-       "py": "kuài",
-       "gl": "fast; quick; quickly",
-       "pos": "adj."
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Once, in a hutong, I nearly ran into an old man.",
+   "phrases": [
+    {
+     "en": "Once, in a hutong, I nearly ran into an old man.",
+     "words": [
+      {
+       "h": "有一次",
+       "py": "yǒuyīcì",
+       "gl": "once; one time",
+       "pos": "adv."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "胡同",
+       "py": "hútòng",
+       "gl": "hutong; alley",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and almost hit an old man.",
-     "words": [
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
       {
        "h": "差点儿",
        "py": "chàdiǎnr",
@@ -477,27 +223,15 @@
        "pos": "adv."
       },
       {
-       "h": "撞",
-       "py": "zhuàng",
-       "gl": "hit; bump into; crash into",
+       "h": "撞到",
+       "py": "zhuàngdào",
+       "gl": "hit; bump into; collide with",
        "pos": "v."
       },
       {
-       "h": "到",
-       "py": "dào",
-       "gl": "arrive; reach; come",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "位",
-       "py": "wèi",
-       "gl": "polite measure word for people",
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
        "pos": "measure word"
       },
       {
@@ -514,41 +248,36 @@
    ]
   },
   {
-   "en": "He didn't get angry; he just said, \"Young lady, slow down!\"",
+   "en": "He didn't get angry, he just said, \"Young lady, slow down!\"",
    "phrases": [
     {
-     "en": "The old man didn't get angry;",
+     "en": "He didn't get angry, he just said, \"Young lady, slow down!\"",
      "words": [
       {
-       "h": "老人",
-       "py": "lǎorén",
-       "gl": "old person; elderly people",
-       "pos": "n."
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
-       "h": "没",
-       "py": "méi",
-       "gl": "not (have); negates 有 and past actions",
-       "pos": "adv."
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
       },
       {
        "h": "生气",
        "py": "shēngqì",
        "gl": "get angry; angry",
-       "pos": "v."
+       "pos": "adj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "he just said:",
-     "words": [
+      },
       {
        "h": "只是",
        "py": "zhǐshì",
-       "gl": "just; only; merely",
+       "gl": "just; merely; only",
        "pos": "adv."
       },
       {
@@ -559,35 +288,19 @@
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"Young lady,",
-     "words": [
+      },
       {
        "h": "“"
       },
       {
-       "h": "年轻",
-       "py": "niánqīng",
-       "gl": "young",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "姑娘",
+       "py": "gūniáng",
+       "gl": "girl",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "slow down!\"",
-     "words": [
+      },
       {
        "h": "慢",
        "py": "màn",
@@ -617,36 +330,10 @@
    ]
   },
   {
-   "en": "Since then, I always ride slowly.",
+   "en": "I muttered \"sorry\" and rode off.",
    "phrases": [
     {
-     "en": "Since then,",
-     "words": [
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "every time I ride, I go slowly.",
+     "en": "I muttered \"sorry\" and rode off.",
      "words": [
       {
        "h": "我",
@@ -655,34 +342,55 @@
        "pos": "pron."
       },
       {
-       "h": "每次",
-       "py": "měicì",
-       "gl": "every time",
-       "pos": "adv."
-      },
-      {
-       "h": "骑车",
-       "py": "qíchē",
-       "gl": "ride a bike",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "声",
+       "py": "shēng",
+       "gl": "measure word for sounds and utterances; sound",
+       "pos": "n."
+      },
+      {
+       "h": "对不起",
+       "py": "duìbùqǐ",
+       "gl": "sorry; excuse me",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
+       "h": "骑",
+       "py": "qí",
+       "gl": "ride (a bike, a horse)",
+       "pos": "v."
       },
       {
-       "h": "慢",
-       "py": "màn",
-       "gl": "slow; slowly",
-       "pos": "adj."
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -692,22 +400,280 @@
    ]
   },
   {
-   "en": "Riding a bike isn't just convenient, it's also good for the environment.",
+   "en": "The next day I saw him again in the same place. He was sitting in his doorway, drinking tea and listening to the radio.",
    "phrases": [
     {
-     "en": "Riding a bike isn't just convenient,",
+     "en": "The next day I saw him again in the same place. He was sitting in his doorway, drinking tea and listening to the radio.",
      "words": [
       {
-       "h": "骑车",
-       "py": "qíchē",
-       "gl": "ride a bike",
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "同一个",
+       "py": "tóngyīgè",
+       "gl": "the same (one)",
+       "pos": "pron."
+      },
+      {
+       "h": "地方",
+       "py": "dìfāng",
+       "gl": "place",
+       "pos": "n."
+      },
+      {
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
        "pos": "v."
       },
       {
-       "h": "不但",
-       "py": "búdàn",
-       "gl": "not only",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
+       "pos": "v."
+      },
+      {
+       "h": "门口",
+       "py": "ménkǒu",
+       "gl": "entrance; doorway",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
        "pos": "conj."
+      },
+      {
+       "h": "喝茶",
+       "py": "hēchá",
+       "gl": "drink tea",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "收音机",
+       "py": "shōuyīnjī",
+       "gl": "radio",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I took out my earphones, rang my bell once and rode past slowly.",
+   "phrases": [
+    {
+     "en": "I took out my earphones, rang my bell once and rode past slowly.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "摘下",
+       "py": "zhāixià",
+       "gl": "take off; pick",
+       "pos": "v."
+      },
+      {
+       "h": "耳机",
+       "py": "ěrjī",
+       "gl": "headphones; earphones",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "按",
+       "py": "àn",
+       "gl": "press",
+       "pos": "v."
+      },
+      {
+       "h": "了一下",
+       "py": "leyíxià",
+       "gl": "(了 + 一下) did briefly; had a quick go",
+       "pos": "particle"
+      },
+      {
+       "h": "车铃",
+       "py": "chēlíng",
+       "gl": "bicycle bell",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "慢慢地",
+       "py": "mànmàndì",
+       "gl": "slowly; gradually",
+       "pos": "adv."
+      },
+      {
+       "h": "骑",
+       "py": "qí",
+       "gl": "ride (a bike, a horse)",
+       "pos": "v."
+      },
+      {
+       "h": "过去",
+       "py": "guòqu",
+       "gl": "past (complement)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Suddenly he said, \"Much slower today.\"",
+   "phrases": [
+    {
+     "en": "Suddenly he said, \"Much slower today.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "今天",
+       "py": "jīntiān",
+       "gl": "today",
+       "pos": "n."
+      },
+      {
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
+       "pos": "adj."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I was surprised: \"How did you know it was me?\"",
+   "phrases": [
+    {
+     "en": "I was surprised: \"How did you know it was me?\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
        "h": "很",
@@ -716,36 +682,302 @@
        "pos": "adv."
       },
       {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently",
-       "pos": "adj."
+       "h": "吃惊",
+       "py": "chī jīng",
+       "gl": "to be surprised",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
+       "pos": "pron."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "find out; learn",
+       "pos": "v."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He smiled: \"Your bell — it sounds different from everyone else's.\"",
+   "phrases": [
+    {
+     "en": "He smiled: \"Your bell — it sounds different from everyone else's.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "车铃",
+       "py": "chēlíng",
+       "gl": "bicycle bell",
+       "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it's also good for the environment.",
-     "words": [
-      {
-       "h": "而且",
-       "py": "érqiě",
-       "gl": "moreover; and also",
-       "pos": "conj."
       },
       {
-       "h": "对",
-       "py": "duì",
-       "gl": "to; toward; correct",
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound",
+       "pos": "n."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
        "pos": "prep."
       },
       {
-       "h": "环境",
-       "py": "huánjìng",
-       "gl": "environment; surroundings",
+       "h": "别人",
+       "py": "biérén",
+       "gl": "other people; others",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "不一样",
+       "py": "bùyíyàng",
+       "gl": "different; not the same",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Only then did I realise he couldn't see.",
+   "phrases": [
+    {
+     "en": "Only then did I realise he couldn't see.",
+     "words": [
+      {
+       "h": "这时候",
+       "py": "zhèshíhòu",
+       "gl": "at this time; at this point",
        "pos": "n."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "眼睛",
+       "py": "yǎnjīng",
+       "gl": "eye; eyes",
+       "pos": "n."
+      },
+      {
+       "h": "看不见",
+       "py": "kànbújiàn",
+       "gl": "can't see; invisible",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Since then, every morning as I pass, I ring my bell.",
+   "phrases": [
+    {
+     "en": "Since then, every morning as I pass, I ring my bell.",
+     "words": [
+      {
+       "h": "从那以后",
+       "py": "cóngnàyǐhòu",
+       "gl": "since then; from then on",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "经过",
+       "py": "jīngguò",
+       "gl": "go through; undergo; pass by",
+       "pos": "v."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "按",
+       "py": "àn",
+       "gl": "press",
+       "pos": "v."
+      },
+      {
+       "h": "一下",
+       "py": "yíxià",
+       "gl": "a bit; once (softens the verb: take a look)",
+       "pos": "particle"
+      },
+      {
+       "h": "铃",
+       "py": "líng",
+       "gl": "bell",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "And every day he says one thing: \"Morning!\" or \"It's raining — slow down.\"",
+   "phrases": [
+    {
+     "en": "And every day he says one thing: \"Morning!\" or \"It's raining — slow down.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
        "h": "也",
@@ -754,10 +986,212 @@
        "pos": "adv."
       },
       {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "一句话",
+       "py": "yījùhuà",
+       "gl": "a sentence; a word",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "早",
+       "py": "zǎo",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "！"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "或者",
+       "py": "huòzhě",
+       "gl": "or",
+       "pos": "conj."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "下雨",
+       "py": "xiàyǔ",
+       "gl": "rain (it rains)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
        "pos": "adj."
+      },
+      {
+       "h": "点儿",
+       "py": "diǎnr",
+       "gl": "a little; a bit",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "My earphones have been sitting unused in my bag for ages. Now, as I ride, I listen to the sounds of Beijing.",
+   "phrases": [
+    {
+     "en": "My earphones have been sitting unused in my bag for ages. Now, as I ride, I listen to the sounds of Beijing.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "耳机",
+       "py": "ěrjī",
+       "gl": "headphones; earphones",
+       "pos": "n."
+      },
+      {
+       "h": "放在",
+       "py": "fàngzài",
+       "gl": "put in; put on; place",
+       "pos": "v."
+      },
+      {
+       "h": "包",
+       "py": "bāo",
+       "gl": "bag",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
+      },
+      {
+       "h": "没用",
+       "py": "méiyòng",
+       "gl": "useless; no use",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "骑",
+       "py": "qí",
+       "gl": "ride (a bike, a horse)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "北京",
+       "py": "běijīng",
+       "gl": "Beijing",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound",
+       "pos": "n."
       },
       {
        "h": "。"

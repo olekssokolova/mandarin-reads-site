@@ -1,17 +1,17 @@
 {
  "id": "chengyuproverb3",
  "level": 3,
- "title_zh": "成语和英语谚语",
- "title_en": "Chengyu and English Proverbs",
+ "title_zh": "锁比车贵",
+ "title_en": "The Lock Costs More Than the Bike",
  "free": false,
  "audio_url": null,
- "note_en": "虽然……但是…… means \"although... (but)...\": 语言虽然不同，但是人类的智慧常常是相通的 \"Although languages are different, human wisdom is often the same.\" In English you use either \"although\" or \"but\", never both, but Chinese normally uses the pair together. Note also that 虽然 can come after the subject (语言虽然不同).",
+ "note_en": "The chengyu 亡羊补牢 (\"mend the pen after losing a sheep\") means fixing a mistake after the first loss before things get worse; in meaning it is close to \"better late than never.\" 一箭双雕 (\"two eagles with one arrow\") corresponds to English \"kill two birds with one stone.\"",
  "sentences": [
   {
-   "en": "While chatting with an American friend, I mentioned the Chinese chengyu (four-character idiom) 亡羊补牢 (\"mending the pen after losing the sheep\").",
+   "en": "My British friend Lucy is studying Chinese in Beijing.",
    "phrases": [
     {
-     "en": "While chatting with an American friend,",
+     "en": "My British friend Lucy is studying Chinese in Beijing.",
      "words": [
       {
        "h": "我",
@@ -20,84 +20,52 @@
        "pos": "pron."
       },
       {
-       "h": "跟",
-       "py": "gēn",
-       "gl": "with; together with",
-       "pos": "prep."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "美国",
-       "py": "měiguó",
-       "gl": "the United States; American",
+       "h": "英国",
+       "py": "yīngguó",
+       "gl": "Britain; UK",
        "pos": "proper noun"
       },
       {
        "h": "朋友",
-       "py": "péngyǒu",
+       "py": "péngyou",
        "gl": "friend",
        "pos": "n."
       },
       {
-       "h": "聊天",
-       "py": "liáotiān",
-       "gl": "chat; talk",
+       "h": "露西",
+       "py": "Lùxī",
+       "gl": "Lucy",
+       "pos": "proper noun"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "北京",
+       "py": "běijīng",
+       "gl": "Beijing",
+       "pos": "proper noun"
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
        "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I mentioned the Chinese chengyu (four-character idiom) 亡羊补牢 (\"mending the pen after losing the sheep\").",
-     "words": [
-      {
-       "h": "提到",
-       "py": "tídào",
-       "gl": "mention",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
       },
       {
        "h": "中文",
        "py": "zhōngwén",
        "gl": "Chinese (language)",
        "pos": "n."
-      },
-      {
-       "h": "成语",
-       "py": "chéngyǔ",
-       "gl": "chengyu; four-character idiom",
-       "pos": "n."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "亡羊补牢",
-       "py": "wángyángbǔláo",
-       "gl": "mend the pen after the sheep is lost; better late than never (idiom)",
-       "pos": "phrase"
-      },
-      {
-       "h": "”"
       },
       {
        "h": "。"
@@ -107,11 +75,20 @@
    ]
   },
   {
-   "en": "She said, \"That means about the same as our English saying 'better late than never'!\"",
+   "en": "Last month her bike was stolen, because she always forgot to lock it.",
    "phrases": [
     {
-     "en": "She said,",
+     "en": "Last month her bike was stolen, because she always forgot to lock it.",
      "words": [
+      {
+       "h": "上个月",
+       "py": "shànggèyuè",
+       "gl": "last month",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "她",
        "py": "tā",
@@ -119,19 +96,172 @@
        "pos": "pron."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "自行车",
+       "py": "zìxíngchē",
+       "gl": "bicycle; bike",
+       "pos": "n."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "偷",
+       "py": "tōu",
+       "gl": "steal",
        "pos": "v."
       },
       {
-       "h": "："
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "因为",
+       "py": "yīnwèi",
+       "gl": "because",
+       "pos": "conj."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "总是",
+       "py": "zǒngshì",
+       "gl": "always",
+       "pos": "adv."
+      },
+      {
+       "h": "忘",
+       "py": "wàng",
+       "gl": "forget",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "锁车",
+       "py": "suǒ chē",
+       "gl": "lock up a bike",
+       "pos": "v."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "The next day she bought a very expensive lock.",
+   "phrases": [
     {
-     "en": "\"That means about the same as our English saying 'better late than never'!\"",
+     "en": "The next day she bought a very expensive lock.",
      "words": [
+      {
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一把",
+       "py": "yībǎ",
+       "gl": "one (measure word for objects with a handle: umbrella, key, toothbrush)",
+       "pos": "measure word"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "贵",
+       "py": "guì",
+       "gl": "expensive",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "锁",
+       "py": "suǒ",
+       "gl": "lock",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I laughed and said, \"That's called 'mending the pen after the sheep is lost.'\"",
+   "phrases": [
+    {
+     "en": "I laughed and said, \"That's called 'mending the pen after the sheep is lost.'\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "笑着说",
+       "py": "xiàozheshuō",
+       "gl": "say with a smile",
+       "pos": "phrase"
+      },
+      {
+       "h": "："
+      },
       {
        "h": "“"
       },
@@ -142,61 +272,19 @@
        "pos": "pron."
       },
       {
-       "h": "跟",
-       "py": "gēn",
-       "gl": "with; together with",
-       "pos": "prep."
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
       },
       {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "英语",
-       "py": "yīngyǔ",
-       "gl": "English (language)",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "li",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "‘"
-      },
-      {
-       "h": "晚做总比不做好",
-       "py": "wǎnzuòzǒngbǐbùzuòhǎo",
-       "gl": "better late than never (lit. doing it late is always better than not doing it)",
+       "h": "亡羊补牢",
+       "py": "wáng yáng bǔ láo",
+       "gl": "mend the pen after the sheep is lost",
        "pos": "phrase"
       },
       {
-       "h": "’"
-      },
-      {
-       "h": "意思",
-       "py": "yìsi",
-       "gl": "meaning",
-       "pos": "n."
-      },
-      {
-       "h": "差不多",
-       "py": "chàbuduō",
-       "gl": "about the same; almost",
-       "pos": "adv."
-      },
-      {
-       "h": "！"
+       "h": "。"
       },
       {
        "h": "”"
@@ -206,10 +294,10 @@
    ]
   },
   {
-   "en": "Then I mentioned 一箭双雕 (\"two eagles with one arrow\"), and she laughed and replied, \"English has one too: 'kill two birds with one stone.'\"",
+   "en": "I explained: in ancient times a man lost a sheep, and only then did he go and mend the pen.",
    "phrases": [
     {
-     "en": "Then I mentioned 一箭双雕 (\"two eagles with one arrow\"),",
+     "en": "I explained: in ancient times a man lost a sheep, and only then did he go and mend the pen.",
      "words": [
       {
        "h": "我",
@@ -218,15 +306,63 @@
        "pos": "pron."
       },
       {
-       "h": "又",
-       "py": "yòu",
-       "gl": "and also; both … and (又…又…)",
-       "pos": "adv."
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "解释",
+       "py": "jiěshì",
+       "gl": "explain",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "古时候",
+       "py": "gǔ shíhou",
+       "gl": "in ancient times",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有个",
+       "py": "yǒugè",
+       "gl": "there is a; have a",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "羊",
+       "py": "yáng",
+       "gl": "sheep; goat",
+       "pos": "n."
+      },
+      {
+       "h": "丢",
+       "py": "diū",
+       "gl": "lose; throw; toss",
        "pos": "v."
       },
       {
@@ -236,48 +372,71 @@
        "pos": "particle"
       },
       {
-       "h": "“"
-      },
-      {
-       "h": "一箭双雕",
-       "py": "yījiànshuāngdiāo",
-       "gl": "kill two birds with one stone (idiom; lit. two eagles with one arrow)",
-       "pos": "phrase"
-      },
-      {
-       "h": "”"
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and she laughed and replied, \"English has one too: 'kill two birds with one stone.'\"",
-     "words": [
+      },
       {
-       "h": "她",
+       "h": "他",
        "py": "tā",
-       "gl": "she; her",
+       "gl": "he; him",
        "pos": "pron."
       },
       {
-       "h": "笑着",
-       "py": "xiàozhe",
-       "gl": "smiling; with a smile",
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
        "pos": "v."
       },
       {
-       "h": "回应",
-       "py": "huíyìng",
-       "gl": "respond; response",
+       "h": "修",
+       "py": "xiū",
+       "gl": "repair; fix; build",
        "pos": "v."
       },
       {
-       "h": "："
+       "h": "羊圈",
+       "py": "yángjuàn",
+       "gl": "sheep pen",
+       "pos": "n."
       },
       {
-       "h": "“"
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lucy thought for a moment and said English has a similar saying, meaning it's better to do it late than never.",
+   "phrases": [
+    {
+     "en": "Lucy thought for a moment and said English has a similar saying, meaning it's better to do it late than never.",
+     "words": [
+      {
+       "h": "露西",
+       "py": "Lùxī",
+       "gl": "Lucy",
+       "pos": "proper noun"
+      },
+      {
+       "h": "想了想",
+       "py": "xiǎnglexiǎng",
+       "gl": "thought for a moment",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
       },
       {
        "h": "英语",
@@ -287,7 +446,7 @@
       },
       {
        "h": "里",
-       "py": "li",
+       "py": "lǐ",
        "gl": "in; inside",
        "pos": "postposition"
       },
@@ -300,29 +459,295 @@
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "类似",
+       "py": "lèisì",
+       "gl": "similar",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "话",
+       "py": "huà",
+       "gl": "words; speech; what someone says",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "意思",
+       "py": "yìsi",
+       "gl": "meaning",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "晚",
+       "py": "wǎn",
+       "gl": "late",
+       "pos": "adj."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "总",
+       "py": "zǒng",
+       "gl": "always; in any case (晚做总比不做好 'better late than never')",
+       "pos": "adv."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After that, we decided to cook together every Saturday: she teaches me British dishes and I teach her chengyu.",
+   "phrases": [
+    {
+     "en": "After that, we decided to cook together every Saturday: she teaches me British dishes and I teach her chengyu.",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "决定",
+       "py": "juédìng",
+       "gl": "decide; decision",
+       "pos": "v."
+      },
+      {
+       "h": "每个",
+       "py": "měigè",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "星期六",
+       "py": "xīngqīliù",
+       "gl": "Saturday",
+       "pos": "n."
+      },
+      {
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
+      },
+      {
+       "h": "做饭",
+       "py": "zuòfàn",
+       "gl": "cook; make a meal",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "英国",
+       "py": "yīngguó",
+       "gl": "Britain; UK",
+       "pos": "proper noun"
+      },
+      {
+       "h": "菜",
+       "py": "cài",
+       "gl": "dish (food); cuisine",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "成语",
+       "py": "chéngyǔ",
+       "gl": "chengyu; four-character idiom",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She said, \"This way we get to eat and learn at the same time.\"",
+   "phrases": [
+    {
+     "en": "She said, \"This way we get to eat and learn at the same time.\"",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "既",
+       "py": "jì",
+       "gl": "both (既…又… both … and …)",
+       "pos": "conj."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "吃饭",
+       "py": "chīfàn",
+       "gl": "eat; have a meal",
        "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "叫",
-       "py": "jiào",
-       "gl": "be called",
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
        "pos": "v."
       },
       {
-       "h": "‘"
-      },
-      {
-       "h": "一块石头打死两只鸟",
-       "py": "yīkuàishítoudǎsǐliǎngzhīniǎo",
-       "gl": "kill two birds with one stone (lit. one stone kills two birds)",
-       "pos": "phrase"
-      },
-      {
-       "h": "’"
+       "h": "学习",
+       "py": "xuéxí",
+       "gl": "study; learn",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -335,16 +760,210 @@
    ]
   },
   {
-   "en": "Looking for these similar expressions has made studying more interesting for me.",
+   "en": "I told her that in Chinese this is called \"two eagles with one arrow.\"",
    "phrases": [
     {
-     "en": "Looking for these similar expressions",
+     "en": "I told her that in Chinese this is called \"two eagles with one arrow.\"",
      "words": [
       {
-       "h": "找",
-       "py": "zhǎo",
-       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
        "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "中文",
+       "py": "zhōngwén",
+       "gl": "Chinese (language)",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "一箭双雕",
+       "py": "yí jiàn shuāng diāo",
+       "gl": "kill two birds with one arrow",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She burst out laughing and said that in English it's two birds as well, only you don't use an arrow — you use a stone.",
+   "phrases": [
+    {
+     "en": "She burst out laughing and said that in English it's two birds as well, only you don't use an arrow — you use a stone.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "大笑",
+       "py": "dàxiào",
+       "gl": "laugh out loud; big laugh",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "英语",
+       "py": "yīngyǔ",
+       "gl": "English (language)",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "两只",
+       "py": "liǎngzhǐ",
+       "gl": "two (animals, etc.)",
+       "pos": "measure word"
+      },
+      {
+       "h": "鸟",
+       "py": "niǎo",
+       "gl": "bird",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "箭",
+       "py": "jiàn",
+       "gl": "arrow",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "石头",
+       "py": "shítou",
+       "gl": "stone; rock",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "We write these similar sayings down in a notebook, and there are already more than thirty.",
+   "phrases": [
+    {
+     "en": "We write these similar sayings down in a notebook, and there are already more than thirty.",
+     "words": [
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
       },
       {
        "h": "这些",
@@ -361,45 +980,95 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "表达",
-       "py": "biǎodá",
-       "gl": "express; expression",
+       "h": "说法",
+       "py": "shuōfǎ",
+       "gl": "way of saying; expression",
        "pos": "n."
       },
       {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write; describe; write about",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "本子",
+       "py": "běnzi",
+       "gl": "notebook",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
        "h": "，"
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write; describe; write about",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "三十多",
+       "py": "sānshíduō",
+       "gl": "thirty-odd; more than thirty",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "The most interesting thing is that people in the two countries use different things, but their ideas are often exactly the same.",
+   "phrases": [
     {
-     "en": "has made studying more interesting for me.",
+     "en": "The most interesting thing is that people in the two countries use different things, but their ideas are often exactly the same.",
      "words": [
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "学习",
-       "py": "xuéxí",
-       "gl": "study; learn",
-       "pos": "v."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
        "pos": "adv."
       },
       {
@@ -409,10 +1078,334 @@
        "pos": "adj."
       },
       {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "国家",
+       "py": "guójiā",
+       "gl": "country",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "东西",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
+       "pos": "n."
+      },
+      {
+       "h": "不一样",
+       "py": "bùyíyàng",
+       "gl": "different; not the same",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "想法",
+       "py": "xiǎngfǎ",
+       "gl": "idea; thought",
+       "pos": "n."
+      },
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "一模一样",
+       "py": "yì mú yí yàng",
+       "gl": "exactly alike",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now Lucy's lock is new, but her bike is old.",
+   "phrases": [
+    {
+     "en": "Now Lucy's lock is new, but her bike is old.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "露西",
+       "py": "Lùxī",
+       "gl": "Lucy",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "锁",
+       "py": "suǒ",
+       "gl": "lock",
+       "pos": "n."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "自行车",
+       "py": "zìxíngchē",
+       "gl": "bicycle; bike",
+       "pos": "n."
+      },
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "旧",
+       "py": "jiù",
+       "gl": "old (not new); worn",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She asked me, \"When the lock costs more than the bike — is there a chengyu for that?\"",
+   "phrases": [
+    {
+     "en": "She asked me, \"When the lock costs more than the bike — is there a chengyu for that?\"",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "锁",
+       "py": "suǒ",
+       "gl": "lock",
+       "pos": "n."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "车",
+       "py": "chē",
+       "gl": "bike",
+       "pos": "n."
+      },
+      {
+       "h": "贵",
+       "py": "guì",
+       "gl": "expensive",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "中文",
+       "py": "zhōngwén",
+       "gl": "Chinese (language)",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "有没有",
+       "py": "yǒuméiyǒu",
+       "gl": "whether (or not); have or not",
+       "pos": "v."
+      },
+      {
+       "h": "成语",
+       "py": "chéngyǔ",
+       "gl": "chengyu; four-character idiom",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I've thought about it for a long time and still haven't come up with one.",
+   "phrases": [
+    {
+     "en": "I've thought about it for a long time and still haven't come up with one.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
        "h": "了",
        "py": "le",
        "gl": "particle: completed action / change of state",
        "pos": "particle"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还没",
+       "py": "háiméi",
+       "gl": "not yet",
+       "pos": "adv."
+      },
+      {
+       "h": "想出",
+       "py": "xiǎngchū",
+       "gl": "come up with; think up",
+       "pos": "v."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
       },
       {
        "h": "。"

@@ -1,17 +1,17 @@
 {
  "id": "dataprivacy3",
  "level": 3,
- "title_zh": "保护个人信息",
- "title_en": "Protecting Your Personal Data",
+ "title_zh": "唯一没有关的权限",
+ "title_en": "The Only Permission I Left On",
  "free": false,
  "audio_url": null,
- "note_en": "Chinese often puts the object first as a topic: 不必要的权限，我一般都会拒绝 \"permissions I don't need, I usually turn down.\" English would say \"I usually turn down unnecessary permissions,\" but Chinese likes to name the topic first and then comment on it.",
+ "note_en": "The verb 泄露 (\"leak, disclose\") often goes with 信息 (\"information\") and words about privacy: 这些信息很容易被泄露 — \"this information can very easily be leaked.\"",
  "sentences": [
   {
-   "en": "These days a lot of apps ask users for personal information.",
+   "en": "These days many apps ask users for personal information.",
    "phrases": [
     {
-     "en": "These days a lot of apps ask users for personal information.",
+     "en": "These days many apps ask users for personal information.",
      "words": [
       {
        "h": "现在",
@@ -22,13 +22,13 @@
       {
        "h": "很多",
        "py": "hěnduō",
-       "gl": "many; a lot; much",
+       "gl": "many; a lot of",
        "pos": "adj."
       },
       {
        "h": "软件",
        "py": "ruǎnjiàn",
-       "gl": "app; software",
+       "gl": "software; app",
        "pos": "n."
       },
       {
@@ -40,7 +40,7 @@
       {
        "h": "要求",
        "py": "yāoqiú",
-       "gl": "require; demand; requirement",
+       "gl": "require; demand",
        "pos": "v."
       },
       {
@@ -56,15 +56,9 @@
        "pos": "v."
       },
       {
-       "h": "个人",
-       "py": "gèrén",
-       "gl": "personal; individual",
-       "pos": "n."
-      },
-      {
-       "h": "信息",
-       "py": "xìnxī",
-       "gl": "information",
+       "h": "个人信息",
+       "py": "gèrén xìnxī",
+       "gl": "personal information",
        "pos": "n."
       },
       {
@@ -75,10 +69,10 @@
    ]
   },
   {
-   "en": "If you're not careful, this information can easily be leaked.",
+   "en": "If you're not careful, this information can very easily be leaked.",
    "phrases": [
     {
-     "en": "If you're not careful, this information can easily be leaked.",
+     "en": "If you're not careful, this information can very easily be leaked.",
      "words": [
       {
        "h": "如果",
@@ -88,7 +82,7 @@
       },
       {
        "h": "不",
-       "py": "bú",
+       "py": "bù",
        "gl": "not; no",
        "pos": "adv."
       },
@@ -129,12 +123,12 @@
        "h": "被",
        "py": "bèi",
        "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "pos": "function word"
       },
       {
        "h": "泄露",
        "py": "xièlòu",
-       "gl": "leak (information); reveal",
+       "gl": "to leak (information)",
        "pos": "v."
       },
       {
@@ -145,10 +139,10 @@
    ]
   },
   {
-   "en": "Now, before I download an app, I always check what permissions it needs first.",
+   "en": "Now, before I download an app, I always check what permissions it needs.",
    "phrases": [
     {
-     "en": "Now, before I download an app, I always check what permissions it needs first.",
+     "en": "Now, before I download an app, I always check what permissions it needs.",
      "words": [
       {
        "h": "我",
@@ -160,7 +154,7 @@
        "h": "现在",
        "py": "xiànzài",
        "gl": "now",
-       "pos": "n."
+       "pos": "adv."
       },
       {
        "h": "下载",
@@ -171,13 +165,13 @@
       {
        "h": "软件",
        "py": "ruǎnjiàn",
-       "gl": "app; software",
+       "gl": "software; app",
        "pos": "n."
       },
       {
        "h": "之前",
        "py": "zhīqián",
-       "gl": "before; prior to",
+       "gl": "before; prior to; previously; earlier",
        "pos": "n."
       },
       {
@@ -186,14 +180,14 @@
       {
        "h": "都",
        "py": "dōu",
-       "gl": "all; both",
+       "gl": "all; both; even; already",
        "pos": "adv."
       },
       {
        "h": "会",
        "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
       },
       {
        "h": "先",
@@ -203,7 +197,7 @@
       },
       {
        "h": "看看",
-       "py": "kànkan",
+       "py": "kànkàn",
        "gl": "have a look; take a look",
        "pos": "v."
       },
@@ -216,19 +210,19 @@
       {
        "h": "需要",
        "py": "xūyào",
-       "gl": "need; require",
+       "gl": "need to; have to",
        "pos": "v."
       },
       {
        "h": "什么",
        "py": "shénme",
        "gl": "what",
-       "pos": "question word"
+       "pos": "pron."
       },
       {
        "h": "权限",
        "py": "quánxiàn",
-       "gl": "permission; access rights",
+       "gl": "permission (access)",
        "pos": "n."
       },
       {
@@ -239,33 +233,130 @@
    ]
   },
   {
-   "en": "I usually turn down any permissions that aren't necessary.",
+   "en": "One torch app wanted my contacts and my location; I refused straight away.",
    "phrases": [
     {
-     "en": "I usually turn down any permissions that aren't necessary.",
+     "en": "One torch app wanted my contacts and my location; I refused straight away.",
      "words": [
       {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "手电筒",
+       "py": "shǒudiàntǒng",
+       "gl": "flashlight",
+       "pos": "n."
+      },
+      {
+       "h": "软件",
+       "py": "ruǎnjiàn",
+       "gl": "software; app",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "通讯录",
+       "py": "tōngxùnlù",
+       "gl": "contacts list; address book",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "位置",
+       "py": "wèizhi",
+       "gl": "position; location; place",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "马上",
+       "py": "mǎshàng",
+       "gl": "immediately; right away",
        "pos": "adv."
       },
       {
-       "h": "必要",
-       "py": "bìyào",
-       "gl": "necessary (不必要 'unnecessary')",
+       "h": "拒绝",
+       "py": "jùjué",
+       "gl": "refuse; reject",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I usually refuse permissions that aren't necessary.",
+   "phrases": [
+    {
+     "en": "I usually refuse permissions that aren't necessary.",
+     "words": [
+      {
+       "h": "不必要",
+       "py": "bùbìyào",
+       "gl": "unnecessary",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "权限",
        "py": "quánxiàn",
-       "gl": "permission; access rights",
+       "gl": "permission (access)",
        "pos": "n."
       },
       {
@@ -280,7 +371,7 @@
       {
        "h": "一般",
        "py": "yìbān",
-       "gl": "usually; generally; ordinary",
+       "gl": "usually; generally",
        "pos": "adv."
       },
       {
@@ -292,8 +383,8 @@
       {
        "h": "会",
        "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
       },
       {
        "h": "拒绝",
@@ -309,22 +400,492 @@
    ]
   },
   {
-   "en": "Keeping your own information safe is a skill everyone should learn.",
+   "en": "Last weekend I was helping Mum with her phone and found that thirty-seven apps knew where she was.",
    "phrases": [
     {
-     "en": "Keeping your own information safe is a skill everyone should learn.",
+     "en": "Last weekend I was helping Mum with her phone and found that thirty-seven apps knew where she was.",
      "words": [
       {
-       "h": "保护",
-       "py": "bǎohù",
-       "gl": "protect",
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "帮",
+       "py": "bāng",
+       "gl": "help",
        "pos": "v."
       },
       {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "三十七",
+       "py": "sānshíqī",
+       "gl": "thirty-seven",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "软件",
+       "py": "ruǎnjiàn",
+       "gl": "software; app",
+       "pos": "n."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "哪儿",
+       "py": "nǎr",
+       "gl": "where",
+       "pos": "question word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I turned them off one by one, until only one was left.",
+   "phrases": [
+    {
+     "en": "I turned them off one by one, until only one was left.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一个一个",
+       "py": "yígèyígè",
+       "gl": "one by one",
+       "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "关掉",
+       "py": "guāndiào",
+       "gl": "turn off; close down",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
        "pos": "adj."
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "剩下",
+       "py": "shèngxià",
+       "gl": "be left (over); remain",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It was a family location-sharing app.",
+   "phrases": [
+    {
+     "en": "It was a family location-sharing app.",
+     "words": [
+      {
+       "h": "那是",
+       "py": "nàshì",
+       "gl": "of course; sure (that's right)",
+       "pos": "phrase"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "家人",
+       "py": "jiārén",
+       "gl": "family members; family",
+       "pos": "n."
+      },
+      {
+       "h": "位置",
+       "py": "wèizhi",
+       "gl": "position; location; place",
+       "pos": "n."
+      },
+      {
+       "h": "共享",
+       "py": "gòngxiǎng",
+       "gl": "shared; share",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "软件",
+       "py": "ruǎnjiàn",
+       "gl": "software; app",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I opened it: there was only one person's location in it — mine.",
+   "phrases": [
+    {
+     "en": "I opened it: there was only one person's location in it — mine.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "一看",
+       "py": "yíkàn",
+       "gl": "take a look; look and see",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "里面",
+       "py": "lǐmiàn",
+       "gl": "inside",
+       "pos": "n."
+      },
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "num."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "位置",
+       "py": "wèizhi",
+       "gl": "position; location; place",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Mum said, a little embarrassed, \"You finish work late, so I watch your little dot make its way home, bit by bit.\"",
+   "phrases": [
+    {
+     "en": "Mum said, a little embarrassed, \"You finish work late, so I watch your little dot make its way home, bit by bit.\"",
+     "words": [
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "有点不好意思",
+       "py": "yǒudiǎnbùhǎoyìsī",
+       "gl": "a bit embarrassed",
+       "pos": "phrase"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "下班",
+       "py": "xiàbān",
+       "gl": "get off work; finish work",
+       "pos": "v."
+      },
+      {
+       "h": "晚",
+       "py": "wǎn",
+       "gl": "late",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "dot; point",
+       "pos": "n."
+      },
+      {
+       "h": "一点一点",
+       "py": "yìdiǎnyìdiǎn",
+       "gl": "little by little; bit by bit",
+       "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Protecting your own information is a skill everyone should learn.",
+   "phrases": [
+    {
+     "en": "Protecting your own information is a skill everyone should learn.",
+     "words": [
+      {
+       "h": "保护好",
+       "py": "bǎohùhǎo",
+       "gl": "protect well; take good care of",
+       "pos": "v."
       },
       {
        "h": "自己",
@@ -335,7 +896,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -354,22 +915,10 @@
        "pos": "v."
       },
       {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
+       "h": "每个人",
+       "py": "měigèrén",
+       "gl": "everyone; each person",
        "pos": "pron."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
       },
       {
        "h": "都",
@@ -381,7 +930,7 @@
        "h": "应该",
        "py": "yīnggāi",
        "gl": "should; ought to; probably",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "学会",
@@ -392,7 +941,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -400,6 +949,161 @@
        "py": "jìnéng",
        "gl": "skill",
        "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But that permission I didn't turn off.",
+   "phrases": [
+    {
+     "en": "But that permission I didn't turn off.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "权限",
+       "py": "quánxiàn",
+       "gl": "permission (access)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "关",
+       "py": "guān",
+       "gl": "turn off",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now, when I walk home from work, I go a bit more slowly, so she can watch a little longer.",
+   "phrases": [
+    {
+     "en": "Now, when I walk home from work, I go a bit more slowly, so she can watch a little longer.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "下班",
+       "py": "xiàbān",
+       "gl": "get off work; finish work",
+       "pos": "v."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
+       "pos": "adj."
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "一会儿",
+       "py": "yíhuìr",
+       "gl": "a while; a moment",
+       "pos": "adv."
       },
       {
        "h": "。"

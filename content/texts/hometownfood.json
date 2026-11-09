@@ -1,47 +1,56 @@
 {
  "id": "hometownfood",
  "level": 3,
- "title_zh": "家乡菜",
- "title_en": "A Taste of Home",
+ "title_zh": "两杯奶茶",
+ "title_en": "Two Cups of Milk Tea",
  "free": false,
  "audio_url": null,
- "note_en": "不仅……还…… (bùjǐn... hái...) means \"not only... but also...\": 这道菜不仅让我想起家，还让我们的友谊更近了一步 \"this dish not only reminded me of home but also brought us closer.\" Each part goes right before its verb, and the same subject covers both halves.",
+ "note_en": "不仅……还…… (\"not only…, but also…\"): 这杯茶不仅让我想起了家，还让我在中国有了一个新的奶奶 — \"this cup of tea not only reminded me of home, it also gave me a new grandma in China.\" The fact in the story is real: Hong Kong-style milk tea grew out of the British tea habit during colonial times, and it is usually made strong, with evaporated milk.",
  "sentences": [
   {
-   "en": "Whenever I'm homesick, I want to make a dish from back home.",
+   "en": "I've been in China for six months, and whenever I'm homesick I want a cup of British milky tea.",
    "phrases": [
     {
-     "en": "Whenever I'm homesick, I want to make a dish from back home.",
+     "en": "I've been in China for six months, and whenever I'm homesick I want a cup of British milky tea.",
      "words": [
       {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
-       "pos": "pron."
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
       },
       {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
-       "pos": "measure word"
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "半年",
+       "py": "bànnián",
+       "gl": "half a year; six months",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "adv."
       },
       {
        "h": "想家",
        "py": "xiǎngjiā",
        "gl": "be homesick; miss home",
        "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
       },
       {
        "h": "，"
@@ -55,43 +64,37 @@
       {
        "h": "就",
        "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
        "h": "想",
        "py": "xiǎng",
-       "gl": "want; would like; think; miss",
+       "gl": "want; would like",
        "pos": "v."
       },
       {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "道",
-       "py": "dào",
-       "gl": "measure word for exam questions, dishes",
+       "h": "一杯",
+       "py": "yībēi",
+       "gl": "a cup of; a glass of",
        "pos": "measure word"
       },
       {
-       "h": "家乡",
-       "py": "jiāxiāng",
-       "gl": "hometown",
-       "pos": "n."
+       "h": "英国",
+       "py": "yīngguó",
+       "gl": "Britain; UK",
+       "pos": "proper noun"
       },
       {
-       "h": "菜",
-       "py": "cài",
-       "gl": "vegetable; dish (food)",
+       "h": "奶茶",
+       "py": "nǎichá",
+       "gl": "milk tea",
        "pos": "n."
       },
       {
@@ -102,10 +105,10 @@
    ]
   },
   {
-   "en": "But a lot of the ingredients are hard to find here.",
+   "en": "But the black tea we usually drink is hard to find here; I tried lots of supermarkets with no luck.",
    "phrases": [
     {
-     "en": "But a lot of the ingredients are hard to find here.",
+     "en": "But the black tea we usually drink is hard to find here; I tried lots of supermarkets with no luck.",
      "words": [
       {
        "h": "可是",
@@ -120,33 +123,90 @@
        "pos": "pron."
       },
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "材料",
-       "py": "cáiliào",
-       "gl": "materials; documents",
-       "pos": "n."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "难",
-       "py": "nán",
-       "gl": "difficult; hard",
+       "h": "很难",
+       "py": "hěnnán",
+       "gl": "very difficult; hard to",
        "pos": "adj."
       },
       {
        "h": "买到",
        "py": "mǎidào",
        "gl": "manage to buy; get",
+       "pos": "v."
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "常",
+       "py": "cháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "红茶",
+       "py": "hóngchá",
+       "gl": "black tea",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "找",
+       "py": "zhǎo",
+       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "超市",
+       "py": "chāoshì",
+       "gl": "supermarket",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
        "pos": "v."
       },
       {
@@ -157,15 +217,15 @@
    ]
   },
   {
-   "en": "Last week I finally found what I needed at an imported-foods supermarket.",
+   "en": "Last week I finally found it in an imported-food shop.",
    "phrases": [
     {
-     "en": "Last week I finally found what I needed at an imported-foods supermarket.",
+     "en": "Last week I finally found it in an imported-food shop.",
      "words": [
       {
        "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
        "pos": "postposition"
       },
       {
@@ -173,6 +233,9 @@
        "py": "xīngqī",
        "gl": "week",
        "pos": "n."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "我",
@@ -189,31 +252,25 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "n."
+       "h": "一家",
+       "py": "yìjiā",
+       "gl": "a; one (shop, family, company)",
+       "pos": "measure word"
       },
       {
        "h": "进口",
        "py": "jìnkǒu",
-       "gl": "import; imported",
-       "pos": "v."
+       "gl": "imported",
+       "pos": "adj."
       },
       {
-       "h": "超市",
-       "py": "chāoshì",
-       "gl": "supermarket",
+       "h": "商店",
+       "py": "shāngdiàn",
+       "gl": "store; shop",
        "pos": "n."
       },
       {
@@ -229,24 +286,6 @@
        "pos": "particle"
       },
       {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; things; stuff",
-       "pos": "n."
-      },
-      {
        "h": "。"
       }
      ]
@@ -254,10 +293,10 @@
    ]
   },
   {
-   "en": "I spent a whole afternoon making an apple pie.",
+   "en": "I spent a whole afternoon: I brewed a big pot of tea and baked a tray of scones.",
    "phrases": [
     {
-     "en": "I spent a whole afternoon",
+     "en": "I spent a whole afternoon: I brewed a big pot of tea and baked a tray of scones.",
      "words": [
       {
        "h": "我",
@@ -278,32 +317,24 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "下午",
        "py": "xiàwu",
        "gl": "afternoon",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "making an apple pie.",
-     "words": [
+      },
       {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
+       "h": "，"
+      },
+      {
+       "h": "泡",
+       "py": "pào",
+       "gl": "brew; steep (tea)",
        "pos": "v."
       },
       {
@@ -319,15 +350,54 @@
        "pos": "num."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
+       "h": "大",
+       "py": "dà",
+       "gl": "big; large",
+       "pos": "adj."
+      },
+      {
+       "h": "壶",
+       "py": "hú",
+       "gl": "pot (measure word)",
        "pos": "measure word"
       },
       {
-       "h": "苹果派",
-       "py": "píngguǒpài",
-       "gl": "apple pie",
+       "h": "茶",
+       "py": "chá",
+       "gl": "tea",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "烤",
+       "py": "kǎo",
+       "gl": "roast; bake; grill",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一盘",
+       "py": "yīpán",
+       "gl": "a plate of",
+       "pos": "measure word"
+      },
+      {
+       "h": "司康饼",
+       "py": "sīkāngbǐng",
+       "gl": "scone",
        "pos": "n."
       },
       {
@@ -338,22 +408,22 @@
    ]
   },
   {
-   "en": "My Chinese roommate tried it and said, \"It's delicious! Is it the same as in your country?\"",
+   "en": "My roommate Jiajia tasted the tea and suddenly went quiet.",
    "phrases": [
     {
-     "en": "My Chinese roommate tried it and said, \"It's delicious! Is it the same as in your country?\"",
+     "en": "My roommate Jiajia tasted the tea and suddenly went quiet.",
      "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
       {
        "h": "室友",
        "py": "shìyǒu",
        "gl": "roommate",
        "pos": "n."
+      },
+      {
+       "h": "佳佳",
+       "py": "Jiājiā",
+       "gl": "Jiajia",
+       "pos": "proper noun"
       },
       {
        "h": "尝",
@@ -368,60 +438,70 @@
        "pos": "particle"
       },
       {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
+       "h": "一口",
+       "py": "yìkǒu",
+       "gl": "a mouthful; a bite",
+       "pos": "measure word"
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "："
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "好吃",
-       "py": "hǎochī",
-       "gl": "tasty; delicious",
-       "pos": "adj."
+       "h": "茶",
+       "py": "chá",
+       "gl": "tea",
+       "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "跟",
-       "py": "gēn",
-       "gl": "with; together with",
-       "pos": "prep."
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
       },
       {
-       "h": "你们",
-       "py": "nǐmen",
-       "gl": "you (plural)",
-       "pos": "pron."
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
       },
       {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "country; state",
-       "pos": "n."
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
       },
       {
-       "h": "一样",
-       "py": "yíyàng",
-       "gl": "same; alike",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Is it not nice?\" I asked, a little nervous.",
+   "phrases": [
+    {
+     "en": "\"Is it not nice?\" I asked, a little nervous.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "好喝",
+       "py": "hǎohē",
+       "gl": "tasty (of drinks)",
        "pos": "adj."
       },
       {
@@ -435,33 +515,748 @@
       },
       {
        "h": "”"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
+      },
+      {
+       "h": "紧张",
+       "py": "jǐnzhāng",
+       "gl": "nervous; tense",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
       }
      ]
     }
    ]
   },
   {
-   "en": "This dish not only reminded me of home, it also brought my roommate and me closer.",
+   "en": "\"No, it's not that,\" she said. \"My grandma lives in Hong Kong, and she drinks milk tea every day.\"",
    "phrases": [
     {
-     "en": "This dish not only reminded me of home,",
+     "en": "\"No, it's not that,\" she said. \"My grandma lives in Hong Kong, and she drinks milk tea every day.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "香港",
+       "py": "Xiānggǎng",
+       "gl": "Hong Kong",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
+       "pos": "v."
+      },
+      {
+       "h": "奶茶",
+       "py": "nǎichá",
+       "gl": "milk tea",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I was very surprised.",
+   "phrases": [
+    {
+     "en": "I was very surprised.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "吃惊",
+       "py": "chī jīng",
+       "gl": "to be surprised",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Jiajia said that over a hundred years ago the British brought the milk-tea habit to Hong Kong, and it stayed.",
+   "phrases": [
+    {
+     "en": "Jiajia said that over a hundred years ago the British brought the milk-tea habit to Hong Kong, and it stayed.",
+     "words": [
+      {
+       "h": "佳佳",
+       "py": "Jiājiā",
+       "gl": "Jiajia",
+       "pos": "proper noun"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一百多年",
+       "py": "yìbǎiduōnián",
+       "gl": "over a hundred years",
+       "pos": "n."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "英国人",
+       "py": "Yīngguórén",
+       "gl": "British people",
+       "pos": "n."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
+       "pos": "v."
+      },
+      {
+       "h": "奶茶",
+       "py": "nǎichá",
+       "gl": "milk tea",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "习惯",
+       "py": "xíguàn",
+       "gl": "habit",
+       "pos": "n."
+      },
+      {
+       "h": "带到",
+       "py": "dàidào",
+       "gl": "take to; bring to",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "香港",
+       "py": "Xiānggǎng",
+       "gl": "Hong Kong",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "留",
+       "py": "liú",
+       "gl": "stay; remain",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But her grandma's milk tea doesn't use fresh milk — it uses evaporated milk, and the tea is stronger.",
+   "phrases": [
+    {
+     "en": "But her grandma's milk tea doesn't use fresh milk — it uses evaporated milk, and the tea is stronger.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "奶茶",
+       "py": "nǎichá",
+       "gl": "milk tea",
+       "pos": "n."
+      },
+      {
+       "h": "不用",
+       "py": "bùyòng",
+       "gl": "not need; no need to",
+       "pos": "v."
+      },
+      {
+       "h": "新鲜",
+       "py": "xīnxiān",
+       "gl": "fresh",
+       "pos": "adj."
+      },
+      {
+       "h": "牛奶",
+       "py": "niúnǎi",
+       "gl": "milk",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "淡奶",
+       "py": "dànnǎi",
+       "gl": "evaporated milk",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "茶",
+       "py": "chá",
+       "gl": "tea",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "浓",
+       "py": "nóng",
+       "gl": "strong (taste); thick; dense",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Your tea is a pale colour; my grandma's is much darker,\" she said with a laugh.",
+   "phrases": [
+    {
+     "en": "\"Your tea is a pale colour; my grandma's is much darker,\" she said with a laugh.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "茶",
+       "py": "chá",
+       "gl": "tea",
+       "pos": "n."
+      },
+      {
+       "h": "颜色",
+       "py": "yánsè",
+       "gl": "color",
+       "pos": "n."
+      },
+      {
+       "h": "浅浅",
+       "py": "qiǎnqiǎn",
+       "gl": "pale; light",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "深",
+       "py": "shēn",
+       "gl": "deep; profound",
+       "pos": "adj."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "笑着说",
+       "py": "xiàozheshuō",
+       "gl": "say with a smile",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That weekend she video-called her grandma so that our two cups of tea could \"meet.\"",
+   "phrases": [
+    {
+     "en": "That weekend she video-called her grandma so that our two cups of tea could \"meet.\"",
+     "words": [
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "hit; play (ball games); make (a phone call)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "视频电话",
+       "py": "shìpín diànhuà",
+       "gl": "video call",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "杯",
+       "py": "bēi",
+       "gl": "cup; glass (also measure word)",
+       "pos": "n."
+      },
+      {
+       "h": "茶",
+       "py": "chá",
+       "gl": "tea",
+       "pos": "n."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "见面",
+       "py": "jiànmiàn",
+       "gl": "meet; see each other",
+       "pos": "v."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the other side of the screen, her grandma said \"thank you\" in English.",
+   "phrases": [
+    {
+     "en": "On the other side of the screen, her grandma said \"thank you\" in English.",
+     "words": [
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "那边",
+       "py": "nàbiān",
+       "gl": "that side; there",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "英语",
+       "py": "yīngyǔ",
+       "gl": "English (language)",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一句",
+       "py": "yījù",
+       "gl": "one sentence; one line (of a poem)",
+       "pos": "measure word"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "谢谢",
+       "py": "xièxie",
+       "gl": "thank you; thanks",
+       "pos": "phrase"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This cup of tea not only reminded me of home, it also gave me a new grandma in China.",
+   "phrases": [
+    {
+     "en": "This cup of tea not only reminded me of home, it also gave me a new grandma in China.",
      "words": [
       {
        "h": "这",
        "py": "zhè",
-       "gl": "this",
+       "gl": "this; these",
        "pos": "pron."
       },
       {
-       "h": "道",
-       "py": "dào",
-       "gl": "measure word for exam questions, dishes",
-       "pos": "measure word"
+       "h": "杯",
+       "py": "bēi",
+       "gl": "cup; glass (also measure word)",
+       "pos": "n."
       },
       {
-       "h": "菜",
-       "py": "cài",
-       "gl": "vegetable; dish (food)",
+       "h": "茶",
+       "py": "chá",
+       "gl": "tea",
        "pos": "n."
       },
       {
@@ -473,7 +1268,7 @@
       {
        "h": "让",
        "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
@@ -489,6 +1284,12 @@
        "pos": "v."
       },
       {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
        "h": "家",
        "py": "jiā",
        "gl": "home; family; measure word for shops, businesses",
@@ -496,64 +1297,65 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it also brought us closer as friends.",
-     "words": [
+      },
       {
        "h": "还",
        "py": "hái",
-       "gl": "also; still; in addition",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
        "h": "让",
        "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "有了",
+       "py": "yǒule",
+       "gl": "have; there is (now); come to have",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "友谊",
-       "py": "yǒuyì",
-       "gl": "friendship",
-       "pos": "n."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
-       "pos": "adv."
-      },
-      {
-       "h": "近",
-       "py": "jìn",
-       "gl": "near; close",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一步",
-       "py": "yíbù",
-       "gl": "one step (closer)",
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
        "pos": "n."
       },
       {

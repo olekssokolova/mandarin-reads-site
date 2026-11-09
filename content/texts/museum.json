@@ -1,24 +1,18 @@
 {
  "id": "museum",
  "level": 3,
- "title_zh": "参观博物馆",
- "title_en": "A Visit to the Museum",
+ "title_zh": "手指印",
+ "title_en": "The Fingerprint",
  "free": false,
  "audio_url": null,
- "note_en": "边……边…… (a shorter form of 一边……一边……) shows two actions happening at the same time: 边听边看 \"listening and looking at the same time.\" English would usually say \"while\" or use an -ing form (\"looking around while listening\"); Chinese simply puts 边 before each verb.",
+ "note_en": "边……边…… is a colloquial short form of the pair \"while… also…\": two actions happening at once. 边走边拍照 — \"taking photos on the move,\" 边看边画 — \"looking and drawing at the same time.\" In the story the two pairs are contrasted: some people hurry past, one person looks closely.",
  "sentences": [
   {
-   "en": "On the weekend I went to the city museum by myself.",
+   "en": "I've worked at the city museum for twenty years, sitting in the same gallery every day.",
    "phrases": [
     {
-     "en": "On the weekend I went to the city museum by myself.",
+     "en": "I've worked at the city museum for twenty years, sitting in the same gallery every day.",
      "words": [
-      {
-       "h": "周末",
-       "py": "zhōumò",
-       "gl": "weekend",
-       "pos": "n."
-      },
       {
        "h": "我",
        "py": "wǒ",
@@ -26,28 +20,28 @@
        "pos": "pron."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "市",
+       "py": "shì",
+       "gl": "city; municipal",
        "pos": "n."
       },
       {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
-       "pos": "v."
+       "h": "博物馆",
+       "py": "bówùguǎn",
+       "gl": "museum",
+       "pos": "n."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
       },
       {
        "h": "了",
@@ -56,22 +50,43 @@
        "pos": "particle"
       },
       {
-       "h": "市里",
-       "py": "shìlǐ",
-       "gl": "in the city; downtown",
+       "h": "二十年",
+       "py": "èrshínián",
+       "gl": "twenty years",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "，"
       },
       {
-       "h": "博物馆",
-       "py": "bówùguǎn",
-       "gl": "museum",
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
        "pos": "n."
+      },
+      {
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
+       "pos": "v."
+      },
+      {
+       "h": "同一个",
+       "py": "tóngyīgè",
+       "gl": "the same (one)",
+       "pos": "pron."
+      },
+      {
+       "h": "展厅",
+       "py": "zhǎntīng",
+       "gl": "exhibition hall",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
        "h": "。"
@@ -81,15 +96,327 @@
    ]
   },
   {
-   "en": "The museum is very big, and you have to buy a ticket to get in.",
+   "en": "Lots of people come, but most take photos on the move and leave within ten minutes.",
    "phrases": [
     {
-     "en": "The museum is very big, and you have to buy a ticket to get in.",
+     "en": "Lots of people come, but most take photos on the move and leave within ten minutes.",
      "words": [
       {
-       "h": "博物馆",
-       "py": "bówùguǎn",
-       "gl": "museum",
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot; much",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "大部分",
+       "py": "dàbùfèn",
+       "gl": "most; the greater part",
+       "pos": "n."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "边",
+       "py": "biān",
+       "gl": "while (边…边… do two things at once)",
+       "pos": "adv."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "walk; go; leave",
+       "pos": "v."
+      },
+      {
+       "h": "边",
+       "py": "biān",
+       "gl": "while (边…边… do two things at once)",
+       "pos": "adv."
+      },
+      {
+       "h": "拍照",
+       "py": "pāizhào",
+       "gl": "take photos",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "十分钟",
+       "py": "shífēnzhōng",
+       "gl": "ten minutes",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "离开",
+       "py": "líkāi",
+       "gl": "leave",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But this summer, a boy came every Saturday.",
+   "phrases": [
+    {
+     "en": "But this summer, a boy came every Saturday.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "夏天",
+       "py": "xiàtiān",
+       "gl": "summer",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "男孩",
+       "py": "nánhái",
+       "gl": "boy",
+       "pos": "n."
+      },
+      {
+       "h": "每个",
+       "py": "měigè",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "星期六",
+       "py": "xīngqīliù",
+       "gl": "Saturday",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He always stood in front of the same glass case, looking and drawing.",
+   "phrases": [
+    {
+     "en": "He always stood in front of the same glass case, looking and drawing.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "总是",
+       "py": "zǒngshì",
+       "gl": "always",
+       "pos": "adv."
+      },
+      {
+       "h": "站在",
+       "py": "zhànzài",
+       "gl": "stand in; stand on; stand at",
+       "pos": "v."
+      },
+      {
+       "h": "同一个",
+       "py": "tóngyīgè",
+       "gl": "the same (one)",
+       "pos": "pron."
+      },
+      {
+       "h": "玻璃柜",
+       "py": "bōli guì",
+       "gl": "glass display case",
+       "pos": "n."
+      },
+      {
+       "h": "前面",
+       "py": "qiánmiàn",
+       "gl": "in front; ahead",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "边",
+       "py": "biān",
+       "gl": "while (边…边… do two things at once)",
+       "pos": "adv."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "边",
+       "py": "biān",
+       "gl": "while (边…边… do two things at once)",
+       "pos": "adv."
+      },
+      {
+       "h": "画",
+       "py": "huà",
+       "gl": "draw; paint",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the case was a two-thousand-year-old bowl that looked very ordinary.",
+   "phrases": [
+    {
+     "en": "In the case was a two-thousand-year-old bowl that looked very ordinary.",
+     "words": [
+      {
+       "h": "柜子",
+       "py": "guìzi",
+       "gl": "cabinet; display case",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一只",
+       "py": "yīzhī",
+       "gl": "one (animal; one of a pair)",
+       "pos": "measure word"
+      },
+      {
+       "h": "两千",
+       "py": "liǎngqiān",
+       "gl": "two thousand",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "碗",
+       "py": "wǎn",
+       "gl": "bowl (also measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "样子",
+       "py": "yàngzi",
+       "gl": "appearance; look; shape",
        "pos": "n."
       },
       {
@@ -99,43 +426,10 @@
        "pos": "adv."
       },
       {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
+       "h": "普通",
+       "py": "pǔtōng",
+       "gl": "ordinary; common",
        "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "want; order; be going to; need",
-       "pos": "v."
-      },
-      {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
-       "pos": "v."
-      },
-      {
-       "h": "票",
-       "py": "piào",
-       "gl": "ticket",
-       "pos": "n."
-      },
-      {
-       "h": "才能",
-       "py": "cáinéng",
-       "gl": "only then; (only) ... can",
-       "pos": "conj."
-      },
-      {
-       "h": "进去",
-       "py": "jìnqù",
-       "gl": "go in",
-       "pos": "v."
       },
       {
        "h": "。"
@@ -145,138 +439,15 @@
    ]
   },
   {
-   "en": "Inside there are lots of ancient artifacts, and each one has its own story.",
+   "en": "On the fifth Saturday I couldn't help asking him, \"With so many relics, why do you only draw this one?\"",
    "phrases": [
     {
-     "en": "Inside there are lots of ancient artifacts,",
+     "en": "On the fifth Saturday I couldn't help asking him, \"With so many relics, why do you only draw this one?\"",
      "words": [
       {
-       "h": "里面",
-       "py": "lǐmiàn",
-       "gl": "inside",
-       "pos": "n."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "古代",
-       "py": "gǔdài",
-       "gl": "ancient times; ancient",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "文物",
-       "py": "wénwù",
-       "gl": "cultural relic; historical artifact",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and each one has its own story.",
-     "words": [
-      {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
-       "pos": "pron."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "件",
-       "py": "jiàn",
-       "gl": "measure word for clothing, matters, items",
-       "pos": "measure word"
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "故事",
-       "py": "gùshì",
-       "gl": "story",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I got an audio guide, listened as I looked around, and learned a lot about history.",
-   "phrases": [
-    {
-     "en": "I got an audio guide,",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "请",
-       "py": "qǐng",
-       "gl": "please; ask; invite",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "第五",
+       "py": "dìwǔ",
+       "gl": "fifth",
        "pos": "num."
       },
       {
@@ -286,36 +457,170 @@
        "pos": "measure word"
       },
       {
-       "h": "讲解器",
-       "py": "jiǎngjiěqì",
-       "gl": "audio guide",
+       "h": "星期六",
+       "py": "xīngqīliù",
+       "gl": "Saturday",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "listening as I looked around,",
-     "words": [
-      {
-       "h": "边",
-       "py": "biān",
-       "gl": "side; edge (河边 \"riverside\")",
-       "pos": "n."
       },
       {
-       "h": "听",
-       "py": "tīng",
-       "gl": "listen; hear",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "忍不住",
+       "py": "rěn bu zhù",
+       "gl": "can't help (doing); cannot resist",
        "pos": "v."
       },
       {
-       "h": "边",
-       "py": "biān",
-       "gl": "side; edge (河边 \"riverside\")",
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "这么多",
+       "py": "zhèmeduō",
+       "gl": "so many; so much",
+       "pos": "pron."
+      },
+      {
+       "h": "文物",
+       "py": "wénwù",
+       "gl": "cultural relics",
        "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "为什么",
+       "py": "wèishénme",
+       "gl": "why",
+       "pos": "pron."
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "画",
+       "py": "huà",
+       "gl": "draw; paint; picture",
+       "pos": "v."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He pointed to a tiny mark on the rim of the bowl: \"Look — it's a fingerprint left by the person who made it.\"",
+   "phrases": [
+    {
+     "en": "He pointed to a tiny mark on the rim of the bowl: \"Look — it's a fingerprint left by the person who made it.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "指",
+       "py": "zhǐ",
+       "gl": "refer to; mean; point at",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "function word"
+      },
+      {
+       "h": "碗",
+       "py": "wǎn",
+       "gl": "bowl (also measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "边上",
+       "py": "biānshàng",
+       "gl": "edge; side; beside",
+       "pos": "n."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "小小",
+       "py": "xiǎoxiǎo",
+       "gl": "little; tiny",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "function word"
+      },
+      {
+       "h": "印子",
+       "py": "yìnzi",
+       "gl": "mark; imprint",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
+       "pos": "pron."
       },
       {
        "h": "看",
@@ -325,128 +630,109 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I learned a lot about history.",
-     "words": [
+      },
       {
-       "h": "学",
-       "py": "xué",
-       "gl": "study; learn",
+       "h": "这是",
+       "py": "zhèshì",
+       "gl": "this is",
+       "pos": "phrase"
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
        "pos": "v."
       },
       {
-       "h": "到",
-       "py": "dào",
-       "gl": "arrive; reach; come",
-       "pos": "v."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "历史",
-       "py": "lìshǐ",
-       "gl": "history",
-       "pos": "n."
-      },
-      {
-       "h": "知识",
-       "py": "zhīshí",
-       "gl": "knowledge",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "One hall is just for ancient clothing, and it's especially beautiful.",
-   "phrases": [
-    {
-     "en": "One hall is just for ancient clothing,",
-     "words": [
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
+       "h": "碗",
+       "py": "wǎn",
+       "gl": "bowl (also measure word)",
        "pos": "measure word"
-      },
-      {
-       "h": "展厅",
-       "py": "zhǎntīng",
-       "gl": "exhibition hall",
-       "pos": "n."
-      },
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "展示",
-       "py": "zhǎnshì",
-       "gl": "show; display",
-       "pos": "v."
-      },
-      {
-       "h": "古代",
-       "py": "gǔdài",
-       "gl": "ancient times; ancient",
-       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
        "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "pos": "function word"
       },
       {
-       "h": "衣服",
-       "py": "yīfu",
-       "gl": "clothes",
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "留下",
+       "py": "liúxià",
+       "gl": "keep; leave (behind)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "function word"
+      },
+      {
+       "h": "手指印",
+       "py": "shǒuzhǐ yìn",
+       "gl": "fingerprint",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In twenty years here, I had never noticed it.",
+   "phrases": [
+    {
+     "en": "In twenty years here, I had never noticed it.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "这里",
+       "py": "zhèlǐ",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "二十年",
+       "py": "èrshínián",
+       "gl": "twenty years",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and it's especially beautiful.",
-     "words": [
+      },
       {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly; special",
+       "h": "从来没",
+       "py": "cóngláiméi",
+       "gl": "never (have)",
        "pos": "adv."
       },
       {
-       "h": "漂亮",
-       "py": "piàoliang",
-       "gl": "pretty; beautiful",
-       "pos": "adj."
+       "h": "注意到",
+       "py": "zhùyìdào",
+       "gl": "notice",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -456,15 +742,24 @@
    ]
   },
   {
-   "en": "After walking around for three hours, I was tired, but I got a lot out of it.",
+   "en": "\"He made a mistake, but the bowl has still lasted until today,\" the boy said.",
    "phrases": [
     {
-     "en": "After walking around for three hours,",
+     "en": "\"He made a mistake, but the bowl has still lasted until today,\" the boy said.",
      "words": [
       {
-       "h": "逛",
-       "py": "guàng",
-       "gl": "stroll; browse (shops)",
+       "h": "“"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "做错",
+       "py": "zuòcuò",
+       "gl": "do wrong; get wrong",
        "pos": "v."
       },
       {
@@ -474,31 +769,93 @@
        "pos": "particle"
       },
       {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
+       "h": "，"
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "只",
+       "py": "zhī",
+       "gl": "(measure word for animals, one of a pair)",
        "pos": "measure word"
       },
       {
-       "h": "小时",
-       "py": "xiǎoshí",
-       "gl": "hour",
+       "h": "碗",
+       "py": "wǎn",
+       "gl": "bowl (also measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "留到",
+       "py": "liúdào",
+       "gl": "save until; keep until",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "今天",
+       "py": "jīntiān",
+       "gl": "today",
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "男孩",
+       "py": "nánhái",
+       "gl": "boy",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "Later I learned that his mother expected a great deal of him, and he cried if he got even one question wrong in a test.",
+   "phrases": [
     {
-     "en": "although I was tired,",
+     "en": "Later I learned that his mother expected a great deal of him, and he cried if he got even one question wrong in a test.",
      "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -506,57 +863,394 @@
        "pos": "pron."
       },
       {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
        "pos": "adv."
       },
       {
-       "h": "累",
-       "py": "lèi",
-       "gl": "tired",
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "find out; learn",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "要求",
+       "py": "yāoqiú",
+       "gl": "require; demand",
+       "pos": "v."
+      },
+      {
+       "h": "很高",
+       "py": "hěngāo",
+       "gl": "very high",
        "pos": "adj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I got a lot out of it.",
-     "words": [
-      {
-       "h": "但是",
-       "py": "dànshì",
-       "gl": "but; however",
-       "pos": "conj."
       },
       {
-       "h": "收获",
-       "py": "shōuhuò",
-       "gl": "gain; reward; harvest",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "考试",
+       "py": "kǎoshì",
+       "gl": "exam; test",
        "pos": "n."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
+       "h": "错",
+       "py": "cuò",
+       "gl": "wrong; mistaken (坐错 take the wrong one)",
        "pos": "adj."
       },
       {
+       "h": "一道",
+       "py": "yīdào",
+       "gl": "a (dish)",
+       "pos": "num."
+      },
+      {
+       "h": "题",
+       "py": "tí",
+       "gl": "question; problem (in exercises)",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "哭",
+       "py": "kū",
+       "gl": "cry",
+       "pos": "v."
+      },
+      {
        "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the last day of the summer holidays, he gave me his drawing.",
+   "phrases": [
+    {
+     "en": "On the last day of the summer holidays, he gave me his drawing.",
+     "words": [
+      {
+       "h": "暑假",
+       "py": "shǔjià",
+       "gl": "summer vacation",
+       "pos": "n."
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
+       "pos": "adj."
+      },
+      {
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "画",
+       "py": "huà",
+       "gl": "draw; paint; picture",
+       "pos": "v."
+      },
+      {
+       "h": "送给",
+       "py": "sònggěi",
+       "gl": "give (as a gift) to",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Underneath it he had written: \"It's all right to make mistakes.\"",
+   "phrases": [
+    {
+     "en": "Underneath it he had written: \"It's all right to make mistakes.\"",
+     "words": [
+      {
+       "h": "画",
+       "py": "huà",
+       "gl": "draw; paint; picture",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "下面",
+       "py": "xiàmiàn",
+       "gl": "under; below; beneath",
+       "pos": "n."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "错",
+       "py": "cuò",
+       "gl": "wrong; mistaken (坐错 take the wrong one)",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没关系",
+       "py": "méiguānxì",
+       "gl": "it doesn't matter; that's OK",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now, whenever someone takes photos on the move, I want to stop them: \"Wait — look at this fingerprint.\"",
+   "phrases": [
+    {
+     "en": "Now, whenever someone takes photos on the move, I want to stop them: \"Wait — look at this fingerprint.\"",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "adv."
+      },
+      {
+       "h": "有人",
+       "py": "yǒurén",
+       "gl": "someone; some people",
+       "pos": "pron."
+      },
+      {
+       "h": "边",
+       "py": "biān",
+       "gl": "while (边…边… do two things at once)",
+       "pos": "adv."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "边",
+       "py": "biān",
+       "gl": "while (边…边… do two things at once)",
+       "pos": "adv."
+      },
+      {
+       "h": "拍",
+       "py": "pāi",
+       "gl": "take (a photo); shoot (a video); pat; clap",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "叫住",
+       "py": "jiàozhù",
+       "gl": "call out to; stop",
+       "pos": "v."
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "when; once",
+       "pos": "conj."
+      },
+      {
+       "h": "一下",
+       "py": "yíxià",
+       "gl": "a bit; once (softens the verb: take a look)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看看",
+       "py": "kànkàn",
+       "gl": "have a look; take a look",
+       "pos": "v."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "手指印",
+       "py": "shǒuzhǐ yìn",
+       "gl": "fingerprint",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }

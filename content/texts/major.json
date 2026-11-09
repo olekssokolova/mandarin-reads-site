@@ -1,72 +1,43 @@
 {
  "id": "major",
  "level": 3,
- "title_zh": "选专业",
- "title_en": "Choosing a Major",
+ "title_zh": "十八岁的日记",
+ "title_en": "The Diary of an Eighteen-Year-Old",
  "free": false,
  "audio_url": null,
- "note_en": "既……又…… means \"both... and...\" and links two things that are true at the same time: 既喜欢又学得认真 \"I both enjoy it and study hard.\" Unlike English \"both... and,\" which can join nouns, 既……又…… usually joins verbs or adjectives, and both words come right before them.",
+ "note_en": "The construction 既……又…… joins two equal qualities: 既稳定又好找工作 — \"both stable and easy to find work with.\" The father in the story repeats the very words he once heard from his own father, so the construction becomes an argument passed down the generations.",
  "sentences": [
   {
-   "en": "Before college, I never knew what major to choose.",
+   "en": "After my daughter's gaokao, it was time to choose a major.",
    "phrases": [
     {
-     "en": "Before college,",
+     "en": "After my daughter's gaokao, it was time to choose a major.",
      "words": [
       {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
-       "pos": "postposition"
-      },
-      {
-       "h": "大学",
-       "py": "dàxué",
-       "gl": "university; college",
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
        "pos": "n."
       },
       {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
+       "h": "高考",
+       "py": "gāokǎo",
+       "gl": "gaokao (university entrance exam)",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I never knew what major to choose.",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "一直",
-       "py": "yìzhí",
-       "gl": "all the time; continuously; straight",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "知道",
-       "py": "zhīdao",
-       "gl": "know",
-       "pos": "v."
       },
       {
        "h": "要",
        "py": "yào",
-       "gl": "want; order; be going to; need",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
@@ -76,16 +47,16 @@
        "pos": "v."
       },
       {
-       "h": "什么",
-       "py": "shénme",
-       "gl": "what",
-       "pos": "question word"
-      },
-      {
        "h": "专业",
        "py": "zhuānyè",
        "gl": "professional; major (field of study)",
        "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -95,16 +66,16 @@
    ]
   },
   {
-   "en": "My dad wanted me to study economics; he said it would be easier to find a job later.",
+   "en": "I wanted her to study economics, because it's both stable and easy to find work with.",
    "phrases": [
     {
-     "en": "My dad wanted me to study economics; he said it would be easier to find a job later.",
+     "en": "I wanted her to study economics, because it's both stable and easy to find work with.",
      "words": [
       {
-       "h": "爸爸",
-       "py": "bàba",
-       "gl": "dad; father",
-       "pos": "n."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
        "h": "希望",
@@ -113,9 +84,9 @@
        "pos": "v."
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
@@ -134,251 +105,16 @@
        "h": "，"
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
-      },
-      {
-       "h": "找",
-       "py": "zhǎo",
-       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
-       "pos": "v."
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But I've loved languages since I was little, and I was especially interested in Chinese.",
-   "phrases": [
-    {
-     "en": "But I've loved languages since I was little,",
-     "words": [
-      {
-       "h": "可是",
-       "py": "kěshì",
-       "gl": "but; however",
+       "h": "因为",
+       "py": "yīnwèi",
+       "gl": "because",
        "pos": "conj."
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
        "pos": "pron."
-      },
-      {
-       "h": "从小",
-       "py": "cóngxiǎo",
-       "gl": "since childhood",
-       "pos": "adv."
-      },
-      {
-       "h": "喜欢",
-       "py": "xǐhuan",
-       "gl": "like; love",
-       "pos": "v."
-      },
-      {
-       "h": "语言",
-       "py": "yǔyán",
-       "gl": "language",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and I was especially interested in Chinese.",
-     "words": [
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "to; toward; correct",
-       "pos": "prep."
-      },
-      {
-       "h": "中文",
-       "py": "zhōngwén",
-       "gl": "Chinese (language)",
-       "pos": "n."
-      },
-      {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly; special",
-       "pos": "adv."
-      },
-      {
-       "h": "感兴趣",
-       "py": "gǎnxìngqù",
-       "gl": "be interested (in)",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I talked with my dad for a long time, and in the end he agreed to let me decide for myself.",
-   "phrases": [
-    {
-     "en": "I talked with my dad for a long time,",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "跟",
-       "py": "gēn",
-       "gl": "with; together with",
-       "pos": "prep."
-      },
-      {
-       "h": "爸爸",
-       "py": "bàba",
-       "gl": "dad; father",
-       "pos": "n."
-      },
-      {
-       "h": "谈",
-       "py": "tán",
-       "gl": "talk; discuss",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "久",
-       "py": "jiǔ",
-       "gl": "long (time); for a long time",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and in the end he agreed to let me decide for myself.",
-     "words": [
-      {
-       "h": "最后",
-       "py": "zuìhòu",
-       "gl": "in the end; finally",
-       "pos": "n."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "同意",
-       "py": "tóngyì",
-       "gl": "agree",
-       "pos": "v."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "决定",
-       "py": "juédìng",
-       "gl": "decide; decision",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I chose Chinese as my major, and I both enjoy it and study hard.",
-   "phrases": [
-    {
-     "en": "I chose Chinese as my major,",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "选",
-       "py": "xuǎn",
-       "gl": "choose; pick",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "中文",
-       "py": "zhōngwén",
-       "gl": "Chinese (language)",
-       "pos": "n."
       },
       {
        "h": "专业",
@@ -387,48 +123,34 @@
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and I both enjoy it and study hard.",
-     "words": [
-      {
        "h": "既",
        "py": "jì",
-       "gl": "both… (既…又… both … and …)",
+       "gl": "both (既…又… both … and …)",
        "pos": "conj."
       },
       {
-       "h": "喜欢",
-       "py": "xǐhuan",
-       "gl": "like; love",
-       "pos": "v."
+       "h": "稳定",
+       "py": "wěndìng",
+       "gl": "stable; steady",
+       "pos": "adj."
       },
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
-       "h": "学",
-       "py": "xué",
-       "gl": "study; learn",
+       "h": "好",
+       "py": "hǎo",
+       "gl": "so that; in order to",
+       "pos": "conj."
+      },
+      {
+       "h": "找工作",
+       "py": "zhǎogōngzuò",
+       "gl": "look for a job",
        "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
-      },
-      {
-       "h": "认真",
-       "py": "rènzhēn",
-       "gl": "serious; conscientious; carefully",
-       "pos": "adj."
       },
       {
        "h": "。"
@@ -438,21 +160,781 @@
    ]
   },
   {
-   "en": "Looking back now, I'm really glad I made that choice.",
+   "en": "But she said she wanted to study history.",
    "phrases": [
     {
-     "en": "Looking back now,",
+     "en": "But she said she wanted to study history.",
      "words": [
       {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "历史",
+       "py": "lìshǐ",
+       "gl": "history",
        "pos": "n."
       },
       {
-       "h": "回头",
-       "py": "huítóu",
-       "gl": "look back; turn one's head",
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"What can you do with history afterwards?\" I asked.",
+   "phrases": [
+    {
+     "en": "\"What can you do with history afterwards?\" I asked.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "历史",
+       "py": "lìshǐ",
+       "gl": "history",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after; later; in the future",
+       "pos": "postposition"
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "做什么",
+       "py": "zuòshénme",
+       "gl": "what for; do what",
+       "pos": "pron."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She didn't answer, she just hung her head.",
+   "phrases": [
+    {
+     "en": "She didn't answer, she just hung her head.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "回答",
+       "py": "huídá",
+       "gl": "answer; reply",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
+      },
+      {
+       "h": "低着头",
+       "py": "dīzhetóu",
+       "gl": "with head lowered",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening neither of us spoke to the other.",
+   "phrases": [
+    {
+     "en": "That evening neither of us spoke to the other.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "谁",
+       "py": "shuí",
+       "gl": "who; anyone; everyone",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "谁",
+       "py": "shuí",
+       "gl": "who; anyone; everyone",
+       "pos": "pron."
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The next day I was looking for old photos in the cupboard when I found a notebook.",
+   "phrases": [
+    {
+     "en": "The next day I was looking for old photos in the cupboard when I found a notebook.",
+     "words": [
+      {
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "柜子",
+       "py": "guìzi",
+       "gl": "cabinet; locker",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "找",
+       "py": "zhǎo",
+       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
+       "pos": "v."
+      },
+      {
+       "h": "旧",
+       "py": "jiù",
+       "gl": "old (not new); worn",
+       "pos": "adj."
+      },
+      {
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "本子",
+       "py": "běnzi",
+       "gl": "notebook",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It was the diary I kept when I was eighteen.",
+   "phrases": [
+    {
+     "en": "It was the diary I kept when I was eighteen.",
+     "words": [
+      {
+       "h": "那是",
+       "py": "nàshì",
+       "gl": "of course; sure (that's right)",
+       "pos": "phrase"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "十八",
+       "py": "shíbā",
+       "gl": "eighteen",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "时",
+       "py": "shí",
+       "gl": "when; time",
+       "pos": "n."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "日记",
+       "py": "rìjì",
+       "gl": "diary",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In it was written: \"I want to study history, but Dad says accounting is both stable and easy to find work with.\"",
+   "phrases": [
+    {
+     "en": "In it was written: \"I want to study history, but Dad says accounting is both stable and easy to find work with.\"",
+     "words": [
+      {
+       "h": "上面写着",
+       "py": "shàngmiànxiězhe",
+       "gl": "with ... written on it; it says on it",
+       "pos": "phrase"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "历史",
+       "py": "lìshǐ",
+       "gl": "history",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "会计",
+       "py": "kuàijì",
+       "gl": "accounting",
+       "pos": "n."
+      },
+      {
+       "h": "既",
+       "py": "jì",
+       "gl": "both (既…又… both … and …)",
+       "pos": "conj."
+      },
+      {
+       "h": "稳定",
+       "py": "wěndìng",
+       "gl": "stable; steady",
+       "pos": "adj."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "找工作",
+       "py": "zhǎogōngzuò",
+       "gl": "look for a job",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I sat on the floor and looked at it for a long time.",
+   "phrases": [
+    {
+     "en": "I sat on the floor and looked at it for a long time.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
+       "pos": "v."
+      },
+      {
+       "h": "地上",
+       "py": "dìshàng",
+       "gl": "on the ground; on earth",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "For thirty years I've counted other people's money every day and hardly ever thought of that eighteen-year-old me.",
+   "phrases": [
+    {
+     "en": "For thirty years I've counted other people's money every day and hardly ever thought of that eighteen-year-old me.",
+     "words": [
+      {
+       "h": "三十",
+       "py": "sānshí",
+       "gl": "thirty",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "算",
+       "py": "suàn",
+       "gl": "count as; be considered",
+       "pos": "v."
+      },
+      {
+       "h": "别人",
+       "py": "biérén",
+       "gl": "other people; others",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "钱",
+       "py": "qián",
+       "gl": "money",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "很少",
+       "py": "hěnshǎo",
+       "gl": "rarely; seldom; few",
+       "pos": "adv."
+      },
+      {
+       "h": "想起",
+       "py": "xiǎngqǐ",
+       "gl": "remember; think of; remind (让我想起 'remind me of')",
+       "pos": "v."
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "十八",
+       "py": "shíbā",
+       "gl": "eighteen",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At dinner I put the diary in front of my daughter.",
+   "phrases": [
+    {
+     "en": "At dinner I put the diary in front of my daughter.",
+     "words": [
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "晚饭",
+       "py": "wǎnfàn",
+       "gl": "dinner; supper",
+       "pos": "n."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "日记本",
+       "py": "rìjìběn",
+       "gl": "diary",
+       "pos": "n."
+      },
+      {
+       "h": "放在",
+       "py": "fàngzài",
+       "gl": "put in; put on; place",
+       "pos": "v."
+      },
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "面前",
+       "py": "miànqián",
+       "gl": "in front of; before (真理面前 before the truth)",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She read it, then looked up at me: \"Dad, do you regret it?\"",
+   "phrases": [
+    {
+     "en": "She read it, then looked up at me: \"Dad, do you regret it?\"",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "看完",
+       "py": "kànwán",
+       "gl": "finish reading/watching",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "抬头",
+       "py": "táitóu",
+       "gl": "raise one's head; look up",
        "pos": "v."
       },
       {
@@ -462,12 +944,65 @@
        "pos": "v."
       },
       {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "爸",
+       "py": "bà",
+       "gl": "dad",
+       "pos": "n."
+      },
+      {
        "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "后悔",
+       "py": "hòuhuǐ",
+       "gl": "regret",
+       "pos": "v."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "I didn't say I regretted it, and I didn't say I didn't.",
+   "phrases": [
     {
-     "en": "I'm really glad I made that choice.",
+     "en": "I didn't say I regretted it, and I didn't say I didn't.",
      "words": [
       {
        "h": "我",
@@ -476,37 +1011,122 @@
        "pos": "pron."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "庆幸",
-       "py": "qìngxìng",
-       "gl": "be glad; feel lucky",
+       "h": "没说",
+       "py": "méishuō",
+       "gl": "didn't say",
        "pos": "v."
       },
       {
-       "h": "当初",
-       "py": "dāngchū",
-       "gl": "at first; originally; back then",
+       "h": "后悔",
+       "py": "hòuhuǐ",
+       "gl": "regret",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
        "pos": "adv."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "没说",
+       "py": "méishuō",
+       "gl": "didn't say",
+       "pos": "v."
       },
       {
-       "h": "选择",
-       "py": "xuǎnzé",
-       "gl": "choose; choice",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "后悔",
+       "py": "hòuhuǐ",
+       "gl": "regret",
        "pos": "v."
       },
       {
        "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I only said, \"Go and study what you love.\"",
+   "phrases": [
+    {
+     "en": "I only said, \"Go and study what you love.\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "喜欢",
+       "py": "xǐhuan",
+       "gl": "like; love",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "吧",
+       "py": "ba",
+       "gl": "particle: supposition (…right?)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }

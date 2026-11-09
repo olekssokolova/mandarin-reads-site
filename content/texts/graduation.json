@@ -1,17 +1,17 @@
 {
  "id": "graduation",
  "level": 3,
- "title_zh": "毕业典礼",
- "title_en": "Graduation Day",
+ "title_zh": "那栋楼是我盖的",
+ "title_en": "I Built That Building",
  "free": false,
  "audio_url": null,
- "note_en": "又……又…… means \"both ... and ...\" for two things at once: 我们都又哭又笑 \"we were all crying and laughing at the same time.\" English just uses \"and,\" while Chinese puts 又 before each verb or adjective to show they happen together.",
+ "note_en": "不知不觉 (\"without noticing\") describes time slipping by unnoticed: 不知不觉，四年就这样过去了 — \"before I knew it, four years had gone by.\" It is a common phrase in stories about the past.",
  "sentences": [
   {
-   "en": "Today is my graduation ceremony.",
+   "en": "Today is my graduation ceremony, and Dad took an overnight train from our hometown to be here.",
    "phrases": [
     {
-     "en": "Today is my graduation ceremony.",
+     "en": "Today is my graduation ceremony, and Dad took an overnight train from our hometown to be here.",
      "words": [
       {
        "h": "今天",
@@ -34,20 +34,83 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "毕业",
-       "py": "bìyè",
-       "gl": "graduate",
+       "h": "毕业典礼",
+       "py": "bìyè diǎnlǐ",
+       "gl": "graduation ceremony",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "老家",
+       "py": "lǎojiā",
+       "gl": "hometown; family home",
+       "pos": "n."
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
        "pos": "v."
       },
       {
-       "h": "典礼",
-       "py": "diǎnlǐ",
-       "gl": "ceremony",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一夜",
+       "py": "yīyè",
+       "gl": "one night; overnight",
        "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "火车",
+       "py": "huǒchē",
+       "gl": "train",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "(used between a method and a verb: in order to)",
+       "pos": "function word"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
        "h": "。"
@@ -57,10 +120,10 @@
    ]
   },
   {
-   "en": "I can still clearly picture what I was like when I started here four years ago.",
+   "en": "What I looked like when I arrived four years ago is still vivid in my mind.",
    "phrases": [
     {
-     "en": "What I was like when I first started four years ago",
+     "en": "What I looked like when I arrived four years ago is still vivid in my mind.",
      "words": [
       {
        "h": "四",
@@ -72,12 +135,12 @@
        "h": "年",
        "py": "nián",
        "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
+       "pos": "measure word"
       },
       {
        "h": "前",
        "py": "qián",
-       "gl": "before; in front of; previous",
+       "gl": "before",
        "pos": "postposition"
       },
       {
@@ -95,7 +158,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -103,22 +166,17 @@
        "py": "yàngzi",
        "gl": "appearance; look; shape",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "is still clear in my mind.",
-     "words": [
+      },
       {
        "h": "还",
        "py": "hái",
-       "gl": "also; still; in addition",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
        "h": "历历在目",
-       "py": "lìlìzàimù",
-       "gl": "vivid in one's mind (idiom)",
+       "py": "lìlì zài mù",
+       "gl": "vivid as if before one's eyes",
        "pos": "phrase"
       },
       {
@@ -129,25 +187,135 @@
    ]
   },
   {
-   "en": "Before I knew it, four years had gone by just like that.",
+   "en": "That day Dad brought me here too, carrying my quilt on his back and walking at the very back.",
    "phrases": [
     {
-     "en": "Before I knew it,",
+     "en": "That day Dad brought me here too, carrying my quilt on his back and walking at the very back.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "也是",
+       "py": "yěshì",
+       "gl": "also; too",
+       "pos": "conj."
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "送",
+       "py": "sòng",
+       "gl": "give (as a gift); see off; send",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "背",
+       "py": "bēi",
+       "gl": "carry on one's back",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "被子",
+       "py": "bèizi",
+       "gl": "quilt; comforter",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "走在",
+       "py": "zǒuzài",
+       "gl": "walk on; walk along",
+       "pos": "v."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "后面",
+       "py": "hòumiàn",
+       "gl": "behind; at the back",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Before I knew it, four years had gone by.",
+   "phrases": [
+    {
+     "en": "Before I knew it, four years had gone by.",
      "words": [
       {
        "h": "不知不觉",
-       "py": "bùzhībùjué",
+       "py": "bùzhī bùjué",
        "gl": "without noticing; before one knows it",
        "pos": "adv."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "four years had gone by just like that.",
-     "words": [
+      },
       {
        "h": "四",
        "py": "sì",
@@ -158,24 +326,18 @@
        "h": "年",
        "py": "nián",
        "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
+       "pos": "measure word"
       },
       {
-       "h": "就",
-       "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "h": "就这样",
+       "py": "jiùzhèyàng",
+       "gl": "just like that; in this way",
        "pos": "adv."
-      },
-      {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "like this; this way; such",
-       "pos": "pron."
       },
       {
        "h": "过去",
        "py": "guòqù",
-       "gl": "past; go over (跑过去 \"run over\")",
+       "gl": "past; the past",
        "pos": "n."
       },
       {
@@ -192,10 +354,10 @@
    ]
   },
   {
-   "en": "At the ceremony, the president gave a very encouraging speech.",
+   "en": "At the ceremony the university president gave a long, encouraging speech.",
    "phrases": [
     {
-     "en": "At the ceremony,",
+     "en": "At the ceremony the university president gave a long, encouraging speech.",
      "words": [
       {
        "h": "典礼",
@@ -205,28 +367,23 @@
       },
       {
        "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the president said many encouraging things.",
-     "words": [
+      },
       {
        "h": "校长",
        "py": "xiàozhǎng",
-       "gl": "principal; head of a school; university president",
+       "gl": "university president",
        "pos": "n."
       },
       {
        "h": "讲",
        "py": "jiǎng",
-       "gl": "tell; talk about",
+       "gl": "talk about; be about; tell",
        "pos": "v."
       },
       {
@@ -244,13 +401,13 @@
       {
        "h": "鼓励",
        "py": "gǔlì",
-       "gl": "encourage; encouragement",
+       "gl": "encourage",
        "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -267,15 +424,67 @@
    ]
   },
   {
-   "en": "When we took our graduation photos, we were all laughing and crying.",
+   "en": "Dad couldn't understand much of it, but he kept clapping.",
    "phrases": [
     {
-     "en": "When we took our graduation photos,",
+     "en": "Dad couldn't understand much of it, but he kept clapping.",
+     "words": [
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "听不太懂",
+       "py": "tīng bu tài dǒng",
+       "gl": "not really understand (by ear)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "拍手",
+       "py": "pāishǒu",
+       "gl": "clap",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When we took our graduation photos, we were all laughing and crying at once.",
+   "phrases": [
+    {
+     "en": "When we took our graduation photos, we were all laughing and crying at once.",
      "words": [
       {
        "h": "拍",
        "py": "pāi",
-       "gl": "take (a photo); pat; clap",
+       "gl": "take (a photo); shoot (a video); pat; clap",
        "pos": "v."
       },
       {
@@ -285,25 +494,14 @@
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "we were all crying and laughing.",
-     "words": [
+      },
       {
        "h": "我们",
        "py": "wǒmen",
@@ -319,7 +517,7 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
@@ -331,7 +529,7 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
@@ -348,10 +546,549 @@
    ]
   },
   {
-   "en": "Before I left, I took one more look at the campus I knew so well.",
+   "en": "After the photos, Dad pulled me over to the front of the library.",
    "phrases": [
     {
-     "en": "Before leaving school,",
+     "en": "After the photos, Dad pulled me over to the front of the library.",
+     "words": [
+      {
+       "h": "拍完",
+       "py": "pāiwán",
+       "gl": "finish shooting (photos, a film)",
+       "pos": "v."
+      },
+      {
+       "h": "照",
+       "py": "zhào",
+       "gl": "shine (a light); take a photo; reflect",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "拉",
+       "py": "lā",
+       "gl": "pull; stretch (out); lengthen; hold (someone's hand); play (a bowed string instrument)",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "走到",
+       "py": "zǒudào",
+       "gl": "walk to; reach; come to (the end)",
+       "pos": "v."
+      },
+      {
+       "h": "图书馆",
+       "py": "túshūguǎn",
+       "gl": "library",
+       "pos": "n."
+      },
+      {
+       "h": "前面",
+       "py": "qiánmiàn",
+       "gl": "in front; ahead",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He pointed at the white building and said, \"Twelve years ago, I built this.\"",
+   "phrases": [
+    {
+     "en": "He pointed at the white building and said, \"Twelve years ago, I built this.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "指",
+       "py": "zhǐ",
+       "gl": "refer to; mean; point at",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "function word"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "栋",
+       "py": "dòng",
+       "gl": "measure word for buildings",
+       "pos": "measure word"
+      },
+      {
+       "h": "白色",
+       "py": "báisè",
+       "gl": "white",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "function word"
+      },
+      {
+       "h": "楼",
+       "py": "lóu",
+       "gl": "building; floor (story)",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "十二",
+       "py": "shíèr",
+       "gl": "twelve",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "ago; before",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这栋楼",
+       "py": "zhèdònglóu",
+       "gl": "this building",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "盖",
+       "py": "gài",
+       "gl": "build (a house); cover",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "function word"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I'd never known Dad had worked here as a labourer.",
+   "phrases": [
+    {
+     "en": "I'd never known Dad had worked here as a labourer.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "从来",
+       "py": "cónglái",
+       "gl": "never (with negation); always",
+       "pos": "adv."
+      },
+      {
+       "h": "不知道",
+       "py": "bùzhīdào",
+       "gl": "not know; no one knows",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "这里",
+       "py": "zhèlǐ",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "当",
+       "py": "dāng",
+       "gl": "to work as",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "工人",
+       "py": "gōngrén",
+       "gl": "worker",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Back then I thought: how good it would be if my child could read books in there one day.\"",
+   "phrases": [
+    {
+     "en": "\"Back then I thought: how good it would be if my child could read books in there one day.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "那时候",
+       "py": "nàshíhòu",
+       "gl": "at that time; back then",
+       "pos": "n."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "孩子",
+       "py": "háizi",
+       "gl": "child",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "要是",
+       "py": "yàoshì",
+       "gl": "if",
+       "pos": "conj."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "里面",
+       "py": "lǐmiàn",
+       "gl": "inside",
+       "pos": "n."
+      },
+      {
+       "h": "看书",
+       "py": "kànshū",
+       "gl": "read (books)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "For four years I read lots of books in that building, but never once asked who built it.",
+   "phrases": [
+    {
+     "en": "For four years I read lots of books in that building, but never once asked who built it.",
+     "words": [
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "四",
+       "py": "sì",
+       "gl": "four",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "栋",
+       "py": "dòng",
+       "gl": "measure word for buildings",
+       "pos": "measure word"
+      },
+      {
+       "h": "楼",
+       "py": "lóu",
+       "gl": "building; floor (story)",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot; much",
+       "pos": "adj."
+      },
+      {
+       "h": "书",
+       "py": "shū",
+       "gl": "book",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "从来没有",
+       "py": "cóngláiméiyǒu",
+       "gl": "never (have)",
+       "pos": "adv."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "谁",
+       "py": "shuí",
+       "gl": "who; anyone; everyone",
+       "pos": "pron."
+      },
+      {
+       "h": "盖",
+       "py": "gài",
+       "gl": "build (a house); cover",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Before leaving, I took one more look at the familiar campus, and at Dad standing in front of the building.",
+   "phrases": [
+    {
+     "en": "Before leaving, I took one more look at the familiar campus, and at Dad standing in front of the building.",
      "words": [
       {
        "h": "离开",
@@ -373,12 +1110,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I took one more look at the familiar campus.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -388,7 +1120,7 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
@@ -404,33 +1136,66 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "眼",
-       "py": "yǎn",
-       "gl": "eye; (measure word: 看一眼 take a look)",
-       "pos": "n."
+       "h": "一眼",
+       "py": "yīyǎn",
+       "gl": "one glance; at a glance",
+       "pos": "measure word"
       },
       {
        "h": "熟悉",
        "py": "shúxī",
        "gl": "familiar; know well",
-       "pos": "v."
+       "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "校园",
        "py": "xiàoyuán",
        "gl": "campus",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "站在",
+       "py": "zhànzài",
+       "gl": "stand in; stand on; stand at",
+       "pos": "v."
+      },
+      {
+       "h": "楼",
+       "py": "lóu",
+       "gl": "building; floor (story)",
+       "pos": "n."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
        "pos": "n."
       },
       {

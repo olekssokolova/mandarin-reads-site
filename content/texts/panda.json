@@ -1,18 +1,42 @@
 {
  "id": "panda",
  "level": 3,
- "title_zh": "大熊猫",
- "title_en": "Giant Pandas",
+ "title_zh": "穿熊猫衣服的人",
+ "title_en": "The Person in the Panda Suit",
  "free": false,
  "audio_url": null,
- "note_en": "除了……(以外)，都…… means \"apart from ...\": 除了睡觉，它们一天大部分时间都在吃竹子 \"apart from sleeping, they spend most of the day eating bamboo.\" With 都 it means \"except\"; with 还 it means \"besides, also.\"",
+ "note_en": "除了…… can mean both \"except\" and \"besides.\" The second part decides: with 都 it's an exception (除了睡觉，一天大部分时间都在吃竹子 — \"apart from sleeping, they spend most of the day eating bamboo\"); with 还 it's an addition (除了科学家的数据以外，我还有自己的数据). The facts are real: a newborn panda weighs 100–200 grams, and keepers preparing pandas for release into the wild wear panda costumes.",
  "sentences": [
   {
-   "en": "The giant panda is China's national treasure.",
+   "en": "I'm a keeper at a giant panda base in Chengdu.",
    "phrases": [
     {
-     "en": "The giant panda is China's national treasure.",
+     "en": "I'm a keeper at a giant panda base in Chengdu.",
      "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "成都",
+       "py": "chéngdū",
+       "gl": "Chengdu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
       {
        "h": "大熊猫",
        "py": "dàxióngmāo",
@@ -20,27 +44,21 @@
        "pos": "n."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
+       "h": "基地",
+       "py": "jīdì",
+       "gl": "base; centre",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "国宝",
-       "py": "guóbǎo",
-       "gl": "national treasure",
+       "h": "饲养员",
+       "py": "sìyǎngyuán",
+       "gl": "keeper (of animals)",
        "pos": "n."
       },
       {
@@ -51,225 +69,17 @@
    ]
   },
   {
-   "en": "They mainly live in the mountains of Sichuan.",
+   "en": "Tourists all think my job is cute, but actually I spend most of every day cleaning and preparing bamboo.",
    "phrases": [
     {
-     "en": "They mainly live",
+     "en": "Tourists all think my job is cute, but actually I spend most of every day cleaning and preparing bamboo.",
      "words": [
       {
-       "h": "它们",
-       "py": "tāmen",
-       "gl": "they; them (for animals and things)",
-       "pos": "pron."
-      },
-      {
-       "h": "主要",
-       "py": "zhǔyào",
-       "gl": "main; mainly",
-       "pos": "adv."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life; live",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "in the mountains of Sichuan.",
-     "words": [
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "四川",
-       "py": "sìchuān",
-       "gl": "Sichuan (province)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "山",
-       "py": "shān",
-       "gl": "mountain",
+       "h": "游客们",
+       "py": "yóukèmen",
+       "gl": "tourists",
        "pos": "n."
       },
-      {
-       "h": "里",
-       "py": "li",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Their bodies are white, and their eyes and ears are black.",
-   "phrases": [
-    {
-     "en": "Their bodies are white,",
-     "words": [
-      {
-       "h": "它们",
-       "py": "tāmen",
-       "gl": "they; them (for animals and things)",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "身体",
-       "py": "shēntǐ",
-       "gl": "body; health",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "白色",
-       "py": "báisè",
-       "gl": "white",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and their eyes and ears are black.",
-     "words": [
-      {
-       "h": "眼睛",
-       "py": "yǎnjing",
-       "gl": "eye; eyes",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "耳朵",
-       "py": "ěrduǒ",
-       "gl": "ear",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "黑色",
-       "py": "hēisè",
-       "gl": "black (color)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Apart from sleeping, they spend most of the day eating bamboo.",
-   "phrases": [
-    {
-     "en": "Apart from sleeping,",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "睡觉",
-       "py": "shuìjiào",
-       "gl": "sleep; go to bed",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "for most of the day",
-     "words": [
-      {
-       "h": "它们",
-       "py": "tāmen",
-       "gl": "they; them (for animals and things)",
-       "pos": "pron."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "sky; day",
-       "pos": "n."
-      },
-      {
-       "h": "大部分",
-       "py": "dàbùfen",
-       "gl": "most; the greater part",
-       "pos": "n."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "they're eating bamboo.",
-     "words": [
       {
        "h": "都",
        "py": "dōu",
@@ -277,90 +87,27 @@
        "pos": "adv."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
        "pos": "v."
       },
       {
-       "h": "竹子",
-       "py": "zhúzi",
-       "gl": "bamboo",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Pandas are bears, but they look really cute.",
-   "phrases": [
-    {
-     "en": "Although pandas are bears,",
-     "words": [
-      {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
-      },
-      {
-       "h": "大熊猫",
-       "py": "dàxióngmāo",
-       "gl": "giant panda",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "熊",
-       "py": "xióng",
-       "gl": "bear",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "they look really cute.",
-     "words": [
-      {
-       "h": "但是",
-       "py": "dànshì",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "它们",
-       "py": "tāmen",
-       "gl": "they; them (for animals and things)",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "样子",
-       "py": "yàngzi",
-       "gl": "appearance; look; shape",
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
        "pos": "n."
       },
       {
@@ -376,6 +123,75 @@
        "pos": "adj."
       },
       {
+       "h": "，"
+      },
+      {
+       "h": "其实",
+       "py": "qíshí",
+       "gl": "actually; in fact",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "大部分",
+       "py": "dàbùfèn",
+       "gl": "most; the greater part",
+       "pos": "n."
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "打扫卫生",
+       "py": "dǎsǎo wèishēng",
+       "gl": "clean up",
+       "pos": "phrase"
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "准备",
+       "py": "zhǔnbèi",
+       "gl": "prepare; get ready",
+       "pos": "v."
+      },
+      {
+       "h": "竹子",
+       "py": "zhúzi",
+       "gl": "bamboo",
+       "pos": "n."
+      },
+      {
        "h": "。"
       }
      ]
@@ -383,21 +199,154 @@
    ]
   },
   {
-   "en": "When a baby panda is born, it's tiny.",
+   "en": "Apart from sleeping, giant pandas spend most of the day eating bamboo; they eat a lot, and they poo a lot too.",
    "phrases": [
     {
-     "en": "When a baby panda is born,",
+     "en": "Apart from sleeping, giant pandas spend most of the day eating bamboo; they eat a lot, and they poo a lot too.",
      "words": [
       {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
+       "h": "大熊猫",
+       "py": "dàxióngmāo",
+       "gl": "giant panda",
+       "pos": "n."
+      },
+      {
+       "h": "除了",
+       "py": "chúle",
+       "gl": "except; besides; apart from",
+       "pos": "prep."
+      },
+      {
+       "h": "睡觉",
+       "py": "shuìjiào",
+       "gl": "sleep; go to bed",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
+       "pos": "n."
+      },
+      {
+       "h": "大部分",
+       "py": "dàbùfèn",
+       "gl": "most; the greater part",
+       "pos": "n."
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "竹子",
+       "py": "zhúzi",
+       "gl": "bamboo",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "吃得",
+       "py": "chīdé",
+       "gl": "eat (so that ...; resultative)",
+       "pos": "v."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
        "pos": "adj."
       },
       {
-       "h": "熊猫",
-       "py": "xióngmāo",
-       "gl": "panda",
+       "h": "，"
+      },
+      {
+       "h": "拉",
+       "py": "lā",
+       "gl": "poo",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Three years ago a panda cub was born weighing just over a hundred grams — lighter than an apple.",
+   "phrases": [
+    {
+     "en": "Three years ago a panda cub was born weighing just over a hundred grams — lighter than an apple.",
+     "words": [
+      {
+       "h": "三年",
+       "py": "sānnián",
+       "gl": "three years",
+       "pos": "num."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "ago; before",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一只",
+       "py": "yīzhī",
+       "gl": "one (animal; one of a pair)",
+       "pos": "num."
+      },
+      {
+       "h": "熊猫宝宝",
+       "py": "xióngmāo bǎobao",
+       "gl": "panda cub",
        "pos": "n."
       },
       {
@@ -407,25 +356,14 @@
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it's tiny.",
-     "words": [
+      },
       {
        "h": "只有",
        "py": "zhǐyǒu",
@@ -433,15 +371,48 @@
        "pos": "adv."
       },
       {
-       "h": "一点点",
-       "py": "yìdiǎndiǎn",
-       "gl": "a tiny bit; tiny",
+       "h": "一百多",
+       "py": "yìbǎiduō",
+       "gl": "over a hundred",
+       "pos": "num."
+      },
+      {
+       "h": "克",
+       "py": "kè",
+       "gl": "gram",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "苹果",
+       "py": "píngguǒ",
+       "gl": "apple",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
+       "h": "轻",
+       "py": "qīng",
+       "gl": "light (in weight); gentle; soft",
        "pos": "adj."
       },
       {
@@ -452,55 +423,447 @@
    ]
   },
   {
-   "en": "Now people are working hard to protect them, and there are more and more pandas.",
+   "en": "I looked after it, fed it, and watched it grow day by day.",
    "phrases": [
     {
-     "en": "Now people are working hard to protect them,",
+     "en": "I looked after it, fed it, and watched it grow day by day.",
      "words": [
       {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
-       "h": "人们",
-       "py": "rénmen",
-       "gl": "people",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "努力",
-       "py": "nǔlì",
-       "gl": "work hard; hard; diligently",
-       "pos": "adv."
-      },
-      {
-       "h": "保护",
-       "py": "bǎohù",
-       "gl": "protect",
+       "h": "照顾",
+       "py": "zhàogù",
+       "gl": "take care of; look after",
        "pos": "v."
       },
       {
-       "h": "它们",
-       "py": "tāmen",
-       "gl": "they; them (for animals and things)",
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
        "pos": "pron."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "喂",
+       "py": "wèi",
+       "gl": "feed",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
+       "pos": "n."
+      },
+      {
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
+       "pos": "n."
+      },
+      {
+       "h": "长大",
+       "py": "zhǎngdà",
+       "gl": "grow up",
+       "pos": "v."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "Last year, the base decided to return it to the wild.",
+   "phrases": [
     {
-     "en": "and the number of pandas keeps growing.",
+     "en": "Last year, the base decided to return it to the wild.",
      "words": [
+      {
+       "h": "去年",
+       "py": "qùnián",
+       "gl": "last year",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "基地",
+       "py": "jīdì",
+       "gl": "base; centre",
+       "pos": "n."
+      },
+      {
+       "h": "决定",
+       "py": "juédìng",
+       "gl": "decide; decision",
+       "pos": "v."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "送回",
+       "py": "sònghuí",
+       "gl": "send back; return",
+       "pos": "v."
+      },
+      {
+       "h": "大自然",
+       "py": "dàzìrán",
+       "gl": "nature",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "So that it wouldn't depend on people, every time we saw it we had to put on panda suits, and even smell like pandas.",
+   "phrases": [
+    {
+     "en": "So that it wouldn't depend on people, every time we saw it we had to put on panda suits, and even smell like pandas.",
+     "words": [
+      {
+       "h": "为了",
+       "py": "wèile",
+       "gl": "in order to; for",
+       "pos": "prep."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "依赖",
+       "py": "yīlài",
+       "gl": "depend on",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "adv."
+      },
+      {
+       "h": "见",
+       "py": "jiàn",
+       "gl": "see; meet",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "穿上",
+       "py": "chuānshàng",
+       "gl": "put on",
+       "pos": "v."
+      },
+      {
+       "h": "熊猫",
+       "py": "xióngmāo",
+       "gl": "panda",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "衣服",
+       "py": "yīfu",
+       "gl": "clothes",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "身上",
+       "py": "shēnshàng",
+       "gl": "on the body; on oneself",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "熊猫",
+       "py": "xióngmāo",
+       "gl": "panda",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "味道",
+       "py": "wèidào",
+       "gl": "taste; flavor",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I wasn't allowed to call its name, hold it, or talk to it.",
+   "phrases": [
+    {
+     "en": "I wasn't allowed to call its name, hold it, or talk to it.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called; call",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "名字",
+       "py": "míngzì",
+       "gl": "name",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
+      },
+      {
+       "h": "抱",
+       "py": "bào",
+       "gl": "hug; hold in one's arms",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It didn't know that the \"giant panda\" was me.",
+   "phrases": [
+    {
+     "en": "It didn't know that the \"giant panda\" was me.",
+     "words": [
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "不知道",
+       "py": "bùzhīdào",
+       "gl": "not know; no one knows",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "只",
+       "py": "zhī",
+       "gl": "(measure word for animals, one of a pair)",
+       "pos": "measure word"
+      },
+      {
+       "h": "“"
+      },
       {
        "h": "大熊猫",
        "py": "dàxióngmāo",
@@ -508,28 +871,244 @@
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "”"
       },
       {
-       "h": "数量",
-       "py": "shùliàng",
-       "gl": "quantity; number",
-       "pos": "n."
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "just; simply; exactly",
        "pos": "adv."
       },
       {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the day it was released into the mountains, it walked very slowly and looked back once.",
+   "phrases": [
+    {
+     "en": "On the day it was released into the mountains, it walked very slowly and looked back once.",
+     "words": [
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "return; go back",
+       "pos": "v."
+      },
+      {
+       "h": "山里",
+       "py": "shānlǐ",
+       "gl": "in the mountains; into the mountains",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
        "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "回头",
+       "py": "huítóu",
+       "gl": "look back; turn one's head",
+       "pos": "v."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一次",
+       "py": "yīcì",
+       "gl": "once; in one go; at the first attempt",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I stood there in my panda suit, not moving a muscle.",
+   "phrases": [
+    {
+     "en": "I stood there in my panda suit, not moving a muscle.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "穿",
+       "py": "chuān",
+       "gl": "put on; wear",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "熊猫",
+       "py": "xióngmāo",
+       "gl": "panda",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "衣服",
+       "py": "yīfu",
+       "gl": "clothes",
+       "pos": "n."
+      },
+      {
+       "h": "站在",
+       "py": "zhànzài",
+       "gl": "stand in; stand on; stand at",
+       "pos": "v."
+      },
+      {
+       "h": "那里",
+       "py": "nàlǐ",
+       "gl": "there",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一动也不动",
+       "py": "yí dòng yě bú dòng",
+       "gl": "not moving a muscle",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now there are more and more giant pandas in the wild.",
+   "phrases": [
+    {
+     "en": "Now there are more and more giant pandas in the wild.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "野外",
+       "py": "yěwài",
+       "gl": "the wild; outdoors",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "大熊猫",
+       "py": "dàxióngmāo",
+       "gl": "giant panda",
+       "pos": "n."
+      },
+      {
+       "h": "越来越多",
+       "py": "yuèláiyuèduō",
+       "gl": "more and more",
+       "pos": "phrase"
       },
       {
        "h": "了",
@@ -545,71 +1124,44 @@
    ]
   },
   {
-   "en": "Lots of foreign tourists go to Chengdu to see the pandas.",
+   "en": "Besides the scientists' figures, I have figures of my own: one of them I raised.",
    "phrases": [
     {
-     "en": "Lots of foreign tourists",
+     "en": "Besides the scientists' figures, I have figures of my own: one of them I raised.",
      "words": [
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
+       "h": "除了",
+       "py": "chúle",
+       "gl": "except; besides; apart from",
+       "pos": "prep."
       },
       {
-       "h": "外国",
-       "py": "wàiguó",
-       "gl": "foreign country; foreign",
+       "h": "科学家",
+       "py": "kēxuéjiā",
+       "gl": "scientist",
        "pos": "n."
       },
       {
-       "h": "游客",
-       "py": "yóukè",
-       "gl": "tourist; visitor",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "go to Chengdu to see the pandas.",
-     "words": [
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
-       "pos": "v."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "成都",
-       "py": "chéngdū",
-       "gl": "Chengdu",
-       "pos": "proper noun"
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
-       "pos": "v."
-      },
-      {
-       "h": "大熊猫",
-       "py": "dàxióngmāo",
-       "gl": "giant panda",
+       "h": "数据",
+       "py": "shùjù",
+       "gl": "data",
        "pos": "n."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I want to go see them eating bamboo too.",
-   "phrases": [
-    {
-     "en": "I want to go see",
-     "words": [
+       "h": "以外",
+       "py": "yǐwài",
+       "gl": "besides; apart from (除了…以外)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -617,63 +1169,70 @@
        "pos": "pron."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like; think; miss",
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
        "pos": "v."
       },
       {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
-       "pos": "v."
-      },
-      {
-       "h": "看看",
-       "py": "kànkan",
-       "gl": "have a look; take a look",
-       "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "what they look like eating bamboo.",
-     "words": [
-      {
-       "h": "它们",
-       "py": "tāmen",
-       "gl": "they; them (for animals and things)",
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
        "pos": "pron."
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
-      },
-      {
-       "h": "竹子",
-       "py": "zhúzi",
-       "gl": "bamboo",
-       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "样子",
-       "py": "yàngzi",
-       "gl": "appearance; look; shape",
+       "h": "数据",
+       "py": "shùjù",
+       "gl": "data",
        "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "其中",
+       "py": "qízhōng",
+       "gl": "among them; of which; in it",
+       "pos": "pron."
+      },
+      {
+       "h": "一只",
+       "py": "yīzhī",
+       "gl": "one (animal; one of a pair)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "养大",
+       "py": "yǎngdà",
+       "gl": "raise; bring up",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "。"

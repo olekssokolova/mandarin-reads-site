@@ -1,17 +1,17 @@
 {
  "id": "nightmarket",
  "level": 3,
- "title_zh": "逛夜市",
- "title_en": "At the Night Market",
+ "title_zh": "夜市里的发夹",
+ "title_en": "Hair Clips at the Night Market",
  "free": false,
  "audio_url": null,
- "note_en": "一会儿……一会儿…… (yíhuìr... yíhuìr...) describes switching back and forth between activities: 一会儿吃烧烤，一会儿喝奶茶 \"first some barbecue, then some milk tea, back and forth.\" English says \"one minute... the next...\"; Chinese just repeats 一会儿 before each verb.",
+ "note_en": "The expression 五花八门 (\"five flowers, eight gates\") vividly describes huge variety and often appears in descriptions of markets and shops: 夜市里的小吃五花八门，什么都有 — \"the night market has every kind of snack you can think of.\"",
  "sentences": [
   {
-   "en": "On summer evenings, our favorite thing is going to the night market.",
+   "en": "On summer evenings, our favourite thing is wandering round the night market.",
    "phrases": [
     {
-     "en": "On summer evenings,",
+     "en": "On summer evenings, our favourite thing is wandering round the night market.",
      "words": [
       {
        "h": "夏天",
@@ -22,23 +22,18 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "晚上",
-       "py": "wǎnshang",
+       "py": "wǎnshàng",
        "gl": "evening",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "our favorite thing is going to the night market.",
-     "words": [
+      },
       {
        "h": "我们",
        "py": "wǒmen",
@@ -53,20 +48,20 @@
       },
       {
        "h": "喜欢",
-       "py": "xǐhuan",
+       "py": "xǐhuān",
        "gl": "like; love",
        "pos": "v."
       },
       {
        "h": "去",
        "py": "qù",
-       "gl": "go",
+       "gl": "go (to)",
        "pos": "v."
       },
       {
        "h": "逛",
        "py": "guàng",
-       "gl": "stroll; browse (shops)",
+       "gl": "stroll around",
        "pos": "v."
       },
       {
@@ -83,10 +78,10 @@
    ]
   },
   {
-   "en": "There's every kind of snack you can imagine at the night market.",
+   "en": "The night market has every kind of snack you can think of.",
    "phrases": [
     {
-     "en": "The snacks at the night market",
+     "en": "The night market has every kind of snack you can think of.",
      "words": [
       {
        "h": "夜市",
@@ -96,14 +91,14 @@
       },
       {
        "h": "里",
-       "py": "li",
+       "py": "lǐ",
        "gl": "in; inside",
        "pos": "postposition"
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -111,31 +106,21 @@
        "py": "xiǎochī",
        "gl": "snack; street food",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "come in every variety,",
-     "words": [
+      },
       {
        "h": "五花八门",
-       "py": "wǔhuābāmén",
-       "gl": "all kinds of; varied (idiom)",
+       "py": "wǔ huā bā mén",
+       "gl": "all kinds of",
        "pos": "phrase"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "there's everything.",
-     "words": [
+      },
       {
        "h": "什么",
        "py": "shénme",
        "gl": "what",
-       "pos": "question word"
+       "pos": "pron."
       },
       {
        "h": "都",
@@ -146,7 +131,7 @@
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
@@ -157,10 +142,10 @@
    ]
   },
   {
-   "en": "We eat as we walk: one minute barbecue skewers, the next milk tea.",
+   "en": "We eat as we walk: barbecue one minute, milk tea the next.",
    "phrases": [
     {
-     "en": "We eat as we walk:",
+     "en": "We eat as we walk: barbecue one minute, milk tea the next.",
      "words": [
       {
        "h": "我们",
@@ -169,34 +154,22 @@
        "pos": "pron."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "边",
-       "py": "biān",
-       "gl": "side; edge (河边 \"riverside\")",
-       "pos": "n."
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
       },
       {
        "h": "走",
        "py": "zǒu",
-       "gl": "walk; go; leave",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "边",
-       "py": "biān",
-       "gl": "side; edge (河边 \"riverside\")",
-       "pos": "n."
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
       },
       {
        "h": "吃",
@@ -206,23 +179,12 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "one minute barbecue skewers,",
-     "words": [
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
       },
       {
-       "h": "会儿",
-       "py": "huìr",
-       "gl": "a moment; a while",
-       "pos": "n."
+       "h": "一会儿",
+       "py": "yíhuìr",
+       "gl": "a while; a moment",
+       "pos": "adv."
       },
       {
        "h": "吃",
@@ -238,23 +200,12 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the next milk tea.",
-     "words": [
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
       },
       {
-       "h": "会儿",
-       "py": "huìr",
-       "gl": "a moment; a while",
-       "pos": "n."
+       "h": "一会儿",
+       "py": "yíhuìr",
+       "gl": "a while; a moment",
+       "pos": "adv."
       },
       {
        "h": "喝",
@@ -276,22 +227,16 @@
    ]
   },
   {
-   "en": "There are also stalls selling clothes, toys, and little trinkets.",
+   "en": "There are also stalls selling clothes, toys and little trinkets.",
    "phrases": [
     {
-     "en": "There are also stalls selling clothes,",
+     "en": "There are also stalls selling clothes, toys and little trinkets.",
      "words": [
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; still; in addition",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
+       "pos": "conj."
       },
       {
        "h": "卖",
@@ -307,12 +252,7 @@
       },
       {
        "h": "、"
-      }
-     ]
-    },
-    {
-     "en": "toys, and little trinkets.",
-     "words": [
+      },
       {
        "h": "玩具",
        "py": "wánjù",
@@ -322,7 +262,7 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
@@ -334,19 +274,19 @@
       {
        "h": "饰品",
        "py": "shìpǐn",
-       "gl": "accessory; ornament; jewelry",
+       "gl": "accessories; trinkets",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "摊位",
        "py": "tānwèi",
-       "gl": "stall; booth",
+       "gl": "stall",
        "pos": "n."
       },
       {
@@ -360,51 +300,40 @@
    "en": "When it's crowded, you have to be careful not to get separated.",
    "phrases": [
     {
-     "en": "When it's crowded,",
+     "en": "When it's crowded, you have to be careful not to get separated.",
      "words": [
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
+       "h": "人多",
+       "py": "rénduō",
+       "gl": "crowded; many people",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "时候",
-       "py": "shíhou",
+       "py": "shíhòu",
        "gl": "time; moment (when ...)",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "you have to be careful not to get separated.",
-     "words": [
+      },
       {
        "h": "要",
        "py": "yào",
-       "gl": "want; order; be going to; need",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
        "h": "小心",
        "py": "xiǎoxīn",
-       "gl": "careful; be careful",
-       "pos": "adj."
+       "gl": "careful; be careful (不小心 'carelessly; by accident')",
+       "pos": "adv."
       },
       {
        "h": "别",
@@ -415,7 +344,7 @@
       {
        "h": "走散",
        "py": "zǒusàn",
-       "gl": "get separated; get lost (in a crowd)",
+       "gl": "get separated",
        "pos": "v."
       },
       {
@@ -432,15 +361,667 @@
    ]
   },
   {
-   "en": "When we head home from the night market, we're stuffed, but we're in a great mood.",
+   "en": "That evening my friend Xiao Tang did get separated, and I couldn't get through on the phone.",
    "phrases": [
     {
-     "en": "Heading home from the night market,",
+     "en": "That evening my friend Xiao Tang did get separated, and I couldn't get through on the phone.",
      "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "朋友",
+       "py": "péngyou",
+       "gl": "friend",
+       "pos": "n."
+      },
+      {
+       "h": "小棠",
+       "py": "Xiǎo Táng",
+       "gl": "Xiao Tang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "走散",
+       "py": "zǒusàn",
+       "gl": "get separated",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "电话",
+       "py": "diànhuà",
+       "gl": "phone; phone call",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "打不通",
+       "py": "dǎ bu tōng",
+       "gl": "can't get through (on the phone)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I searched for half an hour and finally found her in front of a little stall selling hair clips.",
+   "phrases": [
+    {
+     "en": "I searched for half an hour and finally found her in front of a little stall selling hair clips.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "找",
+       "py": "zhǎo",
+       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "半个小时",
+       "py": "bàngèxiǎoshí",
+       "gl": "half an hour",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
+       "pos": "v."
+      },
+      {
+       "h": "发夹",
+       "py": "fàjiā",
+       "gl": "hair clip",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "摊位",
+       "py": "tānwèi",
+       "gl": "stall",
+       "pos": "n."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "找到",
+       "py": "zhǎodào",
+       "gl": "find",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She was chatting with the old lady running it and already had three clips in her hair.",
+   "phrases": [
+    {
+     "en": "She was chatting with the old lady running it and already had three clips in her hair.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "正",
+       "py": "zhèng",
+       "gl": "precisely; just",
+       "pos": "adv."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
+       "pos": "v."
+      },
+      {
+       "h": "东西",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "老奶奶",
+       "py": "lǎonǎinǎi",
+       "gl": "granny; old woman",
+       "pos": "n."
+      },
+      {
+       "h": "聊天",
+       "py": "liáotiān",
+       "gl": "chat; talk",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "头上",
+       "py": "tóushàng",
+       "gl": "on one's head",
+       "pos": "n."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "戴",
+       "py": "dài",
+       "gl": "wear (glasses, a watch, a hat, headphones)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "三个",
+       "py": "sāngè",
+       "gl": "three (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "发夹",
+       "py": "fàjiā",
+       "gl": "hair clip",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Tang said, \"Granny makes all of these herself, only five yuan each.\"",
+   "phrases": [
+    {
+     "en": "Xiao Tang said, \"Granny makes all of these herself, only five yuan each.\"",
+     "words": [
+      {
+       "h": "小棠",
+       "py": "Xiǎo Táng",
+       "gl": "Xiao Tang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "这些",
+       "py": "zhèxiē",
+       "gl": "these",
+       "pos": "pron."
+      },
+      {
+       "h": "都是",
+       "py": "dōushì",
+       "gl": "all are; are all",
+       "pos": "v."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "只要",
+       "py": "zhǐyào",
+       "gl": "as long as; if only",
+       "pos": "conj."
+      },
+      {
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
+       "pos": "num."
+      },
+      {
+       "h": "块",
+       "py": "kuài",
+       "gl": "yuan; kuai (colloquial for money)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I looked at the old lady and froze.",
+   "phrases": [
+    {
+     "en": "I looked at the old lady and froze.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "看了看",
+       "py": "kànlekàn",
+       "gl": "took a look",
+       "pos": "v."
+      },
+      {
+       "h": "那位",
+       "py": "nàwèi",
+       "gl": "that (person, polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "老奶奶",
+       "py": "lǎonǎinǎi",
+       "gl": "granny; old woman",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "愣住",
+       "py": "lèngzhù",
+       "gl": "be stunned; freeze",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It was my grandma — she'd told me she went for a walk in the park every evening.",
+   "phrases": [
+    {
+     "en": "It was my grandma — she'd told me she went for a walk in the park every evening.",
+     "words": [
+      {
+       "h": "那是",
+       "py": "nàshì",
+       "gl": "of course; sure (that's right)",
+       "pos": "phrase"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "每天晚上",
+       "py": "měitiānwǎnshàng",
+       "gl": "every evening; every night",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "公园",
+       "py": "gōngyuán",
+       "gl": "park",
+       "pos": "n."
+      },
+      {
+       "h": "散步",
+       "py": "sànbù",
+       "gl": "take a walk; go for a walk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Grandma smiled, embarrassed: \"It's too quiet at home. There are lots of people here, it's lively.\"",
+   "phrases": [
+    {
+     "en": "Grandma smiled, embarrassed: \"It's too quiet at home. There are lots of people here, it's lively.\"",
+     "words": [
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "不好意思",
+       "py": "bùhǎoyìsī",
+       "gl": "feel embarrassed; be too shy to; sorry; excuse me",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "在家",
+       "py": "zàijiā",
+       "gl": "at home",
+       "pos": "adv."
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "安静",
+       "py": "ānjìng",
+       "gl": "quiet; calm",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这里",
+       "py": "zhèlǐ",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "人多",
+       "py": "rénduō",
+       "gl": "crowded; many people",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "热闹",
+       "py": "rènào",
+       "gl": "bustle; excitement; hype",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening we went home from the night market stuffed full, but in a wonderful mood; Xiao Tang and I both had Grandma's hair clips in our hair.",
+   "phrases": [
+    {
+     "en": "That evening we went home from the night market stuffed full, but in a wonderful mood; Xiao Tang and I both had Grandma's hair clips in our hair.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "逛",
        "py": "guàng",
-       "gl": "stroll; browse (shops)",
+       "gl": "stroll around",
        "pos": "v."
       },
       {
@@ -463,12 +1044,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "although we're stuffed,",
-     "words": [
+      },
       {
        "h": "虽然",
        "py": "suīrán",
@@ -484,17 +1060,12 @@
       {
        "h": "撑",
        "py": "chēng",
-       "gl": "full (after eating); hold up; support",
-       "pos": "v."
+       "gl": "stuffed (full)",
+       "pos": "adj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "we're in a great mood.",
-     "words": [
+      },
       {
        "h": "但是",
        "py": "dànshì",
@@ -510,14 +1081,92 @@
       {
        "h": "特别",
        "py": "tèbié",
-       "gl": "especially; particularly; special",
+       "gl": "especially; particularly",
        "pos": "adv."
       },
       {
        "h": "好",
        "py": "hǎo",
-       "gl": "good; well",
+       "gl": "good",
        "pos": "adj."
+      },
+      {
+       "h": "；"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "小棠",
+       "py": "Xiǎo Táng",
+       "gl": "Xiao Tang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "头上",
+       "py": "tóushàng",
+       "gl": "on one's head",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "戴",
+       "py": "dài",
+       "gl": "wear (glasses, a watch, a hat, headphones)",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "发夹",
+       "py": "fàjiā",
+       "gl": "hair clip",
+       "pos": "n."
       },
       {
        "h": "。"

@@ -1,17 +1,17 @@
 {
  "id": "parttimescam3",
  "level": 3,
- "title_zh": "兼职陷阱",
- "title_en": "Part-Time Job Scams",
+ "title_zh": "押金",
+ "title_en": "The Deposit",
  "free": false,
  "audio_url": null,
- "note_en": "不但……还…… (búdàn... hái...) means \"not only... but also...\": 不但赚不到钱，还会得不偿失 \"not only will you not make any money, you'll end up losing more than you gain.\" Here it stacks one bad result on another. 一旦 at the start of the clause means \"once\" or \"if ever.\"",
+ "note_en": "The chengyu 得不偿失 (\"the gain doesn't make up for the loss\") describes a losing deal: 一旦上当，不但赚不到钱，还会得不偿失 — \"once you fall for it, not only will you earn nothing, you'll lose more than you gain.\"",
  "sentences": [
   {
-   "en": "During the school break, my classmate Xiao Li wanted to find a part-time job to make some money.",
+   "en": "During the holidays my classmate Xiao Song wanted a part-time job to earn some money.",
    "phrases": [
     {
-     "en": "During the school break, my classmate Xiao Li wanted to find a part-time job",
+     "en": "During the holidays my classmate Xiao Song wanted a part-time job to earn some money.",
      "words": [
       {
        "h": "放假",
@@ -20,16 +20,10 @@
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
       },
       {
        "h": "，"
@@ -43,7 +37,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -53,34 +47,28 @@
        "pos": "n."
       },
       {
-       "h": "小李",
-       "py": "xiǎolǐ",
-       "gl": "Xiao Li (name)",
+       "h": "小宋",
+       "py": "Xiǎo Sòng",
+       "gl": "Xiao Song",
        "pos": "proper noun"
       },
       {
        "h": "想",
        "py": "xiǎng",
-       "gl": "want; would like; think; miss",
+       "gl": "want; would like",
        "pos": "v."
       },
       {
        "h": "找",
        "py": "zhǎo",
-       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
+       "gl": "come to (someone)",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一份",
+       "py": "yīfèn",
+       "gl": "one (copy, portion, share)",
        "pos": "num."
-      },
-      {
-       "h": "份",
-       "py": "fèn",
-       "gl": "measure word for portions, copies, documents, jobs (and feelings)",
-       "pos": "measure word"
       },
       {
        "h": "兼职",
@@ -90,12 +78,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to make some money.",
-     "words": [
+      },
       {
        "h": "赚",
        "py": "zhuàn",
@@ -106,7 +89,7 @@
        "h": "点",
        "py": "diǎn",
        "gl": "a little; some (一点)",
-       "pos": "num."
+       "pos": "measure word"
       },
       {
        "h": "钱",
@@ -122,10 +105,128 @@
    ]
   },
   {
-   "en": "He saw an ad online: the pay was unrealistically high, and it asked him to pay a deposit first.",
+   "en": "He wanted to buy his mum a new phone; she had been using her old one for six years.",
    "phrases": [
     {
-     "en": "He saw an ad online: the pay was unrealistically high,",
+     "en": "He wanted to buy his mum a new phone; she had been using her old one for six years.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adj."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "旧",
+       "py": "jiù",
+       "gl": "old (not new); worn",
+       "pos": "adj."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "六",
+       "py": "liù",
+       "gl": "six",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He saw an advert online: the pay was unrealistically high, and it required a deposit up front.",
+   "phrases": [
+    {
+     "en": "He saw an advert online: the pay was unrealistically high, and it required a deposit up front.",
      "words": [
       {
        "h": "他",
@@ -136,7 +237,7 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -152,21 +253,15 @@
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "广告",
        "py": "guǎnggào",
-       "gl": "advertisement; ad",
+       "gl": "advert",
        "pos": "n."
       },
       {
@@ -198,12 +293,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and it asked him to pay a deposit first.",
-     "words": [
+      },
       {
        "h": "还",
        "py": "hái",
@@ -225,7 +315,7 @@
       {
        "h": "交",
        "py": "jiāo",
-       "gl": "pay (fees, bills)",
+       "gl": "to pay (a deposit)",
        "pos": "v."
       },
       {
@@ -242,10 +332,80 @@
    ]
   },
   {
-   "en": "I warned him: \"This is very likely a scam. Once you fall for it, not only will you not make any money, you'll end up losing more than you gain.\"",
+   "en": "The deposit was five hundred yuan — exactly all the money he had.",
    "phrases": [
     {
-     "en": "I warned him:",
+     "en": "The deposit was five hundred yuan — exactly all the money he had.",
+     "words": [
+      {
+       "h": "押金",
+       "py": "yājīn",
+       "gl": "deposit",
+       "pos": "n."
+      },
+      {
+       "h": "五百",
+       "py": "wǔbǎi",
+       "gl": "five hundred",
+       "pos": "num."
+      },
+      {
+       "h": "块",
+       "py": "kuài",
+       "gl": "yuan; kuai (colloquial for money)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "正好",
+       "py": "zhènghǎo",
+       "gl": "just right; happen to; exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "所有",
+       "py": "suǒyǒu",
+       "gl": "all; every",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "钱",
+       "py": "qián",
+       "gl": "money",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I warned him, \"This is very likely a scam. Once you fall for it, not only will you earn nothing, you'll lose more than you gain.\"",
+   "phrases": [
+    {
+     "en": "I warned him, \"This is very likely a scam. Once you fall for it, not only will you earn nothing, you'll lose more than you gain.\"",
      "words": [
       {
        "h": "我",
@@ -267,31 +427,20 @@
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"This is very likely a scam.",
-     "words": [
+      },
       {
        "h": "“"
       },
       {
        "h": "这",
        "py": "zhè",
-       "gl": "this",
+       "gl": "this; these",
        "pos": "pron."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "可能",
-       "py": "kěnéng",
-       "gl": "possible; maybe",
+       "h": "很可能",
+       "py": "hěnkěnéng",
+       "gl": "very likely; probably",
        "pos": "adv."
       },
       {
@@ -303,17 +452,12 @@
       {
        "h": "骗局",
        "py": "piànjú",
-       "gl": "scam; fraud",
+       "gl": "scam",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Once you fall for it, not only will you not make any money, you'll end up losing more than you gain.\"",
-     "words": [
+      },
       {
        "h": "一旦",
        "py": "yídàn",
@@ -323,7 +467,7 @@
       {
        "h": "上当",
        "py": "shàngdàng",
-       "gl": "be fooled; be taken in; fall for a trick",
+       "gl": "be taken in; fall for it",
        "pos": "v."
       },
       {
@@ -359,13 +503,13 @@
       {
        "h": "会",
        "py": "huì",
-       "gl": "will; would (expresses likelihood)",
-       "pos": "function word"
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
       },
       {
        "h": "得不偿失",
-       "py": "débùchángshī",
-       "gl": "the loss outweighs the gain; not worth it (idiom)",
+       "py": "dé bù cháng shī",
+       "gl": "the loss outweighs the gain",
        "pos": "phrase"
       },
       {
@@ -379,21 +523,97 @@
    ]
   },
   {
-   "en": "Xiao Li thought it over and decided to look through official channels instead.",
+   "en": "He said, \"But what if it's real?\"",
    "phrases": [
     {
-     "en": "Xiao Li thought it over and decided",
+     "en": "He said, \"But what if it's real?\"",
      "words": [
       {
-       "h": "小李",
-       "py": "xiǎolǐ",
-       "gl": "Xiao Li (name)",
-       "pos": "proper noun"
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like; think; miss",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "万一",
+       "py": "wànyī",
+       "gl": "in case; if by chance",
+       "pos": "conj."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "真的",
+       "py": "zhēnde",
+       "gl": "really; truly",
+       "pos": "adv."
+      },
+      {
+       "h": "呢",
+       "py": "ne",
+       "gl": "particle: action in progress; softens a statement; question particle",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "We argued about it in the dorm all evening.",
+   "phrases": [
+    {
+     "en": "We argued about it in the dorm all evening.",
+     "words": [
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "宿舍",
+       "py": "sùshè",
+       "gl": "dormitory; dorm",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "争",
+       "py": "zhēng",
+       "gl": "compete for; fight for; argue",
        "pos": "v."
       },
       {
@@ -403,10 +623,50 @@
        "pos": "particle"
       },
       {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "think",
-       "pos": "v."
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the end Xiao Song thought it over and decided to look through official channels after all.",
+   "phrases": [
+    {
+     "en": "In the end Xiao Song thought it over and decided to look through official channels after all.",
+     "words": [
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "小宋",
+       "py": "Xiǎo Sòng",
+       "gl": "Xiao Song",
+       "pos": "proper noun"
+      },
+      {
+       "h": "想了想",
+       "py": "xiǎnglexiǎng",
+       "gl": "thought for a moment",
+       "pos": "phrase"
       },
       {
        "h": "，"
@@ -416,12 +676,7 @@
        "py": "juédìng",
        "gl": "decide; decision",
        "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "to look through official channels instead.",
-     "words": [
+      },
       {
        "h": "还是",
        "py": "háishì",
@@ -435,22 +690,16 @@
        "pos": "prep."
       },
       {
-       "h": "正规",
-       "py": "zhèngguī",
-       "gl": "official; legitimate",
-       "pos": "adj."
-      },
-      {
-       "h": "渠道",
-       "py": "qúdào",
-       "gl": "channel; means",
+       "h": "正规渠道",
+       "py": "zhèngguī qúdào",
+       "gl": "official channels",
        "pos": "n."
       },
       {
        "h": "去",
        "py": "qù",
-       "gl": "(before a verb) to; in order",
-       "pos": "function word"
+       "gl": "go (to)",
+       "pos": "v."
       },
       {
        "h": "找",
@@ -466,10 +715,389 @@
    ]
   },
   {
-   "en": "When you're looking for a part-time job, you really need to keep your eyes open.",
+   "en": "He found a job at the bookshop next to the university; the pay wasn't high, and he had to carry books every day.",
    "phrases": [
     {
-     "en": "When you're looking for a part-time job,",
+     "en": "He found a job at the bookshop next to the university; the pay wasn't high, and he had to carry books every day.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "学校",
+       "py": "xuéxiào",
+       "gl": "school",
+       "pos": "n."
+      },
+      {
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "书店",
+       "py": "shūdiàn",
+       "gl": "bookstore",
+       "pos": "n."
+      },
+      {
+       "h": "找到",
+       "py": "zhǎodào",
+       "gl": "find",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一份",
+       "py": "yīfèn",
+       "gl": "one (copy, portion, share)",
+       "pos": "num."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "工资",
+       "py": "gōngzī",
+       "gl": "salary; wages",
+       "pos": "n."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "高",
+       "py": "gāo",
+       "gl": "tall; high",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "搬",
+       "py": "bān",
+       "gl": "move (house); carry",
+       "pos": "v."
+      },
+      {
+       "h": "书",
+       "py": "shū",
+       "gl": "book",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A month later the news reported that the advert had cheated more than thirty students.",
+   "phrases": [
+    {
+     "en": "A month later the news reported that the advert had cheated more than thirty students.",
+     "words": [
+      {
+       "h": "一个月",
+       "py": "yígèyuè",
+       "gl": "one month",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "新闻",
+       "py": "xīnwén",
+       "gl": "news",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "广告",
+       "py": "guǎnggào",
+       "gl": "advert",
+       "pos": "n."
+      },
+      {
+       "h": "骗",
+       "py": "piàn",
+       "gl": "deceive; cheat; scam",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "三十多",
+       "py": "sānshíduō",
+       "gl": "thirty-odd; more than thirty",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "学生",
+       "py": "xuéshēng",
+       "gl": "student",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When Xiao Song finished reading the news, he said nothing for a long time.",
+   "phrases": [
+    {
+     "en": "When Xiao Song finished reading the news, he said nothing for a long time.",
+     "words": [
+      {
+       "h": "小宋",
+       "py": "Xiǎo Sòng",
+       "gl": "Xiao Song",
+       "pos": "proper noun"
+      },
+      {
+       "h": "看完",
+       "py": "kànwán",
+       "gl": "finish reading/watching",
+       "pos": "v."
+      },
+      {
+       "h": "新闻",
+       "py": "xīnwén",
+       "gl": "news",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "半天",
+       "py": "bàntiān",
+       "gl": "a long time; ages",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening he used his bookshop wages to buy his mum a phone — the cheap kind.",
+   "phrases": [
+    {
+     "en": "That evening he used his bookshop wages to buy his mum a phone — the cheap kind.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "书店",
+       "py": "shūdiàn",
+       "gl": "bookstore",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "工资",
+       "py": "gōngzī",
+       "gl": "salary; wages",
+       "pos": "n."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "便宜",
+       "py": "piányi",
+       "gl": "cheap; inexpensive",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那种",
+       "py": "nàzhǒng",
+       "gl": "that kind (of)",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When looking for part-time work, you must always keep your wits about you.",
+   "phrases": [
+    {
+     "en": "When looking for part-time work, you must always keep your wits about you.",
      "words": [
       {
        "h": "找",
@@ -484,47 +1112,30 @@
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "you really need to keep your eyes open.",
-     "words": [
-      {
-       "h": "一定",
-       "py": "yídìng",
-       "gl": "definitely; surely; must",
-       "pos": "adv."
       },
       {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
+       "h": "一定要",
+       "py": "yídìngyào",
+       "gl": "must; be sure to",
+       "pos": "v."
       },
       {
        "h": "多",
        "py": "duō",
-       "gl": "many; much; more than (after a number)",
+       "gl": "many; much",
        "pos": "adj."
       },
       {
        "h": "留",
        "py": "liú",
-       "gl": "leave; set aside",
+       "gl": "keep (an eye out)",
        "pos": "v."
       },
       {
@@ -536,7 +1147,7 @@
       {
        "h": "心眼",
        "py": "xīnyǎn",
-       "gl": "wariness; presence of mind (留个心眼 be on guard)",
+       "gl": "wariness; alertness",
        "pos": "n."
       },
       {

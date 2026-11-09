@@ -1,18 +1,54 @@
 {
  "id": "datacenter3",
  "level": 3,
- "title_zh": "数据中心的烦恼",
- "title_en": "The Trouble with Data Centers",
+ "title_zh": "每个视频都要电",
+ "title_en": "Every Video Needs Electricity",
  "free": false,
  "audio_url": null,
- "note_en": "为了 (wèile) \"in order to\" puts the purpose at the start of the sentence, before the action: 为了降温，公司需要用大量的水和电 \"To keep things cool, companies have to use a lot of water and electricity.\" English can put \"to...\" at either end, but in Chinese the 为了 part normally comes first.",
+ "note_en": "The verb 耗电 (\"consume electricity\") and the noun 耗电量 (\"power consumption\") often go with words of scale: 这些服务器耗电量非常大 — \"these servers consume a huge amount of electricity.\"",
  "sentences": [
   {
-   "en": "These days almost all software depends on data centers to run.",
+   "en": "In science class the teacher said that almost all apps now depend on data centres to run.",
    "phrases": [
     {
-     "en": "These days almost all software depends on data centers to run.",
+     "en": "In science class the teacher said that almost all apps now depend on data centres to run.",
      "words": [
+      {
+       "h": "科学",
+       "py": "kēxué",
+       "gl": "science",
+       "pos": "n."
+      },
+      {
+       "h": "课",
+       "py": "kè",
+       "gl": "class; lesson",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "老师",
+       "py": "lǎoshī",
+       "gl": "teacher",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
       {
        "h": "现在",
        "py": "xiànzài",
@@ -34,7 +70,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -52,31 +88,25 @@
       {
        "h": "要",
        "py": "yào",
-       "gl": "want; order; be going to; need",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
        "h": "靠",
        "py": "kào",
        "gl": "rely on; depend on",
-       "pos": "v."
+       "pos": "prep."
       },
       {
-       "h": "数据",
-       "py": "shùjù",
-       "gl": "data",
-       "pos": "n."
-      },
-      {
-       "h": "中心",
-       "py": "zhōngxīn",
-       "gl": "center",
+       "h": "数据中心",
+       "py": "shùjù zhōngxīn",
+       "gl": "data center",
        "pos": "n."
       },
       {
        "h": "运行",
        "py": "yùnxíng",
-       "gl": "run; operate (of software, machines)",
+       "gl": "run (of a system)",
        "pos": "v."
       },
       {
@@ -87,38 +117,32 @@
    ]
   },
   {
-   "en": "Inside a data center, thousands and thousands of servers run nonstop.",
+   "en": "Inside a data centre, tens of thousands of servers are running all the time.",
    "phrases": [
     {
-     "en": "Inside a data center, thousands and thousands of servers run nonstop.",
+     "en": "Inside a data centre, tens of thousands of servers are running all the time.",
      "words": [
       {
-       "h": "数据",
-       "py": "shùjù",
-       "gl": "data",
-       "pos": "n."
-      },
-      {
-       "h": "中心",
-       "py": "zhōngxīn",
-       "gl": "center",
+       "h": "数据中心",
+       "py": "shùjù zhōngxīn",
+       "gl": "data center",
        "pos": "n."
       },
       {
        "h": "里",
-       "py": "li",
+       "py": "lǐ",
        "gl": "in; inside",
        "pos": "postposition"
       },
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
        "h": "成千上万",
-       "py": "chéngqiānshàngwàn",
+       "py": "chéng qiān shàng wàn",
        "gl": "thousands upon thousands",
        "pos": "phrase"
       },
@@ -126,7 +150,7 @@
        "h": "台",
        "py": "tái",
        "gl": "stage; platform; measure word for machines (computers, TVs)",
-       "pos": "n."
+       "pos": "measure word"
       },
       {
        "h": "服务器",
@@ -137,19 +161,19 @@
       {
        "h": "一直",
        "py": "yìzhí",
-       "gl": "all the time; continuously; straight",
+       "gl": "all along; always; continuously",
        "pos": "adv."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
        "h": "运转",
-       "py": "yùnzhuàn",
-       "gl": "run; operate; revolve",
+       "py": "yùnzhuǎn",
+       "gl": "run; operate",
        "pos": "v."
       },
       {
@@ -160,10 +184,10 @@
    ]
   },
   {
-   "en": "These servers use a huge amount of electricity and also produce a lot of heat.",
+   "en": "These servers use a huge amount of electricity and also give off a lot of heat.",
    "phrases": [
     {
-     "en": "These servers use a huge amount of electricity and also produce a lot of heat.",
+     "en": "These servers use a huge amount of electricity and also give off a lot of heat.",
      "words": [
       {
        "h": "这些",
@@ -178,16 +202,10 @@
        "pos": "n."
       },
       {
-       "h": "耗电",
-       "py": "hàodiàn",
-       "gl": "consume electricity; power-consuming",
-       "pos": "v."
-      },
-      {
-       "h": "量",
-       "py": "liàng",
-       "gl": "measure",
-       "pos": "v."
+       "h": "耗电量",
+       "py": "hàodiànliàng",
+       "gl": "power consumption",
+       "pos": "n."
       },
       {
        "h": "非常",
@@ -207,14 +225,14 @@
       {
        "h": "还",
        "py": "hái",
-       "gl": "also; still; in addition",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
        "h": "会",
        "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
       },
       {
        "h": "产生",
@@ -225,8 +243,8 @@
       {
        "h": "很多",
        "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
+       "gl": "many; a lot of; much (after a comparison: 低很多 much lower)",
+       "pos": "num."
       },
       {
        "h": "热量",
@@ -242,10 +260,10 @@
    ]
   },
   {
-   "en": "To keep things cool, companies have to use a lot of water and electricity.",
+   "en": "To cool them down, companies need large amounts of water and power.",
    "phrases": [
     {
-     "en": "To keep things cool, companies have to use a lot of water and electricity.",
+     "en": "To cool them down, companies need large amounts of water and power.",
      "words": [
       {
        "h": "为了",
@@ -265,19 +283,19 @@
       {
        "h": "公司",
        "py": "gōngsī",
-       "gl": "company; office (work)",
+       "gl": "company",
        "pos": "n."
       },
       {
        "h": "需要",
        "py": "xūyào",
-       "gl": "need; require",
+       "gl": "need to; have to",
        "pos": "v."
       },
       {
        "h": "用",
        "py": "yòng",
-       "gl": "use; with (by means of)",
+       "gl": "use",
        "pos": "v."
       },
       {
@@ -289,7 +307,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -301,7 +319,7 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
@@ -318,10 +336,10 @@
    ]
   },
   {
-   "en": "The strain this puts on the environment is getting more and more attention.",
+   "en": "The pressure this puts on the environment is getting more and more attention.",
    "phrases": [
     {
-     "en": "The strain this puts on the environment is getting more and more attention.",
+     "en": "The pressure this puts on the environment is getting more and more attention.",
      "words": [
       {
        "h": "这",
@@ -332,7 +350,7 @@
       {
        "h": "对",
        "py": "duì",
-       "gl": "to; toward; correct",
+       "gl": "regarding; on",
        "pos": "prep."
       },
       {
@@ -350,7 +368,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -374,7 +392,840 @@
       {
        "h": "关注",
        "py": "guānzhù",
-       "gl": "pay attention to; follow (closely)",
+       "gl": "attention; interest; follow (closely)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When I got home, Dad was scrolling short videos, Mum was scrolling short videos, and Grandpa was scrolling short videos too.",
+   "phrases": [
+    {
+     "en": "When I got home, Dad was scrolling short videos, Mum was scrolling short videos, and Grandpa was scrolling short videos too.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "一看",
+       "py": "yīkàn",
+       "gl": "(be worth) a look",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "刷",
+       "py": "shuā",
+       "gl": "scan; swipe (a card); scroll (a feed)",
+       "pos": "v."
+      },
+      {
+       "h": "短视频",
+       "py": "duǎnshìpín",
+       "gl": "short videos",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "刷",
+       "py": "shuā",
+       "gl": "scan; swipe (a card); scroll (a feed)",
+       "pos": "v."
+      },
+      {
+       "h": "短视频",
+       "py": "duǎnshìpín",
+       "gl": "short videos",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "爷爷",
+       "py": "yéye",
+       "gl": "grandpa; grandfather (father's father)",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "刷",
+       "py": "shuā",
+       "gl": "scan; swipe (a card); scroll (a feed)",
+       "pos": "v."
+      },
+      {
+       "h": "短视频",
+       "py": "duǎnshìpín",
+       "gl": "short videos",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I said loudly, \"Every video you watch, there's a server somewhere working for you!\"",
+   "phrases": [
+    {
+     "en": "I said loudly, \"Every video you watch, there's a server somewhere working for you!\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "大声",
+       "py": "dàshēng",
+       "gl": "loudly",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你们",
+       "py": "nǐmen",
+       "gl": "you (plural)",
+       "pos": "pron."
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video; video call",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "台",
+       "py": "tái",
+       "gl": "stage; platform; measure word for machines (computers, TVs)",
+       "pos": "measure word"
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "为",
+       "py": "wèi",
+       "gl": "for; for the sake of",
+       "pos": "prep."
+      },
+      {
+       "h": "你们",
+       "py": "nǐmen",
+       "gl": "you (plural)",
+       "pos": "pron."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "！"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Everyone looked at me as if I'd told a joke.",
+   "phrases": [
+    {
+     "en": "Everyone looked at me as if I'd told a joke.",
+     "words": [
+      {
+       "h": "大家",
+       "py": "dàjiā",
+       "gl": "everyone; everybody",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "好像",
+       "py": "hǎoxiàng",
+       "gl": "seem; be like",
+       "pos": "adv."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "笑话",
+       "py": "xiàohuà",
+       "gl": "joke; (闹笑话 make a fool of oneself)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That night I secretly turned off autoplay on everyone's phones.",
+   "phrases": [
+    {
+     "en": "That night I secretly turned off autoplay on everyone's phones.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "偷偷",
+       "py": "tōutōu",
+       "gl": "secretly; on the sly",
+       "pos": "adv."
+      },
+      {
+       "h": "关掉",
+       "py": "guāndiào",
+       "gl": "turn off; close down",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "全家",
+       "py": "quánjiā",
+       "gl": "whole family",
+       "pos": "n."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "自动播放",
+       "py": "zìdòng bōfàng",
+       "gl": "autoplay",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The next day Grandpa didn't watch videos; he told me about his childhood instead.",
+   "phrases": [
+    {
+     "en": "The next day Grandpa didn't watch videos; he told me about his childhood instead.",
+     "words": [
+      {
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "爷爷",
+       "py": "yéye",
+       "gl": "grandpa; grandfather (father's father)",
+       "pos": "n."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "刷",
+       "py": "shuā",
+       "gl": "scan; swipe (a card); scroll (a feed)",
+       "pos": "v."
+      },
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video; video call",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "讲",
+       "py": "jiǎng",
+       "gl": "tell; talk about",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "小时候",
+       "py": "xiǎoshíhòu",
+       "gl": "in childhood; as a child",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He said that back then the village had electricity for only two hours a day, and in the evenings they used kerosene lamps.",
+   "phrases": [
+    {
+     "en": "He said that back then the village had electricity for only two hours a day, and in the evenings they used kerosene lamps.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "那时候",
+       "py": "nàshíhòu",
+       "gl": "at that time; back then",
+       "pos": "n."
+      },
+      {
+       "h": "村",
+       "py": "cūn",
+       "gl": "village",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
+       "pos": "n."
+      },
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
+      },
+      {
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
+       "pos": "n."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "电",
+       "py": "diàn",
+       "gl": "electricity; power",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "煤油灯",
+       "py": "méiyóudēng",
+       "gl": "kerosene lamp",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"There were no videos then,\" he said with a smile, \"but we sat and talked together every evening.\"",
+   "phrases": [
+    {
+     "en": "\"There were no videos then,\" he said with a smile, \"but we sat and talked together every evening.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "那时候",
+       "py": "nàshíhòu",
+       "gl": "at that time; back then",
+       "pos": "n."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video; video call",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "笑着说",
+       "py": "xiàozheshuō",
+       "gl": "say with a smile",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "每天晚上",
+       "py": "měitiānwǎnshàng",
+       "gl": "every evening; every night",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
+      },
+      {
+       "h": "聊天",
+       "py": "liáotiān",
+       "gl": "chat; talk",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening our family talked for a long time too, without using a single server.",
+   "phrases": [
+    {
+     "en": "That evening our family talked for a long time too, without using a single server.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "一家人",
+       "py": "yījiārén",
+       "gl": "whole family; family",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "聊",
+       "py": "liáo",
+       "gl": "chat; talk (about)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "台",
+       "py": "tái",
+       "gl": "stage; platform; measure word for machines (computers, TVs)",
+       "pos": "measure word"
+      },
+      {
+       "h": "服务器",
+       "py": "fúwùqì",
+       "gl": "server (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
        "pos": "v."
       },
       {

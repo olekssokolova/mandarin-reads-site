@@ -1,35 +1,68 @@
 {
  "id": "parttime",
  "level": 3,
- "title_zh": "打工",
- "title_en": "My Part-Time Job",
+ "title_zh": "那条围巾",
+ "title_en": "That Scarf",
  "free": false,
  "audio_url": null,
- "note_en": "要么……要么…… (yàome... yàome...) means \"either... or...\": 要么周末，要么平时晚上 \"either on weekends or on weekday evenings.\" Unlike English, Chinese repeats the same word before each option. Also in this text: 连……都…… \"even\": 我连咖啡机都不会用 \"I couldn't even use the coffee machine.\"",
+ "note_en": "要么……要么…… (\"either…, or…\") sets two options side by side: 要么周末，要么平时晚上 — \"either at weekends or on weekday evenings.\" In Mum's mouth the same construction sounds like an ultimatum: 要么好好学习，要么回家.",
  "sentences": [
   {
-   "en": "To have a bit more spending money, I work part-time at a coffee shop near school.",
+   "en": "After starting university, I wanted to earn some pocket money myself, so I got a part-time job at a café near campus.",
    "phrases": [
     {
-     "en": "To have a bit more spending money,",
+     "en": "After starting university, I wanted to earn some pocket money myself, so I got a part-time job at a café near campus.",
      "words": [
       {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
+       "h": "大学",
+       "py": "dàxué",
+       "gl": "university; college",
+       "pos": "n."
       },
       {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; a bit",
-       "pos": "adv."
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "挣",
+       "py": "zhèng",
+       "gl": "earn",
+       "pos": "v."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
       },
       {
        "h": "零花钱",
@@ -39,22 +72,17 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I work part-time at a coffee shop near school.",
-     "words": [
+      },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -72,7 +100,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -83,7 +111,7 @@
       },
       {
        "h": "打工",
-       "py": "dǎgōng",
+       "py": "dǎ gōng",
        "gl": "work a part-time job; work for someone",
        "pos": "v."
       },
@@ -95,11 +123,138 @@
    ]
   },
   {
-   "en": "I work three times a week, either on weekends or on weekday evenings.",
+   "en": "Mum was against it: \"Either study properly or come home. Don't go wearing yourself out.\"",
    "phrases": [
     {
-     "en": "I work three times a week,",
+     "en": "Mum was against it: \"Either study properly or come home. Don't go wearing yourself out.\"",
      "words": [
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "不同意",
+       "py": "bùtóngyì",
+       "gl": "disagree; not agree",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "要么",
+       "py": "yàome",
+       "gl": "either…or…",
+       "pos": "conj."
+      },
+      {
+       "h": "好好",
+       "py": "hǎohǎo",
+       "gl": "properly; well; to one's heart's content",
+       "pos": "adv."
+      },
+      {
+       "h": "学习",
+       "py": "xuéxí",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "要么",
+       "py": "yàome",
+       "gl": "either…or…",
+       "pos": "conj."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "别",
+       "py": "bié",
+       "gl": "don't (prohibition); other",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "外面",
+       "py": "wàimiàn",
+       "gl": "outside",
+       "pos": "n."
+      },
+      {
+       "h": "辛苦",
+       "py": "xīnkǔ",
+       "gl": "hard work; tiring",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I didn't listen. I worked three times a week, either at weekends or on weekday evenings.",
+   "phrases": [
+    {
+     "en": "I didn't listen. I worked three times a week, either at weekends or on weekday evenings.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -125,25 +280,14 @@
        "pos": "n."
       },
       {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
+       "h": "三次",
+       "py": "sāncì",
+       "gl": "three times",
        "pos": "measure word"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "either on weekends",
-     "words": [
+      },
       {
        "h": "要么",
        "py": "yàome",
@@ -158,12 +302,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "or on weekday evenings.",
-     "words": [
+      },
       {
        "h": "要么",
        "py": "yàome",
@@ -173,12 +312,12 @@
       {
        "h": "平时",
        "py": "píngshí",
-       "gl": "usually; ordinarily; in everyday time",
+       "gl": "usually; ordinarily",
        "pos": "adv."
       },
       {
        "h": "晚上",
-       "py": "wǎnshang",
+       "py": "wǎnshàng",
        "gl": "evening",
        "pos": "n."
       },
@@ -190,22 +329,19 @@
    ]
   },
   {
-   "en": "At first I couldn't even use the coffee machine, but then the owner patiently showed me how.",
+   "en": "At first I couldn't even use the coffee machine, and I broke two cups.",
    "phrases": [
     {
-     "en": "At first I couldn't even use the coffee machine,",
+     "en": "At first I couldn't even use the coffee machine, and I broke two cups.",
      "words": [
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
+       "h": "一开始",
+       "py": "yīkāishǐ",
+       "gl": "at first; in the beginning",
+       "pos": "adv."
       },
       {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
-       "pos": "v."
+       "h": "，"
       },
       {
        "h": "我",
@@ -216,7 +352,7 @@
       {
        "h": "连",
        "py": "lián",
-       "gl": "even (连…都… even); connect",
+       "gl": "even (连…都… even)",
        "pos": "prep."
       },
       {
@@ -228,20 +364,14 @@
       {
        "h": "都",
        "py": "dōu",
-       "gl": "all; both",
+       "gl": "all; both; even; already",
        "pos": "adv."
       },
       {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely (会不会 'will or won't')",
+       "pos": "v."
       },
       {
        "h": "用",
@@ -251,40 +381,17 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but then the owner patiently showed me how.",
-     "words": [
+      },
       {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
-       "h": "老板",
-       "py": "lǎobǎn",
-       "gl": "boss; shop owner",
-       "pos": "n."
-      },
-      {
-       "h": "耐心",
-       "py": "nàixīn",
-       "gl": "patient; patience",
-       "pos": "adj."
-      },
-      {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
-       "pos": "particle"
-      },
-      {
-       "h": "教",
-       "py": "jiāo",
-       "gl": "teach",
+       "h": "打破",
+       "py": "dǎpò",
+       "gl": "break",
        "pos": "v."
       },
       {
@@ -294,10 +401,16 @@
        "pos": "particle"
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "杯子",
+       "py": "bēizi",
+       "gl": "cup; glass",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -307,10 +420,10 @@
    ]
   },
   {
-   "en": "When it gets busy, I don't even have time to drink water.",
+   "en": "When it was busy, I didn't even have time for a drink of water.",
    "phrases": [
     {
-     "en": "When it gets busy, I don't even have time to drink water.",
+     "en": "When it was busy, I didn't even have time for a drink of water.",
      "words": [
       {
        "h": "客人",
@@ -321,20 +434,14 @@
       {
        "h": "多",
        "py": "duō",
-       "gl": "many; much; more than (after a number)",
+       "gl": "many; much",
        "pos": "adj."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
       },
       {
        "h": "，"
@@ -360,7 +467,7 @@
       {
        "h": "连",
        "py": "lián",
-       "gl": "even (连…都… even); connect",
+       "gl": "even (连…都… even)",
        "pos": "prep."
       },
       {
@@ -372,7 +479,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -384,7 +491,7 @@
       {
        "h": "都",
        "py": "dōu",
-       "gl": "all; both",
+       "gl": "all; both; even; already",
        "pos": "adv."
       },
       {
@@ -401,43 +508,25 @@
    ]
   },
   {
-   "en": "Although working part-time is tiring, I've learned a lot of things you can't learn in class.",
+   "en": "In the first month I earned twelve hundred yuan.",
    "phrases": [
     {
-     "en": "Although working part-time is tiring, I've learned a lot of things you can't learn in class.",
+     "en": "In the first month I earned twelve hundred yuan.",
      "words": [
       {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
+       "h": "第一个",
+       "py": "dìyígè",
+       "gl": "the first",
+       "pos": "num."
       },
       {
-       "h": "打工",
-       "py": "dǎgōng",
-       "gl": "work a part-time job; work for someone",
-       "pos": "v."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "累",
-       "py": "lèi",
-       "gl": "tired",
-       "pos": "adj."
+       "h": "月",
+       "py": "yuè",
+       "gl": "month; moon",
+       "pos": "n."
       },
       {
        "h": "，"
-      },
-      {
-       "h": "可是",
-       "py": "kěshì",
-       "gl": "but; however",
-       "pos": "conj."
       },
       {
        "h": "我",
@@ -446,15 +535,9 @@
        "pos": "pron."
       },
       {
-       "h": "学",
-       "py": "xué",
-       "gl": "study; learn",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "arrive; reach; come",
+       "h": "挣",
+       "py": "zhèng",
+       "gl": "earn",
        "pos": "v."
       },
       {
@@ -464,51 +547,115 @@
        "pos": "particle"
       },
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
+       "h": "一千二百",
+       "py": "yīqiānèrbǎi",
+       "gl": "one thousand two hundred (1,200)",
+       "pos": "num."
       },
       {
-       "h": "课堂",
-       "py": "kètáng",
-       "gl": "classroom; class",
+       "h": "块",
+       "py": "kuài",
+       "gl": "yuan; kuai (colloquial for money)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "With that money I bought Mum a scarf and posted it home.",
+   "phrases": [
+    {
+     "en": "With that money I bought Mum a scarf and posted it home.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "这些",
+       "py": "zhèxiē",
+       "gl": "these",
+       "pos": "pron."
+      },
+      {
+       "h": "钱",
+       "py": "qián",
+       "gl": "money",
        "pos": "n."
       },
       {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
-       "pos": "postposition"
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
       },
       {
-       "h": "学",
-       "py": "xué",
-       "gl": "study; learn",
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
        "pos": "v."
       },
       {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "arrive; reach; come",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; things; stuff",
+       "h": "一条",
+       "py": "yìtiáo",
+       "gl": "one (measure word for long things, messages, news, rules)",
+       "pos": "num."
+      },
+      {
+       "h": "围巾",
+       "py": "wéijīn",
+       "gl": "scarf",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "寄",
+       "py": "jì",
+       "gl": "to mail",
+       "pos": "v."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "return; go back",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
        "pos": "n."
       },
       {
@@ -519,40 +666,70 @@
    ]
   },
   {
-   "en": "Plus, buying things with money I earned myself feels totally different.",
+   "en": "On the phone she said only: \"Waste of money.\"",
    "phrases": [
     {
-     "en": "Plus, buying things with money I earned myself feels totally different.",
+     "en": "On the phone she said only: \"Waste of money.\"",
      "words": [
       {
-       "h": "而且",
-       "py": "érqiě",
-       "gl": "moreover; and also",
-       "pos": "conj."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
-       "h": "挣",
-       "py": "zhēng",
-       "gl": "earn",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "电话",
+       "py": "diànhuà",
+       "gl": "phone; phone call",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
+      },
+      {
+       "h": "一句",
+       "py": "yījù",
+       "gl": "one sentence; one line (of a poem)",
+       "pos": "measure word"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "浪费",
+       "py": "làngfèi",
+       "gl": "waste",
+       "pos": "v."
       },
       {
        "h": "钱",
@@ -561,43 +738,453 @@
        "pos": "n."
       },
       {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I felt a bit hurt.",
+   "phrases": [
+    {
+     "en": "I felt a bit hurt.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
+      },
+      {
+       "h": "难过",
+       "py": "nánguò",
+       "gl": "sad; upset",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A week later a colleague asked me quietly, \"That lady just now — do you know her?\"",
+   "phrases": [
+    {
+     "en": "A week later a colleague asked me quietly, \"That lady just now — do you know her?\"",
+     "words": [
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "同事",
+       "py": "tóngshì",
+       "gl": "colleague; coworker",
+       "pos": "n."
+      },
+      {
+       "h": "小声",
+       "py": "xiǎoshēng",
+       "gl": "in a low voice; quietly",
+       "pos": "adv."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
        "pos": "v."
       },
       {
-       "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; things; stuff",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "刚才",
+       "py": "gāngcái",
+       "gl": "just now; a moment ago",
+       "pos": "adv."
+      },
+      {
+       "h": "那位",
+       "py": "nàwèi",
+       "gl": "that (person, polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "阿姨",
+       "py": "āyí",
+       "gl": "auntie (older woman)",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "感觉",
-       "py": "gǎnjué",
-       "gl": "feel; feeling",
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "认识",
+       "py": "rènshí",
+       "gl": "know (a person, a character); get to know; recognize",
        "pos": "v."
       },
       {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly; special",
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Which one?\"",
+   "phrases": [
+    {
+     "en": "\"Which one?\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "哪",
+       "py": "nǎ",
+       "gl": "which; what",
+       "pos": "pron."
+      },
+      {
+       "h": "位",
+       "py": "wèi",
+       "gl": "polite measure word for people",
+       "pos": "measure word"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"She ordered the most expensive coffee, sat in the corner watching you for an hour, and left a big tip when she went.\"",
+   "phrases": [
+    {
+     "en": "\"She ordered the most expensive coffee, sat in the corner watching you for an hour, and left a big tip when she went.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "order (food, etc.)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一杯",
+       "py": "yībēi",
+       "gl": "a cup of; a glass of",
+       "pos": "measure word"
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
        "pos": "adv."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "一样",
-       "py": "yíyàng",
-       "gl": "same; alike",
+       "h": "贵",
+       "py": "guì",
+       "gl": "expensive",
        "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "咖啡",
+       "py": "kāfēi",
+       "gl": "coffee",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
+       "pos": "v."
+      },
+      {
+       "h": "角落",
+       "py": "jiǎoluò",
+       "gl": "corner",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "一个小时",
+       "py": "yígèxiǎoshí",
+       "gl": "one hour",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "小费",
+       "py": "xiǎofèi",
+       "gl": "tip (gratuity)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I ran to the door and saw only someone's back as she walked away — and round her neck, the scarf I had posted home.",
+   "phrases": [
+    {
+     "en": "I ran to the door and saw only someone's back as she walked away — and round her neck, the scarf I had posted home.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "跑到",
+       "py": "pǎodào",
+       "gl": "run to; go (all the way) to",
+       "pos": "v."
+      },
+      {
+       "h": "门口",
+       "py": "ménkǒu",
+       "gl": "entrance; doorway",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "num."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "背影",
+       "py": "bèiyǐng",
+       "gl": "someone's back (as they walk away)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "脖子",
+       "py": "bózi",
+       "gl": "neck",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "寄",
+       "py": "jì",
+       "gl": "to mail",
+       "pos": "v."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那条",
+       "py": "nàtiáo",
+       "gl": "that (one) (measure word 条: street, line, message)",
+       "pos": "pron."
+      },
+      {
+       "h": "围巾",
+       "py": "wéijīn",
+       "gl": "scarf",
+       "pos": "n."
       },
       {
        "h": "。"

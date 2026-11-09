@@ -1,43 +1,17 @@
 {
  "id": "adoptpet",
  "level": 3,
- "title_zh": "领养宠物",
- "title_en": "Adopting a Cat",
+ "title_zh": "床底下的猫",
+ "title_en": "The Cat Under the Bed",
  "free": false,
  "audio_url": null,
- "note_en": "与其说 A，不如说 B means \"it's not so much A as B\": you set aside one description and offer a more accurate one. In this text: 与其说是我养了它，不如说是我们互相陪伴 \"It's not so much that I'm taking care of her as that we keep each other company.\" English uses \"rather than... it's more that...\", but Chinese always needs both halves of the pair.",
+ "note_en": "The pair 与其说……不如说…… (\"rather than say…, it's truer to say…\") corrects a statement: the first version is set aside and a more accurate one is offered instead. 与其说是她养了我，不如说是我在照顾她 — \"it isn't so much that she keeps me as that I look after her.\" The story is told by the cat.",
  "sentences": [
   {
-   "en": "Last month I went to an animal shelter and adopted a cat.",
+   "en": "I'm a cat. Back when I had no name, I lived at a rescue centre.",
    "phrases": [
     {
-     "en": "Last month,",
-     "words": [
-      {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
-       "pos": "postposition"
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I went to an animal shelter and adopted a cat.",
+     "en": "I'm a cat. Back when I had no name, I lived at a rescue centre.",
      "words": [
       {
        "h": "我",
@@ -46,39 +20,154 @@
        "pos": "pron."
       },
       {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
+       "h": "一只",
+       "py": "yīzhī",
+       "gl": "one (animal; one of a pair)",
        "pos": "measure word"
       },
       {
-       "h": "救助",
-       "py": "jiùzhù",
-       "gl": "rescue; aid",
-       "pos": "v."
-      },
-      {
-       "h": "中心",
-       "py": "zhōngxīn",
-       "gl": "center",
+       "h": "猫",
+       "py": "māo",
+       "gl": "cat",
        "pos": "n."
       },
       {
-       "h": "领养",
-       "py": "lǐngyǎng",
-       "gl": "adopt (a pet)",
+       "h": "。"
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "名字",
+       "py": "míngzì",
+       "gl": "name",
+       "pos": "n."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "住在",
+       "py": "zhùzài",
+       "gl": "live in; live at",
+       "pos": "v."
+      },
+      {
+       "h": "救助中心",
+       "py": "jiùzhù zhōngxīn",
+       "gl": "rescue centre",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I once had a home, but one day that family moved away and didn't take me with them.",
+   "phrases": [
+    {
+     "en": "I once had a home, but one day that family moved away and didn't take me with them.",
+     "words": [
+      {
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "postposition"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "有一天",
+       "py": "yǒuyītiān",
+       "gl": "one day",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "搬走",
+       "py": "bānzǒu",
+       "gl": "move away",
        "pos": "v."
       },
       {
@@ -88,125 +177,13 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
+       "h": "，"
       },
       {
-       "h": "只",
-       "py": "zhī",
-       "gl": "measure word for animals (and one of a pair)",
-       "pos": "measure word"
-      },
-      {
-       "h": "猫",
-       "py": "māo",
-       "gl": "cat",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The staff told me this cat had been abandoned once before.",
-   "phrases": [
-    {
-     "en": "The staff said this cat",
-     "words": [
-      {
-       "h": "工作人员",
-       "py": "gōngzuòrényuán",
-       "gl": "staff member; staff",
-       "pos": "n."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
        "pos": "v."
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "只",
-       "py": "zhī",
-       "gl": "measure word for animals (and one of a pair)",
-       "pos": "measure word"
-      },
-      {
-       "h": "猫",
-       "py": "māo",
-       "gl": "cat",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "had been abandoned once before.",
-     "words": [
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "丢弃",
-       "py": "diūqì",
-       "gl": "abandon; throw away",
-       "pos": "v."
-      },
-      {
-       "h": "过",
-       "py": "guò",
-       "gl": "particle: past experience; spend (time); celebrate; pass",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
-       "pos": "measure word"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "When I first brought her home, she was very scared of people and kept hiding under the bed.",
-   "phrases": [
-    {
-     "en": "When I first brought her home,",
-     "words": [
-      {
-       "h": "刚",
-       "py": "gāng",
-       "gl": "just (now); only just",
-       "pos": "adv."
       },
       {
        "h": "带",
@@ -215,35 +192,113 @@
        "pos": "v."
       },
       {
-       "h": "回家",
-       "py": "huíjiā",
-       "gl": "go home; come home",
-       "pos": "v."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Last month, a girl took me home.",
+   "phrases": [
+    {
+     "en": "Last month, a girl took me home.",
+     "words": [
       {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
+       "h": "上个月",
+       "py": "shànggèyuè",
+       "gl": "last month",
        "pos": "n."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "女孩",
+       "py": "nǚhái",
+       "gl": "girl",
+       "pos": "n."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "领回",
+       "py": "lǐnghuí",
+       "gl": "take back; claim",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "When I first arrived I was very scared and hid under the bed the whole time.",
+   "phrases": [
     {
-     "en": "she was very scared of people",
+     "en": "When I first arrived I was very scared and hid under the bed the whole time.",
      "words": [
       {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
+       "h": "刚",
+       "py": "gāng",
+       "gl": "just (now); only just",
+       "pos": "adv."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
@@ -259,23 +314,12 @@
        "pos": "v."
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and kept hiding under the bed.",
-     "words": [
+      },
       {
        "h": "一直",
        "py": "yìzhí",
-       "gl": "all the time; continuously; straight",
+       "gl": "all along; always; continuously",
        "pos": "adv."
       },
       {
@@ -287,19 +331,13 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "床",
-       "py": "chuáng",
-       "gl": "bed",
-       "pos": "n."
-      },
-      {
-       "h": "底下",
-       "py": "dǐxià",
-       "gl": "under; beneath",
+       "h": "床底下",
+       "py": "chuáng dǐxia",
+       "gl": "under the bed",
        "pos": "n."
       },
       {
@@ -310,16 +348,49 @@
    ]
   },
   {
-   "en": "Every day I patiently kept her company and fed her.",
+   "en": "She didn't pull me out; every day she just put food by the bed, then sat on the floor and talked to me.",
    "phrases": [
     {
-     "en": "Every day I patiently kept her company",
+     "en": "She didn't pull me out; every day she just put food by the bed, then sat on the floor and talked to me.",
      "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "拉",
+       "py": "lā",
+       "gl": "pull; hold (someone's hand)",
+       "pos": "v."
+      },
       {
        "h": "我",
        "py": "wǒ",
        "gl": "I; me",
        "pos": "pron."
+      },
+      {
+       "h": "出来",
+       "py": "chūlái",
+       "gl": "directional complement: out; into being; come out",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
       },
       {
        "h": "每天",
@@ -328,48 +399,10 @@
        "pos": "n."
       },
       {
-       "h": "耐心",
-       "py": "nàixīn",
-       "gl": "patient; patience",
-       "pos": "adj."
-      },
-      {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
-       "pos": "particle"
-      },
-      {
-       "h": "陪",
-       "py": "péi",
-       "gl": "accompany; keep company",
-       "pos": "v."
-      },
-      {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
-       "pos": "pron."
-      },
-      {
-       "h": "、"
-      }
-     ]
-    },
-    {
-     "en": "and fed her.",
-     "words": [
-      {
-       "h": "喂",
-       "py": "wèi",
-       "gl": "hello (on the phone); hey",
-       "pos": "interj."
-      },
-      {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
-       "pos": "pron."
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
       },
       {
        "h": "吃",
@@ -378,10 +411,61 @@
        "pos": "v."
       },
       {
-       "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; things; stuff",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "放在",
+       "py": "fàngzài",
+       "gl": "put in; put on; place",
+       "pos": "v."
+      },
+      {
+       "h": "床边",
+       "py": "chuángbiān",
+       "gl": "bedside",
        "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "然后",
+       "py": "ránhòu",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
+       "pos": "v."
+      },
+      {
+       "h": "地上",
+       "py": "dìshàng",
+       "gl": "on the ground; on earth",
+       "pos": "n."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -391,47 +475,236 @@
    ]
   },
   {
-   "en": "A week later, she finally let me pet her.",
+   "en": "She told me she works alone in this city and stays late at the office every day.",
    "phrases": [
     {
-     "en": "A week later,",
+     "en": "She told me she works alone in this city and stays late at the office every day.",
      "words": [
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "星期",
-       "py": "xīngqī",
-       "gl": "week",
-       "pos": "n."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "加班",
+       "py": "jiā bān",
+       "gl": "work overtime",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "晚",
+       "py": "wǎn",
+       "gl": "late",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "She told me her mum is always phoning to ask, \"Have you eaten?\"",
+   "phrases": [
     {
-     "en": "she was finally willing to let me pet her.",
+     "en": "She told me her mum is always phoning to ask, \"Have you eaten?\"",
      "words": [
       {
-       "h": "它",
+       "h": "她",
        "py": "tā",
-       "gl": "it",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "总",
+       "py": "zǒng",
+       "gl": "always; in any case (晚做总比不做好 'better late than never')",
+       "pos": "adv."
+      },
+      {
+       "h": "打电话",
+       "py": "dǎdiànhuà",
+       "gl": "make a phone call; call",
+       "pos": "v."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "吃饭",
+       "py": "chīfàn",
+       "gl": "eat; have a meal",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the seventh evening, I finally came out from under the bed.",
+   "phrases": [
+    {
+     "en": "On the seventh evening, I finally came out from under the bed.",
+     "words": [
+      {
+       "h": "第七",
+       "py": "dìqī",
+       "gl": "seventh",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
@@ -441,34 +714,22 @@
        "pos": "adv."
       },
       {
-       "h": "愿意",
-       "py": "yuànyì",
-       "gl": "be willing",
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "床底下",
+       "py": "chuáng dǐxia",
+       "gl": "under the bed",
+       "pos": "n."
+      },
+      {
+       "h": "出来",
+       "py": "chūlái",
+       "gl": "directional complement: out; into being; come out",
        "pos": "v."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "摸",
-       "py": "mō",
-       "gl": "feel (with the hand); touch",
-       "pos": "v."
-      },
-      {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
-       "pos": "pron."
       },
       {
        "h": "了",
@@ -484,21 +745,76 @@
    ]
   },
   {
-   "en": "Now she follows me around every day. It's not so much that I'm taking care of her as that we keep each other company.",
+   "en": "She cried, and I didn't know why.",
    "phrases": [
     {
-     "en": "Now she follows me around every day.",
+     "en": "She cried, and I didn't know why.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "哭",
+       "py": "kū",
+       "gl": "cry",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "不知道",
+       "py": "bùzhīdào",
+       "gl": "not know; no one knows",
+       "pos": "v."
+      },
+      {
+       "h": "为什么",
+       "py": "wèishénme",
+       "gl": "why",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now I wait by the door every day for her to come home.",
+   "phrases": [
+    {
+     "en": "Now I wait by the door every day for her to come home.",
      "words": [
       {
        "h": "现在",
        "py": "xiànzài",
        "gl": "now",
-       "pos": "n."
+       "pos": "adv."
       },
       {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
@@ -508,16 +824,74 @@
        "pos": "n."
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
-       "h": "跟着",
-       "py": "gēnzhe",
-       "gl": "follow; along with",
+       "h": "门口",
+       "py": "ménkǒu",
+       "gl": "entrance; doorway",
+       "pos": "n."
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "particle"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
        "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "If she's late, I meow until she goes and eats.",
+   "phrases": [
+    {
+     "en": "If she's late, I meow until she goes and eats.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "回来",
+       "py": "huílái",
+       "gl": "come back; return",
+       "pos": "v."
+      },
+      {
+       "h": "晚",
+       "py": "wǎn",
+       "gl": "late",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
       },
       {
        "h": "我",
@@ -526,24 +900,165 @@
        "pos": "pron."
       },
       {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
        "h": "，"
+      },
+      {
+       "h": "叫到",
+       "py": "jiàodào",
+       "gl": "call (someone) over to",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "吃饭",
+       "py": "chīfàn",
+       "gl": "eat; have a meal",
+       "pos": "v."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "If she can't sleep, I lie on top of her until she drifts off.",
+   "phrases": [
     {
-     "en": "It's not so much that I'm taking care of her",
+     "en": "If she can't sleep, I lie on top of her until she drifts off.",
      "words": [
       {
-       "h": "与其说",
-       "py": "yǔqíshuō",
-       "gl": "rather than say (与其说…不如说… 'it's not so much … as …')",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "睡不着",
+       "py": "shuìbuzháo",
+       "gl": "can't fall asleep",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "趴在",
+       "py": "pāzài",
+       "gl": "lie (face down) on",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "身上",
+       "py": "shēnshàng",
+       "gl": "on the body; on oneself",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "直到",
+       "py": "zhídào",
+       "gl": "until; up to",
        "pos": "conj."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "睡着",
+       "py": "shuìzháo",
+       "gl": "fall asleep",
        "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She tells her friends, \"I've got a cat.\"",
+   "phrases": [
+    {
+     "en": "She tells her friends, \"I've got a cat.\"",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "朋友",
+       "py": "péngyou",
+       "gl": "friend",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
       },
       {
        "h": "我",
@@ -564,23 +1079,52 @@
        "pos": "particle"
       },
       {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
+       "h": "一只",
+       "py": "yīzhī",
+       "gl": "one (animal; one of a pair)",
+       "pos": "measure word"
+      },
+      {
+       "h": "猫",
+       "py": "māo",
+       "gl": "cat",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But I think it isn't so much that she keeps me as that I look after her.",
+   "phrases": [
+    {
+     "en": "But I think it isn't so much that she keeps me as that I look after her.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "as that we keep each other company.",
-     "words": [
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
       {
-       "h": "不如说",
-       "py": "bùrúshuō",
-       "gl": "rather; it would be truer to say",
+       "h": "，"
+      },
+      {
+       "h": "与其说",
+       "py": "yǔqí shuō",
+       "gl": "rather than say",
        "pos": "conj."
       },
       {
@@ -590,22 +1134,67 @@
        "pos": "v."
       },
       {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
-       "h": "互相",
-       "py": "hùxiāng",
-       "gl": "each other; mutually",
-       "pos": "adv."
+       "h": "养",
+       "py": "yǎng",
+       "gl": "keep (a pet); raise; grow",
+       "pos": "v."
       },
       {
-       "h": "陪伴",
-       "py": "péibàn",
-       "gl": "keep (someone) company; companionship",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不如说",
+       "py": "bùrú shuō",
+       "gl": "but rather",
+       "pos": "conj."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "照顾",
+       "py": "zhàogù",
+       "gl": "take care of; look after",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
        "h": "。"

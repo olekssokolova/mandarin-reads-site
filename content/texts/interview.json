@@ -1,17 +1,17 @@
 {
  "id": "interview",
  "level": 3,
- "title_zh": "找工作",
- "title_en": "Looking for a Job",
+ "title_zh": "真话",
+ "title_en": "The Truth",
  "free": false,
  "audio_url": null,
- "note_en": "For \"if... then...\" Chinese pairs 如果 with 就 in the result part: 如果你愿意，下个月就可以来上班 \"If you'd like, you can start next month.\" Note that 就 goes after the subject or time word (下个月就), right before the verb, not at the start of the clause like English \"then.\"",
+ "note_en": "The pair 如果……就…… is English \"if…, then…\": 如果你愿意……就可以来上班 — \"if you'd like, you can start work.\" 就 stands before the verb in the second part and links condition and result; a detail can come in between (下个月考完试), as in the last sentence of the story.",
  "sentences": [
   {
-   "en": "After I graduated, I started looking for a job.",
+   "en": "After graduating, I stayed in China to look for work.",
    "phrases": [
     {
-     "en": "After I graduated,",
+     "en": "After graduating, I stayed in China to look for work.",
      "words": [
       {
        "h": "毕业",
@@ -22,17 +22,12 @@
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I started looking for a job.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -40,22 +35,22 @@
        "pos": "pron."
       },
       {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
+       "h": "留在",
+       "py": "liúzài",
+       "gl": "stay in; remain in",
        "pos": "v."
       },
       {
-       "h": "找",
-       "py": "zhǎo",
-       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
-       "pos": "v."
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
       },
       {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
+       "h": "找工作",
+       "py": "zhǎogōngzuò",
+       "gl": "look for a job",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -65,10 +60,10 @@
    ]
   },
   {
-   "en": "I sent out lots of résumés online, but only three companies emailed me back.",
+   "en": "I sent out more than fifty CVs online, and only three companies replied.",
    "phrases": [
     {
-     "en": "I sent out lots of résumés online,",
+     "en": "I sent out more than fifty CVs online, and only three companies replied.",
      "words": [
       {
        "h": "我",
@@ -79,7 +74,7 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at; on; be (at, in); particle: action in progress (他在吃 'he is eating')",
        "pos": "prep."
       },
       {
@@ -91,7 +86,7 @@
       {
        "h": "发",
        "py": "fā",
-       "gl": "send; issue; give out",
+       "gl": "send",
        "pos": "v."
       },
       {
@@ -101,10 +96,16 @@
        "pos": "particle"
       },
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
+       "h": "五十多",
+       "py": "wǔshíduō",
+       "gl": "more than fifty; fifty-plus",
+       "pos": "num."
+      },
+      {
+       "h": "份",
+       "py": "fèn",
+       "gl": "measure word for portions, copies, documents, jobs (and feelings)",
+       "pos": "measure word"
       },
       {
        "h": "简历",
@@ -114,12 +115,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but only three companies emailed me back.",
-     "words": [
+      },
       {
        "h": "只有",
        "py": "zhǐyǒu",
@@ -127,27 +123,21 @@
        "pos": "adv."
       },
       {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "n."
+       "h": "三家",
+       "py": "sānjiā",
+       "gl": "three (companies, families)",
+       "pos": "measure word"
       },
       {
        "h": "公司",
        "py": "gōngsī",
-       "gl": "company; office (work)",
+       "gl": "company",
        "pos": "n."
       },
       {
        "h": "回",
        "py": "huí",
-       "gl": "return; go back; reply",
+       "gl": "reply",
        "pos": "v."
       },
       {
@@ -170,37 +160,32 @@
    ]
   },
   {
-   "en": "Last week I went to a job interview at a company.",
+   "en": "The night before the interview, I learned all my answers by heart.",
    "phrases": [
     {
-     "en": "Last week",
+     "en": "The night before the interview, I learned all my answers by heart.",
      "words": [
       {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
-       "pos": "postposition"
+       "h": "面试",
+       "py": "miànshì",
+       "gl": "interview (job)",
+       "pos": "n."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
+       "h": "前一天",
+       "py": "qián yì tiān",
+       "gl": "the day before",
+       "pos": "n."
       },
       {
-       "h": "星期",
-       "py": "xīngqī",
-       "gl": "week",
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I went to a job interview at a company.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -208,34 +193,46 @@
        "pos": "pron."
       },
       {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "所有",
+       "py": "suǒyǒu",
+       "gl": "all; every",
+       "pos": "pron."
+      },
+      {
+       "h": "答案",
+       "py": "dáàn",
+       "gl": "answer",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "背",
+       "py": "bèi",
+       "gl": "learn by heart",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "n."
-      },
-      {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company; office (work)",
-       "pos": "n."
-      },
-      {
-       "h": "面试",
-       "py": "miànshì",
-       "gl": "interview (job)",
-       "pos": "n."
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -245,10 +242,10 @@
    ]
   },
   {
-   "en": "The interviewer asked me, \"Why do you want to work for our company?\"",
+   "en": "The interviewer asked, \"Why do you want to join our company?\"",
    "phrases": [
     {
-     "en": "The interviewer asked me:",
+     "en": "The interviewer asked, \"Why do you want to join our company?\"",
      "words": [
       {
        "h": "面试官",
@@ -263,19 +260,8 @@
        "pos": "v."
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"Why do you want to work for our company?\"",
-     "words": [
+      },
       {
        "h": "“"
       },
@@ -289,12 +275,12 @@
        "h": "为什么",
        "py": "wèishénme",
        "gl": "why",
-       "pos": "question word"
+       "pos": "pron."
       },
       {
        "h": "想",
        "py": "xiǎng",
-       "gl": "want; would like; think; miss",
+       "gl": "want; would like",
        "pos": "v."
       },
       {
@@ -326,16 +312,22 @@
    ]
   },
   {
-   "en": "I answered, \"Because there are great opportunities here, and I really like this job.\"",
+   "en": "I answered at once: \"Because there are great opportunities here, and I really like this job.\"",
    "phrases": [
     {
-     "en": "I answered:",
+     "en": "I answered at once: \"Because there are great opportunities here, and I really like this job.\"",
      "words": [
       {
        "h": "我",
        "py": "wǒ",
        "gl": "I; me",
        "pos": "pron."
+      },
+      {
+       "h": "马上",
+       "py": "mǎshàng",
+       "gl": "immediately; right away",
+       "pos": "adv."
       },
       {
        "h": "回答",
@@ -345,12 +337,7 @@
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"Because there are great opportunities here,",
-     "words": [
+      },
       {
        "h": "“"
       },
@@ -369,25 +356,19 @@
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
+       "h": "很好",
+       "py": "hěnhǎo",
+       "gl": "very good; well",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -398,12 +379,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and I really like this job.\"",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -429,16 +405,10 @@
        "pos": "v."
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
+       "h": "这份",
+       "py": "zhèfèn",
+       "gl": "this (这份 + noun: this piece of …)",
        "pos": "pron."
-      },
-      {
-       "h": "份",
-       "py": "fèn",
-       "gl": "measure word for jobs, portions, copies",
-       "pos": "measure word"
       },
       {
        "h": "工作",
@@ -457,10 +427,10 @@
    ]
   },
   {
-   "en": "Then he asked, \"How many languages do you speak?\"",
+   "en": "He nodded and asked a few more questions, and I answered them all fluently.",
    "phrases": [
     {
-     "en": "Then he asked:",
+     "en": "He nodded and asked a few more questions, and I answered them all fluently.",
      "words": [
       {
        "h": "他",
@@ -469,9 +439,18 @@
        "pos": "pron."
       },
       {
+       "h": "点点头",
+       "py": "diǎndiǎntóu",
+       "gl": "nod",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
@@ -481,73 +460,101 @@
        "pos": "v."
       },
       {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"How many languages do you speak?\"",
-     "words": [
-      {
-       "h": "“"
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "你",
-       "py": "nǐ",
-       "gl": "you",
-       "pos": "pron."
+       "h": "几个",
+       "py": "jǐgè",
+       "gl": "a few; several",
+       "pos": "num."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "how many (under ten); which (number)",
-       "pos": "question word"
-      },
-      {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "kind; type (measure word)",
-       "pos": "measure word"
-      },
-      {
-       "h": "语言",
-       "py": "yǔyán",
-       "gl": "language",
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "question; problem",
        "pos": "n."
       },
       {
-       "h": "？"
+       "h": "，"
       },
       {
-       "h": "”"
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "回答",
+       "py": "huídá",
+       "gl": "answer; reply",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "流利",
+       "py": "liúlì",
+       "gl": "fluent",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
       }
      ]
     }
    ]
   },
   {
-   "en": "I said, \"Besides English and Chinese, I also speak a little Spanish.\"",
+   "en": "Finally he put down his pen and said, \"I've heard these answers ten times today already.\"",
    "phrases": [
     {
-     "en": "I said:",
+     "en": "Finally he put down his pen and said, \"I've heard these answers ten times today already.\"",
      "words": [
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
        "pos": "pron."
+      },
+      {
+       "h": "放下",
+       "py": "fàngxià",
+       "gl": "put down; set aside",
+       "pos": "v."
+      },
+      {
+       "h": "笔",
+       "py": "bǐ",
+       "gl": "measure word for sums of money",
+       "pos": "measure word"
       },
       {
        "h": "说",
@@ -557,47 +564,25 @@
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"Besides English and Chinese,",
-     "words": [
+      },
       {
        "h": "“"
       },
       {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
+       "h": "这些",
+       "py": "zhèxiē",
+       "gl": "these",
+       "pos": "pron."
       },
       {
-       "h": "英语",
-       "py": "yīngyǔ",
-       "gl": "English (language)",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "汉语",
-       "py": "hànyǔ",
-       "gl": "Chinese (language)",
+       "h": "答案",
+       "py": "dáàn",
+       "gl": "answer",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I also speak a little Spanish.\"",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -605,34 +590,46 @@
        "pos": "pron."
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; still; in addition",
+       "h": "今天",
+       "py": "jīntiān",
+       "gl": "today",
+       "pos": "n."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
        "pos": "adv."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
        "pos": "v."
       },
       {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; a bit",
-       "pos": "adv."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "西班牙语",
-       "py": "xībānyáyǔ",
-       "gl": "Spanish (language)",
-       "pos": "n."
+       "h": "十",
+       "py": "shí",
+       "gl": "ten",
+       "pos": "num."
+      },
+      {
+       "h": "遍",
+       "py": "biàn",
+       "gl": "measure word for times (doing something from start to finish)",
+       "pos": "measure word"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -645,48 +642,168 @@
    ]
   },
   {
-   "en": "He nodded and said with a smile, \"If you'd like, you can start next month.\"",
+   "en": "My face went red at once.",
    "phrases": [
     {
-     "en": "He nodded",
+     "en": "My face went red at once.",
      "words": [
       {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "o'clock; point; dot",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "脸",
+       "py": "liǎn",
+       "gl": "face",
+       "pos": "n."
+      },
+      {
+       "h": "一下子",
+       "py": "yíxiàzi",
+       "gl": "all at once; suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "红",
+       "py": "hóng",
+       "gl": "blush; turn red",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Let me ask something else: when was the last time you failed at something?\"",
+   "phrases": [
+    {
+     "en": "\"Let me ask something else: when was the last time you failed at something?\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "换",
+       "py": "huàn",
+       "gl": "change (换个角度 from another angle)",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "最近",
+       "py": "zuìjìn",
+       "gl": "recently; lately",
+       "pos": "n."
+      },
+      {
+       "h": "一次",
+       "py": "yīcì",
+       "gl": "once; in one go; at the first attempt",
        "pos": "measure word"
       },
       {
-       "h": "点头",
-       "py": "diǎntóu",
-       "gl": "nod",
+       "h": "失败",
+       "py": "shībài",
+       "gl": "failure",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
+      },
+      {
+       "h": "什么时候",
+       "py": "shénmeshíhòu",
+       "gl": "when",
+       "pos": "pron."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I thought for a long time and told the truth: \"HSK Level 5 — I've taken it twice and failed both times.\"",
+   "phrases": [
+    {
+     "en": "I thought for a long time and told the truth: \"HSK Level 5 — I've taken it twice and failed both times.\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and said with a smile:",
-     "words": [
-      {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
       },
       {
        "h": "说",
@@ -695,13 +812,426 @@
        "pos": "v."
       },
       {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "真话",
+       "py": "zhēnhuà",
+       "gl": "truth",
+       "pos": "n."
+      },
+      {
        "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "HSK"
+      },
+      {
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
+       "pos": "num."
+      },
+      {
+       "h": "级",
+       "py": "jí",
+       "gl": "level; grade",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "考",
+       "py": "kǎo",
+       "gl": "take an exam; take the entrance exam for",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "两次",
+       "py": "liǎngcì",
+       "gl": "twice; two times",
+       "pos": "adv."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "\"What did you do after failing the second time?\"",
+   "phrases": [
     {
-     "en": "\"If you'd like,",
+     "en": "\"What did you do after failing the second time?\"",
      "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "第二次",
+       "py": "dìèrcì",
+       "gl": "the second time",
+       "pos": "num."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"I get up at five every morning and study for another two hours. Next month I'm taking it a third time.\"",
+   "phrases": [
+    {
+     "en": "\"I get up at five every morning and study for another two hours. Next month I'm taking it a third time.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "五点",
+       "py": "wǔdiǎn",
+       "gl": "five o'clock",
+       "pos": "n."
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "再",
+       "py": "zài",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "下个月",
+       "py": "xiàgèyuè",
+       "gl": "next month",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "考",
+       "py": "kǎo",
+       "gl": "take an exam; take the entrance exam for",
+       "pos": "v."
+      },
+      {
+       "h": "第三次",
+       "py": "dìsāncì",
+       "gl": "the third time",
+       "pos": "num."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He laughed: \"It took me three attempts to pass my English exam.\"",
+   "phrases": [
+    {
+     "en": "He laughed: \"It took me three attempts to pass my English exam.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "英语",
+       "py": "yīngyǔ",
+       "gl": "English (language)",
+       "pos": "n."
+      },
+      {
+       "h": "考试",
+       "py": "kǎoshì",
+       "gl": "exam; test",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "考",
+       "py": "kǎo",
+       "gl": "take an exam; take the entrance exam for",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "三次",
+       "py": "sāncì",
+       "gl": "three times",
+       "pos": "measure word"
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He stood up and shook my hand: \"If you'd like, once you've taken the exam next month, you can start work.\"",
+   "phrases": [
+    {
+     "en": "He stood up and shook my hand: \"If you'd like, once you've taken the exam next month, you can start work.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "站起来",
+       "py": "zhànqǐlái",
+       "gl": "stand up",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "握",
+       "py": "wò",
+       "gl": "hold; grip; shake (hands)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "握手",
+       "py": "wò shǒu",
+       "gl": "shake hands",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
       {
        "h": "“"
       },
@@ -725,41 +1255,39 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "you can start next month.\"",
-     "words": [
-      {
-       "h": "下",
-       "py": "xià",
-       "gl": "next; below; down",
-       "pos": "adj."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
+       "h": "下个月",
+       "py": "xiàgèyuè",
+       "gl": "next month",
        "pos": "n."
+      },
+      {
+       "h": "考完",
+       "py": "kǎowán",
+       "gl": "finish an exam",
+       "pos": "v."
+      },
+      {
+       "h": "试",
+       "py": "shì",
+       "gl": "try",
+       "pos": "v."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "就",
        "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
        "h": "可以",
        "py": "kěyǐ",
        "gl": "can; may; be allowed",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "来",
@@ -778,87 +1306,6 @@
       },
       {
        "h": "”"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I was so happy that I called my mom right away.",
-   "phrases": [
-    {
-     "en": "I was so happy,",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too; very",
-       "pos": "adv."
-      },
-      {
-       "h": "高兴",
-       "py": "gāoxìng",
-       "gl": "happy; glad",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I called my mom right away.",
-     "words": [
-      {
-       "h": "马上",
-       "py": "mǎshàng",
-       "gl": "immediately; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "for; to (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "妈妈",
-       "py": "māma",
-       "gl": "mom",
-       "pos": "n."
-      },
-      {
-       "h": "打",
-       "py": "dǎ",
-       "gl": "hit; play (ball games); make (a phone call)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "电话",
-       "py": "diànhuà",
-       "gl": "phone; phone call",
-       "pos": "n."
-      },
-      {
-       "h": "。"
       }
      ]
     }

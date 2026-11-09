@@ -1,17 +1,17 @@
 {
  "id": "campus",
  "level": 3,
- "title_zh": "大学生活",
- "title_en": "College Life",
+ "title_zh": "食堂阿姨",
+ "title_en": "The Canteen Auntie",
  "free": true,
  "audio_url": null,
- "note_en": "In Chinese, 虽然 \"although\" is normally paired with 但是 or 可是 \"but\" in the second half: 虽然课很多，但是我觉得很有意思 \"Although I have a lot of classes, I find them really interesting.\" In English you'd use only one of the two words, but in Chinese leaving out 但是 sounds incomplete.",
+ "note_en": "The pair 虽然……但是…… (\"although… but…\") always comes as a pair in Chinese: 虽然课很多，但是我觉得很有意思 — \"although there are lots of classes, I find them very interesting.\" In English \"but\" after \"although\" is wrong, while in Chinese the sentence sounds incomplete without 但是 (or 可是).",
  "sentences": [
   {
    "en": "I've been studying Chinese at a university in Beijing for a year now.",
    "phrases": [
     {
-     "en": "I study Chinese at a university in Beijing,",
+     "en": "I've been studying Chinese at a university in Beijing for a year now.",
      "words": [
       {
        "h": "我",
@@ -22,7 +22,7 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -34,20 +34,14 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
+       "h": "一所",
+       "py": "yīsuǒ",
+       "gl": "one (measure word for schools, institutions)",
        "pos": "num."
-      },
-      {
-       "h": "所",
-       "py": "suǒ",
-       "gl": "measure word for schools, hospitals, houses",
-       "pos": "measure word"
       },
       {
        "h": "大学",
@@ -69,12 +63,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and it's already been a year.",
-     "words": [
+      },
       {
        "h": "已经",
        "py": "yǐjīng",
@@ -82,15 +71,9 @@
        "pos": "adv."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "一年",
+       "py": "yīnián",
+       "gl": "one year; a year",
        "pos": "n."
       },
       {
@@ -107,10 +90,10 @@
    ]
   },
   {
-   "en": "Although I have a lot of classes, I find them really interesting.",
+   "en": "Although there are lots of classes, I find them very interesting.",
    "phrases": [
     {
-     "en": "Although I have a lot of classes,",
+     "en": "Although there are lots of classes, I find them very interesting.",
      "words": [
       {
        "h": "虽然",
@@ -125,25 +108,14 @@
        "pos": "n."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot; much",
        "pos": "adj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I find them really interesting.",
-     "words": [
+      },
       {
        "h": "但是",
        "py": "dànshì",
@@ -182,42 +154,413 @@
    ]
   },
   {
-   "en": "Classes start at eight in the morning, and I often get up as early as seven thirty.",
+   "en": "When I first arrived, I couldn't understand what the teachers said, and I could only say the name of one dish: kung pao chicken.",
    "phrases": [
     {
-     "en": "Classes start at eight in the morning,",
+     "en": "When I first arrived, I couldn't understand what the teachers said, and I could only say the name of one dish: kung pao chicken.",
      "words": [
       {
-       "h": "早上",
-       "py": "zǎoshang",
-       "gl": "morning",
+       "h": "刚",
+       "py": "gāng",
+       "gl": "just (now); only just",
+       "pos": "adv."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
        "pos": "n."
       },
       {
-       "h": "八",
-       "py": "bā",
-       "gl": "eight",
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "听不懂",
+       "py": "tīngbùdǒng",
+       "gl": "not understand (what one hears)",
+       "pos": "v."
+      },
+      {
+       "h": "老师",
+       "py": "lǎoshī",
+       "gl": "teacher",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "话",
+       "py": "huà",
+       "gl": "words; speech; what someone says",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "o'clock; point; dot",
-       "pos": "measure word"
+       "h": "菜",
+       "py": "cài",
+       "gl": "dish (food); cuisine",
+       "pos": "n."
       },
       {
-       "h": "上课",
-       "py": "shàngkè",
-       "gl": "attend class; have a lesson",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "名字",
+       "py": "míngzì",
+       "gl": "name",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "宫保鸡丁",
+       "py": "gōngbǎo jīdīng",
+       "gl": "Kung Pao chicken",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "So every day at lunch I went to the canteen, and every day I said, \"Kung pao chicken.\"",
+   "phrases": [
+    {
+     "en": "So every day at lunch I went to the canteen, and every day I said, \"Kung pao chicken.\"",
+     "words": [
+      {
+       "h": "所以",
+       "py": "suǒyǐ",
+       "gl": "so; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "中午",
+       "py": "zhōngwǔ",
+       "gl": "noon; midday",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "食堂",
+       "py": "shítáng",
+       "gl": "cafeteria; canteen",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "宫保鸡丁",
+       "py": "gōngbǎo jīdīng",
+       "gl": "Kung Pao chicken",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Every time, the canteen auntie smiled and gave me a little extra.",
+   "phrases": [
+    {
+     "en": "Every time, the canteen auntie smiled and gave me a little extra.",
+     "words": [
+      {
+       "h": "食堂",
+       "py": "shítáng",
+       "gl": "cafeteria; canteen",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "阿姨",
+       "py": "āyí",
+       "gl": "auntie (older woman)",
+       "pos": "n."
+      },
+      {
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "adv."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "笑一笑",
+       "py": "xiàoyīxiào",
+       "gl": "smile; have a laugh",
        "pos": "v."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "more (than)",
+       "pos": "adv."
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "Three months later, she finally asked me, \"Don't you want to try something else?\"",
+   "phrases": [
     {
-     "en": "and I often get up as early as seven thirty.",
+     "en": "Three months later, she finally asked me, \"Don't you want to try something else?\"",
+     "words": [
+      {
+       "h": "三个月",
+       "py": "sāngèyuè",
+       "gl": "three months",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "终于",
+       "py": "zhōngyú",
+       "gl": "finally; at last",
+       "pos": "adv."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "同学",
+       "py": "tóngxué",
+       "gl": "classmate",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "不想",
+       "py": "bùxiǎng",
+       "gl": "not want to",
+       "pos": "v."
+      },
+      {
+       "h": "换",
+       "py": "huàn",
+       "gl": "change; switch; exchange",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I really did, but I didn't know what the other dishes were called.",
+   "phrases": [
+    {
+     "en": "I really did, but I didn't know what the other dishes were called.",
      "words": [
       {
        "h": "我",
@@ -226,39 +569,118 @@
        "pos": "pron."
       },
       {
-       "h": "常常",
-       "py": "chángcháng",
-       "gl": "often",
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
        "pos": "adv."
       },
       {
-       "h": "七",
-       "py": "qī",
-       "gl": "seven",
-       "pos": "num."
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
       },
       {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "o'clock; point; dot",
-       "pos": "measure word"
+       "h": "换",
+       "py": "huàn",
+       "gl": "change (换个角度 from another angle)",
+       "pos": "v."
       },
       {
-       "h": "半",
-       "py": "bàn",
-       "gl": "half",
-       "pos": "num."
+       "h": "，"
       },
       {
-       "h": "就",
-       "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
-       "pos": "adv."
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
       },
       {
-       "h": "起床",
-       "py": "qǐchuáng",
-       "gl": "get up (out of bed)",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "不知道",
+       "py": "bùzhīdào",
+       "gl": "not know; no one knows",
+       "pos": "v."
+      },
+      {
+       "h": "别的",
+       "py": "biéde",
+       "gl": "other; else",
+       "pos": "pron."
+      },
+      {
+       "h": "菜",
+       "py": "cài",
+       "gl": "dish (food); cuisine",
+       "pos": "n."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening I looked up the names of twenty dishes in the library.",
+   "phrases": [
+    {
+     "en": "That evening I looked up the names of twenty dishes in the library.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "图书馆",
+       "py": "túshūguǎn",
+       "gl": "library",
+       "pos": "n."
+      },
+      {
+       "h": "查",
+       "py": "chá",
+       "gl": "check; look up (in a dictionary, online)",
        "pos": "v."
       },
       {
@@ -268,85 +690,28 @@
        "pos": "particle"
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The teachers are all very warm, and my classmates are friendly too.",
-   "phrases": [
-    {
-     "en": "The teachers are all very warm,",
-     "words": [
-      {
-       "h": "老师",
-       "py": "lǎoshī",
-       "gl": "teacher",
+       "h": "二十个",
+       "py": "èrshígè",
+       "gl": "twenty",
        "pos": "n."
       },
       {
-       "h": "们",
-       "py": "men",
-       "gl": "plural suffix for people",
+       "h": "菜",
+       "py": "cài",
+       "gl": "dish (food)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "热情",
-       "py": "rèqíng",
-       "gl": "warm; enthusiastic (of people); friendly",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and my classmates are friendly too.",
-     "words": [
-      {
-       "h": "同学",
-       "py": "tóngxué",
-       "gl": "classmate",
+       "h": "名字",
+       "py": "míngzì",
+       "gl": "name",
        "pos": "n."
-      },
-      {
-       "h": "们",
-       "py": "men",
-       "gl": "plural suffix for people",
-       "pos": "particle"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "友好",
-       "py": "yǒuhǎo",
-       "gl": "friendly",
-       "pos": "adj."
       },
       {
        "h": "。"
@@ -356,112 +721,20 @@
    ]
   },
   {
-   "en": "At lunchtime we eat in the cafeteria; the food there is cheap and tasty.",
+   "en": "The next day I said very loudly, \"Auntie, fish-fragrant pork!\"",
    "phrases": [
     {
-     "en": "At lunchtime we eat in the cafeteria;",
+     "en": "The next day I said very loudly, \"Auntie, fish-fragrant pork!\"",
      "words": [
       {
-       "h": "中午",
-       "py": "zhōngwǔ",
-       "gl": "noon; midday",
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
        "pos": "n."
       },
       {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "食堂",
-       "py": "shítáng",
-       "gl": "cafeteria; canteen",
-       "pos": "n."
-      },
-      {
-       "h": "吃饭",
-       "py": "chīfàn",
-       "gl": "eat; have a meal",
-       "pos": "v."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the food there is cheap and tasty.",
-     "words": [
-      {
-       "h": "那里",
-       "py": "nàlǐ",
-       "gl": "there",
-       "pos": "pron."
       },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "便宜",
-       "py": "piányi",
-       "gl": "cheap; inexpensive",
-       "pos": "adj."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "好吃",
-       "py": "hǎochī",
-       "gl": "tasty; delicious",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After class I often go to the library to read or do homework.",
-   "phrases": [
-    {
-     "en": "After class",
-     "words": [
-      {
-       "h": "下课",
-       "py": "xiàkè",
-       "gl": "finish class; class is over",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I often go to the library",
-     "words": [
       {
        "h": "我",
        "py": "wǒ",
@@ -469,51 +742,143 @@
        "pos": "pron."
       },
       {
-       "h": "常",
-       "py": "cháng",
-       "gl": "often",
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
        "pos": "adv."
       },
       {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
+       "h": "大声",
+       "py": "dàshēng",
+       "gl": "loudly",
+       "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "图书馆",
-       "py": "túshūguǎn",
-       "gl": "library",
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "阿姨",
+       "py": "āyí",
+       "gl": "auntie (older woman)",
        "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "鱼香肉丝",
+       "py": "yúxiāng ròusī",
+       "gl": "fish-fragrant pork",
+       "pos": "n."
+      },
+      {
+       "h": "！"
+      },
+      {
+       "h": "”"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "She paused for a moment, then laughed so happily, as if I'd got full marks in an exam.",
+   "phrases": [
     {
-     "en": "to read or do homework.",
+     "en": "She paused for a moment, then laughed so happily, as if I'd got full marks in an exam.",
      "words": [
       {
-       "h": "看书",
-       "py": "kànshū",
-       "gl": "read (books)",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "愣了一下",
+       "py": "lèngleyīxià",
+       "gl": "was stunned for a moment",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "然后",
+       "py": "ránhòu",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "笑得",
+       "py": "xiàodé",
+       "gl": "laugh so hard that",
        "pos": "v."
       },
       {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
       },
       {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
+       "h": "开心",
+       "py": "kāixīn",
+       "gl": "happy; cheerful",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "好像",
+       "py": "hǎoxiàng",
+       "gl": "seem; be like",
+       "pos": "adv."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "考",
+       "py": "kǎo",
+       "gl": "take an exam; take the entrance exam for",
        "pos": "v."
       },
       {
-       "h": "作业",
-       "py": "zuòyè",
-       "gl": "homework",
-       "pos": "n."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一百",
+       "py": "yìbǎi",
+       "gl": "one hundred",
+       "pos": "num."
+      },
+      {
+       "h": "分",
+       "py": "fēn",
+       "gl": "point (score); measure word for points",
+       "pos": "measure word"
       },
       {
        "h": "。"
@@ -523,11 +888,62 @@
    ]
   },
   {
-   "en": "On weekends I sometimes go shopping with classmates, and sometimes I go play badminton.",
+   "en": "Now I can chat with Chinese people, and at weekends I play badminton with my classmates.",
    "phrases": [
     {
-     "en": "On weekends I sometimes go shopping with classmates,",
+     "en": "Now I can chat with Chinese people, and at weekends I play badminton with my classmates.",
      "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "中国人",
+       "py": "zhōngguórén",
+       "gl": "Chinese person; the Chinese",
+       "pos": "n."
+      },
+      {
+       "h": "聊天",
+       "py": "liáotiān",
+       "gl": "chat; talk",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "周末",
        "py": "zhōumò",
@@ -535,22 +951,16 @@
        "pos": "n."
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "有时候",
-       "py": "yǒushíhòu",
-       "gl": "sometimes",
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
       },
       {
        "h": "同学",
@@ -565,29 +975,9 @@
        "pos": "adv."
       },
       {
-       "h": "逛街",
-       "py": "guàngjiē",
-       "gl": "go shopping; walk around the streets",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and sometimes I go play badminton.",
-     "words": [
-      {
-       "h": "有时候",
-       "py": "yǒushíhòu",
-       "gl": "sometimes",
-       "pos": "adv."
-      },
-      {
        "h": "去",
        "py": "qù",
-       "gl": "go",
+       "gl": "go (to)",
        "pos": "v."
       },
       {
@@ -610,165 +1000,10 @@
    ]
   },
   {
-   "en": "When I first came here, I couldn't understand what the teachers said; now I can already chat with Chinese people.",
-   "phrases": [
-    {
-     "en": "When I first came here,",
-     "words": [
-      {
-       "h": "刚",
-       "py": "gāng",
-       "gl": "just (now); only just",
-       "pos": "adv."
-      },
-      {
-       "h": "来",
-       "py": "lái",
-       "gl": "come; arrive",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I couldn't understand what the teachers said;",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "听",
-       "py": "tīng",
-       "gl": "listen; hear",
-       "pos": "v."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "懂",
-       "py": "dǒng",
-       "gl": "understand",
-       "pos": "v."
-      },
-      {
-       "h": "老师",
-       "py": "lǎoshī",
-       "gl": "teacher",
-       "pos": "n."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "话",
-       "py": "huà",
-       "gl": "words; speech; what someone says",
-       "pos": "n."
-      },
-      {
-       "h": "；"
-      }
-     ]
-    },
-    {
-     "en": "now I can already chat with Chinese people.",
-     "words": [
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "跟",
-       "py": "gēn",
-       "gl": "with; together with",
-       "pos": "prep."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "聊天",
-       "py": "liáotiān",
-       "gl": "chat; talk",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "en": "I think the most important thing in learning a language is speaking and listening every day.",
    "phrases": [
     {
-     "en": "I think",
+     "en": "I think the most important thing in learning a language is speaking and listening every day.",
      "words": [
       {
        "h": "我",
@@ -784,12 +1019,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the most important thing in learning a language is",
-     "words": [
+      },
       {
        "h": "学",
        "py": "xué",
@@ -817,7 +1047,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -825,12 +1055,7 @@
        "py": "shì",
        "gl": "be (is; am; are)",
        "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "speaking and listening every day.",
-     "words": [
+      },
       {
        "h": "每天",
        "py": "měitiān",
@@ -846,7 +1071,7 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
@@ -863,51 +1088,67 @@
    ]
   },
   {
-   "en": "College life makes me very happy.",
+   "en": "And having someone willing to wait for you.",
    "phrases": [
     {
-     "en": "College life",
+     "en": "And having someone willing to wait for you.",
      "words": [
       {
-       "h": "大学",
-       "py": "dàxué",
-       "gl": "university; college",
-       "pos": "n."
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
+       "pos": "conj."
       },
       {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life; live",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "makes me very happy.",
-     "words": [
+       "h": "，"
+      },
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "愿意",
+       "py": "yuànyì",
+       "gl": "be willing",
+       "pos": "v."
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "particle"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
        "pos": "pron."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "快乐",
-       "py": "kuàilè",
-       "gl": "happy; happiness",
-       "pos": "adj."
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
       },
       {
        "h": "。"

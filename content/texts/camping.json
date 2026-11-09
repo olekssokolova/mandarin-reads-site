@@ -1,66 +1,79 @@
 {
  "id": "camping",
  "level": 3,
- "title_zh": "露营",
- "title_en": "Camping",
+ "title_zh": "没有信号的山",
+ "title_en": "The Mountain With No Signal",
  "free": false,
  "audio_url": null,
- "note_en": "一下子 (yíxiàzi) means \"all of a sudden, in an instant.\" In 天气一下子就变冷了 \"the weather suddenly turned cold,\" it stresses how fast the change happened. It often pairs with 就 and a change-of-state 了 at the end of the sentence.",
+ "note_en": "一下子 (\"suddenly, all at once\") stresses that a change happened instantly: 天气一下子就变冷了 — \"it suddenly turned cold.\" In the story the word appears three times: for the weather, for the silence in the tent, and for the mist that vanishes at sunrise.",
  "sentences": [
   {
-   "en": "Last weekend, a few of my friends and I went camping in the mountains.",
+   "en": "Ten years after graduation, Lao Meng wrote in the group chat: \"Let's go camping in the mountains this weekend.\"",
    "phrases": [
     {
-     "en": "Last weekend,",
+     "en": "Ten years after graduation, Lao Meng wrote in the group chat: \"Let's go camping in the mountains this weekend.\"",
      "words": [
       {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
+       "h": "毕业",
+       "py": "bìyè",
+       "gl": "graduate",
+       "pos": "v."
+      },
+      {
+       "h": "十年",
+       "py": "shínián",
+       "gl": "ten years; decade",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "老孟",
+       "py": "Lǎo Mèng",
+       "gl": "Lao Meng",
+       "pos": "proper noun"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on; be (at, in); particle: action in progress (他在吃 'he is eating')",
+       "pos": "prep."
+      },
+      {
+       "h": "群",
+       "py": "qún",
+       "gl": "group chat",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
        "pos": "postposition"
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
       },
       {
        "h": "周末",
        "py": "zhōumò",
        "gl": "weekend",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "a few of my friends and I went camping in the mountains.",
-     "words": [
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "how many (under ten); which (number)",
-       "pos": "question word"
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "朋友",
-       "py": "péngyou",
-       "gl": "friend",
        "pos": "n."
       },
       {
@@ -70,40 +83,109 @@
        "pos": "v."
       },
       {
-       "h": "山",
-       "py": "shān",
-       "gl": "mountain",
+       "h": "山里",
+       "py": "shānlǐ",
+       "gl": "in the mountains; into the mountains",
        "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "li",
-       "gl": "in; inside",
-       "pos": "postposition"
       },
       {
        "h": "露营",
        "py": "lùyíng",
-       "gl": "camp; go camping",
+       "gl": "camp out",
        "pos": "v."
       },
       {
+       "h": "吧",
+       "py": "ba",
+       "gl": "particle: supposition (…right?)",
+       "pos": "particle"
+      },
+      {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "When we got there, we put up the tents and made a fire together.",
+   "en": "We were all very busy, but for some reason everyone came.",
    "phrases": [
     {
-     "en": "When we got there,",
+     "en": "We were all very busy, but for some reason everyone came.",
      "words": [
       {
-       "h": "到",
-       "py": "dào",
-       "gl": "arrive; reach; come",
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "几个",
+       "py": "jǐgè",
+       "gl": "a few; several",
+       "pos": "num."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "忙",
+       "py": "máng",
+       "gl": "busy",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "不知道",
+       "py": "bùzhīdào",
+       "gl": "not know; no one knows",
+       "pos": "v."
+      },
+      {
+       "h": "为什么",
+       "py": "wèishénme",
+       "gl": "why",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
        "pos": "v."
       },
       {
@@ -113,19 +195,33 @@
        "pos": "particle"
       },
       {
-       "h": "目的地",
-       "py": "mùdìdì",
-       "gl": "destination",
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Up in the mountains we pitched the tents and built a fire together, as if we were back at university.",
+   "phrases": [
+    {
+     "en": "Up in the mountains we pitched the tents and built a fire together, as if we were back at university.",
+     "words": [
+      {
+       "h": "到了",
+       "py": "dàole",
+       "gl": "reach; arrive; when it comes to (time); by (到了清朝 by the Qing dynasty)",
+       "pos": "v."
+      },
+      {
+       "h": "山上",
+       "py": "shānshàng",
+       "gl": "on the mountain",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "we put up the tents together",
-     "words": [
+      },
       {
        "h": "我们",
        "py": "wǒmen",
@@ -141,34 +237,56 @@
       {
        "h": "搭",
        "py": "dā",
-       "gl": "put up (a tent); build",
+       "gl": "put up (a tent)",
        "pos": "v."
       },
       {
        "h": "帐篷",
-       "py": "zhàngpéng",
+       "py": "zhàngpeng",
        "gl": "tent",
        "pos": "n."
       },
       {
        "h": "、"
-      }
-     ]
-    },
-    {
-     "en": "and made a fire.",
-     "words": [
+      },
       {
-       "h": "生",
-       "py": "shēng",
-       "gl": "light (a fire); give birth; grow; raw",
+       "h": "生火",
+       "py": "shēng huǒ",
+       "gl": "make a fire",
        "pos": "v."
       },
       {
-       "h": "火",
-       "py": "huǒ",
-       "gl": "internal heat (TCM); fire",
+       "h": "，"
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "回到",
+       "py": "huídào",
+       "gl": "return to; get back to",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "大学",
+       "py": "dàxué",
+       "gl": "university; college",
        "pos": "n."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
       },
       {
        "h": "。"
@@ -178,37 +296,32 @@
    ]
   },
   {
-   "en": "In the evening, the weather suddenly turned cold.",
+   "en": "After the sun went down, it suddenly turned cold.",
    "phrases": [
     {
-     "en": "In the evening,",
+     "en": "After the sun went down, it suddenly turned cold.",
      "words": [
       {
-       "h": "傍晚",
-       "py": "bàngwǎn",
-       "gl": "dusk; early evening",
+       "h": "太阳",
+       "py": "tàiyáng",
+       "gl": "sun",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "下山",
+       "py": "xiàshān",
+       "gl": "go down a mountain; descend a mountain",
+       "pos": "v."
       },
       {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the weather suddenly turned cold.",
-     "words": [
+      },
       {
        "h": "天气",
        "py": "tiānqì",
@@ -218,26 +331,20 @@
       {
        "h": "一下子",
        "py": "yíxiàzi",
-       "gl": "all at once; suddenly",
+       "gl": "suddenly; all at once",
        "pos": "adv."
       },
       {
        "h": "就",
        "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "gl": "then; right away; just (emphasis)",
        "pos": "adv."
       },
       {
-       "h": "变",
-       "py": "biàn",
-       "gl": "change; become",
+       "h": "变冷",
+       "py": "biànlěng",
+       "gl": "turn cold",
        "pos": "v."
-      },
-      {
-       "h": "冷",
-       "py": "lěng",
-       "gl": "cold",
-       "pos": "adj."
       },
       {
        "h": "了",
@@ -253,10 +360,10 @@
    ]
   },
   {
-   "en": "We sat by the fire, roasting things to eat and chatting.",
+   "en": "We sat by the fire, roasting food and talking about old times.",
    "phrases": [
     {
-     "en": "We sat by the fire,",
+     "en": "We sat by the fire, roasting food and talking about old times.",
      "words": [
       {
        "h": "我们",
@@ -265,42 +372,25 @@
        "pos": "pron."
       },
       {
-       "h": "坐",
-       "py": "zuò",
-       "gl": "sit; ride; take (transport)",
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
        "pos": "v."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "火",
-       "py": "huǒ",
-       "gl": "internal heat (TCM); fire",
-       "pos": "n."
-      },
-      {
-       "h": "边",
-       "py": "biān",
-       "gl": "side; edge (河边 \"riverside\")",
+       "h": "火边",
+       "py": "huǒ biān",
+       "gl": "by the fire",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "roasting things to eat",
-     "words": [
+      },
       {
        "h": "一边",
-       "py": "yìbiān",
+       "py": "yībiān",
        "gl": "at the same time (一边…一边… doing two things at once)",
-       "pos": "adv."
+       "pos": "conj."
       },
       {
        "h": "烤",
@@ -310,8 +400,8 @@
       },
       {
        "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; things; stuff",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
        "pos": "n."
       },
       {
@@ -319,23 +409,39 @@
        "py": "chī",
        "gl": "eat",
        "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "and chatting.",
-     "words": [
-      {
-       "h": "一边",
-       "py": "yìbiān",
-       "gl": "at the same time (一边…一边… doing two things at once)",
-       "pos": "adv."
       },
       {
-       "h": "聊天",
-       "py": "liáotiān",
-       "gl": "chat; talk",
+       "h": "，"
+      },
+      {
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "聊",
+       "py": "liáo",
+       "gl": "chat; talk (about)",
        "pos": "v."
+      },
+      {
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -345,54 +451,43 @@
    ]
   },
   {
-   "en": "At night, lying in the tent, we could hear the insects. It was so quiet.",
+   "en": "Lying in the tent at night, all we could hear was insects, and our phones had no signal at all.",
    "phrases": [
     {
-     "en": "At night, lying in the tent,",
+     "en": "Lying in the tent at night, all we could hear was insects, and our phones had no signal at all.",
      "words": [
       {
        "h": "晚上",
-       "py": "wǎnshang",
-       "gl": "evening",
+       "py": "wǎnshàng",
+       "gl": "evening; in the evening; night",
        "pos": "n."
       },
       {
-       "h": "躺",
-       "py": "tǎng",
-       "gl": "lie (down)",
+       "h": "躺在",
+       "py": "tǎngzài",
+       "gl": "lie in; lie on",
        "pos": "v."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
        "h": "帐篷",
-       "py": "zhàngpéng",
+       "py": "zhàngpeng",
        "gl": "tent",
        "pos": "n."
       },
       {
        "h": "里",
-       "py": "li",
+       "py": "lǐ",
        "gl": "in; inside",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "we could hear the insects,",
-     "words": [
+      },
       {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
+       "h": "只能",
+       "py": "zhǐnéng",
+       "gl": "can only; have to",
+       "pos": "v."
       },
       {
        "h": "听到",
@@ -409,34 +504,47 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "声音",
        "py": "shēngyīn",
-       "gl": "sound; voice",
+       "gl": "sound",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it was so quiet.",
-     "words": [
+      },
       {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly; special",
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
        "pos": "adv."
       },
       {
-       "h": "安静",
-       "py": "ānjìng",
-       "gl": "quiet; calm",
-       "pos": "adj."
+       "h": "信号",
+       "py": "xìnhào",
+       "gl": "signal; reception",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -446,59 +554,334 @@
    ]
   },
   {
-   "en": "When we woke up the next morning and saw the sunrise, we all felt the trip was totally worth it.",
+   "en": "Lao Meng suddenly said, \"Actually, I've got divorced. And I've lost my job.\"",
    "phrases": [
     {
-     "en": "When we woke up the next morning",
+     "en": "Lao Meng suddenly said, \"Actually, I've got divorced. And I've lost my job.\"",
      "words": [
       {
-       "h": "第",
-       "py": "dì",
-       "gl": "prefix for ordinal numbers (第一 \"first\")",
+       "h": "老孟",
+       "py": "Lǎo Mèng",
+       "gl": "Lao Meng",
+       "pos": "proper noun"
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "其实",
+       "py": "qíshí",
+       "gl": "actually; in fact",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "离婚",
+       "py": "líhūn",
+       "gl": "divorce",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "二",
-       "py": "èr",
-       "gl": "two; second (in 第二)",
-       "pos": "num."
+       "h": "，"
       },
       {
-       "h": "天",
-       "py": "tiān",
-       "gl": "sky; day",
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "丢",
+       "py": "diū",
+       "gl": "lose; throw; toss",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The tent went quiet all at once.",
+   "phrases": [
+    {
+     "en": "The tent went quiet all at once.",
+     "words": [
+      {
+       "h": "帐篷",
+       "py": "zhàngpeng",
+       "gl": "tent",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "一下子",
+       "py": "yíxiàzi",
+       "gl": "suddenly; all at once",
+       "pos": "adv."
+      },
+      {
+       "h": "安静",
+       "py": "ānjìng",
+       "gl": "quiet; calm",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Nobody said \"it's all right,\" and nobody asked why.",
+   "phrases": [
+    {
+     "en": "Nobody said \"it's all right,\" and nobody asked why.",
+     "words": [
+      {
+       "h": "没有人",
+       "py": "méiyǒurén",
+       "gl": "nobody; no one",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "没关系",
+       "py": "méiguānxì",
+       "gl": "it doesn't matter; that's OK",
+       "pos": "v."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没有人",
+       "py": "méiyǒurén",
+       "gl": "nobody; no one",
+       "pos": "pron."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "为什么",
+       "py": "wèishénme",
+       "gl": "why",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Someone just pushed their sleeping bag a little closer to him.",
+   "phrases": [
+    {
+     "en": "Someone just pushed their sleeping bag a little closer to him.",
+     "words": [
+      {
+       "h": "有人",
+       "py": "yǒurén",
+       "gl": "someone; some people",
+       "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "睡袋",
+       "py": "shuìdài",
+       "gl": "sleeping bag",
+       "pos": "n."
+      },
+      {
+       "h": "往",
+       "py": "wǎng",
+       "gl": "toward; to",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "那边",
+       "py": "nàbiān",
+       "gl": "that side; there",
+       "pos": "n."
+      },
+      {
+       "h": "推",
+       "py": "tuī",
+       "gl": "push",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "推",
+       "py": "tuī",
+       "gl": "push",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The next morning we got up at five to watch the sunrise.",
+   "phrases": [
+    {
+     "en": "The next morning we got up at five to watch the sunrise.",
+     "words": [
+      {
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
        "pos": "n."
       },
       {
        "h": "早上",
-       "py": "zǎoshang",
+       "py": "zǎoshàng",
        "gl": "morning",
        "pos": "n."
       },
       {
-       "h": "醒",
-       "py": "xǐng",
-       "gl": "wake up",
-       "pos": "v."
-      },
-      {
-       "h": "来",
-       "py": "lái",
-       "gl": "come; arrive",
-       "pos": "v."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and saw the sunrise,",
-     "words": [
+      },
       {
-       "h": "看到",
-       "py": "kàndào",
-       "gl": "see",
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "五点",
+       "py": "wǔdiǎn",
+       "gl": "five o'clock",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
        "pos": "v."
       },
       {
@@ -508,13 +891,185 @@
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "When the sun came out, the mist on the mountain vanished all at once.",
+   "phrases": [
     {
-     "en": "we all felt the trip was totally worth it.",
+     "en": "When the sun came out, the mist on the mountain vanished all at once.",
      "words": [
+      {
+       "h": "太阳",
+       "py": "tàiyáng",
+       "gl": "sun",
+       "pos": "n."
+      },
+      {
+       "h": "出来",
+       "py": "chūlái",
+       "gl": "directional complement: out; into being; come out",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "山上",
+       "py": "shānshàng",
+       "gl": "on the mountain",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "雾",
+       "py": "wù",
+       "gl": "fog",
+       "pos": "n."
+      },
+      {
+       "h": "一下子",
+       "py": "yíxiàzi",
+       "gl": "suddenly; all at once",
+       "pos": "adv."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lao Meng said, \"I thought you wouldn't come.\"",
+   "phrases": [
+    {
+     "en": "Lao Meng said, \"I thought you wouldn't come.\"",
+     "words": [
+      {
+       "h": "老孟",
+       "py": "Lǎo Mèng",
+       "gl": "Lao Meng",
+       "pos": "proper noun"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "以为",
+       "py": "yǐwéi",
+       "gl": "think (mistakenly); assume",
+       "pos": "v."
+      },
+      {
+       "h": "你们",
+       "py": "nǐmen",
+       "gl": "you (plural)",
+       "pos": "pron."
+      },
+      {
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely (会不会 'will or won't')",
+       "pos": "v."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the way down, we had already fixed a date for next year.",
+   "phrases": [
+    {
+     "en": "On the way down, we had already fixed a date for next year.",
+     "words": [
+      {
+       "h": "下山",
+       "py": "xiàshān",
+       "gl": "go down a mountain; descend a mountain",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "路上",
+       "py": "lùshàng",
+       "gl": "on the way; on the road",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "我们",
        "py": "wǒmen",
@@ -522,22 +1077,40 @@
        "pos": "pron."
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
+       "h": "订",
+       "py": "dìng",
+       "gl": "conclude (a treaty)",
        "pos": "v."
       },
       {
-       "h": "不虚此行",
-       "py": "bùxūcǐxíng",
-       "gl": "the trip was worth it (idiom)",
-       "pos": "phrase"
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "明年",
+       "py": "míngnián",
+       "gl": "next year",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
       },
       {
        "h": "。"

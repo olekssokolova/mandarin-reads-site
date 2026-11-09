@@ -1,17 +1,17 @@
 {
  "id": "airport",
  "level": 3,
- "title_zh": "在机场",
- "title_en": "At the Airport",
+ "title_zh": "两个机场",
+ "title_en": "Two Airports",
  "free": false,
  "audio_url": null,
- "note_en": "To tell someone not to do something, Chinese puts 别 (bié) in front of the verb: 别着急 \"Don't worry.\" It works like English \"don't\" and is used in everyday speech; 不要 means the same but sounds a little more formal or emphatic.",
+ "note_en": "A request not to do something is expressed with 别 before the verb: 别着急 — \"don't worry,\" 别怕 — \"don't be afraid.\" In the story, 别 is said first by a stranger, an old man, and later by the person the narrator is flying to see.",
  "sentences": [
   {
-   "en": "Today I'm flying to Chengdu.",
+   "en": "Today I'm flying to Chengdu to meet a girl I've known online for a year.",
    "phrases": [
     {
-     "en": "Today I'm flying to Chengdu.",
+     "en": "Today I'm flying to Chengdu to meet a girl I've known online for a year.",
      "words": [
       {
        "h": "今天",
@@ -28,7 +28,7 @@
       {
        "h": "要",
        "py": "yào",
-       "gl": "want; order; be going to; need",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
@@ -46,62 +46,46 @@
       {
        "h": "去",
        "py": "qù",
-       "gl": "go",
+       "gl": "go (to do something)",
        "pos": "v."
       },
       {
        "h": "成都",
-       "py": "chéngdū",
+       "py": "Chéngdū",
        "gl": "Chengdu",
        "pos": "proper noun"
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I got to the airport at six in the morning.",
-   "phrases": [
-    {
-     "en": "I got to the airport as early as six in the morning.",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
+       "h": "，"
       },
       {
-       "h": "早上",
-       "py": "zǎoshang",
-       "gl": "morning",
-       "pos": "n."
+       "h": "见",
+       "py": "jiàn",
+       "gl": "see; meet (不见了 \"disappeared\")",
+       "pos": "v."
       },
       {
-       "h": "六",
-       "py": "liù",
-       "gl": "six",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "o'clock; point; dot",
-       "pos": "measure word"
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
-       "h": "就",
-       "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
-       "pos": "adv."
+       "h": "网上",
+       "py": "wǎngshàng",
+       "gl": "online; on the internet",
+       "pos": "n."
       },
       {
-       "h": "到",
-       "py": "dào",
-       "gl": "arrive; reach; come",
+       "h": "认识",
+       "py": "rènshi",
+       "gl": "know (a person, a character); get to know; recognize",
        "pos": "v."
       },
       {
@@ -111,9 +95,21 @@
        "pos": "particle"
       },
       {
-       "h": "机场",
-       "py": "jīchǎng",
-       "gl": "airport",
+       "h": "一年",
+       "py": "yīnián",
+       "gl": "one year; a year",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "女孩",
+       "py": "nǚhái",
+       "gl": "girl",
        "pos": "n."
       },
       {
@@ -124,22 +120,61 @@
    ]
   },
   {
-   "en": "First I got my boarding pass, then I checked my bags.",
+   "en": "I got to the airport at six in the morning, picked up my boarding pass and checked my luggage.",
    "phrases": [
     {
-     "en": "First I got my boarding pass,",
+     "en": "I got to the airport at six in the morning, picked up my boarding pass and checked my luggage.",
      "words": [
       {
-       "h": "先",
-       "py": "xiān",
-       "gl": "first; before",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "六点",
+       "py": "liùdiǎn",
+       "gl": "six o'clock",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "办",
-       "py": "bàn",
-       "gl": "get (a card, document); handle; do",
+       "h": "到了",
+       "py": "dàole",
+       "gl": "reach; arrive; when it comes to (time); by (到了清朝 by the Qing dynasty)",
        "pos": "v."
+      },
+      {
+       "h": "机场",
+       "py": "jīchǎng",
+       "gl": "airport",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "办好",
+       "py": "bànhǎo",
+       "gl": "run well; organize successfully",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "登机牌",
@@ -149,17 +184,6 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "then I checked my bags.",
-     "words": [
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; then",
-       "pos": "adv."
       },
       {
        "h": "托运",
@@ -168,8 +192,14 @@
        "pos": "v."
       },
       {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
        "h": "行李",
-       "py": "xínglǐ",
+       "py": "xíngli",
        "gl": "luggage; baggage",
        "pos": "n."
       },
@@ -181,103 +211,16 @@
    ]
   },
   {
-   "en": "There were a lot of people at security, and I waited in line for twenty minutes.",
+   "en": "After security it was still early, so I sat in a café rehearsing my first sentence over and over.",
    "phrases": [
     {
-     "en": "There were a lot of people at security,",
-     "words": [
-      {
-       "h": "安检",
-       "py": "ānjiǎn",
-       "gl": "security check",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and I waited in line for twenty minutes.",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "排",
-       "py": "pái",
-       "gl": "line up; arrange in a row (排队 wait in line)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "二十",
-       "py": "èrshí",
-       "gl": "twenty",
-       "pos": "num."
-      },
-      {
-       "h": "分钟",
-       "py": "fēnzhōng",
-       "gl": "minute",
-       "pos": "measure word"
-      },
-      {
-       "h": "队",
-       "py": "duì",
-       "gl": "line; queue; team",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After I got through security, I saw that it was still early, so I sat in a coffee shop for a while.",
-   "phrases": [
-    {
-     "en": "After I got through security,",
+     "en": "After security it was still early, so I sat in a café rehearsing my first sentence over and over.",
      "words": [
       {
        "h": "过",
        "py": "guò",
-       "gl": "particle: past experience; spend (time); celebrate; pass",
-       "pos": "particle"
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
       },
       {
        "h": "了",
@@ -293,23 +236,6 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I saw that it was still early,",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "发现",
-       "py": "fāxiàn",
-       "gl": "discover; notice; find",
-       "pos": "v."
       },
       {
        "h": "时间",
@@ -320,7 +246,7 @@
       {
        "h": "还",
        "py": "hái",
-       "gl": "also; still; in addition",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
@@ -331,23 +257,18 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so I sat in a coffee shop for a while.",
-     "words": [
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
-       "pos": "adv."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
+       "pos": "v."
       },
       {
        "h": "咖啡店",
@@ -356,22 +277,37 @@
        "pos": "n."
       },
       {
-       "h": "坐",
-       "py": "zuò",
-       "gl": "sit; ride; take (transport)",
-       "pos": "v."
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
+       "h": "，"
+      },
+      {
+       "h": "一遍一遍",
+       "py": "yí biàn yí biàn",
+       "gl": "over and over",
+       "pos": "phrase"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
        "pos": "particle"
       },
       {
-       "h": "一会儿",
-       "py": "yíhuìr",
-       "gl": "a while; a moment",
-       "pos": "adv."
+       "h": "练习",
+       "py": "liànxí",
+       "gl": "practice; exercise",
+       "pos": "v."
+      },
+      {
+       "h": "第一句话",
+       "py": "dìyījùhuà",
+       "gl": "first sentence; first words",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -381,10 +317,10 @@
    ]
   },
   {
-   "en": "Suddenly there was an announcement: \"The flight to Chengdu will be delayed by one hour.\"",
+   "en": "Suddenly there was an announcement: the flight to Chengdu would be three hours late.",
    "phrases": [
     {
-     "en": "Suddenly",
+     "en": "Suddenly there was an announcement: the flight to Chengdu would be three hours late.",
      "words": [
       {
        "h": "突然",
@@ -394,16 +330,11 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "there was an announcement:",
-     "words": [
+      },
       {
        "h": "广播",
        "py": "guǎngbō",
-       "gl": "broadcast; announcement (over loudspeaker); radio",
+       "gl": "announcement",
        "pos": "n."
       },
       {
@@ -413,32 +344,24 @@
        "pos": "v."
       },
       {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"The flight to Chengdu",
-     "words": [
-      {
-       "h": "“"
+       "h": "，"
       },
       {
        "h": "去",
        "py": "qù",
-       "gl": "go",
+       "gl": "go (to)",
        "pos": "v."
       },
       {
        "h": "成都",
-       "py": "chéngdū",
+       "py": "Chéngdū",
        "gl": "Chengdu",
        "pos": "proper noun"
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -446,16 +369,11 @@
        "py": "fēijī",
        "gl": "airplane",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "will take off an hour late.\"",
-     "words": [
+      },
       {
        "h": "要",
        "py": "yào",
-       "gl": "want; order; be going to; need",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
@@ -465,16 +383,10 @@
        "pos": "adj."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "三个",
+       "py": "sāngè",
+       "gl": "three (with measure word 个)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "小时",
@@ -490,60 +402,136 @@
       },
       {
        "h": "。"
-      },
-      {
-       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "An older gentleman next to me said, \"Don't worry, this happens all the time.\"",
+   "en": "I panicked at once and messaged her straight away, but she didn't reply.",
    "phrases": [
     {
-     "en": "An older gentleman next to me said to me:",
+     "en": "I panicked at once and messaged her straight away, but she didn't reply.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一下子",
+       "py": "yíxiàzi",
+       "gl": "all at once; suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "着急",
+       "py": "zháojí",
+       "gl": "worried; anxious; in a hurry",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "马上",
+       "py": "mǎshàng",
+       "gl": "immediately; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "发消息",
+       "py": "fāxiāoxī",
+       "gl": "send a message; text",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "reply",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "An old gentleman next to me said, \"Don't worry, this happens all the time.\"",
+   "phrases": [
+    {
+     "en": "An old gentleman next to me said, \"Don't worry, this happens all the time.\"",
      "words": [
       {
        "h": "旁边",
        "py": "pángbiān",
        "gl": "next to; beside",
-       "pos": "postposition"
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "位",
-       "py": "wèi",
-       "gl": "polite measure word for people",
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
        "pos": "measure word"
       },
       {
-       "h": "老",
-       "py": "lǎo",
-       "gl": "old; elderly",
-       "pos": "adj."
-      },
-      {
-       "h": "先生",
-       "py": "xiānsheng",
-       "gl": "gentleman; Mr.; husband",
+       "h": "老先生",
+       "py": "lǎo xiānsheng",
+       "gl": "old gentleman",
        "pos": "n."
       },
       {
        "h": "对",
        "py": "duì",
-       "gl": "to; toward; correct",
+       "gl": "regarding; on",
        "pos": "prep."
       },
       {
@@ -560,12 +548,7 @@
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"Don't worry,",
-     "words": [
+      },
       {
        "h": "“"
       },
@@ -583,23 +566,12 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "this happens all the time.\"",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
+       "h": "这是",
+       "py": "zhèshì",
+       "gl": "this is",
+       "pos": "phrase"
       },
       {
        "h": "常常",
@@ -610,19 +582,19 @@
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "事",
        "py": "shì",
-       "gl": "matter; thing; event",
+       "gl": "matter; thing",
        "pos": "n."
       },
       {
@@ -636,15 +608,94 @@
    ]
   },
   {
-   "en": "I smiled, took out my book and went on reading.",
+   "en": "I said, \"You don't understand — someone's waiting for me.\"",
    "phrases": [
     {
-     "en": "I smiled,",
+     "en": "I said, \"You don't understand — someone's waiting for me.\"",
      "words": [
       {
        "h": "我",
        "py": "wǒ",
        "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "明白",
+       "py": "míngbái",
+       "gl": "understand; realize",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有人",
+       "py": "yǒurén",
+       "gl": "someone; some people",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He smiled: \"Forty years ago my flight was late too — a whole day late.\"",
+   "phrases": [
+    {
+     "en": "He smiled: \"Forty years ago my flight was late too — a whole day late.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
        "pos": "pron."
       },
       {
@@ -660,47 +711,302 @@
        "pos": "particle"
       },
       {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
+       "h": "："
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "took out my book and went on reading.",
-     "words": [
-      {
-       "h": "拿出",
-       "py": "náchū",
-       "gl": "take out",
-       "pos": "v."
+       "h": "“"
       },
       {
-       "h": "书",
-       "py": "shū",
-       "gl": "book",
+       "h": "四十年",
+       "py": "sìshínián",
+       "gl": "forty years",
        "pos": "n."
       },
       {
-       "h": "来",
-       "py": "lái",
-       "gl": "come; arrive",
+       "h": "前",
+       "py": "qián",
+       "gl": "ago; before",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "飞机",
+       "py": "fēijī",
+       "gl": "airplane",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "晚",
+       "py": "wǎn",
+       "gl": "late",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "晚",
+       "py": "wǎn",
+       "gl": "late",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一整天",
+       "py": "yīzhěngtiān",
+       "gl": "a whole day",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"So what did you do?\"",
+   "phrases": [
+    {
+     "en": "\"So what did you do?\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "怎么办",
+       "py": "zěnmebàn",
+       "gl": "what to do",
+       "pos": "pron."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"I got to know a girl at the airport who was also waiting for a plane.\" He pointed into the distance, where an old lady was walking over with two cups of tea.",
+   "phrases": [
+    {
+     "en": "\"I got to know a girl at the airport who was also waiting for a plane.\" He pointed into the distance, where an old lady was walking over with two cups of tea.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "机场",
+       "py": "jīchǎng",
+       "gl": "airport",
+       "pos": "n."
+      },
+      {
+       "h": "认识",
+       "py": "rènshí",
+       "gl": "know (a person, a character); get to know; recognize",
        "pos": "v."
       },
       {
-       "h": "继续",
-       "py": "jìxù",
-       "gl": "continue; go on",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "function word"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "particle"
+      },
+      {
+       "h": "飞机",
+       "py": "fēijī",
+       "gl": "airplane",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "function word"
+      },
+      {
+       "h": "女孩",
+       "py": "nǚhái",
+       "gl": "girl",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "指",
+       "py": "zhǐ",
+       "gl": "refer to; mean; point at",
        "pos": "v."
       },
       {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "function word"
+      },
+      {
+       "h": "指",
+       "py": "zhǐ",
+       "gl": "refer to; mean; point at",
+       "pos": "v."
+      },
+      {
+       "h": "远处",
+       "py": "yuǎnchù",
+       "gl": "distance; far away (向远处 into the distance)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
+       "pos": "measure word"
+      },
+      {
+       "h": "老太太",
+       "py": "lǎotàitai",
+       "gl": "old lady",
+       "pos": "n."
+      },
+      {
+       "h": "正",
+       "py": "zhèng",
+       "gl": "just; right now (in progress)",
+       "pos": "adv."
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "function word"
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "杯",
+       "py": "bēi",
+       "gl": "cup; glass (also measure word)",
+       "pos": "n."
+      },
+      {
+       "h": "茶",
+       "py": "chá",
+       "gl": "tea",
+       "pos": "n."
+      },
+      {
+       "h": "走过来",
+       "py": "zǒuguòlái",
+       "gl": "come over; walk over",
        "pos": "v."
       },
       {
@@ -711,35 +1017,33 @@
    ]
   },
   {
-   "en": "Finally the plane took off, and my trip began.",
+   "en": "\"Later, she became my wife.\"",
    "phrases": [
     {
-     "en": "Finally",
+     "en": "\"Later, she became my wife.\"",
      "words": [
       {
-       "h": "终于",
-       "py": "zhōngyú",
-       "gl": "finally; at last",
+       "h": "“"
+      },
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
        "pos": "adv."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the plane took off,",
-     "words": [
-      {
-       "h": "飞机",
-       "py": "fēijī",
-       "gl": "airplane",
-       "pos": "n."
       },
       {
-       "h": "起飞",
-       "py": "qǐfēi",
-       "gl": "take off (of a plane)",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "成",
+       "py": "chéng",
+       "gl": "become; turn into",
        "pos": "v."
       },
       {
@@ -748,14 +1052,6 @@
        "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and my trip began.",
-     "words": [
       {
        "h": "我",
        "py": "wǒ",
@@ -765,19 +1061,62 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "旅行",
-       "py": "lǚxíng",
-       "gl": "travel; trip",
-       "pos": "v."
+       "h": "妻子",
+       "py": "qīzi",
+       "gl": "wife",
+       "pos": "n."
       },
       {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Just then my phone rang. She'd replied: \"Don't be afraid — I'm at the airport too, and my flight's late as well.\"",
+   "phrases": [
+    {
+     "en": "Just then my phone rang. She'd replied: \"Don't be afraid — I'm at the airport too, and my flight's late as well.\"",
+     "words": [
+      {
+       "h": "这时候",
+       "py": "zhèshíhòu",
+       "gl": "at this time; at this point",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "响",
+       "py": "xiǎng",
+       "gl": "ring; make a sound",
        "pos": "v."
       },
       {
@@ -785,6 +1124,302 @@
        "py": "le",
        "gl": "particle: completed action / change of state",
        "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "reply",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "别",
+       "py": "bié",
+       "gl": "don't (prohibition); other",
+       "pos": "adv."
+      },
+      {
+       "h": "怕",
+       "py": "pà",
+       "gl": "be afraid; fear; worry",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "机场",
+       "py": "jīchǎng",
+       "gl": "airport",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "航班",
+       "py": "hángbān",
+       "gl": "flight",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "晚",
+       "py": "wǎn",
+       "gl": "late",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It turned out she'd wanted to surprise me and was flying to my city to find me.",
+   "phrases": [
+    {
+     "en": "It turned out she'd wanted to surprise me and was flying to my city to find me.",
+     "words": [
+      {
+       "h": "原来",
+       "py": "yuánlái",
+       "gl": "it turns out; so (that's why); originally",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "惊喜",
+       "py": "jīngxǐ",
+       "gl": "pleasant surprise",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
+       "pos": "v."
+      },
+      {
+       "h": "飞机",
+       "py": "fēijī",
+       "gl": "airplane",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "找",
+       "py": "zhǎo",
+       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The two of us, in two airports, laughed together for a long time.",
+   "phrases": [
+    {
+     "en": "The two of us, in two airports, laughed together for a long time.",
+     "words": [
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "两个人",
+       "py": "liǎnggèrén",
+       "gl": "two people",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "机场",
+       "py": "jīchǎng",
+       "gl": "airport",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
       },
       {
        "h": "。"

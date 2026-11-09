@@ -1,17 +1,17 @@
 {
  "id": "promotion",
  "level": 3,
- "title_zh": "升职",
- "title_en": "Getting Promoted",
+ "title_zh": "一杯咖啡",
+ "title_en": "A Cup of Coffee",
  "free": false,
  "audio_url": null,
- "note_en": "白 (bái) usually means \"white,\" but before a verb it means \"in vain, for nothing.\" 没白费 means \"wasn't wasted\": 这三年的努力终于没白费 \"three years of hard work finally paid off.\" Also note 比我还高兴 \"even happier than me\": 还 in a 比 sentence adds \"even.\"",
+ "note_en": "The pattern 没白 + verb means \"not in vain\": 白 is \"for nothing,\" and 没 in front of it denies the waste. In the story it appears twice: 我教你没白教 — \"teaching you wasn't wasted\" and 三年的努力没白费 — \"three years of effort didn't go to waste.\"",
  "sentences": [
   {
-   "en": "I've been working at this company for three years now.",
+   "en": "I've worked at this company for three years, and all that time I've been learning from Sister He.",
    "phrases": [
     {
-     "en": "I've been working at this company for three years now.",
+     "en": "I've worked at this company for three years, and all that time I've been learning from Sister He.",
      "words": [
       {
        "h": "我",
@@ -22,32 +22,20 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
+       "h": "这家",
+       "py": "zhèjiā",
+       "gl": "this (company, shop, family)",
        "pos": "pron."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "n."
       },
       {
        "h": "公司",
        "py": "gōngsī",
        "gl": "company; office (work)",
        "pos": "n."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
       },
       {
        "h": "工作",
@@ -62,116 +50,36 @@
        "pos": "particle"
       },
       {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
+       "h": "三年",
+       "py": "sānnián",
+       "gl": "three years",
        "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In these three years, I've always worked hard and never been late.",
-   "phrases": [
-    {
-     "en": "In these three years,",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "li",
-       "gl": "in; inside",
-       "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I've always worked hard",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
       },
       {
        "h": "一直",
        "py": "yìzhí",
-       "gl": "all the time; continuously; straight",
+       "gl": "all along; always; continuously",
        "pos": "adv."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
+       "h": "跟着",
+       "py": "gēnzhe",
+       "gl": "follow; along with",
+       "pos": "v."
       },
       {
-       "h": "努力",
-       "py": "nǔlì",
-       "gl": "work hard; hard; diligently",
-       "pos": "adv."
+       "h": "何姐",
+       "py": "Hé jiě",
+       "gl": "Sister He",
+       "pos": "proper noun"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and never been late.",
-     "words": [
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "迟到",
-       "py": "chídào",
-       "gl": "be late",
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
        "pos": "v."
       },
       {
@@ -182,15 +90,118 @@
    ]
   },
   {
-   "en": "Last week, my manager suddenly called me into his office.",
+   "en": "She taught me to make spreadsheets and write reports, and how to talk to clients.",
    "phrases": [
     {
-     "en": "Last week,",
+     "en": "She taught me to make spreadsheets and write reports, and how to talk to clients.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "表",
+       "py": "biǎo",
+       "gl": "watch; form; table",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "报告",
+       "py": "bàogào",
+       "gl": "report",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
+       "pos": "pron."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "客户",
+       "py": "kèhù",
+       "gl": "client; customer",
+       "pos": "n."
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Last week the manager suddenly called me into his office.",
+   "phrases": [
+    {
+     "en": "Last week the manager suddenly called me into his office.",
      "words": [
       {
        "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
        "pos": "postposition"
       },
       {
@@ -207,12 +218,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "my manager suddenly called me into his office.",
-     "words": [
+      },
       {
        "h": "经理",
        "py": "jīnglǐ",
@@ -228,7 +234,7 @@
       {
        "h": "叫",
        "py": "jiào",
-       "gl": "be called; call",
+       "gl": "be called",
        "pos": "v."
       },
       {
@@ -240,7 +246,7 @@
       {
        "h": "去",
        "py": "qù",
-       "gl": "go",
+       "gl": "go (to)",
        "pos": "v."
       },
       {
@@ -252,7 +258,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -269,10 +275,10 @@
    ]
   },
   {
-   "en": "He said, \"The company has decided to make you team leader, and you'll get a raise too.\"",
+   "en": "He said, \"The company has decided to make you team leader, and your salary will go up.\"",
    "phrases": [
     {
-     "en": "He said,",
+     "en": "He said, \"The company has decided to make you team leader, and your salary will go up.\"",
      "words": [
       {
        "h": "他",
@@ -288,19 +294,14 @@
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"The company has decided to make you team leader,",
-     "words": [
+      },
       {
        "h": "“"
       },
       {
        "h": "公司",
        "py": "gōngsī",
-       "gl": "company; office (work)",
+       "gl": "company",
        "pos": "n."
       },
       {
@@ -312,7 +313,7 @@
       {
        "h": "让",
        "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
@@ -335,12 +336,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and you'll get a raise too.\"",
-     "words": [
+      },
       {
        "h": "工资",
        "py": "gōngzī",
@@ -356,13 +352,13 @@
       {
        "h": "会",
        "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
       },
       {
        "h": "涨",
        "py": "zhǎng",
-       "gl": "rise (of prices, wages); go up",
+       "gl": "rise (of pay, prices)",
        "pos": "v."
       },
       {
@@ -376,10 +372,10 @@
    ]
   },
   {
-   "en": "I was so happy I almost jumped up. Three years of hard work had finally paid off.",
+   "en": "I nearly jumped for joy, but straight away I thought of Sister He.",
    "phrases": [
     {
-     "en": "I was so happy I almost jumped up. Three years of hard work had finally paid off.",
+     "en": "I nearly jumped for joy, but straight away I thought of Sister He.",
      "words": [
       {
        "h": "我",
@@ -406,73 +402,43 @@
        "pos": "adv."
       },
       {
-       "h": "跳",
-       "py": "tiào",
-       "gl": "jump; dance",
+       "h": "跳起来",
+       "py": "tiàoqǐlái",
+       "gl": "jump up",
        "pos": "v."
-      },
-      {
-       "h": "起来",
-       "py": "qǐlái",
-       "gl": "up (directional complement: 站起来 stand up); start to",
-       "pos": "particle"
       },
       {
        "h": "，"
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
       },
       {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
+       "h": "马上",
+       "py": "mǎshàng",
+       "gl": "immediately; right away",
+       "pos": "adv."
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
+       "h": "想到",
+       "py": "xiǎngdào",
+       "gl": "think of; expect (没想到 'didn't expect')",
+       "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "努力",
-       "py": "nǔlì",
-       "gl": "work hard; hard; diligently",
-       "pos": "adv."
-      },
-      {
-       "h": "终于",
-       "py": "zhōngyú",
-       "gl": "finally; at last",
-       "pos": "adv."
-      },
-      {
-       "h": "没",
-       "py": "méi",
-       "gl": "not (have); negates 有 and past actions",
-       "pos": "adv."
-      },
-      {
-       "h": "白",
-       "py": "bái",
-       "gl": "white",
-       "pos": "adj."
-      },
-      {
-       "h": "费",
-       "py": "fèi",
-       "gl": "waste (白费 be in vain); fee; expense",
-       "pos": "v."
+       "h": "何姐",
+       "py": "Hé jiě",
+       "gl": "Sister He",
+       "pos": "proper noun"
       },
       {
        "h": "。"
@@ -482,16 +448,666 @@
    ]
   },
   {
-   "en": "That evening I called my mom and dad, and they were even happier than I was.",
+   "en": "She'd been at the company for ten years; the job should have been hers.",
    "phrases": [
     {
-     "en": "That evening I called my mom and dad,",
+     "en": "She'd been at the company for ten years; the job should have been hers.",
      "words": [
       {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
+       "pos": "n."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "十年",
+       "py": "shínián",
+       "gl": "ten years; decade",
+       "pos": "num."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "位子",
+       "py": "wèizi",
+       "gl": "seat; position",
+       "pos": "n."
+      },
+      {
+       "h": "应该",
+       "py": "yīnggāi",
+       "gl": "should; ought to; probably",
+       "pos": "v."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Back at my desk, I didn't dare look at her.",
+   "phrases": [
+    {
+     "en": "Back at my desk, I didn't dare look at her.",
+     "words": [
+      {
+       "h": "回到",
+       "py": "huídào",
+       "gl": "return to; get back to",
+       "pos": "v."
+      },
+      {
+       "h": "座位",
+       "py": "zuòwèi",
+       "gl": "seat",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on; in; in terms of (after a noun: 世界上 in the world, 工作上 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "不敢",
+       "py": "bùgǎn",
+       "gl": "not dare",
+       "pos": "v."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At the end of the day she came over and put a cup of coffee on my desk.",
+   "phrases": [
+    {
+     "en": "At the end of the day she came over and put a cup of coffee on my desk.",
+     "words": [
+      {
+       "h": "下班",
+       "py": "xiàbān",
+       "gl": "get off work; finish work",
+       "pos": "v."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "走过来",
+       "py": "zǒuguòlái",
+       "gl": "come over; walk over",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一杯",
+       "py": "yībēi",
+       "gl": "a cup of; a glass of",
+       "pos": "measure word"
+      },
+      {
+       "h": "咖啡",
+       "py": "kāfēi",
+       "gl": "coffee",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "桌子",
+       "py": "zhuōzi",
+       "gl": "table; desk",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Congratulations. Teaching you wasn't wasted.\"",
+   "phrases": [
+    {
+     "en": "\"Congratulations. Teaching you wasn't wasted.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "恭喜",
+       "py": "gōngxǐ",
+       "gl": "congratulate",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "白",
+       "py": "bái",
+       "gl": "in vain; for nothing",
+       "pos": "adv."
+      },
+      {
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I said quietly, \"I'm sorry.\"",
+   "phrases": [
+    {
+     "en": "I said quietly, \"I'm sorry.\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "小声",
+       "py": "xiǎoshēng",
+       "gl": "in a low voice; quietly",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "对不起",
+       "py": "duìbùqǐ",
+       "gl": "sorry; excuse me",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She laughed: \"Do you know who recommended you?\"",
+   "phrases": [
+    {
+     "en": "She laughed: \"Do you know who recommended you?\"",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "是谁",
+       "py": "shìshuí",
+       "gl": "who (it is)",
+       "pos": "pron."
+      },
+      {
+       "h": "推荐",
+       "py": "tuījiàn",
+       "gl": "recommend; recommendation",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I froze.",
+   "phrases": [
+    {
+     "en": "I froze.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "愣住",
+       "py": "lèngzhù",
+       "gl": "be stunned",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"I'm leaving next month to open my own bakery,\" she said. \"Before I go, I wanted to hand this place to someone I can trust.\"",
+   "phrases": [
+    {
+     "en": "\"I'm leaving next month to open my own bakery,\" she said. \"Before I go, I wanted to hand this place to someone I can trust.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "下个月",
+       "py": "xiàgèyuè",
+       "gl": "next month",
+       "pos": "n."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "要去",
+       "py": "yàoqù",
+       "gl": "be going to go",
+       "pos": "v."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; start (a business)",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "面包店",
+       "py": "miànbāodiàn",
+       "gl": "bakery",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "这里",
+       "py": "zhèlǐ",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "交给",
+       "py": "jiāogěi",
+       "gl": "hand over to; give to",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "放心",
+       "py": "fàngxīn",
+       "gl": "feel at ease; stop worrying",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening I phoned my parents, and they were even happier than me.",
+   "phrases": [
+    {
+     "en": "That evening I phoned my parents, and they were even happier than me.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
        "h": "晚上",
-       "py": "wǎnshang",
+       "py": "wǎnshàng",
        "gl": "evening",
        "pos": "n."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "我",
@@ -502,41 +1118,24 @@
       {
        "h": "给",
        "py": "gěi",
-       "gl": "for; to (someone); give",
+       "gl": "to; for (someone); give",
        "pos": "prep."
       },
       {
-       "h": "爸爸",
-       "py": "bàba",
-       "gl": "dad; father",
+       "h": "爸爸妈妈",
+       "py": "bàbàmāmā",
+       "gl": "mom and dad; parents",
        "pos": "n."
       },
       {
-       "h": "妈妈",
-       "py": "māma",
-       "gl": "mom",
-       "pos": "n."
-      },
-      {
-       "h": "打",
-       "py": "dǎ",
-       "gl": "hit; play (ball games); make (a phone call)",
+       "h": "打电话",
+       "py": "dǎdiànhuà",
+       "gl": "make a phone call; call",
        "pos": "v."
       },
       {
-       "h": "电话",
-       "py": "diànhuà",
-       "gl": "phone; phone call",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "they were even happier than I was.",
-     "words": [
+      },
       {
        "h": "他们",
        "py": "tāmen",
@@ -558,14 +1157,187 @@
       {
        "h": "还",
        "py": "hái",
-       "gl": "also; still; in addition",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
        "h": "高兴",
        "py": "gāoxìng",
        "gl": "happy; glad",
-       "pos": "adj."
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I didn't tell them that actually I felt a bit like crying.",
+   "phrases": [
+    {
+     "en": "I didn't tell them that actually I felt a bit like crying.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
+       "pos": "v."
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "其实",
+       "py": "qíshí",
+       "gl": "actually; in fact",
+       "pos": "adv."
+      },
+      {
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
+      },
+      {
+       "h": "想哭",
+       "py": "xiǎngkū",
+       "gl": "want to cry; feel like crying",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Three years of effort didn't go to waste, but the person I most want to thank is leaving.",
+   "phrases": [
+    {
+     "en": "Three years of effort didn't go to waste, but the person I most want to thank is leaving.",
+     "words": [
+      {
+       "h": "三年",
+       "py": "sānnián",
+       "gl": "three years",
+       "pos": "num."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "努力",
+       "py": "nǔlì",
+       "gl": "work hard; hard; diligently",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "be gone; disappear (没了)",
+       "pos": "v."
+      },
+      {
+       "h": "白费",
+       "py": "báifèi",
+       "gl": "waste (effort); in vain; wasted",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "感谢",
+       "py": "gǎnxiè",
+       "gl": "thank; be grateful",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "离开",
+       "py": "líkāi",
+       "gl": "leave",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "。"

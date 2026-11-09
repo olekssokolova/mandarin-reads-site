@@ -1,17 +1,17 @@
 {
  "id": "aicourse3",
  "level": 3,
- "title_zh": "人工智能课",
- "title_en": "My AI Class",
+ "title_zh": "第一个程序",
+ "title_en": "My First Program",
  "free": false,
  "audio_url": null,
- "note_en": "English says \"although...\" or \"but,\" never both, but Chinese happily uses the pair 虽然……但是 together: 虽然有些内容很难，但是我学得很带劲 \"Although some of it is hard, I really enjoy learning it.\" Using both halves is normal and even sounds more complete in Chinese.",
+ "note_en": "The word 入门 (literally \"enter the gate\") means getting started with something, the basics: 一门人工智能入门课 — \"an introductory course on artificial intelligence.\" It describes the beginner level of any field.",
  "sentences": [
   {
-   "en": "This semester, the school started a new intro course on artificial intelligence.",
+   "en": "This term the university launched a new introductory course on artificial intelligence.",
    "phrases": [
     {
-     "en": "This semester, the school started a new intro course on artificial intelligence.",
+     "en": "This term the university launched a new introductory course on artificial intelligence.",
      "words": [
       {
        "h": "这个",
@@ -32,16 +32,10 @@
        "pos": "n."
       },
       {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
+       "h": "新开",
+       "py": "xīnkāi",
+       "gl": "newly opened",
        "pos": "adj."
-      },
-      {
-       "h": "开",
-       "py": "kāi",
-       "gl": "open; turn on; open (an account); prescribe",
-       "pos": "v."
       },
       {
        "h": "了",
@@ -50,28 +44,22 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "门",
-       "py": "mén",
-       "gl": "door; measure word for school subjects",
+       "h": "一门",
+       "py": "yīmén",
+       "gl": "one (measure word for languages, subjects, courses)",
        "pos": "measure word"
       },
       {
        "h": "人工智能",
-       "py": "réngōngzhìnéng",
+       "py": "réngōng zhìnéng",
        "gl": "artificial intelligence",
        "pos": "n."
       },
       {
        "h": "入门",
        "py": "rùmén",
-       "gl": "introduction; beginner's course",
-       "pos": "n."
+       "gl": "introductory",
+       "pos": "adj."
       },
       {
        "h": "课",
@@ -87,10 +75,10 @@
    ]
   },
   {
-   "en": "The teacher starts with the most basic concepts, so it's easy for us to understand.",
+   "en": "The teacher started from the most basic ideas so that we could follow easily.",
    "phrases": [
     {
-     "en": "The teacher starts with the most basic concepts, so it's easy for us to understand.",
+     "en": "The teacher started from the most basic ideas so that we could follow easily.",
      "words": [
       {
        "h": "老师",
@@ -113,13 +101,13 @@
       {
        "h": "基础",
        "py": "jīchǔ",
-       "gl": "basis; foundation; basic",
+       "gl": "basics; foundation",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -140,7 +128,7 @@
       {
        "h": "让",
        "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
@@ -183,13 +171,13 @@
       {
        "h": "还",
        "py": "hái",
-       "gl": "also; still; in addition",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
        "h": "要",
        "py": "yào",
-       "gl": "want; order; be going to; need",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
@@ -201,7 +189,7 @@
       {
        "h": "动手",
        "py": "dòngshǒu",
-       "gl": "do it oneself; get down to work",
+       "gl": "do it yourself",
        "pos": "v."
       },
       {
@@ -212,9 +200,9 @@
       },
       {
        "h": "一些",
-       "py": "yìxie",
-       "gl": "some; a few",
-       "pos": "num."
+       "py": "yīxiē",
+       "gl": "some; certain",
+       "pos": "pron."
       },
       {
        "h": "简单",
@@ -225,7 +213,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -242,10 +230,10 @@
    ]
   },
   {
-   "en": "Although some of the material is hard, I really enjoy learning it.",
+   "en": "Although some of it is hard, I study it with real enthusiasm.",
    "phrases": [
     {
-     "en": "Although some of the material is hard, I really enjoy learning it.",
+     "en": "Although some of it is hard, I study it with real enthusiasm.",
      "words": [
       {
        "h": "虽然",
@@ -313,7 +301,7 @@
       {
        "h": "带劲",
        "py": "dàijìn",
-       "gl": "with enthusiasm; exciting",
+       "gl": "with gusto",
        "pos": "adj."
       },
       {
@@ -324,10 +312,704 @@
    ]
   },
   {
-   "en": "I hope to work in a field related to AI someday.",
+   "en": "The first program I wrote was very simple: every morning at seven, it sends a message to Dad's phone.",
    "phrases": [
     {
-     "en": "I hope to work in a field related to AI someday.",
+     "en": "The first program I wrote was very simple: every morning at seven, it sends a message to Dad's phone.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "第一个",
+       "py": "dìyígè",
+       "gl": "the first",
+       "pos": "num."
+      },
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "简单",
+       "py": "jiǎndān",
+       "gl": "simple; easy",
+       "pos": "adj."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "七",
+       "py": "qī",
+       "gl": "seven",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "一句话",
+       "py": "yījùhuà",
+       "gl": "a sentence; a word",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The message says: \"Dad, keep it up today too.\"",
+   "phrases": [
+    {
+     "en": "The message says: \"Dad, keep it up today too.\"",
+     "words": [
+      {
+       "h": "那句话",
+       "py": "nàjùhuà",
+       "gl": "that remark",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "今天",
+       "py": "jīntiān",
+       "gl": "today",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "加油",
+       "py": "jiāyóu",
+       "gl": "come on!; keep it up!",
+       "pos": "interj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Dad works on a building site and leaves home at half past six every day.",
+   "phrases": [
+    {
+     "en": "Dad works on a building site and leaves home at half past six every day.",
+     "words": [
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "工地",
+       "py": "gōngdì",
+       "gl": "construction site",
+       "pos": "n."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "六点",
+       "py": "liùdiǎn",
+       "gl": "six o'clock",
+       "pos": "n."
+      },
+      {
+       "h": "半",
+       "py": "bàn",
+       "gl": "half",
+       "pos": "num."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "出门",
+       "py": "chūmén",
+       "gl": "go out (of the house); leave home",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the very first day, he phoned me: \"Sweetheart, why are you up so early?\"",
+   "phrases": [
+    {
+     "en": "On the very first day, he phoned me: \"Sweetheart, why are you up so early?\"",
+     "words": [
+      {
+       "h": "第一天",
+       "py": "dìyìtiān",
+       "gl": "first day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "打电话",
+       "py": "dǎdiànhuà",
+       "gl": "make a phone call; call",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
+       "pos": "pron."
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "get up",
+       "pos": "v."
+      },
+      {
+       "h": "这么",
+       "py": "zhème",
+       "gl": "so; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "早",
+       "py": "zǎo",
+       "gl": "early",
+       "pos": "adj."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I didn't tell him the program had sent it and I was still asleep.",
+   "phrases": [
+    {
+     "en": "I didn't tell him the program had sent it and I was still asleep.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "那是",
+       "py": "nàshì",
+       "gl": "of course; sure (that's right)",
+       "pos": "phrase"
+      },
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "睡觉",
+       "py": "shuìjiào",
+       "gl": "sleep; go to bed",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After that, every day at seven he replies: \"You keep it up too.\"",
+   "phrases": [
+    {
+     "en": "After that, every day at seven he replies: \"You keep it up too.\"",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "七",
+       "py": "qī",
+       "gl": "seven",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "reply",
+       "pos": "v."
+      },
+      {
+       "h": "一句",
+       "py": "yījù",
+       "gl": "one sentence; one line (of a poem)",
+       "pos": "measure word"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "加油",
+       "py": "jiāyóu",
+       "gl": "come on!; keep it up!",
+       "pos": "interj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "My program can only send messages, it can't answer, so every morning when I wake up, the first thing I do is read his reply.",
+   "phrases": [
+    {
+     "en": "My program can only send messages, it can't answer, so every morning when I wake up, the first thing I do is read his reply.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "发消息",
+       "py": "fāxiāoxī",
+       "gl": "send a message; text",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely",
+       "pos": "v."
+      },
+      {
+       "h": "回答",
+       "py": "huídá",
+       "gl": "answer; reply",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "所以",
+       "py": "suǒyǐ",
+       "gl": "so; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "醒来",
+       "py": "xǐnglái",
+       "gl": "wake up",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "先",
+       "py": "xiān",
+       "gl": "first; before",
+       "pos": "adv."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "回答",
+       "py": "huídá",
+       "gl": "answer; reply",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I hope one day to work in a job connected with AI.",
+   "phrases": [
+    {
+     "en": "I hope one day to work in a job connected with AI.",
      "words": [
       {
        "h": "我",
@@ -344,14 +1026,14 @@
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
+       "gl": "later; in the future",
+       "pos": "adv."
       },
       {
        "h": "能",
        "py": "néng",
        "gl": "can; be able to",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "从事",
@@ -362,12 +1044,12 @@
       {
        "h": "跟",
        "py": "gēn",
-       "gl": "with; together with",
+       "gl": "with; and; follow",
        "pos": "prep."
       },
       {
        "h": "人工智能",
-       "py": "réngōngzhìnéng",
+       "py": "réngōng zhìnéng",
        "gl": "artificial intelligence",
        "pos": "n."
       },
@@ -380,7 +1062,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -388,6 +1070,94 @@
        "py": "gōngzuò",
        "gl": "work; job",
        "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But my favourite program will probably always be this one.",
+   "phrases": [
+    {
+     "en": "But my favourite program will probably always be this one.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "喜欢",
+       "py": "xǐhuān",
+       "gl": "like; love",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "程序",
+       "py": "chéngxù",
+       "gl": "program (computer); procedure",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可能",
+       "py": "kěnéng",
+       "gl": "possible; maybe",
+       "pos": "adv."
+      },
+      {
+       "h": "永远",
+       "py": "yǒngyuǎn",
+       "gl": "forever; always",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
       },
       {
        "h": "。"

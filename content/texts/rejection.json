@@ -1,29 +1,62 @@
 {
  "id": "rejection",
  "level": 3,
- "title_zh": "被拒绝",
- "title_en": "Rejected",
+ "title_zh": "一封长邮件",
+ "title_en": "A Long Email",
  "free": false,
  "audio_url": null,
- "note_en": "被 (bèi) marks something done to you, often something unwelcome. In 一封被拒绝的邮件 \"a rejection email\" (literally \"an email of being rejected\"), 被拒绝 describes the email. English just says \"rejection\"; Chinese often uses 被 + verb where English would use a noun or \"get\" + past participle.",
+ "note_en": "The passive with 被 often describes an unpleasant experience: 我被公司拒绝了七次 — \"I've been turned down by companies seven times,\" 我也被很多公司拒绝过 — \"I was also rejected by many companies.\" The doer (公司) comes straight after 被.",
  "sentences": [
   {
-   "en": "Last week, I had an interview at my dream company.",
+   "en": "I work in recruitment at a company, and every week I have to send lots of rejection emails.",
    "phrases": [
     {
-     "en": "Last week,",
+     "en": "I work in recruitment at a company, and every week I have to send lots of rejection emails.",
      "words": [
       {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
-       "pos": "postposition"
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "一家",
+       "py": "yìjiā",
+       "gl": "a; one (shop, family, company)",
        "pos": "measure word"
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
+       "pos": "n."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make; be; work as",
+       "pos": "v."
+      },
+      {
+       "h": "招聘",
+       "py": "zhāopìn",
+       "gl": "recruit; hire",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每个",
+       "py": "měigè",
+       "gl": "every; each",
+       "pos": "pron."
       },
       {
        "h": "星期",
@@ -32,237 +65,28 @@
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I had an interview at my dream company.",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "参加",
-       "py": "cānjiā",
-       "gl": "take part in; participate",
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "理想",
-       "py": "lǐxiǎng",
-       "gl": "ideal; dream",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in (the course of); among",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company; office (work)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "面试",
-       "py": "miànshì",
-       "gl": "interview (job)",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "During the interview, I thought I did pretty well.",
-   "phrases": [
-    {
-     "en": "During the interview,",
-     "words": [
-      {
-       "h": "面试",
-       "py": "miànshì",
-       "gl": "interview (job)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "I thought I did pretty well.",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
        "pos": "v."
       },
       {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "表现",
-       "py": "biǎoxiàn",
-       "gl": "perform; do (well/badly); behave; performance",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; still; in addition",
-       "pos": "adv."
-      },
-      {
-       "h": "不错",
-       "py": "búcuò",
-       "gl": "not bad; good",
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of",
        "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But three days later, I got a rejection email.",
-   "phrases": [
-    {
-     "en": "But three days later,",
-     "words": [
-      {
-       "h": "可是",
-       "py": "kěshì",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "sky; day",
-       "pos": "n."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I got a rejection email.",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "收到",
-       "py": "shōudào",
-       "gl": "receive",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
       },
       {
        "h": "封",
        "py": "fēng",
        "gl": "measure word for letters",
        "pos": "measure word"
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
       },
       {
        "h": "拒绝",
@@ -273,7 +97,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -290,27 +114,199 @@
    ]
   },
   {
-   "en": "At that moment I felt really down and even started doubting my abilities.",
+   "en": "The emails are all the same: \"Thank you for your application. Unfortunately…\"",
    "phrases": [
     {
-     "en": "At that moment I felt really down,",
+     "en": "The emails are all the same: \"Thank you for your application. Unfortunately…\"",
      "words": [
       {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
+       "h": "邮件",
+       "py": "yóujiàn",
+       "gl": "email",
+       "pos": "n."
+      },
+      {
+       "h": "都是",
+       "py": "dōushì",
+       "gl": "all are; are all",
+       "pos": "v."
+      },
+      {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "谢谢",
+       "py": "xièxie",
+       "gl": "thank you; thanks",
+       "pos": "phrase"
+      },
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
        "pos": "pron."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "申请",
+       "py": "shēnqǐng",
+       "gl": "apply (for); application",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "遗憾",
+       "py": "yíhàn",
+       "gl": "regret; unfortunately",
+       "pos": "adj."
+      },
+      {
+       "h": "…"
+      },
+      {
+       "h": "…"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Last month a girl replied: \"I've been turned down by companies seven times. Could you tell me what I'm doing wrong?\"",
+   "phrases": [
+    {
+     "en": "Last month a girl replied: \"I've been turned down by companies seven times. Could you tell me what I'm doing wrong?\"",
+     "words": [
+      {
+       "h": "上个月",
+       "py": "shànggèyuè",
+       "gl": "last month",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "刻",
-       "py": "kè",
-       "gl": "moment (那一刻 'that moment'); carve; engrave",
+       "h": "女孩",
+       "py": "nǚhái",
+       "gl": "girl",
+       "pos": "n."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "reply",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "邮件",
+       "py": "yóujiàn",
+       "gl": "email",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
+       "pos": "n."
+      },
+      {
+       "h": "拒绝",
+       "py": "jùjué",
+       "gl": "refuse; reject",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "七",
+       "py": "qī",
+       "gl": "seven",
+       "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "能不能",
+       "py": "néngbùnéng",
+       "gl": "can or not; whether (one) can",
+       "pos": "v."
+      },
+      {
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
        "pos": "v."
       },
       {
@@ -320,36 +316,168 @@
        "pos": "pron."
       },
       {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly; special",
-       "pos": "adv."
+       "h": "，"
       },
       {
-       "h": "难过",
-       "py": "nánguò",
-       "gl": "sad; upset",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "哪里",
+       "py": "nǎlǐ",
+       "gl": "where",
+       "pos": "question word"
+      },
+      {
+       "h": "做得",
+       "py": "zuòdé",
+       "gl": "do; make (+ complement: 做得很好 done well)",
+       "pos": "v."
+      },
+      {
+       "h": "不好",
+       "py": "bùhǎo",
+       "gl": "bad; not good",
        "pos": "adj."
       },
       {
-       "h": "，"
+       "h": "？"
+      },
+      {
+       "h": "”"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "According to the rules, I'm not allowed to answer.",
+   "phrases": [
     {
-     "en": "and even started doubting my abilities.",
+     "en": "According to the rules, I'm not allowed to answer.",
      "words": [
       {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
+       "h": "按",
+       "py": "àn",
+       "gl": "according to; by",
+       "pos": "prep."
+      },
+      {
+       "h": "规定",
+       "py": "guīdìng",
+       "gl": "regulation; rule",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
+      },
+      {
+       "h": "回答",
+       "py": "huídá",
+       "gl": "answer; reply",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But I read her CV and remembered myself five years ago.",
+   "phrases": [
+    {
+     "en": "But I read her CV and remembered myself five years ago.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
        "pos": "conj."
       },
       {
-       "h": "怀疑",
-       "py": "huáiyí",
-       "gl": "doubt; suspect",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
        "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "简历",
+       "py": "jiǎnlì",
+       "gl": "resume",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "想起",
+       "py": "xiǎngqǐ",
+       "gl": "remember; think of; remind (让我想起 'remind me of')",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "五年",
+       "py": "wǔnián",
+       "gl": "five years",
+       "pos": "n."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "自己",
@@ -358,15 +486,260 @@
        "pos": "pron."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Back then I was also rejected by many companies, and nobody ever told me why.",
+   "phrases": [
+    {
+     "en": "Back then I was also rejected by many companies, and nobody ever told me why.",
+     "words": [
+      {
+       "h": "那时候",
+       "py": "nàshíhòu",
+       "gl": "at that time; back then",
+       "pos": "n."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
+       "pos": "n."
+      },
+      {
+       "h": "拒绝",
+       "py": "jùjué",
+       "gl": "refuse; reject",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "没有一个人",
+       "py": "méiyǒuyígèrén",
+       "gl": "not a single person; no one",
+       "pos": "pron."
+      },
+      {
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "为什么",
+       "py": "wèishénme",
+       "gl": "why",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening I wrote her a very long email: her CV was too long, she spoke too fast in interviews, and she didn't ask any questions at the end.",
+   "phrases": [
+    {
+     "en": "That evening I wrote her a very long email: her CV was too long, she spoke too fast in interviews, and she didn't ask any questions at the end.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "能力",
-       "py": "nénglì",
-       "gl": "ability",
+       "h": "一封",
+       "py": "yīfēng",
+       "gl": "measure word for letters: one (letter, email)",
+       "pos": "measure word"
+      },
+      {
+       "h": "很长",
+       "py": "hěnzhǎng",
+       "gl": "very long",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "邮件",
+       "py": "yóujiàn",
+       "gl": "email",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "简历",
+       "py": "jiǎnlì",
+       "gl": "resume",
+       "pos": "n."
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "长",
+       "py": "cháng",
+       "gl": "long",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "面试",
+       "py": "miànshì",
+       "gl": "interview (job)",
+       "pos": "n."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "说得",
+       "py": "shuōde",
+       "gl": "say (so that); put it (well)",
+       "pos": "v."
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "question; problem",
        "pos": "n."
       },
       {
@@ -377,81 +750,52 @@
    ]
   },
   {
-   "en": "My friend comforted me, saying, \"One rejection doesn't mean anything.\"",
+   "en": "She replied with one word: \"Thanks.\"",
    "phrases": [
     {
-     "en": "My friend comforted me, saying,",
+     "en": "She replied with one word: \"Thanks.\"",
      "words": [
       {
-       "h": "朋友",
-       "py": "péngyou",
-       "gl": "friend",
-       "pos": "n."
-      },
-      {
-       "h": "安慰",
-       "py": "ānwèi",
-       "gl": "comfort; console",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "回",
+       "py": "huí",
+       "gl": "reply",
        "pos": "v."
       },
       {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); word",
+       "pos": "n."
+      },
+      {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"One rejection doesn't mean anything.\"",
-     "words": [
+      },
       {
        "h": "“"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
-       "pos": "measure word"
-      },
-      {
-       "h": "拒绝",
-       "py": "jùjué",
-       "gl": "refuse; reject",
-       "pos": "v."
-      },
-      {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "代表",
-       "py": "dàibiǎo",
-       "gl": "represent; on behalf of; stand for",
-       "pos": "v."
-      },
-      {
-       "h": "什么",
-       "py": "shénme",
-       "gl": "what",
-       "pos": "question word"
+       "h": "谢谢",
+       "py": "xièxie",
+       "gl": "thank you; thanks",
+       "pos": "phrase"
       },
       {
        "h": "。"
@@ -464,43 +808,99 @@
    ]
   },
   {
-   "en": "After I pulled myself together, I decided to keep sending out resumes.",
+   "en": "Six months later, a group of new colleagues joined the company.",
    "phrases": [
     {
-     "en": "After I pulled myself together,",
+     "en": "Six months later, a group of new colleagues joined the company.",
      "words": [
       {
-       "h": "调整",
-       "py": "tiáozhěng",
-       "gl": "adjust; tune",
-       "pos": "v."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
-      },
-      {
-       "h": "心情",
-       "py": "xīnqíng",
-       "gl": "mood",
+       "h": "半年",
+       "py": "bànnián",
+       "gl": "half a year; six months",
        "pos": "n."
       },
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "，"
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一批",
+       "py": "yīpī",
+       "gl": "batch; group; series",
+       "pos": "num."
+      },
+      {
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adj."
+      },
+      {
+       "h": "同事",
+       "py": "tóngshì",
+       "gl": "colleague; coworker",
+       "pos": "n."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "One of the girls came up to my desk and said, \"Hello, I'm here to start work.\"",
+   "phrases": [
     {
-     "en": "I decided to keep sending out resumes.",
+     "en": "One of the girls came up to my desk and said, \"Hello, I'm here to start work.\"",
      "words": [
+      {
+       "h": "其中",
+       "py": "qízhōng",
+       "gl": "among them; of which; in it",
+       "pos": "pron."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "女孩",
+       "py": "nǚhái",
+       "gl": "girl",
+       "pos": "n."
+      },
+      {
+       "h": "走到",
+       "py": "zǒudào",
+       "gl": "walk to; reach; come to (the end)",
+       "pos": "v."
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -508,27 +908,345 @@
        "pos": "pron."
       },
       {
-       "h": "决定",
-       "py": "juédìng",
-       "gl": "decide; decision",
+       "h": "桌子",
+       "py": "zhuōzi",
+       "gl": "table; desk",
+       "pos": "n."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "继续",
-       "py": "jìxù",
-       "gl": "continue; go on",
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "您好",
+       "py": "nínhǎo",
+       "gl": "hello (polite)",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
       },
       {
-       "h": "投",
-       "py": "tóu",
-       "gl": "send in (a résumé); throw; put in",
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
        "pos": "v."
       },
       {
-       "h": "简历",
-       "py": "jiǎnlì",
-       "gl": "resume",
+       "h": "报到",
+       "py": "bàodào",
+       "gl": "report for work",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She glanced at my staff badge and smiled: \"So it was you.\"",
+   "phrases": [
+    {
+     "en": "She glanced at my staff badge and smiled: \"So it was you.\"",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "看了看",
+       "py": "kànlekàn",
+       "gl": "took a look",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "工牌",
+       "py": "gōngpái",
+       "gl": "staff badge",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "原来",
+       "py": "yuánlái",
+       "gl": "it turns out; so (that's why); originally",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"This time in the interview, I spoke slowly and asked three questions at the end.\"",
+   "phrases": [
+    {
+     "en": "\"This time in the interview, I spoke slowly and asked three questions at the end.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "这次",
+       "py": "zhècì",
+       "gl": "this time",
+       "pos": "pron."
+      },
+      {
+       "h": "面试",
+       "py": "miànshì",
+       "gl": "interview (job)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说得",
+       "py": "shuōde",
+       "gl": "say (so that); put it (well)",
+       "pos": "v."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally",
+       "pos": "n."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "三个",
+       "py": "sāngè",
+       "gl": "three (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "question; problem",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now, whenever I send a rejection email, I always add one honest line at the end.",
+   "phrases": [
+    {
+     "en": "Now, whenever I send a rejection email, I always add one honest line at the end.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "拒绝",
+       "py": "jùjué",
+       "gl": "refuse; reject",
+       "pos": "v."
+      },
+      {
+       "h": "邮件",
+       "py": "yóujiàn",
+       "gl": "email",
+       "pos": "n."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "一句",
+       "py": "yījù",
+       "gl": "one sentence; one line (of a poem)",
+       "pos": "phrase"
+      },
+      {
+       "h": "真话",
+       "py": "zhēnhuà",
+       "gl": "truth",
        "pos": "n."
       },
       {
