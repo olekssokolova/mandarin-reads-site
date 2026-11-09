@@ -1,17 +1,17 @@
 {
  "id": "generationgap",
  "level": 4,
- "title_zh": "代沟",
- "title_en": "The Generation Gap",
+ "title_zh": "只有一个人能看见",
+ "title_en": "Visible to One Person Only",
  "free": false,
  "audio_url": null,
- "note_en": "无论是A还是B，都…… means \"whether A or B, both ...\": 无论是爸爸还是我，都觉得自己是对的 \"both Dad and I thought we were right.\" Notice that 都 is required before the verb to sum up everyone mentioned; in English \"both\" usually comes before the nouns instead.",
+ "note_en": "The pattern 无论……还是……都 (\"whether… or…, all…\") puts options on an equal footing: 无论是爸爸还是我，都觉得自己是对的 — \"both Dad and I thought we were right.\" It is almost always followed by 都, which shows the statement holds for each option.",
  "sentences": [
   {
-   "en": "When I went home on the weekend, Dad and I got into an argument over something small again.",
+   "en": "When I went home for the weekend, Dad and I got into another argument over something small.",
    "phrases": [
     {
-     "en": "When I went home on the weekend,",
+     "en": "When I went home for the weekend, Dad and I got into another argument over something small.",
      "words": [
       {
        "h": "周末",
@@ -26,25 +26,14 @@
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Dad and I",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -54,7 +43,7 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
@@ -62,12 +51,7 @@
        "py": "bàba",
        "gl": "dad; father",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "started arguing over something small again.",
-     "words": [
+      },
       {
        "h": "又",
        "py": "yòu",
@@ -81,21 +65,9 @@
        "pos": "conj."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "件",
-       "py": "jiàn",
-       "gl": "measure word for clothing, matters, items",
-       "pos": "measure word"
-      },
-      {
-       "h": "小事",
-       "py": "xiǎoshì",
-       "gl": "small matter; trifle",
+       "h": "一件小事",
+       "py": "yījiànxiǎoshì",
+       "gl": "a small matter; a little thing",
        "pos": "n."
       },
       {
@@ -124,10 +96,80 @@
    ]
   },
   {
-   "en": "He thinks young people rely too much on the internet and don't want to talk face to face.",
+   "en": "It started because I kept looking at my phone during dinner.",
    "phrases": [
     {
-     "en": "He thinks young people",
+     "en": "It started because I kept looking at my phone during dinner.",
+     "words": [
+      {
+       "h": "起因",
+       "py": "qǐyīn",
+       "gl": "cause, trigger",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "吃饭",
+       "py": "chīfàn",
+       "gl": "eat; have a meal",
+       "pos": "v."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He thinks young people depend too much on the internet and don't want to talk face to face.",
+   "phrases": [
+    {
+     "en": "He thinks young people depend too much on the internet and don't want to talk face to face.",
      "words": [
       {
        "h": "他",
@@ -146,22 +188,17 @@
        "py": "niánqīngrén",
        "gl": "young people",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "rely too much on the internet",
-     "words": [
+      },
       {
        "h": "太",
        "py": "tài",
-       "gl": "too; very",
+       "gl": "too",
        "pos": "adv."
       },
       {
        "h": "依赖",
        "py": "yīlài",
-       "gl": "depend on; dependence",
+       "gl": "rely on; depend on",
        "pos": "v."
       },
       {
@@ -172,22 +209,11 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and don't want to talk face to face.",
-     "words": [
-      {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
       },
       {
-       "h": "愿意",
-       "py": "yuànyì",
-       "gl": "be willing",
+       "h": "不愿意",
+       "py": "bùyuànyì",
+       "gl": "be unwilling; not want",
        "pos": "v."
       },
       {
@@ -210,10 +236,10 @@
    ]
   },
   {
-   "en": "I think he doesn't understand how much the way we live has changed.",
+   "en": "I think he doesn't understand that the way we live has changed a lot.",
    "phrases": [
     {
-     "en": "I think he doesn't understand",
+     "en": "I think he doesn't understand that the way we live has changed a lot.",
      "words": [
       {
        "h": "我",
@@ -244,12 +270,10 @@
        "py": "lǐjiě",
        "gl": "understand; understanding",
        "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "that the way people live now",
-     "words": [
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "现在",
        "py": "xiànzài",
@@ -259,26 +283,15 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life; live",
+       "h": "生活方式",
+       "py": "shēnghuófāngshì",
+       "gl": "lifestyle; way of life",
        "pos": "n."
       },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "has changed a lot.",
-     "words": [
       {
        "h": "已经",
        "py": "yǐjīng",
@@ -288,7 +301,7 @@
       {
        "h": "变",
        "py": "biàn",
-       "gl": "change; become",
+       "gl": "become; turn",
        "pos": "v."
       },
       {
@@ -311,15 +324,15 @@
    ]
   },
   {
-   "en": "Dad and I each thought we were right.",
+   "en": "Both Dad and I thought we were right.",
    "phrases": [
     {
-     "en": "Whether it was Dad",
+     "en": "Both Dad and I thought we were right.",
      "words": [
       {
        "h": "无论",
        "py": "wúlùn",
-       "gl": "no matter; regardless of",
+       "gl": "(无论…还是…都) no matter",
        "pos": "conj."
       },
       {
@@ -333,17 +346,12 @@
        "py": "bàba",
        "gl": "dad; father",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "or me,",
-     "words": [
+      },
       {
        "h": "还是",
        "py": "háishì",
-       "gl": "or (in questions)",
-       "pos": "conj."
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
       },
       {
        "h": "我",
@@ -353,12 +361,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "we both thought we were right.",
-     "words": [
+      },
       {
        "h": "都",
        "py": "dōu",
@@ -386,13 +389,13 @@
       {
        "h": "对",
        "py": "duì",
-       "gl": "to; toward; correct",
+       "gl": "regarding; on",
        "pos": "prep."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -403,17 +406,11 @@
    ]
   },
   {
-   "en": "Later Mom reminded us, \"Times have changed. It's normal to think differently.\"",
+   "en": "Mom put down her chopsticks and said, \"Times are different. It's normal to think differently.\"",
    "phrases": [
     {
-     "en": "Later Mom reminded us,",
+     "en": "Mom put down her chopsticks and said, \"Times are different. It's normal to think differently.\"",
      "words": [
-      {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "adv."
-      },
       {
        "h": "妈妈",
        "py": "māma",
@@ -421,25 +418,29 @@
        "pos": "n."
       },
       {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
+       "h": "放下",
+       "py": "fàngxià",
+       "gl": "put down; set aside",
        "pos": "v."
       },
       {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
+       "h": "筷子",
+       "py": "kuàizi",
+       "gl": "chopsticks",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"Times have changed;",
-     "words": [
+      },
       {
        "h": "“"
       },
@@ -450,15 +451,9 @@
        "pos": "n."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "一样",
-       "py": "yíyàng",
-       "gl": "same; alike",
+       "h": "不一样",
+       "py": "bùyíyàng",
+       "gl": "different; not the same",
        "pos": "adj."
       },
       {
@@ -469,12 +464,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it's normal to see things differently.\"",
-     "words": [
+      },
       {
        "h": "想法",
        "py": "xiǎngfǎ",
@@ -482,15 +472,9 @@
        "pos": "n."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "一样",
-       "py": "yíyàng",
-       "gl": "same; alike",
+       "h": "不一样",
+       "py": "bùyíyàng",
+       "gl": "different; not the same",
        "pos": "adj."
       },
       {
@@ -516,10 +500,10 @@
    ]
   },
   {
-   "en": "When we heard that, Dad and I both laughed and decided to be a bit more patient and argue a bit less from then on.",
+   "en": "Hearing that, Dad and I both laughed and decided to be a bit more patient and argue a bit less from now on.",
    "phrases": [
     {
-     "en": "When we heard that, Dad and I both laughed and decided to be a bit more patient and argue a bit less from then on.",
+     "en": "Hearing that, Dad and I both laughed and decided to be a bit more patient and argue a bit less from now on.",
      "words": [
       {
        "h": "听",
@@ -534,22 +518,10 @@
        "pos": "particle"
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
+       "h": "这句话",
+       "py": "zhèjùhuà",
+       "gl": "this sentence; these words",
        "pos": "pron."
-      },
-      {
-       "h": "句",
-       "py": "jù",
-       "gl": "measure word for sentences, phrases",
-       "pos": "measure word"
-      },
-      {
-       "h": "话",
-       "py": "huà",
-       "gl": "words; speech; what someone says",
-       "pos": "n."
       },
       {
        "h": "，"
@@ -563,7 +535,7 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
@@ -602,13 +574,13 @@
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "多",
        "py": "duō",
-       "gl": "many; much; more than (after a number)",
+       "gl": "many; much",
        "pos": "adj."
       },
       {
@@ -621,7 +593,7 @@
        "h": "耐心",
        "py": "nàixīn",
        "gl": "patient; patience",
-       "pos": "adj."
+       "pos": "adv."
       },
       {
        "h": "，"
@@ -629,7 +601,7 @@
       {
        "h": "少",
        "py": "shǎo",
-       "gl": "few; little; less",
+       "gl": "lack; have less (少了杂物 'less clutter')",
        "pos": "adj."
       },
       {
@@ -652,16 +624,25 @@
    ]
   },
   {
-   "en": "Later I taught Dad how to post on WeChat Moments, and now he's even more active than I am, posting several updates every day. The generation gap between us seems to have shrunk a little.",
+   "en": "That evening I taught Dad how to post on WeChat Moments.",
    "phrases": [
     {
-     "en": "Later I taught Dad how to post on WeChat Moments,",
+     "en": "That evening I taught Dad how to post on WeChat Moments.",
      "words": [
       {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "adv."
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "我",
@@ -682,18 +663,6 @@
        "pos": "n."
       },
       {
-       "h": "学会",
-       "py": "xuéhuì",
-       "gl": "learn (to do); master",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
        "h": "发",
        "py": "fā",
        "gl": "post (on social media)",
@@ -701,29 +670,125 @@
       },
       {
        "h": "朋友圈",
-       "py": "péngyǒuquān",
+       "py": "péngyouquān",
        "gl": "WeChat Moments",
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "He put on his reading glasses and typed, one character at a time: \"My son came home today.\"",
+   "phrases": [
     {
-     "en": "and now he's even more active than me, posting several updates every day;",
+     "en": "He put on his reading glasses and typed, one character at a time: \"My son came home today.\"",
      "words": [
       {
        "h": "他",
        "py": "tā",
        "gl": "he; him",
-       "pos": "pron."
+       "pos": "n."
       },
+      {
+       "h": "戴上",
+       "py": "dàishàng",
+       "gl": "put on (gloves, a mask, a hat)",
+       "pos": "v."
+      },
+      {
+       "h": "老花镜",
+       "py": "lǎohuājìng",
+       "gl": "reading glasses",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个字",
+       "py": "yígèzì",
+       "gl": "one character",
+       "pos": "n."
+      },
+      {
+       "h": "一个字",
+       "py": "yígèzì",
+       "gl": "one character",
+       "pos": "n."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "to type",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "今天",
+       "py": "jīntiān",
+       "gl": "today",
+       "pos": "n."
+      },
+      {
+       "h": "儿子",
+       "py": "érzi",
+       "gl": "son",
+       "pos": "n."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now he's more active than I am, posting several updates every day: breakfast, the weather, the cat downstairs, the tomatoes on the balcony.",
+   "phrases": [
+    {
+     "en": "Now he's more active than I am, posting several updates every day: breakfast, the weather, the cat downstairs, the tomatoes on the balcony.",
+     "words": [
       {
        "h": "现在",
        "py": "xiànzài",
        "gl": "now",
-       "pos": "n."
+       "pos": "adv."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
        "h": "比",
@@ -747,7 +812,7 @@
        "h": "积极",
        "py": "jījí",
        "gl": "active; enthusiastic; positive",
-       "pos": "adj."
+       "pos": "adv."
       },
       {
        "h": "，"
@@ -759,16 +824,10 @@
        "pos": "n."
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
+       "h": "都要",
+       "py": "dōuyào",
+       "gl": "always (have to); all need to",
+       "pos": "phrase"
       },
       {
        "h": "发",
@@ -777,37 +836,686 @@
        "pos": "v."
       },
       {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "quite (好几 'quite a few')",
-       "pos": "adv."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "question word"
+       "h": "好几",
+       "py": "hǎojǐ",
+       "gl": "quite a few; several",
+       "pos": "num."
       },
       {
        "h": "条",
        "py": "tiáo",
-       "gl": "measure word for posts, messages, items",
+       "gl": "measure word for long things (fish, roads, rivers)",
        "pos": "measure word"
       },
       {
        "h": "动态",
        "py": "dòngtài",
-       "gl": "post; status update (on social media)",
+       "gl": "post; update",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "早饭",
+       "py": "zǎofàn",
+       "gl": "breakfast",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "天气",
+       "py": "tiānqì",
+       "gl": "weather",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "楼下",
+       "py": "lóuxià",
+       "gl": "downstairs",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "猫",
+       "py": "māo",
+       "gl": "cat",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "阳台",
+       "py": "yángtái",
+       "gl": "balcony",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "西红柿",
+       "py": "xīhóngshì",
+       "gl": "tomato",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At first I found it a bit annoying; sometimes I didn't even look and just swiped past.",
+   "phrases": [
+    {
+     "en": "At first I found it a bit annoying; sometimes I didn't even look and just swiped past.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一开始",
+       "py": "yīkāishǐ",
+       "gl": "at first; in the beginning",
+       "pos": "adv."
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
+      },
+      {
+       "h": "烦",
+       "py": "fán",
+       "gl": "annoying",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有时候",
+       "py": "yǒushíhòu",
+       "gl": "sometimes",
+       "pos": "adv."
+      },
+      {
+       "h": "连",
+       "py": "lián",
+       "gl": "even (连…都… even)",
+       "pos": "prep."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "right away; then; just (emphasis)",
+       "pos": "adv."
+      },
+      {
+       "h": "划过去",
+       "py": "huá guòqu",
+       "gl": "to swipe past",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "One day Mom told me she had never seen Dad's Moments.",
+   "phrases": [
+    {
+     "en": "One day Mom told me she had never seen Dad's Moments.",
+     "words": [
+      {
+       "h": "有一天",
+       "py": "yǒuyītiān",
+       "gl": "one day",
+       "pos": "adv."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "从来没",
+       "py": "cóngláiméi",
+       "gl": "never (have)",
+       "pos": "adv."
+      },
+      {
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "朋友圈",
+       "py": "péngyouquān",
+       "gl": "WeChat Moments",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Only then did I learn that every one of his posts was set so that only one person could see it — me.",
+   "phrases": [
+    {
+     "en": "Only then did I learn that every one of his posts was set so that only one person could see it — me.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "这才",
+       "py": "zhècái",
+       "gl": "only then",
+       "pos": "adv."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "find out; learn",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "每一条",
+       "py": "měiyītiáo",
+       "gl": "every; each (of long things: tunnels, roads, lines)",
+       "pos": "pron."
+      },
+      {
+       "h": "动态",
+       "py": "dòngtài",
+       "gl": "post; update",
        "pos": "n."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "设置",
+       "py": "shèzhì",
+       "gl": "set (up); settings",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "num."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "看见",
+       "py": "kànjiàn",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "—"
+      },
+      {
+       "h": "—"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "So he wasn't posting on Moments; he was writing me letters.",
+   "phrases": [
     {
-     "en": "the gap between our generations seems to have gotten a little smaller.",
+     "en": "So he wasn't posting on Moments; he was writing me letters.",
      "words": [
+      {
+       "h": "原来",
+       "py": "yuánlái",
+       "gl": "it turns out; so (that's why); originally",
+       "pos": "adv."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "post (on social media)",
+       "pos": "v."
+      },
+      {
+       "h": "朋友圈",
+       "py": "péngyouquān",
+       "gl": "WeChat Moments",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "写信",
+       "py": "xiěxìn",
+       "gl": "write a letter; write letters",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I liked his latest one and added a comment: \"Dad, when the tomatoes turn red, save me a couple.\"",
+   "phrases": [
+    {
+     "en": "I liked his latest one and added a comment: \"Dad, when the tomatoes turn red, save me a couple.\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "最新",
+       "py": "zuìxīn",
+       "gl": "latest; newest",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那条",
+       "py": "nàtiáo",
+       "gl": "that (one) (measure word 条: street, line, message)",
+       "pos": "pron."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "to give (a like)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "赞",
+       "py": "zàn",
+       "gl": "like (on social media); praise",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一句",
+       "py": "yījù",
+       "gl": "one sentence; one line (of a poem)",
+       "pos": "measure word"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "爸",
+       "py": "bà",
+       "gl": "dad",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "西红柿",
+       "py": "xīhóngshì",
+       "gl": "tomato",
+       "pos": "n."
+      },
+      {
+       "h": "红",
+       "py": "hóng",
+       "gl": "blush; turn red",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "记得",
+       "py": "jìde",
+       "gl": "remember",
+       "pos": "v."
+      },
+      {
+       "h": "留",
+       "py": "liú",
+       "gl": "leave; set aside",
+       "pos": "v."
+      },
+      {
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He replied right away with a smiley face. The gap between us seems to have gotten a little smaller.",
+   "phrases": [
+    {
+     "en": "He replied right away with a smiley face. The gap between us seems to have gotten a little smaller.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "马上",
+       "py": "mǎshàng",
+       "gl": "immediately; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "reply",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "笑脸",
+       "py": "xiàoliǎn",
+       "gl": "smiling face; smiley",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
       {
        "h": "我们",
        "py": "wǒmen",
@@ -829,7 +1537,7 @@
       {
        "h": "好像",
        "py": "hǎoxiàng",
-       "gl": "seem; be like",
+       "gl": "seem; be like; as if",
        "pos": "adv."
       },
       {
@@ -847,7 +1555,7 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: change of state",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {

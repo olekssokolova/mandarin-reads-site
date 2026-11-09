@@ -1,17 +1,17 @@
 {
  "id": "citycountry",
  "level": 4,
- "title_zh": "城市还是农村",
- "title_en": "City or Countryside?",
+ "title_zh": "网店里的辣椒酱",
+ "title_en": "Chili Sauce from an Online Shop",
  "free": false,
  "audio_url": null,
- "note_en": "与其说A，不如说B means \"it's less A than B\" or \"rather than saying A, it's more accurate to say B\": 与其说我在纠结城市和农村，不如说我在寻找适合自己的生活方式 \"it's not so much that I'm torn between city and country; I'm really looking for a lifestyle that suits me.\" The first part is the description you're setting aside, and 不如说 introduces the better one.",
+ "note_en": "The pattern 与其说……不如说…… (\"rather than say…, better to say…\") refines a statement by choosing the more accurate of two descriptions: 与其说我在纠结城市和农村，不如说我在寻找适合自己的生活方式 — \"it's not so much that I'm torn between city and countryside as that I'm looking for a way of life that suits me.\"",
  "sentences": [
   {
-   "en": "After college, I faced a choice: stay in the big city or go back to my hometown?",
+   "en": "After college I faced a choice: stay in the big city, or go back home?",
    "phrases": [
     {
-     "en": "After college,",
+     "en": "After college I faced a choice: stay in the big city, or go back home?",
      "words": [
       {
        "h": "大学",
@@ -28,17 +28,12 @@
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I faced a choice:",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -52,73 +47,39 @@
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "选择",
-       "py": "xuǎnzé",
-       "gl": "choose; choice",
-       "pos": "v."
+       "h": "一个选择",
+       "py": "yígèxuǎnzé",
+       "gl": "a choice",
+       "pos": "n."
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "stay in the big city",
-     "words": [
+      },
       {
-       "h": "留",
-       "py": "liú",
-       "gl": "stay; remain",
+       "h": "留在",
+       "py": "liúzài",
+       "gl": "stay in; remain in",
        "pos": "v."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
+       "h": "大城市",
+       "py": "dàchéngshì",
+       "gl": "big city",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "or go back to my hometown?",
-     "words": [
+      },
       {
        "h": "还是",
        "py": "háishì",
-       "gl": "or (in questions)",
-       "pos": "conj."
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
       },
       {
        "h": "回",
        "py": "huí",
-       "gl": "return; go back; reply",
+       "gl": "return; go back",
        "pos": "v."
       },
       {
@@ -135,21 +96,15 @@
    ]
   },
   {
-   "en": "Big cities have more opportunities, but life moves fast and there's a lot of pressure.",
+   "en": "The big city has lots of opportunities, but life moves fast and the pressure is high.",
    "phrases": [
     {
-     "en": "Big cities have lots of opportunities,",
+     "en": "The big city has lots of opportunities, but life moves fast and the pressure is high.",
      "words": [
       {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
+       "h": "大城市",
+       "py": "dàchéngshì",
+       "gl": "big city",
        "pos": "n."
       },
       {
@@ -161,17 +116,12 @@
       {
        "h": "多",
        "py": "duō",
-       "gl": "many; much; more than (after a number)",
+       "gl": "many; much; more",
        "pos": "adj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but the pace of life is fast,",
-     "words": [
+      },
       {
        "h": "可是",
        "py": "kěshì",
@@ -179,31 +129,20 @@
        "pos": "conj."
       },
       {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life; live",
-       "pos": "n."
-      },
-      {
-       "h": "节奏",
-       "py": "jiézòu",
-       "gl": "pace; rhythm",
+       "h": "生活节奏",
+       "py": "shēnghuójiézòu",
+       "gl": "pace of life",
        "pos": "n."
       },
       {
        "h": "快",
        "py": "kuài",
-       "gl": "fast; quick; quickly",
+       "gl": "fast; quick",
        "pos": "adj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the pressure is high too.",
-     "words": [
+      },
       {
        "h": "压力",
        "py": "yālì",
@@ -230,10 +169,10 @@
    ]
   },
   {
-   "en": "The countryside has clean air and a slow pace, but there are relatively few job opportunities.",
+   "en": "The countryside has good air and a slow pace, but relatively few jobs.",
    "phrases": [
     {
-     "en": "The countryside has clean air and a slow pace, but there are relatively few job opportunities.",
+     "en": "The countryside has good air and a slow pace, but relatively few jobs.",
      "words": [
       {
        "h": "农村",
@@ -250,7 +189,7 @@
       {
        "h": "好",
        "py": "hǎo",
-       "gl": "good; well",
+       "gl": "good",
        "pos": "adj."
       },
       {
@@ -259,7 +198,7 @@
       {
        "h": "节奏",
        "py": "jiézòu",
-       "gl": "pace; rhythm",
+       "gl": "rhythm; pace",
        "pos": "n."
       },
       {
@@ -296,18 +235,12 @@
        "pos": "adv."
       },
       {
-       "h": "较",
-       "py": "jiào",
-       "gl": "relatively; comparatively",
+       "h": "较少",
+       "py": "jiàoshǎo",
+       "gl": "relatively few; fewer",
        "pos": "adv."
       },
       {
-       "h": "少",
-       "py": "shǎo",
-       "gl": "few; little; less",
-       "pos": "adj."
-      },
-      {
        "h": "。"
       }
      ]
@@ -315,150 +248,16 @@
    ]
   },
   {
-   "en": "It's not so much that I'm torn between the city and the countryside; I'm really looking for a way of life that suits me.",
+   "en": "In the end I decided to work in the city for a few years first, to build up experience and savings.",
    "phrases": [
     {
-     "en": "It's not so much that I'm torn between city and countryside",
-     "words": [
-      {
-       "h": "与其",
-       "py": "yǔqí",
-       "gl": "rather than (与其…不如… 'rather than … better to …')",
-       "pos": "conj."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "纠结",
-       "py": "jiūjié",
-       "gl": "agonize; be torn",
-       "pos": "v."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "农村",
-       "py": "nóngcūn",
-       "gl": "countryside; rural area",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "as that I'm looking for",
-     "words": [
-      {
-       "h": "不如",
-       "py": "bùrú",
-       "gl": "be not as good as; had better (与其…不如… 'rather than … better to …')",
-       "pos": "v."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "寻找",
-       "py": "xúnzhǎo",
-       "gl": "look for; seek",
-       "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "a way of life that suits me.",
-     "words": [
-      {
-       "h": "适合",
-       "py": "shìhé",
-       "gl": "suit; be suitable for",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life; live",
-       "pos": "n."
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In the end, I decided to stay and work in the city for a few years first, to build up some experience and savings.",
-   "phrases": [
-    {
-     "en": "In the end, I decided to stay and work in the city for a few years first, to build up some experience and savings.",
+     "en": "In the end I decided to work in the city for a few years first, to build up experience and savings.",
      "words": [
       {
        "h": "最后",
        "py": "zuìhòu",
        "gl": "in the end; finally",
-       "pos": "n."
+       "pos": "adv."
       },
       {
        "h": "我",
@@ -479,16 +278,10 @@
        "pos": "adv."
       },
       {
-       "h": "留",
-       "py": "liú",
-       "gl": "stay; remain",
+       "h": "留在",
+       "py": "liúzài",
+       "gl": "stay in; remain in",
        "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
       },
       {
        "h": "城市",
@@ -503,15 +296,9 @@
        "pos": "n."
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "how many (under ten); which (number)",
-       "pos": "question word"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "几年",
+       "py": "jǐnián",
+       "gl": "a few years",
        "pos": "n."
       },
       {
@@ -538,7 +325,7 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
@@ -555,60 +342,10 @@
    ]
   },
   {
-   "en": "As for whether I'll go back to my hometown later, I haven't really figured that out yet.",
+   "en": "A high-school classmate of mine, A-Feng, went back to our county town and opened an online shop selling local specialties, and business is pretty good.",
    "phrases": [
     {
-     "en": "As for whether I'll go back home later,",
-     "words": [
-      {
-       "h": "至于",
-       "py": "zhìyú",
-       "gl": "as for; as far as … is concerned",
-       "pos": "conj."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "want; order; be going to; need",
-       "pos": "v."
-      },
-      {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "want; order; be going to; need",
-       "pos": "v."
-      },
-      {
-       "h": "回",
-       "py": "huí",
-       "gl": "return; go back; reply",
-       "pos": "v."
-      },
-      {
-       "h": "老家",
-       "py": "lǎojiā",
-       "gl": "hometown; family home",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I haven't thought it through yet.",
+     "en": "A high-school classmate of mine, A-Feng, went back to our county town and opened an online shop selling local specialties, and business is pretty good.",
      "words": [
       {
        "h": "我",
@@ -617,39 +354,126 @@
        "pos": "pron."
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; still; in addition",
-       "pos": "adv."
-      },
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
+       "h": "有个",
+       "py": "yǒugè",
+       "gl": "there is a; have a",
        "pos": "v."
       },
       {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like; think; miss",
+       "h": "高中",
+       "py": "gāozhōng",
+       "gl": "high school",
+       "pos": "n."
+      },
+      {
+       "h": "同学",
+       "py": "tóngxué",
+       "gl": "classmate",
+       "pos": "n."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
        "pos": "v."
       },
       {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "h": "阿峰",
+       "py": "Ā Fēng",
+       "gl": "A-Feng",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "return; go back",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "太",
-       "py": "tài",
-       "gl": "too; very",
+       "h": "县城",
+       "py": "xiànchéng",
+       "gl": "county town",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; start (a business)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一家",
+       "py": "yìjiā",
+       "gl": "a; one (shop, family, company)",
+       "pos": "measure word"
+      },
+      {
+       "h": "网店",
+       "py": "wǎngdiàn",
+       "gl": "online store",
+       "pos": "n."
+      },
+      {
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
+       "pos": "v."
+      },
+      {
+       "h": "土特产",
+       "py": "tǔtèchǎn",
+       "gl": "local specialty (products)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "生意",
+       "py": "shēngyì",
+       "gl": "business",
+       "pos": "n."
+      },
+      {
+       "h": "做得",
+       "py": "zuòdé",
+       "gl": "do; make (+ complement: 做得很好 done well)",
+       "pos": "v."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
-       "h": "清楚",
-       "py": "qīngchu",
-       "gl": "clear; clearly",
+       "h": "不错",
+       "py": "bùcuò",
+       "gl": "good; decent",
        "pos": "adj."
       },
       {
@@ -660,27 +484,15 @@
    ]
   },
   {
-   "en": "In recent years, the government has been pushing hard for rural revitalization, many small cities and towns now have high-speed rail, and infrastructure has gotten much better.",
+   "en": "In recent years the government has been pushing rural revitalization; many small cities and towns now have high-speed rail, and the infrastructure is much better.",
    "phrases": [
     {
-     "en": "In recent years, the government has strongly promoted rural revitalization,",
+     "en": "In recent years the government has been pushing rural revitalization; many small cities and towns now have high-speed rail, and the infrastructure is much better.",
      "words": [
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this; these",
-       "pos": "pron."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "question word"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "这几年",
+       "py": "zhèjǐnián",
+       "gl": "these past few years; in recent years",
        "pos": "n."
       },
       {
@@ -705,25 +517,14 @@
        "pos": "v."
       },
       {
-       "h": "乡村",
-       "py": "xiāngcūn",
-       "gl": "countryside; village; rural",
-       "pos": "n."
-      },
-      {
-       "h": "振兴",
-       "py": "zhènxīng",
-       "gl": "revitalization; rejuvenation",
+       "h": "乡村振兴",
+       "py": "xiāngcūn zhènxīng",
+       "gl": "rural revitalization",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and quite a few small cities and towns now have high-speed rail;",
-     "words": [
+      },
       {
        "h": "不少",
        "py": "bùshǎo",
@@ -745,7 +546,7 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
@@ -763,32 +564,27 @@
       {
        "h": "通",
        "py": "tōng",
-       "gl": "be connected (by transport) (通了高铁 got a high-speed rail link)",
+       "gl": "be connected (通了WiFi got Wi-Fi)",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
        "h": "高铁",
        "py": "gāotiě",
-       "gl": "high-speed rail",
+       "gl": "high-speed rail; bullet train",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "infrastructure has improved a lot.",
-     "words": [
+      },
       {
        "h": "基础设施",
-       "py": "jīchǔshèshī",
+       "py": "jīchǔ shèshī",
        "gl": "infrastructure",
        "pos": "n."
       },
@@ -801,13 +597,13 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: change of state",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
        "h": "很多",
        "py": "hěnduō",
-       "gl": "many; a lot; much",
+       "gl": "many; a lot of",
        "pos": "adj."
       },
       {
@@ -818,11 +614,26 @@
    ]
   },
   {
-   "en": "One of my high school classmates went back to our county town and opened an online store selling local specialties, and business is going pretty well.",
+   "en": "In the city, what I missed most was Mom's chili sauce.",
    "phrases": [
     {
-     "en": "A high school classmate of mine went back to the county town,",
+     "en": "In the city, what I missed most was Mom's chili sauce.",
      "words": [
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "城里",
+       "py": "chénglǐ",
+       "gl": "in the city; in town",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -830,78 +641,98 @@
        "pos": "pron."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "想念",
+       "py": "xiǎngniàn",
+       "gl": "miss (someone)",
        "pos": "v."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "measure word (general: 换个角度 from another angle)",
-       "pos": "measure word"
-      },
-      {
-       "h": "高中",
-       "py": "gāozhōng",
-       "gl": "high school",
-       "pos": "n."
-      },
-      {
-       "h": "同学",
-       "py": "tóngxué",
-       "gl": "classmate",
-       "pos": "n."
-      },
-      {
-       "h": "回",
-       "py": "huí",
-       "gl": "return; go back",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "县城",
-       "py": "xiànchéng",
-       "gl": "county town",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
        "pos": "n."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "辣椒酱",
+       "py": "làjiāojiàng",
+       "gl": "chili sauce",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "One day I saw chili sauce in A-Feng's online shop and bought two jars.",
+   "phrases": [
+    {
+     "en": "One day I saw chili sauce in A-Feng's online shop and bought two jars.",
+     "words": [
+      {
+       "h": "有一天",
+       "py": "yǒuyītiān",
+       "gl": "one day",
+       "pos": "adv."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "opened an online store selling local specialties,",
-     "words": [
-      {
-       "h": "开",
-       "py": "kāi",
-       "gl": "open; start (a business)",
-       "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "阿峰",
+       "py": "Ā Fēng",
+       "gl": "A-Feng",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "measure word for shops, businesses",
-       "pos": "measure word"
       },
       {
        "h": "网店",
@@ -910,36 +741,789 @@
        "pos": "n."
       },
       {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "辣椒酱",
+       "py": "làjiāojiàng",
+       "gl": "chili sauce",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "瓶",
+       "py": "píng",
+       "gl": "(measure word for bottles, jars)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I opened one and tasted it — it was the taste of home.",
+   "phrases": [
+    {
+     "en": "I opened one and tasted it — it was the taste of home.",
+     "words": [
+      {
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "尝",
+       "py": "cháng",
+       "gl": "taste; try (food)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "just; simply; exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "家里",
+       "py": "jiālǐ",
+       "gl": "at home; in the family",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "味道",
+       "py": "wèidào",
+       "gl": "taste; flavor",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After that I bought it every month, always two jars.",
+   "phrases": [
+    {
+     "en": "After that I bought it every month, always two jars.",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "每个月",
+       "py": "měigèyuè",
+       "gl": "every month",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "just; simply; exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "瓶",
+       "py": "píng",
+       "gl": "(measure word for bottles, jars)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When I went home for New Year, I saw lots of empty jars in the kitchen, exactly like the ones I'd been buying.",
+   "phrases": [
+    {
+     "en": "When I went home for New Year, I saw lots of empty jars in the kitchen, exactly like the ones I'd been buying.",
+     "words": [
+      {
+       "h": "过年",
+       "py": "guònián",
+       "gl": "celebrate New Year",
+       "pos": "v."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "看见",
+       "py": "kànjiàn",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "厨房",
+       "py": "chúfáng",
+       "gl": "kitchen",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot; much",
+       "pos": "adj."
+      },
+      {
+       "h": "空",
+       "py": "kōng",
+       "gl": "free (time) (有空 have free time); empty",
+       "pos": "adj."
+      },
+      {
+       "h": "瓶子",
+       "py": "píngzi",
+       "gl": "bottle; vial",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "一模一样",
+       "py": "yīmúyīyàng",
+       "gl": "exactly the same; identical",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Mom said, a little embarrassed, that she sold all her chili sauce through A-Feng's shop.",
+   "phrases": [
+    {
+     "en": "Mom said, a little embarrassed, that she sold all her chili sauce through A-Feng's shop.",
+     "words": [
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "有点不好意思",
+       "py": "yǒudiǎnbùhǎoyìsī",
+       "gl": "a bit embarrassed",
+       "pos": "phrase"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "辣椒酱",
+       "py": "làjiāojiàng",
+       "gl": "chili sauce",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "放在",
+       "py": "fàngzài",
+       "gl": "put in; put on; place",
+       "pos": "v."
+      },
+      {
+       "h": "阿峰",
+       "py": "Ā Fēng",
+       "gl": "A-Feng",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "店",
+       "py": "diàn",
+       "gl": "shop; store",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
        "h": "卖",
        "py": "mài",
        "gl": "sell",
        "pos": "v."
       },
       {
-       "h": "土特产",
-       "py": "tǔtèchǎn",
-       "gl": "local specialty (products)",
-       "pos": "n."
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"I knew it was you buying it — two jars every month. So each time I made it a little spicier.\"",
+   "phrases": [
+    {
+     "en": "\"I knew it was you buying it — two jars every month. So each time I made it a little spicier.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and business is going pretty well.",
-     "words": [
+      },
       {
-       "h": "生意",
-       "py": "shēngyì",
-       "gl": "business",
+       "h": "每个月",
+       "py": "měigèyuè",
+       "gl": "every month",
        "pos": "n."
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "瓶",
+       "py": "píng",
+       "gl": "(measure word for bottles, jars)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "所以",
+       "py": "suǒyǐ",
+       "gl": "so; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "adv."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
       },
       {
        "h": "做得",
        "py": "zuòdé",
-       "gl": "do (+ complement: 做得不错 is doing well)",
+       "gl": "do; make (+ complement: 做得很好 done well)",
        "pos": "v."
+      },
+      {
+       "h": "辣",
+       "py": "là",
+       "gl": "spicy; spiciness",
+       "pos": "adj."
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Only then did I realize that home had been following me to the city all along, through an internet cable.",
+   "phrases": [
+    {
+     "en": "Only then did I realize that home had been following me to the city all along, through an internet cable.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "这才",
+       "py": "zhècái",
+       "gl": "only then",
+       "pos": "adv."
+      },
+      {
+       "h": "明白",
+       "py": "míngbái",
+       "gl": "understand; realize",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "原来",
+       "py": "yuánlái",
+       "gl": "it turns out; so (that's why); originally",
+       "pos": "adv."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "通过",
+       "py": "tōngguò",
+       "gl": "through; by means of; via",
+       "pos": "prep."
+      },
+      {
+       "h": "一条",
+       "py": "yìtiáo",
+       "gl": "one (measure word for long things, messages, news, rules)",
+       "pos": "num."
+      },
+      {
+       "h": "网线",
+       "py": "wǎngxiàn",
+       "gl": "network cable",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "跟着",
+       "py": "gēnzhe",
+       "gl": "follow; along with",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "到了",
+       "py": "dàole",
+       "gl": "reach; arrive; when it comes to (time); by (到了清朝 by the Qing dynasty)",
+       "pos": "v."
+      },
+      {
+       "h": "城里",
+       "py": "chénglǐ",
+       "gl": "in the city; in town",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It's not so much that I'm torn between city and countryside as that I'm looking for a way of life that suits me.",
+   "phrases": [
+    {
+     "en": "It's not so much that I'm torn between city and countryside as that I'm looking for a way of life that suits me.",
+     "words": [
+      {
+       "h": "与其说",
+       "py": "yǔqí shuō",
+       "gl": "rather than say (与其说…不如说…)",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "纠结",
+       "py": "jiūjié",
+       "gl": "to agonize over a choice",
+       "pos": "v."
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "农村",
+       "py": "nóngcūn",
+       "gl": "countryside; rural area",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不如说",
+       "py": "bùrúshuō",
+       "gl": "rather; it would be truer to say",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "寻找",
+       "py": "xúnzhǎo",
+       "gl": "look for; seek",
+       "pos": "v."
+      },
+      {
+       "h": "适合",
+       "py": "shìhé",
+       "gl": "suit; be suitable for",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "生活方式",
+       "py": "shēnghuófāngshì",
+       "gl": "lifestyle; way of life",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "As for whether I'll move back home someday, I haven't really figured it out yet.",
+   "phrases": [
+    {
+     "en": "As for whether I'll move back home someday, I haven't really figured it out yet.",
+     "words": [
+      {
+       "h": "至于",
+       "py": "zhìyú",
+       "gl": "as for; as far as … is concerned",
+       "pos": "prep."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after; later; in the future",
+       "pos": "postposition"
+      },
+      {
+       "h": "要不要",
+       "py": "yàobùyào",
+       "gl": "do you want to; whether or not to",
+       "pos": "v."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "return; go back; reply",
+       "pos": "v."
+      },
+      {
+       "h": "老家",
+       "py": "lǎojiā",
+       "gl": "hometown; family home",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
        "h": "还",
@@ -948,10 +1532,155 @@
        "pos": "adv."
       },
       {
-       "h": "不错",
-       "py": "bùcuò",
-       "gl": "not bad; pretty good",
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "清楚",
+       "py": "qīngchǔ",
+       "gl": "clear; clearly",
        "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But I already know that wherever I am, every month two jars of chili sauce will be waiting for me.",
+   "phrases": [
+    {
+     "en": "But I already know that wherever I am, every month two jars of chili sauce will be waiting for me.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "无论",
+       "py": "wúlùn",
+       "gl": "no matter (where, what…); regardless of",
+       "pos": "conj."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "哪里",
+       "py": "nǎlǐ",
+       "gl": "where",
+       "pos": "question word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每个月",
+       "py": "měigèyuè",
+       "gl": "every month",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "瓶",
+       "py": "píng",
+       "gl": "(measure word for bottles, jars)",
+       "pos": "measure word"
+      },
+      {
+       "h": "辣椒酱",
+       "py": "làjiāojiàng",
+       "gl": "chili sauce",
+       "pos": "n."
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "wait",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
        "h": "。"

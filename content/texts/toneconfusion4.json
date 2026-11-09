@@ -1,98 +1,137 @@
 {
  "id": "toneconfusion4",
  "level": 4,
- "title_zh": "声调混淆的烦恼",
- "title_en": "Mixed-Up Tones",
+ "title_zh": "问和吻",
+ "title_en": "\"Ask\" and \"Kiss\"",
  "free": false,
  "audio_url": null,
- "note_en": "对……来说 means \"for ...; as far as ... is concerned\": 对很多外国学生来说，声调是汉语最难的部分之一 \"For many foreign students, tones are one of the hardest parts of Chinese.\" English needs only \"for,\" but Chinese wraps the person between 对 and 来说 and puts it at the front.",
+ "note_en": "The chengyu 差之毫厘，谬以千里 (\"off by a hair, wrong by a thousand li\") says that a tiny inaccuracy leads to a huge mistake. For learners of Chinese, it's above all about tones: 问 (wèn, \"to ask\") and 吻 (wěn, \"to kiss\") differ only in tone.",
  "sentences": [
   {
-   "en": "For many foreign students, tones are one of the hardest parts of Chinese.",
+   "en": "Aisha came from Egypt and lived on the sixth floor of an old building, and across the hall lived eighty-year-old Granny Wang.",
    "phrases": [
     {
-     "en": "For many foreign students, tones are one of the hardest parts of Chinese.",
+     "en": "Aisha came from Egypt and lived on the sixth floor of an old building, and across the hall lived eighty-year-old Granny Wang.",
      "words": [
       {
-       "h": "对",
-       "py": "duì",
-       "gl": "to; toward; correct",
+       "h": "艾莎",
+       "py": "Àishā",
+       "gl": "Aisha",
+       "pos": "proper noun"
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
        "pos": "prep."
       },
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
+       "h": "埃及",
+       "py": "Āijí",
+       "gl": "Egypt",
+       "pos": "proper noun"
       },
       {
-       "h": "外国",
-       "py": "wàiguó",
-       "gl": "foreign country; foreign",
-       "pos": "n."
-      },
-      {
-       "h": "学生",
-       "py": "xuésheng",
-       "gl": "student",
-       "pos": "n."
-      },
-      {
-       "h": "来说",
-       "py": "láishuō",
-       "gl": "as for; for (对…来说 for someone)",
-       "pos": "particle"
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "声调",
-       "py": "shēngdiào",
-       "gl": "tone (in pronunciation)",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "住在",
+       "py": "zhùzài",
+       "gl": "live in; live at",
        "pos": "v."
       },
       {
-       "h": "汉语",
-       "py": "hànyǔ",
-       "gl": "Chinese (language)",
-       "pos": "n."
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
       },
       {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
+       "h": "栋",
+       "py": "dòng",
+       "gl": "measure word for buildings",
+       "pos": "measure word"
       },
       {
-       "h": "难",
-       "py": "nán",
-       "gl": "difficult; hard",
+       "h": "老",
+       "py": "lǎo",
+       "gl": "old; elderly",
        "pos": "adj."
+      },
+      {
+       "h": "楼",
+       "py": "lóu",
+       "gl": "building; floor (story)",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "部分",
-       "py": "bùfen",
-       "gl": "part; section",
+       "h": "六",
+       "py": "liù",
+       "gl": "six",
+       "pos": "num."
+      },
+      {
+       "h": "楼",
+       "py": "lóu",
+       "gl": "building; floor (story)",
        "pos": "n."
       },
       {
-       "h": "之一",
-       "py": "zhīyī",
-       "gl": "one of (最…之一 'one of the most …')",
+       "h": "，"
+      },
+      {
+       "h": "对门",
+       "py": "duìmén",
+       "gl": "(the neighbors) across the hall",
        "pos": "n."
+      },
+      {
+       "h": "住",
+       "py": "zhù",
+       "gl": "live; stay",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "八十",
+       "py": "bāshí",
+       "gl": "eighty",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "王奶奶",
+       "py": "Wáng nǎinai",
+       "gl": "Grandma Wang",
+       "pos": "proper noun"
       },
       {
        "h": "。"
@@ -102,103 +141,55 @@
    ]
   },
   {
-   "en": "The four characters 妈 (mā, \"mom\"), 麻 (má, \"hemp\"), 马 (mǎ, \"horse\") and 骂 (mà, \"scold\") sound almost the same; only the tones are different.",
+   "en": "For three months, when they met on the stairs, they only nodded to each other.",
    "phrases": [
     {
-     "en": "The four characters 妈 (mā, \"mom\"), 麻 (má, \"hemp\"), 马 (mǎ, \"horse\") and 骂 (mà, \"scold\") sound almost the same; only the tones are different.",
+     "en": "For three months, when they met on the stairs, they only nodded to each other.",
      "words": [
       {
-       "h": "“"
-      },
-      {
-       "h": "妈",
-       "py": "mā",
-       "gl": "mom; mother",
+       "h": "三个月",
+       "py": "sāngèyuè",
+       "gl": "three months",
        "pos": "n."
       },
       {
-       "h": "”"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "麻",
-       "py": "má",
-       "gl": "hemp; numb (má, second tone)",
-       "pos": "adj."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "马",
-       "py": "mǎ",
-       "gl": "horse",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "骂",
-       "py": "mà",
-       "gl": "scold; curse",
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
        "pos": "v."
       },
       {
-       "h": "”"
+       "h": "，"
       },
       {
-       "h": "四",
-       "py": "sì",
-       "gl": "four",
-       "pos": "num."
+       "h": "她们",
+       "py": "tāmen",
+       "gl": "they; them (female)",
+       "pos": "pron."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
-       "h": "字",
-       "py": "zì",
-       "gl": "character (Chinese); written character",
+       "h": "楼梯",
+       "py": "lóutī",
+       "gl": "stairs; staircase",
        "pos": "n."
       },
       {
-       "h": "发音",
-       "py": "fāyīn",
-       "gl": "pronunciation",
-       "pos": "n."
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
-       "h": "几乎",
-       "py": "jīhū",
-       "gl": "almost; nearly",
-       "pos": "adv."
-      },
-      {
-       "h": "一样",
-       "py": "yíyàng",
-       "gl": "same; alike",
-       "pos": "adj."
+       "h": "见面",
+       "py": "jiànmiàn",
+       "gl": "meet; see each other",
+       "pos": "v."
       },
       {
        "h": "，"
@@ -206,20 +197,14 @@
       {
        "h": "只是",
        "py": "zhǐshì",
-       "gl": "just; only; merely",
+       "gl": "just; merely; only",
        "pos": "adv."
       },
       {
-       "h": "声调",
-       "py": "shēngdiào",
-       "gl": "tone (in pronunciation)",
-       "pos": "n."
-      },
-      {
-       "h": "不同",
-       "py": "bùtóng",
-       "gl": "different",
-       "pos": "adj."
+       "h": "点点头",
+       "py": "diǎndiǎntóu",
+       "gl": "nod",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -229,11 +214,144 @@
    ]
   },
   {
-   "en": "If you use the wrong tone, the meaning may change completely. As the saying goes, \"An error the breadth of a hair can lead you a thousand miles off.\"",
+   "en": "One evening Aisha worked up her courage, knocked, and meant to say, \"May I ask you something?\"",
    "phrases": [
     {
-     "en": "If you use the wrong tone, the meaning may change completely. As the saying goes, \"An error the breadth of a hair can lead you a thousand miles off.\"",
+     "en": "One evening Aisha worked up her courage, knocked, and meant to say, \"May I ask you something?\"",
      "words": [
+      {
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "艾莎",
+       "py": "Àishā",
+       "gl": "Aisha",
+       "pos": "proper noun"
+      },
+      {
+       "h": "鼓起勇气",
+       "py": "gǔqǐyǒngqì",
+       "gl": "pluck up courage",
+       "pos": "phrase"
+      },
+      {
+       "h": "敲",
+       "py": "qiāo",
+       "gl": "knock",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "门",
+       "py": "mén",
+       "gl": "door",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may",
+       "pos": "v."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But she was so nervous her tone slipped, and it came out as: \"May I kiss you?\"",
+   "phrases": [
+    {
+     "en": "But she was so nervous her tone slipped, and it came out as: \"May I kiss you?\"",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "紧张",
+       "py": "jǐnzhāng",
+       "gl": "nervous; tense",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "声调",
        "py": "shēngdiào",
@@ -241,10 +359,10 @@
        "pos": "n."
       },
       {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "v."
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
       },
       {
        "h": "错",
@@ -262,27 +380,9 @@
        "h": "，"
       },
       {
-       "h": "意思",
-       "py": "yìsi",
-       "gl": "meaning",
-       "pos": "n."
-      },
-      {
-       "h": "可能",
-       "py": "kěnéng",
-       "gl": "maybe; perhaps; possibly",
-       "pos": "adv."
-      },
-      {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
-       "pos": "adv."
-      },
-      {
-       "h": "变",
-       "py": "biàn",
-       "gl": "change; become",
+       "h": "说成",
+       "py": "shuōchéng",
+       "gl": "describe as; say … as (by mistake)",
        "pos": "v."
       },
       {
@@ -292,19 +392,171 @@
        "pos": "particle"
       },
       {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may",
+       "pos": "v."
+      },
+      {
+       "h": "吻",
+       "py": "wěn",
+       "gl": "to kiss",
+       "pos": "v."
+      },
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Granny Wang was stunned, then laughed so hard she had to grab the door.",
+   "phrases": [
+    {
+     "en": "Granny Wang was stunned, then laughed so hard she had to grab the door.",
+     "words": [
+      {
+       "h": "王奶奶",
+       "py": "Wáng nǎinai",
+       "gl": "Grandma Wang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "愣了一下",
+       "py": "lèngleyīxià",
+       "gl": "was stunned for a moment",
+       "pos": "phrase"
+      },
+      {
        "h": "，"
       },
       {
-       "h": "真",
-       "py": "zhēn",
-       "gl": "really; truly; real",
+       "h": "然后",
+       "py": "ránhòu",
+       "gl": "then; after that",
        "pos": "adv."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "笑得",
+       "py": "xiàode",
+       "gl": "laugh so hard that",
        "pos": "v."
+      },
+      {
+       "h": "扶",
+       "py": "fú",
+       "gl": "support (with one's hand); help along",
+       "pos": "v."
+      },
+      {
+       "h": "住",
+       "py": "zhù",
+       "gl": "live; stay",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "门",
+       "py": "mén",
+       "gl": "door",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Aisha instantly turned red to her ears: so this was \"off by a hair, wrong by a thousand li.\"",
+   "phrases": [
+    {
+     "en": "Aisha instantly turned red to her ears: so this was \"off by a hair, wrong by a thousand li.\"",
+     "words": [
+      {
+       "h": "艾莎",
+       "py": "Àishā",
+       "gl": "Aisha",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "脸",
+       "py": "liǎn",
+       "gl": "face",
+       "pos": "n."
+      },
+      {
+       "h": "一下子",
+       "py": "yīxiàzi",
+       "gl": "all at once; suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "红",
+       "py": "hóng",
+       "gl": "blush; turn red",
+       "pos": "v."
+      },
+      {
+       "h": "到了",
+       "py": "dàole",
+       "gl": "reach; arrive; when it comes to (time); by (到了清朝 by the Qing dynasty)",
+       "pos": "v."
+      },
+      {
+       "h": "耳朵",
+       "py": "ěrduǒ",
+       "gl": "ear",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "这就是",
+       "py": "zhèjiùshì",
+       "gl": "this is (exactly)",
+       "pos": "phrase"
       },
       {
        "h": "“"
@@ -335,70 +587,109 @@
    ]
   },
   {
-   "en": "Listening a lot and imitating native speakers' pronunciation is the best way to overcome tone problems.",
+   "en": "In the textbook it was all simple: 妈, 麻, 马, 骂 — four characters that differ only in tone.",
    "phrases": [
     {
-     "en": "Listening a lot and imitating native speakers' pronunciation is the best way to overcome tone problems.",
+     "en": "In the textbook it was all simple: 妈, 麻, 马, 骂 — four characters that differ only in tone.",
      "words": [
       {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "课本",
+       "py": "kèběn",
+       "gl": "textbook",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this; these",
+       "pos": "pron."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "简单",
+       "py": "jiǎndān",
+       "gl": "simple; easy",
        "pos": "adj."
       },
       {
-       "h": "听",
-       "py": "tīng",
-       "gl": "listen; hear",
-       "pos": "v."
+       "h": "："
+      },
+      {
+       "h": "妈",
+       "py": "mā",
+       "gl": "mom; mother",
+       "pos": "n."
       },
       {
        "h": "、"
       },
       {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
-      },
-      {
-       "h": "模仿",
-       "py": "mófǎng",
-       "gl": "imitate; copy",
-       "pos": "v."
-      },
-      {
-       "h": "母语者",
-       "py": "mǔyǔzhě",
-       "gl": "native speaker",
+       "h": "麻",
+       "py": "má",
+       "gl": "hemp (syllable má, 2nd tone)",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "、"
       },
       {
-       "h": "发音",
-       "py": "fāyīn",
-       "gl": "pronunciation",
+       "h": "马",
+       "py": "mǎ",
+       "gl": "horse",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "骂",
+       "py": "mà",
+       "gl": "scold; curse",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "四个",
+       "py": "sìgè",
+       "gl": "four",
+       "pos": "num."
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "克服",
-       "py": "kèfú",
-       "gl": "overcome",
-       "pos": "v."
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
       },
       {
        "h": "声调",
@@ -407,33 +698,397 @@
        "pos": "n."
       },
       {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem",
-       "pos": "n."
+       "h": "不一样",
+       "py": "bùyíyàng",
+       "gl": "different; not the same",
+       "pos": "adj."
       },
       {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But in real life, her tones ran off in all directions the moment she got nervous.",
+   "phrases": [
+    {
+     "en": "But in real life, her tones ran off in all directions the moment she got nervous.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "生活里",
+       "py": "shēnghuólǐ",
+       "gl": "in life",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
        "pos": "adv."
       },
       {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
+       "h": "紧张",
+       "py": "jǐnzhāng",
+       "gl": "nervous; tense",
        "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "声调",
+       "py": "shēngdiào",
+       "gl": "tone (in pronunciation)",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "跑",
+       "py": "pǎo",
+       "gl": "run",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Come in,\" said Granny Wang, wiping away tears. \"Ask whatever you like. And kissing is fine too.\"",
+   "phrases": [
+    {
+     "en": "\"Come in,\" said Granny Wang, wiping away tears. \"Ask whatever you like. And kissing is fine too.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "进来",
+       "py": "jìnlái",
+       "gl": "come in",
+       "pos": "v."
+      },
+      {
+       "h": "吧",
+       "py": "ba",
+       "gl": "(particle: suggestion)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "王奶奶",
+       "py": "Wáng nǎinai",
+       "gl": "Grandma Wang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "擦",
+       "py": "cā",
+       "gl": "wipe; clean",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "眼泪",
+       "py": "yǎnlèi",
+       "gl": "tears",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "吻",
+       "py": "wěn",
+       "gl": "to kiss",
+       "pos": "v."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Aisha wanted to ask how to make jiaozi: no one at home knew how.",
+   "phrases": [
+    {
+     "en": "Aisha wanted to ask how to make jiaozi: no one at home knew how.",
+     "words": [
+      {
+       "h": "艾莎",
+       "py": "Àishā",
+       "gl": "Aisha",
+       "pos": "proper noun"
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "办法",
-       "py": "bànfǎ",
-       "gl": "way; method; (没办法) there's nothing one can do",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
+       "pos": "pron."
+      },
+      {
+       "h": "包饺子",
+       "py": "bāojiǎozi",
+       "gl": "make dumplings",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "家里",
+       "py": "jiālǐ",
+       "gl": "at home; in the family",
+       "pos": "n."
+      },
+      {
+       "h": "没有人",
+       "py": "méiyǒurén",
+       "gl": "nobody; no one",
+       "pos": "pron."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Granny Wang taught her to make them, and at the same time, like a teacher, corrected every one of her tones.",
+   "phrases": [
+    {
+     "en": "Granny Wang taught her to make them, and at the same time, like a teacher, corrected every one of her tones.",
+     "words": [
+      {
+       "h": "王奶奶",
+       "py": "Wáng nǎinai",
+       "gl": "Grandma Wang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "包",
+       "py": "bāo",
+       "gl": "wrap; make (dumplings)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "老师",
+       "py": "lǎoshī",
+       "gl": "teacher",
+       "pos": "n."
+      },
+      {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个一个",
+       "py": "yígèyígè",
+       "gl": "one by one",
+       "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "改",
+       "py": "gǎi",
+       "gl": "change; revise; correct",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "声调",
+       "py": "shēngdiào",
+       "gl": "tone (in pronunciation)",
        "pos": "n."
       },
       {
@@ -444,45 +1099,139 @@
    ]
   },
   {
-   "en": "Once I wanted my phone's voice assistant to order chopsticks with my takeout, but because my tones were off, it heard a totally unrelated word, and no matter what I tried I couldn't get it right.",
+   "en": "\"Listen more, repeat more,\" she said. \"Language isn't in the book; it's in your ears.\"",
    "phrases": [
     {
-     "en": "Once I wanted my phone's voice assistant to order chopsticks with my takeout,",
+     "en": "\"Listen more, repeat more,\" she said. \"Language isn't in the book; it's in your ears.\"",
      "words": [
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "there is (有一次 once)",
+       "h": "“"
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "more (than)",
+       "pos": "adv."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
+       "h": "，"
       },
       {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
+       "h": "多",
+       "py": "duō",
+       "gl": "more (than)",
+       "pos": "adv."
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "话",
+       "py": "huà",
+       "gl": "words; speech; what someone says",
+       "pos": "n."
+      },
+      {
+       "h": "不在",
+       "py": "bùzài",
+       "gl": "not be present; be absent; not be (somewhere)",
+       "pos": "v."
+      },
+      {
+       "h": "书里",
+       "py": "shūli",
+       "gl": "in the book",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "耳朵",
+       "py": "ěrduǒ",
+       "gl": "ear",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A month later, Aisha asked the voice assistant on her phone to order chopsticks, and for the first time it understood her right away.",
+   "phrases": [
+    {
+     "en": "A month later, Aisha asked the voice assistant on her phone to order chopsticks, and for the first time it understood her right away.",
+     "words": [
+      {
+       "h": "一个月后",
+       "py": "yígèyuèhòu",
+       "gl": "a month later",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "艾莎",
+       "py": "Àishā",
+       "gl": "Aisha",
+       "pos": "proper noun"
       },
       {
        "h": "让",
        "py": "ràng",
-       "gl": "make (someone do); cause",
+       "gl": "let; make (someone do); ask (someone to do)",
        "pos": "v."
       },
       {
@@ -492,40 +1241,10 @@
        "pos": "n."
       },
       {
-       "h": "语音",
-       "py": "yǔyīn",
-       "gl": "voice; audio",
-       "pos": "n."
-      },
-      {
-       "h": "助手",
-       "py": "zhùshǒu",
-       "gl": "assistant; helper",
-       "pos": "n."
-      },
-      {
-       "h": "帮",
-       "py": "bāng",
-       "gl": "help",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "定",
-       "py": "dìng",
-       "gl": "order (food, goods)",
-       "pos": "v."
-      },
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
        "h": "的",
@@ -534,48 +1253,22 @@
        "pos": "particle"
       },
       {
+       "h": "语音助手",
+       "py": "yǔyīn zhùshǒu",
+       "gl": "voice assistant",
+       "pos": "n."
+      },
+      {
+       "h": "订",
+       "py": "dìng",
+       "gl": "book; order; reserve",
+       "pos": "v."
+      },
+      {
        "h": "筷子",
        "py": "kuàizi",
        "gl": "chopsticks",
        "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but because my tones were off, it heard a totally unrelated word,",
-     "words": [
-      {
-       "h": "结果",
-       "py": "jiéguǒ",
-       "gl": "as a result; in the end; result",
-       "pos": "conj."
-      },
-      {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because of",
-       "pos": "conj."
-      },
-      {
-       "h": "声调",
-       "py": "shēngdiào",
-       "gl": "tone (in pronunciation)",
-       "pos": "n."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "correct; right",
-       "pos": "adj."
       },
       {
        "h": "，"
@@ -587,34 +1280,98 @@
        "pos": "pron."
       },
       {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "一下子",
+       "py": "yīxiàzi",
+       "gl": "all at once; suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "听懂",
+       "py": "tīngdǒng",
+       "gl": "understand (by hearing)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Before, however hard she tried, it stubbornly heard some other word instead of \"chopsticks.\"",
+   "phrases": [
+    {
+     "en": "Before, however hard she tried, it stubbornly heard some other word instead of \"chopsticks.\"",
+     "words": [
+      {
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "总是",
+       "py": "zǒngshì",
+       "gl": "always",
+       "pos": "adv."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "筷子",
+       "py": "kuàizi",
+       "gl": "chopsticks",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
        "h": "听成",
        "py": "tīngchéng",
        "gl": "mishear as",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
-       "pos": "adv."
-      },
-      {
-       "h": "无关",
-       "py": "wúguān",
-       "gl": "unrelated; irrelevant",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
+       "h": "别的",
+       "py": "biéde",
+       "gl": "other; else",
+       "pos": "pron."
       },
       {
        "h": "词",
@@ -624,17 +1381,18 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and no matter what I tried I couldn't get it right.",
-     "words": [
+      },
       {
        "h": "怎么",
        "py": "zěnme",
        "gl": "how",
-       "pos": "question word"
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
       },
       {
        "h": "都",
@@ -643,22 +1401,219 @@
        "pos": "adv."
       },
       {
-       "h": "叫",
-       "py": "jiào",
-       "gl": "call; say (right)",
-       "pos": "v."
+       "h": "不对",
+       "py": "búduì",
+       "gl": "wrong; not right; something's off",
+       "pos": "adj."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now every Saturday they make jiaozi together, and as they work, Granny Wang counts how many tones Aisha mixed up that day.",
+   "phrases": [
+    {
+     "en": "Now every Saturday they make jiaozi together, and as they work, Granny Wang counts how many tones Aisha mixed up that day.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
        "pos": "adv."
       },
       {
-       "h": "对",
-       "py": "duì",
-       "gl": "correct; right",
+       "h": "每个",
+       "py": "měigè",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "星期六",
+       "py": "xīngqīliù",
+       "gl": "Saturday",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她们",
+       "py": "tāmen",
+       "gl": "they; them (female)",
+       "pos": "pron."
+      },
+      {
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
+      },
+      {
+       "h": "包饺子",
+       "py": "bāojiǎozi",
+       "gl": "make dumplings",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "王奶奶",
+       "py": "Wáng nǎinai",
+       "gl": "Grandma Wang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "包",
+       "py": "bāo",
+       "gl": "wrap; make (dumplings)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "数",
+       "py": "shǔ",
+       "gl": "count",
+       "pos": "v."
+      },
+      {
+       "h": "艾莎",
+       "py": "Àishā",
+       "gl": "Aisha",
+       "pos": "proper noun"
+      },
+      {
+       "h": "今天",
+       "py": "jīntiān",
+       "gl": "today",
+       "pos": "n."
+      },
+      {
+       "h": "说错",
+       "py": "shuōcuò",
+       "gl": "say something wrong; misspeak",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "几个",
+       "py": "jǐgè",
+       "gl": "a few; several",
+       "pos": "num."
+      },
+      {
+       "h": "声调",
+       "py": "shēngdiào",
+       "gl": "tone (in pronunciation)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Last Saturday — not one. And Granny Wang seemed, if anything, a little disappointed.",
+   "phrases": [
+    {
+     "en": "Last Saturday — not one. And Granny Wang seemed, if anything, a little disappointed.",
+     "words": [
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "星期六",
+       "py": "xīngqīliù",
+       "gl": "Saturday",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too; (with negation) even",
+       "pos": "adv."
+      },
+      {
+       "h": "没错",
+       "py": "méicuò",
+       "gl": "that's right; exactly",
        "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "王奶奶",
+       "py": "Wáng nǎinai",
+       "gl": "Grandma Wang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "好像",
+       "py": "hǎoxiàng",
+       "gl": "seem; be like; as if",
+       "pos": "adv."
+      },
+      {
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
+       "pos": "conj."
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "失望",
+       "py": "shīwàng",
+       "gl": "be disappointed",
+       "pos": "v."
       },
       {
        "h": "。"

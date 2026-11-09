@@ -1,17 +1,17 @@
 {
  "id": "digitalnomad",
  "level": 4,
- "title_zh": "数字游民",
- "title_en": "Digital Nomads",
+ "title_zh": "互相羡慕",
+ "title_en": "Envying Each Other",
  "free": false,
  "audio_url": null,
- "note_en": "起 after a verb can mean \"start to\" a new role or activity: 当起了\"数字游民\" \"started living as a digital nomad.\" Compare plain 当了 \"became.\" With 起, the focus is on taking up something new, a bit like English \"took up\" or \"set himself up as.\"",
+ "note_en": "The word 游民 originally meant \"vagrant, drifter\" and sounded disapproving; in 数字游民 (\"digital nomad\") it has taken on a new, neutral, even attractive meaning: 当起了“数字游民” — \"became a 'digital nomad.'\"",
  "sentences": [
   {
-   "en": "A friend of mine quit his job and became a \"digital nomad.\"",
+   "en": "My friend A-Zhe quit his job and became a \"digital nomad.\"",
    "phrases": [
     {
-     "en": "A friend of mine",
+     "en": "My friend A-Zhe quit his job and became a \"digital nomad.\"",
      "words": [
       {
        "h": "我",
@@ -22,36 +22,31 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
        "h": "朋友",
-       "py": "péngyou",
+       "py": "péngyǒu",
        "gl": "friend",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "quit his job",
-     "words": [
+      },
+      {
+       "h": "阿哲",
+       "py": "Ā Zhé",
+       "gl": "A-Zhe",
+       "pos": "proper noun"
+      },
       {
        "h": "辞",
        "py": "cí",
-       "gl": "quit (a job); resign",
+       "gl": "to quit (a job)",
        "pos": "v."
       },
       {
@@ -68,22 +63,11 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and became a \"digital nomad.\"",
-     "words": [
-      {
-       "h": "当",
-       "py": "dāng",
-       "gl": "serve as; be; become",
-       "pos": "v."
       },
       {
-       "h": "起",
-       "py": "qǐ",
-       "gl": "break out (a rash); rise; get up",
+       "h": "当起",
+       "py": "dāngqǐ",
+       "gl": "become; start working as",
        "pos": "v."
       },
       {
@@ -96,15 +80,9 @@
        "h": "“"
       },
       {
-       "h": "数字",
-       "py": "shùzì",
-       "gl": "number; figure; digit",
-       "pos": "n."
-      },
-      {
-       "h": "游民",
-       "py": "yóumín",
-       "gl": "nomad; drifter (数字游民 digital nomad)",
+       "h": "数字游民",
+       "py": "shùzì yóumín",
+       "gl": "digital nomad",
        "pos": "n."
       },
       {
@@ -118,10 +96,10 @@
    ]
   },
   {
-   "en": "He takes his laptop with him and works remotely while he travels.",
+   "en": "He travels with his laptop and works remotely at the same time.",
    "phrases": [
     {
-     "en": "He takes his laptop with him",
+     "en": "He travels with his laptop and works remotely at the same time.",
      "words": [
       {
        "h": "他",
@@ -130,10 +108,16 @@
        "pos": "pron."
       },
       {
-       "h": "带着",
-       "py": "dàizhe",
-       "gl": "with; carrying; taking along",
+       "h": "带",
+       "py": "dài",
+       "gl": "bring; take (along); carry",
        "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
       },
       {
        "h": "电脑",
@@ -143,23 +127,12 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and travels",
-     "words": [
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
       },
       {
-       "h": "边",
-       "py": "biān",
-       "gl": "side; edge (河边 \"riverside\")",
-       "pos": "n."
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
       },
       {
        "h": "旅行",
@@ -169,34 +142,162 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "while working remotely.",
-     "words": [
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
       },
       {
-       "h": "边",
-       "py": "biān",
-       "gl": "side; edge (河边 \"riverside\")",
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "远程办公",
+       "py": "yuǎnchéng bàngōng",
+       "gl": "remote work",
        "pos": "n."
       },
       {
-       "h": "远程",
-       "py": "yuǎnchéng",
-       "gl": "remote (远程办公 work remotely)",
-       "pos": "adj."
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In his WeChat Moments it's the sea today and snowy mountains tomorrow; I look at them on the subway every day, and the more I look, the more envious I get.",
+   "phrases": [
+    {
+     "en": "In his WeChat Moments it's the sea today and snowy mountains tomorrow; I look at them on the subway every day, and the more I look, the more envious I get.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
-       "h": "办公",
-       "py": "bàngōng",
-       "gl": "work; do office work",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "朋友圈",
+       "py": "péngyouquān",
+       "gl": "WeChat Moments",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "今天",
+       "py": "jīntiān",
+       "gl": "today",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "大海",
+       "py": "dàhǎi",
+       "gl": "sea; ocean",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "明天",
+       "py": "míngtiān",
+       "gl": "tomorrow",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "雪山",
+       "py": "xuěshān",
+       "gl": "snow mountain",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "地铁",
+       "py": "dìtiě",
+       "gl": "subway",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "越",
+       "py": "yuè",
+       "gl": "the more … (越…越… the more … the more …)",
+       "pos": "adv."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "越",
+       "py": "yuè",
+       "gl": "the more … (越…越… the more … the more …)",
+       "pos": "adv."
+      },
+      {
+       "h": "羡慕",
+       "py": "xiànmù",
+       "gl": "envy; admire",
        "pos": "v."
       },
       {
@@ -207,10 +308,10 @@
    ]
   },
   {
-   "en": "He says the biggest advantage of this lifestyle is freedom: he can go anywhere he wants.",
+   "en": "He says the biggest advantage of this life is freedom: you can go anywhere you want.",
    "phrases": [
     {
-     "en": "He says the biggest advantage of this lifestyle is freedom: he can go anywhere he wants.",
+     "en": "He says the biggest advantage of this life is freedom: you can go anywhere you want.",
      "words": [
       {
        "h": "他",
@@ -233,25 +334,19 @@
       {
        "h": "生活",
        "py": "shēnghuó",
-       "gl": "life; live",
+       "gl": "life",
        "pos": "n."
       },
       {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
+       "h": "最大",
+       "py": "zuìdà",
+       "gl": "biggest; largest",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -270,7 +365,7 @@
        "h": "自由",
        "py": "zìyóu",
        "gl": "free; freedom",
-       "pos": "adj."
+       "pos": "n."
       },
       {
        "h": "，"
@@ -278,7 +373,7 @@
       {
        "h": "想",
        "py": "xiǎng",
-       "gl": "want; would like; think; miss",
+       "gl": "want; would like",
        "pos": "v."
       },
       {
@@ -291,7 +386,7 @@
        "h": "哪里",
        "py": "nǎlǐ",
        "gl": "where",
-       "pos": "question word"
+       "pos": "pron."
       },
       {
        "h": "都",
@@ -302,8 +397,8 @@
       {
        "h": "可以",
        "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "function word"
+       "gl": "can; may",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -313,289 +408,15 @@
    ]
   },
   {
-   "en": "But this freedom comes at a price: no steady income and no stable social circle.",
+   "en": "In recent years, small cities like Dali in Yunnan and Anji in Zhejiang, with cheap rent and a good environment, have gradually become gathering places for digital nomads.",
    "phrases": [
     {
-     "en": "But this freedom comes at a price:",
+     "en": "In recent years, small cities like Dali in Yunnan and Anji in Zhejiang, with cheap rent and a good environment, have gradually become gathering places for digital nomads.",
      "words": [
       {
-       "h": "不过",
-       "py": "búguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "自由",
-       "py": "zìyóu",
-       "gl": "free; freedom",
-       "pos": "adj."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "代价",
-       "py": "dàijià",
-       "gl": "price; cost (of something)",
-       "pos": "n."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "no steady income",
-     "words": [
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
-       "pos": "v."
-      },
-      {
-       "h": "固定",
-       "py": "gùdìng",
-       "gl": "fixed; regular; steady",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "收入",
-       "py": "shōurù",
-       "gl": "income",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and no stable social circle.",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
-       "pos": "v."
-      },
-      {
-       "h": "稳定",
-       "py": "wěndìng",
-       "gl": "stable; steady",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "社交",
-       "py": "shèjiāo",
-       "gl": "social (life); socializing",
-       "pos": "n."
-      },
-      {
-       "h": "圈子",
-       "py": "quānzi",
-       "gl": "circle (of people)",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After hearing about his experience, I thought this kind of life sounded pretty appealing, but it isn't necessarily right for everyone.",
-   "phrases": [
-    {
-     "en": "After hearing about his experience,",
-     "words": [
-      {
-       "h": "听",
-       "py": "tīng",
-       "gl": "listen; hear",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I thought this kind of life sounded pretty appealing,",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life; live",
-       "pos": "n."
-      },
-      {
-       "h": "挺",
-       "py": "tǐng",
-       "gl": "quite; rather",
-       "pos": "adv."
-      },
-      {
-       "h": "吸引人",
-       "py": "xīyǐnrén",
-       "gl": "attractive; appealing",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but it isn't necessarily right for everyone.",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "一定",
-       "py": "yídìng",
-       "gl": "definitely; surely; must",
-       "pos": "adv."
-      },
-      {
-       "h": "适合",
-       "py": "shìhé",
-       "gl": "suit; be suitable for",
-       "pos": "v."
-      },
-      {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
-       "pos": "pron."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In recent years, small towns like Dali in Yunnan and Anji in Zhejiang have gradually become gathering places for digital nomads because of their cheap rent and pleasant surroundings.",
-   "phrases": [
-    {
-     "en": "In recent years, small towns like Dali in Yunnan and Anji in Zhejiang,",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this; these",
-       "pos": "pron."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "question word"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "这几年",
+       "py": "zhèjǐnián",
+       "gl": "these past few years; in recent years",
        "pos": "n."
       },
       {
@@ -609,25 +430,25 @@
       },
       {
        "h": "大理",
-       "py": "dàlǐ",
+       "py": "Dàlǐ",
        "gl": "Dali (city in Yunnan)",
        "pos": "proper noun"
       },
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
        "h": "浙江",
-       "py": "zhèjiāng",
+       "py": "Zhèjiāng",
        "gl": "Zhejiang (province)",
        "pos": "proper noun"
       },
       {
        "h": "安吉",
-       "py": "ānjí",
+       "py": "Ānjí",
        "gl": "Anji (county in Zhejiang)",
        "pos": "proper noun"
       },
@@ -644,25 +465,14 @@
        "pos": "particle"
       },
       {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "城",
-       "py": "chéng",
-       "gl": "city; town",
+       "h": "小城",
+       "py": "xiǎochéng",
+       "gl": "small town",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "because of their cheap rent and pleasant surroundings,",
-     "words": [
+      },
       {
        "h": "因为",
        "py": "yīnwèi",
@@ -698,12 +508,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "have gradually become gathering places for digital nomads.",
-     "words": [
+      },
       {
        "h": "渐渐",
        "py": "jiànjiàn",
@@ -719,19 +524,13 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "数字",
-       "py": "shùzì",
-       "gl": "digital",
-       "pos": "adj."
-      },
-      {
-       "h": "游民",
-       "py": "yóumín",
-       "gl": "nomad (数字游民 digital nomad)",
+       "h": "数字游民",
+       "py": "shùzì yóumín",
+       "gl": "digital nomad",
        "pos": "n."
       },
       {
@@ -760,10 +559,95 @@
    ]
   },
   {
-   "en": "Coworking spaces made especially for digital nomads have even sprung up there; everyone works on their own during the day and eats and chats together in the evening.",
+   "en": "This fall I took three days off and went to visit him in Anji.",
    "phrases": [
     {
-     "en": "Coworking spaces made especially for digital nomads have even sprung up there;",
+     "en": "This fall I took three days off and went to visit him in Anji.",
+     "words": [
+      {
+       "h": "今年",
+       "py": "jīnnián",
+       "gl": "this year",
+       "pos": "n."
+      },
+      {
+       "h": "秋天",
+       "py": "qiūtiān",
+       "gl": "fall; autumn",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "请",
+       "py": "qǐng",
+       "gl": "ask for (leave)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "三天",
+       "py": "sāntiān",
+       "gl": "three days",
+       "pos": "n."
+      },
+      {
+       "h": "假",
+       "py": "jià",
+       "gl": "leave; time off (jià)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go",
+       "pos": "v."
+      },
+      {
+       "h": "安吉",
+       "py": "Ānjí",
+       "gl": "Anji (county in Zhejiang)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Coworking spaces made especially for digital nomads have sprung up there, with a bamboo grove outside the window.",
+   "phrases": [
+    {
+     "en": "Coworking spaces made especially for digital nomads have sprung up there, with a bamboo grove outside the window.",
      "words": [
       {
        "h": "当地",
@@ -772,21 +656,15 @@
        "pos": "adj."
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
        "h": "出现",
        "py": "chūxiàn",
-       "gl": "appear; emerge",
+       "gl": "appear",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
@@ -802,15 +680,9 @@
        "pos": "prep."
       },
       {
-       "h": "数字",
-       "py": "shùzì",
-       "gl": "digital",
-       "pos": "adj."
-      },
-      {
-       "h": "游民",
-       "py": "yóumín",
-       "gl": "nomad (数字游民 digital nomad)",
+       "h": "数字游民",
+       "py": "shùzì yóumín",
+       "gl": "digital nomad",
        "pos": "n."
       },
       {
@@ -826,30 +698,44 @@
        "pos": "particle"
       },
       {
-       "h": "共享",
-       "py": "gòngxiǎng",
-       "gl": "shared; share",
-       "pos": "v."
-      },
-      {
-       "h": "办公",
-       "py": "bàngōng",
-       "gl": "office work; work (in an office)",
-       "pos": "v."
-      },
-      {
-       "h": "空间",
-       "py": "kōngjiān",
-       "gl": "space",
+       "h": "共享办公空间",
+       "py": "gòngxiǎng bàngōng kōngjiān",
+       "gl": "coworking space",
        "pos": "n."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "窗外",
+       "py": "chuāngwài",
+       "gl": "outside the window",
+       "pos": "n."
+      },
+      {
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "just; simply; exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "竹林",
+       "py": "zhúlín",
+       "gl": "bamboo grove",
+       "pos": "n."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "During the day everyone works on their own, and in the evening they all eat and chat together — it looks like one big family.",
+   "phrases": [
     {
-     "en": "everyone works on their own during the day and eats and chats together in the evening.",
+     "en": "During the day everyone works on their own, and in the evening they all eat and chat together — it looks like one big family.",
      "words": [
       {
        "h": "大家",
@@ -872,8 +758,8 @@
       {
        "h": "工作",
        "py": "gōngzuò",
-       "gl": "work",
-       "pos": "v."
+       "gl": "work; job",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -881,7 +767,7 @@
       {
        "h": "晚上",
        "py": "wǎnshàng",
-       "gl": "evening; in the evening",
+       "gl": "evening",
        "pos": "n."
       },
       {
@@ -903,7 +789,861 @@
        "pos": "v."
       },
       {
+       "h": "，"
+      },
+      {
+       "h": "看起来",
+       "py": "kànqǐlái",
+       "gl": "look; seem; appear",
+       "pos": "v."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "大家庭",
+       "py": "dàjiātíng",
+       "gl": "big family; extended family",
+       "pos": "n."
+      },
+      {
        "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But on the third evening everyone left, and only the two of us remained.",
+   "phrases": [
+    {
+     "en": "But on the third evening everyone left, and only the two of us remained.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "第三",
+       "py": "dìsān",
+       "gl": "third",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "大家",
+       "py": "dàjiā",
+       "gl": "everyone; everybody",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "剩下",
+       "py": "shèngxià",
+       "gl": "be left (over); remain",
+       "pos": "v."
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A-Zhe took a sip of wine and said, \"You know what? I envy you.\"",
+   "phrases": [
+    {
+     "en": "A-Zhe took a sip of wine and said, \"You know what? I envy you.\"",
+     "words": [
+      {
+       "h": "阿哲",
+       "py": "Ā Zhé",
+       "gl": "A-Zhe",
+       "pos": "proper noun"
+      },
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一口",
+       "py": "yìkǒu",
+       "gl": "a mouthful; a bite",
+       "pos": "measure word"
+      },
+      {
+       "h": "酒",
+       "py": "jiǔ",
+       "gl": "alcohol; wine; liquor",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "羡慕",
+       "py": "xiànmù",
+       "gl": "envy; admire",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I thought he was joking.",
+   "phrases": [
+    {
+     "en": "I thought he was joking.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "以为",
+       "py": "yǐwéi",
+       "gl": "think (mistakenly); assume",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "开玩笑",
+       "py": "kāiwánxiào",
+       "gl": "joke; make fun of",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He said the friends here change every few months, and for a whole year he hadn't known anyone long enough to have a fight with them.",
+   "phrases": [
+    {
+     "en": "He said the friends here change every few months, and for a whole year he hadn't known anyone long enough to have a fight with them.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这里",
+       "py": "zhèlǐ",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "朋友",
+       "py": "péngyǒu",
+       "gl": "friend",
+       "pos": "n."
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "几个月",
+       "py": "jǐgèyuè",
+       "gl": "several months",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "换",
+       "py": "huàn",
+       "gl": "change (换个角度 from another angle)",
+       "pos": "v."
+      },
+      {
+       "h": "一批",
+       "py": "yīpī",
+       "gl": "batch; group; series",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "一年",
+       "py": "yīnián",
+       "gl": "one year; a year",
+       "pos": "n."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "同一个",
+       "py": "tóngyīgè",
+       "gl": "the same (one)",
+       "pos": "pron."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "吵",
+       "py": "chǎo",
+       "gl": "quarrel; argue",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "架",
+       "py": "jià",
+       "gl": "quarrel",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This freedom has its price: no steady income and no stable circle of friends.",
+   "phrases": [
+    {
+     "en": "This freedom has its price: no steady income and no stable circle of friends.",
+     "words": [
+      {
+       "h": "这种",
+       "py": "zhèzhǒng",
+       "gl": "this kind of; such",
+       "pos": "pron."
+      },
+      {
+       "h": "自由",
+       "py": "zìyóu",
+       "gl": "free; freedom",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "代价",
+       "py": "dàijià",
+       "gl": "price; cost",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "固定",
+       "py": "gùdìng",
+       "gl": "fixed; regular; steady",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "收入",
+       "py": "shōurù",
+       "gl": "income",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "稳定",
+       "py": "wěndìng",
+       "gl": "stable; steady",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "社交圈子",
+       "py": "shèjiāo quānzi",
+       "gl": "social circle",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the train back to the city I looked out the window and, for the first time, thought my little desk at work wasn't so bad.",
+   "phrases": [
+    {
+     "en": "On the train back to the city I looked out the window and, for the first time, thought my little desk at work wasn't so bad.",
+     "words": [
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "back (after a verb: 带回 bring back)",
+       "pos": "v."
+      },
+      {
+       "h": "城里",
+       "py": "chénglǐ",
+       "gl": "in the city; in town",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "火车",
+       "py": "huǒchē",
+       "gl": "train",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on; in; in terms of (after a noun: 世界上 in the world, 工作上 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "窗外",
+       "py": "chuāngwài",
+       "gl": "outside the window",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "小小",
+       "py": "xiǎoxiǎo",
+       "gl": "little; tiny",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "工位",
+       "py": "gōngwèi",
+       "gl": "workstation; desk",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不错",
+       "py": "bùcuò",
+       "gl": "good; decent",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I think this kind of life is very attractive, but it doesn't suit everyone.",
+   "phrases": [
+    {
+     "en": "I think this kind of life is very attractive, but it doesn't suit everyone.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "这种",
+       "py": "zhèzhǒng",
+       "gl": "this kind of; such",
+       "pos": "pron."
+      },
+      {
+       "h": "生活",
+       "py": "shēnghuó",
+       "gl": "life",
+       "pos": "n."
+      },
+      {
+       "h": "挺",
+       "py": "tǐng",
+       "gl": "quite; rather",
+       "pos": "adv."
+      },
+      {
+       "h": "吸引人",
+       "py": "xīyǐnrén",
+       "gl": "attractive; appealing",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "但",
+       "py": "dàn",
+       "gl": "but",
+       "pos": "conj."
+      },
+      {
+       "h": "不一定",
+       "py": "bùyídìng",
+       "gl": "not necessarily",
+       "pos": "adv."
+      },
+      {
+       "h": "适合",
+       "py": "shìhé",
+       "gl": "suit; be suitable for",
+       "pos": "v."
+      },
+      {
+       "h": "每个人",
+       "py": "měigèrén",
+       "gl": "everyone; each person",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When I got off the train, I texted A-Zhe: \"Come visit me next month. Let's have a proper fight.\"",
+   "phrases": [
+    {
+     "en": "When I got off the train, I texted A-Zhe: \"Come visit me next month. Let's have a proper fight.\"",
+     "words": [
+      {
+       "h": "下车",
+       "py": "xiàchē",
+       "gl": "get off (a vehicle)",
+       "pos": "v."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "阿哲",
+       "py": "Ā Zhé",
+       "gl": "A-Zhe",
+       "pos": "proper noun"
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一条",
+       "py": "yìtiáo",
+       "gl": "one (measure word for long things, messages, news, rules)",
+       "pos": "num."
+      },
+      {
+       "h": "消息",
+       "py": "xiāoxī",
+       "gl": "message; news",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "下个月",
+       "py": "xiàgèyuè",
+       "gl": "next month",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "这儿",
+       "py": "zhèr",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "吵",
+       "py": "chǎo",
+       "gl": "quarrel; argue",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "架",
+       "py": "jià",
+       "gl": "quarrel",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }

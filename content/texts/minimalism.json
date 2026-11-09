@@ -1,17 +1,17 @@
 {
  "id": "minimalism",
  "level": 4,
- "title_zh": "极简生活",
- "title_en": "Living with Less",
+ "title_zh": "搬家七次的人",
+ "title_en": "The Woman Who Moved Seven Times",
  "free": false,
  "audio_url": null,
- "note_en": "与其A，不如B means \"rather than A, it's better to B\": 与其让东西占满房间，不如只留下真正需要的 \"rather than letting stuff fill up the room, it's better to keep only what you really need.\" Note the order: the option you reject comes first with 与其, and the one you prefer comes second with 不如.",
+ "note_en": "The pattern 与其……不如…… (\"rather than…, better to…\") expresses a preference: the rejected option follows 与其, the better one follows 不如: 与其让东西占满房间，不如只留下真正需要的 — \"rather than let things fill up the room, better to keep only what you really need.\"",
  "sentences": [
   {
-   "en": "My friend Xiao Wang recently started living a minimalist lifestyle and gave away half the things in her home.",
+   "en": "My friend Xiao Wang recently started living a minimalist life and gave away half of the things in her home.",
    "phrases": [
     {
-     "en": "My friend Xiao Wang recently started living a minimalist lifestyle",
+     "en": "My friend Xiao Wang recently started living a minimalist life and gave away half of the things in her home.",
      "words": [
       {
        "h": "朋友",
@@ -20,55 +20,38 @@
        "pos": "n."
       },
       {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "王",
-       "py": "wáng",
-       "gl": "Wang (surname)",
+       "h": "小王",
+       "py": "Xiǎo Wáng",
+       "gl": "Xiao Wang (familiar form of address)",
        "pos": "proper noun"
       },
       {
        "h": "最近",
        "py": "zuìjìn",
        "gl": "recently; lately",
-       "pos": "n."
+       "pos": "adv."
       },
       {
        "h": "开始",
        "py": "kāishǐ",
-       "gl": "begin; start; beginning",
+       "gl": "begin; start",
        "pos": "v."
       },
       {
        "h": "实践",
        "py": "shíjiàn",
        "gl": "practice; put into practice",
-       "pos": "v."
+       "pos": "n."
       },
       {
-       "h": "极简",
-       "py": "jíjiǎn",
-       "gl": "minimalist",
-       "pos": "adj."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life; live",
+       "h": "极简生活",
+       "py": "jíjiǎn shēnghuó",
+       "gl": "minimalist living",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and gave away half the things in her home.",
-     "words": [
+      },
       {
        "h": "把",
        "py": "bǎ",
@@ -77,7 +60,7 @@
       },
       {
        "h": "家里",
-       "py": "jiāli",
+       "py": "jiālǐ",
        "gl": "at home; in the family",
        "pos": "n."
       },
@@ -90,13 +73,13 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; things; stuff",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
        "pos": "n."
       },
       {
@@ -119,8 +102,8 @@
       },
       {
        "h": "出去",
-       "py": "chūqù",
-       "gl": "go out",
+       "py": "chūqu",
+       "gl": "out (directional complement)",
        "pos": "v."
       },
       {
@@ -131,10 +114,10 @@
    ]
   },
   {
-   "en": "She said, \"Rather than letting stuff fill up your rooms, it's better to keep only what you really need.\"",
+   "en": "She says, \"Rather than let things fill up the room, better to keep only what you really need.\"",
    "phrases": [
     {
-     "en": "She said,",
+     "en": "She says, \"Rather than let things fill up the room, better to keep only what you really need.\"",
      "words": [
       {
        "h": "她",
@@ -150,16 +133,14 @@
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"Rather than letting stuff fill up your rooms,",
-     "words": [
+      },
+      {
+       "h": "“"
+      },
       {
        "h": "与其",
        "py": "yǔqí",
-       "gl": "rather than (与其…不如… 'rather than … better to …')",
+       "gl": "rather than (与其…不如…)",
        "pos": "conj."
       },
       {
@@ -170,14 +151,14 @@
       },
       {
        "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; things; stuff",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
        "pos": "n."
       },
       {
        "h": "占",
        "py": "zhàn",
-       "gl": "take up; occupy",
+       "gl": "take up; occupy; account for",
        "pos": "v."
       },
       {
@@ -194,23 +175,18 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it's better to keep only what you really need.\"",
-     "words": [
+      },
       {
        "h": "不如",
        "py": "bùrú",
-       "gl": "be not as good as; had better (与其…不如… 'rather than … better to …')",
-       "pos": "v."
+       "gl": "be not as good as; had better (与其…不如… 'rather than … better to')",
+       "pos": "conj."
       },
       {
        "h": "只",
-       "py": "zhī",
-       "gl": "measure word for animals (and one of a pair)",
-       "pos": "measure word"
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
       },
       {
        "h": "留下",
@@ -222,44 +198,41 @@
        "h": "真正",
        "py": "zhēnzhèng",
        "gl": "real; true; genuine",
-       "pos": "adj."
+       "pos": "adv."
       },
       {
        "h": "需要",
        "py": "xūyào",
-       "gl": "need; require",
+       "gl": "need to; have to",
        "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "At first I didn't get it; I thought throwing things away was too wasteful.",
+   "en": "At first I didn't understand; I thought throwing things away was too wasteful.",
    "phrases": [
     {
-     "en": "At first I didn't get it;",
+     "en": "At first I didn't understand; I thought throwing things away was too wasteful.",
      "words": [
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
-       "pos": "v."
+       "h": "一开始",
+       "py": "yīkāishǐ",
+       "gl": "at first; in the beginning",
+       "pos": "adv."
       },
       {
        "h": "我",
@@ -270,7 +243,7 @@
       {
        "h": "还",
        "py": "hái",
-       "gl": "also; still; in addition",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
@@ -287,12 +260,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I thought throwing things away was too wasteful.",
-     "words": [
+      },
       {
        "h": "觉得",
        "py": "juéde",
@@ -314,7 +282,7 @@
       {
        "h": "太",
        "py": "tài",
-       "gl": "too; very",
+       "gl": "too",
        "pos": "adv."
       },
       {
@@ -331,10 +299,10 @@
    ]
   },
   {
-   "en": "Later I went over to her place and saw how clean and spacious it had become, and I felt lighter too.",
+   "en": "Then I went to see her place, found the room clean and spacious, and felt lighter myself.",
    "phrases": [
     {
-     "en": "Later I went over to her place and saw how clean and spacious it had become, and I felt lighter too.",
+     "en": "Then I went to see her place, found the room clean and spacious, and felt lighter myself.",
      "words": [
       {
        "h": "后来",
@@ -345,7 +313,7 @@
       {
        "h": "去",
        "py": "qù",
-       "gl": "go",
+       "gl": "go (to)",
        "pos": "v."
       },
       {
@@ -361,21 +329,9 @@
        "pos": "n."
       },
       {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
+       "h": "看了看",
+       "py": "kànlekàn",
+       "gl": "took a look",
        "pos": "v."
       },
       {
@@ -384,7 +340,7 @@
       {
        "h": "发现",
        "py": "fāxiàn",
-       "gl": "discover; notice; find",
+       "gl": "discover; find out",
        "pos": "v."
       },
       {
@@ -402,24 +358,24 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
        "h": "干净",
        "py": "gānjìng",
-       "gl": "clean",
+       "gl": "completely (after a verb)",
        "pos": "adj."
       },
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
        "h": "宽敞",
-       "py": "kuānchǎng",
+       "py": "kuānchang",
        "gl": "spacious; roomy",
        "pos": "adj."
       },
@@ -447,7 +403,7 @@
       {
        "h": "轻松",
        "py": "qīngsōng",
-       "gl": "relaxed; easy",
+       "gl": "easily; with ease; relaxed",
        "pos": "adj."
       },
       {
@@ -464,16 +420,540 @@
    ]
   },
   {
-   "en": "Now I've started trying to clear out my closet too, keeping only the clothes I actually wear often.",
+   "en": "I told her that her home looked as nice as a photo in a magazine.",
    "phrases": [
     {
-     "en": "Now I've started trying to clear out my closet too, keeping only the clothes I actually wear often.",
+     "en": "I told her that her home looked as nice as a photo in a magazine.",
      "words": [
       {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
        "pos": "n."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "杂志",
+       "py": "zázhì",
+       "gl": "magazine",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
+       "pos": "n."
+      },
+      {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "好看",
+       "py": "hǎokàn",
+       "gl": "good-looking; pretty; nice",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She smiled: \"This is my seventh move in five years.\"",
+   "phrases": [
+    {
+     "en": "She smiled: \"This is my seventh move in five years.\"",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "笑了笑",
+       "py": "xiàolexiào",
+       "gl": "smiled",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "这是",
+       "py": "zhèshì",
+       "gl": "this is",
+       "pos": "phrase"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "五年",
+       "py": "wǔnián",
+       "gl": "five years",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "第七",
+       "py": "dìqī",
+       "gl": "seventh",
+       "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
+       "h": "搬家",
+       "py": "bānjiā",
+       "gl": "move (house)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She rents in Shanghai: when the landlord sells, she has to move; when the rent goes up, she has to move too.",
+   "phrases": [
+    {
+     "en": "She rents in Shanghai: when the landlord sells, she has to move; when the rent goes up, she has to move too.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "上海",
+       "py": "shànghǎi",
+       "gl": "Shanghai",
+       "pos": "proper noun"
+      },
+      {
+       "h": "租房",
+       "py": "zūfáng",
+       "gl": "rent a place (housing)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "房东",
+       "py": "fángdōng",
+       "gl": "landlord",
+       "pos": "n."
+      },
+      {
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
+       "pos": "v."
+      },
+      {
+       "h": "房子",
+       "py": "fángzi",
+       "gl": "apartment; home",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "得",
+       "py": "děi",
+       "gl": "to have to",
+       "pos": "v."
+      },
+      {
+       "h": "搬",
+       "py": "bān",
+       "gl": "move (house); carry",
+       "pos": "v."
+      },
+      {
+       "h": "；"
+      },
+      {
+       "h": "房租",
+       "py": "fángzū",
+       "gl": "rent",
+       "pos": "n."
+      },
+      {
+       "h": "涨",
+       "py": "zhǎng",
+       "gl": "rise (of prices, wages); go up",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "得",
+       "py": "děi",
+       "gl": "to have to",
+       "pos": "v."
+      },
+      {
+       "h": "搬",
+       "py": "bān",
+       "gl": "move (house); carry",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"The fewer things you have, the faster you move,\" she said lightly.",
+   "phrases": [
+    {
+     "en": "\"The fewer things you have, the faster you move,\" she said lightly.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "东西",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
+       "pos": "n."
+      },
+      {
+       "h": "越",
+       "py": "yuè",
+       "gl": "the more … (越…越… the more … the more …)",
+       "pos": "adv."
+      },
+      {
+       "h": "少",
+       "py": "shǎo",
+       "gl": "lack; have less (少了杂物 'less clutter')",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "搬",
+       "py": "bān",
+       "gl": "move (house); carry",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "越",
+       "py": "yuè",
+       "gl": "the more … (越…越… the more … the more …)",
+       "pos": "adv."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "轻松",
+       "py": "qīngsōng",
+       "gl": "easily; with ease; relaxed",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I looked at her home with only four boxes in it, and for the first time I thought that simplicity can also be something you're forced into.",
+   "phrases": [
+    {
+     "en": "I looked at her home with only four boxes in it, and for the first time I thought that simplicity can also be something you're forced into.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
+      },
+      {
+       "h": "四个",
+       "py": "sìgè",
+       "gl": "four",
+       "pos": "num."
+      },
+      {
+       "h": "箱子",
+       "py": "xiāngzi",
+       "gl": "box; suitcase",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "简单",
+       "py": "jiǎndān",
+       "gl": "simple; easy",
+       "pos": "adj."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may; be allowed",
+       "pos": "v."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一种",
+       "py": "yīzhǒng",
+       "gl": "a kind of; a type of",
+       "pos": "num."
+      },
+      {
+       "h": "不得不",
+       "py": "bùdébù",
+       "gl": "have to; cannot but",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When I got home, I started sorting through my closet too, keeping only the clothes I really wear.",
+   "phrases": [
+    {
+     "en": "When I got home, I started sorting through my closet too, keeping only the clothes I really wear.",
+     "words": [
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
       },
       {
        "h": "我",
@@ -490,14 +970,20 @@
       {
        "h": "开始",
        "py": "kāishǐ",
-       "gl": "begin; start; beginning",
+       "gl": "begin; start",
        "pos": "v."
       },
       {
-       "h": "试着",
-       "py": "shìzhe",
-       "gl": "try (to do)",
+       "h": "试",
+       "py": "shì",
+       "gl": "try",
        "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "function word"
       },
       {
        "h": "整理",
@@ -516,9 +1002,9 @@
       },
       {
        "h": "只",
-       "py": "zhī",
-       "gl": "measure word for animals (and one of a pair)",
-       "pos": "measure word"
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
       },
       {
        "h": "留下",
@@ -530,18 +1016,24 @@
        "h": "真正",
        "py": "zhēnzhèng",
        "gl": "real; true; genuine",
-       "pos": "adj."
+       "pos": "adv."
       },
       {
-       "h": "常穿",
-       "py": "chángchuān",
-       "gl": "often wear",
+       "h": "常",
+       "py": "cháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "穿",
+       "py": "chuān",
+       "gl": "put on; wear",
        "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -558,10 +1050,10 @@
    ]
   },
   {
-   "en": "I take photos of things I don't use and sell them on Xianyu, a secondhand marketplace app. On one hand, I have less clutter, and on the other, I can make a little money, so it feels like a great deal.",
+   "en": "I photographed the things I didn't use and sold them on Xianyu: less clutter on one hand, a little money on the other.",
    "phrases": [
     {
-     "en": "I take photos of things I don't use and sell them on Xianyu, a secondhand marketplace app.",
+     "en": "I photographed the things I didn't use and sold them on Xianyu: less clutter on one hand, a little money on the other.",
      "words": [
       {
        "h": "我",
@@ -572,19 +1064,13 @@
       {
        "h": "把",
        "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把字选错 choose the character wrongly)",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
        "pos": "prep."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
+       "h": "不用",
+       "py": "bùyòng",
+       "gl": "not need; no need to",
        "pos": "v."
       },
       {
@@ -595,8 +1081,8 @@
       },
       {
        "h": "东西",
-       "py": "dōngxī",
-       "gl": "thing; stuff",
+       "py": "dōngxi",
+       "gl": "thing; things; stuff",
        "pos": "n."
       },
       {
@@ -614,13 +1100,13 @@
       {
        "h": "到",
        "py": "dào",
-       "gl": "to (a place)",
+       "gl": "to; up to (从…到… from … to …)",
        "pos": "prep."
       },
       {
        "h": "闲鱼",
-       "py": "xiányú",
-       "gl": "Xianyu (secondhand marketplace app)",
+       "py": "Xiányú",
+       "gl": "Xianyu (secondhand app)",
        "pos": "proper noun"
       },
       {
@@ -637,12 +1123,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "On one hand, I have less clutter, and on the other, I can make a little money,",
-     "words": [
+      },
       {
        "h": "一方面",
        "py": "yìfāngmiàn",
@@ -653,12 +1134,12 @@
        "h": "少",
        "py": "shǎo",
        "gl": "lack; have less (少了杂物 'less clutter')",
-       "pos": "v."
+       "pos": "adj."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
@@ -686,7 +1167,7 @@
        "h": "能",
        "py": "néng",
        "gl": "can; be able to",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "赚",
@@ -701,41 +1182,272 @@
        "pos": "measure word"
       },
       {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
+       "h": "小钱",
+       "py": "xiǎoqián",
+       "gl": "small sum of money",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The last thing I sold was a guitar I'd bought in college and hadn't played in ten years.",
+   "phrases": [
+    {
+     "en": "The last thing I sold was a guitar I'd bought in college and hadn't played in ten years.",
+     "words": [
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
        "pos": "adj."
       },
       {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "大学",
+       "py": "dàxué",
+       "gl": "university; college",
+       "pos": "n."
+      },
+      {
+       "h": "时",
+       "py": "shí",
+       "gl": "when; time",
+       "pos": "n."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "一把",
+       "py": "yībǎ",
+       "gl": "one (measure word for objects with a handle: umbrella, key, toothbrush)",
+       "pos": "measure word"
+      },
+      {
+       "h": "吉他",
+       "py": "jítā",
+       "gl": "guitar",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so it feels like a great deal.",
-     "words": [
+      },
       {
-       "h": "感觉",
-       "py": "gǎnjué",
-       "gl": "feel",
+       "h": "十年",
+       "py": "shínián",
+       "gl": "ten years; decade",
+       "pos": "num."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
        "pos": "v."
       },
       {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly",
+       "h": "弹",
+       "py": "tán",
+       "gl": "play (a stringed instrument)",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The buyer was a high-school kid; he played a song right there, not very well, but very happily.",
+   "phrases": [
+    {
+     "en": "The buyer was a high-school kid; he played a song right there, not very well, but very happily.",
+     "words": [
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "吉他",
+       "py": "jítā",
+       "gl": "guitar",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "高中生",
+       "py": "gāozhōngshēng",
+       "gl": "high school student",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "当场",
+       "py": "dāngchǎng",
+       "gl": "on the spot; right away",
        "pos": "adv."
       },
       {
-       "h": "划算",
-       "py": "huásuàn",
-       "gl": "worth it; a good deal; cost-effective",
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "弹",
+       "py": "tán",
+       "gl": "play (a stringed instrument)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一首歌",
+       "py": "yīshǒugē",
+       "gl": "a song",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "弹",
+       "py": "tán",
+       "gl": "play (a stringed instrument)",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too; very",
+       "pos": "adv."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "开心",
+       "py": "kāixīn",
+       "gl": "happy; cheerful",
        "pos": "adj."
       },
       {
@@ -746,22 +1458,152 @@
    ]
   },
   {
-   "en": "Little by little, I've gotten into the habit of asking myself \"Do I really need this?\" before buying anything, and I make a lot fewer impulse purchases.",
+   "en": "Rather than let it wait for me in a corner, better to let it go somewhere it will be played every day.",
    "phrases": [
     {
-     "en": "Little by little, I've gotten into the habit of asking myself \"Do I really need this?\" before buying anything,",
+     "en": "Rather than let it wait for me in a corner, better to let it go somewhere it will be played every day.",
      "words": [
       {
-       "h": "慢慢",
-       "py": "mànmàn",
-       "gl": "slowly; gradually",
+       "h": "与其",
+       "py": "yǔqí",
+       "gl": "rather than (与其…不如…)",
+       "pos": "conj."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "let; make (someone do); ask (someone to do)",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "角落",
+       "py": "jiǎoluò",
+       "gl": "corner",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "wait",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不如",
+       "py": "bùrú",
+       "gl": "be not as good as; had better (与其…不如… 'rather than … better to')",
+       "pos": "conj."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "let; make (someone do); ask (someone to do)",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
        "pos": "adv."
       },
       {
-       "h": "地",
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "弹",
+       "py": "tán",
+       "gl": "play (a stringed instrument)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
        "py": "de",
-       "gl": "adverbial particle (实实在在地 'really, truly')",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
+      },
+      {
+       "h": "地方",
+       "py": "dìfāng",
+       "gl": "place",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Little by little, I got into the habit of asking myself \"Do I really need this?\" before buying anything, and my impulse buying dropped a lot.",
+   "phrases": [
+    {
+     "en": "Little by little, I got into the habit of asking myself \"Do I really need this?\" before buying anything, and my impulse buying dropped a lot.",
+     "words": [
+      {
+       "h": "慢慢地",
+       "py": "mànmàndì",
+       "gl": "slowly; gradually",
+       "pos": "adv."
       },
       {
        "h": "，"
@@ -781,20 +1623,14 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
+       "h": "买东西",
+       "py": "mǎidōngxī",
+       "gl": "shop; buy things",
        "pos": "v."
-      },
-      {
-       "h": "东西",
-       "py": "dōngxī",
-       "gl": "thing; stuff",
-       "pos": "n."
       },
       {
        "h": "前",
@@ -821,6 +1657,9 @@
        "pos": "pron."
       },
       {
+       "h": "“"
+      },
+      {
        "h": "真的",
        "py": "zhēnde",
        "gl": "really; truly",
@@ -829,14 +1668,17 @@
       {
        "h": "需要",
        "py": "xūyào",
-       "gl": "need; require",
+       "gl": "need to; have to",
        "pos": "v."
       },
       {
        "h": "吗",
        "py": "ma",
-       "gl": "question particle",
+       "gl": "question particle (yes/no questions)",
        "pos": "particle"
+      },
+      {
+       "h": "”"
       },
       {
        "h": "的",
@@ -852,22 +1694,11 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and I make a lot fewer impulse purchases.",
-     "words": [
-      {
-       "h": "冲动",
-       "py": "chōngdòng",
-       "gl": "impulsive; impulse",
-       "pos": "adj."
       },
       {
-       "h": "消费",
-       "py": "xiāofèi",
-       "gl": "spending; consumption",
+       "h": "冲动消费",
+       "py": "chōngdòng xiāofèi",
+       "gl": "impulse buying",
        "pos": "n."
       },
       {
@@ -880,12 +1711,12 @@
        "h": "少",
        "py": "shǎo",
        "gl": "lack; have less (少了杂物 'less clutter')",
-       "pos": "v."
+       "pos": "adj."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
@@ -893,6 +1724,136 @@
        "py": "hěnduō",
        "gl": "many; a lot; much",
        "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Last month Xiao Wang moved again; I went to help, and we carried her four boxes in one trip.",
+   "phrases": [
+    {
+     "en": "Last month Xiao Wang moved again; I went to help, and we carried her four boxes in one trip.",
+     "words": [
+      {
+       "h": "上个月",
+       "py": "shànggèyuè",
+       "gl": "last month",
+       "pos": "n."
+      },
+      {
+       "h": "小王",
+       "py": "Xiǎo Wáng",
+       "gl": "Xiao Wang (familiar form of address)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "搬家",
+       "py": "bānjiā",
+       "gl": "move (house)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "帮忙",
+       "py": "bāngmáng",
+       "gl": "help; do a favor",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "四个",
+       "py": "sìgè",
+       "gl": "four",
+       "pos": "num."
+      },
+      {
+       "h": "箱子",
+       "py": "xiāngzi",
+       "gl": "box; suitcase",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "一次",
+       "py": "yīcì",
+       "gl": "once; in one go; at the first attempt",
+       "pos": "measure word"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "搬",
+       "py": "bān",
+       "gl": "move; carry",
+       "pos": "v."
+      },
+      {
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "。"

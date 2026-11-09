@@ -1,17 +1,17 @@
 {
  "id": "privacy",
  "level": 4,
- "title_zh": "个人隐私",
- "title_en": "Personal Privacy",
+ "title_zh": "搜索记录",
+ "title_en": "Search History",
  "free": false,
  "audio_url": null,
- "note_en": "一旦…就… means \"once ... (then)\" and usually warns of what follows if something bad happens: 一旦信息被泄露，麻烦就可能接着来 \"once your information leaks, trouble may follow.\" Note that 就 comes after the subject 麻烦, right before the verb, not at the start of the clause as English \"then\" would.",
+ "note_en": "The pattern 一旦……就…… (\"once…, then…\") stresses an immediate, usually unwelcome consequence: 一旦信息被泄露，麻烦就可能接着来 — \"once your information leaks, trouble may follow right away.\"",
  "sentences": [
   {
-   "en": "These days, a lot of apps require users to provide personal information before they can use them.",
+   "en": "Many apps now require users to give personal information before they can be used.",
    "phrases": [
     {
-     "en": "These days, a lot of apps",
+     "en": "Many apps now require users to give personal information before they can be used.",
      "words": [
       {
        "h": "现在",
@@ -22,7 +22,7 @@
       {
        "h": "很多",
        "py": "hěnduō",
-       "gl": "many; a lot; much",
+       "gl": "many; a lot of",
        "pos": "adj."
       },
       {
@@ -30,12 +30,7 @@
        "py": "ruǎnjiàn",
        "gl": "app; software",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "require users to provide personal information",
-     "words": [
+      },
       {
        "h": "都",
        "py": "dōu",
@@ -45,7 +40,7 @@
       {
        "h": "要求",
        "py": "yāoqiú",
-       "gl": "require; demand; requirement",
+       "gl": "require; demand",
        "pos": "v."
       },
       {
@@ -61,27 +56,16 @@
        "pos": "v."
       },
       {
-       "h": "个人",
-       "py": "gèrén",
-       "gl": "personal; individual",
+       "h": "个人信息",
+       "py": "gèrén xìnxī",
+       "gl": "personal information",
        "pos": "n."
       },
-      {
-       "h": "信息",
-       "py": "xìnxī",
-       "gl": "information",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "before they can use them.",
-     "words": [
       {
        "h": "才能",
        "py": "cáinéng",
        "gl": "only then; (only) ... can",
-       "pos": "conj."
+       "pos": "v."
       },
       {
        "h": "使用",
@@ -97,10 +81,10 @@
    ]
   },
   {
-   "en": "Once your information leaks, trouble may follow: harassing phone calls and scam text messages.",
+   "en": "Once your information leaks, trouble may follow right away: spam calls, scam texts.",
    "phrases": [
     {
-     "en": "Once your information leaks,",
+     "en": "Once your information leaks, trouble may follow right away: spam calls, scam texts.",
      "words": [
       {
        "h": "一旦",
@@ -118,38 +102,33 @@
        "h": "被",
        "py": "bèi",
        "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "pos": "function word"
       },
       {
        "h": "泄露",
        "py": "xièlòu",
-       "gl": "leak (information); reveal",
+       "gl": "to leak (information)",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "trouble may follow:",
-     "words": [
+      },
       {
        "h": "麻烦",
        "py": "máfan",
-       "gl": "troublesome; inconvenient; trouble",
-       "pos": "adj."
+       "gl": "trouble; hassle; troublesome; inconvenient",
+       "pos": "n."
       },
       {
        "h": "就",
        "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
        "h": "可能",
        "py": "kěnéng",
-       "gl": "maybe; perhaps; possibly",
+       "gl": "possible; maybe",
        "pos": "adv."
       },
       {
@@ -166,37 +145,20 @@
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "harassing phone calls and scam text messages.",
-     "words": [
-      {
-       "h": "骚扰",
-       "py": "sāorǎo",
-       "gl": "harassment; harass (骚扰电话 nuisance call)",
-       "pos": "n."
       },
       {
-       "h": "电话",
-       "py": "diànhuà",
-       "gl": "phone; phone call",
+       "h": "骚扰电话",
+       "py": "sāorǎo diànhuà",
+       "gl": "spam calls",
        "pos": "n."
       },
       {
        "h": "、"
       },
       {
-       "h": "诈骗",
-       "py": "zhàpiàn",
-       "gl": "fraud; scam",
-       "pos": "n."
-      },
-      {
-       "h": "短信",
-       "py": "duǎnxìn",
-       "gl": "text message",
+       "h": "诈骗短信",
+       "py": "zhàpiàn duǎnxìn",
+       "gl": "scam text messages",
        "pos": "n."
       },
       {
@@ -207,10 +169,10 @@
    ]
   },
   {
-   "en": "Once, right after I searched for something online, I immediately started getting ads for it.",
+   "en": "I used to feel all this was far away from me.",
    "phrases": [
     {
-     "en": "Once, right after I searched for something online, I immediately started getting ads for it.",
+     "en": "I used to feel all this was far away from me.",
      "words": [
       {
        "h": "我",
@@ -219,33 +181,197 @@
        "pos": "pron."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "postposition"
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
+       "h": "，"
       },
       {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
-       "pos": "measure word"
+       "h": "这些",
+       "py": "zhèxiē",
+       "gl": "these",
+       "pos": "pron."
       },
       {
-       "h": "刚",
-       "py": "gāng",
-       "gl": "just (now); only just",
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
        "pos": "adv."
+      },
+      {
+       "h": "离",
+       "py": "lí",
+       "gl": "from (distance: A 离 B 远 \"A is far from B\")",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "很远",
+       "py": "hěnyuǎn",
+       "gl": "very far",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Last month my mom often forgot to turn off the stove, and once she even called me by the wrong name.",
+   "phrases": [
+    {
+     "en": "Last month my mom often forgot to turn off the stove, and once she even called me by the wrong name.",
+     "words": [
+      {
+       "h": "上个月",
+       "py": "shànggèyuè",
+       "gl": "last month",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "忘记",
+       "py": "wàngjì",
+       "gl": "forget",
+       "pos": "v."
+      },
+      {
+       "h": "关",
+       "py": "guān",
+       "gl": "turn off; close",
+       "pos": "v."
+      },
+      {
+       "h": "火",
+       "py": "huǒ",
+       "gl": "internal heat (TCM); fire",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有一次",
+       "py": "yǒuyīcì",
+       "gl": "once; one time",
+       "pos": "adv."
+      },
+      {
+       "h": "连",
+       "py": "lián",
+       "gl": "even (连…都… even)",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "名字",
+       "py": "míngzì",
+       "gl": "name",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "错",
+       "py": "cuò",
+       "gl": "wrong; mistaken (坐错 take the wrong one)",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That night I searched online for \"early symptoms of dementia.\"",
+   "phrases": [
+    {
+     "en": "That night I searched online for \"early symptoms of dementia.\"",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -267,25 +393,56 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
+       "h": "“"
       },
       {
-       "h": "件",
-       "py": "jiàn",
-       "gl": "measure word for clothing, matters, items",
-       "pos": "measure word"
+       "h": "老年痴呆",
+       "py": "lǎonián chīdāi",
+       "gl": "dementia",
+       "pos": "n."
       },
       {
-       "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; things; stuff",
+       "h": "早期",
+       "py": "zǎoqī",
+       "gl": "early stage; early",
+       "pos": "n."
+      },
+      {
+       "h": "症状",
+       "py": "zhèngzhuàng",
+       "gl": "symptom",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The next day I started getting related ads right away: nursing homes, supplements, hospitals.",
+   "phrases": [
+    {
+     "en": "The next day I started getting related ads right away: nursing homes, supplements, hospitals.",
+     "words": [
+      {
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
        "pos": "n."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
        "h": "马上",
@@ -320,7 +477,237 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "广告",
+       "py": "guǎnggào",
+       "gl": "advertisement; ad",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "养老院",
+       "py": "yǎnglǎoyuàn",
+       "gl": "nursing home; retirement home",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "保健品",
+       "py": "bǎojiànpǐn",
+       "gl": "dietary supplements",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "医院",
+       "py": "yīyuàn",
+       "gl": "hospital",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "What I hadn't thought of was that Mom's phone used my account.",
+   "phrases": [
+    {
+     "en": "What I hadn't thought of was that Mom's phone used my account.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "想到",
+       "py": "xiǎngdào",
+       "gl": "think of; expect (没想到 'didn't expect')",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "账号",
+       "py": "zhànghào",
+       "gl": "account (online)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When I went home on the weekend, she handed me her phone; on the screen was an ad for a nursing home.",
+   "phrases": [
+    {
+     "en": "When I went home on the weekend, she handed me her phone; on the screen was an ad for a nursing home.",
+     "words": [
+      {
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
+       "pos": "n."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "递给",
+       "py": "dìgěi",
+       "gl": "hand to; pass to",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一家",
+       "py": "yìjiā",
+       "gl": "a; one (shop, family, company)",
+       "pos": "measure word"
+      },
+      {
+       "h": "养老院",
+       "py": "yǎnglǎoyuàn",
+       "gl": "nursing home; retirement home",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -337,10 +724,183 @@
    ]
   },
   {
-   "en": "That made me realize that my every move might be getting recorded.",
+   "en": "She said calmly, \"I know you're worried about me.\"",
    "phrases": [
     {
-     "en": "That made me realize",
+     "en": "She said calmly, \"I know you're worried about me.\"",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "平静地",
+       "py": "píngjìngdì",
+       "gl": "calmly",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "担心",
+       "py": "dānxīn",
+       "gl": "worry",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I couldn't say a word. I had meant to tell her myself, slowly.",
+   "phrases": [
+    {
+     "en": "I couldn't say a word. I had meant to tell her myself, slowly.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一句话",
+       "py": "yījùhuà",
+       "gl": "(not) a single word",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "说不出来",
+       "py": "shuōbùchūlái",
+       "gl": "unable to say; indescribable",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "这件事",
+       "py": "zhèjiànshì",
+       "gl": "this matter; this thing",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "本来",
+       "py": "běnlái",
+       "gl": "originally; by nature",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "慢慢",
+       "py": "mànmàn",
+       "gl": "slowly; gradually",
+       "pos": "adv."
+      },
+      {
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That made me realize that my every move might be recorded.",
+   "phrases": [
+    {
+     "en": "That made me realize that my every move might be recorded.",
      "words": [
       {
        "h": "这",
@@ -351,7 +911,7 @@
       {
        "h": "让",
        "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
@@ -368,12 +928,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "my every move",
-     "words": [
+      },
       {
        "h": "自己",
        "py": "zìjǐ",
@@ -383,24 +938,19 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "一举一动",
-       "py": "yìjǔyídòng",
-       "gl": "every move; every action (idiom)",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "might be getting recorded.",
-     "words": [
+       "py": "yì jǔ yí dòng",
+       "gl": "every move",
+       "pos": "phrase"
+      },
       {
        "h": "可能",
        "py": "kěnéng",
-       "gl": "maybe; perhaps; possibly",
+       "gl": "possible; maybe",
        "pos": "adv."
       },
       {
@@ -413,13 +963,13 @@
        "h": "被",
        "py": "bèi",
        "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "pos": "function word"
       },
       {
        "h": "记录",
        "py": "jìlù",
-       "gl": "record; track",
-       "pos": "v."
+       "gl": "record; write down; record (data)",
+       "pos": "n."
       },
       {
        "h": "了",
@@ -435,37 +985,347 @@
    ]
   },
   {
-   "en": "Since then, I've been more careful when using apps and try to fill in as little unnecessary information as possible.",
+   "en": "The Personal Information Protection Law passed by the government requires apps to clearly inform users and get their consent before collecting personal information.",
    "phrases": [
     {
-     "en": "Since then,",
+     "en": "The Personal Information Protection Law passed by the government requires apps to clearly inform users and get their consent before collecting personal information.",
      "words": [
       {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
+       "h": "国家",
+       "py": "guójiā",
+       "gl": "state; country",
+       "pos": "n."
+      },
+      {
+       "h": "出台",
+       "py": "chūtái",
+       "gl": "introduce; issue (a law, policy)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "《"
+      },
+      {
+       "h": "个人信息保护法",
+       "py": "Gèrén Xìnxī Bǎohù Fǎ",
+       "gl": "Personal Information Protection Law",
+       "pos": "proper noun"
+      },
+      {
+       "h": "》"
+      },
+      {
+       "h": "规定",
+       "py": "guīdìng",
+       "gl": "regulation; rule",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "APP"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "那",
-       "py": "nà",
+       "h": "收集",
+       "py": "shōují",
+       "gl": "collect; gather",
+       "pos": "v."
+      },
+      {
+       "h": "个人信息",
+       "py": "gèrén xìnxī",
+       "gl": "personal information",
+       "pos": "n."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "必须",
+       "py": "bìxū",
+       "gl": "must; have to",
+       "pos": "adv."
+      },
+      {
+       "h": "明确",
+       "py": "míngquè",
+       "gl": "clear; definite; clearly; explicitly",
+       "pos": "adv."
+      },
+      {
+       "h": "告知",
+       "py": "gàozhī",
+       "gl": "inform; notify",
+       "pos": "v."
+      },
+      {
+       "h": "用户",
+       "py": "yònghù",
+       "gl": "user",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "并",
+       "py": "bìng",
+       "gl": "and; also; moreover",
+       "pos": "conj."
+      },
+      {
+       "h": "获得",
+       "py": "huòdé",
+       "gl": "get; obtain",
+       "pos": "v."
+      },
+      {
+       "h": "同意",
+       "py": "tóngyì",
+       "gl": "agree",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But I seem to have agreed many times without ever reading it carefully.",
+   "phrases": [
+    {
+     "en": "But I seem to have agreed many times without ever reading it carefully.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "好像",
+       "py": "hǎoxiàng",
+       "gl": "seem; be like; as if",
+       "pos": "adv."
+      },
+      {
+       "h": "同意",
+       "py": "tóngyì",
+       "gl": "agree",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "很多次",
+       "py": "hěnduōcì",
+       "gl": "many times",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "一次",
+       "py": "yīcì",
+       "gl": "once; in one go; at the first attempt",
+       "pos": "measure word"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "认真",
+       "py": "rènzhēn",
+       "gl": "serious; conscientious; carefully",
+       "pos": "adv."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I wanted to delete that account for Mom, but the process was extremely complicated, as if designed to make people give up.",
+   "phrases": [
+    {
+     "en": "I wanted to delete that account for Mom, but the process was extremely complicated, as if designed to make people give up.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "注销",
+       "py": "zhùxiāo",
+       "gl": "cancel; delete (an account)",
+       "pos": "v."
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
        "gl": "that",
        "pos": "pron."
       },
       {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
+       "h": "账号",
+       "py": "zhànghào",
+       "gl": "account (online)",
+       "pos": "n."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "流程",
+       "py": "liúchéng",
+       "gl": "process; procedure",
+       "pos": "n."
+      },
+      {
+       "h": "特别",
+       "py": "tèbié",
+       "gl": "special; unusual",
+       "pos": "adj."
+      },
+      {
+       "h": "麻烦",
+       "py": "máfán",
+       "gl": "troublesome; inconvenient",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "好像",
+       "py": "hǎoxiàng",
+       "gl": "seem; be like",
+       "pos": "adv."
+      },
+      {
+       "h": "故意",
+       "py": "gùyì",
+       "gl": "deliberately; on purpose",
+       "pos": "adv."
+      },
+      {
+       "h": "让人",
+       "py": "ràngrén",
+       "gl": "make people; let people",
+       "pos": "v."
+      },
+      {
+       "h": "放弃",
+       "py": "fàngqì",
+       "gl": "give up",
+       "pos": "v."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "Since then I've been more careful with apps and try to fill in as little unnecessary information as possible.",
+   "phrases": [
     {
-     "en": "I've been more careful when using apps",
+     "en": "Since then I've been more careful with apps and try to fill in as little unnecessary information as possible.",
      "words": [
+      {
+       "h": "从那以后",
+       "py": "cóngnàyǐhòu",
+       "gl": "since then; from then on",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -493,29 +1353,24 @@
       {
        "h": "会",
        "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
       },
       {
        "h": "更",
        "py": "gèng",
-       "gl": "even more; more",
+       "gl": "more; even more",
        "pos": "adv."
       },
       {
        "h": "小心",
        "py": "xiǎoxīn",
-       "gl": "careful; be careful",
-       "pos": "adj."
+       "gl": "careful; be careful (不小心 'carelessly; by accident')",
+       "pos": "adv."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and try to fill in as little unnecessary information as possible.",
-     "words": [
+      },
       {
        "h": "尽量",
        "py": "jǐnliàng",
@@ -525,7 +1380,7 @@
       {
        "h": "少",
        "py": "shǎo",
-       "gl": "few; little; less",
+       "gl": "few; little",
        "pos": "adj."
       },
       {
@@ -535,21 +1390,15 @@
        "pos": "v."
       },
       {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "必要",
-       "py": "bìyào",
-       "gl": "necessary (不必要 'unnecessary')",
+       "h": "不必要",
+       "py": "bùbìyào",
+       "gl": "unnecessary",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -566,22 +1415,49 @@
    ]
   },
   {
-   "en": "China's Personal Information Protection Law says that apps must clearly inform users before collecting personal information, and get their consent.",
+   "en": "That evening Mom took my hand and said, \"Let's go to the hospital together tomorrow. No ads needed.\"",
    "phrases": [
     {
-     "en": "China's Personal Information Protection Law says",
+     "en": "That evening Mom took my hand and said, \"Let's go to the hospital together tomorrow. No ads needed.\"",
      "words": [
       {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "state; country",
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
        "pos": "n."
       },
       {
-       "h": "出台",
-       "py": "chūtái",
-       "gl": "issue; announce (rules)",
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "拉",
+       "py": "lā",
+       "gl": "pull; hold (someone's hand)",
        "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
        "h": "的",
@@ -590,281 +1466,85 @@
        "pos": "particle"
       },
       {
-       "h": "《"
-      },
-      {
-       "h": "个人",
-       "py": "gèrén",
-       "gl": "personal; individual",
-       "pos": "adj."
-      },
-      {
-       "h": "信息",
-       "py": "xìnxī",
-       "gl": "information",
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
        "pos": "n."
       },
       {
-       "h": "保护",
-       "py": "bǎohù",
-       "gl": "protection; protect",
-       "pos": "n."
-      },
-      {
-       "h": "法",
-       "py": "fǎ",
-       "gl": "law",
-       "pos": "n."
-      },
-      {
-       "h": "》"
-      },
-      {
-       "h": "规定",
-       "py": "guīdìng",
-       "gl": "stipulate; prescribe",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "apps must clearly inform users before collecting personal information",
-     "words": [
-      {
-       "h": "APP"
+       "h": "："
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
+       "h": "“"
       },
       {
-       "h": "收集",
-       "py": "shōují",
-       "gl": "collect; gather",
-       "pos": "v."
-      },
-      {
-       "h": "个人",
-       "py": "gèrén",
-       "gl": "personal; individual",
-       "pos": "adj."
-      },
-      {
-       "h": "信息",
-       "py": "xìnxī",
-       "gl": "information",
-       "pos": "n."
-      },
-      {
-       "h": "前",
-       "py": "qián",
-       "gl": "before",
-       "pos": "postposition"
-      },
-      {
-       "h": "必须",
-       "py": "bìxū",
-       "gl": "must; have to",
-       "pos": "adv."
-      },
-      {
-       "h": "明确",
-       "py": "míngquè",
-       "gl": "clearly; explicitly",
-       "pos": "adj."
-      },
-      {
-       "h": "告知",
-       "py": "gàozhī",
-       "gl": "inform; notify",
-       "pos": "v."
-      },
-      {
-       "h": "用户",
-       "py": "yònghù",
-       "gl": "user",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and get their consent.",
-     "words": [
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "and; also; moreover",
-       "pos": "conj."
-      },
-      {
-       "h": "获得",
-       "py": "huòdé",
-       "gl": "get; obtain",
-       "pos": "v."
-      },
-      {
-       "h": "同意",
-       "py": "tóngyì",
-       "gl": "consent; agreement",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But some apps make deleting your account a real hassle, as if they want you to give up, and that still needs to be improved.",
-   "phrases": [
-    {
-     "en": "But some apps make deleting your account a real hassle,",
-     "words": [
-      {
-       "h": "不过",
-       "py": "bùguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "有些",
-       "py": "yǒuxiē",
-       "gl": "some",
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
        "pos": "pron."
       },
       {
-       "h": "APP"
-      },
-      {
-       "h": "注销",
-       "py": "zhùxiāo",
-       "gl": "cancel; delete (an account)",
-       "pos": "v."
-      },
-      {
-       "h": "账号",
-       "py": "zhànghào",
-       "gl": "account (online)",
+       "h": "明天",
+       "py": "míngtiān",
+       "gl": "tomorrow",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "医院",
+       "py": "yīyuàn",
+       "gl": "hospital",
+       "pos": "n."
+      },
+      {
+       "h": "吧",
+       "py": "ba",
+       "gl": "particle: suggestion or soft request (let's…; …OK?)",
        "pos": "particle"
       },
       {
-       "h": "流程",
-       "py": "liúchéng",
-       "gl": "process; procedure",
-       "pos": "n."
-      },
-      {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly",
-       "pos": "adv."
-      },
-      {
-       "h": "麻烦",
-       "py": "máfán",
-       "gl": "troublesome; inconvenient",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "as if they want you to give up; that still needs to be improved.",
-     "words": [
-      {
-       "h": "好像",
-       "py": "hǎoxiàng",
-       "gl": "seem; be like",
-       "pos": "adv."
-      },
-      {
-       "h": "故意",
-       "py": "gùyì",
-       "gl": "deliberately; on purpose",
-       "pos": "adv."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "make (someone do); cause",
-       "pos": "v."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "放弃",
-       "py": "fàngqì",
-       "gl": "give up",
-       "pos": "v."
-      },
-      {
        "h": "，"
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "point; aspect (这一点 this point)",
-       "pos": "measure word"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need to; have to",
+       "h": "不用",
+       "py": "bùyòng",
+       "gl": "not need; no need to",
        "pos": "v."
       },
       {
-       "h": "进一步",
-       "py": "jìnyíbù",
-       "gl": "further",
-       "pos": "adv."
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
       },
       {
-       "h": "改进",
-       "py": "gǎijìn",
-       "gl": "improve; make better",
-       "pos": "v."
+       "h": "广告",
+       "py": "guǎnggào",
+       "gl": "advertisement; ad",
+       "pos": "n."
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }

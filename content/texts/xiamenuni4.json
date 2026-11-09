@@ -1,41 +1,383 @@
 {
  "id": "xiamenuni4",
  "level": 4,
- "title_zh": "厦门大学",
- "title_en": "Xiamen University",
+ "title_zh": "第一次看海",
+ "title_en": "Seeing the Sea for the First Time",
  "free": false,
  "audio_url": null,
- "note_en": "被 marks the passive: 很多国际学生被它的风景和学术实力同时吸引 \"many international students are drawn by both its scenery and its academic strength.\" The doer comes right after 被, and the verb goes last, unlike English \"are drawn by X.\" Chinese uses this mostly when the subject is affected by something.",
+ "note_en": "The chengyu 依山傍海 (\"leaning on the mountains, beside the sea\") vividly describes a place where mountains and sea are close together: 厦门大学依山傍海 — \"Xiamen University lies between the mountains and the sea.\" 依 and 傍 both mean \"to be next to, to lean on.\"",
  "sentences": [
   {
-   "en": "Xiamen University sits between the mountains and the sea and is often called \"the most beautiful university in China.\"",
+   "en": "Xiao Ou grew up in a village in Gansu, two thousand kilometers from the nearest sea.",
    "phrases": [
     {
-     "en": "Xiamen University sits between the mountains and the sea and is often called \"the most beautiful university in China.\"",
+     "en": "Xiao Ou grew up in a village in Gansu, two thousand kilometers from the nearest sea.",
      "words": [
       {
-       "h": "厦门",
-       "py": "xiàmén",
-       "gl": "Xiamen",
+       "h": "小鸥",
+       "py": "Xiǎo Ōu",
+       "gl": "Xiao Ou",
        "pos": "proper noun"
       },
       {
-       "h": "大学",
-       "py": "dàxué",
-       "gl": "university; college",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "甘肃",
+       "py": "Gānsù",
+       "gl": "Gansu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "村子",
+       "py": "cūnzi",
+       "gl": "village",
        "pos": "n."
       },
       {
-       "h": "依山",
-       "py": "yīshān",
-       "gl": "lean against a mountain (依山傍海 between the mountains and the sea)",
+       "h": "长大",
+       "py": "zhǎngdà",
+       "gl": "grow up",
        "pos": "v."
       },
       {
-       "h": "傍海",
-       "py": "bànghǎi",
-       "gl": "by the sea (依山傍海 between the mountains and the sea)",
+       "h": "，"
+      },
+      {
+       "h": "离",
+       "py": "lí",
+       "gl": "from (distance: A 离 B 远 \"A is far from B\")",
+       "pos": "prep."
+      },
+      {
+       "h": "最近",
+       "py": "zuìjìn",
+       "gl": "nearest",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "海",
+       "py": "hǎi",
+       "gl": "sea",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
        "pos": "v."
+      },
+      {
+       "h": "两千",
+       "py": "liǎngqiān",
+       "gl": "two thousand",
+       "pos": "num."
+      },
+      {
+       "h": "公里",
+       "py": "gōnglǐ",
+       "gl": "kilometer",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In seventy years her grandma had never seen the sea, and Xiao Ou had only seen it on her phone.",
+   "phrases": [
+    {
+     "en": "In seventy years her grandma had never seen the sea, and Xiao Ou had only seen it on her phone.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "活",
+       "py": "huó",
+       "gl": "alive; living",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "七十",
+       "py": "qīshí",
+       "gl": "seventy",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "从来没",
+       "py": "cóngláiméi",
+       "gl": "never (have)",
+       "pos": "adv."
+      },
+      {
+       "h": "见",
+       "py": "jiàn",
+       "gl": "see; meet",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "海",
+       "py": "hǎi",
+       "gl": "sea",
+       "pos": "n."
+      },
+      {
+       "h": "；"
+      },
+      {
+       "h": "小鸥",
+       "py": "Xiǎo Ōu",
+       "gl": "Xiao Ou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "So when the admission letter from Xiamen University arrived, the first thing Grandma asked was, \"Is the sea close there?\"",
+   "phrases": [
+    {
+     "en": "So when the admission letter from Xiamen University arrived, the first thing Grandma asked was, \"Is the sea close there?\"",
+     "words": [
+      {
+       "h": "所以",
+       "py": "suǒyǐ",
+       "gl": "so; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "厦门大学",
+       "py": "Xiàmén Dàxué",
+       "gl": "Xiamen University",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "通知书",
+       "py": "tōngzhīshū",
+       "gl": "notice; letter of notification",
+       "pos": "n."
+      },
+      {
+       "h": "寄来",
+       "py": "jìlái",
+       "gl": "send (here) by mail",
+       "pos": "v."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "第一句话",
+       "py": "dìyījùhuà",
+       "gl": "first sentence; first words",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "那儿",
+       "py": "nàér",
+       "gl": "there",
+       "pos": "pron."
+      },
+      {
+       "h": "离",
+       "py": "lí",
+       "gl": "from (distance: A 离 B 远 \"A is far from B\")",
+       "pos": "prep."
+      },
+      {
+       "h": "海",
+       "py": "hǎi",
+       "gl": "sea",
+       "pos": "n."
+      },
+      {
+       "h": "近",
+       "py": "jìn",
+       "gl": "near; close; nearly; almost; close to",
+       "pos": "adj."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiamen University lies between the mountains and the sea and is often called \"China's most beautiful university.\"",
+   "phrases": [
+    {
+     "en": "Xiamen University lies between the mountains and the sea and is often called \"China's most beautiful university.\"",
+     "words": [
+      {
+       "h": "厦门大学",
+       "py": "Xiàmén Dàxué",
+       "gl": "Xiamen University",
+       "pos": "proper noun"
+      },
+      {
+       "h": "依山傍海",
+       "py": "yī shān bàng hǎi",
+       "gl": "nestled between mountains and sea",
+       "pos": "phrase"
       },
       {
        "h": "，"
@@ -50,12 +392,12 @@
        "h": "被",
        "py": "bèi",
        "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "pos": "function word"
       },
       {
-       "h": "称为",
-       "py": "chēngwéi",
-       "gl": "be called; be known as",
+       "h": "叫作",
+       "py": "jiàozuò",
+       "gl": "be called",
        "pos": "v."
       },
       {
@@ -68,21 +410,15 @@
        "pos": "proper noun"
       },
       {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "美",
-       "py": "měi",
-       "gl": "beautiful",
+       "h": "最美",
+       "py": "zuìměi",
+       "gl": "most beautiful",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -102,90 +438,566 @@
    ]
   },
   {
-   "en": "There's a big lake on campus, and you can see the ocean right from there.",
+   "en": "On her very first evening, Xiao Ou went to the sea alone and stood for a long time, not daring to go closer.",
    "phrases": [
     {
-     "en": "There's a big lake on campus, and you can see the ocean right from there.",
+     "en": "On her very first evening, Xiao Ou went to the sea alone and stood for a long time, not daring to go closer.",
      "words": [
       {
-       "h": "校园",
-       "py": "xiàoyuán",
-       "gl": "campus",
+       "h": "第一天",
+       "py": "dìyìtiān",
+       "gl": "first day",
        "pos": "n."
       },
       {
-       "h": "里",
-       "py": "li",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "片",
-       "py": "piàn",
-       "gl": "measure word for expanses (一片白 all white); slice; piece",
-       "pos": "measure word"
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "湖",
-       "py": "hú",
-       "gl": "lake",
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; still; in addition",
+       "h": "小鸥",
+       "py": "Xiǎo Ōu",
+       "gl": "Xiao Ou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "pron."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "海边",
+       "py": "hǎibiān",
+       "gl": "seaside; beach",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
        "pos": "adv."
       },
       {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
+       "h": "，"
       },
       {
-       "h": "直接",
-       "py": "zhíjiē",
-       "gl": "directly; straight",
+       "h": "不敢",
+       "py": "bùgǎn",
+       "gl": "not dare",
+       "pos": "v."
+      },
+      {
+       "h": "走近",
+       "py": "zǒujìn",
+       "gl": "approach; come closer",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The sea was bigger, louder, and saltier than she had imagined.",
+   "phrases": [
+    {
+     "en": "The sea was bigger, louder, and saltier than she had imagined.",
+     "words": [
+      {
+       "h": "海",
+       "py": "hǎi",
+       "gl": "sea",
+       "pos": "n."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "更大",
+       "py": "gèngdà",
+       "gl": "bigger; larger",
+       "pos": "adj."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
        "pos": "adv."
       },
       {
-       "h": "看到",
-       "py": "kàndào",
-       "gl": "see",
+       "h": "响",
+       "py": "xiǎng",
+       "gl": "loud",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "咸",
+       "py": "xián",
+       "gl": "salty",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She video-called her grandma and turned the phone toward the waves.",
+   "phrases": [
+    {
+     "en": "She video-called her grandma and turned the phone toward the waves.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "hit; play (ball games); make (a phone call)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video call",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "海浪",
+       "py": "hǎilàng",
+       "gl": "sea wave",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Grandma watched for a long time, then said, \"It roars like the wind in our desert.\"",
+   "phrases": [
+    {
+     "en": "Grandma watched for a long time, then said, \"It roars like the wind in our desert.\"",
+     "words": [
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "咱们",
+       "py": "zánmen",
+       "gl": "we; us (including the listener)",
+       "pos": "pron."
+      },
+      {
+       "h": "沙漠",
+       "py": "shāmò",
+       "gl": "desert",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "风",
+       "py": "fēng",
+       "gl": "wind",
+       "pos": "n."
+      },
+      {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Ou majored in marine science — one of the university's best programs, as famous as its economics.",
+   "phrases": [
+    {
+     "en": "Xiao Ou majored in marine science — one of the university's best programs, as famous as its economics.",
+     "words": [
+      {
+       "h": "小鸥",
+       "py": "Xiǎo Ōu",
+       "gl": "Xiao Ou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "海洋科学",
+       "py": "hǎiyáng kēxué",
+       "gl": "marine science",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这是",
+       "py": "zhèshì",
+       "gl": "this is",
+       "pos": "phrase"
+      },
+      {
+       "h": "学校",
+       "py": "xuéxiào",
+       "gl": "school",
+       "pos": "n."
+      },
+      {
+       "h": "最好",
+       "py": "zuìhǎo",
+       "gl": "best",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "专业",
+       "py": "zhuānyè",
+       "gl": "professional; major (field of study)",
+       "pos": "n."
+      },
+      {
+       "h": "之一",
+       "py": "zhīyī",
+       "gl": "one of (最…之一 'one of the most …')",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "经济学",
+       "py": "jīngjìxué",
+       "gl": "economics",
+       "pos": "n."
+      },
+      {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "有名",
+       "py": "yǒumíng",
+       "gl": "famous; well-known",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Her classmates teased her: \"A girl from the desert studying the sea.\"",
+   "phrases": [
+    {
+     "en": "Her classmates teased her: \"A girl from the desert studying the sea.\"",
+     "words": [
+      {
+       "h": "同学们",
+       "py": "tóngxuémen",
+       "gl": "classmates",
+       "pos": "n."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "沙漠",
+       "py": "shāmò",
+       "gl": "desert",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "女孩",
+       "py": "nǚhái",
+       "gl": "girl",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "研究",
+       "py": "yánjiū",
+       "gl": "research; study",
        "pos": "v."
       },
       {
@@ -196,322 +1008,76 @@
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "Its economics and marine science programs are both outstanding.",
+   "en": "The university has the Furong Tunnel, its walls covered with students' graffiti.",
    "phrases": [
     {
-     "en": "Its economics and marine science programs are both outstanding.",
+     "en": "The university has the Furong Tunnel, its walls covered with students' graffiti.",
      "words": [
       {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "经济学",
-       "py": "jīngjìxué",
-       "gl": "economics",
+       "h": "学校",
+       "py": "xuéxiào",
+       "gl": "school",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
-       "h": "海洋",
-       "py": "hǎiyáng",
-       "gl": "ocean",
-       "pos": "n."
-      },
-      {
-       "h": "科学",
-       "py": "kēxué",
-       "gl": "science",
-       "pos": "n."
-      },
-      {
-       "h": "专业",
-       "py": "zhuānyè",
-       "gl": "professional; major (field of study)",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "非常",
-       "py": "fēicháng",
-       "gl": "very; extremely",
-       "pos": "adv."
-      },
-      {
-       "h": "出色",
-       "py": "chūsè",
-       "gl": "outstanding; excellent",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Many international students are drawn by both its scenery and its academic strength.",
-   "phrases": [
-    {
-     "en": "Many international students are drawn by both its scenery and its academic strength.",
-     "words": [
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "国际",
-       "py": "guójì",
-       "gl": "international",
-       "pos": "adj."
-      },
-      {
-       "h": "学生",
-       "py": "xuésheng",
-       "gl": "student",
-       "pos": "n."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
-      },
-      {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "风景",
-       "py": "fēngjǐng",
-       "gl": "scenery; view",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "学术",
-       "py": "xuéshù",
-       "gl": "academic",
-       "pos": "adj."
-      },
-      {
-       "h": "实力",
-       "py": "shílì",
-       "gl": "strength; capability",
-       "pos": "n."
-      },
-      {
-       "h": "同时",
-       "py": "tóngshí",
-       "gl": "at the same time; meanwhile",
-       "pos": "adv."
-      },
-      {
-       "h": "吸引",
-       "py": "xīyǐn",
-       "gl": "attract",
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
        "pos": "v."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "If you could study here for four years, it would surely be an unforgettable experience.",
-   "phrases": [
-    {
-     "en": "If you could study here for four years, it would surely be an unforgettable experience.",
-     "words": [
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "这里",
-       "py": "zhèlǐ",
-       "gl": "here",
-       "pos": "pron."
-      },
-      {
-       "h": "读",
-       "py": "dú",
-       "gl": "read; read aloud",
-       "pos": "v."
-      },
-      {
-       "h": "四",
-       "py": "sì",
-       "gl": "four",
+       "h": "一条",
+       "py": "yìtiáo",
+       "gl": "one (measure word for long things, messages, news, rules)",
        "pos": "num."
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "书",
-       "py": "shū",
-       "gl": "book",
-       "pos": "n."
+       "h": "芙蓉隧道",
+       "py": "Fúróng Suìdào",
+       "gl": "Furong Tunnel",
+       "pos": "proper noun"
       },
       {
        "h": "，"
       },
       {
-       "h": "一定",
-       "py": "yídìng",
-       "gl": "definitely; surely; must",
+       "h": "墙上",
+       "py": "qiángshàng",
+       "gl": "on the wall",
+       "pos": "n."
+      },
+      {
+       "h": "全是",
+       "py": "quánshì",
+       "gl": "all; full of; nothing but",
        "pos": "adv."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "学生",
+       "py": "xuéshēng",
+       "gl": "student",
+       "pos": "n."
+      },
+      {
+       "h": "画",
+       "py": "huà",
+       "gl": "draw; paint",
        "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "段",
-       "py": "duàn",
-       "gl": "measure word for periods or episodes (a chapter, a story)",
-       "pos": "measure word"
-      },
-      {
-       "h": "难忘",
-       "py": "nánwàng",
-       "gl": "unforgettable; memorable",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "回忆",
-       "py": "huíyì",
-       "gl": "memory; recollection",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Xiamen University's Furong Tunnel is famous for the graffiti on its walls and has become a hot spot where tourists and students go to take photos for social media.",
-   "phrases": [
-    {
-     "en": "Xiamen University's Furong Tunnel is famous for the graffiti on its walls,",
-     "words": [
-      {
-       "h": "厦门大学",
-       "py": "xiàméndàxué",
-       "gl": "Xiamen University",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "芙蓉",
-       "py": "fúróng",
-       "gl": "hibiscus; lotus (here part of a name: Furong Tunnel)",
-       "pos": "n."
-      },
-      {
-       "h": "隧道",
-       "py": "suìdào",
-       "gl": "tunnel",
-       "pos": "n."
-      },
-      {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because",
-       "pos": "conj."
-      },
-      {
-       "h": "墙",
-       "py": "qiáng",
-       "gl": "wall",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
       },
       {
        "h": "的",
@@ -526,49 +1092,18 @@
        "pos": "n."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "有名",
-       "py": "yǒumíng",
-       "gl": "famous; well-known",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "Tourists come to take photos there, and students leave their drawings on the walls.",
+   "phrases": [
     {
-     "en": "and has become a hot spot where tourists and students go to take photos for social media.",
+     "en": "Tourists come to take photos there, and students leave their drawings on the walls.",
      "words": [
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "成",
-       "py": "chéng",
-       "gl": "become; turn into",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
       {
        "h": "游客",
        "py": "yóukè",
@@ -576,28 +1111,55 @@
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
       },
       {
-       "h": "学生",
-       "py": "xuéshēng",
-       "gl": "student",
+       "h": "这里",
+       "py": "zhèlǐ",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "拍照打卡",
+       "py": "pāizhàodǎkǎ",
+       "gl": "take check-in photos",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "学生们",
+       "py": "xuéshēngmen",
+       "gl": "students",
        "pos": "n."
       },
       {
-       "h": "拍照",
-       "py": "pāizhào",
-       "gl": "take photos",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "墙上",
+       "py": "qiángshàng",
+       "gl": "on the wall",
+       "pos": "n."
+      },
+      {
+       "h": "留下",
+       "py": "liúxià",
+       "gl": "keep; leave (behind)",
        "pos": "v."
       },
       {
-       "h": "打卡",
-       "py": "dǎkǎ",
-       "gl": "check in (log daily progress)",
-       "pos": "v."
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
       },
       {
        "h": "的",
@@ -606,15 +1168,9 @@
        "pos": "particle"
       },
       {
-       "h": "网红",
-       "py": "wǎnghóng",
-       "gl": "internet-famous; trendy online; internet celebrity",
-       "pos": "adj."
-      },
-      {
-       "h": "地点",
-       "py": "dìdiǎn",
-       "gl": "place; location",
+       "h": "画",
+       "py": "huà",
+       "gl": "picture; painting",
        "pos": "n."
       },
       {
@@ -625,45 +1181,502 @@
    ]
   },
   {
-   "en": "Many students also film videos at trendy bubble tea shops on campus and post them online to show everyday life at the university.",
+   "en": "At the end of her first year, Xiao Ou found an empty corner on the wall and painted a wave with a sand dune beneath it.",
    "phrases": [
     {
-     "en": "Many students also film videos at trendy bubble tea shops on campus and post them online,",
+     "en": "At the end of her first year, Xiao Ou found an empty corner on the wall and painted a wave with a sand dune beneath it.",
      "words": [
       {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "学生",
-       "py": "xuéshēng",
-       "gl": "student",
+       "h": "大一",
+       "py": "dà yī",
+       "gl": "first year of university",
        "pos": "n."
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
+       "h": "结束",
+       "py": "jiéshù",
+       "gl": "finish; end",
+       "pos": "v."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "小鸥",
+       "py": "Xiǎo Ōu",
+       "gl": "Xiao Ou",
+       "pos": "proper noun"
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "校内",
-       "py": "xiàonèi",
-       "gl": "on campus",
+       "h": "墙上",
+       "py": "qiángshàng",
+       "gl": "on the wall",
+       "pos": "n."
+      },
+      {
+       "h": "找到",
+       "py": "zhǎodào",
+       "gl": "find",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "小块",
+       "py": "xiǎokuài",
+       "gl": "small piece",
+       "pos": "n."
+      },
+      {
+       "h": "空地",
+       "py": "kòngdì",
+       "gl": "open space; vacant lot",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "画",
+       "py": "huà",
+       "gl": "draw; paint; picture",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "海浪",
+       "py": "hǎilàng",
+       "gl": "sea wave",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "海浪",
+       "py": "hǎilàng",
+       "gl": "sea wave",
+       "pos": "n."
+      },
+      {
+       "h": "下面",
+       "py": "xiàmiàn",
+       "gl": "under; below; beneath",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一座",
+       "py": "yīzuò",
+       "gl": "one; a (measure word for buildings, parks, bridges, mountains)",
+       "pos": "measure word"
+      },
+      {
+       "h": "沙丘",
+       "py": "shāqiū",
+       "gl": "sand dune",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Next to it she wrote a line: \"Grandma, I've brought you to see the sea.\"",
+   "phrases": [
+    {
+     "en": "Next to it she wrote a line: \"Grandma, I've brought you to see the sea.\"",
+     "words": [
+      {
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "行",
+       "py": "háng",
+       "gl": "measure word for lines (of text, rows)",
+       "pos": "measure word"
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "带",
+       "py": "dài",
+       "gl": "bring; take (along); carry",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "海",
+       "py": "hǎi",
+       "gl": "sea",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "For the holidays she brought her grandma a bottle of seawater and a seashell.",
+   "phrases": [
+    {
+     "en": "For the holidays she brought her grandma a bottle of seawater and a seashell.",
+     "words": [
+      {
+       "h": "放假",
+       "py": "fàngjià",
+       "gl": "have a holiday; be on vacation",
+       "pos": "v."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "带",
+       "py": "dài",
+       "gl": "bring; take (along); carry",
+       "pos": "v."
+      },
+      {
+       "h": "回去",
+       "py": "huíqù",
+       "gl": "back (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "瓶",
+       "py": "píng",
+       "gl": "measure word for bottles",
+       "pos": "measure word"
+      },
+      {
+       "h": "海水",
+       "py": "hǎishuǐ",
+       "gl": "seawater",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "贝壳",
+       "py": "bèiké",
+       "gl": "seashell",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Grandma dipped a finger in, tasted it, wrinkled her face, and laughed: \"It really is salty.\"",
+   "phrases": [
+    {
+     "en": "Grandma dipped a finger in, tasted it, wrinkled her face, and laughed: \"It really is salty.\"",
+     "words": [
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "手指",
+       "py": "shǒuzhǐ",
+       "gl": "finger",
+       "pos": "n."
+      },
+      {
+       "h": "蘸",
+       "py": "zhàn",
+       "gl": "dip",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "尝尝",
+       "py": "chángcháng",
+       "gl": "have a taste; try",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "皱了皱眉",
+       "py": "zhòulezhòuméi",
+       "gl": "frowned",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "真是",
+       "py": "zhēnshì",
+       "gl": "really; truly",
+       "pos": "adv."
+      },
+      {
+       "h": "咸",
+       "py": "xián",
+       "gl": "salty",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now the seashell sits on her windowsill, and in the evenings she holds it to her ear and listens.",
+   "phrases": [
+    {
+     "en": "Now the seashell sits on her windowsill, and in the evenings she holds it to her ear and listens.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "贝壳",
+       "py": "bèiké",
+       "gl": "seashell",
+       "pos": "n."
+      },
+      {
+       "h": "放在",
+       "py": "fàngzài",
+       "gl": "put in; put on; place",
+       "pos": "v."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
        "pos": "n."
       },
       {
@@ -673,51 +1686,9 @@
        "pos": "particle"
       },
       {
-       "h": "网红",
-       "py": "wǎnghóng",
-       "gl": "trendy online; internet-famous; internet celebrity",
-       "pos": "adj."
-      },
-      {
-       "h": "奶茶店",
-       "py": "nǎichádiàn",
-       "gl": "milk tea shop; bubble tea shop",
-       "pos": "n."
-      },
-      {
-       "h": "拍",
-       "py": "pāi",
-       "gl": "take (a photo); shoot (a video); pat; clap",
-       "pos": "v."
-      },
-      {
-       "h": "视频",
-       "py": "shìpín",
-       "gl": "video; video call",
-       "pos": "n."
-      },
-      {
-       "h": "发",
-       "py": "fā",
-       "gl": "send",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to (a place)",
-       "pos": "prep."
-      },
-      {
-       "h": "社交",
-       "py": "shèjiāo",
-       "gl": "social (life); socializing",
-       "pos": "adj."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
+       "h": "窗台",
+       "py": "chuāngtái",
+       "gl": "windowsill",
        "pos": "n."
       },
       {
@@ -728,35 +1699,57 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to show everyday life at Xiamen University.",
-     "words": [
+      },
       {
-       "h": "介绍",
-       "py": "jièshào",
-       "gl": "introduce; present",
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
        "pos": "v."
       },
       {
-       "h": "厦大",
-       "py": "shàdà",
-       "gl": "Xiamen University (short form)",
-       "pos": "proper noun"
+       "h": "拿起来",
+       "py": "náqǐlái",
+       "gl": "pick up (and start)",
+       "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
+       "h": "放在",
+       "py": "fàngzài",
+       "gl": "put in; put on; place",
+       "pos": "v."
       },
       {
-       "h": "日常生活",
-       "py": "rìchángshēnghuó",
-       "gl": "daily life",
+       "h": "耳朵",
+       "py": "ěrduǒ",
+       "gl": "ear",
        "pos": "n."
+      },
+      {
+       "h": "边",
+       "py": "biān",
+       "gl": "by, beside",
+       "pos": "n."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
       },
       {
        "h": "。"

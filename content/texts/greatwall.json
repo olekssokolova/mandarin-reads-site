@@ -1,21 +1,21 @@
 {
  "id": "greatwall",
  "level": 4,
- "title_zh": "长城",
- "title_en": "The Great Wall",
+ "title_zh": "砖上的手印",
+ "title_en": "The Handprint on the Brick",
  "free": false,
  "audio_url": null,
- "note_en": "为了 (wèile) introduces a purpose, like \"in order to\": 古代的人修长城，是为了保护自己的国家 \"People in ancient times built the Great Wall to protect their country.\" The pattern 是为了 explains the reason behind an action already mentioned: \"it was in order to...\" Unlike English, the purpose can come after 是 as a separate comment on the first half.",
+ "note_en": "The word 为了 introduces a purpose — \"in order to\": 古代的人修长城，是为了保护自己的国家 — \"people in ancient times built the Great Wall in order to protect their country.\" English needs \"to\" or \"so that\" with a verb; Chinese simply uses 为了 + an action.",
  "sentences": [
   {
    "en": "The Great Wall is one of China's most famous ancient structures.",
    "phrases": [
     {
-     "en": "The Great Wall is",
+     "en": "The Great Wall is one of China's most famous ancient structures.",
      "words": [
       {
        "h": "长城",
-       "py": "chángchéng",
+       "py": "Chángchéng",
        "gl": "Great Wall (of China)",
        "pos": "proper noun"
       },
@@ -24,12 +24,7 @@
        "py": "shì",
        "gl": "be (is; am; are)",
        "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "one of China's most famous ancient structures.",
-     "words": [
+      },
       {
        "h": "中国",
        "py": "zhōngguó",
@@ -37,21 +32,15 @@
        "pos": "proper noun"
       },
       {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "有名",
-       "py": "yǒumíng",
-       "gl": "famous; well-known",
+       "h": "最有名",
+       "py": "zuìyǒumíng",
+       "gl": "most famous",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -70,7 +59,7 @@
        "h": "之一",
        "py": "zhīyī",
        "gl": "one of (最…之一 'one of the most …')",
-       "pos": "n."
+       "pos": "phrase"
       },
       {
        "h": "。"
@@ -80,10 +69,10 @@
    ]
   },
   {
-   "en": "It's like a very long dragon winding across the mountains into the distance.",
+   "en": "It's like a very long dragon, winding over the mountains far into the distance.",
    "phrases": [
     {
-     "en": "It's like a very long dragon,",
+     "en": "It's like a very long dragon, winding over the mountains far into the distance.",
      "words": [
       {
        "h": "它",
@@ -98,16 +87,10 @@
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
+       "h": "一条",
+       "py": "yìtiáo",
+       "gl": "one (measure word for long things, messages, news, rules)",
        "pos": "num."
-      },
-      {
-       "h": "条",
-       "py": "tiáo",
-       "gl": "measure word for long things (fish, roads, rivers)",
-       "pos": "measure word"
       },
       {
        "h": "很",
@@ -124,7 +107,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -135,34 +118,23 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "stretching on and on across the mountains into the distance.",
-     "words": [
+      },
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "山",
-       "py": "shān",
-       "gl": "mountain",
+       "h": "山上",
+       "py": "shānshàng",
+       "gl": "on the mountain",
        "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
-       "pos": "postposition"
       },
       {
        "h": "一直",
        "py": "yìzhí",
-       "gl": "all the time; continuously; straight",
+       "gl": "all along; always; continuously",
        "pos": "adv."
       },
       {
@@ -185,8 +157,8 @@
       },
       {
        "h": "下去",
-       "py": "xiàqù",
-       "gl": "go on; continue; go down",
+       "py": "xiàqu",
+       "gl": "down (directional complement)",
        "pos": "v."
       },
       {
@@ -197,214 +169,49 @@
    ]
   },
   {
-   "en": "People in ancient times built the Great Wall to protect their country.",
+   "en": "I work for a heritage conservation agency, and last fall I climbed a section of the Wall that isn't open to the public for the first time.",
    "phrases": [
     {
-     "en": "People in ancient times built the Great Wall",
-     "words": [
-      {
-       "h": "古代",
-       "py": "gǔdài",
-       "gl": "ancient times; ancient",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "修",
-       "py": "xiū",
-       "gl": "repair; fix; build",
-       "pos": "v."
-      },
-      {
-       "h": "长城",
-       "py": "chángchéng",
-       "gl": "Great Wall (of China)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "in order to protect their country.",
-     "words": [
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "保护",
-       "py": "bǎohù",
-       "gl": "protect",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "country; state",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "There were no machines back then, so people could only carry the stones by hand, one by one.",
-   "phrases": [
-    {
-     "en": "There were no machines back then,",
-     "words": [
-      {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
-       "pos": "v."
-      },
-      {
-       "h": "机器",
-       "py": "jīqì",
-       "gl": "machine",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so people could only carry the stones by hand, one by one.",
-     "words": [
-      {
-       "h": "人们",
-       "py": "rénmen",
-       "gl": "people",
-       "pos": "n."
-      },
-      {
-       "h": "只能",
-       "py": "zhǐnéng",
-       "gl": "can only; have to",
-       "pos": "adv."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "v."
-      },
-      {
-       "h": "手",
-       "py": "shǒu",
-       "gl": "hand",
-       "pos": "n."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "块",
-       "py": "kuài",
-       "gl": "yuan (colloquial); measure word for pieces (bread, cake)",
-       "pos": "measure word"
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "块",
-       "py": "kuài",
-       "gl": "yuan (colloquial); measure word for pieces (bread, cake)",
-       "pos": "measure word"
-      },
-      {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
-       "pos": "particle"
-      },
-      {
-       "h": "搬",
-       "py": "bān",
-       "gl": "move; carry",
-       "pos": "v."
-      },
-      {
-       "h": "石头",
-       "py": "shítou",
-       "gl": "stone; rock",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I climbed the Great Wall once last fall.",
-   "phrases": [
-    {
-     "en": "Last fall I",
+     "en": "I work for a heritage conservation agency, and last fall I climbed a section of the Wall that isn't open to the public for the first time.",
      "words": [
       {
        "h": "我",
        "py": "wǒ",
        "gl": "I; me",
        "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "文物保护",
+       "py": "wénwù bǎohù",
+       "gl": "heritage conservation",
+       "pos": "n."
+      },
+      {
+       "h": "单位",
+       "py": "dānwèi",
+       "gl": "work unit; employer; organization",
+       "pos": "n."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "去年",
@@ -417,39 +224,52 @@
        "py": "qiūtiān",
        "gl": "fall; autumn",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "climbed the Great Wall once.",
-     "words": [
+      },
       {
-       "h": "爬",
-       "py": "pá",
-       "gl": "climb; crawl; get up (爬起来)",
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "爬上",
+       "py": "páshàng",
+       "gl": "climb up",
        "pos": "v."
       },
       {
-       "h": "过",
-       "py": "guò",
-       "gl": "particle: past experience; spend (time); celebrate; pass",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一段",
+       "py": "yīduàn",
+       "gl": "a period (of time); a section; a stretch; a clip (of video)",
        "pos": "num."
       },
       {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
-       "pos": "measure word"
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "开放",
+       "py": "kāifàng",
+       "gl": "open (to the public); open",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "长城",
-       "py": "chángchéng",
+       "py": "Chángchéng",
        "gl": "Great Wall (of China)",
        "pos": "proper noun"
       },
@@ -461,10 +281,10 @@
    ]
   },
   {
-   "en": "The steps were high and there were so many of them; halfway up, I was so tired I couldn't even speak.",
+   "en": "The steps were high and many; halfway up I was so tired I couldn't speak.",
    "phrases": [
     {
-     "en": "The steps were high and there were so many of them;",
+     "en": "The steps were high and many; halfway up I was so tired I couldn't speak.",
      "words": [
       {
        "h": "台阶",
@@ -475,7 +295,7 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
@@ -487,33 +307,22 @@
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
        "h": "多",
        "py": "duō",
-       "gl": "many; much; more than (after a number)",
+       "gl": "many; much",
        "pos": "adj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "halfway up,",
-     "words": [
-      {
-       "h": "爬",
-       "py": "pá",
-       "gl": "climb; crawl; get up (爬起来)",
-       "pos": "v."
       },
       {
-       "h": "到",
-       "py": "dào",
-       "gl": "arrive; reach; come",
+       "h": "爬到",
+       "py": "pádào",
+       "gl": "climb up to",
        "pos": "v."
       },
       {
@@ -525,7 +334,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -536,12 +345,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I was so tired I couldn't even speak.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -561,21 +365,9 @@
        "pos": "particle"
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "出",
-       "py": "chū",
-       "gl": "(after verb) out; come out; go out",
+       "h": "说不出",
+       "py": "shuōbùchū",
+       "gl": "can't say; can't put into words",
        "pos": "v."
       },
       {
@@ -598,10 +390,10 @@
    ]
   },
   {
-   "en": "But standing at the highest point and looking down, the view was absolutely gorgeous.",
+   "en": "But standing at the highest point and looking down, the view was stunning.",
    "phrases": [
     {
-     "en": "But standing at the highest point and looking down,",
+     "en": "But standing at the highest point and looking down, the view was stunning.",
      "words": [
       {
        "h": "但是",
@@ -610,67 +402,38 @@
        "pos": "conj."
       },
       {
-       "h": "站",
-       "py": "zhàn",
-       "gl": "stand; station; stop",
-       "pos": "n."
+       "h": "站在",
+       "py": "zhànzài",
+       "gl": "stand in; stand on; stand at",
+       "pos": "v."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "高",
-       "py": "gāo",
-       "gl": "tall; high",
+       "h": "最高",
+       "py": "zuìgāo",
+       "gl": "highest; supreme",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "地方",
-       "py": "dìfang",
+       "py": "dìfāng",
        "gl": "place",
        "pos": "n."
       },
       {
-       "h": "往",
-       "py": "wǎng",
-       "gl": "toward; to",
-       "pos": "prep."
-      },
-      {
-       "h": "下",
-       "py": "xià",
-       "gl": "next; below; down",
-       "pos": "adj."
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
-       "pos": "v."
+       "h": "往下看",
+       "py": "wǎngxiàkàn",
+       "gl": "look down",
+       "pos": "phrase"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the view was absolutely gorgeous.",
-     "words": [
+      },
       {
        "h": "风景",
        "py": "fēngjǐng",
@@ -684,16 +447,10 @@
        "pos": "adj."
       },
       {
-       "h": "极",
-       "py": "jí",
-       "gl": "extremely (高兴极了 extremely happy)",
+       "h": "极了",
+       "py": "jíle",
+       "gl": "extremely",
        "pos": "adv."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
       },
       {
        "h": "。"
@@ -703,232 +460,10 @@
    ]
   },
   {
-   "en": "That's when I finally understood why everyone says you have to visit the Great Wall at least once.",
+   "en": "Now some sections of the Wall are inspected by drone and 3D-scanned, helping experts find the spots that need repair in time.",
    "phrases": [
     {
-     "en": "That's when I finally understood",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "才",
-       "py": "cái",
-       "gl": "only; only then; not until",
-       "pos": "adv."
-      },
-      {
-       "h": "明白",
-       "py": "míngbai",
-       "gl": "understand; realize; clear",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "why everyone says you have to visit the Great Wall at least once.",
-     "words": [
-      {
-       "h": "为什么",
-       "py": "wèishénme",
-       "gl": "why",
-       "pos": "question word"
-      },
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "一定",
-       "py": "yídìng",
-       "gl": "definitely; surely; must",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "want; order; be going to; need",
-       "pos": "v."
-      },
-      {
-       "h": "来",
-       "py": "lái",
-       "gl": "come; arrive",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
-       "pos": "measure word"
-      },
-      {
-       "h": "长城",
-       "py": "chángchéng",
-       "gl": "Great Wall (of China)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The Great Wall isn't just an ancient structure; it's also part of Chinese culture.",
-   "phrases": [
-    {
-     "en": "The Great Wall isn't just an ancient structure;",
-     "words": [
-      {
-       "h": "长城",
-       "py": "chángchéng",
-       "gl": "Great Wall (of China)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "不仅",
-       "py": "bùjǐn",
-       "gl": "not only",
-       "pos": "conj."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "座",
-       "py": "zuò",
-       "gl": "measure word for cities, mountains, buildings, bridges",
-       "pos": "measure word"
-      },
-      {
-       "h": "古老",
-       "py": "gǔlǎo",
-       "gl": "ancient; age-old",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "建筑",
-       "py": "jiànzhù",
-       "gl": "building; architecture",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it's also part of Chinese culture.",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "文化",
-       "py": "wénhuà",
-       "gl": "culture",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "部分",
-       "py": "bùfen",
-       "gl": "part; section",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Some sections of the Great Wall are now even patrolled by drones and scanned in 3D, helping experts quickly spot places that need repair.",
-   "phrases": [
-    {
-     "en": "Some sections of the Great Wall now even use drone patrols and 3D scanning technology,",
+     "en": "Now some sections of the Wall are inspected by drone and 3D-scanned, helping experts find the spots that need repair in time.",
      "words": [
       {
        "h": "现在",
@@ -944,7 +479,7 @@
       },
       {
        "h": "长城",
-       "py": "chángchéng",
+       "py": "Chángchéng",
        "gl": "Great Wall (of China)",
        "pos": "proper noun"
       },
@@ -969,7 +504,7 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
@@ -981,25 +516,19 @@
       {
        "h": "巡查",
        "py": "xúnchá",
-       "gl": "patrol; inspect",
-       "pos": "v."
+       "gl": "inspection; patrol",
+       "pos": "n."
       },
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
-       "h": "三维",
-       "py": "sānwéi",
-       "gl": "three-dimensional; 3D",
-       "pos": "adj."
-      },
-      {
-       "h": "扫描",
-       "py": "sǎomiáo",
-       "gl": "scanning; scan",
+       "h": "三维扫描",
+       "py": "sānwéi sǎomiáo",
+       "gl": "3D scanning",
        "pos": "n."
       },
       {
@@ -1010,12 +539,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "helping experts quickly spot places that need repair.",
-     "words": [
+      },
       {
        "h": "帮助",
        "py": "bāngzhù",
@@ -1037,13 +561,13 @@
       {
        "h": "发现",
        "py": "fāxiàn",
-       "gl": "discover; find out",
-       "pos": "v."
+       "gl": "discovery; finding",
+       "pos": "n."
       },
       {
        "h": "需要",
        "py": "xūyào",
-       "gl": "need; require",
+       "gl": "need to; have to",
        "pos": "v."
       },
       {
@@ -1062,6 +586,1043 @@
        "h": "地方",
        "py": "dìfāng",
        "gl": "place",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "We went there precisely to 3D-scan that section of the Wall.",
+   "phrases": [
+    {
+     "en": "We went there precisely to 3D-scan that section of the Wall.",
+     "words": [
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "那次",
+       "py": "nàcì",
+       "gl": "that time",
+       "pos": "pron."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "just; simply; exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "为了",
+       "py": "wèile",
+       "gl": "in order to; for",
+       "pos": "prep."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "这段",
+       "py": "zhèduàn",
+       "gl": "this (period, stretch, section)",
+       "pos": "pron."
+      },
+      {
+       "h": "长城",
+       "py": "Chángchéng",
+       "gl": "Great Wall (of China)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "三维扫描",
+       "py": "sānwéi sǎomiáo",
+       "gl": "3D scanning",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Back at the office, I examined the bricks on the screen one by one.",
+   "phrases": [
+    {
+     "en": "Back at the office, I examined the bricks on the screen one by one.",
+     "words": [
+      {
+       "h": "回到",
+       "py": "huídào",
+       "gl": "return to; get back to",
+       "pos": "v."
+      },
+      {
+       "h": "办公室",
+       "py": "bàngōngshì",
+       "gl": "office",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "一块",
+       "py": "yīkuài",
+       "gl": "a piece of; one (measure word for chunks, plots, pieces)",
+       "pos": "measure word"
+      },
+      {
+       "h": "一块",
+       "py": "yīkuài",
+       "gl": "a piece of; one (measure word for chunks, plots, pieces)",
+       "pos": "measure word"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "那些",
+       "py": "nàxiē",
+       "gl": "those",
+       "pos": "pron."
+      },
+      {
+       "h": "砖",
+       "py": "zhuān",
+       "gl": "brick",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Suddenly, on a Ming-dynasty brick, I saw a tiny handprint.",
+   "phrases": [
+    {
+     "en": "Suddenly, on a Ming-dynasty brick, I saw a tiny handprint.",
+     "words": [
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "一块",
+       "py": "yīkuài",
+       "gl": "a piece of; one (measure word for chunks, plots, pieces)",
+       "pos": "measure word"
+      },
+      {
+       "h": "明朝",
+       "py": "Míngcháo",
+       "gl": "Ming dynasty (1368–1644)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "砖",
+       "py": "zhuān",
+       "gl": "brick",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "小小",
+       "py": "xiǎoxiǎo",
+       "gl": "little; tiny",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "手印",
+       "py": "shǒuyìn",
+       "gl": "handprint",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That hand was much smaller than mine — perhaps a child's.",
+   "phrases": [
+    {
+     "en": "That hand was much smaller than mine — perhaps a child's.",
+     "words": [
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "只",
+       "py": "zhī",
+       "gl": "(measure word for animals, one of a pair)",
+       "pos": "measure word"
+      },
+      {
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot; much",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可能",
+       "py": "kěnéng",
+       "gl": "maybe; perhaps; possibly",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "孩子",
+       "py": "háizi",
+       "gl": "child",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "People in ancient times built the Great Wall in order to protect their country.",
+   "phrases": [
+    {
+     "en": "People in ancient times built the Great Wall in order to protect their country.",
+     "words": [
+      {
+       "h": "古代",
+       "py": "gǔdài",
+       "gl": "ancient times; ancient",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "修",
+       "py": "xiū",
+       "gl": "repair; fix; build",
+       "pos": "v."
+      },
+      {
+       "h": "长城",
+       "py": "Chángchéng",
+       "gl": "Great Wall (of China)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "为了",
+       "py": "wèile",
+       "gl": "in order to; for",
+       "pos": "prep."
+      },
+      {
+       "h": "保护",
+       "py": "bǎohù",
+       "gl": "protection; protect",
+       "pos": "n."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "国家",
+       "py": "guójiā",
+       "gl": "country",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "There were no machines then; people could only carry stones and make bricks by hand, one at a time.",
+   "phrases": [
+    {
+     "en": "There were no machines then; people could only carry stones and make bricks by hand, one at a time.",
+     "words": [
+      {
+       "h": "那时候",
+       "py": "nàshíhòu",
+       "gl": "at that time; back then",
+       "pos": "n."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "机器",
+       "py": "jīqì",
+       "gl": "machine",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "人们",
+       "py": "rénmen",
+       "gl": "people",
+       "pos": "n."
+      },
+      {
+       "h": "只能",
+       "py": "zhǐnéng",
+       "gl": "can only; have to",
+       "pos": "v."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "一块",
+       "py": "yīkuài",
+       "gl": "a piece of; one (measure word for chunks, plots, pieces)",
+       "pos": "measure word"
+      },
+      {
+       "h": "一块",
+       "py": "yīkuài",
+       "gl": "a piece of; one (measure word for chunks, plots, pieces)",
+       "pos": "measure word"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "搬",
+       "py": "bān",
+       "gl": "move (house); carry",
+       "pos": "v."
+      },
+      {
+       "h": "石头",
+       "py": "shítou",
+       "gl": "stone; rock",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "砖",
+       "py": "zhuān",
+       "gl": "brick",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I had always thought the people who built the Great Wall were all adults.",
+   "phrases": [
+    {
+     "en": "I had always thought the people who built the Great Wall were all adults.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "以为",
+       "py": "yǐwéi",
+       "gl": "think (mistakenly); assume",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "修",
+       "py": "xiū",
+       "gl": "repair; fix; build",
+       "pos": "v."
+      },
+      {
+       "h": "长城",
+       "py": "Chángchéng",
+       "gl": "Great Wall (of China)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "都是",
+       "py": "dōushì",
+       "gl": "all are; are all",
+       "pos": "v."
+      },
+      {
+       "h": "大人",
+       "py": "dàrén",
+       "gl": "adult; grown-up",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I put my hand on the screen next to that handprint and didn't move for a long time.",
+   "phrases": [
+    {
+     "en": "I put my hand on the screen next to that handprint and didn't move for a long time.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "放在",
+       "py": "fàngzài",
+       "gl": "put in; put on; place",
+       "pos": "v."
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "手印",
+       "py": "shǒuyìn",
+       "gl": "handprint",
+       "pos": "n."
+      },
+      {
+       "h": "放在一起",
+       "py": "fàngzàiyìqǐ",
+       "gl": "put together",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "动",
+       "py": "dòng",
+       "gl": "move",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Only then did I understand that the Great Wall is not just an ancient structure, but also a part of Chinese culture.",
+   "phrases": [
+    {
+     "en": "Only then did I understand that the Great Wall is not just an ancient structure, but also a part of Chinese culture.",
+     "words": [
+      {
+       "h": "这时候",
+       "py": "zhèshíhòu",
+       "gl": "at this time; at this point",
+       "pos": "adv."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "明白",
+       "py": "míngbái",
+       "gl": "understand; realize",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "长城",
+       "py": "Chángchéng",
+       "gl": "Great Wall (of China)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "不仅",
+       "py": "bùjǐn",
+       "gl": "not only",
+       "pos": "conj."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一座",
+       "py": "yīzuò",
+       "gl": "one; a (measure word for buildings, parks, bridges, mountains)",
+       "pos": "num."
+      },
+      {
+       "h": "古老",
+       "py": "gǔlǎo",
+       "gl": "ancient; age-old",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "建筑",
+       "py": "jiànzhù",
+       "gl": "building; architecture",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也是",
+       "py": "yěshì",
+       "gl": "also; too",
+       "pos": "conj."
+      },
+      {
+       "h": "中国文化",
+       "py": "zhōngguówénhuà",
+       "gl": "Chinese culture",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "一部分",
+       "py": "yībùfèn",
+       "gl": "part; portion",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It was made by many, many pairs of hands, big and small; each had a name, but no one remembers them.",
+   "phrases": [
+    {
+     "en": "It was made by many, many pairs of hands, big and small; each had a name, but no one remembers them.",
+     "words": [
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of; much (after a comparison: 低很多 much lower)",
+       "pos": "num."
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of; much (after a comparison: 低很多 much lower)",
+       "pos": "num."
+      },
+      {
+       "h": "双",
+       "py": "shuāng",
+       "gl": "measure word for pairs: pair",
+       "pos": "measure word"
+      },
+      {
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "做出来",
+       "py": "zuòchūlái",
+       "gl": "make; come out (as a result of making)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "大",
+       "py": "dà",
+       "gl": "big; large",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "名字",
+       "py": "míngzì",
+       "gl": "name",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "没有人",
+       "py": "méiyǒurén",
+       "gl": "nobody; no one",
+       "pos": "pron."
+      },
+      {
+       "h": "记得",
+       "py": "jìde",
+       "gl": "remember",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now a photo of that brick sits next to my computer.",
+   "phrases": [
+    {
+     "en": "Now a photo of that brick sits next to my computer.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "块",
+       "py": "kuài",
+       "gl": "yuan; kuai (colloquial for money)",
+       "pos": "measure word"
+      },
+      {
+       "h": "砖",
+       "py": "zhuān",
+       "gl": "brick",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "放在",
+       "py": "fàngzài",
+       "gl": "put in; put on; place",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "电脑",
+       "py": "diànnǎo",
+       "gl": "computer",
+       "pos": "n."
+      },
+      {
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
        "pos": "n."
       },
       {

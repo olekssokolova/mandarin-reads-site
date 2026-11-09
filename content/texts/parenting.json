@@ -1,17 +1,17 @@
 {
  "id": "parenting",
  "level": 4,
- "title_zh": "新一代的育儿观",
- "title_en": "A New Generation of Parenting",
+ "title_zh": "妈妈没有问出口的话",
+ "title_en": "The Question Mom Never Asked",
  "free": false,
  "audio_url": null,
- "note_en": "把 A 当作 B means \"to treat A as B\": 她把孩子当作一个独立的人 \"she treats her child as an independent person.\" 把 moves the object (孩子) in front of the verb, while English keeps it after \"treat.\"",
+ "note_en": "The phrase 换句话说 (\"in other words\") introduces a rephrasing of the previous idea, simpler or more direct: 换句话说，她把孩子当作一个独立的人 — \"in other words, she treats her child as an independent person.\"",
  "sentences": [
   {
-   "en": "My cousin recently became a mom, and her way of raising her child is very different from how we were raised.",
+   "en": "My cousin recently became a mom; her daughter, Little Grape, is three.",
    "phrases": [
     {
-     "en": "My cousin recently became a mom,",
+     "en": "My cousin recently became a mom; her daughter, Little Grape, is three.",
      "words": [
       {
        "h": "我",
@@ -29,7 +29,7 @@
        "h": "最近",
        "py": "zuìjìn",
        "gl": "recently; lately",
-       "pos": "n."
+       "pos": "adv."
       },
       {
        "h": "当",
@@ -51,11 +51,52 @@
       },
       {
        "h": "，"
+      },
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "小葡萄",
+       "py": "Xiǎo Pútao",
+       "gl": "Little Grape (pet name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "今年",
+       "py": "jīnnián",
+       "gl": "this year",
+       "pos": "n."
+      },
+      {
+       "h": "三岁",
+       "py": "sānsuì",
+       "gl": "three years old",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "Her way of raising a child is very different from how we were raised.",
+   "phrases": [
     {
-     "en": "her way of raising her child",
+     "en": "Her way of raising a child is very different from how we were raised.",
      "words": [
       {
        "h": "她",
@@ -66,12 +107,12 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "育儿",
-       "py": "yùr",
+       "py": "yù'ér",
        "gl": "parenting; child-rearing",
        "pos": "n."
       },
@@ -80,12 +121,7 @@
        "py": "fāngshì",
        "gl": "way; method",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "is very different from when we were kids.",
-     "words": [
+      },
       {
        "h": "跟",
        "py": "gēn",
@@ -99,15 +135,9 @@
        "pos": "pron."
       },
       {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
+       "h": "小时候",
+       "py": "xiǎoshíhòu",
+       "gl": "in childhood; as a child",
        "pos": "n."
       },
       {
@@ -117,15 +147,9 @@
        "pos": "adv."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "一样",
-       "py": "yíyàng",
-       "gl": "same; alike",
+       "h": "不一样",
+       "py": "bùyíyàng",
+       "gl": "different; not the same",
        "pos": "adj."
       },
       {
@@ -136,10 +160,10 @@
    ]
   },
   {
-   "en": "She rarely forces her child to do anything; she'd rather talk things over with him.",
+   "en": "She rarely forces her daughter to do anything; she prefers to talk things over with her.",
    "phrases": [
     {
-     "en": "She rarely forces her child to do anything,",
+     "en": "She rarely forces her daughter to do anything; she prefers to talk things over with her.",
      "words": [
       {
        "h": "她",
@@ -148,16 +172,10 @@
        "pos": "pron."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
+       "h": "很少",
+       "py": "hěnshǎo",
+       "gl": "rarely; seldom; few",
        "pos": "adv."
-      },
-      {
-       "h": "少",
-       "py": "shǎo",
-       "gl": "few; little; less",
-       "pos": "adj."
       },
       {
        "h": "强迫",
@@ -172,35 +190,24 @@
        "pos": "n."
       },
       {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "什么",
-       "py": "shénme",
-       "gl": "what",
-       "pos": "question word"
+       "h": "做什么",
+       "py": "zuòshénme",
+       "gl": "what for; do what",
+       "pos": "pron."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she'd rather talk things over with the child.",
-     "words": [
+      },
       {
        "h": "更",
        "py": "gèng",
-       "gl": "even more; more",
+       "gl": "more; even more",
        "pos": "adv."
       },
       {
        "h": "喜欢",
-       "py": "xǐhuan",
-       "gl": "like; love",
+       "py": "xǐhuān",
+       "gl": "like",
        "pos": "v."
       },
       {
@@ -229,25 +236,129 @@
    ]
   },
   {
-   "en": "In other words, she treats her child as an independent person, not just as \"a little kid.\"",
+   "en": "When Little Grape doesn't want to wear her red clothes, she asks, \"Then which one do you want to wear?\"",
    "phrases": [
     {
-     "en": "In other words,",
+     "en": "When Little Grape doesn't want to wear her red clothes, she asks, \"Then which one do you want to wear?\"",
      "words": [
       {
-       "h": "换句话说",
-       "py": "huànjùhuàshuō",
-       "gl": "in other words",
-       "pos": "conj."
+       "h": "小葡萄",
+       "py": "Xiǎo Pútao",
+       "gl": "Little Grape (pet name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "不想",
+       "py": "bùxiǎng",
+       "gl": "not want to",
+       "pos": "v."
+      },
+      {
+       "h": "穿",
+       "py": "chuān",
+       "gl": "put on; wear",
+       "pos": "v."
+      },
+      {
+       "h": "红",
+       "py": "hóng",
+       "gl": "red",
+       "pos": "adj."
+      },
+      {
+       "h": "衣服",
+       "py": "yīfu",
+       "gl": "clothes",
+       "pos": "n."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "穿",
+       "py": "chuān",
+       "gl": "put on; wear",
+       "pos": "v."
+      },
+      {
+       "h": "哪",
+       "py": "nǎ",
+       "gl": "which; what",
+       "pos": "pron."
+      },
+      {
+       "h": "件",
+       "py": "jiàn",
+       "gl": "measure word for clothing, matters, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "In other words, she treats her child as an independent person, not just a \"little kid.\"",
+   "phrases": [
     {
-     "en": "she treats her child as an independent person,",
+     "en": "In other words, she treats her child as an independent person, not just a \"little kid.\"",
      "words": [
+      {
+       "h": "换句话说",
+       "py": "huàn jù huà shuō",
+       "gl": "in other words",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "她",
        "py": "tā",
@@ -273,16 +384,10 @@
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "独立",
@@ -293,7 +398,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -304,29 +409,18 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "not just as \"a little kid.\"",
-     "words": [
+      },
       {
        "h": "而",
        "py": "ér",
-       "gl": "conjunction: and; but; (而不是 rather than)",
+       "gl": "but; whereas; and",
        "pos": "conj."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "只是",
-       "py": "zhǐshì",
-       "gl": "just; only; merely",
-       "pos": "adv."
+       "h": "不只是",
+       "py": "bùzhǐshì",
+       "gl": "not just; not only",
+       "pos": "phrase"
       },
       {
        "h": "“"
@@ -348,277 +442,10 @@
    ]
   },
   {
-   "en": "When we were kids, our parents often said \"It's for your own good\" and rarely asked what we thought.",
+   "en": "There's a popular word now, \"chicken baby,\" for parents who sign their kids up for all kinds of tutoring and hobby classes, terrified they'll fall behind.",
    "phrases": [
     {
-     "en": "When we were kids,",
-     "words": [
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "our parents often said \"It's for your own good,\"",
-     "words": [
-      {
-       "h": "父母",
-       "py": "fùmǔ",
-       "gl": "parents",
-       "pos": "n."
-      },
-      {
-       "h": "常常",
-       "py": "chángcháng",
-       "gl": "often",
-       "pos": "adv."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
-      {
-       "h": "你好",
-       "py": "nǐ hǎo",
-       "gl": "hello; hi",
-       "pos": "phrase"
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and rarely asked what we thought.",
-     "words": [
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "少",
-       "py": "shǎo",
-       "gl": "few; little; less",
-       "pos": "adj."
-      },
-      {
-       "h": "问",
-       "py": "wèn",
-       "gl": "ask",
-       "pos": "v."
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "想法",
-       "py": "xiǎngfǎ",
-       "gl": "idea; thought",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Watching how my cousin and her child get along, I've started thinking about what kind of parent I want to be someday.",
-   "phrases": [
-    {
-     "en": "Watching how my cousin and her child get along, I've started thinking about what kind of parent I want to be someday.",
-     "words": [
-      {
-       "h": "看着",
-       "py": "kànzhe",
-       "gl": "look at; watching",
-       "pos": "v."
-      },
-      {
-       "h": "表姐",
-       "py": "biǎojiě",
-       "gl": "older female cousin",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "孩子",
-       "py": "háizi",
-       "gl": "child",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "相处",
-       "py": "xiāngchǔ",
-       "gl": "get along (with each other)",
-       "pos": "v."
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
-       "pos": "v."
-      },
-      {
-       "h": "反思",
-       "py": "fǎnsī",
-       "gl": "reflect on; rethink",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
-      },
-      {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like; think; miss",
-       "pos": "v."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "怎样",
-       "py": "zěnyàng",
-       "gl": "how; in what way",
-       "pos": "question word"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "父母",
-       "py": "fùmǔ",
-       "gl": "parents",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "There's a popular word now, jiwa (\"chicken baby\"), describing parents who sign their kids up for all kinds of tutoring and enrichment classes, terrified they'll fall behind.",
-   "phrases": [
-    {
-     "en": "There's a popular word now, jiwa (\"chicken baby\"),",
+     "en": "There's a popular word now, \"chicken baby,\" for parents who sign their kids up for all kinds of tutoring and hobby classes, terrified they'll fall behind.",
      "words": [
       {
        "h": "现在",
@@ -630,24 +457,12 @@
        "h": "流行",
        "py": "liúxíng",
        "gl": "be popular; be in fashion",
-       "pos": "v."
+       "pos": "adj."
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "measure word (general: 换个角度 from another angle)",
-       "pos": "measure word"
-      },
-      {
-       "h": "词",
-       "py": "cí",
-       "gl": "word",
+       "h": "一个词",
+       "py": "yígècí",
+       "gl": "a word; one word",
        "pos": "n."
       },
       {
@@ -657,25 +472,20 @@
        "pos": "v."
       },
       {
-       "h": "鸡",
-       "py": "jī",
-       "gl": "chicken (鸡娃 push one's kids hard)",
-       "pos": "n."
+       "h": "“"
       },
       {
-       "h": "娃",
-       "py": "wá",
-       "gl": "child; kid (鸡娃 'push one's kids hard')",
-       "pos": "n."
+       "h": "鸡娃",
+       "py": "jīwá",
+       "gl": "\"chicken baby\" (to push kids hard)",
+       "pos": "v."
+      },
+      {
+       "h": "”"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "describing parents who sign their kids up for all kinds of tutoring and enrichment classes,",
-     "words": [
+      },
       {
        "h": "形容",
        "py": "xíngróng",
@@ -703,13 +513,13 @@
       {
        "h": "安排",
        "py": "ānpái",
-       "gl": "arrange; sign up (someone for something)",
+       "gl": "arrange; plan",
        "pos": "v."
       },
       {
        "h": "各种",
        "py": "gèzhǒng",
-       "gl": "various; all kinds of",
+       "gl": "all kinds of; various",
        "pos": "pron."
       },
       {
@@ -721,23 +531,18 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
        "h": "兴趣班",
        "py": "xìngqùbān",
-       "gl": "extracurricular class; interest class",
+       "gl": "hobby class",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "terrified their kids will fall behind others.",
-     "words": [
+      },
       {
        "h": "生怕",
        "py": "shēngpà",
@@ -759,7 +564,7 @@
       {
        "h": "于",
        "py": "yú",
-       "gl": "than; behind (formal: 落后于人 fall behind others)",
+       "gl": "at; in; from (formal: 毕业于 graduate from)",
        "pos": "prep."
       },
       {
@@ -776,17 +581,11 @@
    ]
   },
   {
-   "en": "My cousin, though, has chosen the opposite: she cares more about her child's sleep and time outdoors than about how many practice problems the child grinds through.",
+   "en": "But my cousin chose \"anti-chicken-baby,\" caring more about her child's sleep and outdoor play than the number of practice problems done.",
    "phrases": [
     {
-     "en": "My cousin, though, has chosen to reject \"chicken parenting,\"",
+     "en": "But my cousin chose \"anti-chicken-baby,\" caring more about her child's sleep and outdoor play than the number of practice problems done.",
      "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
       {
        "h": "表姐",
        "py": "biǎojiě",
@@ -800,37 +599,26 @@
        "pos": "adv."
       },
       {
-       "h": "反而",
-       "py": "fǎnér",
-       "gl": "on the contrary; instead",
-       "pos": "adv."
-      },
-      {
        "h": "选择",
        "py": "xuǎnzé",
-       "gl": "choose",
+       "gl": "choose; choice",
        "pos": "v."
       },
       {
-       "h": "反",
-       "py": "fǎn",
-       "gl": "anti-; against",
-       "pos": "adj."
+       "h": "“"
       },
       {
-       "h": "鸡娃",
-       "py": "jīwá",
-       "gl": "pushing kids hard; \"chicken-blooding\" one's child (intensive parenting)",
-       "pos": "n."
+       "h": "反鸡娃",
+       "py": "fǎn jīwá",
+       "gl": "\"anti-chicken-baby\" (against over-pushing kids)",
+       "pos": "v."
+      },
+      {
+       "h": "”"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she cares more about her child's sleep and outdoor activities than about how many practice problems the child grinds through.",
-     "words": [
+      },
       {
        "h": "更",
        "py": "gèng",
@@ -864,19 +652,13 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
-       "h": "户外",
-       "py": "hùwài",
-       "gl": "outdoor",
-       "pos": "adj."
-      },
-      {
-       "h": "活动",
-       "py": "huódòng",
-       "gl": "activity",
+       "h": "户外活动",
+       "py": "hùwài huódòng",
+       "gl": "outdoor activities",
        "pos": "n."
       },
       {
@@ -891,7 +673,7 @@
       {
        "h": "刷题",
        "py": "shuātí",
-       "gl": "drill practice questions",
+       "gl": "to grind practice questions",
        "pos": "v."
       },
       {
@@ -905,6 +687,985 @@
        "py": "shùliàng",
        "gl": "quantity; number",
        "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When we were kids, our parents often said \"it's for your own good\" and rarely asked what we thought.",
+   "phrases": [
+    {
+     "en": "When we were kids, our parents often said \"it's for your own good\" and rarely asked what we thought.",
+     "words": [
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "小时候",
+       "py": "xiǎoshíhòu",
+       "gl": "in childhood; as a child",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "父母",
+       "py": "fùmǔ",
+       "gl": "parents",
+       "pos": "n."
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "这是",
+       "py": "zhèshì",
+       "gl": "this is",
+       "pos": "phrase"
+      },
+      {
+       "h": "为",
+       "py": "wèi",
+       "gl": "for; for the sake of",
+       "pos": "prep."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "很少",
+       "py": "hěnshǎo",
+       "gl": "rarely; seldom; few",
+       "pos": "adv."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "想法",
+       "py": "xiǎngfǎ",
+       "gl": "idea; thought",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I studied piano for eight years, and not one day was it because I wanted to.",
+   "phrases": [
+    {
+     "en": "I studied piano for eight years, and not one day was it because I wanted to.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "八年",
+       "py": "bānián",
+       "gl": "eight years",
+       "pos": "n."
+      },
+      {
+       "h": "钢琴",
+       "py": "gāngqín",
+       "gl": "piano",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Last weekend Mom and I went to my cousin's place.",
+   "phrases": [
+    {
+     "en": "Last weekend Mom and I went to my cousin's place.",
+     "words": [
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go",
+       "pos": "v."
+      },
+      {
+       "h": "表姐",
+       "py": "biǎojiě",
+       "gl": "older female cousin",
+       "pos": "n."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the way back, Mom didn't say a word.",
+   "phrases": [
+    {
+     "en": "On the way back, Mom didn't say a word.",
+     "words": [
+      {
+       "h": "回来",
+       "py": "huílái",
+       "gl": "come back; return; back (after a verb: 捡回来 'pick back up')",
+       "pos": "function word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "路上",
+       "py": "lùshàng",
+       "gl": "on the way; on the road",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When we were almost home, she suddenly said, \"Back then, I wanted to ask you whether you wanted to learn piano too.\"",
+   "phrases": [
+    {
+     "en": "When we were almost home, she suddenly said, \"Back then, I wanted to ask you whether you wanted to learn piano too.\"",
+     "words": [
+      {
+       "h": "快到",
+       "py": "kuàidào",
+       "gl": "almost (time); nearly reach",
+       "pos": "v."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "那时候",
+       "py": "nàshíhòu",
+       "gl": "at that time; back then",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "想不想",
+       "py": "xiǎng bu xiǎng",
+       "gl": "whether (someone) wants",
+       "pos": "phrase"
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "钢琴",
+       "py": "gāngqín",
+       "gl": "piano",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"But I was afraid you'd say no, and then I wouldn't know what to do.\"",
+   "phrases": [
+    {
+     "en": "\"But I was afraid you'd say no, and then I wouldn't know what to do.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "怕",
+       "py": "pà",
+       "gl": "be afraid; fear; worry",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "不想",
+       "py": "bùxiǎng",
+       "gl": "not want to",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "不知道",
+       "py": "bùzhīdào",
+       "gl": "not know; no one knows",
+       "pos": "v."
+      },
+      {
+       "h": "该",
+       "py": "gāi",
+       "gl": "this; the said (formal)",
+       "pos": "pron."
+      },
+      {
+       "h": "怎么办",
+       "py": "zěnmebàn",
+       "gl": "what to do",
+       "pos": "pron."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I looked at her and realized for the first time that back then, she too was just someone being a mom for the first time.",
+   "phrases": [
+    {
+     "en": "I looked at her and realized for the first time that back then, she too was just someone being a mom for the first time.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "那时候",
+       "py": "nàshíhòu",
+       "gl": "at that time; back then",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "当",
+       "py": "dāng",
+       "gl": "when (当…时)",
+       "pos": "conj."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Watching how my cousin and her daughter get along, I've started thinking about what kind of parent I want to be someday.",
+   "phrases": [
+    {
+     "en": "Watching how my cousin and her daughter get along, I've started thinking about what kind of parent I want to be someday.",
+     "words": [
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "表姐",
+       "py": "biǎojiě",
+       "gl": "older female cousin",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "孩子",
+       "py": "háizi",
+       "gl": "child",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "相处",
+       "py": "xiāngchǔ",
+       "gl": "get along (with each other)",
+       "pos": "v."
+      },
+      {
+       "h": "方式",
+       "py": "fāngshì",
+       "gl": "way; method",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
+       "pos": "v."
+      },
+      {
+       "h": "反思",
+       "py": "fǎnsī",
+       "gl": "to reflect (on oneself)",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "be; work as",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "怎样",
+       "py": "zěnyàng",
+       "gl": "how; what kind of",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "父母",
+       "py": "fùmǔ",
+       "gl": "parents",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening I opened the piano I hadn't touched in a long time and played Mom's favorite song.",
+   "phrases": [
+    {
+     "en": "That evening I opened the piano I hadn't touched in a long time and played Mom's favorite song.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "碰",
+       "py": "pèng",
+       "gl": "touch; tap",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "钢琴",
+       "py": "gāngqín",
+       "gl": "piano",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "弹",
+       "py": "tán",
+       "gl": "play (a stringed instrument)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一首",
+       "py": "yīshǒu",
+       "gl": "one (song or poem)",
+       "pos": "num."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "喜欢",
+       "py": "xǐhuān",
+       "gl": "like; love",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "歌",
+       "py": "gē",
+       "gl": "song",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This time, I was the one who wanted to play.",
+   "phrases": [
+    {
+     "en": "This time, I was the one who wanted to play.",
+     "words": [
+      {
+       "h": "这一次",
+       "py": "zhèyīcì",
+       "gl": "this time",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "弹",
+       "py": "tán",
+       "gl": "play (a stringed instrument)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "。"

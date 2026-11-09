@@ -1,67 +1,210 @@
 {
  "id": "datacenter_water4",
  "level": 4,
- "title_zh": "数据中心与水资源",
- "title_en": "Data Centers and Water",
+ "title_zh": "父亲的枸杞地",
+ "title_en": "Dad's Goji Field",
  "free": false,
  "audio_url": null,
- "note_en": "不但……还…… means \"not only ... but also\": 数据中心不但耗电，还耗费大量的水 \"data centers not only use electricity, they also use huge amounts of water.\" As in English, the first part sets up the second; in Chinese 还 (or 而且) goes right before the second verb.",
+ "note_en": "The chengyu 杯水车薪 (\"a cup of water for a cartload of burning firewood\") describes help that is clearly too small for a big problem: 一些小的节水措施，常常显得杯水车薪 — \"small water-saving measures often look like a drop in the bucket.\"",
  "sentences": [
   {
-   "en": "Many people don't know that data centers not only use a lot of electricity but also use huge amounts of water.",
+   "en": "I'm an operations engineer at a data center, and our data center is in Ningxia.",
    "phrases": [
     {
-     "en": "Many people don't know that data centers not only use a lot of electricity but also use huge amounts of water.",
+     "en": "I'm an operations engineer at a data center, and our data center is in Ningxia.",
      "words": [
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjù zhōngxīn",
+       "gl": "data center",
        "pos": "n."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "知道",
-       "py": "zhīdao",
-       "gl": "know",
+       "h": "运维",
+       "py": "yùnwéi",
+       "gl": "IT operations",
+       "pos": "n."
+      },
+      {
+       "h": "工程师",
+       "py": "gōngchéngshī",
+       "gl": "engineer",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjù zhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "be at; in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "宁夏",
+       "py": "Níngxià",
+       "gl": "Ningxia",
+       "pos": "proper noun"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "My dad grows goji berries thirty kilometers from here.",
+   "phrases": [
+    {
+     "en": "My dad grows goji berries thirty kilometers from here.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "离",
+       "py": "lí",
+       "gl": "from (distance: A 离 B 远 \"A is far from B\")",
+       "pos": "prep."
+      },
+      {
+       "h": "这里",
+       "py": "zhèlǐ",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "三十",
+       "py": "sānshí",
+       "gl": "thirty",
+       "pos": "num."
+      },
+      {
+       "h": "公里",
+       "py": "gōnglǐ",
+       "gl": "kilometer",
+       "pos": "measure word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "地方",
+       "py": "dìfāng",
+       "gl": "place",
+       "pos": "n."
+      },
+      {
+       "h": "种",
+       "py": "zhòng",
+       "gl": "plant; grow",
+       "pos": "v."
+      },
+      {
+       "h": "枸杞",
+       "py": "gǒuqǐ",
+       "gl": "goji berry; wolfberry",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Many people don't know that data centers not only use electricity but also consume huge amounts of water.",
+   "phrases": [
+    {
+     "en": "Many people don't know that data centers not only use electricity but also consume huge amounts of water.",
+     "words": [
+      {
+       "h": "很多人",
+       "py": "hěnduōrén",
+       "gl": "many people",
+       "pos": "pron."
+      },
+      {
+       "h": "不知道",
+       "py": "bùzhīdào",
+       "gl": "not know; no one knows",
        "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "数据",
-       "py": "shùjù",
-       "gl": "data",
-       "pos": "n."
-      },
-      {
-       "h": "中心",
-       "py": "zhōngxīn",
-       "gl": "center",
+       "h": "数据中心",
+       "py": "shùjù zhōngxīn",
+       "gl": "data center",
        "pos": "n."
       },
       {
        "h": "不但",
-       "py": "búdàn",
+       "py": "bùdàn",
        "gl": "not only",
        "pos": "conj."
       },
       {
        "h": "耗电",
        "py": "hàodiàn",
-       "gl": "consume electricity; power-consuming",
+       "gl": "to use electricity",
        "pos": "v."
       },
       {
@@ -70,7 +213,7 @@
       {
        "h": "还",
        "py": "hái",
-       "gl": "also; still; in addition",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
@@ -83,12 +226,12 @@
        "h": "大量",
        "py": "dàliàng",
        "gl": "large amount of; a lot of",
-       "pos": "adj."
+       "pos": "num."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -105,10 +248,10 @@
    ]
   },
   {
-   "en": "Servers give off a lot of heat when they run, and water is needed to cool them down.",
+   "en": "Running servers produce a lot of heat and need water to cool down.",
    "phrases": [
     {
-     "en": "Servers give off a lot of heat when they run, and water is needed to cool them down.",
+     "en": "Running servers produce a lot of heat and need water to cool down.",
      "words": [
       {
        "h": "服务器",
@@ -131,8 +274,8 @@
       {
        "h": "会",
        "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
       },
       {
        "h": "产生",
@@ -158,19 +301,13 @@
       {
        "h": "需要",
        "py": "xūyào",
-       "gl": "need; require",
+       "gl": "need to; have to",
        "pos": "v."
       },
       {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "v."
-      },
-      {
-       "h": "水",
-       "py": "shuǐ",
-       "gl": "water",
+       "h": "用水",
+       "py": "yòngshuǐ",
+       "gl": "water use",
        "pos": "n."
       },
       {
@@ -211,52 +348,37 @@
        "pos": "adj."
       },
       {
-       "h": "数据",
-       "py": "shùjù",
-       "gl": "data",
+       "h": "数据中心",
+       "py": "shùjù zhōngxīn",
+       "gl": "data center",
        "pos": "n."
       },
       {
-       "h": "中心",
-       "py": "zhōngxīn",
-       "gl": "center",
-       "pos": "n."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "sky; day",
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
        "pos": "n."
       },
       {
        "h": "用",
        "py": "yòng",
-       "gl": "use; with (by means of)",
+       "gl": "use",
        "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "水",
-       "py": "shuǐ",
-       "gl": "water",
+       "h": "水量",
+       "py": "shuǐliàng",
+       "gl": "amount of water",
        "pos": "n."
       },
       {
-       "h": "量",
-       "py": "liàng",
-       "gl": "measure",
-       "pos": "v."
+       "h": "，"
       },
       {
        "h": "相当于",
@@ -273,31 +395,25 @@
       {
        "h": "户",
        "py": "hù",
-       "gl": "household; family",
-       "pos": "n."
+       "gl": "household; family (also measure word for households)",
+       "pos": "measure word"
       },
       {
        "h": "家庭",
        "py": "jiātíng",
        "gl": "family; household",
-       "pos": "n."
+       "pos": "adj."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "sky; day",
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -314,28 +430,28 @@
    ]
   },
   {
-   "en": "In some areas short on water, this has already made local residents unhappy.",
+   "en": "In some water-scarce areas, this has already angered local residents.",
    "phrases": [
     {
-     "en": "In some areas short on water, this has already made local residents unhappy.",
+     "en": "In some water-scarce areas, this has already angered local residents.",
      "words": [
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
        "h": "一些",
-       "py": "yìxie",
-       "gl": "some; a few",
-       "pos": "num."
+       "py": "yīxiē",
+       "gl": "some; certain",
+       "pos": "pron."
       },
       {
        "h": "缺水",
        "py": "quēshuǐ",
-       "gl": "be short of water; water shortage",
-       "pos": "v."
+       "gl": "water-scarce",
+       "pos": "adj."
       },
       {
        "h": "地区",
@@ -371,10 +487,95 @@
        "pos": "particle"
       },
       {
-       "h": "当地",
-       "py": "dāngdì",
-       "gl": "local; locality",
+       "h": "当地居民",
+       "py": "dāngdìjūmín",
+       "gl": "local residents",
        "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "不满",
+       "py": "bùmǎn",
+       "gl": "dissatisfied; discontent",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This summer was especially dry, and during the peak water-use season, the fight over water between the data center and nearby residents became very sharp.",
+   "phrases": [
+    {
+     "en": "This summer was especially dry, and during the peak water-use season, the fight over water between the data center and nearby residents became very sharp.",
+     "words": [
+      {
+       "h": "今年",
+       "py": "jīnnián",
+       "gl": "this year",
+       "pos": "n."
+      },
+      {
+       "h": "夏天",
+       "py": "xiàtiān",
+       "gl": "summer",
+       "pos": "n."
+      },
+      {
+       "h": "特别",
+       "py": "tèbié",
+       "gl": "especially; particularly",
+       "pos": "adv."
+      },
+      {
+       "h": "干",
+       "py": "gān",
+       "gl": "dry; dried",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "到了",
+       "py": "dàole",
+       "gl": "reach; arrive; when it comes to (time); by (到了清朝 by the Qing dynasty)",
+       "pos": "v."
+      },
+      {
+       "h": "用水高峰期",
+       "py": "yòngshuǐ gāofēngqī",
+       "gl": "peak water-use season",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "数据中心",
+       "py": "shùjù zhōngxīn",
+       "gl": "data center",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "周边",
+       "py": "zhōubiān",
+       "gl": "surrounding; nearby",
+       "pos": "adj."
       },
       {
        "h": "居民",
@@ -383,15 +584,109 @@
        "pos": "n."
       },
       {
+       "h": "抢水",
+       "py": "qiǎngshuǐ",
+       "gl": "compete for water",
+       "pos": "v."
+      },
+      {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "不满",
-       "py": "bùmǎn",
-       "gl": "dissatisfaction; discontent",
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "变得",
+       "py": "biàndé",
+       "gl": "become",
+       "pos": "v."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "突出",
+       "py": "tūchū",
+       "gl": "pressing; prominent",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Dad's goji field waited three weeks for water and got none.",
+   "phrases": [
+    {
+     "en": "Dad's goji field waited three weeks for water and got none.",
+     "words": [
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "枸杞",
+       "py": "gǒuqǐ",
+       "gl": "goji berry; wolfberry",
+       "pos": "n."
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "field",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "三个",
+       "py": "sāngè",
+       "gl": "three (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "等到",
+       "py": "děngdào",
+       "gl": "wait until; get to (after waiting)",
+       "pos": "v."
+      },
+      {
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
        "pos": "n."
       },
       {
@@ -402,16 +697,261 @@
    ]
   },
   {
-   "en": "For a problem this big, small water-saving measures often seem like a drop in the bucket.",
+   "en": "He called me, and the first thing he said was: \"Your machines are thirstier than my goji.\"",
    "phrases": [
     {
-     "en": "For a problem this big, small water-saving measures often seem like a drop in the bucket.",
+     "en": "He called me, and the first thing he said was: \"Your machines are thirstier than my goji.\"",
      "words": [
       {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "打电话",
+       "py": "dǎdiànhuà",
+       "gl": "make a phone call; call",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "第一句话",
+       "py": "dìyījùhuà",
+       "gl": "first sentence; first words",
+       "pos": "n."
+      },
+      {
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "just; simply; exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你们",
+       "py": "nǐmen",
+       "gl": "you (plural)",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "机器",
+       "py": "jīqì",
+       "gl": "machine",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "枸杞",
+       "py": "gǒuqǐ",
+       "gl": "goji berry; wolfberry",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "渴",
+       "py": "kě",
+       "gl": "thirsty",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I wanted to explain that our team had already taken many water-saving measures.",
+   "phrases": [
+    {
+     "en": "I wanted to explain that our team had already taken many water-saving measures.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "解释",
+       "py": "jiěshì",
+       "gl": "explain",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "组",
+       "py": "zǔ",
+       "gl": "group; measure word for sets, groups",
+       "pos": "measure word"
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot; much",
+       "pos": "adj."
+      },
+      {
+       "h": "节水",
+       "py": "jiéshuǐ",
+       "gl": "save water; water-saving",
+       "pos": "n."
+      },
+      {
+       "h": "措施",
+       "py": "cuòshī",
+       "gl": "measure; step",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But I knew myself that small water-saving measures often look like a drop in the bucket.",
+   "phrases": [
+    {
+     "en": "But I knew myself that small water-saving measures often look like a drop in the bucket.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
        "h": "一些",
-       "py": "yìxie",
-       "gl": "some; a few",
-       "pos": "num."
+       "py": "yīxiē",
+       "gl": "some; certain",
+       "pos": "pron."
       },
       {
        "h": "小",
@@ -422,56 +962,20 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "节水",
        "py": "jiéshuǐ",
        "gl": "save water; water-saving",
-       "pos": "v."
+       "pos": "n."
       },
       {
        "h": "措施",
        "py": "cuòshī",
        "gl": "measure; step",
        "pos": "n."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "to; toward; correct",
-       "pos": "prep."
-      },
-      {
-       "h": "这么",
-       "py": "zhème",
-       "gl": "so; like this",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem",
-       "pos": "n."
-      },
-      {
-       "h": "来说",
-       "py": "láishuō",
-       "gl": "as for; for (对…来说 for someone)",
-       "pos": "particle"
       },
       {
        "h": "，"
@@ -490,8 +994,8 @@
       },
       {
        "h": "杯水车薪",
-       "py": "bēishuǐchēxīn",
-       "gl": "a drop in the bucket (idiom; lit. a cup of water on a burning cartload of firewood)",
+       "py": "bēi shuǐ chē xīn",
+       "gl": "a cup of water on a burning cartload of firewood",
        "pos": "phrase"
       },
       {
@@ -502,10 +1006,10 @@
    ]
   },
   {
-   "en": "Some data centers in southern China use the naturally cold water of nearby rivers to cool their server rooms, which saves more electricity and water than traditional air conditioning.",
+   "en": "Some data centers in the south use the natural chill of nearby river water to cool their machine rooms, saving more power and water than traditional air-conditioning.",
    "phrases": [
     {
-     "en": "Some data centers in southern China use the naturally cold water of nearby rivers to cool their server rooms,",
+     "en": "Some data centers in the south use the natural chill of nearby river water to cool their machine rooms, saving more power and water than traditional air-conditioning.",
      "words": [
       {
        "h": "南方",
@@ -516,12 +1020,12 @@
       {
        "h": "一些",
        "py": "yīxiē",
-       "gl": "some; a few",
-       "pos": "num."
+       "gl": "some; certain",
+       "pos": "pron."
       },
       {
        "h": "数据中心",
-       "py": "shùjùzhōngxīn",
+       "py": "shùjù zhōngxīn",
        "gl": "data center",
        "pos": "n."
       },
@@ -529,7 +1033,7 @@
        "h": "会",
        "py": "huì",
        "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "直接",
@@ -547,7 +1051,7 @@
        "h": "附近",
        "py": "fùjìn",
        "gl": "nearby; vicinity",
-       "pos": "adj."
+       "pos": "n."
       },
       {
        "h": "江水",
@@ -576,7 +1080,7 @@
       {
        "h": "来",
        "py": "lái",
-       "gl": "(used between a method and a verb: in order to)",
+       "gl": "come; arrive",
        "pos": "v."
       },
       {
@@ -599,12 +1103,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which saves more electricity and water than traditional air conditioning.",
-     "words": [
+      },
       {
        "h": "比",
        "py": "bǐ",
@@ -649,93 +1148,34 @@
    ]
   },
   {
-   "en": "Even so, when summer brings peak water demand, competition for water between data centers and nearby residents still becomes a serious problem.",
+   "en": "But Ningxia has no rivers like that — only my dad's field.",
    "phrases": [
     {
-     "en": "Even so, when summer brings peak water demand,",
+     "en": "But Ningxia has no rivers like that — only my dad's field.",
      "words": [
       {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
        "pos": "conj."
       },
       {
-       "h": "即便如此",
-       "py": "jíbiànrúcǐ",
-       "gl": "even so",
-       "pos": "conj."
+       "h": "宁夏",
+       "py": "Níngxià",
+       "gl": "Ningxia",
+       "pos": "proper noun"
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "arrive; come (到了夏天 when summer comes)",
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "夏天",
-       "py": "xiàtiān",
-       "gl": "summer",
-       "pos": "n."
-      },
-      {
-       "h": "用水",
-       "py": "yòngshuǐ",
-       "gl": "water use",
-       "pos": "n."
-      },
-      {
-       "h": "高峰期",
-       "py": "gāofēngqī",
-       "gl": "rush hour; peak period",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "competition for water between data centers and nearby residents still becomes a serious problem.",
-     "words": [
-      {
-       "h": "数据中心",
-       "py": "shùjùzhōngxīn",
-       "gl": "data center",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "周边",
-       "py": "zhōubiān",
-       "gl": "surrounding; nearby",
-       "pos": "adj."
-      },
-      {
-       "h": "居民",
-       "py": "jūmín",
-       "gl": "resident; inhabitant",
-       "pos": "n."
-      },
-      {
-       "h": "抢水",
-       "py": "qiǎngshuǐ",
-       "gl": "compete for water",
-       "pos": "v."
+       "h": "那样",
+       "py": "nàyàng",
+       "gl": "that way; like that",
+       "pos": "pron."
       },
       {
        "h": "的",
@@ -744,34 +1184,310 @@
        "pos": "particle"
       },
       {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
+       "h": "江水",
+       "py": "jiāngshuǐ",
+       "gl": "river water",
        "pos": "n."
       },
       {
-       "h": "还是",
-       "py": "háishì",
-       "gl": "still; nevertheless; after all",
-       "pos": "adv."
+       "h": "，"
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "变得",
-       "py": "biàndé",
-       "gl": "become",
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
        "pos": "v."
       },
       {
-       "h": "突出",
-       "py": "tūchū",
-       "gl": "prominent; serious (of a problem); outstanding",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "field",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That weekend I went home to help him water the field, carrying water one bucket after another.",
+   "phrases": [
+    {
+     "en": "That weekend I went home to help him water the field, carrying water one bucket after another.",
+     "words": [
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "帮",
+       "py": "bāng",
+       "gl": "help",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "浇",
+       "py": "jiāo",
+       "gl": "pour over; water",
+       "pos": "v."
+      },
+      {
+       "h": "地",
+       "py": "dì",
+       "gl": "field",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "桶",
+       "py": "tǒng",
+       "gl": "bucket; pail; measure word for buckets",
+       "pos": "measure word"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "桶",
+       "py": "tǒng",
+       "gl": "bucket; pail; measure word for buckets",
+       "pos": "measure word"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "提水",
+       "py": "tíshuǐ",
+       "gl": "lift water (pump it uphill)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He looked at me and said, \"This is a drop in the bucket too.\"",
+   "phrases": [
+    {
+     "en": "He looked at me and said, \"This is a drop in the bucket too.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "也是",
+       "py": "yěshì",
+       "gl": "also; too",
+       "pos": "conj."
+      },
+      {
+       "h": "杯水车薪",
+       "py": "bēi shuǐ chē xīn",
+       "gl": "a cup of water on a burning cartload of firewood",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I said, \"I know,\" and picked up the next bucket.",
+   "phrases": [
+    {
+     "en": "I said, \"I know,\" and picked up the next bucket.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "然后",
+       "py": "ránhòu",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "提起",
+       "py": "tíqǐ",
+       "gl": "file (a lawsuit); raise",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "next; below; down",
        "pos": "adj."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "桶",
+       "py": "tǒng",
+       "gl": "bucket; pail; measure word for buckets",
+       "pos": "measure word"
       },
       {
        "h": "。"

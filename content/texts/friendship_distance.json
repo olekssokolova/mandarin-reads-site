@@ -1,17 +1,17 @@
 {
  "id": "friendship_distance",
  "level": 4,
- "title_zh": "异地的友谊",
- "title_en": "Long-Distance Friendship",
+ "title_zh": "三个星期没有点赞",
+ "title_en": "Three Weeks Without a Like",
  "free": false,
  "audio_url": null,
- "note_en": "不在于A，而在于B means \"it's not about A, it's about B\": 真正的友谊不在于见面的次数，而在于彼此是否真心 \"true friendship isn't about how often you meet, but about whether you're sincere with each other.\" 在于 means \"lies in,\" and 而 links the contrast, like English \"but rather.\"",
+ "note_en": "The pair 即使……也…… (\"even if…, still…\") shows that the condition doesn't change the result: 即使很久不联系，我们一见面也还是像以前一样有聊不完的话 — \"even if we haven't been in touch for a long time, when we meet we still have endless things to talk about, just like before.\" It's close to 哪怕……也…… but sounds a little more formal.",
  "sentences": [
   {
-   "en": "After graduating from college, my best friend moved to another city for work.",
+   "en": "After college, my best friend A-Qing moved to Chengdu for work.",
    "phrases": [
     {
-     "en": "My best friend",
+     "en": "After college, my best friend A-Qing moved to Chengdu for work.",
      "words": [
       {
        "h": "我",
@@ -20,21 +20,15 @@
        "pos": "pron."
       },
       {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
+       "h": "最好",
+       "py": "zuìhǎo",
+       "gl": "had better; it's best to",
        "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -42,12 +36,16 @@
        "py": "péngyou",
        "gl": "friend",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "after graduating from college",
-     "words": [
+      },
+      {
+       "h": "阿晴",
+       "py": "Ā Qíng",
+       "gl": "A-Qing",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "大学",
        "py": "dàxué",
@@ -63,18 +61,13 @@
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
-      }
-     ]
-    },
-    {
-     "en": "moved to another city for work.",
-     "words": [
+      },
       {
        "h": "去",
        "py": "qù",
-       "gl": "go",
+       "gl": "go (to)",
        "pos": "v."
       },
       {
@@ -84,28 +77,10 @@
        "pos": "particle"
       },
       {
-       "h": "另",
-       "py": "lìng",
-       "gl": "another; other",
-       "pos": "pron."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
+       "h": "成都",
+       "py": "Chéngdū",
+       "gl": "Chengdu",
+       "pos": "proper noun"
       },
       {
        "h": "工作",
@@ -121,10 +96,10 @@
    ]
   },
   {
-   "en": "We get fewer and fewer chances to see each other; sometimes we only meet once a year.",
+   "en": "We get fewer and fewer chances to see each other; sometimes only once a year.",
    "phrases": [
     {
-     "en": "We get fewer and fewer chances to see each other; sometimes we only meet once a year.",
+     "en": "We get fewer and fewer chances to see each other; sometimes only once a year.",
      "words": [
       {
        "h": "我们",
@@ -141,7 +116,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -151,72 +126,48 @@
        "pos": "n."
       },
       {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "少",
-       "py": "shǎo",
-       "gl": "few; little; less",
-       "pos": "adj."
+       "h": "越来越少",
+       "py": "yuèláiyuèshǎo",
+       "gl": "fewer and fewer",
+       "pos": "phrase"
       },
       {
        "h": "，"
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
+       "h": "有时候",
+       "py": "yǒushíhòu",
+       "gl": "sometimes",
+       "pos": "adv."
       },
       {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "一年",
+       "py": "yīnián",
+       "gl": "one year; a year",
        "pos": "n."
       },
       {
        "h": "才",
        "py": "cái",
-       "gl": "only; only then; not until",
+       "gl": "only then; not until",
        "pos": "adv."
       },
       {
        "h": "见",
        "py": "jiàn",
-       "gl": "see; meet (不见了 \"disappeared\")",
+       "gl": "see; meet",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
+       "h": "一次",
+       "py": "yīcì",
+       "gl": "once; in one go; at the first attempt",
        "pos": "measure word"
       },
       {
        "h": "面",
        "py": "miàn",
-       "gl": "face (见一面 meet once); noodles; flour",
+       "gl": "noodles",
        "pos": "n."
       },
       {
@@ -227,31 +178,20 @@
    ]
   },
   {
-   "en": "At first, I was really worried that the distance would make our friendship fade.",
+   "en": "At first I worried a lot that the distance would make our friendship fade.",
    "phrases": [
     {
-     "en": "At first,",
+     "en": "At first I worried a lot that the distance would make our friendship fade.",
      "words": [
       {
-       "h": "刚",
-       "py": "gāng",
-       "gl": "just (now); only just",
+       "h": "刚开始",
+       "py": "gāngkāishǐ",
+       "gl": "at first; in the beginning",
        "pos": "adv."
       },
       {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
-       "pos": "v."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I was really worried",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -275,22 +215,17 @@
        "py": "jùlí",
        "gl": "distance",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "that the distance would make our friendship fade.",
-     "words": [
+      },
       {
        "h": "会",
        "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
       },
       {
        "h": "让",
        "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
@@ -302,7 +237,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -312,16 +247,10 @@
        "pos": "n."
       },
       {
-       "h": "变",
-       "py": "biàn",
-       "gl": "change; become",
+       "h": "变淡",
+       "py": "biàndàn",
+       "gl": "to fade",
        "pos": "v."
-      },
-      {
-       "h": "淡",
-       "py": "dàn",
-       "gl": "fade; weaken (of feelings); weak; light",
-       "pos": "adj."
       },
       {
        "h": "。"
@@ -331,10 +260,10 @@
    ]
   },
   {
-   "en": "But even when we haven't been in touch for a long time, the moment we meet we still have endless things to talk about, just like before.",
+   "en": "But even if we haven't been in touch for a long time, when we meet we still have endless things to talk about, just like before.",
    "phrases": [
     {
-     "en": "But even when we haven't been in touch for a long time, the moment we meet we still have endless things to talk about, just like before.",
+     "en": "But even if we haven't been in touch for a long time, when we meet we still have endless things to talk about, just like before.",
      "words": [
       {
        "h": "但是",
@@ -349,15 +278,9 @@
        "pos": "conj."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "久",
-       "py": "jiǔ",
-       "gl": "long (time); for a long time",
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
        "pos": "adv."
       },
       {
@@ -369,8 +292,8 @@
       {
        "h": "联系",
        "py": "liánxì",
-       "gl": "connection; contact; get in touch",
-       "pos": "v."
+       "gl": "connection; link",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -396,14 +319,14 @@
       {
        "h": "也",
        "py": "yě",
-       "gl": "also; too",
+       "gl": "also; too; (with negation) even",
        "pos": "adv."
       },
       {
        "h": "还是",
        "py": "háishì",
-       "gl": "or (in questions)",
-       "pos": "conj."
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
       },
       {
        "h": "像",
@@ -419,38 +342,26 @@
       },
       {
        "h": "一样",
-       "py": "yíyàng",
-       "gl": "same; alike",
+       "py": "yīyàng",
+       "gl": "same; identical",
        "pos": "adj."
       },
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
        "pos": "v."
       },
       {
-       "h": "聊",
-       "py": "liáo",
-       "gl": "chat; talk (about)",
-       "pos": "v."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "完",
-       "py": "wán",
-       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "h": "聊不完",
+       "py": "liáo bu wán",
+       "gl": "endless things to talk about",
        "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -467,140 +378,10 @@
    ]
   },
   {
-   "en": "I gradually came to understand that true friendship isn't about how often you see each other, but about whether you're sincere with each other.",
+   "en": "We don't video-call often, but we like and comment on each other's WeChat Moments.",
    "phrases": [
     {
-     "en": "I gradually",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "渐渐",
-       "py": "jiànjiàn",
-       "gl": "gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "明白",
-       "py": "míngbai",
-       "gl": "understand; realize; clear",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "came to understand that",
-     "words": [
-      {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "real; true; genuine",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "友谊",
-       "py": "yǒuyì",
-       "gl": "friendship",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "true friendship isn't about how often you see each other,",
-     "words": [
-      {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "在于",
-       "py": "zàiyú",
-       "gl": "lie in; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "见面",
-       "py": "jiànmiàn",
-       "gl": "meet; see each other",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "次数",
-       "py": "cìshù",
-       "gl": "number of times",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but about whether you're sincere with each other.",
-     "words": [
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "conjunction: and; but; (而不是 rather than)",
-       "pos": "conj."
-      },
-      {
-       "h": "在于",
-       "py": "zàiyú",
-       "gl": "lie in; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "彼此",
-       "py": "bǐcǐ",
-       "gl": "each other",
-       "pos": "pron."
-      },
-      {
-       "h": "是否",
-       "py": "shìfǒu",
-       "gl": "whether; if",
-       "pos": "conj."
-      },
-      {
-       "h": "真心",
-       "py": "zhēnxīn",
-       "gl": "sincere; sincerely",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Even when we don't video chat often, we like and comment on each other's posts on WeChat Moments, and these little interactions are another way to keep our friendship going.",
-   "phrases": [
-    {
-     "en": "Even when we don't video chat often, we like and comment on each other's posts on WeChat Moments;",
+     "en": "We don't video-call often, but we like and comment on each other's WeChat Moments.",
      "words": [
       {
        "h": "虽然",
@@ -645,17 +426,17 @@
        "h": "会",
        "py": "huì",
        "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
        "h": "朋友圈",
-       "py": "péngyǒuquān",
+       "py": "péngyouquān",
        "gl": "WeChat Moments",
        "pos": "n."
       },
@@ -667,9 +448,12 @@
       },
       {
        "h": "点赞",
-       "py": "diǎnzàn",
-       "gl": "like (a post); give a like",
+       "py": "diǎn zàn",
+       "gl": "to like (a post)",
        "pos": "v."
+      },
+      {
+       "h": "、"
       },
       {
        "h": "评论",
@@ -678,12 +462,17 @@
        "pos": "v."
       },
       {
-       "h": "，"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "This kind of small interaction is one way to keep a bond alive too.",
+   "phrases": [
     {
-     "en": "these little interactions are another way to keep our friendship going.",
+     "en": "This kind of small interaction is one way to keep a bond alive too.",
      "words": [
       {
        "h": "这种",
@@ -710,27 +499,24 @@
        "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
+       "h": "，"
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
+       "h": "也是",
+       "py": "yěshì",
+       "gl": "also; too",
+       "pos": "conj."
       },
       {
        "h": "维系",
        "py": "wéixì",
-       "gl": "maintain; keep up",
+       "gl": "to maintain (a bond)",
        "pos": "v."
       },
       {
        "h": "感情",
        "py": "gǎnqíng",
-       "gl": "feelings; emotional bond; relationship",
+       "gl": "feeling; emotion",
        "pos": "n."
       },
       {
@@ -740,21 +526,1072 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "一种",
+       "py": "yīzhǒng",
+       "gl": "a kind of; a type of",
        "pos": "num."
-      },
-      {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "kind; type (measure word)",
-       "pos": "measure word"
       },
       {
        "h": "方式",
        "py": "fāngshì",
        "gl": "way; method",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Whatever I posted, she was always the first to like it, even if it was just a photo of my lunch.",
+   "phrases": [
+    {
+     "en": "Whatever I posted, she was always the first to like it, even if it was just a photo of my lunch.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "post (on social media)",
+       "pos": "v."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "都是",
+       "py": "dōushì",
+       "gl": "all are; are all",
+       "pos": "v."
+      },
+      {
+       "h": "第一个",
+       "py": "dìyígè",
+       "gl": "the first",
+       "pos": "num."
+      },
+      {
+       "h": "点赞",
+       "py": "diǎn zàn",
+       "gl": "to like (a post)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "哪怕是",
+       "py": "nǎpàshì",
+       "gl": "even if; even",
+       "pos": "conj."
+      },
+      {
+       "h": "一张",
+       "py": "yīzhāng",
+       "gl": "a; one (measure word for flat objects: sheets, photos, discs)",
+       "pos": "num."
+      },
+      {
+       "h": "午饭",
+       "py": "wǔfàn",
+       "gl": "lunch",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But this spring, for three whole weeks, she didn't give me a single like.",
+   "phrases": [
+    {
+     "en": "But this spring, for three whole weeks, she didn't give me a single like.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "今年",
+       "py": "jīnnián",
+       "gl": "this year",
+       "pos": "n."
+      },
+      {
+       "h": "春天",
+       "py": "chūntiān",
+       "gl": "spring (season)",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "整整",
+       "py": "zhěngzhěng",
+       "gl": "whole; full; a full ...",
+       "pos": "adv."
+      },
+      {
+       "h": "三个",
+       "py": "sāngè",
+       "gl": "three (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "to give (a like)",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "一次",
+       "py": "yīcì",
+       "gl": "once; in one go; at the first attempt",
+       "pos": "measure word"
+      },
+      {
+       "h": "赞",
+       "py": "zàn",
+       "gl": "like (on social media); praise",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At first I was angry, then I began to wonder: had she made new friends in Chengdu and no longer needed me?",
+   "phrases": [
+    {
+     "en": "At first I was angry, then I began to wonder: had she made new friends in Chengdu and no longer needed me?",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "先是",
+       "py": "xiānshì",
+       "gl": "first; at first",
+       "pos": "adv."
+      },
+      {
+       "h": "生气",
+       "py": "shēngqì",
+       "gl": "get angry; angry",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "然后",
+       "py": "ránhòu",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "beginning; at first",
+       "pos": "n."
+      },
+      {
+       "h": "怀疑",
+       "py": "huáiyí",
+       "gl": "doubt; suspect",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "是不是",
+       "py": "shìbúshì",
+       "gl": "isn't it?; right? (tag question); whether (or not)",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "成都",
+       "py": "Chéngdū",
+       "gl": "Chengdu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "有了",
+       "py": "yǒule",
+       "gl": "have; there is (now); come to have",
+       "pos": "v."
+      },
+      {
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adj."
+      },
+      {
+       "h": "朋友",
+       "py": "péngyǒu",
+       "gl": "friend",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "不需要",
+       "py": "bùxūyào",
+       "gl": "not need; no need to",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I deliberately stopped liking her posts too and counted the days to myself.",
+   "phrases": [
+    {
+     "en": "I deliberately stopped liking her posts too and counted the days to myself.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "故意",
+       "py": "gùyì",
+       "gl": "deliberately; on purpose",
+       "pos": "adv."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "点赞",
+       "py": "diǎn zàn",
+       "gl": "to like (a post)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "心里",
+       "py": "xīnli",
+       "gl": "in one's heart; inside",
+       "pos": "n."
+      },
+      {
+       "h": "数",
+       "py": "shǔ",
+       "gl": "count",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "日子",
+       "py": "rìzi",
+       "gl": "life; days",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Until one evening she called me and didn't say anything for a long time.",
+   "phrases": [
+    {
+     "en": "Until one evening she called me and didn't say anything for a long time.",
+     "words": [
+      {
+       "h": "直到",
+       "py": "zhídào",
+       "gl": "until; up to",
+       "pos": "conj."
+      },
+      {
+       "h": "有一天",
+       "py": "yǒuyītiān",
+       "gl": "one day",
+       "pos": "adv."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "hit; play (ball games); make (a phone call)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "电话",
+       "py": "diànhuà",
+       "gl": "phone; phone call",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Then she finally told me her mom was in the hospital, and for those three weeks she'd been running between the hospital and work every day.",
+   "phrases": [
+    {
+     "en": "Then she finally told me her mom was in the hospital, and for those three weeks she'd been running between the hospital and work every day.",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "生病",
+       "py": "shēngbìng",
+       "gl": "get sick; fall ill",
+       "pos": "v."
+      },
+      {
+       "h": "住院",
+       "py": "zhùyuàn",
+       "gl": "be hospitalized",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "三个",
+       "py": "sāngè",
+       "gl": "three (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "医院",
+       "py": "yīyuàn",
+       "gl": "hospital",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company; office (work)",
+       "pos": "n."
+      },
+      {
+       "h": "之间",
+       "py": "zhījiān",
+       "gl": "between; among",
+       "pos": "postposition"
+      },
+      {
+       "h": "跑",
+       "py": "pǎo",
+       "gl": "run",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Holding the phone, I suddenly felt how ridiculous those evenings of counting days had been.",
+   "phrases": [
+    {
+     "en": "Holding the phone, I suddenly felt how ridiculous those evenings of counting days had been.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "那些",
+       "py": "nàxiē",
+       "gl": "those",
+       "pos": "pron."
+      },
+      {
+       "h": "数",
+       "py": "shǔ",
+       "gl": "count",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "日子",
+       "py": "rìzi",
+       "gl": "life; days",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "特别",
+       "py": "tèbié",
+       "gl": "especially; particularly",
+       "pos": "adv."
+      },
+      {
+       "h": "可笑",
+       "py": "kěxiào",
+       "gl": "ridiculous",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Little by little I understood: true friendship isn't about how often you meet, or how many likes you give, but whether you are sincere with each other.",
+   "phrases": [
+    {
+     "en": "Little by little I understood: true friendship isn't about how often you meet, or how many likes you give, but whether you are sincere with each other.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "渐渐",
+       "py": "jiànjiàn",
+       "gl": "gradually",
+       "pos": "adv."
+      },
+      {
+       "h": "明白",
+       "py": "míngbái",
+       "gl": "understand; realize",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "真正",
+       "py": "zhēnzhèng",
+       "gl": "truly; really",
+       "pos": "adv."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "友谊",
+       "py": "yǒuyì",
+       "gl": "friendship",
+       "pos": "n."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "在于",
+       "py": "zàiyú",
+       "gl": "lie in; consist in",
+       "pos": "v."
+      },
+      {
+       "h": "见面",
+       "py": "jiànmiàn",
+       "gl": "meet; see each other",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "次数",
+       "py": "cìshù",
+       "gl": "number of times",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "在于",
+       "py": "zàiyú",
+       "gl": "lie in; consist in",
+       "pos": "v."
+      },
+      {
+       "h": "点赞",
+       "py": "diǎn zàn",
+       "gl": "to like (a post)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "次数",
+       "py": "cìshù",
+       "gl": "number of times",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "而",
+       "py": "ér",
+       "gl": "but; whereas; and",
+       "pos": "conj."
+      },
+      {
+       "h": "在于",
+       "py": "zàiyú",
+       "gl": "lie in; consist in",
+       "pos": "v."
+      },
+      {
+       "h": "彼此",
+       "py": "bǐcǐ",
+       "gl": "each other",
+       "pos": "pron."
+      },
+      {
+       "h": "是否",
+       "py": "shìfǒu",
+       "gl": "whether; if",
+       "pos": "conj."
+      },
+      {
+       "h": "真心",
+       "py": "zhēnxīn",
+       "gl": "sincere; sincerely",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After hanging up, I bought a high-speed train ticket to Chengdu for the next morning.",
+   "phrases": [
+    {
+     "en": "After hanging up, I bought a high-speed train ticket to Chengdu for the next morning.",
+     "words": [
+      {
+       "h": "挂",
+       "py": "guà",
+       "gl": "hang up (the phone)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "电话",
+       "py": "diànhuà",
+       "gl": "phone; phone call",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "第二天",
+       "py": "dìèrtiān",
+       "gl": "the next day",
+       "pos": "n."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "成都",
+       "py": "Chéngdū",
+       "gl": "Chengdu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "高铁票",
+       "py": "gāotiěpiào",
+       "gl": "high-speed rail ticket",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This time I didn't post anything on WeChat Moments.",
+   "phrases": [
+    {
+     "en": "This time I didn't post anything on WeChat Moments.",
+     "words": [
+      {
+       "h": "这一次",
+       "py": "zhèyīcì",
+       "gl": "this time",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "post (on social media)",
+       "pos": "v."
+      },
+      {
+       "h": "朋友圈",
+       "py": "péngyouquān",
+       "gl": "WeChat Moments",
        "pos": "n."
       },
       {

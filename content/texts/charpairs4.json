@@ -1,41 +1,438 @@
 {
  "id": "charpairs4",
  "level": 4,
- "title_zh": "形近字的陷阱",
- "title_en": "Look-Alike Character Traps",
+ "title_zh": "辫子",
+ "title_en": "The Braid",
  "free": false,
  "audio_url": null,
- "note_en": "分别 (fēnbié) means \"respectively\": it matches a list of items one by one to a second list. 还有“辨”、“辩”、“辫”，分别跟“分辨”、“辩论”、“辫子”有关 \"There are also 辨, 辩 and 辫, which are related to 'distinguish,' 'debate' and 'braid' respectively.\" English puts \"respectively\" at the end; Chinese puts 分别 before the verb.",
+ "note_en": "The phrase 一字之差 (\"a difference of one character\") stresses how little it takes to change the meaning: 一字之差，意思完全不一样. Characters similar in shape are especially tricky: 辫 (braid), 辩 (argue), and 辨 (distinguish) differ only in the middle part — a \"silk thread,\" \"speech,\" or two dots.",
  "sentences": [
   {
-   "en": "Chinese has lots of characters that differ by just a tiny bit but mean completely different things.",
+   "en": "Until she was twelve, Lin Duo's dad braided her hair every morning.",
    "phrases": [
     {
-     "en": "Chinese has lots of characters that differ by just a tiny bit but mean completely different things.",
+     "en": "Until she was twelve, Lin Duo's dad braided her hair every morning.",
      "words": [
       {
-       "h": "汉语",
-       "py": "hànyǔ",
-       "gl": "Chinese (language)",
-       "pos": "n."
+       "h": "十二",
+       "py": "shíèr",
+       "gl": "twelve",
+       "pos": "num."
       },
       {
-       "h": "里",
-       "py": "li",
-       "gl": "in; inside",
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
        "pos": "postposition"
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "，"
+      },
+      {
+       "h": "每天早上",
+       "py": "měitiānzǎoshàng",
+       "gl": "every morning",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "都是",
+       "py": "dōushì",
+       "gl": "all are; are all",
        "pos": "v."
       },
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "林朵",
+       "py": "Lín Duǒ",
+       "gl": "Lin Duo",
+       "pos": "proper noun"
+      },
+      {
+       "h": "编",
+       "py": "biān",
+       "gl": "make up (a story); compile; write",
+       "pos": "v."
+      },
+      {
+       "h": "辫子",
+       "py": "biànzi",
+       "gl": "braid; plait; pigtail",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Mom left early for work, and Dad's braids always came out crooked; every time he said, \"It'll be better tomorrow.\"",
+   "phrases": [
+    {
+     "en": "Mom left early for work, and Dad's braids always came out crooked; every time he said, \"It'll be better tomorrow.\"",
+     "words": [
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "很早",
+       "py": "hěnzǎo",
+       "gl": "very early; long ago",
+       "pos": "adv."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "上班",
+       "py": "shàngbān",
+       "gl": "go to work; work",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "编",
+       "py": "biān",
+       "gl": "make up (a story); compile; write",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "歪歪的",
+       "py": "wāiwāi de",
+       "gl": "a bit crooked",
        "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "adv."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "明天",
+       "py": "míngtiān",
+       "gl": "tomorrow",
+       "pos": "n."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "更好",
+       "py": "gènghǎo",
+       "gl": "better",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In her first year of college, already in Shanghai, she cut her hair short for the first time.",
+   "phrases": [
+    {
+     "en": "In her first year of college, already in Shanghai, she cut her hair short for the first time.",
+     "words": [
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "大学",
+       "py": "dàxué",
+       "gl": "university; college",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "第一年",
+       "py": "dìyīnián",
+       "gl": "the first year",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "上海",
+       "py": "shànghǎi",
+       "gl": "Shanghai",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "剪",
+       "py": "jiǎn",
+       "gl": "to cut",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "短发",
+       "py": "duǎnfà",
+       "gl": "short hair",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She took a photo and texted her dad: \"I cut off my braid.\"",
+   "phrases": [
+    {
+     "en": "She took a photo and texted her dad: \"I cut off my braid.\"",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "拍",
+       "py": "pāi",
+       "gl": "take (a photo); shoot (a video); pat; clap",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一张",
+       "py": "yīzhāng",
+       "gl": "a; one (measure word for flat objects: sheets, photos, discs)",
+       "pos": "num."
+      },
+      {
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "发消息",
+       "py": "fāxiāoxī",
+       "gl": "send a message; text",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "辫子",
+       "py": "biànzi",
+       "gl": "braid; plait; pigtail",
+       "pos": "n."
+      },
+      {
+       "h": "剪",
+       "py": "jiǎn",
+       "gl": "to cut",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But the input method picked the character itself, and it came out as: \"I cut off the argument.\"",
+   "phrases": [
+    {
+     "en": "But the input method picked the character itself, and it came out as: \"I cut off the argument.\"",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "输入法",
+       "py": "shūrùfǎ",
+       "gl": "input method (for typing Chinese)",
+       "pos": "n."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "选",
+       "py": "xuǎn",
+       "gl": "choose; pick",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "字",
@@ -44,16 +441,234 @@
        "pos": "n."
       },
       {
+       "h": "，"
+      },
+      {
+       "h": "变成",
+       "py": "biànchéng",
+       "gl": "turn into; become",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
        "h": "“"
       },
       {
-       "h": "一字之差",
-       "py": "yízìzhīchà",
-       "gl": "a difference of one character (idiom)",
-       "pos": "phrase"
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "辩",
+       "py": "biàn",
+       "gl": "to argue (character)",
+       "pos": "v."
+      },
+      {
+       "h": "子",
+       "py": "zi",
+       "gl": "(noun suffix)",
+       "pos": "n."
+      },
+      {
+       "h": "剪",
+       "py": "jiǎn",
+       "gl": "to cut",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
       },
       {
        "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Dad didn't reply for a long time, then asked, \"Who did you argue with? What happened?\"",
+   "phrases": [
+    {
+     "en": "Dad didn't reply for a long time, then asked, \"Who did you argue with? What happened?\"",
+     "words": [
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "return; go back; reply",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "谁",
+       "py": "shuí",
+       "gl": "who; anyone; everyone",
+       "pos": "pron."
+      },
+      {
+       "h": "辩论",
+       "py": "biànlùn",
+       "gl": "debate",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "出",
+       "py": "chū",
+       "gl": "have (an accident); happen",
+       "pos": "v."
+      },
+      {
+       "h": "什么事",
+       "py": "shénmeshì",
+       "gl": "anything; whatever (it is)",
+       "pos": "pron."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lin Duo looked at the screen and burst out laughing: one character's difference, and a completely different meaning.",
+   "phrases": [
+    {
+     "en": "Lin Duo looked at the screen and burst out laughing: one character's difference, and a completely different meaning.",
+     "words": [
+      {
+       "h": "林朵",
+       "py": "Lín Duǒ",
+       "gl": "Lin Duo",
+       "pos": "proper noun"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "一字之差",
+       "py": "yí zì zhī chā",
+       "gl": "a difference of one character (idiom)",
+       "pos": "phrase"
       },
       {
        "h": "，"
@@ -65,16 +680,16 @@
        "pos": "n."
       },
       {
-       "h": "却",
-       "py": "què",
-       "gl": "but; yet (contrast)",
-       "pos": "adv."
+       "h": "完全不",
+       "py": "wánquánbù",
+       "gl": "not at all",
+       "pos": "phrase"
       },
       {
-       "h": "天差地别",
-       "py": "tiānchàdìbié",
-       "gl": "worlds apart (idiom)",
-       "pos": "phrase"
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
       },
       {
        "h": "。"
@@ -84,16 +699,264 @@
    ]
   },
   {
-   "en": "For example, 戊, 戌 and 戍: these three characters look almost exactly the same.",
+   "en": "辫, 辩, and 辨 look alike, like three sisters — only the middle part differs.",
    "phrases": [
     {
-     "en": "For example, 戊, 戌 and 戍: these three characters look almost exactly the same.",
+     "en": "辫, 辩, and 辨 look alike, like three sisters — only the middle part differs.",
      "words": [
       {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
+       "h": "“"
+      },
+      {
+       "h": "辫",
+       "py": "biàn",
+       "gl": "braid (character)",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "辩",
+       "py": "biàn",
+       "gl": "to argue (character)",
+       "pos": "v."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "辨",
+       "py": "biàn",
+       "gl": "to distinguish (character)",
+       "pos": "v."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "长得",
+       "py": "zhǎngde",
+       "gl": "look (like)",
+       "pos": "v."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "姐妹",
+       "py": "jiěmèi",
+       "gl": "sisters",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
+      },
+      {
+       "h": "中间",
+       "py": "zhōngjiān",
+       "gl": "middle; in the middle",
+       "pos": "n."
+      },
+      {
+       "h": "不一样",
+       "py": "bùyíyàng",
+       "gl": "different; not the same",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A thread in the middle is a braid, \"speech\" is an argument, and two dots mean to distinguish.",
+   "phrases": [
+    {
+     "en": "A thread in the middle is a braid, \"speech\" is an argument, and two dots mean to distinguish.",
+     "words": [
+      {
+       "h": "中间",
+       "py": "zhōngjiān",
+       "gl": "middle; in the middle",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "丝",
+       "py": "sī",
+       "gl": "thin strip; shred; silk thread",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "辫子",
+       "py": "biànzi",
+       "gl": "braid; plait; pigtail",
+       "pos": "n."
+      },
+      {
+       "h": "；"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "言",
+       "py": "yán",
+       "gl": "words; speech",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "辩论",
+       "py": "biànlùn",
+       "gl": "debate",
+       "pos": "n."
+      },
+      {
+       "h": "；"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "分辨",
+       "py": "fēnbiàn",
+       "gl": "distinguish; tell apart",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "There are even harder ones: 戊, 戌, and 戍 — even many Chinese people mix them up.",
+   "phrases": [
+    {
+     "en": "There are even harder ones: 戊, 戌, and 戍 — even many Chinese people mix them up.",
+     "words": [
+      {
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
        "pos": "conj."
+      },
+      {
+       "h": "更难",
+       "py": "gèngnán",
+       "gl": "harder; more difficult",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "："
       },
       {
        "h": "“"
@@ -101,7 +964,7 @@
       {
        "h": "戊",
        "py": "wù",
-       "gl": "wu (5th Heavenly Stem)",
+       "gl": "wu (cyclical sign)",
        "pos": "n."
       },
       {
@@ -116,7 +979,7 @@
       {
        "h": "戌",
        "py": "xū",
-       "gl": "xu (11th Earthly Branch)",
+       "gl": "xu (cyclical sign)",
        "pos": "n."
       },
       {
@@ -131,7 +994,7 @@
       {
        "h": "戍",
        "py": "shù",
-       "gl": "guard the border; garrison",
+       "gl": "shu \"to guard the border\"",
        "pos": "v."
       },
       {
@@ -141,155 +1004,34 @@
        "h": "，"
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "字",
-       "py": "zì",
-       "gl": "character (Chinese); written character",
-       "pos": "n."
-      },
-      {
-       "h": "长",
-       "py": "cháng",
-       "gl": "long",
-       "pos": "adj."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
-      },
-      {
-       "h": "几乎",
-       "py": "jīhū",
-       "gl": "almost; nearly",
-       "pos": "adv."
-      },
-      {
-       "h": "一样",
-       "py": "yíyàng",
-       "gl": "same; alike",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Even many native Chinese speakers often can't tell these three apart.",
-   "phrases": [
-    {
-     "en": "Even many native Chinese speakers often can't tell these three apart.",
-     "words": [
-      {
        "h": "很多",
        "py": "hěnduō",
-       "gl": "many; a lot; much",
+       "gl": "many; a lot of",
        "pos": "adj."
       },
       {
-       "h": "母语",
-       "py": "mǔyǔ",
-       "gl": "native language; mother tongue",
+       "h": "中国人",
+       "py": "zhōngguórén",
+       "gl": "Chinese person; the Chinese",
        "pos": "n."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "汉语",
-       "py": "hànyǔ",
-       "gl": "Chinese (language)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
       },
       {
        "h": "也",
        "py": "yě",
-       "gl": "also; too",
+       "gl": "also; too; (with negation) even",
        "pos": "adv."
       },
       {
-       "h": "常常",
-       "py": "chángcháng",
-       "gl": "often",
-       "pos": "adv."
-      },
-      {
-       "h": "分",
-       "py": "fēn",
-       "gl": "divide; sort; separate; point (score)",
-       "pos": "n."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "清楚",
-       "py": "qīngchu",
-       "gl": "clear; clearly",
-       "pos": "adj."
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "字",
-       "py": "zì",
-       "gl": "character (Chinese); written character",
-       "pos": "n."
+       "h": "分不清",
+       "py": "fēnbùqīng",
+       "gl": "can't tell apart; confuse",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -299,261 +1041,61 @@
    ]
   },
   {
-   "en": "There are also 辨, 辩 and 辫, which are related to fenbian (\"distinguish\"), bianlun (\"debate\") and bianzi (\"braid\") respectively.",
+   "en": "She called her dad and explained everything, and he laughed so hard she had to hold the phone away from her ear.",
    "phrases": [
     {
-     "en": "There are also 辨, 辩 and 辫, which are related to fenbian (\"distinguish\"), bianlun (\"debate\") and bianzi (\"braid\") respectively.",
+     "en": "She called her dad and explained everything, and he laughed so hard she had to hold the phone away from her ear.",
      "words": [
       {
-       "h": "还有",
-       "py": "háiyǒu",
-       "gl": "and also; in addition; there is also",
-       "pos": "conj."
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
-       "h": "“"
-      },
-      {
-       "h": "辨",
-       "py": "biàn",
-       "gl": "distinguish; tell apart",
-       "pos": "v."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "辩",
-       "py": "biàn",
-       "gl": "argue; debate",
-       "pos": "v."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "辫",
-       "py": "biàn",
-       "gl": "braid; plait",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "分别",
-       "py": "fēnbié",
-       "gl": "respectively; separately",
-       "pos": "adv."
-      },
-      {
-       "h": "跟",
-       "py": "gēn",
-       "gl": "with; together with",
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
        "pos": "prep."
       },
       {
-       "h": "“"
-      },
-      {
-       "h": "分辨",
-       "py": "fēnbiàn",
-       "gl": "distinguish; tell apart",
-       "pos": "v."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "辩论",
-       "py": "biànlùn",
-       "gl": "debate",
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
        "pos": "n."
       },
       {
-       "h": "”"
+       "h": "打电话",
+       "py": "dǎdiànhuà",
+       "gl": "make a phone call; call",
+       "pos": "phrase"
       },
       {
-       "h": "、"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "辫子",
-       "py": "biànzi",
-       "gl": "braid; plait; pigtail",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "解释",
+       "py": "jiěshì",
+       "gl": "explain",
        "pos": "v."
-      },
-      {
-       "h": "关",
-       "py": "guān",
-       "gl": "turn off; close",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "When I learn characters like these, I always take special notes and memorize them side by side.",
-   "phrases": [
-    {
-     "en": "When I learn characters like these, I always take special notes and memorize them side by side.",
-     "words": [
-      {
-       "h": "学",
-       "py": "xué",
-       "gl": "study; learn",
-       "pos": "v."
-      },
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "字",
-       "py": "zì",
-       "gl": "character (Chinese); written character",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
-      },
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "笔记",
-       "py": "bǐjì",
-       "gl": "notes",
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
        "pos": "n."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "对比",
-       "py": "duìbǐ",
-       "gl": "comparison; contrast",
-       "pos": "n."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
-      },
-      {
-       "h": "记",
-       "py": "jì",
-       "gl": "remember; memorize; write down",
+       "h": "笑得",
+       "py": "xiàodé",
+       "gl": "laugh so hard that",
        "pos": "v."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Now that everyone types on their phones, pinyin input sometimes automatically picks the wrong look-alike character, so it's best to double-check before posting to WeChat Moments.",
-   "phrases": [
-    {
-     "en": "Now that everyone types on their phones, pinyin input sometimes automatically picks the wrong look-alike character,",
-     "words": [
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
       },
       {
        "h": "手机",
@@ -562,48 +1104,294 @@
        "pos": "n."
       },
       {
-       "h": "打字",
-       "py": "dǎzì",
-       "gl": "type (on a keyboard)",
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
        "pos": "v."
+      },
+      {
+       "h": "远",
+       "py": "yuǎn",
+       "gl": "far; distant",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Then he stopped laughing and asked quietly, \"Did you keep the hair you cut off? Even a little?\"",
+   "phrases": [
+    {
+     "en": "Then he stopped laughing and asked quietly, \"Did you keep the hair you cut off? Even a little?\"",
+     "words": [
+      {
+       "h": "然后",
+       "py": "ránhòu",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "，"
       },
       {
-       "h": "拼音",
-       "py": "pīnyīn",
-       "gl": "pinyin",
-       "pos": "n."
-      },
-      {
-       "h": "输入法",
-       "py": "shūrùfǎ",
-       "gl": "input method (for typing Chinese)",
-       "pos": "n."
-      },
-      {
-       "h": "有时",
-       "py": "yǒushí",
-       "gl": "sometimes",
+       "h": "小声",
+       "py": "xiǎoshēng",
+       "gl": "in a low voice; quietly",
        "pos": "adv."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
       },
       {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把字选错 choose the character wrongly)",
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "剪",
+       "py": "jiǎn",
+       "gl": "to cut",
+       "pos": "v."
+      },
+      {
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
+       "pos": "particle"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "头发",
+       "py": "tóufà",
+       "gl": "hair",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "留",
+       "py": "liú",
+       "gl": "save; keep",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "留",
+       "py": "liú",
+       "gl": "save; keep",
+       "pos": "v."
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "也好",
+       "py": "yěhǎo",
+       "gl": "whether... or... (A也好，B也好)",
+       "pos": "conj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lin Duo hadn't.",
+   "phrases": [
+    {
+     "en": "Lin Duo hadn't.",
+     "words": [
+      {
+       "h": "林朵",
+       "py": "Lín Duǒ",
+       "gl": "Lin Duo",
+       "pos": "proper noun"
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "留",
+       "py": "liú",
+       "gl": "save; keep",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But that weekend she bought a hair tie and braided a tiny braid by her ear herself — crooked, exactly like her dad's.",
+   "phrases": [
+    {
+     "en": "But that weekend she bought a hair tie and braided a tiny braid by her ear herself — crooked, exactly like her dad's.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一根",
+       "py": "yīgēn",
+       "gl": "one (long thin object: rope, cable, pillar)",
+       "pos": "num."
+      },
+      {
+       "h": "皮筋",
+       "py": "píjīn",
+       "gl": "hair tie",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "形近",
-       "py": "xíngjìn",
-       "gl": "similar in shape (of characters)",
+       "h": "耳朵",
+       "py": "ěrduǒ",
+       "gl": "ear",
+       "pos": "n."
+      },
+      {
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
+      },
+      {
+       "h": "编",
+       "py": "biān",
+       "gl": "make up (a story); compile; write",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一条",
+       "py": "yìtiáo",
+       "gl": "one (measure word for long things, messages, news, rules)",
+       "pos": "num."
+      },
+      {
+       "h": "小小",
+       "py": "xiǎoxiǎo",
+       "gl": "little; tiny",
        "pos": "adj."
       },
       {
@@ -613,35 +1401,79 @@
        "pos": "particle"
       },
       {
-       "h": "字",
-       "py": "zì",
-       "gl": "character (Chinese); written character",
+       "h": "辫子",
+       "py": "biànzi",
+       "gl": "braid; plait; pigtail",
        "pos": "n."
       },
       {
-       "h": "自动",
-       "py": "zìdòng",
-       "gl": "automatically; automatic",
-       "pos": "adv."
+       "h": "，"
       },
       {
-       "h": "选错",
-       "py": "xuǎncuò",
-       "gl": "choose wrongly; pick the wrong one",
-       "pos": "v."
+       "h": "歪歪的",
+       "py": "wāiwāi de",
+       "gl": "a bit crooked",
+       "pos": "adj."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "编",
+       "py": "biān",
+       "gl": "make up (a story); compile; write",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "This time, before posting the photo to her feed, she checked every character twice.",
+   "phrases": [
     {
-     "en": "so it's best to double-check before posting to WeChat Moments.",
+     "en": "This time, before posting the photo to her feed, she checked every character twice.",
      "words": [
+      {
+       "h": "这一次",
+       "py": "zhèyīcì",
+       "gl": "this time",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "发",
        "py": "fā",
-       "gl": "post; send",
+       "gl": "post (on social media)",
        "pos": "v."
       },
       {
@@ -651,21 +1483,42 @@
        "pos": "n."
       },
       {
-       "h": "前",
-       "py": "qián",
-       "gl": "before",
-       "pos": "postposition"
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "n."
       },
       {
-       "h": "最好",
-       "py": "zuìhǎo",
-       "gl": "had better; it's best to",
-       "pos": "adv."
+       "h": "，"
       },
       {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; once more",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "n."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "每个",
+       "py": "měigè",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
        "pos": "adv."
       },
       {
@@ -675,9 +1528,15 @@
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
        "pos": "num."
       },
       {

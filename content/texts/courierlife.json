@@ -1,17 +1,69 @@
 {
  "id": "courierlife",
  "level": 4,
- "title_zh": "外卖骑手的生活",
- "title_en": "A Delivery Rider's Life",
+ "title_zh": "最后一单",
+ "title_en": "The Last Order",
  "free": false,
  "audio_url": null,
- "note_en": "不仅……还…… means \"not only ... but also\": 骑手一旦超时，不仅没有奖励，还可能被扣钱 \"once a rider is late, not only does he get no bonus, he may also have money docked.\" 一旦 (\"once, as soon as\") sets up the condition, and 被 marks the passive 被扣钱 \"have money deducted,\" with no doer needed.",
+ "note_en": "The phrase 跟时间赛跑 (\"to race against time\") vividly describes rushing when your real opponent is time itself: 我们常常要跟时间赛跑 — \"we often have to race against time.\"",
  "sentences": [
   {
-   "en": "At lunchtime and dinnertime rush hours, food delivery riders' e-bikes fill almost the entire street.",
+   "en": "My name is A-Tao, and I'm a food-delivery rider.",
    "phrases": [
     {
-     "en": "At the lunch and dinner rush hours,",
+     "en": "My name is A-Tao, and I'm a food-delivery rider.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "阿涛",
+       "py": "Ā Tāo",
+       "gl": "A-Tao",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一名",
+       "py": "yīmíng",
+       "gl": "one (person; 名 is the measure word for people)",
+       "pos": "measure word"
+      },
+      {
+       "h": "外卖骑手",
+       "py": "wàimài qíshǒu",
+       "gl": "food delivery rider",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At lunch and dinner rush hours, delivery riders' e-scooters fill almost the whole street.",
+   "phrases": [
+    {
+     "en": "At lunch and dinner rush hours, delivery riders' e-scooters fill almost the whole street.",
      "words": [
       {
        "h": "中午",
@@ -22,51 +74,34 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
        "h": "晚上",
-       "py": "wǎnshang",
+       "py": "wǎnshàng",
        "gl": "evening",
        "pos": "n."
       },
       {
-       "h": "高峰",
-       "py": "gāofēng",
-       "gl": "peak (高峰时段 rush hour)",
-       "pos": "n."
-      },
-      {
-       "h": "时段",
-       "py": "shíduàn",
-       "gl": "time slot; period",
+       "h": "高峰时段",
+       "py": "gāofēng shíduàn",
+       "gl": "rush hours",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "food delivery riders' e-bikes",
-     "words": [
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
       },
       {
-       "h": "骑手",
-       "py": "qíshǒu",
-       "gl": "delivery rider; rider",
+       "h": "外卖骑手",
+       "py": "wàimài qíshǒu",
+       "gl": "food delivery rider",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -74,12 +109,7 @@
        "py": "diàndòngchē",
        "gl": "e-bike; electric scooter",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "fill almost the entire street.",
-     "words": [
+      },
       {
        "h": "几乎",
        "py": "jīhū",
@@ -105,16 +135,10 @@
        "pos": "particle"
       },
       {
-       "h": "整",
-       "py": "zhěng",
-       "gl": "whole; entire",
+       "h": "整条",
+       "py": "zhěngtiáo",
+       "gl": "the whole (street, chain)",
        "pos": "adj."
-      },
-      {
-       "h": "条",
-       "py": "tiáo",
-       "gl": "measure word for long things (fish, roads, rivers)",
-       "pos": "measure word"
       },
       {
        "h": "街",
@@ -130,10 +154,10 @@
    ]
   },
   {
-   "en": "Every delivery order has a deadline, so riders are often racing against the clock.",
+   "en": "Every order has a delivery deadline, and we often have to race against time.",
    "phrases": [
     {
-     "en": "Every delivery order has a deadline, so riders are often racing against the clock.",
+     "en": "Every order has a delivery deadline, and we often have to race against time.",
      "words": [
       {
        "h": "每",
@@ -144,13 +168,13 @@
       {
        "h": "单",
        "py": "dān",
-       "gl": "order (each delivery order); bill",
-       "pos": "n."
+       "gl": "order (each delivery order); bill; measure word for orders; alone; just",
+       "pos": "measure word"
       },
       {
        "h": "外卖",
        "py": "wàimài",
-       "gl": "takeout; food delivery",
+       "gl": "food delivery; delivery order",
        "pos": "n."
       },
       {
@@ -162,13 +186,13 @@
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
        "pos": "v."
       },
       {
        "h": "送达",
        "py": "sòngdá",
-       "gl": "deliver (to the destination)",
+       "gl": "to deliver",
        "pos": "v."
       },
       {
@@ -180,23 +204,23 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "要求",
        "py": "yāoqiú",
-       "gl": "require; demand; requirement",
+       "gl": "require; demand",
        "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "骑手",
-       "py": "qíshǒu",
-       "gl": "delivery rider; rider",
-       "pos": "n."
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
       },
       {
        "h": "常常",
@@ -211,22 +235,10 @@
        "pos": "v."
       },
       {
-       "h": "跟",
-       "py": "gēn",
-       "gl": "with; together with",
-       "pos": "prep."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "赛跑",
-       "py": "sàipǎo",
-       "gl": "race; run a race (跟时间赛跑 race against time)",
-       "pos": "v."
+       "h": "跟时间赛跑",
+       "py": "gēn shíjiān sàipǎo",
+       "gl": "to race against time",
+       "pos": "phrase"
       },
       {
        "h": "。"
@@ -236,10 +248,10 @@
    ]
   },
   {
-   "en": "I know a young delivery guy who says he can deliver up to forty or fifty orders a day.",
+   "en": "On a good day I can deliver forty or fifty orders.",
    "phrases": [
     {
-     "en": "I know a young delivery guy who says he can deliver up to forty or fifty orders a day.",
+     "en": "On a good day I can deliver forty or fifty orders.",
      "words": [
       {
        "h": "我",
@@ -248,84 +260,27 @@
        "pos": "pron."
       },
       {
-       "h": "认识",
-       "py": "rènshi",
-       "gl": "know (a person, a character); get to know; recognize",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "骑手",
-       "py": "qíshǒu",
-       "gl": "delivery rider; rider",
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
        "pos": "n."
       },
       {
-       "h": "小哥",
-       "py": "xiǎogē",
-       "gl": "young man (friendly term for a delivery man, etc.)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "sky; day",
-       "pos": "n."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
+       "h": "最多",
+       "py": "zuìduō",
+       "gl": "at most; most",
        "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
       },
       {
        "h": "能",
        "py": "néng",
        "gl": "can; be able to",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "送",
        "py": "sòng",
-       "gl": "give (as a gift); see off; send",
+       "gl": "deliver; send; give (as a gift)",
        "pos": "v."
       },
       {
@@ -337,254 +292,10 @@
       {
        "h": "单",
        "py": "dān",
-       "gl": "order (each delivery order); bill",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "To avoid being late, many riders have to take some risks, like riding against traffic or running red lights.",
-   "phrases": [
-    {
-     "en": "To avoid being late,",
-     "words": [
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "超时",
-       "py": "chāoshí",
-       "gl": "run over time; exceed the time limit",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "many riders have to take some risks,",
-     "words": [
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "骑手",
-       "py": "qíshǒu",
-       "gl": "delivery rider; rider",
-       "pos": "n."
-      },
-      {
-       "h": "不得不",
-       "py": "bùdébú",
-       "gl": "have to; cannot but",
-       "pos": "adv."
-      },
-      {
-       "h": "冒着",
-       "py": "màozhe",
-       "gl": "braving; at the risk of",
-       "pos": "v."
-      },
-      {
-       "h": "一些",
-       "py": "yìxie",
-       "gl": "some; a few",
-       "pos": "num."
-      },
-      {
-       "h": "风险",
-       "py": "fēngxiǎn",
-       "gl": "risk",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "like riding against traffic or running red lights.",
-     "words": [
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
-      },
-      {
-       "h": "逆行",
-       "py": "nìxíng",
-       "gl": "go the wrong way (against traffic)",
-       "pos": "v."
-      },
-      {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "闯",
-       "py": "chuǎng",
-       "gl": "rush; dash (闯红灯 run a red light)",
-       "pos": "v."
-      },
-      {
-       "h": "红灯",
-       "py": "hóngdēng",
-       "gl": "red light (traffic light)",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Every time I get a food delivery, I say \"thank you\" to the rider, grateful that they're out there in wind and rain.",
-   "phrases": [
-    {
-     "en": "Every time I get a food delivery,",
-     "words": [
-      {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
-       "pos": "pron."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
+       "gl": "order (each delivery order); bill; measure word for orders; alone; just",
        "pos": "measure word"
       },
       {
-       "h": "收到",
-       "py": "shōudào",
-       "gl": "receive",
-       "pos": "v."
-      },
-      {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I say \"thank you\" to the rider,",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "to; toward; correct",
-       "pos": "prep."
-      },
-      {
-       "h": "骑手",
-       "py": "qíshǒu",
-       "gl": "delivery rider; rider",
-       "pos": "n."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "声",
-       "py": "shēng",
-       "gl": "measure word for sounds and utterances; sound",
-       "pos": "measure word"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "谢谢",
-       "py": "xièxie",
-       "gl": "thank you; thanks",
-       "pos": "phrase"
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "grateful that they're out there in wind and rain.",
-     "words": [
-      {
-       "h": "感谢",
-       "py": "gǎnxiè",
-       "gl": "thank; be grateful",
-       "pos": "v."
-      },
-      {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
-       "pos": "pron."
-      },
-      {
-       "h": "风里来雨里去",
-       "py": "fēnglǐláiyǔlǐqù",
-       "gl": "come rain or shine; through wind and rain (idiom)",
-       "pos": "phrase"
-      },
-      {
        "h": "。"
       }
      ]
@@ -592,21 +303,15 @@
    ]
   },
   {
-   "en": "Delivery apps' algorithms keep squeezing delivery times, and once a rider is late, not only does he lose his bonus, he may also have money docked from his pay.",
+   "en": "The platform's algorithm keeps squeezing delivery times, and once a rider is late, he not only loses his bonus but may also get his pay docked.",
    "phrases": [
     {
-     "en": "Delivery apps' algorithms keep squeezing delivery times,",
+     "en": "The platform's algorithm keeps squeezing delivery times, and once a rider is late, he not only loses his bonus but may also get his pay docked.",
      "words": [
       {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
-       "pos": "n."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
+       "h": "外卖平台",
+       "py": "wàimàipíngtái",
+       "gl": "food delivery platform",
        "pos": "n."
       },
       {
@@ -625,7 +330,7 @@
        "h": "会",
        "py": "huì",
        "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "不断",
@@ -653,12 +358,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "once a rider is late, not only is there no bonus,",
-     "words": [
+      },
       {
        "h": "骑手",
        "py": "qíshǒu",
@@ -674,7 +374,7 @@
       {
        "h": "超时",
        "py": "chāoshí",
-       "gl": "run over time; exceed the time limit",
+       "gl": "to run late, go over time",
        "pos": "v."
       },
       {
@@ -689,7 +389,7 @@
       {
        "h": "没有",
        "py": "méiyǒu",
-       "gl": "not have; there is no",
+       "gl": "not have; there is no; not; did not (negates past actions)",
        "pos": "v."
       },
       {
@@ -700,12 +400,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "he may also have money docked.",
-     "words": [
+      },
       {
        "h": "还",
        "py": "hái",
@@ -715,19 +410,19 @@
       {
        "h": "可能",
        "py": "kěnéng",
-       "gl": "possible; maybe",
-       "pos": "adj."
+       "gl": "maybe; perhaps; possibly",
+       "pos": "adv."
       },
       {
        "h": "被",
        "py": "bèi",
        "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "pos": "function word"
       },
       {
        "h": "扣钱",
        "py": "kòuqián",
-       "gl": "dock pay; deduct money",
+       "gl": "to dock pay",
        "pos": "v."
       },
       {
@@ -738,10 +433,113 @@
    ]
   },
   {
-   "en": "Now many apartment complexes have smart food lockers at the entrance: the rider puts the order in a locker, and the customer can scan a code and pick it up themselves, which saves a lot of time.",
+   "en": "To avoid being late, many riders have no choice but to take risks, like riding against traffic or running red lights.",
    "phrases": [
     {
-     "en": "Now many apartment complexes have smart food lockers at the entrance:",
+     "en": "To avoid being late, many riders have no choice but to take risks, like riding against traffic or running red lights.",
+     "words": [
+      {
+       "h": "为了",
+       "py": "wèile",
+       "gl": "in order to; for",
+       "pos": "prep."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "超时",
+       "py": "chāoshí",
+       "gl": "to run late, go over time",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "骑手",
+       "py": "qíshǒu",
+       "gl": "delivery rider; courier",
+       "pos": "n."
+      },
+      {
+       "h": "不得不",
+       "py": "bùdébù",
+       "gl": "to have no choice but to",
+       "pos": "adv."
+      },
+      {
+       "h": "冒",
+       "py": "mào",
+       "gl": "brave; risk (冒着 'braving')",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "一些",
+       "py": "yīxiē",
+       "gl": "some; certain",
+       "pos": "pron."
+      },
+      {
+       "h": "风险",
+       "py": "fēngxiǎn",
+       "gl": "risk",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "比如",
+       "py": "bǐrú",
+       "gl": "for example",
+       "pos": "conj."
+      },
+      {
+       "h": "逆行",
+       "py": "nìxíng",
+       "gl": "to drive against traffic",
+       "pos": "v."
+      },
+      {
+       "h": "或者",
+       "py": "huòzhě",
+       "gl": "or",
+       "pos": "conj."
+      },
+      {
+       "h": "闯红灯",
+       "py": "chuǎng hóngdēng",
+       "gl": "to run a red light",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now many housing complexes have smart pickup lockers at the gate: the rider puts the order in a locker, the customer scans a code and takes it out, which saves a lot of time.",
+   "phrases": [
+    {
+     "en": "Now many housing complexes have smart pickup lockers at the gate: the rider puts the order in a locker, the customer scans a code and takes it out, which saves a lot of time.",
      "words": [
       {
        "h": "现在",
@@ -753,7 +551,7 @@
        "h": "不少",
        "py": "bùshǎo",
        "gl": "quite a lot; a good deal",
-       "pos": "adj."
+       "pos": "num."
       },
       {
        "h": "小区",
@@ -776,7 +574,7 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
@@ -786,25 +584,14 @@
        "pos": "adj."
       },
       {
-       "h": "取餐",
-       "py": "qǔcān",
-       "gl": "pick up food (an order)",
-       "pos": "v."
-      },
-      {
-       "h": "柜",
-       "py": "guì",
-       "gl": "cabinet; locker",
+       "h": "取餐柜",
+       "py": "qǔcānguì",
+       "gl": "pickup locker",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the rider puts the order in a locker, and the customer can scan a code and pick it up themselves,",
-     "words": [
+      },
       {
        "h": "骑手",
        "py": "qíshǒu",
@@ -814,13 +601,13 @@
       {
        "h": "把",
        "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把字选错 choose the character wrongly)",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
        "pos": "prep."
       },
       {
        "h": "外卖",
        "py": "wàimài",
-       "gl": "takeout; food delivery",
+       "gl": "food delivery; delivery order",
        "pos": "n."
       },
       {
@@ -860,7 +647,7 @@
        "h": "能",
        "py": "néng",
        "gl": "can; be able to",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "自己",
@@ -871,17 +658,12 @@
       {
        "h": "取",
        "py": "qǔ",
-       "gl": "pick up; collect",
+       "gl": "give (a name); choose (a name); take",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which saves a lot of time.",
-     "words": [
+      },
       {
        "h": "省",
        "py": "shěng",
@@ -891,20 +673,857 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
        "h": "不少",
        "py": "bùshǎo",
        "gl": "quite a lot; a good deal",
-       "pos": "adj."
+       "pos": "num."
       },
       {
        "h": "时间",
        "py": "shíjiān",
        "gl": "time",
        "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But that means in a whole day I hardly see a single customer's face.",
+   "phrases": [
+    {
+     "en": "But that means in a whole day I hardly see a single customer's face.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "见不到",
+       "py": "jiànbúdào",
+       "gl": "can't see; never see",
+       "pos": "v."
+      },
+      {
+       "h": "几个",
+       "py": "jǐgè",
+       "gl": "a few; several",
+       "pos": "num."
+      },
+      {
+       "h": "顾客",
+       "py": "gùkè",
+       "gl": "customer",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "脸",
+       "py": "liǎn",
+       "gl": "face",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That day was my daughter's sixth birthday, and I'd promised her I'd be home before seven.",
+   "phrases": [
+    {
+     "en": "That day was my daughter's sixth birthday, and I'd promised her I'd be home before seven.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "六",
+       "py": "liù",
+       "gl": "six",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "生日",
+       "py": "shēngrì",
+       "gl": "birthday",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "答应",
+       "py": "dāyìng",
+       "gl": "agree; promise",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "七",
+       "py": "qī",
+       "gl": "seven",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At 6:40 the system gave me my last order: a cake, to be delivered within twenty minutes.",
+   "phrases": [
+    {
+     "en": "At 6:40 the system gave me my last order: a cake, to be delivered within twenty minutes.",
+     "words": [
+      {
+       "h": "六点",
+       "py": "liùdiǎn",
+       "gl": "six o'clock",
+       "pos": "n."
+      },
+      {
+       "h": "四十",
+       "py": "sìshí",
+       "gl": "forty",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "系统",
+       "py": "xìtǒng",
+       "gl": "system",
+       "pos": "n."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "派",
+       "py": "pài",
+       "gl": "send; dispatch",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
+       "pos": "adj."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "单",
+       "py": "dān",
+       "gl": "order (each delivery order); bill; measure word for orders; alone; just",
+       "pos": "measure word"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "蛋糕",
+       "py": "dàngāo",
+       "gl": "cake",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "二十",
+       "py": "èrshí",
+       "gl": "twenty",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "内",
+       "py": "nèi",
+       "gl": "within; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "送到",
+       "py": "sòngdào",
+       "gl": "deliver",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I glanced at the address and froze: it was my home.",
+   "phrases": [
+    {
+     "en": "I glanced at the address and froze: it was my home.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一眼",
+       "py": "yīyǎn",
+       "gl": "one glance; at a glance",
+       "pos": "measure word"
+      },
+      {
+       "h": "地址",
+       "py": "dìzhǐ",
+       "gl": "address",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "愣住",
+       "py": "lèngzhù",
+       "gl": "be stunned; freeze",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "那是",
+       "py": "nàshì",
+       "gl": "of course; sure (that's right)",
+       "pos": "phrase"
+      },
+      {
+       "h": "我家",
+       "py": "wǒjiā",
+       "gl": "my home; my family",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I didn't run a single red light the whole way, and at 6:58 I knocked on my own door.",
+   "phrases": [
+    {
+     "en": "I didn't run a single red light the whole way, and at 6:58 I knocked on my own door.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一路上",
+       "py": "yīlùshàng",
+       "gl": "all the way; along the way",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "闯",
+       "py": "chuǎng",
+       "gl": "rush; dash (闯红灯 run a red light)",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "红灯",
+       "py": "hóngdēng",
+       "gl": "red warning light",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "六点",
+       "py": "liùdiǎn",
+       "gl": "six o'clock",
+       "pos": "n."
+      },
+      {
+       "h": "五十八",
+       "py": "wǔshíbā",
+       "gl": "fifty-eight",
+       "pos": "num."
+      },
+      {
+       "h": "分",
+       "py": "fēn",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "敲开",
+       "py": "qiāokāi",
+       "gl": "knock (and get the door opened)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "家门",
+       "py": "jiāmén",
+       "gl": "home; front door",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "My wife stood in the doorway, smiling: \"This way you won't be late.\"",
+   "phrases": [
+    {
+     "en": "My wife stood in the doorway, smiling: \"This way you won't be late.\"",
+     "words": [
+      {
+       "h": "妻子",
+       "py": "qīzǐ",
+       "gl": "wife",
+       "pos": "n."
+      },
+      {
+       "h": "站在",
+       "py": "zhànzài",
+       "gl": "stand in; stand on; stand at",
+       "pos": "v."
+      },
+      {
+       "h": "门口",
+       "py": "ménkǒu",
+       "gl": "entrance; doorway",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "笑着说",
+       "py": "xiàozheshuō",
+       "gl": "say with a smile",
+       "pos": "phrase"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely (会不会 'will or won't')",
+       "pos": "v."
+      },
+      {
+       "h": "超时",
+       "py": "chāoshí",
+       "gl": "to run late, go over time",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "My daughter took the cake and said \"thank you\" to me very seriously.",
+   "phrases": [
+    {
+     "en": "My daughter took the cake and said \"thank you\" to me very seriously.",
+     "words": [
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "接",
+       "py": "jiē",
+       "gl": "meet; pick up (someone); follow on (一个接一个 \"one after another\")",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "蛋糕",
+       "py": "dàngāo",
+       "gl": "cake",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "认真地",
+       "py": "rènzhēndì",
+       "gl": "seriously; earnestly",
+       "pos": "adv."
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一声",
+       "py": "yīshēng",
+       "gl": "one sound; once (said, called out)",
+       "pos": "measure word"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "谢谢",
+       "py": "xièxie",
+       "gl": "thank you; thanks",
+       "pos": "phrase"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lots of customers used to say \"thank you\" too, grateful that we ride through wind and rain.",
+   "phrases": [
+    {
+     "en": "Lots of customers used to say \"thank you\" too, grateful that we ride through wind and rain.",
+     "words": [
+      {
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "postposition"
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "顾客",
+       "py": "gùkè",
+       "gl": "customer",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "谢谢",
+       "py": "xièxie",
+       "gl": "thank you; thanks",
+       "pos": "phrase"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "感谢",
+       "py": "gǎnxiè",
+       "gl": "thank; be grateful",
+       "pos": "v."
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "风里来雨里去",
+       "py": "fēng lǐ lái yǔ lǐ qù",
+       "gl": "through wind and rain",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But that day, for the first time, after saying \"you're welcome\" I didn't have to turn around and leave right away.",
+   "phrases": [
+    {
+     "en": "But that day, for the first time, after saying \"you're welcome\" I didn't have to turn around and leave right away.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "说完",
+       "py": "shuōwán",
+       "gl": "finish speaking",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "客气",
+       "py": "kèqì",
+       "gl": "polite",
+       "pos": "adj."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不用",
+       "py": "bùyòng",
+       "gl": "not need; no need to",
+       "pos": "v."
+      },
+      {
+       "h": "马上",
+       "py": "mǎshàng",
+       "gl": "immediately; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "转身",
+       "py": "zhuǎnshēn",
+       "gl": "turn around",
+       "pos": "v."
+      },
+      {
+       "h": "离开",
+       "py": "líkāi",
+       "gl": "leave",
+       "pos": "v."
       },
       {
        "h": "。"

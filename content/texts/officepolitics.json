@@ -1,32 +1,97 @@
 {
  "id": "officepolitics",
  "level": 4,
- "title_zh": "办公室里的关系",
- "title_en": "Office Relationships",
+ "title_zh": "被截图的那句话",
+ "title_en": "The Sentence That Got Screenshotted",
  "free": false,
  "audio_url": null,
- "note_en": "什么话该说，什么话不该说 \"what should be said and what shouldn't\" uses 什么 not as a question but as \"whatever; which,\" inside a statement. English needs \"what\" + a clause; Chinese simply repeats 什么话 with 该 \"should\" and 不该 \"shouldn't.\"",
+ "note_en": "The word 表面上 (\"on the surface\") often pairs with 实际上 (\"in fact\"), contrasting appearance and reality: 表面上，办公室里大家相处得都很融洽。实际上，同事之间多少都存在一些竞争 — \"on the surface, everyone in the office gets along. In fact, there's always some competition between colleagues.\"",
  "sentences": [
   {
-   "en": "On the surface, everyone in the office gets along really well.",
+   "en": "My name is Xiao Peng, and I've worked at an internet company for two years.",
    "phrases": [
     {
-     "en": "On the surface,",
+     "en": "My name is Xiao Peng, and I've worked at an internet company for two years.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "小彭",
+       "py": "Xiǎo Péng",
+       "gl": "Xiao Peng",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "一家",
+       "py": "yìjiā",
+       "gl": "a; one (shop, family, company)",
+       "pos": "measure word"
+      },
+      {
+       "h": "互联网公司",
+       "py": "hùliánwǎnggōngsī",
+       "gl": "internet company",
+       "pos": "n."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "两年",
+       "py": "liǎngnián",
+       "gl": "two years",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the surface, everyone in the office gets along very well.",
+   "phrases": [
+    {
+     "en": "On the surface, everyone in the office gets along very well.",
      "words": [
       {
        "h": "表面上",
-       "py": "biǎomiànshàng",
+       "py": "biǎomiàn shang",
        "gl": "on the surface; outwardly",
        "pos": "adv."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "everyone in the office gets along really well.",
-     "words": [
+      },
       {
        "h": "办公室",
        "py": "bàngōngshì",
@@ -35,7 +100,7 @@
       },
       {
        "h": "里",
-       "py": "li",
+       "py": "lǐ",
        "gl": "in; inside",
        "pos": "postposition"
       },
@@ -49,7 +114,7 @@
        "h": "相处",
        "py": "xiāngchǔ",
        "gl": "get along (with each other)",
-       "pos": "v."
+       "pos": "n."
       },
       {
        "h": "得",
@@ -72,7 +137,7 @@
       {
        "h": "融洽",
        "py": "róngqià",
-       "gl": "harmonious; on good terms",
+       "gl": "harmonious",
        "pos": "adj."
       },
       {
@@ -83,25 +148,20 @@
    ]
   },
   {
-   "en": "In reality, there's always some competition between coworkers.",
+   "en": "In fact, there's always some competition between colleagues.",
    "phrases": [
     {
-     "en": "In reality,",
+     "en": "In fact, there's always some competition between colleagues.",
      "words": [
       {
        "h": "实际上",
-       "py": "shíjìshàng",
+       "py": "shíjì shang",
        "gl": "in fact; actually",
        "pos": "adv."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "there's always some competition between coworkers.",
-     "words": [
+      },
       {
        "h": "同事",
        "py": "tóngshì",
@@ -116,14 +176,14 @@
       },
       {
        "h": "多少",
-       "py": "duōshao",
-       "gl": "how many; how much",
-       "pos": "question word"
+       "py": "duōshǎo",
+       "gl": "at least a little; somewhat",
+       "pos": "adv."
       },
       {
        "h": "都",
        "py": "dōu",
-       "gl": "all; both",
+       "gl": "all; both; even; already",
        "pos": "adv."
       },
       {
@@ -134,9 +194,9 @@
       },
       {
        "h": "一些",
-       "py": "yìxie",
-       "gl": "some; a few",
-       "pos": "num."
+       "py": "yīxiē",
+       "gl": "some; certain",
+       "pos": "pron."
       },
       {
        "h": "竞争",
@@ -152,39 +212,27 @@
    ]
   },
   {
-   "en": "Some people are good at handling these relationships and know what should be said and what shouldn't.",
+   "en": "Some people are good at handling these relationships and know what to say and what not to say.",
    "phrases": [
     {
-     "en": "Some people are good at handling these relationships and know what should be said and what shouldn't.",
+     "en": "Some people are good at handling these relationships and know what to say and what not to say.",
      "words": [
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
+       "h": "有的人",
+       "py": "yǒuderén",
+       "gl": "some people",
+       "pos": "pron."
       },
       {
        "h": "擅长",
        "py": "shàncháng",
-       "gl": "be good at; excel at",
+       "gl": "to be good at",
        "pos": "v."
       },
       {
        "h": "处理",
        "py": "chǔlǐ",
-       "gl": "handle; deal with; process",
+       "gl": "process; handle",
        "pos": "v."
       },
       {
@@ -195,8 +243,8 @@
       },
       {
        "h": "关系",
-       "py": "guānxi",
-       "gl": "relationship; connection; (没关系) it doesn't matter",
+       "py": "guānxì",
+       "gl": "relationship; relations; connection",
        "pos": "n."
       },
       {
@@ -212,7 +260,7 @@
        "h": "什么",
        "py": "shénme",
        "gl": "what",
-       "pos": "question word"
+       "pos": "pron."
       },
       {
        "h": "话",
@@ -221,16 +269,10 @@
        "pos": "n."
       },
       {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "function word"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
+       "h": "该说",
+       "py": "gāishuō",
+       "gl": "what should be said",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -239,7 +281,7 @@
        "h": "什么",
        "py": "shénme",
        "gl": "what",
-       "pos": "question word"
+       "pos": "pron."
       },
       {
        "h": "话",
@@ -251,7 +293,7 @@
        "h": "不该",
        "py": "bùgāi",
        "gl": "should not",
-       "pos": "function word"
+       "pos": "phrase"
       },
       {
        "h": "说",
@@ -267,11 +309,38 @@
    ]
   },
   {
-   "en": "I'm a pretty straightforward person, and in the past I often offended people because I spoke too bluntly.",
+   "en": "I'm not one of them. I'm a blunt person, and I often offended people by speaking too directly.",
    "phrases": [
     {
-     "en": "I'm a pretty straightforward person,",
+     "en": "I'm not one of them. I'm a blunt person, and I often offended people by speaking too directly.",
      "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
+       "h": "这种",
+       "py": "zhèzhǒng",
+       "gl": "this kind of; such",
+       "pos": "pron."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -288,27 +357,16 @@
        "h": "比较",
        "py": "bǐjiào",
        "gl": "relatively; fairly; compare",
-       "pos": "adv."
+       "pos": "v."
       },
       {
        "h": "直",
        "py": "zhí",
-       "gl": "straightforward; direct (of character)",
+       "gl": "straight",
        "pos": "adj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "in the past, because I often spoke too bluntly,",
-     "words": [
-      {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
-       "pos": "postposition"
       },
       {
        "h": "常常",
@@ -331,7 +389,7 @@
       {
        "h": "太",
        "py": "tài",
-       "gl": "too; very",
+       "gl": "too",
        "pos": "adv."
       },
       {
@@ -339,16 +397,11 @@
        "py": "zhíjiē",
        "gl": "directly; straight",
        "pos": "adv."
-      }
-     ]
-    },
-    {
-     "en": "I offended people.",
-     "words": [
+      },
       {
        "h": "得罪",
        "py": "dézuì",
-       "gl": "offend",
+       "gl": "to offend",
        "pos": "v."
       },
       {
@@ -371,27 +424,54 @@
    ]
   },
   {
-   "en": "Later I gradually learned some tricks, like first acknowledging the other person and then bringing up my own ideas.",
+   "en": "Last spring my manager posted a new plan in the work group chat, and everyone replied \"OK.\"",
    "phrases": [
     {
-     "en": "Later I gradually learned some tricks, like first acknowledging the other person and then bringing up my own ideas.",
+     "en": "Last spring my manager posted a new plan in the work group chat, and everyone replied \"OK.\"",
      "words": [
       {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
+       "h": "去年",
+       "py": "qùnián",
+       "gl": "last year",
+       "pos": "n."
+      },
+      {
+       "h": "春天",
+       "py": "chūntiān",
+       "gl": "spring (season)",
        "pos": "adv."
       },
       {
-       "h": "慢慢",
-       "py": "mànmàn",
-       "gl": "slowly; gradually",
-       "pos": "adv."
+       "h": "，"
       },
       {
-       "h": "学会",
-       "py": "xuéhuì",
-       "gl": "learn (to do); master",
+       "h": "经理",
+       "py": "jīnglǐ",
+       "gl": "manager",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "企业微信群",
+       "py": "qǐyè Wēixìn qún",
+       "gl": "WeChat Work group chat",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "post (on social media)",
        "pos": "v."
       },
       {
@@ -401,15 +481,636 @@
        "pos": "particle"
       },
       {
-       "h": "一些",
-       "py": "yìxie",
-       "gl": "some; a few",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
+      },
+      {
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adj."
+      },
+      {
+       "h": "方案",
+       "py": "fāng'àn",
+       "gl": "plan; proposal",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "大家",
+       "py": "dàjiā",
+       "gl": "everyone; everybody",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "回复",
+       "py": "huífù",
+       "gl": "reply",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Only I wrote: \"This plan has three holes in it.\"",
+   "phrases": [
+    {
+     "en": "Only I wrote: \"This plan has three holes in it.\"",
+     "words": [
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一句",
+       "py": "yījù",
+       "gl": "one sentence; one line (of a poem)",
+       "pos": "measure word"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "方案",
+       "py": "fāng'àn",
+       "gl": "plan; proposal",
+       "pos": "n."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "三个",
+       "py": "sāngè",
+       "gl": "three (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "漏洞",
+       "py": "lòudòng",
+       "gl": "loophole; flaw",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In less than an hour, that sentence had been screenshotted and passed around; even people from other departments came to ask me about it.",
+   "phrases": [
+    {
+     "en": "In less than an hour, that sentence had been screenshotted and passed around; even people from other departments came to ask me about it.",
+     "words": [
+      {
+       "h": "不到",
+       "py": "búdào",
+       "gl": "not reach; less than; (after verb) unable to (找不到 can't find)",
+       "pos": "v."
+      },
+      {
+       "h": "一个小时",
+       "py": "yígèxiǎoshí",
+       "gl": "one hour",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这句话",
+       "py": "zhèjùhuà",
+       "gl": "this sentence; these words",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "截图",
+       "py": "jiétú",
+       "gl": "screenshot; to take a screenshot",
+       "pos": "v."
+      },
+      {
+       "h": "传开",
+       "py": "chuánkāi",
+       "gl": "to spread (of news)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "连",
+       "py": "lián",
+       "gl": "even (连…都… even)",
+       "pos": "prep."
+      },
+      {
+       "h": "别的",
+       "py": "biéde",
+       "gl": "other; else",
+       "pos": "pron."
+      },
+      {
+       "h": "部门",
+       "py": "bùmén",
+       "gl": "department; government agency",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When work ended that day, Lao Pan, who sits across from me, sent me a private message.",
+   "phrases": [
+    {
+     "en": "When work ended that day, Lao Pan, who sits across from me, sent me a private message.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "下班",
+       "py": "xiàbān",
+       "gl": "get off work; finish work",
+       "pos": "v."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "对面",
+       "py": "duìmiàn",
+       "gl": "opposite; across the way",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "老潘",
+       "py": "Lǎo Pān",
+       "gl": "Lao Pan",
+       "pos": "proper noun"
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一条",
+       "py": "yìtiáo",
+       "gl": "one (measure word for long things, messages, news, rules)",
+       "pos": "num."
+      },
+      {
+       "h": "私聊",
+       "py": "sīliáo",
+       "gl": "private chat",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lao Pan has been at the company for ten years, smiles at everyone, and has never said a bad word about anyone.",
+   "phrases": [
+    {
+     "en": "Lao Pan has been at the company for ten years, smiles at everyone, and has never said a bad word about anyone.",
+     "words": [
+      {
+       "h": "老潘",
+       "py": "Lǎo Pān",
+       "gl": "Lao Pan",
+       "pos": "proper noun"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
+       "pos": "n."
+      },
+      {
+       "h": "十年",
+       "py": "shínián",
+       "gl": "ten years; decade",
+       "pos": "num."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "谁",
+       "py": "shuí",
+       "gl": "who; anyone; everyone",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "笑眯眯",
+       "py": "xiàomīmī",
+       "gl": "smiling; beaming",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "从来",
+       "py": "cónglái",
+       "gl": "never (with negation); always",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "别人",
+       "py": "biérén",
+       "gl": "other people; others",
+       "pos": "pron."
+      },
+      {
+       "h": "一句",
+       "py": "yījù",
+       "gl": "one sentence; one line (of a poem)",
+       "pos": "measure word"
+      },
+      {
+       "h": "不好",
+       "py": "bùhǎo",
+       "gl": "bad; not good",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He wrote: \"You're right. I saw it too — I just didn't dare say it.\"",
+   "phrases": [
+    {
+     "en": "He wrote: \"You're right. I saw it too — I just didn't dare say it.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "写道",
+       "py": "xiědào",
+       "gl": "write (that); read (of a text)",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "说得",
+       "py": "shuōde",
+       "gl": "say (so that); put it (well)",
+       "pos": "v."
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "其实",
+       "py": "qíshí",
+       "gl": "actually; in fact",
+       "pos": "adv."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "看出来",
+       "py": "kànchūlái",
+       "gl": "make out; see; tell",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
+      },
+      {
+       "h": "不敢",
+       "py": "bùgǎn",
+       "gl": "not dare",
+       "pos": "v."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After that he taught me some tricks, like first acknowledging the other person, then giving my own view.",
+   "phrases": [
+    {
+     "en": "After that he taught me some tricks, like first acknowledging the other person, then giving my own view.",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一些",
+       "py": "yīxiē",
+       "gl": "some; certain",
+       "pos": "pron."
       },
       {
        "h": "技巧",
        "py": "jìqiǎo",
-       "gl": "technique; trick; skill",
+       "gl": "skill; technique",
        "pos": "n."
       },
       {
@@ -430,7 +1131,7 @@
       {
        "h": "肯定",
        "py": "kěndìng",
-       "gl": "affirm; praise; certainly",
+       "gl": "to affirm; to acknowledge",
        "pos": "v."
       },
       {
@@ -463,13 +1164,13 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "想法",
        "py": "xiǎngfǎ",
-       "gl": "idea; thought",
+       "gl": "idea; thought; opinion",
        "pos": "n."
       },
       {
@@ -480,10 +1181,10 @@
    ]
   },
   {
-   "en": "These days many companies have dedicated internal WeChat Work groups, and sometimes if you say one careless thing, it gets screenshotted and spread around in no time.",
+   "en": "These days, one careless sentence in a group chat gets screenshotted and spread in no time.",
    "phrases": [
     {
-     "en": "These days many companies have dedicated internal WeChat Work groups,",
+     "en": "These days, one careless sentence in a group chat gets screenshotted and spread in no time.",
      "words": [
       {
        "h": "现在",
@@ -492,140 +1193,52 @@
        "pos": "n."
       },
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
+       "h": "，"
       },
       {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company",
-       "pos": "n."
-      },
-      {
-       "h": "内部",
-       "py": "nèibù",
-       "gl": "inside; internal",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "special; specialized",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "微信",
-       "py": "wēixìn",
-       "gl": "WeChat (messaging app)",
-       "pos": "n."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
        "h": "群",
        "py": "qún",
-       "gl": "group; chat group",
+       "gl": "group chat",
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and sometimes if you say one careless thing,",
-     "words": [
-      {
-       "h": "有时候",
-       "py": "yǒushíhòu",
-       "gl": "sometimes",
-       "pos": "adv."
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "句",
-       "py": "jù",
-       "gl": "measure word for sentences and remarks",
-       "pos": "measure word"
-      },
-      {
-       "h": "话",
-       "py": "huà",
-       "gl": "words; speech; what someone says",
+       "h": "一句话",
+       "py": "yījùhuà",
+       "gl": "a sentence; a word",
        "pos": "n."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "说得",
+       "py": "shuōde",
+       "gl": "say (so that); put it (well)",
        "pos": "v."
       },
       {
-       "h": "得",
-       "py": "dé",
-       "gl": "particle linking a verb to its degree or result (说得越… the more one says…)",
-       "pos": "particle"
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
+       "h": "不小心",
+       "py": "bùxiǎoxīn",
+       "gl": "accidentally; carelessly",
        "pos": "adv."
-      },
-      {
-       "h": "小心",
-       "py": "xiǎoxīn",
-       "gl": "careful; be careful (不小心 'carelessly; by accident')",
-       "pos": "adj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it gets screenshotted and spread around in no time.",
-     "words": [
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
       },
       {
-       "h": "快",
-       "py": "kuài",
-       "gl": "fast; quick; quickly",
-       "pos": "adj."
+       "h": "很快",
+       "py": "hěnkuài",
+       "gl": "quickly; soon",
+       "pos": "adv."
       },
       {
        "h": "就",
@@ -637,24 +1250,24 @@
        "h": "会",
        "py": "huì",
        "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "被",
        "py": "bèi",
        "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "pos": "function word"
       },
       {
        "h": "截图",
        "py": "jiétú",
-       "gl": "take a screenshot",
+       "gl": "screenshot; to take a screenshot",
        "pos": "v."
       },
       {
        "h": "传开",
        "py": "chuánkāi",
-       "gl": "spread; get around",
+       "gl": "to spread (of news)",
        "pos": "v."
       },
       {
@@ -665,22 +1278,16 @@
    ]
   },
   {
-   "en": "So now a lot of coworkers try to discuss personal matters in private messages rather than in the group chat, to avoid unnecessary trouble.",
+   "en": "So many colleagues try to talk about personal things in private chats rather than in the group, to avoid unnecessary trouble.",
    "phrases": [
     {
-     "en": "So now a lot of coworkers try to discuss personal matters in private messages",
+     "en": "So many colleagues try to talk about personal things in private chats rather than in the group, to avoid unnecessary trouble.",
      "words": [
       {
        "h": "所以",
        "py": "suǒyǐ",
        "gl": "so; therefore",
        "pos": "conj."
-      },
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
       },
       {
        "h": "不少",
@@ -733,17 +1340,12 @@
       {
        "h": "私聊",
        "py": "sīliáo",
-       "gl": "private chat; direct message",
+       "gl": "private chat",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "rather than in the group chat, to avoid unnecessary trouble.",
-     "words": [
+      },
       {
        "h": "而不是",
        "py": "érbúshì",
@@ -753,13 +1355,13 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
        "h": "群",
        "py": "qún",
-       "gl": "group; chat group",
+       "gl": "group chat",
        "pos": "n."
       },
       {
@@ -797,9 +1399,336 @@
       },
       {
        "h": "麻烦",
-       "py": "máfán",
-       "gl": "trouble; hassle",
+       "py": "máfan",
+       "gl": "troublesome; inconvenient; trouble",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I learned all this, and my colleagues liked me more and more.",
+   "phrases": [
+    {
+     "en": "I learned all this, and my colleagues liked me more and more.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "学会",
+       "py": "xuéhuì",
+       "gl": "learn (to do); master",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "这些",
+       "py": "zhèxiē",
+       "gl": "these",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "同事们",
+       "py": "tóngshìmen",
+       "gl": "colleagues",
        "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "越来越",
+       "py": "yuèláiyuè",
+       "gl": "more and more",
+       "pos": "adv."
+      },
+      {
+       "h": "喜欢",
+       "py": "xǐhuan",
+       "gl": "like; love",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But last week my manager posted another flawed plan; I replied \"OK,\" then stared at the screen for a long time.",
+   "phrases": [
+    {
+     "en": "But last week my manager posted another flawed plan; I replied \"OK,\" then stared at the screen for a long time.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "经理",
+       "py": "jīnglǐ",
+       "gl": "manager",
+       "pos": "n."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again; both… and… (又…又…)",
+       "pos": "adv."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "post (on social media)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "方案",
+       "py": "fāng'àn",
+       "gl": "plan; proposal",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "reply",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "然后",
+       "py": "ránhòu",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lao Pan, across from me, looked up, glanced at me, and said nothing.",
+   "phrases": [
+    {
+     "en": "Lao Pan, across from me, looked up, glanced at me, and said nothing.",
+     "words": [
+      {
+       "h": "对面",
+       "py": "duìmiàn",
+       "gl": "opposite; across the way",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "老潘",
+       "py": "Lǎo Pān",
+       "gl": "Lao Pan",
+       "pos": "proper noun"
+      },
+      {
+       "h": "抬起头",
+       "py": "táiqǐtóu",
+       "gl": "raise one's head; look up",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一眼",
+       "py": "yīyǎn",
+       "gl": "one glance; at a glance",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
       },
       {
        "h": "。"

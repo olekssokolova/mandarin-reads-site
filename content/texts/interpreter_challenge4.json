@@ -1,35 +1,62 @@
 {
  "id": "interpreter_challenge4",
  "level": 4,
- "title_zh": "同声传译的挑战",
- "title_en": "The Challenges of Simultaneous Interpreting",
+ "title_zh": "一心二用",
+ "title_en": "Two Things at Once",
  "free": false,
  "audio_url": null,
- "note_en": "一边……一边…… describes two actions happening at the same time: 一边听一种语言，一边说出另一种语言 \"listening in one language while speaking in another.\" English uses \"while,\" but Chinese puts 一边 before each of the two verbs.",
+ "note_en": "The chengyu 一心二用 (\"one heart for two uses\") describes doing two things at the same time: 译员需要一心二用 — \"an interpreter has to do two things at once.\" It often sounds like a reproach for being distracted, but for a simultaneous interpreter it's simply a necessity.",
  "sentences": [
   {
-   "en": "Simultaneous interpreting is considered one of the most challenging kinds of translation work.",
+   "en": "I'm a simultaneous interpreter, and simultaneous interpreting is considered the most challenging kind of translation work.",
    "phrases": [
     {
-     "en": "Simultaneous interpreting is considered one of the most challenging kinds of translation work.",
+     "en": "I'm a simultaneous interpreter, and simultaneous interpreting is considered the most challenging kind of translation work.",
      "words": [
       {
-       "h": "同声",
-       "py": "tóngshēng",
-       "gl": "simultaneous (同声传译 simultaneous interpreting)",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一名",
+       "py": "yīmíng",
+       "gl": "one (person; 名 is the measure word for people)",
+       "pos": "measure word"
+      },
+      {
+       "h": "同传",
+       "py": "tóngchuán",
+       "gl": "simultaneous interpreter; interpreting",
        "pos": "n."
       },
       {
-       "h": "传译",
-       "py": "chuányì",
-       "gl": "interpret; interpreting (同声传译 simultaneous interpreting)",
-       "pos": "v."
+       "h": "译员",
+       "py": "yìyuán",
+       "gl": "interpreter; translator",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "同声传译",
+       "py": "tóngshēng chuányì",
+       "gl": "simultaneous interpretation",
+       "pos": "n."
       },
       {
        "h": "被",
        "py": "bèi",
        "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "pos": "function word"
       },
       {
        "h": "认为",
@@ -46,8 +73,8 @@
       {
        "h": "翻译",
        "py": "fānyì",
-       "gl": "translate; translator",
-       "pos": "n."
+       "gl": "translate; translation",
+       "pos": "v."
       },
       {
        "h": "工作",
@@ -58,44 +85,32 @@
       {
        "h": "中",
        "py": "zhōng",
-       "gl": "in (the course of); among",
-       "pos": "n."
+       "gl": "in; during (工作中 at work)",
+       "pos": "postposition"
       },
       {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "具",
-       "py": "jù",
-       "gl": "have; possess (literary)",
+       "h": "最具",
+       "py": "zuìjù",
+       "gl": "most (最具代表性 most representative)",
        "pos": "v."
       },
       {
        "h": "挑战性",
        "py": "tiǎozhànxìng",
        "gl": "challenging",
-       "pos": "adj."
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
+       "h": "一种",
+       "py": "yīzhǒng",
+       "gl": "a kind of; a type of",
        "pos": "num."
-      },
-      {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "kind; type (measure word)",
-       "pos": "measure word"
       },
       {
        "h": "。"
@@ -105,10 +120,10 @@
    ]
   },
   {
-   "en": "Interpreters have to do two things at once: listen in one language while speaking in another.",
+   "en": "An interpreter has to do two things at once: listen in one language while speaking in another.",
    "phrases": [
     {
-     "en": "Interpreters have to do two things at once: listen in one language while speaking in another.",
+     "en": "An interpreter has to do two things at once: listen in one language while speaking in another.",
      "words": [
       {
        "h": "译员",
@@ -119,12 +134,12 @@
       {
        "h": "需要",
        "py": "xūyào",
-       "gl": "need; require",
+       "gl": "need to; have to",
        "pos": "v."
       },
       {
        "h": "一心二用",
-       "py": "yìxīn'èryòng",
+       "py": "yì xīn èr yòng",
        "gl": "do two things at once; split one's attention (idiom)",
        "pos": "phrase"
       },
@@ -135,7 +150,7 @@
        "h": "一边",
        "py": "yìbiān",
        "gl": "at the same time (一边…一边… doing two things at once)",
-       "pos": "adv."
+       "pos": "conj."
       },
       {
        "h": "听",
@@ -144,16 +159,10 @@
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
+       "h": "一种",
+       "py": "yīzhǒng",
+       "gl": "a kind of; a type of",
        "pos": "num."
-      },
-      {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "kind; type (measure word)",
-       "pos": "measure word"
       },
       {
        "h": "语言",
@@ -168,37 +177,19 @@
        "h": "一边",
        "py": "yìbiān",
        "gl": "at the same time (一边…一边… doing two things at once)",
-       "pos": "adv."
+       "pos": "conj."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "说出",
+       "py": "shuōchū",
+       "gl": "say out loud; speak out",
        "pos": "v."
       },
       {
-       "h": "出",
-       "py": "chū",
-       "gl": "(after verb) out; come out; go out",
-       "pos": "v."
-      },
-      {
-       "h": "另",
-       "py": "lìng",
-       "gl": "another; other",
+       "h": "另一种",
+       "py": "lìngyīzhǒng",
+       "gl": "another kind of; a different kind of",
        "pos": "pron."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "kind; type (measure word)",
-       "pos": "measure word"
       },
       {
        "h": "语言",
@@ -214,10 +205,483 @@
    ]
   },
   {
-   "en": "When they come across chengyu (four-character idioms), puns and the like, the challenge gets even bigger.",
+   "en": "That morning I was in the booth, interpreting an international medical conference.",
    "phrases": [
     {
-     "en": "When they come across chengyu (four-character idioms), puns and the like, the challenge gets even bigger.",
+     "en": "That morning I was in the booth, interpreting an international medical conference.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "上午",
+       "py": "shàngwǔ",
+       "gl": "morning; a.m.",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "箱子",
+       "py": "xiāngzi",
+       "gl": "booth (interpreter's)",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "翻译",
+       "py": "fānyì",
+       "gl": "translate; translation",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "国际",
+       "py": "guójì",
+       "gl": "international",
+       "pos": "adj."
+      },
+      {
+       "h": "医学",
+       "py": "yīxué",
+       "gl": "medicine (field of study)",
+       "pos": "n."
+      },
+      {
+       "h": "会议",
+       "py": "huìyì",
+       "gl": "meeting; conference",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At the very same time, my dad was having heart surgery in the hospital.",
+   "phrases": [
+    {
+     "en": "At the very same time, my dad was having heart surgery in the hospital.",
+     "words": [
+      {
+       "h": "同一个",
+       "py": "tóngyīgè",
+       "gl": "the same (one)",
+       "pos": "pron."
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "正在",
+       "py": "zhèngzài",
+       "gl": "be in the middle of (doing)",
+       "pos": "adv."
+      },
+      {
+       "h": "医院",
+       "py": "yīyuàn",
+       "gl": "hospital",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "心脏",
+       "py": "xīnzàng",
+       "gl": "heart (organ)",
+       "pos": "n."
+      },
+      {
+       "h": "手术",
+       "py": "shǒushù",
+       "gl": "surgery; operation",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "My phone lay on the table, screen up, waiting for a WeChat message from my mom.",
+   "phrases": [
+    {
+     "en": "My phone lay on the table, screen up, waiting for a WeChat message from my mom.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "放在",
+       "py": "fàngzài",
+       "gl": "put in; put on; place",
+       "pos": "v."
+      },
+      {
+       "h": "桌子",
+       "py": "zhuōzi",
+       "gl": "table; desk",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "朝",
+       "py": "cháo",
+       "gl": "toward; facing",
+       "pos": "prep."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "particle"
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "微信",
+       "py": "Wēixìn",
+       "gl": "WeChat (messaging app)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In recent years, AI live-subtitle technology has developed fast, and many international conferences now use both human interpreters and machine-translated subtitles.",
+   "phrases": [
+    {
+     "en": "In recent years, AI live-subtitle technology has developed fast, and many international conferences now use both human interpreters and machine-translated subtitles.",
+     "words": [
+      {
+       "h": "这几年",
+       "py": "zhèjǐnián",
+       "gl": "these past few years; in recent years",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "AI"
+      },
+      {
+       "h": "实时字幕",
+       "py": "shíshí zìmù",
+       "gl": "live subtitles",
+       "pos": "n."
+      },
+      {
+       "h": "技术",
+       "py": "jìshù",
+       "gl": "technology",
+       "pos": "n."
+      },
+      {
+       "h": "发展",
+       "py": "fāzhǎn",
+       "gl": "develop; development",
+       "pos": "v."
+      },
+      {
+       "h": "很快",
+       "py": "hěnkuài",
+       "gl": "quickly; soon",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不少",
+       "py": "bùshǎo",
+       "gl": "quite a lot; a good deal",
+       "pos": "adj."
+      },
+      {
+       "h": "国际",
+       "py": "guójì",
+       "gl": "international",
+       "pos": "adj."
+      },
+      {
+       "h": "会议",
+       "py": "huìyì",
+       "gl": "meeting; conference",
+       "pos": "n."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
+       "pos": "v."
+      },
+      {
+       "h": "同时",
+       "py": "tóngshí",
+       "gl": "at the same time; meanwhile",
+       "pos": "adv."
+      },
+      {
+       "h": "使用",
+       "py": "shǐyòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "人工",
+       "py": "réngōng",
+       "gl": "human (not machine)",
+       "pos": "adj."
+      },
+      {
+       "h": "同传",
+       "py": "tóngchuán",
+       "gl": "simultaneous interpreter; interpreting",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "机器翻译",
+       "py": "jīqì fānyì",
+       "gl": "machine translation",
+       "pos": "n."
+      },
+      {
+       "h": "字幕",
+       "py": "zìmù",
+       "gl": "subtitles; captions",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That conference was the same: the subtitles on the screen were even faster than me.",
+   "phrases": [
+    {
+     "en": "That conference was the same: the subtitles on the screen were even faster than me.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "会议",
+       "py": "huìyì",
+       "gl": "meeting; conference",
+       "pos": "n."
+      },
+      {
+       "h": "也是",
+       "py": "yěshì",
+       "gl": "also; too",
+       "pos": "conj."
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "字幕",
+       "py": "zìmù",
+       "gl": "subtitles; captions",
+       "pos": "n."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When it comes to chengyu, puns, and the like, the challenge is even greater.",
+   "phrases": [
+    {
+     "en": "When it comes to chengyu, puns, and the like, the challenge is even greater.",
      "words": [
       {
        "h": "遇到",
@@ -270,19 +734,13 @@
       {
        "h": "就",
        "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
+       "h": "更大",
+       "py": "gèngdà",
+       "gl": "bigger; larger",
        "pos": "adj."
       },
       {
@@ -299,187 +757,33 @@
    ]
   },
   {
-   "en": "Good simultaneous interpreters usually need years of hard training.",
+   "en": "An old professor told a joke about the \"heart\" — it was a pun.",
    "phrases": [
     {
-     "en": "Good simultaneous interpreters usually need years of hard training.",
+     "en": "An old professor told a joke about the \"heart\" — it was a pun.",
      "words": [
       {
-       "h": "优秀",
-       "py": "yōuxiù",
-       "gl": "excellent; outstanding",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "同传",
-       "py": "tóngchuán",
-       "gl": "simultaneous interpreting (short form)",
-       "pos": "n."
-      },
-      {
-       "h": "译员",
-       "py": "yìyuán",
-       "gl": "interpreter; translator",
-       "pos": "n."
-      },
-      {
-       "h": "往往",
-       "py": "wǎngwǎng",
-       "gl": "often; usually; tend to",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require",
-       "pos": "v."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "刻苦",
-       "py": "kèkǔ",
-       "gl": "hardworking; diligent",
-       "pos": "adj."
-      },
-      {
-       "h": "训练",
-       "py": "xùnliàn",
-       "gl": "train",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I once interviewed a simultaneous interpreter, and she said every job felt like running a marathon.",
-   "phrases": [
-    {
-     "en": "I once interviewed a simultaneous interpreter, and she said every job felt like running a marathon.",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "采访",
-       "py": "cǎifǎng",
-       "gl": "interview",
-       "pos": "v."
-      },
-      {
-       "h": "过",
-       "py": "guò",
-       "gl": "particle: past experience; spend (time); celebrate; pass",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "位",
-       "py": "wèi",
-       "gl": "polite measure word for people",
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
        "pos": "measure word"
       },
       {
-       "h": "同传",
-       "py": "tóngchuán",
-       "gl": "simultaneous interpreting (short form)",
+       "h": "老",
+       "py": "lǎo",
+       "gl": "old; elderly",
+       "pos": "adj."
+      },
+      {
+       "h": "教授",
+       "py": "jiàoshòu",
+       "gl": "professor",
        "pos": "n."
       },
       {
-       "h": "译员",
-       "py": "yìyuán",
-       "gl": "interpreter; translator",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
-       "pos": "pron."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
-       "pos": "measure word"
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "完",
-       "py": "wán",
-       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
-       "pos": "v."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like",
-       "pos": "v."
-      },
-      {
-       "h": "跑",
-       "py": "pǎo",
-       "gl": "run",
+       "h": "讲",
+       "py": "jiǎng",
+       "gl": "tell; talk about",
        "pos": "v."
       },
       {
@@ -489,21 +793,60 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "场",
-       "py": "chǎng",
-       "gl": "measure word for events, games, performances",
-       "pos": "measure word"
+       "h": "关于",
+       "py": "guānyú",
+       "gl": "about; concerning",
+       "pos": "prep."
       },
       {
-       "h": "马拉松",
-       "py": "mǎlāsōng",
-       "gl": "marathon",
+       "h": "“"
+      },
+      {
+       "h": "心",
+       "py": "xīn",
+       "gl": "heart; mind",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "笑话",
+       "py": "xiàohuà",
+       "gl": "joke; (闹笑话 make a fool of oneself)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "那是",
+       "py": "nàshì",
+       "gl": "of course; sure (that's right)",
+       "pos": "phrase"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "双关语",
+       "py": "shuāngguānyǔ",
+       "gl": "pun",
        "pos": "n."
       },
       {
@@ -514,40 +857,28 @@
    ]
   },
   {
-   "en": "In recent years, AI real-time captioning has developed quickly, and quite a few international conferences have started using both human interpreters and machine-translated captions at the same time.",
+   "en": "The subtitles on the screen translated it very accurately, but nobody laughed.",
    "phrases": [
     {
-     "en": "In recent years, AI real-time captioning has developed quickly,",
+     "en": "The subtitles on the screen translated it very accurately, but nobody laughed.",
      "words": [
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this; these",
-       "pos": "pron."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "question word"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
-       "h": "AI"
-      },
-      {
-       "h": "实时",
-       "py": "shíshí",
-       "gl": "real-time",
-       "pos": "adj."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "字幕",
@@ -556,16 +887,16 @@
        "pos": "n."
       },
       {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
+       "h": "翻",
+       "py": "fān",
+       "gl": "to translate",
+       "pos": "v."
       },
       {
-       "h": "发展",
-       "py": "fāzhǎn",
-       "gl": "develop; grow",
-       "pos": "v."
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
       },
       {
        "h": "很",
@@ -574,90 +905,31 @@
        "pos": "adv."
       },
       {
-       "h": "快",
-       "py": "kuài",
-       "gl": "fast; quick; quickly",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and quite a few international conferences have started using both human interpreters and machine-translated captions at the same time.",
-     "words": [
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "国际",
-       "py": "guójì",
-       "gl": "international",
-       "pos": "adj."
-      },
-      {
-       "h": "会议",
-       "py": "huìyì",
-       "gl": "meeting; conference",
-       "pos": "n."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "同时",
-       "py": "tóngshí",
-       "gl": "at the same time; meanwhile",
+       "h": "准确",
+       "py": "zhǔnquè",
+       "gl": "accurately; precisely",
        "pos": "adv."
       },
       {
-       "h": "使用",
-       "py": "shǐyòng",
-       "gl": "use",
-       "pos": "v."
+       "h": "，"
       },
       {
-       "h": "人工",
-       "py": "réngōng",
-       "gl": "human (as opposed to machine: 人工同传 human interpreting)",
-       "pos": "adj."
-      },
-      {
-       "h": "同传",
-       "py": "tóngchuán",
-       "gl": "simultaneous interpreting",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
        "pos": "conj."
       },
       {
-       "h": "机器",
-       "py": "jīqì",
-       "gl": "machine",
-       "pos": "n."
+       "h": "没有人",
+       "py": "méiyǒurén",
+       "gl": "nobody; no one",
+       "pos": "pron."
       },
       {
-       "h": "翻译",
-       "py": "fānyì",
-       "gl": "translation; translate",
-       "pos": "n."
-      },
-      {
-       "h": "字幕",
-       "py": "zìmù",
-       "gl": "subtitles; captions",
-       "pos": "n."
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -667,47 +939,11 @@
    ]
   },
   {
-   "en": "But that interpreter told me that when it comes to puns and content with deep cultural roots, machine translation still can't beat an experienced person, at least for now.",
+   "en": "I put it a different way, and the audience laughed.",
    "phrases": [
     {
-     "en": "But that interpreter told me that when it comes to puns and content with deep cultural roots,",
+     "en": "I put it a different way, and the audience laughed.",
      "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
-      },
-      {
-       "h": "位",
-       "py": "wèi",
-       "gl": "polite measure word for people",
-       "pos": "measure word"
-      },
-      {
-       "h": "女",
-       "py": "nǚ",
-       "gl": "female; woman",
-       "pos": "adj."
-      },
-      {
-       "h": "翻译",
-       "py": "fānyì",
-       "gl": "translator; interpreter",
-       "pos": "n."
-      },
-      {
-       "h": "告诉",
-       "py": "gàosù",
-       "gl": "tell",
-       "pos": "v."
-      },
       {
        "h": "我",
        "py": "wǒ",
@@ -715,8 +951,81 @@
        "pos": "pron."
       },
       {
+       "h": "换",
+       "py": "huàn",
+       "gl": "change (换个角度 from another angle)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一种",
+       "py": "yīzhǒng",
+       "gl": "a kind of; a type of",
+       "pos": "num."
+      },
+      {
+       "h": "说法",
+       "py": "shuōfǎ",
+       "gl": "way of saying; expression",
+       "pos": "n."
+      },
+      {
        "h": "，"
       },
+      {
+       "h": "台下",
+       "py": "táixià",
+       "gl": "in the audience; offstage",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "With puns and content deeply rooted in culture, machine translation still can't match an experienced human — for now.",
+   "phrases": [
+    {
+     "en": "With puns and content deeply rooted in culture, machine translation still can't match an experienced human — for now.",
+     "words": [
       {
        "h": "遇到",
        "py": "yùdào",
@@ -732,7 +1041,7 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
@@ -779,22 +1088,11 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "machine translation still can't beat an experienced person, at least for now.",
-     "words": [
-      {
-       "h": "机器",
-       "py": "jīqì",
-       "gl": "machine",
-       "pos": "n."
       },
       {
-       "h": "翻译",
-       "py": "fānyì",
-       "gl": "translation; translate",
+       "h": "机器翻译",
+       "py": "jīqì fānyì",
+       "gl": "machine translation",
        "pos": "n."
       },
       {
@@ -818,7 +1116,7 @@
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
@@ -837,6 +1135,476 @@
        "h": "人",
        "py": "rén",
        "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Just then my phone lit up: \"The surgery went well.\"",
+   "phrases": [
+    {
+     "en": "Just then my phone lit up: \"The surgery went well.\"",
+     "words": [
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "那时候",
+       "py": "nàshíhòu",
+       "gl": "at that time; back then",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "亮",
+       "py": "liàng",
+       "gl": "to light up (of a screen)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "手术",
+       "py": "shǒushù",
+       "gl": "surgery; operation",
+       "pos": "n."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "顺利",
+       "py": "shùnlì",
+       "gl": "smooth; successful; go well",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I didn't stop; I kept interpreting for another forty minutes without a single mistake.",
+   "phrases": [
+    {
+     "en": "I didn't stop; I kept interpreting for another forty minutes without a single mistake.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "停下来",
+       "py": "tíngxiàlái",
+       "gl": "stop; pause",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "继续",
+       "py": "jìxù",
+       "gl": "continue; go on",
+       "pos": "v."
+      },
+      {
+       "h": "翻译",
+       "py": "fānyì",
+       "gl": "translate; translation",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "四十",
+       "py": "sìshí",
+       "gl": "forty",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个字",
+       "py": "yígèzì",
+       "gl": "one character",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "错",
+       "py": "cuò",
+       "gl": "wrong; mistaken (坐错 take the wrong one)",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A good simultaneous interpreter usually needs years of hard training; I practiced for ten years before I learned to keep my voice from shaking.",
+   "phrases": [
+    {
+     "en": "A good simultaneous interpreter usually needs years of hard training; I practiced for ten years before I learned to keep my voice from shaking.",
+     "words": [
+      {
+       "h": "优秀",
+       "py": "yōuxiù",
+       "gl": "excellent; outstanding",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "同传",
+       "py": "tóngchuán",
+       "gl": "simultaneous interpreter; interpreting",
+       "pos": "n."
+      },
+      {
+       "h": "译员",
+       "py": "yìyuán",
+       "gl": "interpreter; translator",
+       "pos": "n."
+      },
+      {
+       "h": "往往",
+       "py": "wǎngwǎng",
+       "gl": "often; usually; tend to",
+       "pos": "adv."
+      },
+      {
+       "h": "需要",
+       "py": "xūyào",
+       "gl": "need to; have to",
+       "pos": "v."
+      },
+      {
+       "h": "多年",
+       "py": "duōnián",
+       "gl": "many years",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "刻苦",
+       "py": "kèkǔ",
+       "gl": "hardworking; diligent",
+       "pos": "adj."
+      },
+      {
+       "h": "训练",
+       "py": "xùnliàn",
+       "gl": "training",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "练",
+       "py": "liàn",
+       "gl": "practice; train",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "十年",
+       "py": "shínián",
+       "gl": "ten years; decade",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "学会",
+       "py": "xuéhuì",
+       "gl": "learn (to do); master",
+       "pos": "v."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound; voice",
+       "pos": "n."
+      },
+      {
+       "h": "发抖",
+       "py": "fādǒu",
+       "gl": "tremble; shake",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After every job, I feel as if I've run a marathon.",
+   "phrases": [
+    {
+     "en": "After every job, I feel as if I've run a marathon.",
+     "words": [
+      {
+       "h": "每次",
+       "py": "měicì",
+       "gl": "every time",
+       "pos": "adv."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "跑",
+       "py": "pǎo",
+       "gl": "run; go (somewhere)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一场",
+       "py": "yīcháng",
+       "gl": "a; one (measure word for events, performances, dreams)",
+       "pos": "measure word"
+      },
+      {
+       "h": "马拉松",
+       "py": "mǎlāsōng",
+       "gl": "marathon",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That day after work, I really did start running — all the way to the hospital.",
+   "phrases": [
+    {
+     "en": "That day after work, I really did start running — all the way to the hospital.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "下班",
+       "py": "xiàbān",
+       "gl": "get off work; finish work",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "真的",
+       "py": "zhēnde",
+       "gl": "really; truly",
+       "pos": "adv."
+      },
+      {
+       "h": "跑",
+       "py": "pǎo",
+       "gl": "rush (somewhere)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "跑到",
+       "py": "pǎodào",
+       "gl": "run to; go (all the way) to",
+       "pos": "v."
+      },
+      {
+       "h": "医院",
+       "py": "yīyuàn",
+       "gl": "hospital",
        "pos": "n."
       },
       {

@@ -1,54 +1,61 @@
 {
  "id": "shortvideo",
  "level": 4,
- "title_zh": "短视频",
- "title_en": "Short Videos",
+ "title_zh": "我是推荐算法",
+ "title_en": "I Am the Recommendation Algorithm",
  "free": false,
  "audio_url": null,
- "note_en": "甚至 (shènzhì) means \"even\" and marks the most surprising item in a list or a description. It goes right before the verb or phrase it emphasizes: 每天刷短视频甚至忘了吃饭、睡觉 \"scrolls through short videos every day and even forgets to eat and sleep.\" Note 刷 (\"brush\"), the everyday verb for scrolling through a feed.",
+ "note_en": "The word 甚至 (\"even\") strengthens the last example and stresses how surprising it is: 甚至忘了吃饭、睡觉 — \"even forgot to eat and sleep.\" It goes right before the word or phrase it highlights.",
  "sentences": [
   {
-   "en": "These past couple of years, almost everyone has been using short-video apps.",
+   "en": "I'm a recommendation algorithm, and I live inside a short-video app.",
    "phrases": [
     {
-     "en": "These past couple of years,",
+     "en": "I'm a recommendation algorithm, and I live inside a short-video app.",
      "words": [
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two (before measure words)",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "推荐算法",
+       "py": "tuījiàn suànfǎ",
+       "gl": "recommendation algorithm",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "short-video apps",
-     "words": [
-      {
-       "h": "短",
-       "py": "duǎn",
-       "gl": "short",
-       "pos": "adj."
       },
       {
-       "h": "视频",
-       "py": "shìpín",
-       "gl": "video; video call",
+       "h": "住在",
+       "py": "zhùzài",
+       "gl": "live in; live at",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "短视频",
+       "py": "duǎnshìpín",
+       "gl": "short videos",
        "pos": "n."
       },
       {
@@ -56,12 +63,47 @@
        "py": "ruǎnjiàn",
        "gl": "app; software",
        "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "In the past couple of years almost everyone uses short-video apps, so I'm very busy.",
+   "phrases": [
     {
-     "en": "are being used by almost everyone.",
+     "en": "In the past couple of years almost everyone uses short-video apps, so I'm very busy.",
      "words": [
+      {
+       "h": "这两年",
+       "py": "zhèliǎngnián",
+       "gl": "the past couple of years",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "短视频",
+       "py": "duǎnshìpín",
+       "gl": "short videos",
+       "pos": "n."
+      },
+      {
+       "h": "软件",
+       "py": "ruǎnjiàn",
+       "gl": "app; software",
+       "pos": "n."
+      },
       {
        "h": "几乎",
        "py": "jīhū",
@@ -83,7 +125,7 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -93,120 +135,31 @@
        "pos": "v."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "You open your phone, and the videos keep coming one after another until you just can't stop.",
-   "phrases": [
-    {
-     "en": "You open your phone,",
-     "words": [
-      {
-       "h": "打开",
-       "py": "dǎkāi",
-       "gl": "open",
-       "pos": "v."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the videos, one after another,",
-     "words": [
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
+       "h": "所以",
+       "py": "suǒyǐ",
+       "gl": "so; therefore",
+       "pos": "conj."
       },
       {
-       "h": "接",
-       "py": "jiē",
-       "gl": "meet; pick up (someone); follow on (一个接一个 \"one after another\")",
-       "pos": "v."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "视频",
-       "py": "shìpín",
-       "gl": "video; video call",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "make it impossible to stop.",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "根本",
-       "py": "gēnběn",
-       "gl": "at all (in negatives); fundamentally",
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
        "pos": "adv."
       },
       {
-       "h": "停",
-       "py": "tíng",
-       "gl": "stop; park",
-       "pos": "v."
-      },
-      {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "下来",
-       "py": "xiàlái",
-       "gl": "verb complement: settling down (坐下来 sit down)",
-       "pos": "particle"
+       "h": "忙",
+       "py": "máng",
+       "gl": "busy",
+       "pos": "adj."
       },
       {
        "h": "。"
@@ -216,10 +169,10 @@
    ]
   },
   {
-   "en": "I have a friend who scrolls through short videos every day and even forgets to eat and sleep.",
+   "en": "I know Xiao Ke better than anyone: he likes kittens, basketball, and watching other people make braised pork.",
    "phrases": [
     {
-     "en": "I have a friend",
+     "en": "I know Xiao Ke better than anyone: he likes kittens, basketball, and watching other people make braised pork.",
      "words": [
       {
        "h": "我",
@@ -228,37 +181,235 @@
        "pos": "pron."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "任何人",
+       "py": "rènhérén",
+       "gl": "anyone; anybody",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "了解",
+       "py": "liǎojiě",
+       "gl": "get to know; understand",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "小柯",
+       "py": "Xiǎo Kē",
+       "gl": "Xiao Ke",
+       "pos": "proper noun"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "喜欢",
+       "py": "xǐhuan",
+       "gl": "like; love",
+       "pos": "v."
+      },
+      {
+       "h": "猫咪",
+       "py": "māomī",
+       "gl": "kitty; cat",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "篮球",
+       "py": "lánqiú",
+       "gl": "basketball",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "喜欢",
+       "py": "xǐhuan",
+       "gl": "like; love",
+       "pos": "v."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "别人",
+       "py": "biérén",
+       "gl": "other people; others",
+       "pos": "pron."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "红烧肉",
+       "py": "hóngshāoròu",
+       "gl": "red-braised pork",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "One video after another, and you simply can't stop — that's exactly the effect I want.",
+   "phrases": [
+    {
+     "en": "One video after another, and you simply can't stop — that's exactly the effect I want.",
+     "words": [
+      {
+       "h": "一个接一个",
+       "py": "yígèjiēyígè",
+       "gl": "one after another",
+       "pos": "adv."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video; video call",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "让人",
+       "py": "ràngrén",
+       "gl": "make people; let people",
+       "pos": "v."
+      },
+      {
+       "h": "根本",
+       "py": "gēnběn",
+       "gl": "at all (in negatives); fundamentally",
+       "pos": "adv."
+      },
+      {
+       "h": "停不下来",
+       "py": "tíngbuxiàlái",
+       "gl": "cannot stop",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this; these",
+       "pos": "pron."
+      },
+      {
+       "h": "正是",
+       "py": "zhèngshì",
+       "gl": "precisely; it is exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "想要",
+       "py": "xiǎngyào",
+       "gl": "want",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "效果",
+       "py": "xiàoguǒ",
+       "gl": "effect; result",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He has a friend who scrolls through the videos I recommend every day and even forgets to eat and sleep.",
+   "phrases": [
+    {
+     "en": "He has a friend who scrolls through the videos I recommend every day and even forgets to eat and sleep.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
        "h": "朋友",
-       "py": "péngyou",
+       "py": "péngyǒu",
        "gl": "friend",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "who scrolls through short videos every day",
-     "words": [
+      },
       {
        "h": "每天",
        "py": "měitiān",
@@ -268,31 +419,41 @@
       {
        "h": "刷",
        "py": "shuā",
-       "gl": "scan; swipe (a card); scroll (a feed)",
+       "gl": "to scroll (a feed)",
        "pos": "v."
       },
       {
-       "h": "短",
-       "py": "duǎn",
-       "gl": "short",
-       "pos": "adj."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "推荐",
+       "py": "tuījiàn",
+       "gl": "recommend; recommendation",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "视频",
        "py": "shìpín",
        "gl": "video; video call",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "and even forgets to eat and sleep.",
-     "words": [
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "甚至",
        "py": "shènzhì",
        "gl": "even; so much so that",
-       "pos": "conj."
+       "pos": "adv."
       },
       {
        "h": "忘",
@@ -329,21 +490,58 @@
    ]
   },
   {
-   "en": "Short videos really can help you relax and learn new things, but they're far too addictive.",
+   "en": "I call that success.",
    "phrases": [
     {
-     "en": "Short videos really can help you relax",
+     "en": "I call that success.",
      "words": [
       {
-       "h": "短",
-       "py": "duǎn",
-       "gl": "short",
-       "pos": "adj."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
-       "h": "视频",
-       "py": "shìpín",
-       "gl": "video; video call",
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "叫做",
+       "py": "jiàozuò",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "成功",
+       "py": "chénggōng",
+       "gl": "succeed; success; successful",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Short videos really can help people relax and learn new things, but they make it far too easy to get addicted.",
+   "phrases": [
+    {
+     "en": "Short videos really can help people relax and learn new things, but they make it far too easy to get addicted.",
+     "words": [
+      {
+       "h": "短视频",
+       "py": "duǎnshìpín",
+       "gl": "short videos",
        "pos": "n."
       },
       {
@@ -356,19 +554,13 @@
        "h": "能",
        "py": "néng",
        "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
        "pos": "v."
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
+       "h": "让人",
+       "py": "ràngrén",
+       "gl": "make people; let people",
+       "pos": "v."
       },
       {
        "h": "放松",
@@ -378,22 +570,11 @@
       },
       {
        "h": "、"
-      }
-     ]
-    },
-    {
-     "en": "and learn new things,",
-     "words": [
-      {
-       "h": "学",
-       "py": "xué",
-       "gl": "study; learn",
-       "pos": "v."
       },
       {
-       "h": "到",
-       "py": "dào",
-       "gl": "arrive; reach; come",
+       "h": "学到",
+       "py": "xuédào",
+       "gl": "learn",
        "pos": "v."
       },
       {
@@ -410,12 +591,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but they're far too addictive.",
-     "words": [
+      },
       {
        "h": "但是",
        "py": "dànshì",
@@ -435,21 +611,15 @@
        "pos": "adj."
       },
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "h": "让人",
+       "py": "ràngrén",
+       "gl": "make people; let people",
        "pos": "v."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
       },
       {
        "h": "上瘾",
        "py": "shàngyǐn",
-       "gl": "get hooked; become addicted",
+       "gl": "to get addicted",
        "pos": "v."
       },
       {
@@ -460,21 +630,30 @@
    ]
   },
   {
-   "en": "I set myself a rule: only half an hour a day.",
+   "en": "Last month Xiao Ke set himself a rule: only half an hour a day.",
    "phrases": [
     {
-     "en": "I set myself a rule:",
+     "en": "Last month Xiao Ke set himself a rule: only half an hour a day.",
      "words": [
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
+       "h": "上个月",
+       "py": "shànggèyuè",
+       "gl": "last month",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "小柯",
+       "py": "Xiǎo Kē",
+       "gl": "Xiao Ke",
+       "pos": "proper noun"
       },
       {
        "h": "给",
        "py": "gěi",
-       "gl": "for; to (someone); give",
+       "gl": "to; for (someone); give",
        "pos": "prep."
       },
       {
@@ -496,16 +675,10 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "规则",
@@ -515,12 +688,7 @@
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "only half an hour a day.",
-     "words": [
+      },
       {
        "h": "每天",
        "py": "měitiān",
@@ -529,9 +697,9 @@
       },
       {
        "h": "只",
-       "py": "zhī",
-       "gl": "measure word for animals (and one of a pair)",
-       "pos": "measure word"
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
       },
       {
        "h": "看",
@@ -540,21 +708,9 @@
        "pos": "v."
       },
       {
-       "h": "半",
-       "py": "bàn",
-       "gl": "half",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "小时",
-       "py": "xiǎoshí",
-       "gl": "hour",
+       "h": "半个小时",
+       "py": "bàngèxiǎoshí",
+       "gl": "half an hour",
        "pos": "n."
       },
       {
@@ -565,28 +721,43 @@
    ]
   },
   {
-   "en": "That way I can unwind a bit without it eating up too much of my time.",
+   "en": "He said that way he could relax a little without taking up too much time.",
    "phrases": [
     {
-     "en": "That way I can unwind a bit,",
+     "en": "He said that way he could relax a little without taking up too much time.",
      "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "这样",
        "py": "zhèyàng",
-       "gl": "like this; this way; such",
+       "gl": "such; like this",
        "pos": "pron."
       },
       {
        "h": "既",
        "py": "jì",
-       "gl": "both… (既…又… both … and …)",
+       "gl": "both (既…又… both … and …)",
        "pos": "conj."
       },
       {
        "h": "能",
        "py": "néng",
        "gl": "can; be able to",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "放松",
@@ -602,47 +773,30 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and it won't take up too much of my time.",
-     "words": [
+      },
       {
        "h": "又",
        "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
+       "gl": "again",
        "pos": "adv."
       },
       {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely (会不会 'will or won't')",
+       "pos": "v."
       },
       {
        "h": "占用",
        "py": "zhànyòng",
-       "gl": "take up (time, space)",
+       "gl": "to take up (time)",
        "pos": "v."
       },
       {
-       "h": "太",
-       "py": "tài",
-       "gl": "too; very",
+       "h": "太多",
+       "py": "tàiduō",
+       "gl": "too many; too much",
        "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
       },
       {
        "h": "时间",
@@ -658,47 +812,11 @@
    ]
   },
   {
-   "en": "The platform's recommendation algorithm knows exactly what I like to watch, and the more I scroll, the less I can stop, which is exactly the effect the algorithm is going for.",
+   "en": "I recommended him the cutest kittens and the most exciting games, but the moment half an hour was up, he closed the app.",
    "phrases": [
     {
-     "en": "The platform's recommendation algorithm knows exactly what I like to watch,",
+     "en": "I recommended him the cutest kittens and the most exciting games, but the moment half an hour was up, he closed the app.",
      "words": [
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "推荐",
-       "py": "tuījiàn",
-       "gl": "recommendation",
-       "pos": "n."
-      },
-      {
-       "h": "算法",
-       "py": "suànfǎ",
-       "gl": "algorithm",
-       "pos": "n."
-      },
-      {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly",
-       "pos": "adv."
-      },
-      {
-       "h": "了解",
-       "py": "liǎojiě",
-       "gl": "know; understand",
-       "pos": "v."
-      },
       {
        "h": "我",
        "py": "wǒ",
@@ -706,104 +824,40 @@
        "pos": "pron."
       },
       {
-       "h": "喜欢",
-       "py": "xǐhuān",
-       "gl": "like; love",
-       "pos": "v."
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
       },
       {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
-       "pos": "v."
-      },
-      {
-       "h": "什么",
-       "py": "shénme",
-       "gl": "what",
-       "pos": "question word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the more I scroll, the less I feel I can stop;",
-     "words": [
-      {
-       "h": "越",
-       "py": "yuè",
-       "gl": "the more … (越…越… the more … the more …)",
-       "pos": "adv."
-      },
-      {
-       "h": "刷",
-       "py": "shuā",
-       "gl": "scroll (through a feed)",
-       "pos": "v."
-      },
-      {
-       "h": "越",
-       "py": "yuè",
-       "gl": "the more … (越…越… the more … the more …)",
-       "pos": "adv."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "停不下来",
-       "py": "tíngbùxiàlái",
-       "gl": "cannot stop",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that's actually exactly the effect the algorithm wants.",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
        "pos": "pron."
       },
       {
-       "h": "其实",
-       "py": "qíshí",
-       "gl": "actually; in fact",
-       "pos": "adv."
-      },
-      {
-       "h": "正",
-       "py": "zhèng",
-       "gl": "precisely; just",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "推荐",
+       "py": "tuījiàn",
+       "gl": "recommend; recommendation",
        "pos": "v."
       },
       {
-       "h": "算法",
-       "py": "suànfǎ",
-       "gl": "algorithm",
-       "pos": "n."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "想要",
-       "py": "xiǎngyào",
-       "gl": "want",
-       "pos": "v."
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "可爱",
+       "py": "kě'ài",
+       "gl": "cute; lovely",
+       "pos": "adj."
       },
       {
        "h": "的",
@@ -812,10 +866,91 @@
        "pos": "particle"
       },
       {
-       "h": "效果",
-       "py": "xiàoguǒ",
-       "gl": "effect; result",
+       "h": "猫咪",
+       "py": "māomī",
+       "gl": "kitty; cat",
        "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "精彩",
+       "py": "jīngcǎi",
+       "gl": "wonderful; exciting; brilliant",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "比赛",
+       "py": "bǐsài",
+       "gl": "competition; match; game",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "半个小时",
+       "py": "bàngèxiǎoshí",
+       "gl": "half an hour",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "关掉",
+       "py": "guāndiào",
+       "gl": "turn off; close down",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -825,10 +960,10 @@
    ]
   },
   {
-   "en": "Now when minors use short-video apps, the apps automatically switch to a \"youth mode\" that limits how long they can use them each day.",
+   "en": "Now when minors use short-video apps, they automatically go into youth mode, and their daily time is limited.",
    "phrases": [
     {
-     "en": "Now when minors use short-video apps, the apps automatically switch to \"youth mode,\"",
+     "en": "Now when minors use short-video apps, they automatically go into youth mode, and their daily time is limited.",
      "words": [
       {
        "h": "现在",
@@ -845,13 +980,13 @@
       {
        "h": "用",
        "py": "yòng",
-       "gl": "use",
+       "gl": "use; with (by means of)",
        "pos": "v."
       },
       {
        "h": "短视频",
        "py": "duǎnshìpín",
-       "gl": "short video",
+       "gl": "short videos",
        "pos": "n."
       },
       {
@@ -861,7 +996,7 @@
        "h": "会",
        "py": "huì",
        "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "自动",
@@ -876,25 +1011,14 @@
        "pos": "v."
       },
       {
-       "h": "青少年",
-       "py": "qīngshàonián",
-       "gl": "teenager; youth (青少年模式 teen mode)",
-       "pos": "n."
-      },
-      {
-       "h": "模式",
-       "py": "móshì",
-       "gl": "mode",
+       "h": "青少年模式",
+       "py": "qīngshàonián móshì",
+       "gl": "youth mode (parental-control setting)",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and their daily screen time is limited.",
-     "words": [
+      },
       {
        "h": "每天",
        "py": "měitiān",
@@ -904,8 +1028,8 @@
       {
        "h": "使用",
        "py": "shǐyòng",
-       "gl": "use; usage",
-       "pos": "n."
+       "gl": "use",
+       "pos": "v."
       },
       {
        "h": "时间",
@@ -917,19 +1041,456 @@
        "h": "会",
        "py": "huì",
        "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "被",
        "py": "bèi",
        "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "pos": "function word"
       },
       {
        "h": "限制",
        "py": "xiànzhì",
-       "gl": "limit; restrict",
+       "gl": "limit; restriction",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But Xiao Ke is already twenty-five; nobody limits him — he stopped on his own.",
+   "phrases": [
+    {
+     "en": "But Xiao Ke is already twenty-five; nobody limits him — he stopped on his own.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "小柯",
+       "py": "Xiǎo Kē",
+       "gl": "Xiao Ke",
+       "pos": "proper noun"
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "二十五",
+       "py": "èrshíwǔ",
+       "gl": "twenty-five",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "没有人",
+       "py": "méiyǒurén",
+       "gl": "nobody; no one",
+       "pos": "pron."
+      },
+      {
+       "h": "限制",
+       "py": "xiànzhì",
+       "gl": "limit; restriction",
+       "pos": "n."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "停下来",
+       "py": "tíngxiàlái",
+       "gl": "stop; pause",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I really wanted to know what he did after closing me.",
+   "phrases": [
+    {
+     "en": "I really wanted to know what he did after closing me.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "find out; learn",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "关掉",
+       "py": "guāndiào",
+       "gl": "turn off; close down",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "做什么",
+       "py": "zuòshénme",
+       "gl": "what for; do what",
+       "pos": "pron."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Later I found the answer in his photo album: he was learning to make braised pork from his mom, and he burned it.",
+   "phrases": [
+    {
+     "en": "Later I found the answer in his photo album: he was learning to make braised pork from his mom, and he burned it.",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "相册",
+       "py": "xiàngcè",
+       "gl": "photo album",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "找到",
+       "py": "zhǎodào",
+       "gl": "find",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "答案",
+       "py": "dáàn",
+       "gl": "answer",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "红烧肉",
+       "py": "hóngshāoròu",
+       "gl": "red-braised pork",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "糊",
+       "py": "hú",
+       "gl": "burn (of food)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the photo, both of them are laughing.",
+   "phrases": [
+    {
+     "en": "In the photo, both of them are laughing.",
+     "words": [
+      {
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "两个人",
+       "py": "liǎnggèrén",
+       "gl": "two people",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I don't know who to recommend this video to.",
+   "phrases": [
+    {
+     "en": "I don't know who to recommend this video to.",
+     "words": [
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video; video call",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "不知道",
+       "py": "bùzhīdào",
+       "gl": "not know; no one knows",
+       "pos": "v."
+      },
+      {
+       "h": "该",
+       "py": "gāi",
+       "gl": "this; the said (formal)",
+       "pos": "pron."
+      },
+      {
+       "h": "推荐",
+       "py": "tuījiàn",
+       "gl": "recommend; recommendation",
+       "pos": "v."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "for; to (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "谁",
+       "py": "shuí",
+       "gl": "who; anyone; everyone (谁也不… nobody)",
+       "pos": "pron."
       },
       {
        "h": "。"

@@ -1,17 +1,17 @@
 {
  "id": "socialmedia",
  "level": 4,
- "title_zh": "手机依赖",
- "title_en": "Phone Addiction",
+ "title_zh": "电梯里的几十秒",
+ "title_en": "A Few Seconds in the Elevator",
  "free": false,
  "audio_url": null,
- "note_en": "一……就…… means \"as soon as ... then\": 很多人一有空就看手机 \"lots of people look at their phones as soon as they have a free moment.\" Both words go right before the verbs, after the subject, which feels unusual to English speakers who'd put \"as soon as\" at the start of a clause.",
+ "note_en": "The concessive pair 哪怕……也…… (\"even if…, still…\") is stronger than a simple \"although\": the result won't change no matter what. 也 is required in the second part: 哪怕只是等电梯的几十秒，我也会拿出手机刷一下 — \"even if it's just the few dozen seconds waiting for the elevator, I'll still pull out my phone and scroll.\"",
  "sentences": [
   {
-   "en": "These days a lot of people check their phones the moment they have a free minute, including me.",
+   "en": "Nowadays many people pick up their phones whenever they have a free moment — me included.",
    "phrases": [
     {
-     "en": "These days a lot of people",
+     "en": "Nowadays many people pick up their phones whenever they have a free moment — me included.",
      "words": [
       {
        "h": "现在",
@@ -20,44 +20,27 @@
        "pos": "n."
       },
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
+       "h": "很多人",
+       "py": "hěnduōrén",
+       "gl": "many people",
+       "pos": "pron."
       },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "check their phones the moment they have a free minute,",
-     "words": [
       {
        "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
+       "pos": "adv."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "有空",
+       "py": "yǒukòng",
+       "gl": "have free time",
        "pos": "v."
-      },
-      {
-       "h": "空",
-       "py": "kōng",
-       "gl": "free (time) (有空 have free time); empty",
-       "pos": "adj."
       },
       {
        "h": "就",
        "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
@@ -74,12 +57,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "including me.",
-     "words": [
+      },
       {
        "h": "包括",
        "py": "bāokuò",
@@ -106,15 +84,15 @@
    ]
   },
   {
-   "en": "Even if it's just the few seconds I spend waiting for the elevator, I'll still take out my phone and scroll a little.",
+   "en": "Even if it's just the few dozen seconds waiting for the elevator, I'll still pull out my phone and scroll.",
    "phrases": [
     {
-     "en": "Even if it's just the few seconds I spend waiting for the elevator,",
+     "en": "Even if it's just the few dozen seconds waiting for the elevator, I'll still pull out my phone and scroll.",
      "words": [
       {
        "h": "哪怕",
        "py": "nǎpà",
-       "gl": "even if",
+       "gl": "(哪怕…也…) even if",
        "pos": "conj."
       },
       {
@@ -126,8 +104,8 @@
       {
        "h": "等",
        "py": "děng",
-       "gl": "wait",
-       "pos": "v."
+       "gl": "and so on; etc.",
+       "pos": "particle"
       },
       {
        "h": "电梯",
@@ -138,35 +116,24 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "how many (under ten); which (number)",
-       "pos": "question word"
-      },
-      {
-       "h": "十",
-       "py": "shí",
-       "gl": "ten",
+       "h": "几十",
+       "py": "jǐshí",
+       "gl": "several dozen; tens of",
        "pos": "num."
       },
       {
        "h": "秒",
        "py": "miǎo",
        "gl": "second",
-       "pos": "n."
+       "pos": "measure word"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I'll still take out my phone and scroll a little.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -176,14 +143,14 @@
       {
        "h": "也",
        "py": "yě",
-       "gl": "also; too",
+       "gl": "also; too; (with negation) even",
        "pos": "adv."
       },
       {
        "h": "会",
        "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
       },
       {
        "h": "拿出",
@@ -200,7 +167,7 @@
       {
        "h": "刷",
        "py": "shuā",
-       "gl": "scan; swipe (a card); scroll (a feed)",
+       "gl": "to scroll (a feed)",
        "pos": "v."
       },
       {
@@ -217,27 +184,233 @@
    ]
   },
   {
-   "en": "Last month I tried an experiment: no more than two hours a day on my phone.",
+   "en": "My phone's built-in Screen Time feature sends me a report every week.",
    "phrases": [
     {
-     "en": "Last month I tried an experiment: no more than two hours a day on my phone.",
+     "en": "My phone's built-in Screen Time feature sends me a report every week.",
      "words": [
       {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
-       "pos": "postposition"
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
+       "h": "自带",
+       "py": "zìdài",
+       "gl": "built-in; come with",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "屏幕使用时间",
+       "py": "píngmù shǐyòng shíjiān",
+       "gl": "screen time",
+       "pos": "n."
+      },
+      {
+       "h": "功能",
+       "py": "gōngnéng",
+       "gl": "function; feature",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每周",
+       "py": "měizhōu",
+       "gl": "every week; weekly",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "一份",
+       "py": "yīfèn",
+       "gl": "one (copy, portion, share)",
+       "pos": "num."
+      },
+      {
+       "h": "报告",
+       "py": "bàogào",
+       "gl": "report",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "One week it said: seven hours and twelve minutes a day. Even I was shocked.",
+   "phrases": [
+    {
+     "en": "One week it said: seven hours and twelve minutes a day. Even I was shocked.",
+     "words": [
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "上面",
+       "py": "shàngmiàn",
+       "gl": "on top; on the surface; above",
+       "pos": "n."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "七",
+       "py": "qī",
+       "gl": "seven",
+       "pos": "num."
+      },
+      {
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
+       "pos": "n."
+      },
+      {
+       "h": "十二",
+       "py": "shíèr",
+       "gl": "twelve",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
        "pos": "measure word"
       },
       {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
+       "h": "。"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "吓到",
+       "py": "xiàdào",
+       "gl": "be scared; be startled",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Last month I did an experiment: no more than two hours of phone time a day.",
+   "phrases": [
+    {
+     "en": "Last month I did an experiment: no more than two hours of phone time a day.",
+     "words": [
+      {
+       "h": "上个月",
+       "py": "shànggèyuè",
+       "gl": "last month",
        "pos": "n."
       },
       {
@@ -262,16 +435,10 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "实验",
@@ -303,7 +470,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -313,28 +480,16 @@
        "pos": "n."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "超过",
-       "py": "chāoguò",
-       "gl": "exceed; surpass; be more than",
+       "h": "不超过",
+       "py": "bùchāoguò",
+       "gl": "not exceed; no more than",
        "pos": "v."
       },
       {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two (before measure words)",
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "小时",
@@ -350,49 +505,32 @@
    ]
   },
   {
-   "en": "For the first few days, my hands always felt empty, and I felt a bit uneasy too.",
+   "en": "The first few days, my hands always felt empty, and I felt a little uneasy.",
    "phrases": [
     {
-     "en": "For the first few days,",
+     "en": "The first few days, my hands always felt empty, and I felt a little uneasy.",
      "words": [
       {
-       "h": "刚",
-       "py": "gāng",
-       "gl": "just (now); only just",
+       "h": "刚开始",
+       "py": "gāngkāishǐ",
+       "gl": "at first; in the beginning",
        "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
-       "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "how many (under ten); which (number)",
-       "pos": "question word"
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "sky; day",
+       "h": "几天",
+       "py": "jǐtiān",
+       "gl": "a few days",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "my hands always felt empty,",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -413,27 +551,28 @@
       },
       {
        "h": "手里",
-       "py": "shǒulǐ",
+       "py": "shǒuli",
        "gl": "in one's hands",
        "pos": "n."
       },
       {
-       "h": "空空的",
-       "py": "kōngkōngde",
+       "h": "空空",
+       "py": "kōngkōng",
        "gl": "empty",
        "pos": "adj."
       },
       {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and I felt a bit uneasy too.",
-     "words": [
+      },
       {
        "h": "心里",
-       "py": "xīnli",
+       "py": "xīnlǐ",
        "gl": "in one's heart; inside",
        "pos": "n."
       },
@@ -450,15 +589,409 @@
        "pos": "adv."
       },
       {
+       "h": "不安",
+       "py": "bù'ān",
+       "gl": "uneasy; anxious; unease",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the fifth evening, I stood in the elevator without looking at anything.",
+   "phrases": [
+    {
+     "en": "On the fifth evening, I stood in the elevator without looking at anything.",
+     "words": [
+      {
+       "h": "第五",
+       "py": "dìwǔ",
+       "gl": "fifth",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "电梯",
+       "py": "diàntī",
+       "gl": "elevator",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It was very quiet in the elevator, and I suddenly thought of my grandma.",
+   "phrases": [
+    {
+     "en": "It was very quiet in the elevator, and I suddenly thought of my grandma.",
+     "words": [
+      {
+       "h": "电梯",
+       "py": "diàntī",
+       "gl": "elevator",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "安静",
+       "py": "ānjìng",
+       "gl": "quiet; calm",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "想起",
+       "py": "xiǎngqǐ",
+       "gl": "remember; think of; remind (让我想起 'remind me of')",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "外婆",
+       "py": "wàipó",
+       "gl": "grandma (mother's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She passed away half a year ago, and since the funeral I hadn't cried once.",
+   "phrases": [
+    {
+     "en": "She passed away half a year ago, and since the funeral I hadn't cried once.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "半年",
+       "py": "bànnián",
+       "gl": "half a year; six months",
+       "pos": "n."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "ago; before",
+       "pos": "postposition"
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "to pass away",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "葬礼",
+       "py": "zànglǐ",
+       "gl": "funeral",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一次",
+       "py": "yīcì",
+       "gl": "once; in one go; at the first attempt",
+       "pos": "measure word"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "哭",
+       "py": "kū",
+       "gl": "cry",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I'd always thought I was strong, but that day I understood: it wasn't that I wasn't sad — I just never had time to be sad.",
+   "phrases": [
+    {
+     "en": "I'd always thought I was strong, but that day I understood: it wasn't that I wasn't sad — I just never had time to be sad.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "以为",
+       "py": "yǐwéi",
+       "gl": "think (mistakenly); assume",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "坚强",
+       "py": "jiānqiáng",
+       "gl": "strong; resilient",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "明白",
+       "py": "míngbái",
+       "gl": "understand; realize",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
        "h": "不",
        "py": "bù",
        "gl": "not; no",
        "pos": "adv."
       },
       {
-       "h": "安",
-       "py": "ān",
-       "gl": "calm; peaceful (不安 'uneasy')",
+       "h": "难过",
+       "py": "nánguò",
+       "gl": "sad; upset",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "难过",
+       "py": "nánguò",
+       "gl": "sad; upset",
        "pos": "adj."
       },
       {
@@ -469,10 +1002,198 @@
    ]
   },
   {
-   "en": "After sticking with it for two weeks, I actually had more time to read, exercise, and be with my family.",
+   "en": "Every time I thought of her, I'd open my phone right away.",
    "phrases": [
     {
-     "en": "After sticking with it for two weeks, I actually had more time to read, exercise, and be with my family.",
+     "en": "Every time I thought of her, I'd open my phone right away.",
+     "words": [
+      {
+       "h": "每一次",
+       "py": "měiyīcì",
+       "gl": "every time",
+       "pos": "adv."
+      },
+      {
+       "h": "想起",
+       "py": "xiǎngqǐ",
+       "gl": "remember; think of; remind (让我想起 'remind me of')",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "马上",
+       "py": "mǎshàng",
+       "gl": "immediately; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The elevator reached the fifteenth floor, the doors opened, and I didn't get out; I cried until the doors closed again.",
+   "phrases": [
+    {
+     "en": "The elevator reached the fifteenth floor, the doors opened, and I didn't get out; I cried until the doors closed again.",
+     "words": [
+      {
+       "h": "电梯",
+       "py": "diàntī",
+       "gl": "elevator",
+       "pos": "n."
+      },
+      {
+       "h": "到了",
+       "py": "dàole",
+       "gl": "reach; arrive; when it comes to (time); by (到了清朝 by the Qing dynasty)",
+       "pos": "v."
+      },
+      {
+       "h": "十五",
+       "py": "shíwǔ",
+       "gl": "fifteen",
+       "pos": "num."
+      },
+      {
+       "h": "楼",
+       "py": "lóu",
+       "gl": "floor (story); building",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "门",
+       "py": "mén",
+       "gl": "door",
+       "pos": "n."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; start (a business)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "出去",
+       "py": "chūqu",
+       "gl": "out (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "哭",
+       "py": "kū",
+       "gl": "cry",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "门",
+       "py": "mén",
+       "gl": "door",
+       "pos": "n."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "关上",
+       "py": "guānshàng",
+       "gl": "close; shut",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After keeping it up for two weeks, I actually had more time for reading, exercise, and family.",
+   "phrases": [
+    {
+     "en": "After keeping it up for two weeks, I actually had more time for reading, exercise, and family.",
      "words": [
       {
        "h": "坚持",
@@ -487,16 +1208,10 @@
        "pos": "particle"
       },
       {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two (before measure words)",
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "星期",
@@ -507,7 +1222,7 @@
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
@@ -521,32 +1236,20 @@
       },
       {
        "h": "反而",
-       "py": "fǎn'ér",
+       "py": "fǎnér",
        "gl": "on the contrary; instead",
        "pos": "adv."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "有了",
+       "py": "yǒule",
+       "gl": "have; there is (now); come to have",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
+       "h": "更多",
+       "py": "gèngduō",
+       "gl": "more; even more",
        "pos": "adj."
       },
       {
@@ -593,22 +1296,65 @@
    ]
   },
   {
-   "en": "This experience made me realize that the phone should serve your life, not control it.",
+   "en": "And time to miss someone, too.",
    "phrases": [
     {
-     "en": "This experience made me realize",
+     "en": "And time to miss someone, too.",
      "words": [
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
       },
       {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
-       "pos": "measure word"
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
+      },
+      {
+       "h": "想念",
+       "py": "xiǎngniàn",
+       "gl": "miss (someone)",
+       "pos": "v."
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "num."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This experience taught me that the phone should serve life, not control it.",
+   "phrases": [
+    {
+     "en": "This experience taught me that the phone should serve life, not control it.",
+     "words": [
+      {
+       "h": "这次",
+       "py": "zhècì",
+       "gl": "this time",
+       "pos": "pron."
       },
       {
        "h": "经历",
@@ -619,7 +1365,7 @@
       {
        "h": "让",
        "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
@@ -630,18 +1376,13 @@
       },
       {
        "h": "明白",
-       "py": "míngbai",
-       "gl": "understand; realize; clear",
+       "py": "míngbái",
+       "gl": "understand; realize",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that the phone should serve your life,",
-     "words": [
+      },
       {
        "h": "手机",
        "py": "shǒujī",
@@ -652,7 +1393,7 @@
        "h": "应该",
        "py": "yīnggāi",
        "gl": "should; ought to; probably",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "为",
@@ -663,7 +1404,7 @@
       {
        "h": "生活",
        "py": "shēnghuó",
-       "gl": "life; live",
+       "gl": "life",
        "pos": "n."
       },
       {
@@ -674,41 +1415,24 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "not your life be controlled by the phone.",
-     "words": [
+      },
       {
-       "h": "而",
-       "py": "ér",
-       "gl": "conjunction: and; but; (而不是 rather than)",
+       "h": "而不是",
+       "py": "érbúshì",
+       "gl": "rather than; instead of",
        "pos": "conj."
-      },
-      {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
       },
       {
        "h": "生活",
        "py": "shēnghuó",
-       "gl": "life; live",
+       "gl": "life",
        "pos": "n."
       },
       {
        "h": "被",
        "py": "bèi",
        "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "pos": "function word"
       },
       {
        "h": "手机",
@@ -730,90 +1454,31 @@
    ]
   },
   {
-   "en": "My phone's built-in Screen Time feature sends me a report every week, and sometimes the actual numbers scare me.",
+   "en": "Last weekend I called my mom, and we talked about Grandma for an hour, and neither of us looked at the time.",
    "phrases": [
     {
-     "en": "My phone's built-in Screen Time feature",
+     "en": "Last weekend I called my mom, and we talked about Grandma for an hour, and neither of us looked at the time.",
      "words": [
       {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
-       "h": "自带",
-       "py": "zìdài",
-       "gl": "built-in; come with",
-       "pos": "adj."
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "屏幕",
-       "py": "píngmù",
-       "gl": "screen",
-       "pos": "n."
-      },
-      {
-       "h": "使用",
-       "py": "shǐyòng",
-       "gl": "use; usage",
-       "pos": "n."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "功能",
-       "py": "gōngnéng",
-       "gl": "function; feature",
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "sends me a report every week,",
-     "words": [
-      {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
-       "pos": "pron."
-      },
-      {
-       "h": "周",
-       "py": "zhōu",
-       "gl": "week",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "to; for (someone); give",
-       "pos": "prep."
       },
       {
        "h": "我",
@@ -822,68 +1487,63 @@
        "pos": "pron."
       },
       {
-       "h": "发",
-       "py": "fā",
-       "gl": "send",
-       "pos": "v."
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "份",
-       "py": "fèn",
-       "gl": "measure word for jobs, portions, copies",
-       "pos": "measure word"
-      },
-      {
-       "h": "报告",
-       "py": "bàogào",
-       "gl": "report",
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and sometimes the actual numbers scare me.",
-     "words": [
-      {
-       "h": "有时候",
-       "py": "yǒushíhòu",
-       "gl": "sometimes",
-       "pos": "adv."
-      },
-      {
-       "h": "看到",
-       "py": "kàndào",
-       "gl": "see",
+       "h": "打电话",
+       "py": "dǎdiànhuà",
+       "gl": "make a phone call; call",
        "pos": "v."
       },
       {
-       "h": "具体",
-       "py": "jùtǐ",
-       "gl": "specific; concrete",
-       "pos": "adj."
+       "h": "，"
       },
       {
-       "h": "数字",
-       "py": "shùzì",
-       "gl": "number; figure; digit",
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "聊",
+       "py": "liáo",
+       "gl": "chat; talk (about)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个小时",
+       "py": "yígèxiǎoshí",
+       "gl": "one hour",
+       "pos": "n."
+      },
+      {
+       "h": "外婆",
+       "py": "wàipó",
+       "gl": "grandma (mother's mother)",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
+       "h": "谁",
+       "py": "shuí",
+       "gl": "who; anyone; everyone (谁也不… nobody)",
        "pos": "pron."
       },
       {
@@ -893,16 +1553,22 @@
        "pos": "adv."
       },
       {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
       },
       {
-       "h": "吓到",
-       "py": "xiàdào",
-       "gl": "be scared; be startled",
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
        "pos": "v."
+      },
+      {
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
+       "pos": "n."
       },
       {
        "h": "。"

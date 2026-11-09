@@ -1,17 +1,17 @@
 {
  "id": "midautumn",
  "level": 4,
- "title_zh": "中秋节",
- "title_en": "The Mid-Autumn Festival",
+ "title_zh": "被我一个人吃光的月饼",
+ "title_en": "The Mooncakes I Ate Alone",
  "free": true,
  "audio_url": null,
- "note_en": "一边……一边…… shows two actions happening at the same time: 大家一边吃月饼，一边赏月 \"everyone eats mooncakes while admiring the moon.\" English uses \"while\" only once, but Chinese puts 一边 in front of both verbs, and the two actions should be ones a person can really do together.",
+ "note_en": "The passive voice is formed with 被: 月饼很快就被大家吃光了 — \"the mooncakes were quickly eaten up by everyone.\" The doer comes right after 被, and the result follows the verb: 被我一个人吃光了 — \"were eaten up by me alone.\" English would usually say it actively — \"I ate them\" — but the Chinese sentence keeps the mooncakes at the center.",
  "sentences": [
   {
-   "en": "When I was little, the Mid-Autumn Festival was the holiday I hated most, because it meant being made to eat a whole mooncake, sweet and heavy, all over again.",
+   "en": "As a child, I disliked the Mid-Autumn Festival more than anything, because every year I had to eat a sickly-sweet egg-yolk mooncake.",
    "phrases": [
     {
-     "en": "When I was little, the Mid-Autumn Festival was the holiday I hated most,",
+     "en": "As a child, I disliked the Mid-Autumn Festival more than anything, because every year I had to eat a sickly-sweet egg-yolk mooncake.",
      "words": [
       {
        "h": "小时候",
@@ -35,62 +35,42 @@
        "pos": "adv."
       },
       {
-       "h": "讨厌",
-       "py": "tǎoyàn",
-       "gl": "hate; dislike",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "喜欢",
+       "py": "xǐhuan",
+       "gl": "like; love",
        "pos": "v."
       },
       {
        "h": "中秋节",
-       "py": "zhōngqiūjié",
+       "py": "Zhōngqiūjié",
        "gl": "Mid-Autumn Festival",
        "pos": "proper noun"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "because it meant being made to eat a whole mooncake, sweet and heavy, all over again.",
-     "words": [
+      },
       {
        "h": "因为",
        "py": "yīnwèi",
-       "gl": "because of; because",
-       "pos": "prep."
+       "gl": "because",
+       "pos": "conj."
       },
       {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
+       "h": "每年",
+       "py": "měinián",
+       "gl": "every year",
+       "pos": "n."
       },
       {
-       "h": "意味着",
-       "py": "yìwèizhe",
-       "gl": "mean; signify; imply",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "want; be going to; need to; must",
-       "pos": "v."
-      },
-      {
-       "h": "被迫",
-       "py": "bèipò",
-       "gl": "be forced to",
+       "h": "都要",
+       "py": "dōuyào",
+       "gl": "always (have to); all need to",
        "pos": "v."
       },
       {
@@ -98,24 +78,6 @@
        "py": "chī",
        "gl": "eat",
        "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "整",
-       "py": "zhěng",
-       "gl": "whole; entire",
-       "pos": "adj."
-      },
-      {
-       "h": "块",
-       "py": "kuài",
-       "gl": "measure word for pieces (bricks, chunks)",
-       "pos": "measure word"
       },
       {
        "h": "又甜又腻",
@@ -130,8 +92,14 @@
        "pos": "particle"
       },
       {
+       "h": "蛋黄",
+       "py": "dànhuáng",
+       "gl": "egg yolk",
+       "pos": "n."
+      },
+      {
        "h": "月饼",
-       "py": "yuèbǐng",
+       "py": "yuèbing",
        "gl": "mooncake",
        "pos": "n."
       },
@@ -143,66 +111,40 @@
    ]
   },
   {
-   "en": "The Mid-Autumn Festival is a traditional Chinese holiday that falls on the 15th day of the eighth month of the lunar calendar.",
+   "en": "Mom cut the mooncake into eight pieces, and everyone at the table had to eat one.",
    "phrases": [
     {
-     "en": "The Mid-Autumn Festival is a traditional Chinese holiday",
+     "en": "Mom cut the mooncake into eight pieces, and everyone at the table had to eat one.",
      "words": [
       {
-       "h": "中秋节",
-       "py": "zhōngqiūjié",
-       "gl": "Mid-Autumn Festival",
-       "pos": "proper noun"
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "传统",
-       "py": "chuántǒng",
-       "gl": "traditional; tradition",
-       "pos": "adj."
-      },
-      {
-       "h": "节日",
-       "py": "jiérì",
-       "gl": "festival; holiday",
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that falls on the 15th day of the eighth month of the lunar calendar.",
-     "words": [
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
        "pos": "prep."
       },
       {
-       "h": "农历",
-       "py": "nónglì",
-       "gl": "lunar calendar",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "月饼",
+       "py": "yuèbing",
+       "gl": "mooncake",
        "pos": "n."
+      },
+      {
+       "h": "切成",
+       "py": "qièchéng",
+       "gl": "cut into",
+       "pos": "v."
       },
       {
        "h": "八",
@@ -211,16 +153,55 @@
        "pos": "num."
       },
       {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
+       "h": "块",
+       "py": "kuài",
+       "gl": "measure word for pieces (bricks, chunks)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "桌子",
+       "py": "zhuōzi",
+       "gl": "table; desk",
        "pos": "n."
       },
       {
-       "h": "十五",
-       "py": "shíwǔ",
-       "gl": "fifteen",
-       "pos": "num."
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "每个人",
+       "py": "měigèrén",
+       "gl": "everyone; each person",
+       "pos": "pron."
+      },
+      {
+       "h": "都要",
+       "py": "dōuyào",
+       "gl": "always (have to); all need to",
+       "pos": "phrase"
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat; take (medicine)",
+       "pos": "v."
+      },
+      {
+       "h": "一块",
+       "py": "yīkuài",
+       "gl": "a piece of; one (measure word for chunks, plots, pieces)",
+       "pos": "measure word"
       },
       {
        "h": "。"
@@ -230,121 +211,46 @@
    ]
   },
   {
-   "en": "On this day the moon is big and round, and everyone loves to look up at it.",
+   "en": "\"A round mooncake means the whole family together,\" she said. And the mooncakes were quickly eaten up by everyone.",
    "phrases": [
     {
-     "en": "On this day the moon is big and round,",
+     "en": "\"A round mooncake means the whole family together,\" she said. And the mooncakes were quickly eaten up by everyone.",
      "words": [
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
+       "h": "“"
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "day",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "月亮",
-       "py": "yuèliàng",
-       "gl": "moon",
-       "pos": "n."
-      },
-      {
-       "h": "又大又圆",
-       "py": "yòudàyòuyuán",
-       "gl": "big and round",
+       "h": "圆圆",
+       "py": "yuányuán",
+       "gl": "round",
        "pos": "adj."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and everyone loves to look up at it.",
-     "words": [
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
+       "h": "月饼",
+       "py": "yuèbing",
+       "gl": "mooncake",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "just; simply; exactly",
        "pos": "adv."
       },
       {
-       "h": "爱",
-       "py": "ài",
-       "gl": "love",
-       "pos": "v."
-      },
-      {
-       "h": "抬头",
-       "py": "táitóu",
-       "gl": "raise one's head; look up",
-       "pos": "v."
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Chinese people believe that roundness stands for family reunion, so the whole family gets together on this day.",
-   "phrases": [
-    {
-     "en": "Chinese people believe that roundness stands for family reunion,",
-     "words": [
-      {
-       "h": "中国人",
-       "py": "zhōngguórén",
-       "gl": "Chinese person; the Chinese",
+       "h": "一家人",
+       "py": "yījiārén",
+       "gl": "whole family; family",
        "pos": "n."
-      },
-      {
-       "h": "认为",
-       "py": "rènwéi",
-       "gl": "think; believe; consider",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "圆",
-       "py": "yuán",
-       "gl": "circle; full circle",
-       "pos": "n."
-      },
-      {
-       "h": "代表",
-       "py": "dàibiǎo",
-       "gl": "representative; delegate; represent; on behalf of; stand for",
-       "pos": "v."
       },
       {
        "h": "团圆",
@@ -354,399 +260,31 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so the whole family gets together on this day.",
-     "words": [
-      {
-       "h": "所以",
-       "py": "suǒyǐ",
-       "gl": "so; therefore",
-       "pos": "conj."
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "day",
-       "pos": "n."
-      },
-      {
-       "h": "全家",
-       "py": "quánjiā",
-       "gl": "whole family",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
-      },
-      {
-       "h": "聚",
-       "py": "jù",
-       "gl": "gather; get together",
-       "pos": "v."
-      },
-      {
-       "h": "在一起",
-       "py": "zàiyìqǐ",
-       "gl": "together; be together",
-       "pos": "adv."
       },
       {
        "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Everyone eats mooncakes while admiring the moon.",
-   "phrases": [
-    {
-     "en": "Everyone eats mooncakes",
-     "words": [
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "一边",
-       "py": "yībiān",
-       "gl": "while (一边…一边… doing two things at once)",
-       "pos": "adv."
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
       },
       {
        "h": "月饼",
-       "py": "yuèbǐng",
+       "py": "yuèbing",
        "gl": "mooncake",
        "pos": "n."
       },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "while admiring the moon.",
-     "words": [
-      {
-       "h": "一边",
-       "py": "yībiān",
-       "gl": "while (一边…一边… doing two things at once)",
-       "pos": "adv."
-      },
-      {
-       "h": "赏月",
-       "py": "shǎngyuè",
-       "gl": "admire the moon",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Mooncakes come with lots of fillings: some are sweet, and some are savory.",
-   "phrases": [
-    {
-     "en": "Mooncakes come with lots of fillings:",
-     "words": [
-      {
-       "h": "月饼",
-       "py": "yuèbǐng",
-       "gl": "mooncake",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "馅儿",
-       "py": "xiànér",
-       "gl": "filling (of food)",
-       "pos": "n."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "some are sweet, and some are savory.",
-     "words": [
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "甜",
-       "py": "tián",
-       "gl": "sweet",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (我学的是… what I studied is…)",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "咸",
-       "py": "xián",
-       "gl": "salty",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (我学的是… what I studied is…)",
-       "pos": "particle"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But within a few years my taste changed, and now the sweet, heavy kind is actually my favorite.",
-   "phrases": [
-    {
-     "en": "But within a few years my taste changed,",
-     "words": [
-      {
-       "h": "可是",
-       "py": "kěshì",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "没",
-       "py": "méi",
-       "gl": "not (yet); negates 有 and past actions",
-       "pos": "adv."
-      },
-      {
-       "h": "过",
-       "py": "guo",
-       "gl": "pass (of time)",
-       "pos": "v."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "口味",
-       "py": "kǒuwèi",
-       "gl": "flavor",
-       "pos": "n."
-      },
-      {
-       "h": "变",
-       "py": "biàn",
-       "gl": "change",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and now the sweet, heavy kind is actually my favorite.",
-     "words": [
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "反而",
-       "py": "fǎnér",
-       "gl": "instead; on the contrary",
-       "pos": "adv."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "喜欢",
-       "py": "xǐhuān",
-       "gl": "like; love",
-       "pos": "v."
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
-      },
-      {
-       "h": "又甜又腻",
-       "py": "yòutiányòunì",
-       "gl": "sweet and cloying",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
-      },
-      {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "kind; type (measure word)",
-       "pos": "measure word"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "A box of mooncakes was quickly finished off by everyone.",
-   "phrases": [
-    {
-     "en": "A box of mooncakes",
-     "words": [
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "盒",
-       "py": "hé",
-       "gl": "measure word for boxes (一盒月饼 a box of mooncakes)",
-       "pos": "measure word"
-      },
-      {
-       "h": "月饼",
-       "py": "yuèbǐng",
-       "gl": "mooncake",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "was quickly finished off by everyone.",
-     "words": [
       {
        "h": "很快",
        "py": "hěnkuài",
@@ -756,14 +294,14 @@
       {
        "h": "就",
        "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
        "h": "被",
        "py": "bèi",
        "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "pos": "function word"
       },
       {
        "h": "大家",
@@ -780,7 +318,7 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
@@ -791,33 +329,178 @@
    ]
   },
   {
-   "en": "A famous classical poem also describes the Mid-Autumn moon and expresses how people miss their hometowns.",
+   "en": "The festival falls on the fifteenth day of the eighth lunar month, when the moon is at its roundest.",
    "phrases": [
     {
-     "en": "A famous classical poem also describes the Mid-Autumn moon",
+     "en": "The festival falls on the fifteenth day of the eighth lunar month, when the moon is at its roundest.",
      "words": [
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
-       "pos": "v."
+       "h": "中秋节",
+       "py": "Zhōngqiūjié",
+       "gl": "Mid-Autumn Festival",
+       "pos": "proper noun"
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "农历",
+       "py": "nónglì",
+       "gl": "lunar calendar",
+       "pos": "n."
+      },
+      {
+       "h": "八月",
+       "py": "bāyuè",
+       "gl": "August; eighth month (of the lunar calendar)",
+       "pos": "n."
+      },
+      {
+       "h": "十五",
+       "py": "shíwǔ",
+       "gl": "fifteen",
        "pos": "num."
       },
       {
-       "h": "首",
-       "py": "shǒu",
-       "gl": "measure word for songs and poems",
-       "pos": "measure word"
+       "h": "，"
       },
       {
-       "h": "著名",
-       "py": "zhùmíng",
-       "gl": "famous; well-known",
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshang",
+       "gl": "evening; in the evening",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "月亮",
+       "py": "yuèliàng",
+       "gl": "moon",
+       "pos": "n."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "圆",
+       "py": "yuán",
+       "gl": "round",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This year, for the first time, I didn't go home: I work in Shenzhen, and my company had an urgent project.",
+   "phrases": [
+    {
+     "en": "This year, for the first time, I didn't go home: I work in Shenzhen, and my company had an urgent project.",
+     "words": [
+      {
+       "h": "今年",
+       "py": "jīnnián",
+       "gl": "this year",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "深圳",
+       "py": "Shēnzhèn",
+       "gl": "Shenzhen",
+       "pos": "proper noun"
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company; office (work)",
+       "pos": "n."
+      },
+      {
+       "h": "有一个",
+       "py": "yǒuyígè",
+       "gl": "there was one; one (of them)",
+       "pos": "pron."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "急",
+       "py": "jí",
+       "gl": "urgent; urgently; anxious",
        "pos": "adj."
       },
       {
@@ -827,10 +510,443 @@
        "pos": "particle"
       },
       {
-       "h": "古诗",
-       "py": "gǔshī",
-       "gl": "classical poem",
+       "h": "项目",
+       "py": "xiàngmù",
+       "gl": "project; item",
        "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Three days before the festival, a package came from Mom: a box of egg-yolk mooncakes — the same ones from my childhood.",
+   "phrases": [
+    {
+     "en": "Three days before the festival, a package came from Mom: a box of egg-yolk mooncakes — the same ones from my childhood.",
+     "words": [
+      {
+       "h": "中秋节",
+       "py": "Zhōngqiūjié",
+       "gl": "Mid-Autumn Festival",
+       "pos": "proper noun"
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "收到",
+       "py": "shōudào",
+       "gl": "receive",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "寄来",
+       "py": "jìlái",
+       "gl": "send (here) by mail",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "快递",
+       "py": "kuàidì",
+       "gl": "parcel",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "一盒",
+       "py": "yīhé",
+       "gl": "a box (of)",
+       "pos": "measure word"
+      },
+      {
+       "h": "蛋黄",
+       "py": "dànhuáng",
+       "gl": "egg yolk",
+       "pos": "n."
+      },
+      {
+       "h": "月饼",
+       "py": "yuèbing",
+       "gl": "mooncake",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "just; simply; exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "小时候",
+       "py": "xiǎoshíhòu",
+       "gl": "in childhood; as a child",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那种",
+       "py": "nàzhǒng",
+       "gl": "that kind (of)",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening I sat alone in my rented room, not knowing how many pieces to cut the mooncake into.",
+   "phrases": [
+    {
+     "en": "That evening I sat alone in my rented room, not knowing how many pieces to cut the mooncake into.",
+     "words": [
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself",
+       "pos": "adv."
+      },
+      {
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
+       "pos": "v."
+      },
+      {
+       "h": "租",
+       "py": "zū",
+       "gl": "rent",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "房间",
+       "py": "fángjiān",
+       "gl": "room",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不知道",
+       "py": "bùzhīdào",
+       "gl": "not know; no one knows",
+       "pos": "v."
+      },
+      {
+       "h": "该",
+       "py": "gāi",
+       "gl": "should; ought to",
+       "pos": "v."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "月饼",
+       "py": "yuèbing",
+       "gl": "mooncake",
+       "pos": "n."
+      },
+      {
+       "h": "切成",
+       "py": "qièchéng",
+       "gl": "cut into",
+       "pos": "v."
+      },
+      {
+       "h": "几",
+       "py": "jǐ",
+       "gl": "how many (under ten); which (number)",
+       "pos": "question word"
+      },
+      {
+       "h": "块",
+       "py": "kuài",
+       "gl": "measure word for pieces (bricks, chunks)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I video-called home, and Mom held the phone up high so I could see the whole table.",
+   "phrases": [
+    {
+     "en": "I video-called home, and Mom held the phone up high so I could see the whole table.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "家里",
+       "py": "jiālǐ",
+       "gl": "at home; in the family",
+       "pos": "n."
+      },
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video; video call",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "举",
+       "py": "jǔ",
+       "gl": "lift; raise",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "很高",
+       "py": "hěngāo",
+       "gl": "very high",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "let; make (someone do); ask (someone to do)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "看见",
+       "py": "kànjiàn",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "整张",
+       "py": "zhěngzhāng",
+       "gl": "the whole (table, sheet)",
+       "pos": "pron."
+      },
+      {
+       "h": "桌子",
+       "py": "zhuōzi",
+       "gl": "table; desk",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the table lay a cut mooncake — eight pieces, and one that no one had touched.",
+   "phrases": [
+    {
+     "en": "On the table lay a cut mooncake — eight pieces, and one that no one had touched.",
+     "words": [
+      {
+       "h": "桌子",
+       "py": "zhuōzi",
+       "gl": "table; desk",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "有一个",
+       "py": "yǒuyígè",
+       "gl": "there was one; one (of them)",
+       "pos": "pron."
+      },
+      {
+       "h": "切好",
+       "py": "qièhǎo",
+       "gl": "cut; sliced (and ready)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "月饼",
+       "py": "yuèbing",
+       "gl": "mooncake",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "八",
+       "py": "bā",
+       "gl": "eight",
+       "pos": "num."
+      },
+      {
+       "h": "块",
+       "py": "kuài",
+       "gl": "measure word for pieces (bricks, chunks)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一块",
+       "py": "yīkuài",
+       "gl": "a piece of; one (measure word for chunks, plots, pieces)",
+       "pos": "measure word"
+      },
+      {
+       "h": "谁",
+       "py": "shuí",
+       "gl": "who; anyone; everyone (谁也不… nobody)",
+       "pos": "pron."
       },
       {
        "h": "也",
@@ -839,276 +955,296 @@
        "pos": "adv."
       },
       {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "动",
+       "py": "dòng",
+       "gl": "touch",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"That one's yours,\" Mom said.",
+   "phrases": [
+    {
+     "en": "\"That one's yours,\" Mom said.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "这块",
+       "py": "zhèkuài",
+       "gl": "this (piece, block, plot)",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I suddenly understood that the egg-yolk mooncake had never been about the taste.",
+   "phrases": [
+    {
+     "en": "I suddenly understood that the egg-yolk mooncake had never been about the taste.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "明白",
+       "py": "míngbái",
+       "gl": "understand; realize",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "蛋黄",
+       "py": "dànhuáng",
+       "gl": "egg yolk",
+       "pos": "n."
+      },
+      {
+       "h": "月饼",
+       "py": "yuèbing",
+       "gl": "mooncake",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "从来不是",
+       "py": "cóngláibúshì",
+       "gl": "has never been",
+       "pos": "phrase"
+      },
+      {
+       "h": "因为",
+       "py": "yīnwèi",
+       "gl": "because",
+       "pos": "conj."
+      },
+      {
+       "h": "好吃",
+       "py": "hǎochī",
+       "gl": "tasty; delicious",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Du Fu once wrote, \"The moon is brighter over home,\" and that night I understood the line for the first time.",
+   "phrases": [
+    {
+     "en": "Du Fu once wrote, \"The moon is brighter over home,\" and that night I understood the line for the first time.",
+     "words": [
+      {
+       "h": "杜甫",
+       "py": "Dù Fǔ",
+       "gl": "Du Fu (Tang-dynasty poet)",
+       "pos": "proper noun"
+      },
+      {
        "h": "写",
        "py": "xiě",
        "gl": "write",
        "pos": "v."
       },
       {
-       "h": "到",
-       "py": "dào",
-       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
-       "pos": "v."
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
+       "h": "“"
       },
       {
-       "h": "中秋",
-       "py": "zhōngqiū",
-       "gl": "Mid-Autumn (Festival)",
+       "h": "月是故乡明",
+       "py": "yuè shì gùxiāng míng",
+       "gl": "\"the moon is brighter over home\"",
+       "pos": "phrase"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "月亮",
-       "py": "yuèliàng",
-       "gl": "moon",
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and expresses how people miss their hometowns.",
-     "words": [
-      {
-       "h": "表达",
-       "py": "biǎodá",
-       "gl": "express; expression",
-       "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "人们",
-       "py": "rénmen",
-       "gl": "people",
-       "pos": "n."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "to; toward; regarding (对…来说 'for…, as far as … is concerned')",
-       "pos": "prep."
-      },
-      {
-       "h": "家乡",
-       "py": "jiāxiāng",
-       "gl": "hometown",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "思念",
-       "py": "sīniàn",
-       "gl": "miss; long for; longing",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Just looking up at the moon makes it feel like you're with your family.",
-   "phrases": [
-    {
-     "en": "Just looking up at the moon",
-     "words": [
-      {
-       "h": "只要",
-       "py": "zhǐyào",
-       "gl": "as long as; if only",
-       "pos": "conj."
-      },
-      {
-       "h": "抬头",
-       "py": "táitóu",
-       "gl": "raise one's head; look up",
-       "pos": "v."
-      },
-      {
-       "h": "看看",
-       "py": "kànkàn",
-       "gl": "have a look; take a look",
-       "pos": "v."
-      },
-      {
-       "h": "月亮",
-       "py": "yuèliàng",
-       "gl": "moon",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "makes it feel like you're with your family.",
-     "words": [
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "好像",
-       "py": "hǎoxiàng",
-       "gl": "seem; be like; as if",
-       "pos": "adv."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with; as; the same as (和...一样)",
-       "pos": "prep."
-      },
-      {
-       "h": "家人",
-       "py": "jiārén",
-       "gl": "family members; family",
-       "pos": "n."
-      },
-      {
-       "h": "在一起",
-       "py": "zàiyìqǐ",
-       "gl": "together; be together",
-       "pos": "adv."
-      },
-      {
-       "h": "一样",
-       "py": "yīyàng",
-       "gl": "the same as; alike; just like (像…一样)",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In recent years mooncake flavors have gotten more and more creative: besides the traditional ones, there are now ice cream mooncakes and low-sugar mooncakes, and you can even send them online as gifts to faraway friends.",
-   "phrases": [
-    {
-     "en": "In recent years mooncake flavors have gotten more and more creative:",
-     "words": [
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "月饼",
-       "py": "yuèbǐng",
-       "gl": "mooncake",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "口味",
-       "py": "kǒuwèi",
-       "gl": "flavor",
-       "pos": "n."
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
        "pos": "adv."
       },
       {
-       "h": "新奇",
-       "py": "xīnqí",
-       "gl": "novel; unusual",
-       "pos": "adj."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "besides the traditional ones, there are now ice cream mooncakes and low-sugar mooncakes,",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "传统",
-       "py": "chuántǒng",
-       "gl": "traditional; tradition",
-       "pos": "adj."
-      },
-      {
-       "h": "口味",
-       "py": "kǒuwèi",
-       "gl": "flavor",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "出现",
-       "py": "chūxiàn",
-       "gl": "appear; emerge",
+       "h": "懂",
+       "py": "dǒng",
+       "gl": "understand",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
+      },
+      {
+       "h": "这句",
+       "py": "zhèjù",
+       "gl": "this line; this sentence",
+       "pos": "pron."
+      },
+      {
+       "h": "诗",
+       "py": "shī",
+       "gl": "poem; poetry",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now you can order ice-cream mooncakes or sugar-free ones on your phone, delivered to any city within a day.",
+   "phrases": [
+    {
+     "en": "Now you can order ice-cream mooncakes or sugar-free ones on your phone, delivered to any city within a day.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "就能",
+       "py": "jiùnéng",
+       "gl": "can then; will be able to",
+       "pos": "adv."
+      },
+      {
+       "h": "买到",
+       "py": "mǎidào",
+       "gl": "manage to buy; get",
+       "pos": "v."
       },
       {
        "h": "冰淇淋月饼",
@@ -1127,52 +1263,256 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and you can even send them online as gifts to faraway friends.",
-     "words": [
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "adv."
       },
       {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "v."
-      },
-      {
-       "h": "直接",
-       "py": "zhíjiē",
-       "gl": "directly; straight",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "网上",
-       "py": "wǎngshàng",
-       "gl": "online; on the internet",
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
        "pos": "n."
       },
       {
-       "h": "送给",
-       "py": "sònggěi",
-       "gl": "give (as a gift) to",
+       "h": "就能",
+       "py": "jiùnéng",
+       "gl": "can then; will be able to",
+       "pos": "adv."
+      },
+      {
+       "h": "送到",
+       "py": "sòngdào",
+       "gl": "deliver",
        "pos": "v."
       },
       {
-       "h": "远方",
-       "py": "yuǎnfāng",
-       "gl": "distant place; far away",
+       "h": "别的",
+       "py": "biéde",
+       "gl": "other; else",
+       "pos": "pron."
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But Mom still sent the most old-fashioned kind.",
+   "phrases": [
+    {
+     "en": "But Mom still sent the most old-fashioned kind.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "寄来",
+       "py": "jìlái",
+       "gl": "send (here) by mail",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "老",
+       "py": "lǎo",
+       "gl": "old; elderly",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那种",
+       "py": "nàzhǒng",
+       "gl": "that kind (of)",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That night the whole box was eaten up by me alone — slowly, piece by piece, until the moon disappeared behind the building across the street.",
+   "phrases": [
+    {
+     "en": "That night the whole box was eaten up by me alone — slowly, piece by piece, until the moon disappeared behind the building across the street.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "夜里",
+       "py": "yèlǐ",
+       "gl": "at night",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "整",
+       "py": "zhěng",
+       "gl": "whole; entire",
+       "pos": "adj."
+      },
+      {
+       "h": "盒",
+       "py": "hé",
+       "gl": "measure word for boxes (一盒月饼 a box of mooncakes)",
+       "pos": "measure word"
+      },
+      {
+       "h": "月饼",
+       "py": "yuèbing",
+       "gl": "mooncake",
+       "pos": "n."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself",
+       "pos": "adv."
+      },
+      {
+       "h": "吃光",
+       "py": "chīguāng",
+       "gl": "eat up; finish (food)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一块",
+       "py": "yīkuài",
+       "gl": "a piece of; one (measure word for chunks, plots, pieces)",
+       "pos": "measure word"
+      },
+      {
+       "h": "一块",
+       "py": "yīkuài",
+       "gl": "a piece of; one (measure word for chunks, plots, pieces)",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "慢慢地",
+       "py": "mànmàndì",
+       "gl": "slowly; gradually",
+       "pos": "adv."
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "直到",
+       "py": "zhídào",
+       "gl": "until; up to",
+       "pos": "conj."
+      },
+      {
+       "h": "月亮",
+       "py": "yuèliàng",
+       "gl": "moon",
+       "pos": "n."
+      },
+      {
+       "h": "走到",
+       "py": "zǒudào",
+       "gl": "walk to; reach; come to (the end)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "对面",
+       "py": "duìmiàn",
+       "gl": "opposite; across the way",
+       "pos": "n."
+      },
+      {
+       "h": "楼",
+       "py": "lóu",
+       "gl": "building; floor (story)",
        "pos": "n."
       },
       {
@@ -1182,9 +1522,9 @@
        "pos": "particle"
       },
       {
-       "h": "朋友",
-       "py": "péngyǒu",
-       "gl": "friend",
+       "h": "后面",
+       "py": "hòumiàn",
+       "gl": "later (on); further on",
        "pos": "n."
       },
       {

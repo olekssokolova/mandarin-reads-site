@@ -1,17 +1,17 @@
 {
  "id": "letter",
  "level": 4,
- "title_zh": "给朋友的一封信",
- "title_en": "A Letter to a Friend",
+ "title_zh": "给阿遥的信",
+ "title_en": "A Letter to A-Yao",
  "free": false,
  "audio_url": null,
- "note_en": "Chinese letters have fixed opening and closing formulas: they start with 亲爱的 + name + a colon (亲爱的小雨：\"Dear Xiaoyu,\") and end with a wish beginning 祝你 (祝你身体健康，工作顺利！\"Wishing you good health and success at work!\"). English closes with \"Best wishes\" or \"Love,\" but Chinese letters almost always end with a specific 祝 wish like this.",
+ "note_en": "The preposition 通过 means \"through, by means of\": 通过学习汉语，我认识了很多新朋友 — \"through studying Chinese, I've met many new friends.\" It usually comes at the start of the sentence, like English \"through…\" or \"by…ing.\" Don't confuse it with 因为, \"because.\"",
  "sentences": [
   {
-   "en": "Dear Xiaoyu,",
+   "en": "Dear A-Yao,",
    "phrases": [
     {
-     "en": "Dear Xiaoyu,",
+     "en": "Dear A-Yao,",
      "words": [
       {
        "h": "亲爱",
@@ -22,13 +22,13 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "小雨",
-       "py": "xiǎoyǔ",
-       "gl": "Xiaoyu (female name)",
+       "h": "阿遥",
+       "py": "Ā Yáo",
+       "gl": "A-Yao",
        "pos": "proper noun"
       },
       {
@@ -39,31 +39,20 @@
    ]
   },
   {
-   "en": "Hi! Long time no see. How have you been lately?",
+   "en": "Hello! It's been so long — how have you been?",
    "phrases": [
     {
-     "en": "Hi!",
+     "en": "Hello! It's been so long — how have you been?",
      "words": [
       {
-       "h": "你",
-       "py": "nǐ",
-       "gl": "you",
-       "pos": "pron."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
+       "h": "你好",
+       "py": "nǐ hǎo",
+       "gl": "hello; hi",
+       "pos": "phrase"
       },
       {
        "h": "！"
-      }
-     ]
-    },
-    {
-     "en": "Long time no see.",
-     "words": [
+      },
       {
        "h": "好久",
        "py": "hǎojiǔ",
@@ -71,25 +60,14 @@
        "pos": "adv."
       },
       {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "见",
-       "py": "jiàn",
-       "gl": "see; meet (不见了 \"disappeared\")",
+       "h": "不见",
+       "py": "bújiàn",
+       "gl": "be missing; disappear; not see",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "How have you been lately?",
-     "words": [
+      },
       {
        "h": "你",
        "py": "nǐ",
@@ -100,25 +78,19 @@
        "h": "最近",
        "py": "zuìjìn",
        "gl": "recently; lately",
-       "pos": "n."
+       "pos": "adv."
       },
       {
-       "h": "过",
-       "py": "guò",
-       "gl": "particle: past experience; spend (time); celebrate; pass",
-       "pos": "particle"
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
+       "h": "过得",
+       "py": "guode",
+       "gl": "live (a life that is...); get along",
+       "pos": "v."
       },
       {
        "h": "怎么样",
        "py": "zěnmeyàng",
        "gl": "how; how about it",
-       "pos": "question word"
+       "pos": "pron."
       },
       {
        "h": "？"
@@ -128,10 +100,264 @@
    ]
   },
   {
-   "en": "I've been in China for half a year now, and I really want to tell you about my life here.",
+   "en": "I know that the day I left, you didn't come to the airport because you were still angry with me.",
    "phrases": [
     {
-     "en": "I've been in China for half a year now,",
+     "en": "I know that the day I left, you didn't come to the airport because you were still angry with me.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "离开",
+       "py": "líkāi",
+       "gl": "leave",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "机场",
+       "py": "jīchǎng",
+       "gl": "airport",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是因为",
+       "py": "shìyīnwèi",
+       "gl": "is because",
+       "pos": "conj."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "生",
+       "py": "shēng",
+       "gl": "to be (angry)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "气",
+       "py": "qì",
+       "gl": "anger",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "You were the one who taught me my first Chinese character, and I didn't even say a proper \"goodbye\" to you.",
+   "phrases": [
+    {
+     "en": "You were the one who taught me my first Chinese character, and I didn't even say a proper \"goodbye\" to you.",
+     "words": [
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "教会",
+       "py": "jiàohuì",
+       "gl": "teach (someone to master)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "第一个",
+       "py": "dìyígè",
+       "gl": "the first",
+       "pos": "num."
+      },
+      {
+       "h": "汉字",
+       "py": "hànzì",
+       "gl": "Chinese character",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "连",
+       "py": "lián",
+       "gl": "even (连…都… even)",
+       "pos": "prep."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "再见",
+       "py": "zàijiàn",
+       "gl": "goodbye",
+       "pos": "phrase"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "好好",
+       "py": "hǎohǎo",
+       "gl": "properly; well; to one's heart's content",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I've been in China for half a year now, and I really want to tell you about my life.",
+   "phrases": [
+    {
+     "en": "I've been in China for half a year now, and I really want to tell you about my life.",
      "words": [
       {
        "h": "我",
@@ -158,15 +384,9 @@
        "pos": "adv."
       },
       {
-       "h": "半",
-       "py": "bàn",
-       "gl": "half",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "半年",
+       "py": "bànnián",
+       "gl": "half a year; six months",
        "pos": "n."
       },
       {
@@ -177,12 +397,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and I really want to tell you about my life.",
-     "words": [
+      },
       {
        "h": "很",
        "py": "hěn",
@@ -192,7 +407,7 @@
       {
        "h": "想",
        "py": "xiǎng",
-       "gl": "want; would like; think; miss",
+       "gl": "want; would like",
        "pos": "v."
       },
       {
@@ -208,15 +423,9 @@
        "pos": "pron."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "说说",
+       "py": "shuōshuo",
+       "gl": "just talk; say casually",
        "pos": "v."
       },
       {
@@ -228,13 +437,13 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "生活",
        "py": "shēnghuó",
-       "gl": "life; live",
+       "gl": "life",
        "pos": "n."
       },
       {
@@ -245,10 +454,10 @@
    ]
   },
   {
-   "en": "When I first arrived, everything felt strange to me.",
+   "en": "When I first arrived, everything felt strange to me; even buying a cup of coffee was hard.",
    "phrases": [
     {
-     "en": "When I first arrived,",
+     "en": "When I first arrived, everything felt strange to me; even buying a cup of coffee was hard.",
      "words": [
       {
        "h": "刚",
@@ -259,29 +468,18 @@
       {
        "h": "到",
        "py": "dào",
-       "gl": "arrive; reach; come",
-       "pos": "v."
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "everything felt strange to me.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -291,19 +489,19 @@
       {
        "h": "对",
        "py": "duì",
-       "gl": "to; toward; correct",
+       "gl": "regarding; on",
        "pos": "prep."
       },
       {
        "h": "一切",
-       "py": "yíqiè",
+       "py": "yīqiè",
        "gl": "everything; all",
        "pos": "pron."
       },
       {
        "h": "都",
        "py": "dōu",
-       "gl": "all; both",
+       "gl": "all; both; even; already",
        "pos": "adv."
       },
       {
@@ -319,60 +517,12 @@
        "pos": "adj."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I couldn't speak Chinese, and even buying a cup of coffee was hard.",
-   "phrases": [
-    {
-     "en": "I couldn't speak Chinese,",
-     "words": [
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "不",
-       "py": "bú",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "汉语",
-       "py": "hànyǔ",
-       "gl": "Chinese (language)",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and even buying a cup of coffee was hard.",
-     "words": [
+      },
       {
        "h": "连",
        "py": "lián",
-       "gl": "even (连…都… even); connect",
+       "gl": "even (连…都… even)",
        "pos": "prep."
       },
       {
@@ -382,16 +532,10 @@
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "杯",
-       "py": "bēi",
-       "gl": "cup; glass (also measure word)",
-       "pos": "n."
+       "h": "一杯",
+       "py": "yībēi",
+       "gl": "a cup of; a glass of",
+       "pos": "measure word"
       },
       {
        "h": "咖啡",
@@ -402,19 +546,13 @@
       {
        "h": "都",
        "py": "dōu",
-       "gl": "all; both",
+       "gl": "all; both; even; already",
        "pos": "adv."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "难",
-       "py": "nán",
-       "gl": "difficult; hard",
+       "h": "很难",
+       "py": "hěnnán",
+       "gl": "very difficult; hard to",
        "pos": "adj."
       },
       {
@@ -425,14 +563,14 @@
    ]
   },
   {
-   "en": "But things are much better now.",
+   "en": "But it's much better now. Through studying Chinese, I've met many new friends.",
    "phrases": [
     {
-     "en": "But things are much better now.",
+     "en": "But it's much better now. Through studying Chinese, I've met many new friends.",
      "words": [
       {
        "h": "不过",
-       "py": "búguò",
+       "py": "bùguò",
        "gl": "but; however",
        "pos": "conj."
       },
@@ -443,16 +581,10 @@
        "pos": "n."
       },
       {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
+       "h": "好多",
+       "py": "hǎoduō",
+       "gl": "a lot of; many",
+       "pos": "num."
       },
       {
        "h": "了",
@@ -462,17 +594,7 @@
       },
       {
        "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Through learning Chinese, I've made a lot of new friends.",
-   "phrases": [
-    {
-     "en": "Through learning Chinese,",
-     "words": [
+      },
       {
        "h": "通过",
        "py": "tōngguò",
@@ -493,12 +615,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I've made a lot of new friends.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -507,7 +624,7 @@
       },
       {
        "h": "认识",
-       "py": "rènshi",
+       "py": "rènshí",
        "gl": "know (a person, a character); get to know; recognize",
        "pos": "v."
       },
@@ -520,7 +637,7 @@
       {
        "h": "很多",
        "py": "hěnduō",
-       "gl": "many; a lot; much",
+       "gl": "many; a lot of",
        "pos": "adj."
       },
       {
@@ -531,7 +648,7 @@
       },
       {
        "h": "朋友",
-       "py": "péngyou",
+       "py": "péngyǒu",
        "gl": "friend",
        "pos": "n."
       },
@@ -543,10 +660,10 @@
    ]
   },
   {
-   "en": "We often go shopping, eat out and chat together, so I don't feel lonely at all.",
+   "en": "We often go shopping, eat, and chat together, and on weekends we visit parks, museums, and old streets.",
    "phrases": [
     {
-     "en": "We often go shopping, eat out and chat together,",
+     "en": "We often go shopping, eat, and chat together, and on weekends we visit parks, museums, and old streets.",
      "words": [
       {
        "h": "我们",
@@ -592,17 +709,103 @@
       },
       {
        "h": "，"
+      },
+      {
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "公园",
+       "py": "gōngyuán",
+       "gl": "park",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "博物馆",
+       "py": "bówùguǎn",
+       "gl": "museum",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and; with; as; the same as (和...一样)",
+       "pos": "prep."
+      },
+      {
+       "h": "古老",
+       "py": "gǔlǎo",
+       "gl": "ancient; age-old",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "街道",
+       "py": "jiēdào",
+       "gl": "street; neighborhood",
+       "pos": "n."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "So don't worry: I'm not lonely at all.",
+   "phrases": [
     {
-     "en": "so I don't feel lonely at all.",
+     "en": "So don't worry: I'm not lonely at all.",
      "words": [
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "h": "所以",
+       "py": "suǒyǐ",
+       "gl": "so; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "不用",
+       "py": "bùyòng",
+       "gl": "not need; no need to",
        "pos": "v."
+      },
+      {
+       "h": "担心",
+       "py": "dānxīn",
+       "gl": "worry",
+       "pos": "v."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "我",
@@ -611,21 +814,9 @@
        "pos": "pron."
       },
       {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; a bit",
-       "pos": "adv."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
+       "h": "一点也不",
+       "py": "yìdiǎnyěbù",
+       "gl": "not at all; not the least bit",
        "pos": "adv."
       },
       {
@@ -648,118 +839,10 @@
    ]
   },
   {
-   "en": "On weekends I've also been to lots of places, like parks, museums and old streets.",
+   "en": "I miss you, and I miss the winters back home.",
    "phrases": [
     {
-     "en": "On weekends I've also been to lots of places,",
-     "words": [
-      {
-       "h": "周末",
-       "py": "zhōumò",
-       "gl": "weekend",
-       "pos": "n."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; still; in addition",
-       "pos": "adv."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "地方",
-       "py": "dìfang",
-       "gl": "place",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "like parks, museums and old streets.",
-     "words": [
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
-      },
-      {
-       "h": "公园",
-       "py": "gōngyuán",
-       "gl": "park",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "博物馆",
-       "py": "bówùguǎn",
-       "gl": "museum",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "古老",
-       "py": "gǔlǎo",
-       "gl": "ancient; age-old",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "街道",
-       "py": "jiēdào",
-       "gl": "street; neighborhood",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "I miss you, and I miss the winters back home too.",
-   "phrases": [
-    {
-     "en": "I miss you,",
+     "en": "I miss you, and I miss the winters back home.",
      "words": [
       {
        "h": "我",
@@ -770,7 +853,7 @@
       {
        "h": "想",
        "py": "xiǎng",
-       "gl": "want; would like; think; miss",
+       "gl": "want; would like",
        "pos": "v."
       },
       {
@@ -781,12 +864,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and I miss the winters back home too.",
-     "words": [
+      },
       {
        "h": "也",
        "py": "yě",
@@ -808,7 +886,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -825,10 +903,10 @@
    ]
   },
   {
-   "en": "I hope that when you have time, you'll come to China to visit me too.",
+   "en": "I hope that when you have time, you'll come to China to see me.",
    "phrases": [
     {
-     "en": "I hope that when you have time,",
+     "en": "I hope that when you have time, you'll come to China to see me.",
      "words": [
       {
        "h": "希望",
@@ -845,7 +923,7 @@
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
@@ -855,25 +933,14 @@
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "you'll come to China to visit me too.",
-     "words": [
+      },
       {
        "h": "也",
        "py": "yě",
@@ -894,7 +961,7 @@
       },
       {
        "h": "看看",
-       "py": "kànkan",
+       "py": "kànkàn",
        "gl": "have a look; take a look",
        "pos": "v."
       },
@@ -915,7 +982,7 @@
    "en": "Wishing you good health and success at work!",
    "phrases": [
     {
-     "en": "Wishing you good health",
+     "en": "Wishing you good health and success at work!",
      "words": [
       {
        "h": "祝",
@@ -930,25 +997,14 @@
        "pos": "pron."
       },
       {
-       "h": "身体",
-       "py": "shēntǐ",
-       "gl": "body; health",
-       "pos": "n."
-      },
-      {
-       "h": "健康",
-       "py": "jiànkāng",
-       "gl": "healthy; health",
-       "pos": "adj."
+       "h": "身体健康",
+       "py": "shēntǐjiànkāng",
+       "gl": "good health; physical health",
+       "pos": "phrase"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and success at work!",
-     "words": [
+      },
       {
        "h": "工作",
        "py": "gōngzuò",
@@ -959,7 +1015,7 @@
        "h": "顺利",
        "py": "shùnlì",
        "gl": "smooth; successful; go well",
-       "pos": "adj."
+       "pos": "adv."
       },
       {
        "h": "！"
@@ -969,10 +1025,10 @@
    ]
   },
   {
-   "en": "Your friend,\nAnna",
+   "en": "Your friend, Anna",
    "phrases": [
     {
-     "en": "Your friend,",
+     "en": "Your friend, Anna",
      "words": [
       {
        "h": "你",
@@ -983,7 +1039,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -994,17 +1050,282 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Anna",
-     "words": [
+      },
       {
        "h": "安娜",
-       "py": "ānnà",
+       "py": "Ānnà",
        "gl": "Anna (name)",
        "pos": "proper noun"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "P.S. One of the sentences above isn't true.",
+   "phrases": [
+    {
+     "en": "P.S. One of the sentences above isn't true.",
+     "words": [
+      {
+       "h": "又及",
+       "py": "yòují",
+       "gl": "P.S.",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "上面",
+       "py": "shàngmiàn",
+       "gl": "on top; on the surface; above",
+       "pos": "n."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一句话",
+       "py": "yījùhuà",
+       "gl": "a sentence; a word",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "假",
+       "py": "jiǎ",
+       "gl": "leave; time off (jià)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Sometimes in the evenings I feel very lonely, and then I write you letters in Chinese — and once I've finished, I don't dare send them.",
+   "phrases": [
+    {
+     "en": "Sometimes in the evenings I feel very lonely, and then I write you letters in Chinese — and once I've finished, I don't dare send them.",
+     "words": [
+      {
+       "h": "有时候",
+       "py": "yǒushíhòu",
+       "gl": "sometimes",
+       "pos": "adv."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "孤单",
+       "py": "gūdān",
+       "gl": "lonely",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "那时候",
+       "py": "nàshíhòu",
+       "gl": "at that time; back then",
+       "pos": "n."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "汉语",
+       "py": "hànyǔ",
+       "gl": "Chinese (language)",
+       "pos": "n."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "写信",
+       "py": "xiěxìn",
+       "gl": "write a letter; write letters",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "写完",
+       "py": "xiěwán",
+       "gl": "finish writing",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "不敢",
+       "py": "bùgǎn",
+       "gl": "not dare",
+       "pos": "v."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This is the seventh one. This time, I sent it.",
+   "phrases": [
+    {
+     "en": "This is the seventh one. This time, I sent it.",
+     "words": [
+      {
+       "h": "这是",
+       "py": "zhèshì",
+       "gl": "this is",
+       "pos": "phrase"
+      },
+      {
+       "h": "第七",
+       "py": "dìqī",
+       "gl": "seventh",
+       "pos": "num."
+      },
+      {
+       "h": "封",
+       "py": "fēng",
+       "gl": "measure word for letters",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "这一次",
+       "py": "zhèyīcì",
+       "gl": "this time",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
       }
      ]
     }

@@ -1,22 +1,101 @@
 {
  "id": "chopsticks",
  "level": 4,
- "title_zh": "筷子",
- "title_en": "Chopsticks",
+ "title_zh": "插在饭里的筷子",
+ "title_en": "Chopsticks in the Rice",
  "free": false,
  "audio_url": null,
- "note_en": "连……都…… means \"even\": 连一粒米都夹不起来 \"I couldn't even pick up a single grain of rice.\" English just adds \"even,\" but Chinese wraps the surprising item in 连 before it and 都 (or 也) after it, right before the verb.",
+ "note_en": "The preposition 用 marks a tool or material — it answers \"with what? out of what?\": 吃饭都用筷子 — \"they eat with chopsticks,\" 用竹子或者木头做成 — \"made of bamboo or wood.\" English uses \"with\" or \"of\"; in Chinese, 用 goes before the verb.",
  "sentences": [
+  {
+   "en": "My name is Kofi. I'm from Ghana, and I've been studying in China for a year.",
+   "phrases": [
+    {
+     "en": "My name is Kofi. I'm from Ghana, and I've been studying in China for a year.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "科菲",
+       "py": "Kēfēi",
+       "gl": "Kofi",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "来自",
+       "py": "láizì",
+       "gl": "come from; originate from",
+       "pos": "v."
+      },
+      {
+       "h": "加纳",
+       "py": "Jiānà",
+       "gl": "Ghana",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "学习",
+       "py": "xuéxí",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "一年",
+       "py": "yīnián",
+       "gl": "one year; a year",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
   {
    "en": "In China, most people eat with chopsticks.",
    "phrases": [
     {
-     "en": "In China,",
+     "en": "In China, most people eat with chopsticks.",
      "words": [
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -27,12 +106,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "most people eat with chopsticks.",
-     "words": [
+      },
       {
        "h": "大部分",
        "py": "dàbùfèn",
@@ -60,7 +134,7 @@
       {
        "h": "用",
        "py": "yòng",
-       "gl": "use; with (by means of)",
+       "gl": "use",
        "pos": "v."
       },
       {
@@ -77,10 +151,10 @@
    ]
   },
   {
-   "en": "Chopsticks are usually made of bamboo or wood, and a pair has two sticks.",
+   "en": "Chopsticks are usually made of bamboo or wood, and a pair has two.",
    "phrases": [
     {
-     "en": "Chopsticks are usually made of bamboo or wood,",
+     "en": "Chopsticks are usually made of bamboo or wood, and a pair has two.",
      "words": [
       {
        "h": "筷子",
@@ -91,13 +165,13 @@
       {
        "h": "一般",
        "py": "yìbān",
-       "gl": "usually; generally; ordinary",
+       "gl": "usually; generally",
        "pos": "adv."
       },
       {
        "h": "用",
        "py": "yòng",
-       "gl": "use; with (by means of)",
+       "gl": "use",
        "pos": "v."
       },
       {
@@ -119,47 +193,30 @@
        "pos": "n."
       },
       {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "成",
-       "py": "chéng",
-       "gl": "into; become; turn into",
+       "h": "做成",
+       "py": "zuòchéng",
+       "gl": "make into; turn into",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and a pair has two sticks.",
-     "words": [
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
       },
       {
-       "h": "双",
-       "py": "shuāng",
-       "gl": "measure word for pairs: pair",
+       "h": "一双",
+       "py": "yīshuāng",
+       "gl": "a pair (of)",
        "pos": "measure word"
       },
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
        "h": "两",
        "py": "liǎng",
-       "gl": "two (before measure words)",
+       "gl": "two",
        "pos": "num."
       },
       {
@@ -176,10 +233,10 @@
    ]
   },
   {
-   "en": "When I first started learning to use chopsticks, I couldn't even pick up a single grain of rice.",
+   "en": "When I first started learning to use chopsticks, I couldn't pick up even a single grain of rice.",
    "phrases": [
     {
-     "en": "When I first started learning to use chopsticks,",
+     "en": "When I first started learning to use chopsticks, I couldn't pick up even a single grain of rice.",
      "words": [
       {
        "h": "我",
@@ -188,16 +245,10 @@
        "pos": "pron."
       },
       {
-       "h": "刚",
-       "py": "gāng",
-       "gl": "just (now); only just",
+       "h": "刚开始",
+       "py": "gāngkāishǐ",
+       "gl": "at first; in the beginning",
        "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
-       "pos": "v."
       },
       {
        "h": "学",
@@ -208,7 +259,7 @@
       {
        "h": "用",
        "py": "yòng",
-       "gl": "use; with (by means of)",
+       "gl": "use",
        "pos": "v."
       },
       {
@@ -218,72 +269,49 @@
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
+       "pos": "conj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I couldn't even pick up a single grain of rice.",
-     "words": [
+      },
       {
        "h": "连",
        "py": "lián",
-       "gl": "even (连…都… even); connect",
+       "gl": "even (连…都… even)",
        "pos": "prep."
       },
       {
        "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
+       "pos": "adv."
       },
       {
        "h": "粒",
        "py": "lì",
-       "gl": "measure word for grains, small round things",
+       "gl": "grain (measure word)",
        "pos": "measure word"
       },
       {
        "h": "米",
        "py": "mǐ",
-       "gl": "meter; rice",
-       "pos": "n."
+       "gl": "meter",
+       "pos": "measure word"
       },
       {
        "h": "都",
        "py": "dōu",
-       "gl": "all; both",
+       "gl": "all; both; even; already",
        "pos": "adv."
       },
       {
-       "h": "夹",
-       "py": "jiā",
-       "gl": "pick up (with chopsticks); clip",
+       "h": "夹不起来",
+       "py": "jiā bu qǐlái",
+       "gl": "can't pick it up (with chopsticks)",
        "pos": "v."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "起来",
-       "py": "qǐlái",
-       "gl": "up (directional complement: 站起来 stand up); start to",
-       "pos": "particle"
       },
       {
        "h": "。"
@@ -293,21 +321,21 @@
    ]
   },
   {
-   "en": "A Chinese friend told me, \"Relax your hand a bit, and don't squeeze too hard.\"",
+   "en": "My landlady, an elderly woman, taught me: \"Relax your hand a little. Don't press so hard.\"",
    "phrases": [
     {
-     "en": "A Chinese friend told me,",
+     "en": "My landlady, an elderly woman, taught me: \"Relax your hand a little. Don't press so hard.\"",
      "words": [
       {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
+       "h": "房东",
+       "py": "fángdōng",
+       "gl": "landlord",
+       "pos": "n."
       },
       {
-       "h": "朋友",
-       "py": "péngyou",
-       "gl": "friend",
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
        "pos": "n."
       },
       {
@@ -324,12 +352,7 @@
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"Relax your hand a bit,",
-     "words": [
+      },
       {
        "h": "“"
       },
@@ -342,7 +365,7 @@
       {
        "h": "要",
        "py": "yào",
-       "gl": "want; order; be going to; need",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
@@ -359,12 +382,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "don't squeeze too hard.\"",
-     "words": [
+      },
       {
        "h": "别",
        "py": "bié",
@@ -374,14 +392,14 @@
       {
        "h": "太",
        "py": "tài",
-       "gl": "too; very",
+       "gl": "too",
        "pos": "adv."
       },
       {
        "h": "用力",
        "py": "yònglì",
        "gl": "use force; push hard",
-       "pos": "v."
+       "pos": "adv."
       },
       {
        "h": "。"
@@ -394,10 +412,10 @@
    ]
   },
   {
-   "en": "After a week of practice, I could finally pick up a piece of meat.",
+   "en": "After a week of practice I could finally pick up a piece of meat, and she was happier than I was.",
    "phrases": [
     {
-     "en": "After a week of practice,",
+     "en": "After a week of practice I could finally pick up a piece of meat, and she was happier than I was.",
      "words": [
       {
        "h": "练习",
@@ -412,16 +430,10 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
       },
       {
        "h": "星期",
@@ -431,12 +443,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I could finally pick up a piece of meat.",
-     "words": [
+      },
       {
        "h": "我",
        "py": "wǒ",
@@ -453,30 +460,18 @@
        "h": "能",
        "py": "néng",
        "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "夹",
-       "py": "jiā",
-       "gl": "pick up (with chopsticks); clip",
        "pos": "v."
       },
       {
-       "h": "起",
-       "py": "qǐ",
-       "gl": "break out (a rash); rise; get up",
+       "h": "夹起",
+       "py": "jiāqǐ",
+       "gl": "pick up (with chopsticks)",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "块",
-       "py": "kuài",
-       "gl": "yuan (colloquial); measure word for pieces (bread, cake)",
+       "h": "一块",
+       "py": "yīkuài",
+       "gl": "a piece of; one (measure word for chunks, plots, pieces)",
        "pos": "measure word"
       },
       {
@@ -492,6 +487,39 @@
        "pos": "particle"
       },
       {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "高兴",
+       "py": "gāoxìng",
+       "gl": "happy; glad",
+       "pos": "v."
+      },
+      {
        "h": "。"
       }
      ]
@@ -499,22 +527,16 @@
    ]
   },
   {
-   "en": "Chinese people have certain customs at the table.",
+   "en": "One day at lunch I wanted to reach for the soup, so I stuck my chopsticks upright in my rice.",
    "phrases": [
     {
-     "en": "When Chinese people eat,",
+     "en": "One day at lunch I wanted to reach for the soup, so I stuck my chopsticks upright in my rice.",
      "words": [
       {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
+       "h": "有一天",
+       "py": "yǒuyītiān",
+       "gl": "one day",
+       "pos": "adv."
       },
       {
        "h": "吃饭",
@@ -523,78 +545,46 @@
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "，"
       },
       {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "they have certain customs.",
-     "words": [
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
        "pos": "v."
       },
       {
-       "h": "一些",
-       "py": "yìxie",
-       "gl": "some; a few",
-       "pos": "num."
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
       },
       {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "be used to; get used to; habit",
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "汤",
+       "py": "tāng",
+       "gl": "soup; broth",
        "pos": "n."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "For example, you shouldn't stick your chopsticks upright in your rice, because that's considered bad luck.",
-   "phrases": [
-    {
-     "en": "For example,",
-     "words": [
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "you shouldn't stick your chopsticks in your rice,",
-     "words": [
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
       },
       {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
       },
       {
        "h": "把",
@@ -617,7 +607,241 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "米饭",
+       "py": "mǐfàn",
+       "gl": "cooked rice",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The table went quiet all at once.",
+   "phrases": [
+    {
+     "en": "The table went quiet all at once.",
+     "words": [
+      {
+       "h": "桌子",
+       "py": "zhuōzi",
+       "gl": "table; desk",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "一下子",
+       "py": "yīxiàzi",
+       "gl": "all at once; suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "安静",
+       "py": "ānjìng",
+       "gl": "quiet; calm",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Granny gently pulled the chopsticks out and laid them on the edge of the bowl without saying a word.",
+   "phrases": [
+    {
+     "en": "Granny gently pulled the chopsticks out and laid them on the edge of the bowl without saying a word.",
+     "words": [
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "轻轻地",
+       "py": "qīngqīngdì",
+       "gl": "gently; softly",
+       "pos": "adv."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "筷子",
+       "py": "kuàizi",
+       "gl": "chopsticks",
+       "pos": "n."
+      },
+      {
+       "h": "拿出来",
+       "py": "náchūlái",
+       "gl": "take out; bring out",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "放在",
+       "py": "fàngzài",
+       "gl": "put in; put on; place",
+       "pos": "v."
+      },
+      {
+       "h": "碗",
+       "py": "wǎn",
+       "gl": "bowl (also measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "边",
+       "py": "biān",
+       "gl": "side; edge (河边 \"riverside\")",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Later her grandson explained that you must not stick chopsticks into rice; it's bad luck, because it looks like the incense burned for the dead.",
+   "phrases": [
+    {
+     "en": "Later her grandson explained that you must not stick chopsticks into rice; it's bad luck, because it looks like the incense burned for the dead.",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "孙子",
+       "py": "sūnzi",
+       "gl": "grandson",
+       "pos": "n."
+      },
+      {
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "筷子",
+       "py": "kuàizi",
+       "gl": "chopsticks",
+       "pos": "n."
+      },
+      {
+       "h": "插",
+       "py": "chā",
+       "gl": "stick in; insert",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -628,18 +852,13 @@
       },
       {
        "h": "里",
-       "py": "li",
+       "py": "lǐ",
        "gl": "in; inside",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "because that's bad luck.",
-     "words": [
+      },
       {
        "h": "因为",
        "py": "yīnwèi",
@@ -665,82 +884,43 @@
        "pos": "adj."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Now lots of foreigners have fallen in love with using chopsticks, too.",
-   "phrases": [
-    {
-     "en": "Now lots of foreigners",
-     "words": [
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
+       "h": "，"
       },
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
       },
       {
-       "h": "外国",
-       "py": "wàiguó",
-       "gl": "foreign country; foreign",
-       "pos": "n."
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "去世",
+       "py": "qùshì",
+       "gl": "die; pass away",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "人",
        "py": "rén",
        "gl": "person; people",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "have fallen in love with using chopsticks, too.",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
       },
       {
-       "h": "爱",
-       "py": "ài",
-       "gl": "love",
+       "h": "上香",
+       "py": "shàngxiāng",
+       "gl": "to burn incense",
        "pos": "v."
-      },
-      {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
-       "pos": "postposition"
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "v."
-      },
-      {
-       "h": "筷子",
-       "py": "kuàizi",
-       "gl": "chopsticks",
-       "pos": "n."
       },
       {
        "h": "。"
@@ -750,10 +930,10 @@
    ]
   },
   {
-   "en": "I think using chopsticks makes you eat a little more slowly, so you can taste your food better.",
+   "en": "I was upset for days, feeling I had done something terrible.",
    "phrases": [
     {
-     "en": "I think",
+     "en": "I was upset for days, feeling I had done something terrible.",
      "words": [
       {
        "h": "我",
@@ -762,109 +942,78 @@
        "pos": "pron."
       },
       {
+       "h": "难过",
+       "py": "nánguò",
+       "gl": "sad; upset",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "好几天",
+       "py": "hǎojǐtiān",
+       "gl": "several days",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
        "h": "觉得",
        "py": "juéde",
        "gl": "feel; think",
        "pos": "v."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "using chopsticks makes you eat a little more slowly,",
-     "words": [
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
       {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
        "pos": "v."
       },
       {
-       "h": "筷子",
-       "py": "kuàizi",
-       "gl": "chopsticks",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "慢",
-       "py": "màn",
-       "gl": "slow; slowly",
+       "h": "一件",
+       "py": "yījiàn",
+       "gl": "one (item); measure word for clothing, matters",
+       "pos": "measure word"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "不好",
+       "py": "bùhǎo",
+       "gl": "bad; not good",
        "pos": "adj."
       },
       {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; a bit",
-       "pos": "adv."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so you can taste your food better.",
-     "words": [
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "尝",
-       "py": "cháng",
-       "gl": "taste; try (food)",
-       "pos": "v."
-      },
-      {
-       "h": "出",
-       "py": "chū",
-       "gl": "(after verb) out; come out; go out",
-       "pos": "v."
-      },
-      {
-       "h": "味道",
-       "py": "wèidào",
-       "gl": "taste; smell; flavor",
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
        "pos": "n."
       },
       {
@@ -875,27 +1024,88 @@
    ]
   },
   {
-   "en": "In recent years, many restaurants have started encouraging people to use serving chopsticks, a separate pair used only to put food on everyone's plates, because it's more hygienic.",
+   "en": "But Granny smiled and said, \"You didn't know, so it doesn't count as a mistake.\"",
    "phrases": [
     {
-     "en": "In recent years, many restaurants have started encouraging the use of serving chopsticks,",
+     "en": "But Granny smiled and said, \"You didn't know, so it doesn't count as a mistake.\"",
      "words": [
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this; these",
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "笑着说",
+       "py": "xiàozheshuō",
+       "gl": "say with a smile",
+       "pos": "phrase"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
        "pos": "pron."
       },
       {
-       "h": "些",
-       "py": "xiē",
-       "gl": "some; these (这些 these, 那些 those)",
-       "pos": "measure word"
+       "h": "不知道",
+       "py": "bùzhīdào",
+       "gl": "not know; no one knows",
+       "pos": "v."
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "不算",
+       "py": "bùsuàn",
+       "gl": "not exactly; not really",
+       "pos": "adv."
+      },
+      {
+       "h": "错",
+       "py": "cuò",
+       "gl": "wrong; mistaken (坐错 take the wrong one)",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In recent years, many restaurants have started encouraging serving chopsticks — a separate pair used only to serve food to everyone — because it's more hygienic.",
+   "phrases": [
+    {
+     "en": "In recent years, many restaurants have started encouraging serving chopsticks — a separate pair used only to serve food to everyone — because it's more hygienic.",
+     "words": [
+      {
+       "h": "这些年",
+       "py": "zhèxiēnián",
+       "gl": "these years; in recent years",
        "pos": "n."
       },
       {
@@ -904,7 +1114,7 @@
       {
        "h": "很多",
        "py": "hěnduō",
-       "gl": "many; a lot; much",
+       "gl": "many; a lot of",
        "pos": "adj."
       },
       {
@@ -922,7 +1132,7 @@
       {
        "h": "提倡",
        "py": "tíchàng",
-       "gl": "advocate; promote",
+       "gl": "to promote; to advocate",
        "pos": "v."
       },
       {
@@ -939,16 +1149,11 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "a separate pair used only to serve food to everyone,",
-     "words": [
+      },
       {
        "h": "就是",
        "py": "jiùshì",
-       "gl": "exactly; precisely",
+       "gl": "just; simply; exactly",
        "pos": "adv."
       },
       {
@@ -961,7 +1166,7 @@
        "h": "用来",
        "py": "yònglái",
        "gl": "be used for; use to",
-       "pos": "v."
+       "pos": "function word"
       },
       {
        "h": "给",
@@ -995,7 +1200,7 @@
       },
       {
        "h": "一",
-       "py": "yī",
+       "py": "yí",
        "gl": "one",
        "pos": "num."
       },
@@ -1007,16 +1212,11 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which is more hygienic.",
-     "words": [
+      },
       {
        "h": "这样",
        "py": "zhèyàng",
-       "gl": "this way; like this",
+       "gl": "such; like this",
        "pos": "pron."
       },
       {
@@ -1030,6 +1230,351 @@
        "py": "wèishēng",
        "gl": "hygienic; sanitary; hygiene",
        "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Last month was Granny's eightieth birthday, and the whole family had a birthday banquet at a restaurant.",
+   "phrases": [
+    {
+     "en": "Last month was Granny's eightieth birthday, and the whole family had a birthday banquet at a restaurant.",
+     "words": [
+      {
+       "h": "上个月",
+       "py": "shànggèyuè",
+       "gl": "last month",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "八十",
+       "py": "bāshí",
+       "gl": "eighty",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "生日",
+       "py": "shēngrì",
+       "gl": "birthday",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "全家",
+       "py": "quánjiā",
+       "gl": "whole family",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "饭店",
+       "py": "fàndiàn",
+       "gl": "restaurant; hotel",
+       "pos": "n."
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "寿宴",
+       "py": "shòuyàn",
+       "gl": "birthday banquet (for an elder)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I picked up the serving chopsticks and was the first to put a piece of fish in her bowl — without dropping a thing.",
+   "phrases": [
+    {
+     "en": "I picked up the serving chopsticks and was the first to put a piece of fish in her bowl — without dropping a thing.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "拿起",
+       "py": "náqǐ",
+       "gl": "pick up; take up",
+       "pos": "v."
+      },
+      {
+       "h": "公筷",
+       "py": "gōngkuài",
+       "gl": "serving chopsticks (shared chopsticks for communal dishes)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "第一个",
+       "py": "dìyígè",
+       "gl": "the first",
+       "pos": "num."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "夹",
+       "py": "jiā",
+       "gl": "to pick up (with chopsticks)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一块",
+       "py": "yīkuài",
+       "gl": "a piece of; one (measure word for chunks, plots, pieces)",
+       "pos": "measure word"
+      },
+      {
+       "h": "鱼",
+       "py": "yú",
+       "gl": "fish",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "掉",
+       "py": "diào",
+       "gl": "(complement: away, off)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I think chopsticks make you eat a little slower, taste the food better, and remember better the people you eat with.",
+   "phrases": [
+    {
+     "en": "I think chopsticks make you eat a little slower, taste the food better, and remember better the people you eat with.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "筷子",
+       "py": "kuàizi",
+       "gl": "chopsticks",
+       "pos": "n."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "让人",
+       "py": "ràngrén",
+       "gl": "make people; let people",
+       "pos": "v."
+      },
+      {
+       "h": "吃得",
+       "py": "chīdé",
+       "gl": "eat (so that ...; resultative)",
+       "pos": "v."
+      },
+      {
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
+       "pos": "adj."
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "尝",
+       "py": "cháng",
+       "gl": "taste; try (food)",
+       "pos": "v."
+      },
+      {
+       "h": "出",
+       "py": "chū",
+       "gl": "out (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "味道",
+       "py": "wèidào",
+       "gl": "taste; flavor",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "记住",
+       "py": "jìzhù",
+       "gl": "remember; memorize",
+       "pos": "v."
+      },
+      {
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
+      },
+      {
+       "h": "吃饭",
+       "py": "chīfàn",
+       "gl": "eat; have a meal",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
       },
       {
        "h": "。"

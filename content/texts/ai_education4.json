@@ -1,58 +1,112 @@
 {
  "id": "ai_education4",
  "level": 4,
- "title_zh": "人工智能与教育",
- "title_en": "AI and Education",
+ "title_zh": "错题本没有写的事",
+ "title_en": "What the Mistake Notebook Missed",
  "free": false,
  "audio_url": null,
- "note_en": "根据 (gēnjù) means \"based on\" or \"according to,\" and the phrase it forms comes before the verb, not after it as in English: 根据学生的水平，自动调整题目的难度 \"automatically adjust the difficulty of the questions according to the student's level.\" In Chinese the basis is set up first, then the action follows.",
+ "note_en": "The chengyu 因材施教 — \"to teach according to the material (the student's abilities)\" — goes back to Confucius and means teaching each student in their own way: 这就是古人说的因材施教 — \"this is just what the ancients called teaching according to ability.\" 材 here means a student's \"material,\" their natural gifts.",
  "sentences": [
   {
-   "en": "Artificial intelligence is quietly changing the way we teach and learn.",
+   "en": "Grandma taught math for thirty years, and since retiring she sits with her grandson Haoran every day after school while he does his homework.",
    "phrases": [
     {
-     "en": "Artificial intelligence is quietly changing the way we teach and learn.",
+     "en": "Grandma taught math for thirty years, and since retiring she sits with her grandson Haoran every day after school while he does his homework.",
      "words": [
       {
-       "h": "人工智能",
-       "py": "réngōngzhìnéng",
-       "gl": "artificial intelligence",
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
        "pos": "n."
       },
       {
-       "h": "正在",
-       "py": "zhèngzài",
-       "gl": "be in the middle of (doing)",
-       "pos": "adv."
-      },
-      {
-       "h": "悄悄",
-       "py": "qiāoqiāo",
-       "gl": "quietly; secretly; stealthily",
-       "pos": "adv."
-      },
-      {
-       "h": "改变",
-       "py": "gǎibiàn",
-       "gl": "change; transform",
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
        "pos": "v."
       },
       {
-       "h": "教育",
-       "py": "jiàoyù",
-       "gl": "education",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
+       "h": "三十",
+       "py": "sānshí",
+       "gl": "thirty",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "数学",
+       "py": "shùxué",
+       "gl": "math",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "退休",
+       "py": "tuìxiū",
+       "gl": "retire; retirement",
+       "pos": "v."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "下午",
+       "py": "xiàwǔ",
+       "gl": "afternoon",
+       "pos": "n."
+      },
+      {
+       "h": "陪",
+       "py": "péi",
+       "gl": "accompany; keep company",
+       "pos": "v."
+      },
+      {
+       "h": "孙子",
+       "py": "sūnzi",
+       "gl": "grandson",
+       "pos": "n."
+      },
+      {
+       "h": "浩然",
+       "py": "Hàorán",
+       "gl": "Haoran",
+       "pos": "proper noun"
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "作业",
+       "py": "zuòyè",
+       "gl": "homework",
        "pos": "n."
       },
       {
@@ -63,85 +117,167 @@
    ]
   },
   {
-   "en": "Some study apps can automatically adjust how hard the questions are based on each student's level.",
+   "en": "Haoran has a tablet, and on it is an AI \"mistake notebook.\"",
    "phrases": [
     {
-     "en": "Some study apps can automatically adjust how hard the questions are based on each student's level.",
+     "en": "Haoran has a tablet, and on it is an AI \"mistake notebook.\"",
      "words": [
       {
-       "h": "一些",
-       "py": "yìxie",
-       "gl": "some; a few",
-       "pos": "num."
+       "h": "浩然",
+       "py": "Hàorán",
+       "gl": "Haoran",
+       "pos": "proper noun"
       },
       {
-       "h": "学习",
-       "py": "xuéxí",
-       "gl": "study; learn",
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
        "pos": "v."
       },
       {
-       "h": "软件",
-       "py": "ruǎnjiàn",
-       "gl": "app; software",
-       "pos": "n."
+       "h": "一台",
+       "py": "yītái",
+       "gl": "one (machine, device)",
+       "pos": "num."
       },
       {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "function word"
-      },
-      {
-       "h": "根据",
-       "py": "gēnjù",
-       "gl": "according to; based on",
-       "pos": "prep."
-      },
-      {
-       "h": "学生",
-       "py": "xuésheng",
-       "gl": "student",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "水平",
-       "py": "shuǐpíng",
-       "gl": "level; standard",
+       "h": "平板电脑",
+       "py": "píngbǎn diànnǎo",
+       "gl": "tablet (computer)",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "自动",
-       "py": "zìdòng",
-       "gl": "automatic",
-       "pos": "adj."
+       "h": "里面",
+       "py": "lǐmiàn",
+       "gl": "inside",
+       "pos": "n."
       },
       {
-       "h": "调整",
-       "py": "tiáozhěng",
-       "gl": "adjust; tune",
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
        "pos": "v."
       },
       {
-       "h": "题目",
-       "py": "tímù",
-       "gl": "question; exercise (on a test); topic",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "人工智能",
+       "py": "réngōng zhìnéng",
+       "gl": "artificial intelligence",
        "pos": "n."
+      },
+      {
+       "h": "错题本",
+       "py": "cuòtíběn",
+       "gl": "mistake notebook",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The program finds the problems he gets wrong most often and picks exercises of just the right difficulty.",
+   "phrases": [
+    {
+     "en": "The program finds the problems he gets wrong most often and picks exercises of just the right difficulty.",
+     "words": [
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "自动",
+       "py": "zìdòng",
+       "gl": "automatically; automatic",
+       "pos": "adv."
+      },
+      {
+       "h": "找出",
+       "py": "zhǎochū",
+       "gl": "find out; identify",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "常",
+       "py": "cháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "错",
+       "py": "cuò",
+       "gl": "wrong; mistaken (坐错 take the wrong one)",
+       "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
+      },
+      {
+       "h": "题",
+       "py": "tí",
+       "gl": "question; problem (in exercises)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "再",
+       "py": "zài",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "找",
+       "py": "zhǎo",
+       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
+       "pos": "v."
       },
       {
        "h": "难度",
@@ -150,6 +286,24 @@
        "pos": "n."
       },
       {
+       "h": "刚好",
+       "py": "gānghǎo",
+       "gl": "just; exactly; happen to",
+       "pos": "adv."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "练习",
+       "py": "liànxí",
+       "gl": "practice; exercise",
+       "pos": "v."
+      },
+      {
        "h": "。"
       }
      ]
@@ -157,52 +311,19 @@
    ]
   },
   {
-   "en": "In a way, this achieves what the ancients called yin cai shi jiao, \"teaching each student according to their ability.\"",
+   "en": "\"Why, this is exactly what the ancients called teaching according to ability,\" Grandma said, surprised.",
    "phrases": [
     {
-     "en": "In a way, this achieves what the ancients called yin cai shi jiao, \"teaching each student according to their ability.\"",
+     "en": "\"Why, this is exactly what the ancients called teaching according to ability,\" Grandma said, surprised.",
      "words": [
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
+       "h": "“"
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "be at; in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "某种",
-       "py": "mǒuzhǒng",
-       "gl": "a certain (在某种程度上 to some extent)",
-       "pos": "pron."
-      },
-      {
-       "h": "程度",
-       "py": "chéngdù",
-       "gl": "degree; extent",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shang",
-       "gl": "on; above; top",
-       "pos": "postposition"
-      },
-      {
-       "h": "实现",
-       "py": "shíxiàn",
-       "gl": "realize; achieve",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
+       "h": "这就是",
+       "py": "zhèjiùshì",
+       "gl": "this is (exactly)",
+       "pos": "phrase"
       },
       {
        "h": "古人",
@@ -219,20 +340,44 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "“"
-      },
-      {
        "h": "因材施教",
-       "py": "yīncáishījiào",
-       "gl": "teach according to ability (idiom)",
+       "py": "yīn cái shī jiào",
+       "gl": "to teach according to ability",
        "pos": "phrase"
       },
       {
+       "h": "啊",
+       "py": "a",
+       "gl": "particle: agreement, emotion (ah; oh)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
        "h": "”"
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "有点",
+       "py": "yǒudiǎn",
+       "gl": "a little; somewhat",
+       "pos": "adv."
+      },
+      {
+       "h": "吃惊",
+       "py": "chījīng",
+       "gl": "to be surprised",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -242,28 +387,956 @@
    ]
   },
   {
-   "en": "But some teachers worry that relying too much on technology will weaken students' ability to think for themselves.",
+   "en": "After the \"double reduction\" policy, many tutoring companies turned to making learning software like this.",
    "phrases": [
     {
-     "en": "But some teachers worry that relying too much on technology will weaken students' ability to think for themselves.",
+     "en": "After the \"double reduction\" policy, many tutoring companies turned to making learning software like this.",
      "words": [
       {
-       "h": "不过",
-       "py": "búguò",
-       "gl": "but; however",
-       "pos": "conj."
+       "h": "“"
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
+       "h": "双减",
+       "py": "shuāng jiǎn",
+       "gl": "\"double reduction\" (policy)",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "培训机构",
+       "py": "péixùnjīgòu",
+       "gl": "training center; tutoring school",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
        "pos": "adv."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
        "pos": "v."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "学习",
+       "py": "xuéxí",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "软件",
+       "py": "ruǎnjiàn",
+       "gl": "app; software",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Grandma once kept mistake notebooks too — handwritten, for forty students, filled in at night under a lamp.",
+   "phrases": [
+    {
+     "en": "Grandma once kept mistake notebooks too — handwritten, for forty students, filled in at night under a lamp.",
+     "words": [
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "当年",
+       "py": "dāngnián",
+       "gl": "back then; in those years",
+       "pos": "adv."
+      },
+      {
+       "h": "也有",
+       "py": "yěyǒu",
+       "gl": "there is also; also have",
+       "pos": "v."
+      },
+      {
+       "h": "错题本",
+       "py": "cuòtíběn",
+       "gl": "mistake notebook",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "手写",
+       "py": "shǒuxiě",
+       "gl": "handwriting; handwritten",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "四十",
+       "py": "sìshí",
+       "gl": "forty",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "学生",
+       "py": "xuéshēng",
+       "gl": "student",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "灯下",
+       "py": "dēngxià",
+       "gl": "under the lamp",
+       "pos": "n."
+      },
+      {
+       "h": "一个一个",
+       "py": "yígèyígè",
+       "gl": "one by one",
+       "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"It's faster than me,\" she admitted, and it was true.",
+   "phrases": [
+    {
+     "en": "\"It's faster than me,\" she admitted, and it was true.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "真话",
+       "py": "zhēnhuà",
+       "gl": "truth",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That week Haoran suddenly started getting even the simplest problems wrong.",
+   "phrases": [
+    {
+     "en": "That week Haoran suddenly started getting even the simplest problems wrong.",
+     "words": [
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "浩然",
+       "py": "Hàorán",
+       "gl": "Haoran",
+       "pos": "proper noun"
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "连",
+       "py": "lián",
+       "gl": "even (连…都… even)",
+       "pos": "prep."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "简单",
+       "py": "jiǎndān",
+       "gl": "simple; easy",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "题",
+       "py": "tí",
+       "gl": "question; problem (in exercises)",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "错",
+       "py": "cuò",
+       "gl": "wrong; mistaken (坐错 take the wrong one)",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The mistake notebook reported: \"Attention has dropped. More addition practice recommended.\"",
+   "phrases": [
+    {
+     "en": "The mistake notebook reported: \"Attention has dropped. More addition practice recommended.\"",
+     "words": [
+      {
+       "h": "错题本",
+       "py": "cuòtíběn",
+       "gl": "mistake notebook",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "注意力",
+       "py": "zhùyìlì",
+       "gl": "attention; concentration",
+       "pos": "n."
+      },
+      {
+       "h": "下降",
+       "py": "xiàjiàng",
+       "gl": "fall; decline; drop",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "建议",
+       "py": "jiànyì",
+       "gl": "suggest; advise; suggestion",
+       "pos": "v."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "more (than)",
+       "pos": "adv."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "加法",
+       "py": "jiāfǎ",
+       "gl": "addition",
+       "pos": "n."
+      },
+      {
+       "h": "练习",
+       "py": "liànxí",
+       "gl": "practice; exercise",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Grandma put the tablet down and looked at her grandson the way she used to look at her students.",
+   "phrases": [
+    {
+     "en": "Grandma put the tablet down and looked at her grandson the way she used to look at her students.",
+     "words": [
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "平板",
+       "py": "píngbǎn",
+       "gl": "tablet (computer)",
+       "pos": "n."
+      },
+      {
+       "h": "放下",
+       "py": "fàngxià",
+       "gl": "put down; set aside",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "孙子",
+       "py": "sūnzi",
+       "gl": "grandson",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就像",
+       "py": "jiùxiàng",
+       "gl": "be just like",
+       "pos": "conj."
+      },
+      {
+       "h": "当年",
+       "py": "dāngnián",
+       "gl": "back then; in those years",
+       "pos": "adv."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "学生",
+       "py": "xuéshēng",
+       "gl": "student",
+       "pos": "n."
+      },
+      {
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the margin of his notebook he had been drawing a little dog.",
+   "phrases": [
+    {
+     "en": "In the margin of his notebook he had been drawing a little dog.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "本子",
+       "py": "běnzi",
+       "gl": "notebook",
+       "pos": "n."
+      },
+      {
+       "h": "边上",
+       "py": "biānshang",
+       "gl": "edge; side; beside",
+       "pos": "n."
+      },
+      {
+       "h": "画",
+       "py": "huà",
+       "gl": "draw; paint",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一只",
+       "py": "yīzhī",
+       "gl": "one (animal; one of a pair)",
+       "pos": "measure word"
+      },
+      {
+       "h": "小狗",
+       "py": "xiǎogǒu",
+       "gl": "puppy; little dog",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Dudu, the neighbor's dog he played with every day, had died on Sunday.",
+   "phrases": [
+    {
+     "en": "Dudu, the neighbor's dog he played with every day, had died on Sunday.",
+     "words": [
+      {
+       "h": "邻居家",
+       "py": "línjūjiā",
+       "gl": "neighbor's (home)",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "狗",
+       "py": "gǒu",
+       "gl": "dog",
+       "pos": "n."
+      },
+      {
+       "h": "嘟嘟",
+       "py": "Dūdu",
+       "gl": "Dudu (pet name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "陪",
+       "py": "péi",
+       "gl": "accompany; keep company",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "玩",
+       "py": "wán",
+       "gl": "play; have fun; hang out",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "星期天",
+       "py": "xīngqītiān",
+       "gl": "Sunday",
+       "pos": "n."
+      },
+      {
+       "h": "死",
+       "py": "sǐ",
+       "gl": "die",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "No program knew about that.",
+   "phrases": [
+    {
+     "en": "No program knew about that.",
+     "words": [
+      {
+       "h": "这件事",
+       "py": "zhèjiànshì",
+       "gl": "this matter; this thing",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "软件",
+       "py": "ruǎnjiàn",
+       "gl": "app; software",
+       "pos": "n."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Grandma didn't make him do any more problems; she took him for a walk — the same route he always walked with Dudu.",
+   "phrases": [
+    {
+     "en": "Grandma didn't make him do any more problems; she took him for a walk — the same route he always walked with Dudu.",
+     "words": [
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "再",
+       "py": "zài",
+       "gl": "again; once more",
+       "pos": "adv."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "题",
+       "py": "tí",
+       "gl": "question; problem (in exercises)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "带",
+       "py": "dài",
+       "gl": "bring; take (along); carry",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "出去",
+       "py": "chūqu",
+       "gl": "to go out",
+       "pos": "v."
+      },
+      {
+       "h": "走了走",
+       "py": "zǒulezǒu",
+       "gl": "took a walk; walked around",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "平时",
+       "py": "píngshí",
+       "gl": "usually; ordinarily",
+       "pos": "adv."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "嘟嘟",
+       "py": "Dūdu",
+       "gl": "Dudu (pet name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "路",
+       "py": "lù",
+       "gl": "road; route; (bus) line",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Some teachers worry that students who rely on technology for everything will forget how to think for themselves.",
+   "phrases": [
+    {
+     "en": "Some teachers worry that students who rely on technology for everything will forget how to think for themselves.",
+     "words": [
+      {
+       "h": "有些",
+       "py": "yǒuxiē",
+       "gl": "some",
+       "pos": "pron."
       },
       {
        "h": "老师",
@@ -281,52 +1354,55 @@
        "h": "，"
       },
       {
-       "h": "过度",
-       "py": "guòdù",
-       "gl": "excessively; overly; too much",
-       "pos": "adv."
-      },
-      {
-       "h": "依赖",
-       "py": "yīlài",
-       "gl": "depend on; dependence",
-       "pos": "v."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
-      },
-      {
-       "h": "削弱",
-       "py": "xuēruò",
-       "gl": "weaken",
-       "pos": "v."
-      },
-      {
        "h": "学生",
-       "py": "xuésheng",
+       "py": "xuéshēng",
        "gl": "student",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
       },
       {
-       "h": "独立",
-       "py": "dúlì",
-       "gl": "independent; independence",
-       "pos": "adj."
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "靠",
+       "py": "kào",
+       "gl": "rely on; depend on",
+       "pos": "v."
+      },
+      {
+       "h": "机器",
+       "py": "jīqì",
+       "gl": "machine",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely (会不会 'will or won't')",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
       },
       {
        "h": "思考",
@@ -335,10 +1411,10 @@
        "pos": "v."
       },
       {
-       "h": "能力",
-       "py": "nénglì",
-       "gl": "ability",
-       "pos": "n."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -348,22 +1424,31 @@
    ]
   },
   {
-   "en": "Technology should be the teacher's helper, not something that completely takes the teacher's place.",
+   "en": "Grandma believes a machine is a good helper, but a teacher sees what isn't written in the mistake notebook.",
    "phrases": [
     {
-     "en": "Technology should be the teacher's helper, not something that completely takes the teacher's place.",
+     "en": "Grandma believes a machine is a good helper, but a teacher sees what isn't written in the mistake notebook.",
      "words": [
       {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
        "pos": "n."
       },
       {
-       "h": "应该",
-       "py": "yīnggāi",
-       "gl": "should; ought to; probably",
-       "pos": "function word"
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "机器",
+       "py": "jīqì",
+       "gl": "machine",
+       "pos": "n."
       },
       {
        "h": "是",
@@ -372,16 +1457,10 @@
        "pos": "v."
       },
       {
-       "h": "老师",
-       "py": "lǎoshī",
-       "gl": "teacher",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
       },
       {
        "h": "帮手",
@@ -393,28 +1472,10 @@
        "h": "，"
       },
       {
-       "h": "而",
-       "py": "ér",
-       "gl": "conjunction: and; but; (而不是 rather than)",
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
        "pos": "conj."
-      },
-      {
-       "h": "不是",
-       "py": "búshì",
-       "gl": "not be; no; not",
-       "pos": "v."
-      },
-      {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
-       "pos": "adv."
-      },
-      {
-       "h": "取代",
-       "py": "qǔdài",
-       "gl": "replace",
-       "pos": "v."
       },
       {
        "h": "老师",
@@ -423,132 +1484,40 @@
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "角色",
-       "py": "juésè",
-       "gl": "role",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Now lots of elementary and middle school students use AI mistake notebooks: the system automatically analyzes patterns in the questions they get wrong and recommends targeted practice.",
-   "phrases": [
-    {
-     "en": "Now lots of elementary and middle school students use AI mistake notebooks;",
-     "words": [
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "中小学生",
-       "py": "zhōngxiǎoxuéshēng",
-       "gl": "schoolchildren (primary and secondary school students)",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "particle: action in progress (他在吃 'he is eating')",
-       "pos": "prep."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
        "pos": "v."
       },
       {
-       "h": "AI"
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
+       "pos": "v."
       },
       {
        "h": "错题本",
        "py": "cuòtíběn",
-       "gl": "mistake notebook (log of wrong answers)",
+       "gl": "mistake notebook",
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the system automatically analyzes patterns in their mistakes",
-     "words": [
-      {
-       "h": "系统",
-       "py": "xìtǒng",
-       "gl": "system",
-       "pos": "n."
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "自动",
-       "py": "zìdòng",
-       "gl": "automatically; automatic",
-       "pos": "adv."
-      },
-      {
-       "h": "分析",
-       "py": "fēnxī",
-       "gl": "analyze",
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
        "pos": "v."
       },
       {
-       "h": "错题",
-       "py": "cuòtí",
-       "gl": "wrong answer; mistake (on a test)",
-       "pos": "n."
-      },
-      {
-       "h": "规律",
-       "py": "guīlǜ",
-       "gl": "pattern; regularity",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and recommends targeted practice.",
-     "words": [
-      {
-       "h": "推荐",
-       "py": "tuījiàn",
-       "gl": "recommend; recommendation",
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
        "pos": "v."
-      },
-      {
-       "h": "针对性",
-       "py": "zhēnduìxìng",
-       "gl": "targeted; specific (针对性的 targeted)",
-       "pos": "adj."
       },
       {
        "h": "的",
@@ -557,9 +1526,9 @@
        "pos": "particle"
       },
       {
-       "h": "练习",
-       "py": "liànxí",
-       "gl": "exercise; practice",
+       "h": "东西",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
        "pos": "n."
       },
       {
@@ -570,111 +1539,118 @@
    ]
   },
   {
-   "en": "Since the \"Double Reduction\" policy (a 2021 rule cutting homework and after-school tutoring) took effect, quite a few private tutoring companies have switched to making smart learning tools like these.",
+   "en": "That evening, under the little dog, she wrote: \"No problems needed today.\"",
    "phrases": [
     {
-     "en": "Since the \"Double Reduction\" policy took effect,",
+     "en": "That evening, under the little dog, she wrote: \"No problems needed today.\"",
      "words": [
       {
-       "h": "自从",
-       "py": "zìcóng",
-       "gl": "since; ever since",
-       "pos": "conj."
-      },
-      {
-       "h": "双减",
-       "py": "shuāngjiǎn",
-       "gl": "\"Double Reduction\" policy (cutting homework and tutoring)",
-       "pos": "n."
-      },
-      {
-       "h": "政策",
-       "py": "zhèngcè",
-       "gl": "policy",
-       "pos": "n."
-      },
-      {
-       "h": "实施",
-       "py": "shíshī",
-       "gl": "implement; put into effect",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "quite a few private tutoring companies have switched to making smart learning tools like these.",
-     "words": [
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
       },
       {
-       "h": "校外",
-       "py": "xiàowài",
-       "gl": "off-campus; extracurricular",
-       "pos": "adj."
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
-       "h": "培训机构",
-       "py": "péixùnjīgòu",
-       "gl": "training center; tutoring school",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "那只",
+       "py": "nàzhǐ",
+       "gl": "that (animal, one of a pair)",
+       "pos": "measure word"
+      },
+      {
+       "h": "小狗",
+       "py": "xiǎogǒu",
+       "gl": "puppy; little dog",
        "pos": "n."
       },
       {
-       "h": "转型",
-       "py": "zhuǎnxíng",
-       "gl": "transform; change direction (of a business)",
-       "pos": "v."
+       "h": "下面",
+       "py": "xiàmiàn",
+       "gl": "under; below; beneath",
+       "pos": "n."
       },
       {
-       "h": "做起",
-       "py": "zuòqǐ",
-       "gl": "start doing; take up",
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
       },
       {
-       "h": "智能",
-       "py": "zhìnéng",
-       "gl": "smart (devices); intelligent",
-       "pos": "adj."
+       "h": "行",
+       "py": "háng",
+       "gl": "measure word for lines (of text, rows)",
+       "pos": "measure word"
       },
       {
-       "h": "学习",
-       "py": "xuéxí",
-       "gl": "study; learning",
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
        "pos": "n."
       },
       {
-       "h": "工具",
-       "py": "gōngjù",
-       "gl": "tool",
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "今天",
+       "py": "jīntiān",
+       "gl": "today",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不用",
+       "py": "bùyòng",
+       "gl": "not need; no need to",
+       "pos": "v."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "题",
+       "py": "tí",
+       "gl": "question; problem (in exercises)",
        "pos": "n."
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }

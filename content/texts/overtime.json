@@ -1,17 +1,17 @@
 {
  "id": "overtime",
  "level": 4,
- "title_zh": "加班与休息",
- "title_en": "Overtime and Rest",
+ "title_zh": "晚上十一点的消息",
+ "title_en": "The Eleven O'Clock Messages",
  "free": false,
  "audio_url": null,
- "note_en": "不是A，而是B means \"it's not A, it's B\": 我不是不想休息，而是工作太多了 \"it's not that I don't want to rest, it's that there's too much work.\" English often says \"it's not that ... it's that ...,\" and Chinese uses 而是 to introduce the real reason.",
+ "note_en": "The pair 不是……而是…… means \"not…, but…\": 我不是不想休息，而是工作太多了 — \"it's not that I don't want to rest; it's that there's too much work.\" It's a way to correct someone or name the real reason. 不是 goes before what is being rejected.",
  "sentences": [
   {
-   "en": "My coworker Xiao Li often works overtime.",
+   "en": "I own a small company, and Xiao Bai is my best employee.",
    "phrases": [
     {
-     "en": "My coworker Xiao Li",
+     "en": "I own a small company, and Xiao Bai is my best employee.",
      "words": [
       {
        "h": "我",
@@ -20,39 +20,79 @@
        "pos": "pron."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
       },
       {
-       "h": "同事",
-       "py": "tóngshì",
-       "gl": "colleague; coworker",
+       "h": "一家",
+       "py": "yìjiā",
+       "gl": "a; one (shop, family, company)",
+       "pos": "measure word"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
        "pos": "n."
       },
       {
-       "h": "小李",
-       "py": "xiǎolǐ",
-       "gl": "Xiao Li (name)",
-       "pos": "proper noun"
-      }
-     ]
-    },
-    {
-     "en": "often works overtime.",
-     "words": [
-      {
-       "h": "常常",
-       "py": "chángcháng",
-       "gl": "often",
-       "pos": "adv."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "加班",
-       "py": "jiābān",
-       "gl": "work overtime",
+       "h": "老板",
+       "py": "lǎobǎn",
+       "gl": "boss",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "小柏",
+       "py": "Xiǎo Bǎi",
+       "gl": "Xiao Bai",
+       "pos": "proper noun"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "最好",
+       "py": "zuìhǎo",
+       "gl": "best",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "员工",
+       "py": "yuángōng",
+       "gl": "employee; staff",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -62,10 +102,10 @@
    ]
   },
   {
-   "en": "He doesn't leave work until after nine every night, and sometimes he has to work on weekends too.",
+   "en": "He leaves work after nine every evening, and sometimes works weekends too.",
    "phrases": [
     {
-     "en": "He doesn't get off work until after nine every night,",
+     "en": "He leaves work after nine every evening, and sometimes works weekends too.",
      "words": [
       {
        "h": "他",
@@ -74,15 +114,9 @@
        "pos": "pron."
       },
       {
-       "h": "每天",
-       "py": "měitiān",
-       "gl": "every day",
-       "pos": "n."
-      },
-      {
-       "h": "晚上",
-       "py": "wǎnshang",
-       "gl": "evening",
+       "h": "每天晚上",
+       "py": "měitiānwǎnshàng",
+       "gl": "every evening; every night",
        "pos": "n."
       },
       {
@@ -100,29 +134,24 @@
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "才",
        "py": "cái",
-       "gl": "only; only then; not until",
+       "gl": "only then; not until",
        "pos": "adv."
       },
       {
        "h": "下班",
        "py": "xiàbān",
        "gl": "get off work; finish work",
-       "pos": "v."
+       "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and sometimes he has to work on weekends too.",
-     "words": [
+      },
       {
        "h": "周末",
        "py": "zhōumò",
@@ -144,7 +173,7 @@
       {
        "h": "要",
        "py": "yào",
-       "gl": "want; order; be going to; need",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
@@ -161,11 +190,220 @@
    ]
   },
   {
-   "en": "\"It's not that I don't want to rest, it's that I have too much work,\" he said.",
+   "en": "I often message him at eleven at night, and he always replies right away.",
    "phrases": [
     {
-     "en": "\"It's not that I don't want to rest,",
+     "en": "I often message him at eleven at night, and he always replies right away.",
      "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "十一点",
+       "py": "shíyīdiǎn",
+       "gl": "eleven o'clock",
+       "pos": "n."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "发消息",
+       "py": "fāxiāoxī",
+       "gl": "send a message; text",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "总是",
+       "py": "zǒngshì",
+       "gl": "always",
+       "pos": "adv."
+      },
+      {
+       "h": "马上",
+       "py": "mǎshàng",
+       "gl": "immediately; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "reply",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I thought this meant he loved his job.",
+   "phrases": [
+    {
+     "en": "I thought this meant he loved his job.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "以为",
+       "py": "yǐwéi",
+       "gl": "think (mistakenly); assume",
+       "pos": "v."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "说明",
+       "py": "shuōmíng",
+       "gl": "show; indicate",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "喜欢",
+       "py": "xǐhuan",
+       "gl": "like; love",
+       "pos": "v."
+      },
+      {
+       "h": "这份",
+       "py": "zhèfèn",
+       "gl": "this (这份 + noun: this piece of …)",
+       "pos": "pron."
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Once I asked him why he didn't rest, and he said, \"It's not that I don't want to rest; it's that there's too much work.\"",
+   "phrases": [
+    {
+     "en": "Once I asked him why he didn't rest, and he said, \"It's not that I don't want to rest; it's that there's too much work.\"",
+     "words": [
+      {
+       "h": "有一次",
+       "py": "yǒuyīcì",
+       "gl": "once; one time",
+       "pos": "adv."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "为什么",
+       "py": "wèishénme",
+       "gl": "why",
+       "pos": "pron."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "休息",
+       "py": "xiūxī",
+       "gl": "rest",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
       {
        "h": "“"
       },
@@ -178,35 +416,24 @@
       {
        "h": "不是",
        "py": "búshì",
-       "gl": "not be; no; not",
+       "gl": "not be; is not",
        "pos": "v."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like; think; miss",
+       "h": "不想",
+       "py": "bùxiǎng",
+       "gl": "not want to",
        "pos": "v."
       },
       {
        "h": "休息",
-       "py": "xiūxi",
+       "py": "xiūxī",
        "gl": "rest",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it's that there's too much work,\"",
-     "words": [
+      },
       {
        "h": "而是",
        "py": "érshì",
@@ -220,16 +447,10 @@
        "pos": "n."
       },
       {
-       "h": "太",
-       "py": "tài",
-       "gl": "too; very",
+       "h": "太多",
+       "py": "tàiduō",
+       "gl": "too many; too much",
        "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
       },
       {
        "h": "了",
@@ -244,20 +465,43 @@
        "h": "”"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "I didn't think much of it.",
+   "phrases": [
     {
-     "en": "he said.",
+     "en": "I didn't think much of it.",
      "words": [
       {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "多想",
+       "py": "duōxiǎng",
+       "gl": "overthink; worry too much",
        "pos": "v."
       },
       {
@@ -268,10 +512,10 @@
    ]
   },
   {
-   "en": "Over time, his health got worse and worse.",
+   "en": "As time went on, his health got worse and worse.",
    "phrases": [
     {
-     "en": "Over time,",
+     "en": "As time went on, his health got worse and worse.",
      "words": [
       {
        "h": "时间",
@@ -282,7 +526,7 @@
       {
        "h": "长",
        "py": "cháng",
-       "gl": "long",
+       "gl": "long (时间长了 after a long time)",
        "pos": "adj."
       },
       {
@@ -293,12 +537,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "his health got worse and worse.",
-     "words": [
+      },
       {
        "h": "他",
        "py": "tā",
@@ -308,7 +547,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -337,37 +576,20 @@
    ]
   },
   {
-   "en": "One day he felt really sick at the office and was taken to the hospital.",
+   "en": "One day he felt very ill at the office and was taken to the hospital.",
    "phrases": [
     {
-     "en": "One day,",
+     "en": "One day he felt very ill at the office and was taken to the hospital.",
      "words": [
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "sky; day",
-       "pos": "n."
+       "h": "有一天",
+       "py": "yǒuyītiān",
+       "gl": "one day",
+       "pos": "adv."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "he felt really unwell at the office",
-     "words": [
+      },
       {
        "h": "他",
        "py": "tā",
@@ -377,7 +599,7 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -399,41 +621,24 @@
        "pos": "adv."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "舒服",
-       "py": "shūfu",
-       "gl": "comfortable; feel well",
-       "pos": "adj."
+       "h": "不舒服",
+       "py": "bùshūfú",
+       "gl": "unwell; uncomfortable; unpleasant",
+       "pos": "phrase"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and was taken to the hospital.",
-     "words": [
+      },
       {
        "h": "被",
        "py": "bèi",
        "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "pos": "function word"
       },
       {
-       "h": "送",
-       "py": "sòng",
-       "gl": "give (as a gift); see off; send",
-       "pos": "v."
-      },
-      {
-       "h": "进",
-       "py": "jìn",
-       "gl": "enter; come in",
+       "h": "送进",
+       "py": "sòngjìn",
+       "gl": "send into",
        "pos": "v."
       },
       {
@@ -456,10 +661,10 @@
    ]
   },
   {
-   "en": "The doctor told him, \"You're exhausted. You have to get some proper rest.\"",
+   "en": "The doctor told him, \"You're too exhausted. You must get proper rest.\"",
    "phrases": [
     {
-     "en": "The doctor told him,",
+     "en": "The doctor told him, \"You're too exhausted. You must get proper rest.\"",
      "words": [
       {
        "h": "医生",
@@ -470,7 +675,7 @@
       {
        "h": "对",
        "py": "duì",
-       "gl": "to; toward; correct",
+       "gl": "regarding; on",
        "pos": "prep."
       },
       {
@@ -487,12 +692,7 @@
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"You're exhausted,",
-     "words": [
+      },
       {
        "h": "“"
       },
@@ -503,15 +703,9 @@
        "pos": "pron."
       },
       {
-       "h": "太",
-       "py": "tài",
-       "gl": "too; very",
-       "pos": "adv."
-      },
-      {
-       "h": "累",
-       "py": "lèi",
-       "gl": "tired",
+       "h": "太累",
+       "py": "tàilèi",
+       "gl": "too tired; too tiring",
        "pos": "adj."
       },
       {
@@ -522,12 +716,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "you have to get some proper rest.\"",
-     "words": [
+      },
       {
        "h": "必须",
        "py": "bìxū",
@@ -542,8 +731,8 @@
       },
       {
        "h": "休息",
-       "py": "xiūxi",
-       "gl": "rest",
+       "py": "xiūxī",
+       "gl": "rest; break",
        "pos": "v."
       },
       {
@@ -557,53 +746,75 @@
    ]
   },
   {
-   "en": "When his boss found out, he gave him a week off.",
+   "en": "That evening, in the hospital corridor, I opened my phone and saw all the messages I'd sent him over the past year.",
    "phrases": [
     {
-     "en": "When his boss found out,",
+     "en": "That evening, in the hospital corridor, I opened my phone and saw all the messages I'd sent him over the past year.",
      "words": [
       {
-       "h": "老板",
-       "py": "lǎobǎn",
-       "gl": "boss; shop owner",
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
        "pos": "n."
       },
       {
-       "h": "知道",
-       "py": "zhīdao",
-       "gl": "know",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "he let him take a week off.",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
       },
       {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
       },
       {
-       "h": "休息",
-       "py": "xiūxi",
-       "gl": "rest",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "医院",
+       "py": "yīyuàn",
+       "gl": "hospital",
+       "pos": "n."
+      },
+      {
+       "h": "走廊",
+       "py": "zǒuláng",
+       "gl": "corridor; veranda",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
        "pos": "v."
       },
       {
@@ -613,21 +824,51 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
+       "h": "一年",
+       "py": "yīnián",
+       "gl": "one year; a year",
+       "pos": "n."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
       },
       {
-       "h": "星期",
-       "py": "xīngqī",
-       "gl": "week",
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "所有",
+       "py": "suǒyǒu",
+       "gl": "all; every",
+       "pos": "pron."
+      },
+      {
+       "h": "消息",
+       "py": "xiāoxī",
+       "gl": "message; news",
        "pos": "n."
       },
       {
@@ -638,10 +879,389 @@
    ]
   },
   {
-   "en": "After he came back to work, Xiao Li started learning how to manage his time.",
+   "en": "Many were sent at eleven at night, and many said \"not urgent.\"",
    "phrases": [
     {
-     "en": "After he came back to the office,",
+     "en": "Many were sent at eleven at night, and many said \"not urgent.\"",
+     "words": [
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "都是",
+       "py": "dōushì",
+       "gl": "all are; are all",
+       "pos": "v."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "十一点",
+       "py": "shíyīdiǎn",
+       "gl": "eleven o'clock",
+       "pos": "n."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "急",
+       "py": "jí",
+       "gl": "urgent; urgently; anxious",
+       "pos": "adj."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But he had answered every one within five minutes.",
+   "phrases": [
+    {
+     "en": "But he had answered every one within five minutes.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "每一条",
+       "py": "měiyītiáo",
+       "gl": "every; each (of long things: tunnels, roads, lines)",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "以内",
+       "py": "yǐnèi",
+       "gl": "within",
+       "pos": "postposition"
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "reply",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Only then did I understand that too much work wasn't his problem; it was mine.",
+   "phrases": [
+    {
+     "en": "Only then did I understand that too much work wasn't his problem; it was mine.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "这才",
+       "py": "zhècái",
+       "gl": "only then",
+       "pos": "adv."
+      },
+      {
+       "h": "明白",
+       "py": "míngbái",
+       "gl": "understand; realize",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "太多",
+       "py": "tàiduō",
+       "gl": "too many; too much",
+       "pos": "adv."
+      },
+      {
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "而是",
+       "py": "érshì",
+       "gl": "but rather (不是…而是… not … but …)",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I gave him a week off, and I stopped sending messages after eight in the evening.",
+   "phrases": [
+    {
+     "en": "I gave him a week off, and I stopped sending messages after eight in the evening.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "休息",
+       "py": "xiūxī",
+       "gl": "rest",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不再",
+       "py": "bùzài",
+       "gl": "no longer; not anymore",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "八",
+       "py": "bā",
+       "gl": "eight",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "发消息",
+       "py": "fāxiāoxī",
+       "gl": "send a message; text",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Back at work, Xiao Bai began learning to manage his time.",
+   "phrases": [
+    {
+     "en": "Back at work, Xiao Bai began learning to manage his time.",
      "words": [
       {
        "h": "回到",
@@ -658,21 +1278,16 @@
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Xiao Li started learning to manage his time.",
-     "words": [
+      },
       {
-       "h": "小李",
-       "py": "xiǎolǐ",
-       "gl": "Xiao Li (name)",
+       "h": "小柏",
+       "py": "Xiǎo Bǎi",
+       "gl": "Xiao Bai",
        "pos": "proper noun"
       },
       {
@@ -690,8 +1305,8 @@
       {
        "h": "安排",
        "py": "ānpái",
-       "gl": "arrange; plan",
-       "pos": "v."
+       "gl": "arrangement; schedule; plan",
+       "pos": "n."
       },
       {
        "h": "时间",
@@ -707,10 +1322,10 @@
    ]
   },
   {
-   "en": "He says he used to always feel there wasn't enough time, but really he just hadn't worked out what mattered most.",
+   "en": "He said he used to feel he never had enough time, but really he hadn't sorted out what mattered most.",
    "phrases": [
     {
-     "en": "He says",
+     "en": "He said he used to feel he never had enough time, but really he hadn't sorted out what mattered most.",
      "words": [
       {
        "h": "他",
@@ -726,12 +1341,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "he used to always feel there wasn't enough time,",
-     "words": [
+      },
       {
        "h": "以前",
        "py": "yǐqián",
@@ -758,24 +1368,19 @@
       },
       {
        "h": "不够",
-       "py": "búgòu",
+       "py": "bùgòu",
        "gl": "not enough; be short of",
        "pos": "v."
       },
       {
        "h": "用",
        "py": "yòng",
-       "gl": "use; with (by means of)",
+       "gl": "use",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but really he hadn't figured out what mattered most.",
-     "words": [
+      },
       {
        "h": "其实",
        "py": "qíshí",
@@ -797,14 +1402,14 @@
       {
        "h": "分清",
        "py": "fēnqīng",
-       "gl": "distinguish; tell apart",
+       "gl": "to tell apart",
        "pos": "v."
       },
       {
        "h": "什么",
        "py": "shénme",
        "gl": "what",
-       "pos": "question word"
+       "pos": "pron."
       },
       {
        "h": "最",
@@ -826,16 +1431,16 @@
    ]
   },
   {
-   "en": "Now he leaves work right at six, and he's even signed up for a swimming class.",
+   "en": "Now he leaves right at six, and he's even signed up for a swimming class.",
    "phrases": [
     {
-     "en": "Now he leaves work at six on the dot,",
+     "en": "Now he leaves right at six, and he's even signed up for a swimming class.",
      "words": [
       {
        "h": "现在",
        "py": "xiànzài",
        "gl": "now",
-       "pos": "n."
+       "pos": "adv."
       },
       {
        "h": "他",
@@ -844,16 +1449,10 @@
        "pos": "pron."
       },
       {
-       "h": "六",
-       "py": "liù",
-       "gl": "six",
-       "pos": "num."
-      },
-      {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "o'clock; point; dot",
-       "pos": "measure word"
+       "h": "六点",
+       "py": "liùdiǎn",
+       "gl": "six o'clock",
+       "pos": "n."
       },
       {
        "h": "准时",
@@ -869,16 +1468,11 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and he's even signed up for a swimming class.",
-     "words": [
+      },
       {
        "h": "还",
        "py": "hái",
-       "gl": "also; still; in addition",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
@@ -900,27 +1494,15 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "游泳",
-       "py": "yóuyǒng",
-       "gl": "swim",
-       "pos": "v."
-      },
-      {
-       "h": "班",
-       "py": "bān",
-       "gl": "class; group; shift",
+       "h": "游泳班",
+       "py": "yóuyǒngbān",
+       "gl": "swimming class",
        "pos": "n."
       },
       {
@@ -931,10 +1513,10 @@
    ]
   },
   {
-   "en": "He said with a smile, \"So when you're well rested, you do your job better too.\"",
+   "en": "He laughs and says, \"Turns out when you're well rested, you work better too.\"",
    "phrases": [
     {
-     "en": "He said with a smile,",
+     "en": "He laughs and says, \"Turns out when you're well rested, you work better too.\"",
      "words": [
       {
        "h": "他",
@@ -943,31 +1525,14 @@
        "pos": "pron."
       },
       {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
+       "h": "笑着说",
+       "py": "xiàozheshuō",
+       "gl": "say with a smile",
+       "pos": "phrase"
       },
       {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"So when you're well rested,",
-     "words": [
+      },
       {
        "h": "“"
       },
@@ -979,14 +1544,14 @@
       },
       {
        "h": "休息",
-       "py": "xiūxi",
-       "gl": "rest",
+       "py": "xiūxī",
+       "gl": "rest; break",
        "pos": "v."
       },
       {
        "h": "好",
        "py": "hǎo",
-       "gl": "good; well",
+       "gl": "good",
        "pos": "adj."
       },
       {
@@ -997,12 +1562,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "you do your job better too.\"",
-     "words": [
+      },
       {
        "h": "工作",
        "py": "gōngzuò",
@@ -1016,27 +1576,15 @@
        "pos": "adv."
       },
       {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
+       "h": "做得",
+       "py": "zuòdé",
+       "gl": "do; make (+ complement: 做得很好 done well)",
        "pos": "v."
       },
       {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
-       "pos": "particle"
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
+       "h": "更好",
+       "py": "gènghǎo",
+       "gl": "better",
        "pos": "adj."
       },
       {
@@ -1044,6 +1592,109 @@
       },
       {
        "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Last week I signed up as well — in the lane right next to his.",
+   "phrases": [
+    {
+     "en": "Last week I signed up as well — in the lane right next to his.",
+     "words": [
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "报",
+       "py": "bào",
+       "gl": "report (to the police); sign up (for a course)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "名",
+       "py": "míng",
+       "gl": "(报名) name",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "泳道",
+       "py": "yǒngdào",
+       "gl": "lane (in a pool)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
       }
      ]
     }

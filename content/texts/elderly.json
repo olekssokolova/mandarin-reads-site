@@ -1,18 +1,24 @@
 {
  "id": "elderly",
  "level": 4,
- "title_zh": "独居老人",
- "title_en": "Elderly People Living Alone",
+ "title_zh": "空鸟笼",
+ "title_en": "The Empty Birdcage",
  "free": false,
  "audio_url": null,
- "note_en": "一旦…就… means \"once ... (then)\": 一旦摔倒或者长时间不动，系统就会自动通知家人 \"once she falls or doesn't move for a long time, the system automatically notifies her family.\" It's used for a condition that may happen, often a risky one, and 就 comes before the verb of the result.",
+ "note_en": "The word 空巢 — literally \"empty nest\" — describes a home that grown children have left, leaving the parents alone. Hence 空巢老人, \"empty-nest elderly\": 像她这样的“空巢老人” — \"empty-nest elderly people like her.\"",
  "sentences": [
   {
-   "en": "An old lady lives alone downstairs; her children all work in other cities.",
+   "en": "An old woman lives alone one floor below us; I call her Granny Song, and her children all work in other cities.",
    "phrases": [
     {
-     "en": "An old lady lives alone downstairs;",
+     "en": "An old woman lives alone one floor below us; I call her Granny Song, and her children all work in other cities.",
      "words": [
+      {
+       "h": "我家",
+       "py": "wǒjiā",
+       "gl": "my home; my family",
+       "pos": "n."
+      },
       {
        "h": "楼下",
        "py": "lóuxià",
@@ -32,15 +38,9 @@
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "位",
-       "py": "wèi",
-       "gl": "polite measure word for people",
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
        "pos": "measure word"
       },
       {
@@ -52,7 +52,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -63,12 +63,46 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "her children all work in other cities.",
-     "words": [
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "宋奶奶",
+       "py": "Sòng nǎinai",
+       "gl": "Granny Song",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
       {
        "h": "子女",
        "py": "zǐnǚ",
@@ -84,7 +118,7 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -107,11 +141,26 @@
    ]
   },
   {
-   "en": "There are more and more \"empty-nest elderly\" like her in China.",
+   "en": "Mom says that empty-nest elderly people like her are becoming more and more common in China.",
    "phrases": [
     {
-     "en": "There are more and more \"empty-nest elderly\" like her in China.",
+     "en": "Mom says that empty-nest elderly people like her are becoming more and more common in China.",
      "words": [
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "像",
        "py": "xiàng",
@@ -127,28 +176,22 @@
       {
        "h": "这样",
        "py": "zhèyàng",
-       "gl": "like this; this way; such",
+       "gl": "such; like this",
        "pos": "pron."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "“"
       },
       {
-       "h": "空巢",
-       "py": "kōngcháo",
-       "gl": "empty nest (空巢老人 elderly living alone)",
-       "pos": "n."
-      },
-      {
-       "h": "老人",
-       "py": "lǎorén",
-       "gl": "old person; elderly people",
+       "h": "空巢老人",
+       "py": "kōngcháo lǎorén",
+       "gl": "\"empty-nest\" elderly",
        "pos": "n."
       },
       {
@@ -160,7 +203,7 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "be at; in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -176,16 +219,10 @@
        "pos": "adv."
       },
       {
-       "h": "越来越",
-       "py": "yuèláiyuè",
+       "h": "越来越多",
+       "py": "yuèláiyuèduō",
        "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
+       "pos": "phrase"
       },
       {
        "h": "。"
@@ -195,15 +232,166 @@
    ]
   },
   {
-   "en": "Usually, what she looks forward to most is her children calling home on the weekend.",
+   "en": "I was ten then and didn't really understand what \"empty nest\" meant — I only knew there was a birdcage on her balcony that had been empty for a long time.",
    "phrases": [
     {
-     "en": "Usually, what she looks forward to most is her children calling home on the weekend.",
+     "en": "I was ten then and didn't really understand what \"empty nest\" meant — I only knew there was a birdcage on her balcony that had been empty for a long time.",
+     "words": [
+      {
+       "h": "那年",
+       "py": "nànián",
+       "gl": "that year",
+       "pos": "n."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "十岁",
+       "py": "shísuì",
+       "gl": "ten years (of age)",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不太",
+       "py": "bùtài",
+       "gl": "not very; not quite",
+       "pos": "adv."
+      },
+      {
+       "h": "懂",
+       "py": "dǒng",
+       "gl": "understand",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "空巢",
+       "py": "kōngcháo",
+       "gl": "\"empty nest\"",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "是什么意思",
+       "py": "shìshénmeyìsi",
+       "gl": "what (it) means",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know; find out; learn",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "阳台",
+       "py": "yángtái",
+       "gl": "balcony",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "挂",
+       "py": "guà",
+       "gl": "hang",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "空",
+       "py": "kōng",
+       "gl": "to become empty",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很久",
+       "py": "hěnjiǔ",
+       "gl": "a long time",
+       "pos": "adv."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "鸟笼",
+       "py": "niǎolóng",
+       "gl": "birdcage",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "What she looked forward to most was her children calling on the weekend.",
+   "phrases": [
+    {
+     "en": "What she looked forward to most was her children calling on the weekend.",
      "words": [
       {
        "h": "平时",
        "py": "píngshí",
-       "gl": "usually; ordinarily; in everyday time",
+       "gl": "usually; ordinarily",
        "pos": "adv."
       },
       {
@@ -227,8 +415,11 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
+      },
+      {
+       "h": "，"
       },
       {
        "h": "就是",
@@ -249,16 +440,10 @@
        "pos": "n."
       },
       {
-       "h": "打",
-       "py": "dǎ",
-       "gl": "hit; play (ball games); make (a phone call)",
+       "h": "打电话",
+       "py": "dǎdiànhuà",
+       "gl": "make a phone call; call",
        "pos": "v."
-      },
-      {
-       "h": "电话",
-       "py": "diànhuà",
-       "gl": "phone; phone call",
-       "pos": "n."
       },
       {
        "h": "回来",
@@ -274,27 +459,151 @@
    ]
   },
   {
-   "en": "The neighborhood committee recently organized some activities, like teaching seniors to use smartphones and making dumplings together.",
+   "en": "Every Saturday evening she put her phone on the table and sat next to it waiting, without even turning on the TV.",
    "phrases": [
     {
-     "en": "The neighborhood committee recently organized some activities,",
+     "en": "Every Saturday evening she put her phone on the table and sat next to it waiting, without even turning on the TV.",
+     "words": [
+      {
+       "h": "每个",
+       "py": "měigè",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "星期六",
+       "py": "xīngqīliù",
+       "gl": "Saturday",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "放在",
+       "py": "fàngzài",
+       "gl": "put in; put on; place",
+       "pos": "v."
+      },
+      {
+       "h": "桌子",
+       "py": "zhuōzi",
+       "gl": "table; desk",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
+       "pos": "v."
+      },
+      {
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "连",
+       "py": "lián",
+       "gl": "even (连…都… even)",
+       "pos": "prep."
+      },
+      {
+       "h": "电视",
+       "py": "diànshì",
+       "gl": "TV; television",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
+       "pos": "adv."
+      },
+      {
+       "h": "不开",
+       "py": "bùkāi",
+       "gl": "(verb complement: can't open / can't get away)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Recently our neighborhood organized some activities, like teaching old people to use smartphones and making dumplings together.",
+   "phrases": [
+    {
+     "en": "Recently our neighborhood organized some activities, like teaching old people to use smartphones and making dumplings together.",
      "words": [
       {
        "h": "社区",
        "py": "shèqū",
-       "gl": "neighborhood; local community",
+       "gl": "community; residential community",
        "pos": "n."
       },
       {
        "h": "最近",
        "py": "zuìjìn",
        "gl": "recently; lately",
-       "pos": "n."
+       "pos": "adv."
       },
       {
        "h": "组织",
        "py": "zǔzhī",
-       "gl": "organize",
+       "gl": "organize; organization; tissue (body)",
        "pos": "v."
       },
       {
@@ -312,17 +621,12 @@
       {
        "h": "活动",
        "py": "huódòng",
-       "gl": "move around; exercise; activity",
+       "gl": "activity; move around; exercise",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "like teaching seniors to use smartphones",
-     "words": [
+      },
       {
        "h": "比如",
        "py": "bǐrú",
@@ -355,12 +659,7 @@
       },
       {
        "h": "、"
-      }
-     ]
-    },
-    {
-     "en": "and making dumplings together.",
-     "words": [
+      },
       {
        "h": "一起",
        "py": "yìqǐ",
@@ -368,16 +667,10 @@
        "pos": "adv."
       },
       {
-       "h": "包",
-       "py": "bāo",
-       "gl": "bag",
-       "pos": "n."
-      },
-      {
-       "h": "饺子",
-       "py": "jiǎozi",
-       "gl": "dumplings; jiaozi",
-       "pos": "n."
+       "h": "包饺子",
+       "py": "bāojiǎozi",
+       "gl": "make dumplings",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -387,11 +680,105 @@
    ]
   },
   {
-   "en": "She said these activities make her feel she hasn't been left behind by the times.",
+   "en": "Granny Song learned slowly and often asked me the same question three times.",
    "phrases": [
     {
-     "en": "She said",
+     "en": "Granny Song learned slowly and often asked me the same question three times.",
      "words": [
+      {
+       "h": "宋奶奶",
+       "py": "Sòng nǎinai",
+       "gl": "Granny Song",
+       "pos": "proper noun"
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "question; problem",
+       "pos": "n."
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
+       "gl": "often",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "三遍",
+       "py": "sānbiàn",
+       "gl": "three times",
+       "pos": "phrase"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But she said these activities made her feel she hadn't been left behind by the times.",
+   "phrases": [
+    {
+     "en": "But she said these activities made her feel she hadn't been left behind by the times.",
+     "words": [
+      {
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
       {
        "h": "她",
        "py": "tā",
@@ -406,12 +793,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "these activities make her feel",
-     "words": [
+      },
       {
        "h": "这些",
        "py": "zhèxiē",
@@ -421,13 +803,13 @@
       {
        "h": "活动",
        "py": "huódòng",
-       "gl": "move around; exercise; activity",
+       "gl": "activity; move around; exercise",
        "pos": "n."
       },
       {
        "h": "让",
        "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
@@ -441,12 +823,7 @@
        "py": "juéde",
        "gl": "feel; think",
        "pos": "v."
-      }
-     ]
-    },
-    {
-     "en": "she hasn't been left behind by the times.",
-     "words": [
+      },
       {
        "h": "自己",
        "py": "zìjǐ",
@@ -463,7 +840,7 @@
        "h": "被",
        "py": "bèi",
        "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
+       "pos": "function word"
       },
       {
        "h": "这个",
@@ -480,7 +857,7 @@
       {
        "h": "落下",
        "py": "làxià",
-       "gl": "leave behind; fall behind",
+       "gl": "to be left behind",
        "pos": "v."
       },
       {
@@ -491,15 +868,15 @@
    ]
   },
   {
-   "en": "The neighborhood committee also set her up with a smart wristband: if she falls or doesn't move for a long time, the system automatically notifies her family and the community workers.",
+   "en": "The neighborhood also gave her a smart wristband: if she falls or doesn't move for a long time, the system automatically notifies her family and the neighborhood staff.",
    "phrases": [
     {
-     "en": "The neighborhood committee also set her up with a smart wristband:",
+     "en": "The neighborhood also gave her a smart wristband: if she falls or doesn't move for a long time, the system automatically notifies her family and the neighborhood staff.",
      "words": [
       {
        "h": "社区",
        "py": "shèqū",
-       "gl": "community; residential community",
+       "gl": "community; neighborhood",
        "pos": "n."
       },
       {
@@ -521,49 +898,32 @@
        "pos": "pron."
       },
       {
-       "h": "安装",
-       "py": "ānzhuāng",
-       "gl": "install",
+       "h": "戴上",
+       "py": "dàishàng",
+       "gl": "put on (gloves, a mask, a hat)",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "measure word (general: 换个角度 from another angle)",
-       "pos": "measure word"
-      },
-      {
-       "h": "智能",
-       "py": "zhìnéng",
-       "gl": "smart (devices); intelligent",
-       "pos": "adj."
-      },
-      {
-       "h": "手环",
-       "py": "shǒuhuán",
-       "gl": "bracelet; wristband (fitness band)",
+       "h": "智能手环",
+       "py": "zhìnéng shǒuhuán",
+       "gl": "smart wristband",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "if she falls or doesn't move for a long time,",
-     "words": [
+      },
       {
        "h": "一旦",
        "py": "yídàn",
@@ -589,25 +949,14 @@
        "pos": "n."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "动",
-       "py": "dòng",
-       "gl": "move",
-       "pos": "v."
+       "h": "不动",
+       "py": "bùdòng",
+       "gl": "motionless; unable to move (拉不动 can't pull anymore)",
+       "pos": "adj."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the system automatically notifies her family and the community workers.",
-     "words": [
+      },
       {
        "h": "系统",
        "py": "xìtǒng",
@@ -624,7 +973,7 @@
        "h": "会",
        "py": "huì",
        "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "自动",
@@ -635,7 +984,7 @@
       {
        "h": "通知",
        "py": "tōngzhī",
-       "gl": "notify; inform",
+       "gl": "notify; inform; notice",
        "pos": "v."
       },
       {
@@ -647,13 +996,13 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
        "h": "社区",
        "py": "shèqū",
-       "gl": "community; residential community",
+       "gl": "community; neighborhood",
        "pos": "n."
       },
       {
@@ -670,10 +1019,349 @@
    ]
   },
   {
-   "en": "She said with a smile that this little wristband now gives her even more peace of mind than her kids calling every day.",
+   "en": "One Wednesday afternoon she was listening to the radio on the sofa, dozed off without noticing, and the wristband went off.",
    "phrases": [
     {
-     "en": "She said with a smile that this little wristband now",
+     "en": "One Wednesday afternoon she was listening to the radio on the sofa, dozed off without noticing, and the wristband went off.",
+     "words": [
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "星期三",
+       "py": "xīngqīsān",
+       "gl": "Wednesday",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "下午",
+       "py": "xiàwǔ",
+       "gl": "afternoon",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
+       "pos": "v."
+      },
+      {
+       "h": "沙发",
+       "py": "shāfā",
+       "gl": "sofa; couch",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "收音机",
+       "py": "shōuyīnjī",
+       "gl": "radio",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不知不觉",
+       "py": "bùzhībùjué",
+       "gl": "without noticing; before one knows it",
+       "pos": "adv."
+      },
+      {
+       "h": "睡着",
+       "py": "shuìzháo",
+       "gl": "fall asleep",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "手环",
+       "py": "shǒuhuán",
+       "gl": "bracelet; wristband (fitness band)",
+       "pos": "n."
+      },
+      {
+       "h": "响",
+       "py": "xiǎng",
+       "gl": "ring; make a sound",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In less than ten minutes, Auntie Sun from the neighborhood office was knocking on the door, and her son in Shenzhen called too.",
+   "phrases": [
+    {
+     "en": "In less than ten minutes, Auntie Sun from the neighborhood office was knocking on the door, and her son in Shenzhen called too.",
+     "words": [
+      {
+       "h": "不到",
+       "py": "búdào",
+       "gl": "not reach; less than; (after verb) unable to (找不到 can't find)",
+       "pos": "v."
+      },
+      {
+       "h": "十",
+       "py": "shí",
+       "gl": "ten",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "社区",
+       "py": "shèqū",
+       "gl": "community; neighborhood",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "孙阿姨",
+       "py": "Sūn āyí",
+       "gl": "Auntie Sun",
+       "pos": "proper noun"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "跑来",
+       "py": "pǎolái",
+       "gl": "come over; come running",
+       "pos": "v."
+      },
+      {
+       "h": "敲门",
+       "py": "qiāomén",
+       "gl": "knock on the door",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "深圳",
+       "py": "Shēnzhèn",
+       "gl": "Shenzhen",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "儿子",
+       "py": "érzi",
+       "gl": "son",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "打来",
+       "py": "dǎlái",
+       "gl": "call (on the phone); phone in",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "电话",
+       "py": "diànhuà",
+       "gl": "phone; phone call",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That was the first time I learned her children could call on a Wednesday as well.",
+   "phrases": [
+    {
+     "en": "That was the first time I learned her children could call on a Wednesday as well.",
+     "words": [
+      {
+       "h": "那是",
+       "py": "nàshì",
+       "gl": "of course; sure (that's right)",
+       "pos": "phrase"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "find out; learn",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "子女",
+       "py": "zǐnǚ",
+       "gl": "children (sons and daughters)",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "星期三",
+       "py": "xīngqīsān",
+       "gl": "Wednesday",
+       "pos": "n."
+      },
+      {
+       "h": "打电话",
+       "py": "dǎdiànhuà",
+       "gl": "make a phone call; call",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She laughed and said this little wristband reassured her more than if her children called every day.",
+   "phrases": [
+    {
+     "en": "She laughed and said this little wristband reassured her more than if her children called every day.",
      "words": [
       {
        "h": "她",
@@ -682,16 +1370,10 @@
        "pos": "pron."
       },
       {
-       "h": "笑着",
-       "py": "xiàozhe",
-       "gl": "smiling; with a smile",
-       "pos": "v."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
+       "h": "笑着说",
+       "py": "xiàozheshuō",
+       "gl": "say with a smile",
+       "pos": "phrase"
       },
       {
        "h": "，"
@@ -728,12 +1410,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "gives her even more peace of mind than her kids calling every day.",
-     "words": [
+      },
       {
        "h": "比",
        "py": "bǐ",
@@ -779,11 +1456,362 @@
       {
        "h": "安心",
        "py": "ānxīn",
-       "gl": "with peace of mind; without worries",
-       "pos": "adj."
+       "gl": "feel at ease; be reassured",
+       "pos": "v."
       },
       {
        "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But that evening, when I went downstairs to bring her dumplings, she was sitting alone on the balcony, looking at the empty birdcage.",
+   "phrases": [
+    {
+     "en": "But that evening, when I went downstairs to bring her dumplings, she was sitting alone on the balcony, looking at the empty birdcage.",
+     "words": [
+      {
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "下楼",
+       "py": "xiàlóu",
+       "gl": "go downstairs",
+       "pos": "v."
+      },
+      {
+       "h": "送",
+       "py": "sòng",
+       "gl": "to bring over",
+       "pos": "v."
+      },
+      {
+       "h": "饺子",
+       "py": "jiǎozi",
+       "gl": "dumplings; jiaozi",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看见",
+       "py": "kànjiàn",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "pron."
+      },
+      {
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
+       "pos": "v."
+      },
+      {
+       "h": "阳台",
+       "py": "yángtái",
+       "gl": "balcony",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "空",
+       "py": "kōng",
+       "gl": "free (time) (有空 have free time); empty",
+       "pos": "adj."
+      },
+      {
+       "h": "鸟笼",
+       "py": "niǎolóng",
+       "gl": "birdcage",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She asked me, \"What do you think — now that there's the wristband, will they stop calling?\"",
+   "phrases": [
+    {
+     "en": "She asked me, \"What do you think — now that there's the wristband, will they stop calling?\"",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有了",
+       "py": "yǒule",
+       "gl": "have; there is (now); come to have",
+       "pos": "v."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "手环",
+       "py": "shǒuhuán",
+       "gl": "bracelet; wristband (fitness band)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "会不会",
+       "py": "huìbúhuì",
+       "gl": "whether or not; could it (会不会 will it or not)",
+       "pos": "v."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "打电话",
+       "py": "dǎdiànhuà",
+       "gl": "make a phone call; call",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "I didn't know how to answer, so I just said, \"Granny, then I'll come down to see you every day.\"",
+   "phrases": [
+    {
+     "en": "I didn't know how to answer, so I just said, \"Granny, then I'll come down to see you every day.\"",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "不知道",
+       "py": "bùzhīdào",
+       "gl": "not know; no one knows",
+       "pos": "v."
+      },
+      {
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
+       "pos": "pron."
+      },
+      {
+       "h": "回答",
+       "py": "huídá",
+       "gl": "answer; reply",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只好",
+       "py": "zhǐhǎo",
+       "gl": "have no choice but to",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "奶奶",
+       "py": "nǎinai",
+       "gl": "grandma (father's mother)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "then; in that case",
+       "pos": "conj."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "天天",
+       "py": "tiāntiān",
+       "gl": "every day",
+       "pos": "adv."
+      },
+      {
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
+       "pos": "particle"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }

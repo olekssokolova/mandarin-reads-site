@@ -1,41 +1,59 @@
 {
  "id": "slowliving",
  "level": 4,
- "title_zh": "慢生活",
- "title_en": "Slow Living",
+ "title_zh": "走着走着",
+ "title_en": "Walking and Walking",
  "free": false,
  "audio_url": null,
- "note_en": "Repeating a verb with 着 (V着V着) means \"as I kept doing V\" and leads into something that happens along the way: 走着走着，我发现… \"as I walked along, I noticed...\" English uses \"as I walked\" or \"while walking,\" but Chinese doubles the verb to stress the ongoing action.",
+ "note_en": "A verb repeated with 着 — 走着走着, 看着看着 — conveys an ongoing action against which something new quietly happens: 走着走着，她发现… — \"as she walked on and on, she noticed…\" English might say \"walking along,\" \"watching and watching.\"",
  "sentences": [
   {
-   "en": "I used to pack my schedule full, thinking the busier I was, the more my life was worth.",
+   "en": "For three years the designer He Jing scheduled her days in fifteen-minute blocks, believing that the busier she was, the more she was worth.",
    "phrases": [
     {
-     "en": "I used to pack my schedule full,",
+     "en": "For three years the designer He Jing scheduled her days in fifteen-minute blocks, believing that the busier she was, the more she was worth.",
      "words": [
       {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
-       "pos": "postposition"
+       "h": "设计师",
+       "py": "shèjìshī",
+       "gl": "designer",
+       "pos": "n."
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
+       "h": "何静",
+       "py": "Hé Jìng",
+       "gl": "He Jing",
+       "pos": "proper noun"
       },
       {
-       "h": "总是",
-       "py": "zǒngshì",
-       "gl": "always",
-       "pos": "adv."
+       "h": "三年",
+       "py": "sānnián",
+       "gl": "three years",
+       "pos": "num."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
       },
       {
        "h": "把",
        "py": "bǎ",
        "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
        "pos": "prep."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "日程",
@@ -46,7 +64,7 @@
       {
        "h": "排",
        "py": "pái",
-       "gl": "line up; arrange in a row (排队 wait in line)",
+       "gl": "to schedule",
        "pos": "v."
       },
       {
@@ -56,19 +74,53 @@
        "pos": "particle"
       },
       {
-       "h": "满满的",
-       "py": "mǎnmǎnde",
+       "h": "满满",
+       "py": "mǎnmǎn",
        "gl": "full; packed",
        "pos": "adj."
       },
       {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "thinking the busier I was, the more my life was worth.",
-     "words": [
+      },
+      {
+       "h": "十五",
+       "py": "shíwǔ",
+       "gl": "fifteen",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "格",
+       "py": "gé",
+       "gl": "compartment; pocket",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
       {
        "h": "觉得",
        "py": "juéde",
@@ -78,7 +130,7 @@
       {
        "h": "越",
        "py": "yuè",
-       "gl": "the more…the more (越…越…)",
+       "gl": "the more … (越…越… the more … the more …)",
        "pos": "adv."
       },
       {
@@ -90,20 +142,14 @@
       {
        "h": "越",
        "py": "yuè",
-       "gl": "the more…the more (越…越…)",
+       "gl": "the more … (越…越… the more … the more …)",
        "pos": "adv."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "价值",
-       "py": "jiàzhí",
-       "gl": "value; worth",
-       "pos": "n."
+       "h": "有价值",
+       "py": "yǒujiàzhí",
+       "gl": "valuable",
+       "pos": "adj."
       },
       {
        "h": "。"
@@ -113,55 +159,59 @@
    ]
   },
   {
-   "en": "Then I had some health problems, and my doctor told me to slow down.",
+   "en": "In April she got dizzy right in the middle of a meeting, and the doctor told her to slow down.",
    "phrases": [
     {
-     "en": "Then I had some health problems,",
+     "en": "In April she got dizzy right in the middle of a meeting, and the doctor told her to slow down.",
      "words": [
       {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "adv."
-      },
-      {
-       "h": "身体",
-       "py": "shēntǐ",
-       "gl": "body; health",
-       "pos": "n."
-      },
-      {
-       "h": "出",
-       "py": "chū",
-       "gl": "(after verb) out; come out; go out",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "o'clock; point; dot",
-       "pos": "measure word"
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem",
+       "h": "四月",
+       "py": "sìyuè",
+       "gl": "April",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and my doctor told me to slow down.",
-     "words": [
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "会议",
+       "py": "huìyì",
+       "gl": "meeting; conference",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "头晕",
+       "py": "tóuyūn",
+       "gl": "dizzy; feel dizzy",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "医生",
        "py": "yīshēng",
@@ -169,15 +219,15 @@
        "pos": "n."
       },
       {
-       "h": "建议",
-       "py": "jiànyì",
-       "gl": "suggest; advise; suggestion",
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
@@ -200,67 +250,19 @@
    ]
   },
   {
-   "en": "I started trying to set aside some time every day to do nothing at all, just zone out or take a walk.",
+   "en": "\"Doing nothing is a treatment too,\" the doctor said. She thought he was joking.",
    "phrases": [
     {
-     "en": "I started trying to set aside some time every day to do nothing at all, just zone out or take a walk.",
+     "en": "\"Doing nothing is a treatment too,\" the doctor said. She thought he was joking.",
      "words": [
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
-       "pos": "v."
-      },
-      {
-       "h": "试着",
-       "py": "shìzhe",
-       "gl": "try (to do)",
-       "pos": "v."
-      },
-      {
-       "h": "每天",
-       "py": "měitiān",
-       "gl": "every day",
-       "pos": "n."
-      },
-      {
-       "h": "留",
-       "py": "liú",
-       "gl": "stay; remain",
-       "pos": "v."
-      },
-      {
-       "h": "出",
-       "py": "chū",
-       "gl": "(after verb) out; come out; go out",
-       "pos": "v."
-      },
-      {
-       "h": "一些",
-       "py": "yìxie",
-       "gl": "some; a few",
-       "pos": "num."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "，"
+       "h": "“"
       },
       {
        "h": "什么",
        "py": "shénme",
        "gl": "what",
-       "pos": "question word"
+       "pos": "pron."
       },
       {
        "h": "都",
@@ -270,7 +272,7 @@
       },
       {
        "h": "不",
-       "py": "bú",
+       "py": "bù",
        "gl": "not; no",
        "pos": "adv."
       },
@@ -284,24 +286,66 @@
        "h": "，"
       },
       {
-       "h": "只是",
-       "py": "zhǐshì",
-       "gl": "just; only; merely",
-       "pos": "adv."
+       "h": "也是",
+       "py": "yěshì",
+       "gl": "also; too",
+       "pos": "conj."
       },
       {
-       "h": "发发呆",
-       "py": "fāfādāi",
-       "gl": "zone out a bit; daydream for a while",
+       "h": "治病",
+       "py": "zhìbìng",
+       "gl": "treat illness; cure disease",
        "pos": "v."
       },
       {
-       "h": "、"
+       "h": "，"
       },
       {
-       "h": "散散步",
-       "py": "sànsànbù",
-       "gl": "take a stroll",
+       "h": "”"
+      },
+      {
+       "h": "医生",
+       "py": "yīshēng",
+       "gl": "doctor",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "以为",
+       "py": "yǐwéi",
+       "gl": "think (mistakenly); assume",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "开玩笑",
+       "py": "kāiwánxiào",
+       "gl": "joke; make fun of",
        "pos": "v."
       },
       {
@@ -312,35 +356,254 @@
    ]
   },
   {
-   "en": "As I walked along, I noticed scenery around me that I'd never paid attention to before.",
+   "en": "The first Sunday, she left her phone at home and went for an aimless walk — these days the trendy word for it is \"citywalk.\"",
    "phrases": [
     {
-     "en": "As I walked along,",
+     "en": "The first Sunday, she left her phone at home and went for an aimless walk — these days the trendy word for it is \"citywalk.\"",
      "words": [
       {
-       "h": "走着",
-       "py": "zǒuzhe",
-       "gl": "walking (走着走着 while walking along)",
-       "pos": "v."
+       "h": "第一个",
+       "py": "dìyígè",
+       "gl": "the first",
+       "pos": "num."
       },
       {
-       "h": "走着",
-       "py": "zǒuzhe",
-       "gl": "walking (走着走着 while walking along)",
-       "pos": "v."
+       "h": "星期天",
+       "py": "xīngqītiān",
+       "gl": "Sunday",
+       "pos": "n."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "留在",
+       "py": "liúzài",
+       "gl": "stay in; remain in",
+       "pos": "v."
+      },
+      {
+       "h": "家里",
+       "py": "jiālǐ",
+       "gl": "at home; in the family",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "出去",
+       "py": "chūqu",
+       "gl": "out (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "随便",
+       "py": "suíbiàn",
+       "gl": "casually; carelessly; at random",
+       "pos": "adv."
+      },
+      {
+       "h": "走走",
+       "py": "zǒuzǒu",
+       "gl": "take a walk; stroll around",
+       "pos": "v."
+      },
+      {
+       "h": "—"
+      },
+      {
+       "h": "—"
+      },
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "n."
+      },
+      {
+       "h": "大家",
+       "py": "dàjiā",
+       "gl": "everyone; everybody",
+       "pos": "pron."
+      },
+      {
+       "h": "管",
+       "py": "guǎn",
+       "gl": "call (管…叫 call something ...)",
+       "pos": "v."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "citywalk"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "For the first half hour, her hand kept reaching for her empty pocket on its own.",
+   "phrases": [
     {
-     "en": "I noticed the scenery around me",
+     "en": "For the first half hour, her hand kept reaching for her empty pocket on its own.",
      "words": [
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
+       "h": "头",
+       "py": "tóu",
+       "gl": "head; end; tip; first (头两周 the first two weeks); measure word for livestock",
+       "pos": "adj."
+      },
+      {
+       "h": "半个小时",
+       "py": "bàngèxiǎoshí",
+       "gl": "half an hour",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "总是",
+       "py": "zǒngshì",
+       "gl": "always",
+       "pos": "adv."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "伸",
+       "py": "shēn",
+       "gl": "stretch; extend; reach out",
+       "pos": "v."
+      },
+      {
+       "h": "向",
+       "py": "xiàng",
+       "gl": "to; toward; from (向她借钱 'borrow money from her')",
+       "pos": "prep."
+      },
+      {
+       "h": "空空",
+       "py": "kōngkōng",
+       "gl": "empty",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "口袋",
+       "py": "kǒudài",
+       "gl": "pocket; bag; pouch",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Walking along, she suddenly noticed an alley she had driven past on her way to work for five years.",
+   "phrases": [
+    {
+     "en": "Walking along, she suddenly noticed an alley she had driven past on her way to work for five years.",
+     "words": [
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
@@ -350,57 +613,82 @@
        "pos": "v."
       },
       {
-       "h": "周围",
-       "py": "zhōuwéi",
-       "gl": "surroundings; around",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "风景",
-       "py": "fēngjǐng",
-       "gl": "scenery; view",
+       "h": "一条",
+       "py": "yìtiáo",
+       "gl": "one (measure word for long things, messages, news, rules)",
+       "pos": "num."
+      },
+      {
+       "h": "胡同",
+       "py": "hútòng",
+       "gl": "hutong (alley)",
        "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "that I'd never paid attention to before.",
-     "words": [
-      {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
-       "pos": "postposition"
       },
       {
-       "h": "从来",
-       "py": "cónglái",
-       "gl": "never (with negation); always",
-       "pos": "adv."
+       "h": "，"
       },
       {
-       "h": "没",
-       "py": "méi",
-       "gl": "not (have); negates 有 and past actions",
-       "pos": "adv."
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
-       "h": "注意",
-       "py": "zhùyì",
-       "gl": "pay attention to; be careful about",
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "上班",
+       "py": "shàngbān",
+       "gl": "go to work; work",
        "pos": "v."
       },
       {
-       "h": "过",
-       "py": "guò",
-       "gl": "particle: past experience; spend (time); celebrate; pass",
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "经过",
+       "py": "jīngguò",
+       "gl": "pass by; go past",
+       "pos": "v."
+      },
+      {
+       "h": "这里",
+       "py": "zhèlǐ",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "经过",
+       "py": "jīngguò",
+       "gl": "pass by; go past",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
+      },
+      {
+       "h": "五年",
+       "py": "wǔnián",
+       "gl": "five years",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -410,84 +698,421 @@
    ]
   },
   {
-   "en": "Since slowing down, I've actually felt much more relaxed than before.",
+   "en": "In the alley was a tiny workshop where a gray-haired man was bent over a magnifier, repairing watches.",
    "phrases": [
     {
-     "en": "Since slowing down,",
+     "en": "In the alley was a tiny workshop where a gray-haired man was bent over a magnifier, repairing watches.",
      "words": [
       {
-       "h": "慢",
-       "py": "màn",
-       "gl": "slow; slowly",
+       "h": "胡同",
+       "py": "hútòng",
+       "gl": "hutong (alley)",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一家",
+       "py": "yìjiā",
+       "gl": "a; one (shop, family, company)",
+       "pos": "measure word"
+      },
+      {
+       "h": "很小",
+       "py": "hěnxiǎo",
+       "gl": "very small",
        "pos": "adj."
       },
       {
-       "h": "下来",
-       "py": "xiàlái",
-       "gl": "verb complement: settling down (坐下来 sit down)",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
+      },
+      {
+       "h": "店",
+       "py": "diàn",
+       "gl": "shop; store; place (business)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "头发",
+       "py": "tóufà",
+       "gl": "hair",
+       "pos": "n."
+      },
+      {
+       "h": "花白",
+       "py": "huābái",
+       "gl": "graying; grizzled (of hair)",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "放大镜",
+       "py": "fàngdàjìng",
+       "gl": "magnifying glass",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "修表",
+       "py": "xiū biǎo",
+       "gl": "to repair watches",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She sat on a stool by the door and watched him place the gears one by one with his tweezers.",
+   "phrases": [
+    {
+     "en": "She sat on a stool by the door and watched him place the gears one by one with his tweezers.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "坐在",
+       "py": "zuòzài",
+       "gl": "sit (at/on/in)",
+       "pos": "v."
+      },
+      {
+       "h": "门口",
+       "py": "ménkǒu",
+       "gl": "entrance; doorway",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "凳子",
+       "py": "dèngzi",
+       "gl": "stool; bench",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "夹子",
+       "py": "jiāzi",
+       "gl": "tongs, clip",
+       "pos": "n."
+      },
+      {
+       "h": "一个一个",
+       "py": "yígèyígè",
+       "gl": "one by one",
+       "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "齿轮",
+       "py": "chǐlún",
+       "gl": "gear",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "After half an hour he asked, \"Do you need something repaired?\" \"No,\" she said. \"I'm just watching.\"",
+   "phrases": [
+    {
+     "en": "After half an hour he asked, \"Do you need something repaired?\" \"No,\" she said. \"I'm just watching.\"",
+     "words": [
+      {
+       "h": "半个小时",
+       "py": "bàngèxiǎoshí",
+       "gl": "half an hour",
+       "pos": "n."
       },
       {
        "h": "以后",
        "py": "yǐhòu",
-       "gl": "after; later; in the future",
+       "gl": "after (since)",
        "pos": "postposition"
       },
       {
        "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "修",
+       "py": "xiū",
+       "gl": "repair; fix; build",
+       "pos": "v."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "修",
+       "py": "xiū",
+       "gl": "repair; fix; build",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "看看",
+       "py": "kànkàn",
+       "gl": "have a look; take a look",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "He nodded, as if it were the most ordinary thing in the world.",
+   "phrases": [
     {
-     "en": "I've actually felt much more relaxed than before.",
+     "en": "He nodded, as if it were the most ordinary thing in the world.",
      "words": [
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
        "pos": "pron."
+      },
+      {
+       "h": "点点头",
+       "py": "diǎndiǎntóu",
+       "gl": "nod",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "好像",
+       "py": "hǎoxiàng",
+       "gl": "seem; be like; as if",
+       "pos": "adv."
+      },
+      {
+       "h": "这是",
+       "py": "zhèshì",
+       "gl": "this is",
+       "pos": "phrase"
+      },
+      {
+       "h": "世界上",
+       "py": "shìjièshàng",
+       "gl": "in the world",
+       "pos": "n."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "普通",
+       "py": "pǔtōng",
+       "gl": "ordinary; common",
+       "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "心情",
-       "py": "xīnqíng",
-       "gl": "mood",
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
        "pos": "n."
-      },
-      {
-       "h": "反而",
-       "py": "fǎn'ér",
-       "gl": "on the contrary; instead",
-       "pos": "adv."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
-       "pos": "postposition"
-      },
-      {
-       "h": "轻松",
-       "py": "qīngsōng",
-       "gl": "relaxed; easy",
-       "pos": "adj."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
       },
       {
        "h": "。"
@@ -497,96 +1122,240 @@
    ]
   },
   {
-   "en": "Later I also started trying a digital detox: one day a week I don't look at my phone at all, and just walk, read or zone out.",
+   "en": "She watched and watched, and before she knew it, two hours had gone by.",
    "phrases": [
     {
-     "en": "Later I also started trying a digital detox:",
+     "en": "She watched and watched, and before she knew it, two hours had gone by.",
      "words": [
       {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "adv."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
+       "h": "看着看着",
+       "py": "kànzhekànzhe",
+       "gl": "while watching",
        "pos": "v."
-      },
-      {
-       "h": "尝试",
-       "py": "chángshì",
-       "gl": "try; attempt",
-       "pos": "v."
-      },
-      {
-       "h": "数字",
-       "py": "shùzì",
-       "gl": "digital",
-       "pos": "adj."
-      },
-      {
-       "h": "排毒",
-       "py": "páidú",
-       "gl": "detox (digital detox)",
-       "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "one day a week I don't look at my phone at all,",
-     "words": [
-      {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
-       "pos": "pron."
       },
       {
-       "h": "周",
-       "py": "zhōu",
-       "gl": "week",
+       "h": "两个",
+       "py": "liǎnggè",
+       "gl": "two (with measure word 个)",
+       "pos": "num."
+      },
+      {
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
        "pos": "n."
       },
       {
-       "h": "留",
-       "py": "liú",
-       "gl": "leave; set aside",
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "过去",
+       "py": "guòqù",
+       "gl": "past; go over (跑过去 \"run over\"); the past; pass (of time)",
        "pos": "v."
       },
       {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"You can't rush a watch,\" he said, closing the case lid. \"If you hurry, it starts to hurry too.\"",
+   "phrases": [
+    {
+     "en": "\"You can't rush a watch,\" he said, closing the case lid. \"If you hurry, it starts to hurry too.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "表",
+       "py": "biǎo",
+       "gl": "watch; form; table",
+       "pos": "n."
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
+      },
+      {
+       "h": "急",
+       "py": "jí",
+       "gl": "anxious; in a hurry",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "合上",
+       "py": "héshàng",
+       "gl": "close; shut",
+       "pos": "v."
+      },
+      {
+       "h": "表盖",
+       "py": "biǎogài",
+       "gl": "watch case lid",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
        "h": "一",
-       "py": "yī",
+       "py": "yì",
        "gl": "one",
        "pos": "num."
       },
       {
-       "h": "天",
-       "py": "tiān",
-       "gl": "day",
+       "h": "急",
+       "py": "jí",
+       "gl": "anxious; in a hurry",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now once a week she does a \"digital detox\" — a whole day without her phone.",
+   "phrases": [
+    {
+     "en": "Now once a week she does a \"digital detox\" — a whole day without her phone.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "每个",
+       "py": "měigè",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
        "pos": "n."
       },
       {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
-       "pos": "adv."
+       "h": "都有",
+       "py": "dōuyǒu",
+       "gl": "all have",
+       "pos": "v."
+      },
+      {
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
+       "pos": "n."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "数字排毒",
+       "py": "shùzì páidú",
+       "gl": "digital detox",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "一整天",
+       "py": "yīzhěngtiān",
+       "gl": "a whole day",
+       "pos": "n."
       },
       {
        "h": "不",
@@ -607,45 +1376,80 @@
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "She doesn't have less work, but she no longer gets dizzy.",
+   "phrases": [
     {
-     "en": "and just walk, read or zone out.",
+     "en": "She doesn't have less work, but she no longer gets dizzy.",
      "words": [
       {
-       "h": "只是",
-       "py": "zhǐshì",
-       "gl": "just; merely; only",
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "并没有",
+       "py": "bìngméiyǒu",
+       "gl": "not at all; actually didn't",
        "pos": "adv."
       },
       {
-       "h": "散步",
-       "py": "sànbù",
-       "gl": "take a walk; go for a walk",
+       "h": "变少",
+       "py": "biànshǎo",
+       "gl": "become fewer; decrease",
        "pos": "v."
       },
       {
-       "h": "、"
+       "h": "，"
       },
       {
-       "h": "看书",
-       "py": "kànshū",
-       "gl": "read (books)",
-       "pos": "v."
-      },
-      {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
        "pos": "conj."
       },
       {
-       "h": "发呆",
-       "py": "fādāi",
-       "gl": "zone out; stare blankly; daydream",
-       "pos": "v."
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "头",
+       "py": "tóu",
+       "gl": "head",
+       "pos": "n."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "晕",
+       "py": "yūn",
+       "gl": "dizzy",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -655,22 +1459,16 @@
    ]
   },
   {
-   "en": "The recent citywalk trend has also made me fall in love with walking again: I'm not in a hurry, I just wander around and look at the little shops and old houses nearby.",
+   "en": "A strange new slot has appeared in her schedule: \"Sunday, 3:00 p.m. — watch the watchmaker.\"",
    "phrases": [
     {
-     "en": "The recent citywalk trend has also made me fall in love with walking again:",
+     "en": "A strange new slot has appeared in her schedule: \"Sunday, 3:00 p.m. — watch the watchmaker.\"",
      "words": [
       {
-       "h": "最近",
-       "py": "zuìjìn",
-       "gl": "recently; lately",
-       "pos": "adv."
-      },
-      {
-       "h": "流行",
-       "py": "liúxíng",
-       "gl": "popular; fashionable",
-       "pos": "adj."
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
        "h": "的",
@@ -679,109 +1477,166 @@
        "pos": "particle"
       },
       {
-       "h": "citywalk"
+       "h": "日程表",
+       "py": "rìchéngbiǎo",
+       "gl": "schedule; timetable",
+       "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "make (someone do); cause",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "重新",
-       "py": "chóngxīn",
-       "gl": "again; once more",
-       "pos": "adv."
-      },
-      {
-       "h": "爱上",
-       "py": "àishàng",
-       "gl": "fall in love with; come to love",
-       "pos": "v."
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "散步",
-       "py": "sànbù",
-       "gl": "take a walk; go for a walk",
-       "pos": "v."
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "奇怪",
+       "py": "qíguài",
+       "gl": "strange; odd",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "格子",
+       "py": "gézi",
+       "gl": "grid square; compartment",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "星期天",
+       "py": "xīngqītiān",
+       "gl": "Sunday",
+       "pos": "n."
+      },
+      {
+       "h": "下午",
+       "py": "xiàwu",
+       "gl": "afternoon",
+       "pos": "n."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
       },
       {
        "h": "，"
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "修表",
+       "py": "xiū biǎo",
+       "gl": "to repair watches",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "It's the only slot He Jing has never moved.",
+   "phrases": [
     {
-     "en": "I'm not in a hurry, I just wander around,",
+     "en": "It's the only slot He Jing has never moved.",
      "words": [
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
+       "h": "这是",
+       "py": "zhèshì",
+       "gl": "this is",
+       "pos": "phrase"
+      },
+      {
+       "h": "何静",
+       "py": "Hé Jìng",
+       "gl": "He Jing",
+       "pos": "proper noun"
+      },
+      {
+       "h": "唯一",
+       "py": "wéiyī",
+       "gl": "only; sole",
+       "pos": "adj."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "从来没有",
+       "py": "cóngláiméiyǒu",
+       "gl": "never (have)",
        "pos": "adv."
       },
       {
-       "h": "赶路",
-       "py": "gǎnlù",
-       "gl": "hurry on one's way; rush",
+       "h": "改",
+       "py": "gǎi",
+       "gl": "move (to another date)",
        "pos": "v."
       },
       {
-       "h": "，"
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
       },
       {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "随便",
-       "py": "suíbiàn",
-       "gl": "aimlessly; wherever one likes",
-       "pos": "adv."
-      },
-      {
-       "h": "走走",
-       "py": "zǒuzǒu",
-       "gl": "take a walk; stroll around",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and look at the little shops and old houses nearby.",
-     "words": [
-      {
-       "h": "看看",
-       "py": "kànkàn",
-       "gl": "have a look; take a look",
-       "pos": "v."
-      },
-      {
-       "h": "身边",
-       "py": "shēnbiān",
-       "gl": "by one's side; nearby; around one",
+       "h": "时间",
+       "py": "shíjiān",
+       "gl": "time",
        "pos": "n."
       },
       {
@@ -791,33 +1646,9 @@
        "pos": "particle"
       },
       {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "店",
-       "py": "diàn",
-       "gl": "shop; store",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "老",
-       "py": "lǎo",
-       "gl": "old; elderly",
-       "pos": "adj."
-      },
-      {
-       "h": "房子",
-       "py": "fángzi",
-       "gl": "house; apartment",
+       "h": "格子",
+       "py": "gézi",
+       "gl": "grid square; compartment",
        "pos": "n."
       },
       {
