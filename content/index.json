@@ -173,6 +173,24 @@
    "file": "myday.json"
   },
   {
+   "id": "dragonboat1",
+   "level": 1,
+   "title_zh": "端午节",
+   "title_en": "The Dragon Boat Festival",
+   "free": false,
+   "chars": 51,
+   "file": "dragonboat1.json"
+  },
+  {
+   "id": "videocall1",
+   "level": 1,
+   "title_zh": "视频电话",
+   "title_en": "A Video Call",
+   "free": false,
+   "chars": 52,
+   "file": "videocall1.json"
+  },
+  {
    "id": "subway1",
    "level": 1,
    "title_zh": "坐地铁",
@@ -191,15 +209,6 @@
    "file": "newterm1.json"
   },
   {
-   "id": "videocall1",
-   "level": 1,
-   "title_zh": "视频电话",
-   "title_en": "A Video Call",
-   "free": false,
-   "chars": 53,
-   "file": "videocall1.json"
-  },
-  {
    "id": "breakfast",
    "level": 1,
    "title_zh": "早饭",
@@ -207,15 +216,6 @@
    "free": false,
    "chars": 53,
    "file": "breakfast.json"
-  },
-  {
-   "id": "dragonboat1",
-   "level": 1,
-   "title_zh": "端午节",
-   "title_en": "The Dragon Boat Festival",
-   "free": false,
-   "chars": 53,
-   "file": "dragonboat1.json"
   },
   {
    "id": "weather",
@@ -326,15 +326,6 @@
    "file": "weekendplan1.json"
   },
   {
-   "id": "newfriend1",
-   "level": 1,
-   "title_zh": "外国朋友",
-   "title_en": "A Friend from Abroad",
-   "free": false,
-   "chars": 57,
-   "file": "newfriend1.json"
-  },
-  {
    "id": "fruit",
    "level": 1,
    "title_zh": "买水果",
@@ -387,6 +378,15 @@
    "free": false,
    "chars": 57,
    "file": "sportsday1.json"
+  },
+  {
+   "id": "newfriend1",
+   "level": 1,
+   "title_zh": "外国朋友",
+   "title_en": "A Friend from Abroad",
+   "free": false,
+   "chars": 58,
+   "file": "newfriend1.json"
   },
   {
    "id": "phone",
@@ -443,6 +443,24 @@
    "file": "onlineshopping1.json"
   },
   {
+   "id": "trainride1",
+   "level": 1,
+   "title_zh": "坐火车",
+   "title_en": "Taking the Train",
+   "free": false,
+   "chars": 59,
+   "file": "trainride1.json"
+  },
+  {
+   "id": "airport1",
+   "level": 1,
+   "title_zh": "去机场",
+   "title_en": "Going to the Airport",
+   "free": false,
+   "chars": 60,
+   "file": "airport1.json"
+  },
+  {
    "id": "favoritesubject1",
    "level": 1,
    "title_zh": "最喜欢的课",
@@ -497,15 +515,6 @@
    "file": "rainyplayground1.json"
   },
   {
-   "id": "trainride1",
-   "level": 1,
-   "title_zh": "坐火车",
-   "title_en": "Taking the Train",
-   "free": false,
-   "chars": 61,
-   "file": "trainride1.json"
-  },
-  {
    "id": "springfestival1",
    "level": 1,
    "title_zh": "春节",
@@ -531,15 +540,6 @@
    "free": false,
    "chars": 62,
    "file": "exercise1.json"
-  },
-  {
-   "id": "airport1",
-   "level": 1,
-   "title_zh": "去机场",
-   "title_en": "Going to the Airport",
-   "free": false,
-   "chars": 62,
-   "file": "airport1.json"
   },
   {
    "id": "learnzh",
@@ -587,6 +587,15 @@
    "file": "learnenglish1.json"
   },
   {
+   "id": "classtrip1",
+   "level": 1,
+   "title_zh": "班级郊游",
+   "title_en": "Class Outing",
+   "free": false,
+   "chars": 64,
+   "file": "classtrip1.json"
+  },
+  {
    "id": "drawing",
    "level": 1,
    "title_zh": "画画",
@@ -621,15 +630,6 @@
    "free": false,
    "chars": 65,
    "file": "haircut.json"
-  },
-  {
-   "id": "favoriteanimal1",
-   "level": 1,
-   "title_zh": "我最喜欢的动物",
-   "title_en": "My Favorite Animal",
-   "free": false,
-   "chars": 65,
-   "file": "favoriteanimal1.json"
   },
   {
    "id": "dog",
@@ -677,15 +677,6 @@
    "file": "familyphoto1.json"
   },
   {
-   "id": "classtrip1",
-   "level": 1,
-   "title_zh": "班级郊游",
-   "title_en": "Class Outing",
-   "free": false,
-   "chars": 66,
-   "file": "classtrip1.json"
-  },
-  {
    "id": "dinner",
    "level": 1,
    "title_zh": "晚饭",
@@ -702,6 +693,15 @@
    "free": false,
    "chars": 66,
    "file": "classroom.json"
+  },
+  {
+   "id": "favoriteanimal1",
+   "level": 1,
+   "title_zh": "我最喜欢的动物",
+   "title_en": "My Favorite Animal",
+   "free": false,
+   "chars": 66,
+   "file": "favoriteanimal1.json"
   },
   {
    "id": "basketball1",
@@ -925,7 +925,7 @@
    "title_zh": "电动车充电",
    "title_en": "Charging the Electric Car",
    "free": true,
-   "chars": 55,
+   "chars": 57,
    "file": "evcharge2.json"
   },
   {
@@ -983,6 +983,15 @@
    "file": "commute2.json"
   },
   {
+   "id": "hsktest2",
+   "level": 2,
+   "title_zh": "考HSK",
+   "title_en": "Taking the HSK",
+   "free": false,
+   "chars": 59,
+   "file": "hsktest2.json"
+  },
+  {
    "id": "massage2",
    "level": 2,
    "title_zh": "按摩",
@@ -990,15 +999,6 @@
    "free": false,
    "chars": 60,
    "file": "massage2.json"
-  },
-  {
-   "id": "hsktest2",
-   "level": 2,
-   "title_zh": "考HSK",
-   "title_en": "Taking the HSK",
-   "free": false,
-   "chars": 61,
-   "file": "hsktest2.json"
   },
   {
    "id": "herbaltea2",
@@ -1019,6 +1019,15 @@
    "file": "healthapp2.json"
   },
   {
+   "id": "falsefriend2",
+   "level": 2,
+   "title_zh": "翻译的陷阱",
+   "title_en": "Translation Traps",
+   "free": false,
+   "chars": 62,
+   "file": "falsefriend2.json"
+  },
+  {
    "id": "chatbot2",
    "level": 2,
    "title_zh": "聊天机器人",
@@ -1035,15 +1044,6 @@
    "free": false,
    "chars": 63,
    "file": "secondhandmarket2.json"
-  },
-  {
-   "id": "falsefriend2",
-   "level": 2,
-   "title_zh": "翻译的陷阱",
-   "title_en": "Translation Traps",
-   "free": false,
-   "chars": 63,
-   "file": "falsefriend2.json"
   },
   {
    "id": "dorm2",
@@ -1082,6 +1082,15 @@
    "file": "trainticket2.json"
   },
   {
+   "id": "herbshop2",
+   "level": 2,
+   "title_zh": "中药店",
+   "title_en": "The Herbal Medicine Shop",
+   "free": false,
+   "chars": 67,
+   "file": "herbshop2.json"
+  },
+  {
    "id": "petgroomer2",
    "level": 2,
    "title_zh": "宠物美容师",
@@ -1107,15 +1116,6 @@
    "free": false,
    "chars": 67,
    "file": "memorizetricks2.json"
-  },
-  {
-   "id": "herbshop2",
-   "level": 2,
-   "title_zh": "中药店",
-   "title_en": "The Herbal Medicine Shop",
-   "free": false,
-   "chars": 68,
-   "file": "herbshop2.json"
   },
   {
    "id": "applyuni2",
@@ -1154,15 +1154,6 @@
    "file": "influencer2.json"
   },
   {
-   "id": "similarchars2",
-   "level": 2,
-   "title_zh": "容易混的字",
-   "title_en": "Characters That Look Alike",
-   "free": false,
-   "chars": 70,
-   "file": "similarchars2.json"
-  },
-  {
    "id": "fitnessband2",
    "level": 2,
    "title_zh": "运动手环",
@@ -1179,6 +1170,15 @@
    "free": false,
    "chars": 70,
    "file": "rideapp2.json"
+  },
+  {
+   "id": "similarchars2",
+   "level": 2,
+   "title_zh": "容易混的字",
+   "title_en": "Characters That Look Alike",
+   "free": false,
+   "chars": 71,
+   "file": "similarchars2.json"
   },
   {
    "id": "parttimescam2",
@@ -1757,15 +1757,6 @@
    "file": "birthday.json"
   },
   {
-   "id": "roommate",
-   "level": 2,
-   "title_zh": "我的室友",
-   "title_en": "My Roommate",
-   "free": false,
-   "chars": 99,
-   "file": "roommate.json"
-  },
-  {
    "id": "weekend",
    "level": 2,
    "title_zh": "周末打算",
@@ -1809,6 +1800,15 @@
    "free": false,
    "chars": 104,
    "file": "sharedbike.json"
+  },
+  {
+   "id": "roommate",
+   "level": 2,
+   "title_zh": "我的室友",
+   "title_en": "My Roommate",
+   "free": false,
+   "chars": 106,
+   "file": "roommate.json"
   },
   {
    "id": "restaurant",
