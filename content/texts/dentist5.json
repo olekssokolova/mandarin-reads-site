@@ -1,604 +1,18 @@
 {
  "id": "dentist5",
  "level": 5,
- "title_zh": "看牙医",
- "title_en": "Going to the Dentist",
+ "title_zh": "一听到电钻声",
+ "title_en": "The Moment I Hear the Drill",
  "free": false,
  "audio_url": null,
- "note_en": "一……就…… links two actions so that the second follows immediately whenever the first happens: 一听到电钻的声音就浑身发抖 \"the moment I hear the sound of the drill, I start shaking all over.\" English needs a full clause with \"as soon as\" or \"the moment,\" while Chinese simply puts 一 before the first verb and 就 before the second, with no subject repeated.",
+ "note_en": "一 + verb 1 + 就 + verb 2 means \"as soon as…, then…\": 一听到电钻声，就浑身发抖 \"the moment I hear a dental drill, I shake all over.\" Here 一 isn't the number one but a marker of \"as soon as,\" and 就 introduces the immediate result. Another: 一喝冰的，牙就疼 \"whenever I drink something cold, my tooth hurts.\"",
  "sentences": [
   {
-   "en": "Lately one of my teeth has been aching on and off, especially when I eat something cold or sweet, so I finally made up my mind to see a dentist.",
+   "en": "I've been afraid of dentists since I was a kid; the moment I hear a dental drill, I shake all over.",
    "phrases": [
     {
-     "en": "Lately one of my teeth has been aching on and off,",
+     "en": "I've been afraid of dentists since I was a kid;",
      "words": [
-      {
-       "h": "最近",
-       "py": "zuìjìn",
-       "gl": "recently; lately",
-       "pos": "adv."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "牙齿",
-       "py": "yáchǐ",
-       "gl": "tooth",
-       "pos": "n."
-      },
-      {
-       "h": "一直",
-       "py": "yìzhí",
-       "gl": "all along; always; continuously",
-       "pos": "adv."
-      },
-      {
-       "h": "隐隐作痛",
-       "py": "yǐnyǐnzuòtòng",
-       "gl": "ache dully (idiom)",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "especially when I eat something cold or sweet,",
-     "words": [
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
-      },
-      {
-       "h": "冷",
-       "py": "lěng",
-       "gl": "cold",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "甜",
-       "py": "tián",
-       "gl": "sweet",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; stuff",
-       "pos": "n."
-      },
-      {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; during",
-       "pos": "function word"
-      },
-      {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly",
-       "pos": "adv."
-      },
-      {
-       "h": "明显",
-       "py": "míngxiǎn",
-       "gl": "obvious; clear; clearly",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so I finally made up my mind to see a dentist.",
-     "words": [
-      {
-       "h": "于是",
-       "py": "yúshì",
-       "gl": "so; thereupon; then",
-       "pos": "conj."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "终于",
-       "py": "zhōngyú",
-       "gl": "finally; at last",
-       "pos": "adv."
-      },
-      {
-       "h": "下决心",
-       "py": "xiàjuéxīn",
-       "gl": "make up one's mind; resolve",
-       "pos": "v."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
-       "pos": "v."
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "see (a doctor); have treated",
-       "pos": "v."
-      },
-      {
-       "h": "牙医",
-       "py": "yáyī",
-       "gl": "dentist",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After a careful examination, the dentist also took an X-ray and confirmed that one of my molars had a fairly deep cavity.",
-   "phrases": [
-    {
-     "en": "After a careful examination, the dentist also took an X-ray",
-     "words": [
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "仔细",
-       "py": "zǐxì",
-       "gl": "carefully",
-       "pos": "adv."
-      },
-      {
-       "h": "检查",
-       "py": "jiǎnchá",
-       "gl": "check; inspect",
-       "pos": "v."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "拍",
-       "py": "pāi",
-       "gl": "take (a photo); shoot (a video); pat; clap",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "张",
-       "py": "zhāng",
-       "gl": "measure word for flat objects (paper, photos, tables)",
-       "pos": "measure word"
-      },
-      {
-       "h": "X光片",
-       "py": "X guāngpiàn",
-       "gl": "X-ray (image)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and confirmed that one of my molars had a fairly deep cavity.",
-     "words": [
-      {
-       "h": "确认",
-       "py": "quèrèn",
-       "gl": "confirm",
-       "pos": "v."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "颗",
-       "py": "kē",
-       "gl": "measure word for small round things (teeth, grains)",
-       "pos": "measure word"
-      },
-      {
-       "h": "臼齿",
-       "py": "jiùchǐ",
-       "gl": "molar",
-       "pos": "n."
-      },
-      {
-       "h": "出现",
-       "py": "chūxiàn",
-       "gl": "appear; emerge",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "比较",
-       "py": "bǐjiào",
-       "gl": "relatively; fairly; compare",
-       "pos": "adv."
-      },
-      {
-       "h": "深",
-       "py": "shēn",
-       "gl": "deep; profound",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "蛀洞",
-       "py": "zhùdòng",
-       "gl": "cavity (in a tooth)",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "She explained that if I put it off any longer, the cavity could keep growing and even damage the nerve, and then the treatment would be more complicated and more expensive.",
-   "phrases": [
-    {
-     "en": "She explained that if I put it off any longer, the cavity could keep growing",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "解释",
-       "py": "jiěshì",
-       "gl": "explain",
-       "pos": "v."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; once more",
-       "pos": "adv."
-      },
-      {
-       "h": "拖",
-       "py": "tuō",
-       "gl": "drag; delay",
-       "pos": "v."
-      },
-      {
-       "h": "下去",
-       "py": "xiàqù",
-       "gl": "go on; continue (after a verb: keep doing)",
-       "pos": "function word"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "蛀洞",
-       "py": "zhùdòng",
-       "gl": "cavity (in a tooth)",
-       "pos": "n."
-      },
-      {
-       "h": "可能",
-       "py": "kěnéng",
-       "gl": "maybe; perhaps; possibly",
-       "pos": "adv."
-      },
-      {
-       "h": "继续",
-       "py": "jìxù",
-       "gl": "continue; go on",
-       "pos": "v."
-      },
-      {
-       "h": "扩大",
-       "py": "kuòdà",
-       "gl": "expand; enlarge",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and even damage the nerve,",
-     "words": [
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "conj."
-      },
-      {
-       "h": "伤到",
-       "py": "shāngdào",
-       "gl": "hurt; injure",
-       "pos": "v."
-      },
-      {
-       "h": "牙神经",
-       "py": "yáshénjīng",
-       "gl": "dental nerve",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and then the treatment would be more complicated and more expensive.",
-     "words": [
-      {
-       "h": "到时候",
-       "py": "dàoshíhou",
-       "gl": "when the time comes; by then",
-       "pos": "adv."
-      },
-      {
-       "h": "治疗",
-       "py": "zhìliáo",
-       "gl": "treat (medically); treatment",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
-       "pos": "adv."
-      },
-      {
-       "h": "麻烦",
-       "py": "máfan",
-       "gl": "trouble; hassle; troublesome; inconvenient",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "费用",
-       "py": "fèiyòng",
-       "gl": "cost; expenses",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
-       "pos": "adv."
-      },
-      {
-       "h": "高",
-       "py": "gāo",
-       "gl": "tall; high",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Hearing that, nervous as I was, I decided to get it treated right away.",
-   "phrases": [
-    {
-     "en": "Hearing that, nervous as I was,",
-     "words": [
-      {
-       "h": "听到",
-       "py": "tīngdào",
-       "gl": "hear",
-       "pos": "v."
-      },
-      {
-       "h": "这里",
-       "py": "zhèlǐ",
-       "gl": "here",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
-      },
-      {
-       "h": "紧张",
-       "py": "jǐnzhāng",
-       "gl": "nervous; tense",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I decided to get it treated right away.",
-     "words": [
-      {
-       "h": "还是",
-       "py": "háishi",
-       "gl": "still; nevertheless; after all",
-       "pos": "adv."
-      },
-      {
-       "h": "决定",
-       "py": "juédìng",
-       "gl": "decide; decision",
-       "pos": "v."
-      },
-      {
-       "h": "马上",
-       "py": "mǎshàng",
-       "gl": "immediately; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "接受",
-       "py": "jiēshòu",
-       "gl": "accept",
-       "pos": "v."
-      },
-      {
-       "h": "治疗",
-       "py": "zhìliáo",
-       "gl": "treat (medically); treatment",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "To be honest, I've been afraid of dentists since I was a kid; the moment I hear the sound of the drill, I start shaking all over.",
-   "phrases": [
-    {
-     "en": "To be honest, I've been afraid of dentists since I was a kid;",
-     "words": [
-      {
-       "h": "说实话",
-       "py": "shuōshíhuà",
-       "gl": "to tell the truth; honestly",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
       {
        "h": "我",
        "py": "wǒ",
@@ -626,7 +40,7 @@
       {
        "h": "看",
        "py": "kàn",
-       "gl": "see (a doctor); have treated",
+       "gl": "look; watch; read",
        "pos": "v."
       },
       {
@@ -641,13 +55,13 @@
      ]
     },
     {
-     "en": "the moment I hear the sound of the drill, I start shaking all over.",
+     "en": "the moment I hear a dental drill, I shake all over.",
      "words": [
       {
        "h": "一",
-       "py": "yī",
-       "gl": "as soon as (一…就… no sooner … than)",
-       "pos": "adv."
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
       },
       {
        "h": "听到",
@@ -658,20 +72,17 @@
       {
        "h": "电钻",
        "py": "diànzuàn",
-       "gl": "electric drill",
+       "gl": "dental drill",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "声",
+       "py": "shēng",
+       "gl": "measure word for sounds and utterances; sound",
+       "pos": "n."
       },
       {
-       "h": "声音",
-       "py": "shēngyīn",
-       "gl": "sound",
-       "pos": "n."
+       "h": "，"
       },
       {
        "h": "就",
@@ -680,10 +91,16 @@
        "pos": "adv."
       },
       {
-       "h": "浑身发抖",
-       "py": "húnshēnfādǒu",
-       "gl": "tremble all over",
-       "pos": "phrase"
+       "h": "浑身",
+       "py": "húnshēn",
+       "gl": "whole body; all over",
+       "pos": "n."
+      },
+      {
+       "h": "发抖",
+       "py": "fādǒu",
+       "gl": "tremble; shake",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -693,21 +110,93 @@
    ]
   },
   {
-   "en": "The dentist could see I was nervous and reassured me that she'd give me a local anesthetic first, so I'd hardly feel any pain, and told me to relax as much as I could.",
+   "en": "So last month, when a molar started to ache faintly, I put up with it for three whole weeks.",
    "phrases": [
     {
-     "en": "The dentist could see I was nervous and reassured me that she'd give me a local anesthetic first,",
+     "en": "So last month, when a molar started to ache faintly, I put up with it for three whole weeks.",
      "words": [
       {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
+       "h": "所以",
+       "py": "suǒyǐ",
+       "gl": "so; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "月",
+       "py": "yuè",
+       "gl": "month; moon",
        "pos": "n."
       },
       {
-       "h": "看出",
-       "py": "kànchū",
-       "gl": "see; tell; notice",
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "颗",
+       "py": "kē",
+       "gl": "measure word for small round things (teeth, grains)",
+       "pos": "measure word"
+      },
+      {
+       "h": "臼齿",
+       "py": "jiùchǐ",
+       "gl": "molar",
+       "pos": "n."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
+       "pos": "v."
+      },
+      {
+       "h": "隐隐",
+       "py": "yǐnyǐn",
+       "gl": "faintly",
+       "pos": "adv."
+      },
+      {
+       "h": "作",
+       "py": "zuò",
+       "gl": "(作痛) to ache",
+       "pos": "v."
+      },
+      {
+       "h": "痛",
+       "py": "tòng",
+       "gl": "painful; sore",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "忍",
+       "py": "rěn",
+       "gl": "endure; bear",
        "pos": "v."
       },
       {
@@ -715,6 +204,774 @@
        "py": "le",
        "gl": "particle: completed action / change of state",
        "pos": "particle"
+      },
+      {
+       "h": "整整",
+       "py": "zhěngzhěng",
+       "gl": "whole; full; a full ...",
+       "pos": "adv."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Whenever I drank something cold, the tooth hurt, so I chewed only on the left side, like an old man.",
+   "phrases": [
+    {
+     "en": "Whenever I drank something cold, the tooth hurt,",
+     "words": [
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
+       "pos": "v."
+      },
+      {
+       "h": "冰",
+       "py": "bīng",
+       "gl": "ice; iced; cold",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "牙",
+       "py": "yá",
+       "gl": "tooth",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "疼",
+       "py": "téng",
+       "gl": "hurt; ache; painful",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "so I chewed only on the left side, like an old man.",
+     "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "只好",
+       "py": "zhǐhǎo",
+       "gl": "have no choice but to",
+       "pos": "adv."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "左边",
+       "py": "zuǒbiān",
+       "gl": "left side",
+       "pos": "n."
+      },
+      {
+       "h": "嚼",
+       "py": "jiáo",
+       "gl": "chew",
+       "pos": "v."
+      },
+      {
+       "h": "东西",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "老",
+       "py": "lǎo",
+       "gl": "old; elderly",
+       "pos": "adj."
+      },
+      {
+       "h": "头",
+       "py": "tóu",
+       "gl": "head",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "My eight-year-old son, Xiaoyu, watched me eat and said, \"Dad, you eat like a hamster.\"",
+   "phrases": [
+    {
+     "en": "My eight-year-old son, Xiaoyu, watched me eat and said, \"Dad, you eat like a hamster.\"",
+     "words": [
+      {
+       "h": "八",
+       "py": "bā",
+       "gl": "eight",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "儿子",
+       "py": "érzi",
+       "gl": "son",
+       "pos": "n."
+      },
+      {
+       "h": "小宇",
+       "py": "Xiǎo Yǔ",
+       "gl": "Xiao Yu (name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "look at; watching",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "吃饭",
+       "py": "chīfàn",
+       "gl": "eat; have a meal",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "爸",
+       "py": "bà",
+       "gl": "dad",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "吃饭",
+       "py": "chīfàn",
+       "gl": "eat; have a meal",
+       "pos": "v."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "仓鼠",
+       "py": "cāngshǔ",
+       "gl": "hamster",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "My wife said nothing; she opened her phone and booked me a dentist appointment for the next morning.",
+   "phrases": [
+    {
+     "en": "My wife said nothing; she opened her phone and booked me a dentist appointment for the next morning.",
+     "words": [
+      {
+       "h": "妻子",
+       "py": "qīzǐ",
+       "gl": "wife",
+       "pos": "n."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "帮",
+       "py": "bāng",
+       "gl": "help",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "约",
+       "py": "yuē",
+       "gl": "to book (an appointment)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "第二",
+       "py": "dìèr",
+       "gl": "next (day)",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "上午",
+       "py": "shàngwǔ",
+       "gl": "morning; a.m.",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "牙医",
+       "py": "yáyī",
+       "gl": "dentist",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The dentist was a young woman; she took an X-ray and pointed to a black shadow on the screen: the cavity was already deep.",
+   "phrases": [
+    {
+     "en": "The dentist was a young woman;",
+     "words": [
+      {
+       "h": "牙医",
+       "py": "yáyī",
+       "gl": "dentist",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
+       "pos": "measure word"
+      },
+      {
+       "h": "年轻",
+       "py": "niánqīng",
+       "gl": "young",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "女",
+       "py": "nǚ",
+       "gl": "female; woman",
+       "pos": "n."
+      },
+      {
+       "h": "医生",
+       "py": "yīshēng",
+       "gl": "doctor",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she took an X-ray and pointed to a black shadow on the screen: the cavity was already deep.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "拍",
+       "py": "pāi",
+       "gl": "take (a photo); shoot (a video); pat; clap",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "function word"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "张",
+       "py": "zhāng",
+       "gl": "measure word for flat objects (paper, photos, tables)",
+       "pos": "measure word"
+      },
+      {
+       "h": "片子",
+       "py": "piānzi",
+       "gl": "X-ray",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "指着",
+       "py": "zhǐzhe",
+       "gl": "point at",
+       "pos": "v."
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "pos": "function word"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "块",
+       "py": "kuài",
+       "gl": "(measure word for stains)",
+       "pos": "measure word"
+      },
+      {
+       "h": "黑",
+       "py": "hēi",
+       "gl": "dark; black",
+       "pos": "adj."
+      },
+      {
+       "h": "影子",
+       "py": "yǐngzi",
+       "gl": "shadow; reflection",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "蛀洞",
+       "py": "zhùdòng",
+       "gl": "cavity (in a tooth)",
+       "pos": "n."
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "深",
+       "py": "shēn",
+       "gl": "deep; profound",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "function word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"If you put it off any longer, it'll reach the nerve,\" she said, \"and then treatment will be more complicated and more expensive.\"",
+   "phrases": [
+    {
+     "en": "\"If you put it off any longer, it'll reach the nerve,\" she said,",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "再",
+       "py": "zài",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "拖",
+       "py": "tuō",
+       "gl": "drag; delay",
+       "pos": "v."
+      },
+      {
+       "h": "下去",
+       "py": "xiàqu",
+       "gl": "go on; keep (doing) (complement)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "伤",
+       "py": "shāng",
+       "gl": "injury; wound",
+       "pos": "n."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "牙神经",
+       "py": "yá shénjīng",
+       "gl": "dental nerve",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "\"and then treatment will be more complicated and more expensive.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "then; in that case",
+       "pos": "conj."
+      },
+      {
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "治",
+       "py": "zhì",
+       "gl": "treat (an illness); cure",
+       "pos": "v."
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "麻烦",
+       "py": "máfan",
+       "gl": "troublesome; inconvenient; trouble",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "贵",
+       "py": "guì",
+       "gl": "expensive",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She saw my hands gripping the armrests and smiled: \"We'll numb it first. You'll hardly feel a thing.\"",
+   "phrases": [
+    {
+     "en": "She saw my hands gripping the armrests and smiled:",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "看见",
+       "py": "kànjiàn",
+       "gl": "see",
+       "pos": "v."
       },
       {
        "h": "我",
@@ -725,41 +982,70 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "紧张",
-       "py": "jǐnzhāng",
-       "gl": "nervous; tense",
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "紧紧",
+       "py": "jǐnjǐn",
+       "gl": "tightly; closely",
+       "pos": "adv."
+      },
+      {
+       "h": "抓着",
+       "py": "zhuāzhe",
+       "gl": "grabbing; holding",
+       "pos": "v."
+      },
+      {
+       "h": "椅子",
+       "py": "yǐzi",
+       "gl": "chair",
+       "pos": "n."
+      },
+      {
+       "h": "扶手",
+       "py": "fúshǒu",
+       "gl": "handrail",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "安慰",
-       "py": "ānwèi",
-       "gl": "comfort; console",
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
        "pos": "v."
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
        "pos": "v."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "\"We'll numb it first. You'll hardly feel a thing.\"",
+     "words": [
+      {
+       "h": "“"
       },
       {
        "h": "先",
@@ -770,7 +1056,7 @@
       {
        "h": "打",
        "py": "dǎ",
-       "gl": "give (an injection, anesthetic)",
+       "gl": "get (an injection)",
        "pos": "v."
       },
       {
@@ -781,12 +1067,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so I'd hardly feel any pain, and told me to relax as much as I could.",
-     "words": [
+      },
       {
        "h": "基本",
        "py": "jīběn",
@@ -794,37 +1075,71 @@
        "pos": "adv."
       },
       {
-       "h": "不会",
-       "py": "búhuì",
-       "gl": "will not; be unlikely (会不会 'will or won't')",
-       "pos": "function word"
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
       },
       {
-       "h": "感觉",
-       "py": "gǎnjué",
-       "gl": "feeling; sense; feel",
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
        "pos": "v."
       },
       {
-       "h": "到",
-       "py": "dào",
-       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
-       "pos": "function word"
+       "h": "疼",
+       "py": "téng",
+       "gl": "hurt; ache; painful",
+       "pos": "v."
       },
       {
-       "h": "疼痛",
-       "py": "téngtòng",
-       "gl": "pain",
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When the drill started, I shut my eyes and counted, and I had only reached three hundred when it was over.",
+   "phrases": [
+    {
+     "en": "When the drill started, I shut my eyes and counted,",
+     "words": [
+      {
+       "h": "电钻",
+       "py": "diànzuàn",
+       "gl": "dental drill",
+       "pos": "n."
+      },
+      {
+       "h": "响",
+       "py": "xiǎng",
+       "gl": "ring; make a sound",
+       "pos": "v."
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
        "pos": "n."
       },
       {
        "h": "，"
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
       },
       {
        "h": "我",
@@ -833,16 +1148,81 @@
        "pos": "pron."
       },
       {
-       "h": "尽量",
-       "py": "jǐnliàng",
-       "gl": "try one's best to; as far as possible",
+       "h": "闭上",
+       "py": "bìshàng",
+       "gl": "close (eyes, mouth)",
+       "pos": "v."
+      },
+      {
+       "h": "眼睛",
+       "py": "yǎnjīng",
+       "gl": "eye; eyes",
+       "pos": "n."
+      },
+      {
+       "h": "数",
+       "py": "shǔ",
+       "gl": "count",
+       "pos": "v."
+      },
+      {
+       "h": "数",
+       "py": "shù",
+       "gl": "(part of 算数: keep one's word)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and I had only reached three hundred when it was over.",
+     "words": [
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
        "pos": "adv."
       },
       {
-       "h": "放松",
-       "py": "fàngsōng",
-       "gl": "relaxed; relax",
+       "h": "数",
+       "py": "shù",
+       "gl": "several; a number of",
+       "pos": "num."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "三百",
+       "py": "sānbǎi",
+       "gl": "three hundred",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "结束",
+       "py": "jiéshù",
+       "gl": "finish; end",
        "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -852,32 +1232,11 @@
    ]
   },
   {
-   "en": "Once the anesthetic was in, the filling went much more smoothly than I'd imagined, and the whole thing took only about twenty minutes.",
+   "en": "The filling took just twenty minutes from start to finish — much easier than the thing I had dreaded for thirty years.",
    "phrases": [
     {
-     "en": "Once the anesthetic was in, the filling went much more smoothly than I'd imagined,",
+     "en": "The filling took just twenty minutes from start to finish — much easier than the thing I had dreaded for thirty years.",
      "words": [
-      {
-       "h": "打完",
-       "py": "dǎwán",
-       "gl": "finish (doing)",
-       "pos": "v."
-      },
-      {
-       "h": "麻药",
-       "py": "máyào",
-       "gl": "anesthetic",
-       "pos": "n."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
       {
        "h": "补牙",
        "py": "bǔyá",
@@ -885,72 +1244,10 @@
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "过程",
-       "py": "guòchéng",
-       "gl": "process",
-       "pos": "n."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "想象",
-       "py": "xiǎngxiàng",
-       "gl": "imagination; expectation",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "顺利",
-       "py": "shùnlì",
-       "gl": "smooth; successful; go well",
-       "pos": "adj."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "much (after a comparison: 高很多 much higher)",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the whole thing took only about twenty minutes.",
-     "words": [
-      {
        "h": "前后",
        "py": "qiánhòu",
-       "gl": "before and after; from start to finish (前后矛盾 inconsistent)",
-       "pos": "adv."
-      },
-      {
-       "h": "大概",
-       "py": "dàgài",
-       "gl": "probably; about; approximately",
-       "pos": "adv."
+       "gl": "around (a time); from start to finish; altogether",
+       "pos": "postposition"
       },
       {
        "h": "只",
@@ -961,7 +1258,7 @@
       {
        "h": "用",
        "py": "yòng",
-       "gl": "take (time); spend",
+       "gl": "use",
        "pos": "v."
       },
       {
@@ -983,29 +1280,13 @@
        "pos": "measure word"
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The dentist told me to try not to chew anything hard on the side with the new filling for the next few days, and to get into the habit of brushing morning and night and having regular cleanings.",
-   "phrases": [
-    {
-     "en": "The dentist told me to try not to chew anything hard on the side with the new filling for the next few days,",
-     "words": [
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
+       "h": "，"
       },
       {
-       "h": "叮嘱",
-       "py": "dīngzhǔ",
-       "gl": "urge; remind; tell (repeatedly)",
-       "pos": "v."
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
       },
       {
        "h": "我",
@@ -1014,174 +1295,67 @@
        "pos": "pron."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "pron."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "day",
-       "pos": "measure word"
-      },
-      {
-       "h": "尽量",
-       "py": "jǐnliàng",
-       "gl": "try one's best to; as far as possible",
-       "pos": "adv."
-      },
-      {
-       "h": "别",
-       "py": "bié",
-       "gl": "don't (prohibition); other",
-       "pos": "adv."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
+       "h": "怕",
+       "py": "pà",
+       "gl": "be afraid; fear; worry",
        "pos": "v."
       },
       {
-       "h": "刚",
-       "py": "gāng",
-       "gl": "just (now); only just",
-       "pos": "adv."
-      },
-      {
-       "h": "补",
-       "py": "bǔ",
-       "gl": "make up for; supplement; fill (a tooth)",
-       "pos": "v."
-      },
-      {
-       "h": "过",
-       "py": "guò",
-       "gl": "particle: past experience (have done)",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
+      },
+      {
+       "h": "三十",
+       "py": "sānshí",
+       "gl": "thirty",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "那",
-       "py": "nà",
+       "h": "那个",
+       "py": "nàge",
        "gl": "that",
        "pos": "pron."
       },
       {
-       "h": "侧",
-       "py": "cè",
-       "gl": "side",
-       "pos": "n."
-      },
-      {
-       "h": "牙齿",
-       "py": "yáchǐ",
-       "gl": "tooth",
-       "pos": "n."
-      },
-      {
-       "h": "嚼",
-       "py": "jiáo",
-       "gl": "chew",
-       "pos": "v."
-      },
-      {
-       "h": "硬",
-       "py": "yìng",
-       "gl": "hard; stiff",
-       "pos": "adj."
-      },
-      {
-       "h": "东西",
-       "py": "dōngxi",
-       "gl": "thing; stuff",
+       "h": "样子",
+       "py": "yàngzi",
+       "gl": "(how it was imagined)",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and to get into the habit of brushing morning and night and having regular cleanings.",
-     "words": [
-      {
-       "h": "平时",
-       "py": "píngshí",
-       "gl": "usually; ordinarily",
-       "pos": "adv."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
+       "h": "轻松",
+       "py": "qīngsōng",
+       "gl": "relaxed; easy",
+       "pos": "adj."
       },
       {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
       },
       {
-       "h": "养成",
-       "py": "yǎngchéng",
-       "gl": "form (a habit); develop",
-       "pos": "v."
-      },
-      {
-       "h": "早晚",
-       "py": "zǎowǎn",
-       "gl": "morning and evening; (sooner or later)",
-       "pos": "adv."
-      },
-      {
-       "h": "刷牙",
-       "py": "shuāyá",
-       "gl": "brush one's teeth",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "定期",
-       "py": "dìngqī",
-       "gl": "regularly; periodically",
-       "pos": "adv."
-      },
-      {
-       "h": "洗牙",
-       "py": "xǐyá",
-       "gl": "teeth cleaning (at the dentist)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
-      },
-      {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "habit",
-       "pos": "n."
       },
       {
        "h": "。"
@@ -1191,26 +1365,112 @@
    ]
   },
   {
-   "en": "In China, basic public health insurance usually covers only a small part of dental costs, and you have to pay the rest yourself.",
+   "en": "Only when I paid did I understand why so many people put off the dentist: basic medical insurance covers only a small part, and the rest comes out of your own pocket.",
    "phrases": [
     {
-     "en": "In China, basic public health insurance usually covers only a small part of dental costs, and you have to pay the rest yourself.",
+     "en": "Only when I paid did I understand why so many people put off the dentist:",
      "words": [
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
+       "h": "付",
+       "py": "fù",
+       "gl": "pay",
+       "pos": "v."
       },
       {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
+       "h": "钱",
+       "py": "qián",
+       "gl": "money",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "明白",
+       "py": "míngbái",
+       "gl": "understand; realize",
+       "pos": "v."
       },
       {
        "h": "，"
       },
+      {
+       "h": "为什么",
+       "py": "wèishénme",
+       "gl": "why",
+       "pos": "pron."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much; more; over; more than (after a number)",
+       "pos": "num."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "牙",
+       "py": "yá",
+       "gl": "tooth",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "拖",
+       "py": "tuō",
+       "gl": "drag; delay",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "basic medical insurance covers only a small part, and the rest comes out of your own pocket.",
+     "words": [
       {
        "h": "基本",
        "py": "jīběn",
@@ -1224,22 +1484,10 @@
        "pos": "n."
       },
       {
-       "h": "通常",
-       "py": "tōngcháng",
-       "gl": "usually; normally",
-       "pos": "adv."
-      },
-      {
        "h": "只",
        "py": "zhǐ",
        "gl": "only; just",
        "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
       },
       {
        "h": "报销",
@@ -1248,33 +1496,9 @@
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "部分",
-       "py": "bùfèn",
-       "gl": "part; section",
-       "pos": "n."
-      },
-      {
-       "h": "牙科",
-       "py": "yákē",
-       "gl": "dentistry",
-       "pos": "n."
-      },
-      {
-       "h": "费用",
-       "py": "fèiyòng",
-       "gl": "cost; expenses",
+       "h": "一小部分",
+       "py": "yīxiǎobùfèn",
+       "gl": "a small part; small fraction",
        "pos": "n."
       },
       {
@@ -1289,8 +1513,14 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (我学的是… what I studied is…)",
-       "pos": "function word"
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
       },
       {
        "h": "要",
@@ -1299,15 +1529,9 @@
        "pos": "v."
       },
       {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "承担",
-       "py": "chéngdān",
-       "gl": "take on; bear (a responsibility)",
+       "h": "自费",
+       "py": "zìfèi",
+       "gl": "to pay out of pocket",
        "pos": "v."
       },
       {
@@ -1318,106 +1542,22 @@
    ]
   },
   {
-   "en": "That's why many people are willing to spend a bit more to go to private dental clinics, where it's easier to get an appointment and the service is better.",
+   "en": "This private clinic cost several times more than the community hospital, but booking was easy and there was no long wait.",
    "phrases": [
     {
-     "en": "That's why many people are willing to spend a bit more to go to private dental clinics, where it's easier to get an appointment and the service is better.",
+     "en": "This private clinic cost several times more than the community hospital,",
      "words": [
       {
-       "h": "因此",
-       "py": "yīncǐ",
-       "gl": "because of this; therefore",
-       "pos": "conj."
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
       },
       {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "people; others",
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
        "pos": "n."
-      },
-      {
-       "h": "愿意",
-       "py": "yuànyì",
-       "gl": "be willing",
-       "pos": "v."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "more (than)",
-       "pos": "adv."
-      },
-      {
-       "h": "花",
-       "py": "huā",
-       "gl": "spend (time, money); flower",
-       "pos": "v."
-      },
-      {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "a little; some (一点)",
-       "pos": "adv."
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go (to)",
-       "pos": "v."
-      },
-      {
-       "h": "预约",
-       "py": "yùyuē",
-       "gl": "make an appointment; book in advance",
-       "pos": "n."
-      },
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "adj."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (我学的是… what I studied is…)",
-       "pos": "function word"
       },
       {
        "h": "私立",
@@ -1426,325 +1566,13 @@
        "pos": "adj."
       },
       {
-       "h": "口腔",
-       "py": "kǒuqiāng",
-       "gl": "oral cavity; mouth (口腔诊所 dental clinic)",
-       "pos": "n."
-      },
-      {
        "h": "诊所",
        "py": "zhěnsuǒ",
        "gl": "clinic",
        "pos": "n."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "About six months after the filling, I went back to the same clinic for a routine checkup, and the dentist said the tooth had healed well and there were no new cavities.",
-   "phrases": [
-    {
-     "en": "About six months after the filling, I went back to the same clinic for a routine checkup,",
-     "words": [
-      {
-       "h": "补牙",
-       "py": "bǔyá",
-       "gl": "fill a tooth; get a filling",
-       "pos": "v."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "大概",
-       "py": "dàgài",
-       "gl": "probably; about; approximately",
-       "pos": "adv."
-      },
-      {
-       "h": "半年",
-       "py": "bànnián",
-       "gl": "half a year; six months",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again",
-       "pos": "adv."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go (to)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "那家",
-       "py": "nàjiā",
-       "gl": "that (shop, clinic, etc.)",
-       "pos": "pron."
-      },
-      {
-       "h": "诊所",
-       "py": "zhěnsuǒ",
-       "gl": "clinic",
-       "pos": "n."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "例行",
-       "py": "lìxíng",
-       "gl": "routine; regular",
-       "pos": "adj."
-      },
-      {
-       "h": "检查",
-       "py": "jiǎnchá",
-       "gl": "check; inspect",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the dentist said the tooth had healed well and there were no new cavities.",
-     "words": [
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
-      },
-      {
-       "h": "颗",
-       "py": "kē",
-       "gl": "measure word for small round things (teeth, grains)",
-       "pos": "measure word"
-      },
-      {
-       "h": "牙",
-       "py": "yá",
-       "gl": "tooth",
-       "pos": "n."
-      },
-      {
-       "h": "恢复",
-       "py": "huīfù",
-       "gl": "recover; be restored",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "dé",
-       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
-       "pos": "function word"
-      },
-      {
-       "h": "不错",
-       "py": "bùcuò",
-       "gl": "not bad; good",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
-       "pos": "adv."
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "then; after that",
-       "pos": "adv."
-      },
-      {
-       "h": "出现",
-       "py": "chūxiàn",
-       "gl": "appear",
-       "pos": "v."
-      },
-      {
-       "h": "新的",
-       "py": "xīnde",
-       "gl": "new",
-       "pos": "adj."
-      },
-      {
-       "h": "蛀洞",
-       "py": "zhùdòng",
-       "gl": "cavity (in a tooth)",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "This time she also gave me a cleaning while she was at it, removing quite a lot of tartar from my teeth, and the whole thing was much more comfortable than I'd expected.",
-   "phrases": [
-    {
-     "en": "This time she also gave me a cleaning while she was at it, removing quite a lot of tartar from my teeth,",
-     "words": [
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "顺便",
-       "py": "shùnbiàn",
-       "gl": "by the way; on the way",
-       "pos": "adv."
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "for; to (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "洗牙",
-       "py": "xǐyá",
-       "gl": "teeth cleaning (at the dentist)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "清除",
-       "py": "qīngchú",
-       "gl": "remove; clear away",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "牙齿",
-       "py": "yáchǐ",
-       "gl": "tooth",
-       "pos": "n."
-      },
-      {
-       "h": "表面",
-       "py": "biǎomiàn",
-       "gl": "surface; appearance",
-       "pos": "n."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "牙结石",
-       "py": "yájiéshí",
-       "gl": "tartar; dental calculus",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the whole thing was much more comfortable than I'd expected.",
-     "words": [
-      {
-       "h": "整个",
-       "py": "zhěnggè",
-       "gl": "whole; entire",
-       "pos": "adj."
-      },
-      {
-       "h": "过程",
-       "py": "guòchéng",
-       "gl": "process",
-       "pos": "n."
       },
       {
        "h": "比",
@@ -1753,129 +1581,9 @@
        "pos": "prep."
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "想象",
-       "py": "xiǎngxiàng",
-       "gl": "imagine",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "(in comparisons) even; much (比…要…得多)",
-       "pos": "v."
-      },
-      {
-       "h": "舒服",
-       "py": "shūfú",
-       "gl": "comfortable; feel well",
-       "pos": "adj."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "much (after a comparison: 高很多 much higher)",
-       "pos": "adv."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The dentist mentioned that every September China has a \"National Love Your Teeth Day,\" when hospitals and communities all over the country organize free checkups, talks on dental care and other activities.",
-   "phrases": [
-    {
-     "en": "The dentist mentioned that every September China has a \"National Love Your Teeth Day,\"",
-     "words": [
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "提到",
-       "py": "tídào",
-       "gl": "mention",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "每年",
-       "py": "měinián",
-       "gl": "every year",
-       "pos": "n."
-      },
-      {
-       "h": "九月",
-       "py": "jiǔyuè",
-       "gl": "September",
-       "pos": "n."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both; even; already",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "一个",
-       "py": "yígè",
-       "gl": "one (with measure word: one item)",
-       "pos": "num."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "全国爱牙日",
-       "py": "quánguóàiyárì",
-       "gl": "National Love Your Teeth Day (Sept. 20)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "when hospitals and communities all over the country organize free checkups, talks on dental care and other activities.",
-     "words": [
-      {
-       "h": "各地",
-       "py": "gèdì",
-       "gl": "all over; various places",
+       "h": "社区",
+       "py": "shèqū",
+       "gl": "community; neighborhood",
        "pos": "n."
       },
       {
@@ -1885,371 +1593,22 @@
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "社区",
-       "py": "shèqū",
-       "gl": "community; neighborhood",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both; even; already",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "组织",
-       "py": "zǔzhī",
-       "gl": "organize",
-       "pos": "v."
-      },
-      {
-       "h": "免费",
-       "py": "miǎnfèi",
-       "gl": "free (of charge)",
-       "pos": "adv."
-      },
-      {
-       "h": "检查",
-       "py": "jiǎnchá",
-       "gl": "check; inspect",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "讲解",
-       "py": "jiǎngjiě",
-       "gl": "explain",
-       "pos": "v."
-      },
-      {
-       "h": "护牙",
-       "py": "hùyá",
-       "gl": "take care of one's teeth; dental care",
-       "pos": "v."
-      },
-      {
-       "h": "知识",
-       "py": "zhīshí",
-       "gl": "knowledge",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "活动",
-       "py": "huódòng",
-       "gl": "move around; exercise; activity",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "According to a national oral health survey, many adults in China have gum problems or tooth decay to some degree, yet many people don't see a dentist until they have a toothache.",
-   "phrases": [
-    {
-     "en": "According to a national oral health survey, many adults in China have gum problems or tooth decay to some degree,",
-     "words": [
-      {
-       "h": "根据",
-       "py": "gēnjù",
-       "gl": "according to; based on",
-       "pos": "prep."
-      },
-      {
-       "h": "全国",
-       "py": "quánguó",
-       "gl": "the whole country; nationwide",
-       "pos": "n."
-      },
-      {
-       "h": "口腔",
-       "py": "kǒuqiāng",
-       "gl": "oral cavity; mouth (口腔诊所 dental clinic)",
-       "pos": "n."
-      },
-      {
-       "h": "健康",
-       "py": "jiànkāng",
-       "gl": "healthy; health",
+       "h": "贵",
+       "py": "guì",
+       "gl": "expensive",
        "pos": "adj."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "调查",
-       "py": "diàochá",
-       "gl": "survey; investigation",
-       "pos": "n."
-      },
-      {
-       "h": "结果",
-       "py": "jiéguǒ",
-       "gl": "as a result; in the end; result",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "成年人",
-       "py": "chéngniánrén",
-       "gl": "adult",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both; even; already",
-       "pos": "adv."
-      },
-      {
-       "h": "存在",
-       "py": "cúnzài",
-       "gl": "exist",
-       "pos": "v."
-      },
-      {
-       "h": "不同",
-       "py": "bùtóng",
-       "gl": "different",
-       "pos": "adj."
-      },
-      {
-       "h": "程度",
-       "py": "chéngdù",
-       "gl": "degree; extent",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "牙周",
-       "py": "yázhōu",
-       "gl": "periodontal",
-       "pos": "n."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem",
-       "pos": "n."
-      },
-      {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "蛀牙",
-       "py": "zhùyá",
-       "gl": "tooth decay; cavity",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "yet many people don't see a dentist until they have a toothache.",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of",
+       "h": "好几",
+       "py": "hǎojǐ",
+       "gl": "quite a few; several",
        "pos": "num."
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "直到",
-       "py": "zhídào",
-       "gl": "until; up to",
-       "pos": "prep."
-      },
-      {
-       "h": "牙痛",
-       "py": "yátòng",
-       "gl": "toothache",
-       "pos": "n."
-      },
-      {
-       "h": "才",
-       "py": "cái",
-       "gl": "only then; not until",
-       "pos": "adv."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go (to)",
-       "pos": "v."
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "see (a doctor); have treated",
-       "pos": "v."
-      },
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The dentist also mentioned that many cities now offer free dental sealants for children of the right age: a protective coating is painted onto the chewing surfaces of the teeth, which effectively lowers the risk of cavities.",
-   "phrases": [
-    {
-     "en": "The dentist also mentioned that many cities now offer free dental sealants for children of the right age:",
-     "words": [
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "提到",
-       "py": "tídào",
-       "gl": "mention",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "正在",
-       "py": "zhèngzài",
-       "gl": "be in the middle of (doing)",
-       "pos": "adv."
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
-      {
-       "h": "适龄",
-       "py": "shìlíng",
-       "gl": "of the right age; eligible-age",
-       "pos": "adj."
-      },
-      {
-       "h": "儿童",
-       "py": "értóng",
-       "gl": "child; children",
-       "pos": "n."
-      },
-      {
-       "h": "提供",
-       "py": "tígōng",
-       "gl": "provide",
-       "pos": "v."
-      },
-      {
-       "h": "免费",
-       "py": "miǎnfèi",
-       "gl": "free (of charge)",
-       "pos": "adv."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "窝沟封闭",
-       "py": "wōgōufēngbì",
-       "gl": "dental sealant (pit and fissure sealing)",
-       "pos": "n."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
+       "h": "倍",
+       "py": "bèi",
+       "gl": "times; -fold (翻一倍 double)",
+       "pos": "measure word"
       },
       {
        "h": "，"
@@ -2257,191 +1616,29 @@
      ]
     },
     {
-     "en": "a protective coating is painted onto the chewing surfaces of the teeth, which effectively lowers the risk of cavities.",
+     "en": "but booking was easy and there was no long wait.",
      "words": [
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
+       "h": "可是",
+       "py": "kěshì",
+       "gl": "but; however",
+       "pos": "conj."
       },
       {
-       "h": "牙齿",
-       "py": "yáchǐ",
-       "gl": "tooth",
-       "pos": "n."
-      },
-      {
-       "h": "咬合面",
-       "py": "yǎohémiàn",
-       "gl": "chewing surface (of a tooth)",
-       "pos": "n."
-      },
-      {
-       "h": "涂",
-       "py": "tú",
-       "gl": "apply; spread; coat",
+       "h": "预约",
+       "py": "yùyuē",
+       "gl": "make an appointment; book in advance",
        "pos": "v."
       },
       {
-       "h": "一层",
-       "py": "yīcéng",
-       "gl": "one layer; a layer of",
-       "pos": "num."
-      },
-      {
-       "h": "保护膜",
-       "py": "bǎohùmó",
-       "gl": "protective coating; protective film",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "v."
-      },
-      {
-       "h": "有效",
-       "py": "yǒuxiào",
-       "gl": "effective",
+       "h": "方便",
+       "py": "fāngbiàn",
+       "gl": "convenient; conveniently; make it easy (for); convenient",
        "pos": "adj."
       },
       {
-       "h": "降低",
-       "py": "jiàngdī",
-       "gl": "lower; reduce",
-       "pos": "v."
-      },
-      {
-       "h": "蛀牙",
-       "py": "zhùyá",
-       "gl": "tooth decay; cavity",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "风险",
-       "py": "fēngxiǎn",
-       "gl": "risk",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Hearing her say this, I started to regret not making good use of this service as a child, and I began paying more attention to my own child's dental health.",
-   "phrases": [
-    {
-     "en": "Hearing her say this, I started to regret not making good use of this service as a child,",
-     "words": [
-      {
-       "h": "听",
-       "py": "tīng",
-       "gl": "listen; hear",
-       "pos": "v."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "这么",
-       "py": "zhème",
-       "gl": "so; like this",
-       "pos": "pron."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
        "h": "，"
       },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "后悔",
-       "py": "hòuhuǐ",
-       "gl": "regret",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "小时候",
-       "py": "xiǎoshíhòu",
-       "gl": "in childhood; as a child",
-       "pos": "adv."
-      },
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
-       "pos": "adv."
-      },
-      {
-       "h": "好好",
-       "py": "hǎohǎo",
-       "gl": "properly; well; to one's heart's content",
-       "pos": "adv."
-      },
-      {
-       "h": "利用",
-       "py": "lìyòng",
-       "gl": "use; make use of; take advantage of",
-       "pos": "v."
-      },
-      {
-       "h": "这项",
-       "py": "zhèxiàng",
-       "gl": "this (item, policy, project)",
-       "pos": "pron."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and I began paying more attention to my own child's dental health.",
-     "words": [
       {
        "h": "也",
        "py": "yě",
@@ -2449,322 +1646,34 @@
        "pos": "adv."
       },
       {
-       "h": "更加",
-       "py": "gèngjiā",
-       "gl": "even more",
-       "pos": "adv."
-      },
-      {
-       "h": "重视",
-       "py": "zhòngshì",
-       "gl": "attach importance to; value",
+       "h": "不用",
+       "py": "bùyòng",
+       "gl": "not need; no need to",
        "pos": "v."
       },
       {
-       "h": "孩子",
-       "py": "háizi",
-       "gl": "child",
+       "h": "排",
+       "py": "pái",
+       "gl": "line up; arrange in a row",
+       "pos": "v."
+      },
+      {
+       "h": "半",
+       "py": "bàn",
+       "gl": "half",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "口腔健康",
-       "py": "kǒuqiāngjiànkāng",
-       "gl": "oral health",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After this follow-up visit, the dentist advised me to floss more often instead of relying only on brushing to get food out from between my teeth.",
-   "phrases": [
-    {
-     "en": "After this follow-up visit, the dentist advised me to floss more often,",
-     "words": [
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "复查",
-       "py": "fùchá",
-       "gl": "follow-up checkup; re-examine",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "建议",
-       "py": "jiànyì",
-       "gl": "suggest; advise; suggestion",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "平时",
-       "py": "píngshí",
-       "gl": "usually; ordinarily",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more than (after a number)",
-       "pos": "adj."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "牙线",
-       "py": "yáxiàn",
-       "gl": "dental floss",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "instead of relying only on brushing to get food out from between my teeth.",
-     "words": [
-      {
-       "h": "而不是",
-       "py": "érbúshì",
-       "gl": "rather than; instead of",
-       "pos": "conj."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "刷牙",
-       "py": "shuāyá",
-       "gl": "brush one's teeth",
-       "pos": "v."
-      },
-      {
-       "h": "清理",
-       "py": "qīnglǐ",
-       "gl": "clean up; clear away",
-       "pos": "v."
-      },
-      {
-       "h": "牙缝",
-       "py": "yáfèng",
-       "gl": "gap between teeth",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "食物残渣",
-       "py": "shíwùcánzhā",
-       "gl": "food debris",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "She also suggested I switch to an electric toothbrush, saying it cleans more effectively than an ordinary one and is gentler on the gums.",
-   "phrases": [
-    {
-     "en": "She also suggested I switch to an electric toothbrush,",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "推荐",
-       "py": "tuījiàn",
-       "gl": "recommend; recommendation",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "换",
-       "py": "huàn",
-       "gl": "change (换个角度 from another angle)",
-       "pos": "v."
-      },
-      {
-       "h": "一把",
-       "py": "yībǎ",
-       "gl": "one (measure word for objects with a handle: umbrella, key, toothbrush)",
-       "pos": "measure word"
-      },
-      {
-       "h": "电动牙刷",
-       "py": "diàndòngyáshuā",
-       "gl": "electric toothbrush",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "saying it cleans more effectively than an ordinary one and is gentler on the gums.",
-     "words": [
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
-       "pos": "pron."
-      },
-      {
-       "h": "清洁",
-       "py": "qīngjié",
-       "gl": "cleanliness; hygiene; clean",
-       "pos": "adj."
-      },
-      {
-       "h": "效率",
-       "py": "xiàolǜ",
-       "gl": "efficiency",
-       "pos": "n."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "普通",
-       "py": "pǔtōng",
-       "gl": "ordinary; common",
-       "pos": "adj."
-      },
-      {
-       "h": "牙刷",
-       "py": "yáshuā",
-       "gl": "toothbrush",
-       "pos": "n."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "高",
-       "py": "gāo",
-       "gl": "tall; high",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "对",
+       "h": "队",
        "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "牙龈",
-       "py": "yáyín",
-       "gl": "gum (of the mouth)",
+       "gl": "line; queue; team",
        "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "温和",
-       "py": "wēnhé",
-       "gl": "gentle; mild",
-       "pos": "adj."
       },
       {
        "h": "。"
@@ -2774,20 +1683,11 @@
    ]
   },
   {
-   "en": "Before I left, the dentist reminded me again and again that early tooth decay often has no obvious symptoms, and it's best to get a checkup every six months to a year so problems are caught in time.",
+   "en": "The dentist said some cities are piloting coverage of basic checkups and cleanings under medical insurance, but it isn't nationwide yet.",
    "phrases": [
     {
-     "en": "Before I left, the dentist reminded me again and again that early tooth decay often has no obvious symptoms,",
+     "en": "The dentist said some cities are piloting coverage of basic checkups and cleanings under medical insurance,",
      "words": [
-      {
-       "h": "临走前",
-       "py": "línzǒuqián",
-       "gl": "before leaving",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
       {
        "h": "医生",
        "py": "yīshēng",
@@ -2795,195 +1695,18 @@
        "pos": "n."
       },
       {
-       "h": "再三",
-       "py": "zàisān",
-       "gl": "again and again; repeatedly",
-       "pos": "adv."
-      },
-      {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "蛀牙",
-       "py": "zhùyá",
-       "gl": "tooth decay; cavity",
-       "pos": "n."
-      },
-      {
-       "h": "初期",
-       "py": "chūqī",
-       "gl": "early stage; initial period",
-       "pos": "n."
-      },
-      {
-       "h": "往往",
-       "py": "wǎngwǎng",
-       "gl": "often; usually; tend to",
-       "pos": "adv."
-      },
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
-       "pos": "adv."
-      },
-      {
-       "h": "明显",
-       "py": "míngxiǎn",
-       "gl": "obvious; clear; clearly",
-       "pos": "adv."
-      },
-      {
-       "h": "症状",
-       "py": "zhèngzhuàng",
-       "gl": "symptom",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and it's best to get a checkup every six months to a year so problems are caught in time.",
-     "words": [
-      {
-       "h": "最好",
-       "py": "zuìhǎo",
-       "gl": "had better; it's best to",
-       "pos": "adv."
-      },
-      {
-       "h": "每半年",
-       "py": "měibànnián",
-       "gl": "every six months",
-       "pos": "adv."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; up to (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "一年",
-       "py": "yīnián",
-       "gl": "one year; a year",
-       "pos": "num."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "一次",
-       "py": "yīcì",
-       "gl": "once; in one go; at the first attempt",
-       "pos": "measure word"
-      },
-      {
-       "h": "检查",
-       "py": "jiǎnchá",
-       "gl": "check; inspect",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "such; like this",
-       "pos": "pron."
-      },
-      {
-       "h": "才能",
-       "py": "cáinéng",
-       "gl": "only then; (only) ... can",
-       "pos": "conj."
-      },
-      {
-       "h": "及时",
-       "py": "jíshí",
-       "gl": "in time; promptly",
-       "pos": "adv."
-      },
-      {
-       "h": "发现",
-       "py": "fāxiàn",
-       "gl": "discover; find out",
-       "pos": "v."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "To encourage regular checkups, some cities have started pilot programs that bring basic dental exams and cleanings under basic health insurance coverage, easing the financial burden on residents.",
-   "phrases": [
-    {
-     "en": "To encourage regular checkups, some cities have started pilot programs that bring basic dental exams and cleanings under basic health insurance coverage,",
-     "words": [
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "鼓励",
-       "py": "gǔlì",
-       "gl": "encourage",
-       "pos": "v."
-      },
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "定期",
-       "py": "dìngqī",
-       "gl": "regularly; periodically",
-       "pos": "adv."
-      },
-      {
-       "h": "检查",
-       "py": "jiǎnchá",
-       "gl": "check; inspect",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
+       "h": "有些",
+       "py": "yǒuxiē",
+       "gl": "some",
        "pos": "pron."
       },
       {
@@ -2999,10 +1722,10 @@
        "pos": "adv."
       },
       {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
        "h": "试点",
@@ -3011,10 +1734,13 @@
        "pos": "v."
       },
       {
+       "h": "，"
+      },
+      {
        "h": "把",
        "py": "bǎ",
        "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "function word"
+       "pos": "prep."
       },
       {
        "h": "基础",
@@ -3023,16 +1749,10 @@
        "pos": "n."
       },
       {
-       "h": "口腔",
-       "py": "kǒuqiāng",
-       "gl": "oral cavity; mouth (口腔诊所 dental clinic)",
-       "pos": "n."
-      },
-      {
        "h": "检查",
        "py": "jiǎnchá",
-       "gl": "check; inspect",
-       "pos": "v."
+       "gl": "examination (medical); checkup",
+       "pos": "n."
       },
       {
        "h": "和",
@@ -3044,19 +1764,19 @@
        "h": "洗牙",
        "py": "xǐyá",
        "gl": "teeth cleaning (at the dentist)",
+       "pos": "n."
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "play (music, a recording)",
        "pos": "v."
       },
       {
-       "h": "纳入",
-       "py": "nàrù",
-       "gl": "include; bring into",
+       "h": "进",
+       "py": "jìn",
+       "gl": "in (complement)",
        "pos": "v."
-      },
-      {
-       "h": "基本",
-       "py": "jīběn",
-       "gl": "basic; basically",
-       "pos": "adj."
       },
       {
        "h": "医保",
@@ -3065,90 +1785,23 @@
        "pos": "n."
       },
       {
-       "h": "报销",
-       "py": "bàoxiāo",
-       "gl": "reimburse; reimbursement",
-       "pos": "v."
-      },
-      {
-       "h": "范围",
-       "py": "fànwéi",
-       "gl": "range; scope; extent",
-       "pos": "n."
-      },
-      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "easing the financial burden on residents.",
+     "en": "but it isn't nationwide yet.",
      "words": [
       {
-       "h": "减轻",
-       "py": "jiǎnqīng",
-       "gl": "lighten; reduce; ease",
-       "pos": "v."
-      },
-      {
-       "h": "居民",
-       "py": "jūmín",
-       "gl": "resident; inhabitant",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "经济",
-       "py": "jīngjì",
-       "gl": "economy",
-       "pos": "n."
-      },
-      {
-       "h": "负担",
-       "py": "fùdān",
-       "gl": "burden",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But for now this policy hasn't spread nationwide, and in most areas people still mainly pay for dental care out of pocket or buy private dental insurance.",
-   "phrases": [
-    {
-     "en": "But for now this policy hasn't spread nationwide,",
-     "words": [
-      {
-       "h": "不过",
-       "py": "bùguò",
+       "h": "可",
+       "py": "kě",
        "gl": "but; however",
        "pos": "conj."
       },
       {
-       "h": "目前",
-       "py": "mùqián",
-       "gl": "currently; at present",
-       "pos": "adv."
-      },
-      {
-       "h": "这项",
-       "py": "zhèxiàng",
-       "gl": "this (item, policy, project)",
-       "pos": "pron."
-      },
-      {
-       "h": "政策",
-       "py": "zhèngcè",
-       "gl": "policy",
+       "h": "全国",
+       "py": "quánguó",
+       "gl": "the whole country; nationwide",
        "pos": "n."
       },
       {
@@ -3161,19 +1814,7 @@
        "h": "没有",
        "py": "méiyǒu",
        "gl": "not have; there is no",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "全国",
-       "py": "quánguó",
-       "gl": "the whole country; nationwide",
-       "pos": "n."
+       "pos": "v."
       },
       {
        "h": "普及",
@@ -3182,95 +1823,6 @@
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and in most areas people still mainly pay for dental care out of pocket or buy private dental insurance.",
-     "words": [
-      {
-       "h": "大部分",
-       "py": "dàbùfèn",
-       "gl": "most; the greater part",
-       "pos": "n."
-      },
-      {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "居民",
-       "py": "jūmín",
-       "gl": "resident; inhabitant",
-       "pos": "n."
-      },
-      {
-       "h": "看牙",
-       "py": "kànyá",
-       "gl": "see a dentist",
-       "pos": "v."
-      },
-      {
-       "h": "仍然",
-       "py": "réngrán",
-       "gl": "still; yet",
-       "pos": "adv."
-      },
-      {
-       "h": "主要",
-       "py": "zhǔyào",
-       "gl": "main; mainly",
-       "pos": "adv."
-      },
-      {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "自费",
-       "py": "zìfèi",
-       "gl": "pay out of pocket; self-funded",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "购买",
-       "py": "gòumǎi",
-       "gl": "buy; purchase",
-       "pos": "v."
-      },
-      {
-       "h": "商业",
-       "py": "shāngyè",
-       "gl": "commercial; business",
-       "pos": "adj."
-      },
-      {
-       "h": "牙科保险",
-       "py": "yákēbǎoxiǎn",
-       "gl": "dental insurance",
-       "pos": "n."
-      },
-      {
        "h": "。"
       }
      ]
@@ -3278,25 +1830,28 @@
    ]
   },
   {
-   "en": "Walking out of the clinic, I couldn't help thinking that if I'd built good habits as a kid, maybe I wouldn't have to spend so much money and effort fixing things as an adult.",
+   "en": "Then she asked how old my child was.",
    "phrases": [
     {
-     "en": "Walking out of the clinic, I couldn't help thinking that if I'd built good habits as a kid,",
+     "en": "Then she asked how old my child was.",
      "words": [
       {
-       "h": "走出",
-       "py": "zǒuchū",
-       "gl": "walk out of; go out of",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
        "pos": "v."
-      },
-      {
-       "h": "诊所",
-       "py": "zhěnsuǒ",
-       "gl": "clinic",
-       "pos": "n."
-      },
-      {
-       "h": "，"
       },
       {
        "h": "我",
@@ -3305,211 +1860,7 @@
        "pos": "pron."
       },
       {
-       "h": "忍不住",
-       "py": "rěnbúzhù",
-       "gl": "can't help (doing); cannot resist",
-       "pos": "v."
-      },
-      {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like",
-       "pos": "v."
-      },
-      {
        "h": "，"
-      },
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "从小",
-       "py": "cóngxiǎo",
-       "gl": "since childhood",
-       "pos": "adv."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "养成",
-       "py": "yǎngchéng",
-       "gl": "form (a habit); develop",
-       "pos": "v."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
-      },
-      {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "habit",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "maybe I wouldn't have to spend so much money and effort fixing things as an adult.",
-     "words": [
-      {
-       "h": "也许",
-       "py": "yěxǔ",
-       "gl": "perhaps; maybe",
-       "pos": "adv."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "不用",
-       "py": "bùyòng",
-       "gl": "not need; no need to",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "成年",
-       "py": "chéngnián",
-       "gl": "adult; grow up",
-       "pos": "v."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "花",
-       "py": "huā",
-       "gl": "flower; spend (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "这么多",
-       "py": "zhèmeduō",
-       "gl": "so many; so much",
-       "pos": "pron."
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "精力",
-       "py": "jīnglì",
-       "gl": "energy; effort",
-       "pos": "n."
-      },
-      {
-       "h": "补救",
-       "py": "bǔjiù",
-       "gl": "remedy; make up for",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "When I got home, I told my child all about my visit to the dentist, hoping he'd learn early to brush properly, floss, eat fewer sweets and not make the same mistakes I did.",
-   "phrases": [
-    {
-     "en": "When I got home, I told my child all about my visit to the dentist,",
-     "words": [
-      {
-       "h": "回家",
-       "py": "huíjiā",
-       "gl": "go home; come home",
-       "pos": "v."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "function word"
-      },
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "看牙",
-       "py": "kànyá",
-       "gl": "see a dentist",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
       },
       {
        "h": "孩子",
@@ -3518,110 +1869,67 @@
        "pos": "n."
       },
       {
-       "h": "分享",
-       "py": "fēnxiǎng",
-       "gl": "share",
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "大",
+       "py": "dà",
+       "gl": "big; large",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "When she heard eight, she told me many cities offer free fissure sealants for children of the right age — a protective coating on the chewing surfaces of the teeth.",
+   "phrases": [
+    {
+     "en": "When she heard eight, she told me",
+     "words": [
+      {
+       "h": "听说",
+       "py": "tīngshuō",
+       "gl": "hear (that); be told",
        "pos": "v."
+      },
+      {
+       "h": "八",
+       "py": "bā",
+       "gl": "eight",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "hoping he'd learn early to brush properly, floss, eat fewer sweets and not make the same mistakes I did.",
-     "words": [
-      {
-       "h": "希望",
-       "py": "xīwàng",
-       "gl": "hope; wish",
-       "pos": "v."
       },
       {
-       "h": "他",
+       "h": "她",
        "py": "tā",
-       "gl": "he; him",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
-       "h": "从小",
-       "py": "cóngxiǎo",
-       "gl": "since childhood",
-       "pos": "adv."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "认真",
-       "py": "rènzhēn",
-       "gl": "serious; conscientious; carefully",
-       "pos": "adj."
-      },
-      {
-       "h": "刷牙",
-       "py": "shuāyá",
-       "gl": "brush one's teeth",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "牙线",
-       "py": "yáxiàn",
-       "gl": "dental floss",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "少",
-       "py": "shǎo",
-       "gl": "few; little; less",
-       "pos": "adj."
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
-      },
-      {
-       "h": "甜食",
-       "py": "tiánshí",
-       "gl": "sweets; sugary food",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "避免",
-       "py": "bìmiǎn",
-       "gl": "avoid",
-       "pos": "v."
-      },
-      {
-       "h": "走",
-       "py": "zǒu",
-       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "h": "告诉",
+       "py": "gàosu",
+       "gl": "tell",
        "pos": "v."
       },
       {
@@ -3631,15 +1939,134 @@
        "pos": "pron."
       },
       {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "many cities offer free fissure sealants for children of the right age — a protective coating on the chewing surfaces of the teeth.",
+     "words": [
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot of",
+       "pos": "adj."
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "适龄",
+       "py": "shìlíng",
+       "gl": "of the right age; eligible-age",
+       "pos": "adj."
+      },
+      {
+       "h": "儿童",
+       "py": "értóng",
+       "gl": "child; children",
+       "pos": "n."
+      },
+      {
+       "h": "免费",
+       "py": "miǎnfèi",
+       "gl": "free (of charge)",
+       "pos": "adv."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "窝沟封闭",
+       "py": "wōgōu fēngbì",
+       "gl": "dental sealant (pit and fissure sealing)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "牙齿",
+       "py": "yáchǐ",
+       "gl": "tooth",
+       "pos": "n."
+      },
+      {
+       "h": "咬",
+       "py": "yǎo",
+       "gl": "to bite, chew",
+       "pos": "v."
+      },
+      {
+       "h": "东西",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
+       "pos": "n."
+      },
+      {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "老路",
-       "py": "lǎolù",
-       "gl": "old path (same old mistakes)",
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "一面",
+       "py": "yímiàn",
+       "gl": "side; aspect",
+       "pos": "n."
+      },
+      {
+       "h": "涂",
+       "py": "tú",
+       "gl": "apply; spread; coat",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "层",
+       "py": "céng",
+       "gl": "measure word for layers (一层信任 'an extra layer of trust')",
+       "pos": "measure word"
+      },
+      {
+       "h": "保护",
+       "py": "bǎohù",
+       "gl": "protection; protect",
+       "pos": "n."
+      },
+      {
+       "h": "膜",
+       "py": "mó",
+       "gl": "plastic sheeting, film",
        "pos": "n."
       },
       {
@@ -3650,27 +2077,180 @@
    ]
   },
   {
-   "en": "A few months later, I took him to the dental department of our community hospital and signed him up for free sealants, and the dentist coated his first molar, which had just come in.",
+   "en": "\"September 20 is National Love Your Teeth Day every year, and there are free checkups in the community,\" she said. \"Don't wait until it hurts.\"",
    "phrases": [
     {
-     "en": "A few months later, I took him to the dental department of our community hospital and signed him up for free sealants,",
+     "en": "\"September 20 is National Love Your Teeth Day every year, and there are free checkups in the community,\" she said.",
      "words": [
       {
-       "h": "几个",
-       "py": "jǐgè",
-       "gl": "a few; several",
+       "h": "“"
+      },
+      {
+       "h": "每年",
+       "py": "měinián",
+       "gl": "every year",
+       "pos": "n."
+      },
+      {
+       "h": "九月",
+       "py": "jiǔyuè",
+       "gl": "September",
+       "pos": "n."
+      },
+      {
+       "h": "二十",
+       "py": "èrshí",
+       "gl": "twenty",
        "pos": "num."
       },
       {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
+       "h": "日",
+       "py": "rì",
+       "gl": "day; per day; sun (as character component)",
        "pos": "measure word"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "全国爱牙日",
+       "py": "Quánguó Àiyá Rì",
+       "gl": "National Love Your Teeth Day",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "社区",
+       "py": "shèqū",
+       "gl": "community; neighborhood",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "免费",
+       "py": "miǎnfèi",
+       "gl": "free (of charge)",
+       "pos": "adv."
+      },
+      {
+       "h": "检查",
+       "py": "jiǎnchá",
+       "gl": "check; inspect",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "\"Don't wait until it hurts.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "别",
+       "py": "bié",
+       "gl": "don't (prohibition); other",
+       "pos": "adv."
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "particle"
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "疼",
+       "py": "téng",
+       "gl": "hurt; ache; painful",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A month later I took Xiaoyu to the dental department of the community hospital.",
+   "phrases": [
+    {
+     "en": "A month later I took Xiaoyu to the dental department of the community hospital.",
+     "words": [
+      {
+       "h": "一个月",
+       "py": "yígèyuè",
+       "gl": "one month",
+       "pos": "n."
       },
       {
        "h": "后",
        "py": "hòu",
-       "gl": "after",
+       "gl": "after; later; behind",
        "pos": "postposition"
       },
       {
@@ -3689,10 +2269,10 @@
        "pos": "v."
       },
       {
-       "h": "孩子",
-       "py": "háizi",
-       "gl": "child",
-       "pos": "n."
+       "h": "小宇",
+       "py": "Xiǎo Yǔ",
+       "gl": "Xiao Yu (name)",
+       "pos": "proper noun"
       },
       {
        "h": "去",
@@ -3704,7 +2284,7 @@
        "h": "了",
        "py": "le",
        "gl": "particle: completed action / change of state",
-       "pos": "function word"
+       "pos": "particle"
       },
       {
        "h": "社区",
@@ -3721,150 +2301,13 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "口腔科",
        "py": "kǒuqiāngkē",
        "gl": "dental department",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "for; to (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "申请",
-       "py": "shēnqǐng",
-       "gl": "apply (for); application",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "免费",
-       "py": "miǎnfèi",
-       "gl": "free (of charge)",
-       "pos": "adv."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "窝沟封闭",
-       "py": "wōgōufēngbì",
-       "gl": "dental sealant (pit and fissure sealing)",
-       "pos": "n."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the dentist coated his first molar, which had just come in.",
-     "words": [
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "刚",
-       "py": "gāng",
-       "gl": "just (now); only just",
-       "pos": "adv."
-      },
-      {
-       "h": "长出",
-       "py": "zhǎngchū",
-       "gl": "grow (out)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "第一",
-       "py": "dìyī",
-       "gl": "first",
-       "pos": "num."
-      },
-      {
-       "h": "颗",
-       "py": "kē",
-       "gl": "measure word for small round things (teeth, grains)",
-       "pos": "measure word"
-      },
-      {
-       "h": "大牙",
-       "py": "dàyá",
-       "gl": "molar",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
-      },
-      {
-       "h": "涂",
-       "py": "tú",
-       "gl": "apply; spread; coat",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "保护膜",
-       "py": "bǎohùmó",
-       "gl": "protective coating; protective film",
        "pos": "n."
       },
       {
@@ -3875,41 +2318,167 @@
    ]
   },
   {
-   "en": "The whole thing took only a few minutes; he wasn't scared at all and actually thought it was kind of fun.",
+   "en": "I was afraid he'd cry the way I did as a kid, but he climbed into the chair himself and opened his mouth wide.",
    "phrases": [
     {
-     "en": "The whole thing took only a few minutes; he wasn't scared at all",
+     "en": "I was afraid he'd cry the way I did as a kid,",
      "words": [
       {
-       "h": "整个",
-       "py": "zhěnggè",
-       "gl": "whole; entire",
-       "pos": "adj."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
       },
       {
-       "h": "过程",
-       "py": "guòchéng",
-       "gl": "process",
+       "h": "怕",
+       "py": "pà",
+       "gl": "be afraid; fear; worry",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "小时候",
+       "py": "xiǎoshíhòu",
+       "gl": "in childhood; as a child",
        "pos": "n."
       },
       {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
       },
       {
-       "h": "用",
-       "py": "yòng",
-       "gl": "take (time); spend",
+       "h": "哭",
+       "py": "kū",
+       "gl": "cry",
        "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but he climbed into the chair himself and opened his mouth wide.",
+     "words": [
+      {
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "爬",
+       "py": "pá",
+       "gl": "climb; crawl; get up (爬起来)",
+       "pos": "v."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
        "h": "了",
        "py": "le",
        "gl": "particle: completed action / change of state",
-       "pos": "function word"
+       "pos": "particle"
       },
+      {
+       "h": "椅子",
+       "py": "yǐzi",
+       "gl": "chair",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "嘴",
+       "py": "zuǐ",
+       "gl": "mouth",
+       "pos": "n."
+      },
+      {
+       "h": "张",
+       "py": "zhāng",
+       "gl": "measure word for flat objects (paper, photos, tables)",
+       "pos": "measure word"
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "大大",
+       "py": "dàdà",
+       "gl": "greatly; considerably",
+       "pos": "adv."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It was done in a few minutes, and the dentist showed him how to brush: fluoride toothpaste, two to three minutes each time.",
+   "phrases": [
+    {
+     "en": "It was done in a few minutes,",
+     "words": [
       {
        "h": "几",
        "py": "jǐ",
@@ -3923,25 +2492,28 @@
        "pos": "measure word"
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "孩子",
-       "py": "háizi",
-       "gl": "child",
-       "pos": "n."
-      },
-      {
-       "h": "一点也不",
-       "py": "yìdiǎnyěbù",
-       "gl": "not at all; not the least bit",
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "害怕",
-       "py": "hàipà",
-       "gl": "be afraid; fear",
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
        "pos": "v."
+      },
+      {
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "，"
@@ -3949,50 +2521,7 @@
      ]
     },
     {
-     "en": "and actually thought it was kind of fun.",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "挺",
-       "py": "tǐng",
-       "gl": "quite; rather",
-       "pos": "adv."
-      },
-      {
-       "h": "好玩",
-       "py": "hǎowán",
-       "gl": "fun; amusing",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The dentist also showed him the right way to brush, stressing that he should use fluoride toothpaste and brush for a full two or three minutes each time, not just a few quick strokes and done.",
-   "phrases": [
-    {
-     "en": "The dentist also showed him the right way to brush, stressing that he should use fluoride toothpaste",
+     "en": "and the dentist showed him how to brush: fluoride toothpaste, two to three minutes each time.",
      "words": [
       {
        "h": "医生",
@@ -4001,34 +2530,28 @@
        "pos": "n."
       },
       {
-       "h": "顺便",
-       "py": "shùnbiàn",
-       "gl": "by the way; on the way",
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
        "h": "教",
-       "py": "jiào",
+       "py": "jiāo",
        "gl": "teach",
        "pos": "v."
       },
       {
-       "h": "孩子",
-       "py": "háizi",
-       "gl": "child",
-       "pos": "n."
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
-       "h": "正确",
-       "py": "zhèngquè",
-       "gl": "correct; right",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
+       "pos": "pron."
       },
       {
        "h": "刷牙",
@@ -4037,51 +2560,40 @@
        "pos": "v."
       },
       {
-       "h": "方法",
-       "py": "fāngfǎ",
-       "gl": "method; way",
-       "pos": "n."
+       "h": "："
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "强调",
-       "py": "qiángdiào",
-       "gl": "emphasize; stress",
-       "pos": "v."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "使用",
-       "py": "shǐyòng",
+       "h": "用",
+       "py": "yòng",
        "gl": "use",
        "pos": "v."
       },
       {
-       "h": "含氟牙膏",
-       "py": "hánfúyágāo",
-       "gl": "fluoride toothpaste",
+       "h": "含氟",
+       "py": "hán fú",
+       "gl": "fluoride",
+       "pos": "adj."
+      },
+      {
+       "h": "牙膏",
+       "py": "yágāo",
+       "gl": "toothpaste",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and brush for a full two or three minutes each time, not just a few quick strokes and done.",
-     "words": [
+      },
       {
-       "h": "每次",
-       "py": "měicì",
-       "gl": "every time",
-       "pos": "n."
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
       },
       {
        "h": "刷",
@@ -4108,48 +2620,146 @@
        "pos": "measure word"
       },
       {
-       "h": "，"
-      },
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the way home Xiaoyu announced that he would be a dentist when he grew up.",
+   "phrases": [
+    {
+     "en": "On the way home Xiaoyu announced that he would be a dentist when he grew up.",
+     "words": [
       {
-       "h": "而不是",
-       "py": "érbúshì",
-       "gl": "rather than; instead of",
-       "pos": "conj."
-      },
-      {
-       "h": "随便",
-       "py": "suíbiàn",
-       "gl": "casually; carelessly; at random",
-       "pos": "adv."
-      },
-      {
-       "h": "刷",
-       "py": "shuā",
-       "gl": "scroll (a feed); swipe (a card); fake (reviews, ratings)",
+       "h": "回家",
+       "py": "huíjiā",
+       "gl": "go home; come home",
        "pos": "v."
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "下",
-       "py": "xià",
-       "gl": "measure word for actions (a few times; a bit)",
-       "pos": "measure word"
+       "h": "路上",
+       "py": "lùshàng",
+       "gl": "on the way; on the road",
+       "pos": "n."
       },
       {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
+       "h": "，"
+      },
+      {
+       "h": "小宇",
+       "py": "Xiǎo Yǔ",
+       "gl": "Xiao Yu (name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "宣布",
+       "py": "xuānbù",
+       "gl": "announce; declare",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "长大",
+       "py": "zhǎngdà",
+       "gl": "grow up",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "当",
+       "py": "dāng",
+       "gl": "when (当…时)",
+       "pos": "conj."
+      },
+      {
+       "h": "牙医",
+       "py": "yáyī",
+       "gl": "dentist",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Aren't you afraid of the drill?\" I asked.",
+   "phrases": [
+    {
+     "en": "\"Aren't you afraid of the drill?\" I asked.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
        "pos": "adv."
       },
       {
-       "h": "结束",
-       "py": "jiéshù",
-       "gl": "finish; end",
+       "h": "怕",
+       "py": "pà",
+       "gl": "be afraid; fear; worry",
+       "pos": "v."
+      },
+      {
+       "h": "电钻",
+       "py": "diànzuàn",
+       "gl": "dental drill",
+       "pos": "n."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
        "pos": "v."
       },
       {
@@ -4160,34 +2770,164 @@
    ]
   },
   {
-   "en": "She also suggested that we check every evening whether he'd brushed properly, and gradually help him form the habit of getting regular checkups on his own.",
+   "en": "He thought about it. \"I am. But if I'm the one holding the drill, I won't be.\"",
    "phrases": [
     {
-     "en": "She also suggested that we check every evening whether he'd brushed properly,",
+     "en": "He thought about it. \"I am. But if I'm the one holding the drill, I won't be.\"",
      "words": [
       {
-       "h": "她",
+       "h": "他",
        "py": "tā",
-       "gl": "she; her",
+       "gl": "he; him",
        "pos": "pron."
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "建议",
-       "py": "jiànyì",
-       "gl": "suggest; advise; suggestion",
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
        "pos": "v."
       },
       {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "怕",
+       "py": "pà",
+       "gl": "be afraid; fear; worry",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "要是",
+       "py": "yàoshì",
+       "gl": "if",
+       "pos": "conj."
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "电钻",
+       "py": "diànzuàn",
+       "gl": "dental drill",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
        "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "怕",
+       "py": "pà",
+       "gl": "be afraid; fear; worry",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Since then, every night the two of us stand at the sink brushing our teeth, and he sets a two-minute timer on my phone.",
+   "phrases": [
+    {
+     "en": "Since then, every night the two of us stand at the sink brushing our teeth,",
+     "words": [
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
       },
       {
        "h": "每天",
@@ -4202,34 +2942,46 @@
        "pos": "n."
       },
       {
-       "h": "检查",
-       "py": "jiǎnchá",
-       "gl": "check; inspect",
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "俩",
+       "py": "liǎ",
+       "gl": "two; both (of us/them)",
+       "pos": "num."
+      },
+      {
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
+      },
+      {
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
        "pos": "v."
       },
       {
-       "h": "一下",
-       "py": "yīxià",
-       "gl": "a bit; once (softens the verb: take a look)",
-       "pos": "particle"
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
-       "h": "孩子",
-       "py": "háizi",
-       "gl": "child",
+       "h": "洗手池",
+       "py": "xǐshǒuchí",
+       "gl": "washbasin",
        "pos": "n."
       },
       {
-       "h": "有没有",
-       "py": "yǒuméiyǒu",
-       "gl": "whether there is (or not)",
-       "pos": "v."
-      },
-      {
-       "h": "认真",
-       "py": "rènzhēn",
-       "gl": "serious; conscientious; carefully",
-       "pos": "adj."
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
       },
       {
        "h": "刷牙",
@@ -4243,26 +2995,8 @@
      ]
     },
     {
-     "en": "and gradually help him form the habit of getting regular checkups on his own.",
+     "en": "and he sets a two-minute timer on my phone.",
      "words": [
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "and; also; moreover",
-       "pos": "conj."
-      },
-      {
-       "h": "逐渐",
-       "py": "zhújiàn",
-       "gl": "gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "培养",
-       "py": "péiyǎng",
-       "gl": "cultivate; foster; train",
-       "pos": "v."
-      },
       {
        "h": "他",
        "py": "tā",
@@ -4270,191 +3004,10 @@
        "pos": "pron."
       },
       {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "定期",
-       "py": "dìngqī",
-       "gl": "regularly; periodically",
-       "pos": "adv."
-      },
-      {
-       "h": "复查",
-       "py": "fùchá",
-       "gl": "follow-up checkup; re-examine",
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
        "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "habit",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "On the way home, he said excitedly that when he grew up he wanted to be like the dentist and help other people take care of their teeth.",
-   "phrases": [
-    {
-     "en": "On the way home, he said excitedly that when he grew up he wanted to be like the dentist",
-     "words": [
-      {
-       "h": "回去",
-       "py": "huíqù",
-       "gl": "go back",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "路上",
-       "py": "lùshàng",
-       "gl": "on the way; on the road",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "孩子",
-       "py": "háizi",
-       "gl": "child",
-       "pos": "n."
-      },
-      {
-       "h": "兴奋地",
-       "py": "xīngfènde",
-       "gl": "excitedly",
-       "pos": "adv."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later; in the future",
-       "pos": "postposition"
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "也要",
-       "py": "yěyào",
-       "gl": "also want to; also have to",
-       "pos": "phrase"
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like",
-       "pos": "v."
-      },
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "一样",
-       "py": "yīyàng",
-       "gl": "same; alike",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and help other people take care of their teeth.",
-     "words": [
-      {
-       "h": "帮助",
-       "py": "bāngzhù",
-       "gl": "help; assist",
-       "pos": "v."
-      },
-      {
-       "h": "别人",
-       "py": "biérén",
-       "gl": "other people; others",
-       "pos": "n."
-      },
-      {
-       "h": "保护",
-       "py": "bǎohù",
-       "gl": "protect; protection",
-       "pos": "v."
-      },
-      {
-       "h": "牙齿",
-       "py": "yáchǐ",
-       "gl": "tooth",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Hearing that, it suddenly struck me that this trip to the dentist had changed things even more than I'd imagined.",
-   "phrases": [
-    {
-     "en": "Hearing that, it suddenly struck me that the changes brought by this trip to the dentist",
-     "words": [
-      {
-       "h": "听",
-       "py": "tīng",
-       "gl": "listen; hear",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; up to (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "这句话",
-       "py": "zhèjùhuà",
-       "gl": "this sentence; these words",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
       },
       {
        "h": "我",
@@ -4463,444 +3016,128 @@
        "pos": "pron."
       },
       {
-       "h": "忽然",
-       "py": "hūrán",
-       "gl": "suddenly",
-       "pos": "adv."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "看牙",
-       "py": "kànyá",
-       "gl": "see a dentist",
-       "pos": "v."
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
-       "pos": "n."
-      },
-      {
-       "h": "带来",
-       "py": "dàilái",
-       "gl": "bring; bring about",
-       "pos": "v."
-      },
-      {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "改变",
-       "py": "gǎibiàn",
-       "gl": "change; transform",
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "定",
+       "py": "dìng",
+       "gl": "set; fix (a time)",
        "pos": "v."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "were even bigger than I'd imagined.",
-     "words": [
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
       },
       {
-       "h": "想象",
-       "py": "xiǎngxiàng",
-       "gl": "imagine",
-       "pos": "v."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "还要",
-       "py": "háiyào",
-       "gl": "even more (than)",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Registration fees at a community hospital's dental department are a lot cheaper than at private clinics, but equipment and dentists are limited, and complicated cases often have to be referred to a big hospital.",
-   "phrases": [
-    {
-     "en": "Registration fees at a community hospital's dental department are a lot cheaper than at private clinics,",
-     "words": [
-      {
-       "h": "社区",
-       "py": "shèqū",
-       "gl": "community; neighborhood",
-       "pos": "n."
-      },
-      {
-       "h": "医院",
-       "py": "yīyuàn",
-       "gl": "hospital",
-       "pos": "n."
-      },
-      {
-       "h": "口腔科",
-       "py": "kǒuqiāngkē",
-       "gl": "dental department",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "挂号费",
-       "py": "guàhàofèi",
-       "gl": "registration fee (at a hospital)",
-       "pos": "n."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "私立",
-       "py": "sīlì",
-       "gl": "private (school, clinic)",
-       "pos": "adj."
-      },
-      {
-       "h": "诊所",
-       "py": "zhěnsuǒ",
-       "gl": "clinic",
-       "pos": "n."
-      },
-      {
-       "h": "便宜",
-       "py": "piányi",
-       "gl": "cheap; inexpensive",
-       "pos": "adj."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but equipment and dentists are limited, and complicated cases often have to be referred to a big hospital.",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "设备",
-       "py": "shèbèi",
-       "gl": "equipment; device",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "数量",
-       "py": "shùliàng",
-       "gl": "quantity; number",
-       "pos": "n."
-      },
-      {
-       "h": "有限",
-       "py": "yǒuxiàn",
-       "gl": "limited",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "遇到",
-       "py": "yùdào",
-       "gl": "encounter; come across; run into",
-       "pos": "v."
-      },
-      {
-       "h": "复杂",
-       "py": "fùzá",
-       "gl": "complicated; complex",
-       "pos": "adj."
-      },
-      {
-       "h": "情况",
-       "py": "qíngkuàng",
-       "gl": "situation; circumstances",
-       "pos": "n."
-      },
-      {
-       "h": "往往",
-       "py": "wǎngwǎng",
-       "gl": "often; usually; tend to",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require",
-       "pos": "v."
-      },
-      {
-       "h": "转诊",
-       "py": "zhuǎnzhěn",
-       "gl": "refer (a patient) to another hospital",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; up to (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "医院",
-       "py": "yīyuàn",
-       "gl": "hospital",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "By contrast, private dental clinics are easy to book and comfortable, but they generally charge more: a single cleaning or filling often costs several times what it would at a public hospital.",
-   "phrases": [
-    {
-     "en": "By contrast, private dental clinics are easy to book and comfortable,",
-     "words": [
-      {
-       "h": "相比之下",
-       "py": "xiāngbǐzhīxià",
-       "gl": "by comparison; in contrast",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "私立",
-       "py": "sīlì",
-       "gl": "private (school, clinic)",
-       "pos": "adj."
-      },
-      {
-       "h": "口腔",
-       "py": "kǒuqiāng",
-       "gl": "oral cavity; mouth (口腔诊所 dental clinic)",
-       "pos": "n."
-      },
-      {
-       "h": "诊所",
-       "py": "zhěnsuǒ",
-       "gl": "clinic",
-       "pos": "n."
-      },
-      {
-       "h": "预约",
-       "py": "yùyuē",
-       "gl": "make an appointment; book in advance",
-       "pos": "v."
-      },
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "adj."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "环境",
-       "py": "huánjìng",
-       "gl": "environment; surroundings",
-       "pos": "n."
-      },
-      {
-       "h": "舒适",
-       "py": "shūshì",
-       "gl": "comfortable",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but they generally charge more: a single cleaning or filling often costs several times what it would at a public hospital.",
-     "words": [
-      {
-       "h": "不过",
-       "py": "bùguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "收费",
-       "py": "shōufèi",
-       "gl": "charge (a fee)",
-       "pos": "v."
-      },
-      {
-       "h": "普遍",
-       "py": "pǔbiàn",
-       "gl": "widely; generally; common",
-       "pos": "adv."
-      },
-      {
-       "h": "更高",
-       "py": "gènggāo",
-       "gl": "higher",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一次",
-       "py": "yīcì",
-       "gl": "once; in one go; at the first attempt",
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
        "pos": "measure word"
       },
       {
-       "h": "洗牙",
-       "py": "xǐyá",
-       "gl": "teeth cleaning (at the dentist)",
-       "pos": "v."
-      },
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The moment it goes off, he calls out solemnly, \"You may spit!\"",
+   "phrases": [
+    {
+     "en": "The moment it goes off, he calls out solemnly, \"You may spit!\"",
+     "words": [
       {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "补牙",
-       "py": "bǔyá",
-       "gl": "fill a tooth; get a filling",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "费用",
-       "py": "fèiyòng",
-       "gl": "cost; expenses",
+       "h": "闹钟",
+       "py": "nàozhōng",
+       "gl": "alarm clock, timer",
        "pos": "n."
       },
       {
-       "h": "常常",
-       "py": "chángcháng",
-       "gl": "often",
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "响",
+       "py": "xiǎng",
+       "gl": "ring; make a sound",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "公立",
-       "py": "gōnglì",
-       "gl": "public (state-run)",
+       "h": "郑重",
+       "py": "zhèngzhòng",
+       "gl": "solemn, serious",
        "pos": "adj."
       },
       {
-       "h": "医院",
-       "py": "yīyuàn",
-       "gl": "hospital",
-       "pos": "n."
-      },
-      {
-       "h": "的",
+       "h": "地",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
        "pos": "particle"
       },
       {
-       "h": "数倍",
-       "py": "shùbèi",
-       "gl": "several times (as much)",
-       "pos": "n."
+       "h": "喊",
+       "py": "hǎn",
+       "gl": "shout; call out",
+       "pos": "v."
       },
       {
-       "h": "。"
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may",
+       "pos": "v."
+      },
+      {
+       "h": "吐",
+       "py": "tǔ",
+       "gl": "to spit out",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "！"
+      },
+      {
+       "h": "”"
       }
      ]
     }

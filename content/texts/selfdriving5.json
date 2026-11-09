@@ -1,50 +1,230 @@
 {
  "id": "selfdriving5",
  "level": 5,
- "title_zh": "无人驾驶的时代",
- "title_en": "The Age of Driverless Cars",
+ "title_zh": "后座上的老胡",
+ "title_en": "Lao Hu in the Back Seat",
  "free": false,
  "audio_url": null,
- "note_en": "Look at 证明它比人类司机更可靠 \"prove it is more reliable than human drivers\": the pattern is A 比 B + adjective. The adjective never changes form, so there's no \"-er\" or \"more\" built into it; 比 does the comparing, and 更 \"even more\" is optional. Note too that there's no \"is\": 它比人类司机更可靠, not 它是比....",
+ "note_en": "Comparison uses the pattern A + 比 + B + (更) + adjective: 它比我更守规矩 \"it follows the rules better than I do.\" The adjective itself doesn't change form (English adds -er or \"more\"), and 更 just stresses the difference. The negative uses 没有: 它没有我熟悉这座城市 \"it doesn't know this city as well as I do\" (literally \"doesn't have my familiarity\").",
  "sentences": [
   {
-   "en": "Self-driving cars, often called \"driverless cars,\" are moving from science fiction into reality.",
+   "en": "Lao Hu had driven a taxi in Wuhan for twenty years; he could drive every bus street in the city with his eyes shut.",
    "phrases": [
     {
-     "en": "Self-driving cars, often called \"driverless cars,\"",
+     "en": "Lao Hu had driven a taxi in Wuhan for twenty years;",
      "words": [
       {
-       "h": "自动驾驶",
-       "py": "zìdòngjiàshǐ",
-       "gl": "self-driving; autonomous driving",
+       "h": "老胡",
+       "py": "Lǎo Hú",
+       "gl": "Lao Hu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "武汉",
+       "py": "Wǔhàn",
+       "gl": "Wuhan",
+       "pos": "proper noun"
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; turn on; drive; start (a business); prescribe; hold (a meeting)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "二十",
+       "py": "èrshí",
+       "gl": "twenty",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "出租车",
+       "py": "chūzūchē",
+       "gl": "taxi",
        "pos": "n."
       },
       {
-       "h": "汽车",
-       "py": "qìchē",
-       "gl": "car; motor vehicle",
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "he could drive every bus street in the city with his eyes shut.",
+     "words": [
+      {
+       "h": "城",
+       "py": "chéng",
+       "gl": "city; town",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "公交",
+       "py": "gōngjiāo",
+       "gl": "bus; public transport",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "街",
+       "py": "jiē",
+       "gl": "street",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "也就是",
-       "py": "yějiùshì",
-       "gl": "that is; namely",
-       "pos": "conj."
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
-       "h": "人们",
-       "py": "rénmen",
-       "gl": "people",
+       "h": "闭着",
+       "py": "bìzhe",
+       "gl": "with (eyes) closed",
+       "pos": "v."
+      },
+      {
+       "h": "眼睛",
+       "py": "yǎnjīng",
+       "gl": "eye; eyes",
        "pos": "n."
       },
       {
-       "h": "常",
-       "py": "cháng",
-       "gl": "often",
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
        "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; start (a business)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "This spring everyone in the drivers' group chat was talking about the same thing: Apollo Go.",
+   "phrases": [
+    {
+     "en": "This spring everyone in the drivers' group chat was talking about the same thing: Apollo Go.",
+     "words": [
+      {
+       "h": "今年",
+       "py": "jīnnián",
+       "gl": "this year",
+       "pos": "n."
+      },
+      {
+       "h": "春天",
+       "py": "chūntiān",
+       "gl": "spring (season)",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "司机",
+       "py": "sījī",
+       "gl": "driver",
+       "pos": "n."
+      },
+      {
+       "h": "群",
+       "py": "qún",
+       "gl": "group chat; group",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "大家",
+       "py": "dàjiā",
+       "gl": "everyone; everybody",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
        "h": "说",
@@ -53,13 +233,136 @@
        "pos": "v."
       },
       {
+       "h": "同",
+       "py": "tóng",
+       "gl": "same; alike",
+       "pos": "adj."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "件",
+       "py": "jiàn",
+       "gl": "measure word for clothing, matters, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "萝卜快跑",
+       "py": "Luóbo Kuàipǎo",
+       "gl": "Apollo Go (Baidu's robotaxi)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Wuhan is one of the cities with the most Apollo Go cars, and driverless cars in Beijing and other places have also started carrying paying passengers.",
+   "phrases": [
+    {
+     "en": "Wuhan is one of the cities with the most Apollo Go cars,",
+     "words": [
+      {
+       "h": "武汉",
+       "py": "Wǔhàn",
+       "gl": "Wuhan",
+       "pos": "proper noun"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "萝卜快跑",
+       "py": "Luóbo Kuàipǎo",
+       "gl": "Apollo Go (Baidu's robotaxi)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "车",
+       "py": "chē",
+       "gl": "car; vehicle; bus",
+       "pos": "n."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "more (than)",
+       "pos": "adv."
+      },
+      {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "“"
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "之一",
+       "py": "zhīyī",
+       "gl": "one of (最…之一 'one of the most …')",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and driverless cars in Beijing and other places have also started carrying paying passengers.",
+     "words": [
+      {
+       "h": "北京",
+       "py": "běijīng",
+       "gl": "Beijing",
+       "pos": "proper noun"
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "conj."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "无人车",
@@ -68,44 +371,195 @@
        "pos": "n."
       },
       {
-       "h": "”"
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
       },
       {
-       "h": "，"
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
+       "pos": "v."
+      },
+      {
+       "h": "收费",
+       "py": "shōufèi",
+       "gl": "charge (a fee)",
+       "pos": "v."
+      },
+      {
+       "h": "载客",
+       "py": "zàikè",
+       "gl": "carry passengers",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Someone in the group wrote, \"We're about to be replaced.\" The chat went quiet for a whole evening.",
+   "phrases": [
+    {
+     "en": "Someone in the group wrote, \"We're about to be replaced.\"",
+     "words": [
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "群",
+       "py": "qún",
+       "gl": "group chat; group",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick; almost; nearly",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "换",
+       "py": "huàn",
+       "gl": "change; switch; exchange",
+       "pos": "v."
+      },
+      {
+       "h": "掉",
+       "py": "diào",
+       "gl": "(complement: away, off)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     },
     {
-     "en": "are moving from science fiction into reality.",
+     "en": "The chat went quiet for a whole evening.",
      "words": [
       {
-       "h": "正在",
-       "py": "zhèngzài",
-       "gl": "be in the middle of (doing)",
-       "pos": "adv."
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "科幻",
-       "py": "kēhuàn",
-       "gl": "science fiction",
+       "h": "群",
+       "py": "qún",
+       "gl": "group chat; group",
        "pos": "n."
       },
       {
-       "h": "走进",
-       "py": "zǒujìn",
-       "gl": "enter; walk into",
-       "pos": "v."
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
-       "h": "现实",
-       "py": "xiànshí",
-       "gl": "reality; realistic",
+       "h": "一下子",
+       "py": "yīxiàzi",
+       "gl": "all at once; suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "安静",
+       "py": "ānjìng",
+       "gl": "quiet; calm",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
        "pos": "n."
       },
       {
@@ -116,27 +570,616 @@
    ]
   },
   {
-   "en": "These cars use cameras, radar, and laser sensors to collect information about their surroundings in real time, and then an AI system makes judgments and decides when to speed up, brake, or turn.",
+   "en": "On Sunday Lao Hu secretly hailed a driverless car on his phone, wanting to get a close look at this \"rival.\"",
    "phrases": [
     {
-     "en": "These cars use cameras, radar, and laser sensors to collect information about their surroundings in real time,",
+     "en": "On Sunday Lao Hu secretly hailed a driverless car on his phone,",
      "words": [
       {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "汽车",
-       "py": "qìchē",
-       "gl": "car; motor vehicle",
+       "h": "星期天",
+       "py": "xīngqītiān",
+       "gl": "Sunday",
        "pos": "n."
       },
       {
-       "h": "依靠",
-       "py": "yīkào",
-       "gl": "rely on; depend on",
+       "h": "，"
+      },
+      {
+       "h": "老胡",
+       "py": "Lǎo Hú",
+       "gl": "Lao Hu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "偷偷",
+       "py": "tōutōu",
+       "gl": "secretly; on the sly",
+       "pos": "adv."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "辆",
+       "py": "liàng",
+       "gl": "measure word for vehicles",
+       "pos": "measure word"
+      },
+      {
+       "h": "无人车",
+       "py": "wúrénchē",
+       "gl": "driverless car",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "wanting to get a close look at this \"rival.\"",
+     "words": [
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "近",
+       "py": "jìn",
+       "gl": "near; close; nearly; almost; close to",
+       "pos": "adj."
+      },
+      {
+       "h": "距离",
+       "py": "jùlí",
+       "gl": "distance",
+       "pos": "n."
+      },
+      {
+       "h": "看看",
+       "py": "kànkàn",
+       "gl": "have a look; take a look",
+       "pos": "v."
+      },
+      {
+       "h": "这个",
+       "py": "zhège",
+       "gl": "this; this one",
+       "pos": "pron."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "对手",
+       "py": "duìshǒu",
+       "gl": "opponent; rival",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The car pulled up and the door opened by itself; there was no one in the driver's seat, and the steering wheel turned slowly on its own.",
+   "phrases": [
+    {
+     "en": "The car pulled up and the door opened by itself; there was no one in the driver's seat,",
+     "words": [
+      {
+       "h": "车",
+       "py": "chē",
+       "gl": "car; vehicle; bus",
+       "pos": "n."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "to drive up",
+       "pos": "v."
+      },
+      {
+       "h": "过来",
+       "py": "guòlái",
+       "gl": "come over; (after a verb) toward the speaker",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "门",
+       "py": "mén",
+       "gl": "door",
+       "pos": "n."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "驾驶座",
+       "py": "jiàshǐzuò",
+       "gl": "driver's seat",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and the steering wheel turned slowly on its own.",
+     "words": [
+      {
+       "h": "方向盘",
+       "py": "fāngxiàngpán",
+       "gl": "steering wheel",
+       "pos": "n."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "慢慢",
+       "py": "mànmàn",
+       "gl": "slowly; gradually",
+       "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "转着",
+       "py": "zhuànzhe",
+       "gl": "to spin",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lao Hu sat in the back, and his foot instinctively felt for the brake, finding nothing.",
+   "phrases": [
+    {
+     "en": "Lao Hu sat in the back,",
+     "words": [
+      {
+       "h": "老胡",
+       "py": "Lǎo Hú",
+       "gl": "Lao Hu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "后座",
+       "py": "hòuzuò",
+       "gl": "back seat",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and his foot instinctively felt for the brake, finding nothing.",
+     "words": [
+      {
+       "h": "脚",
+       "py": "jiǎo",
+       "gl": "foot",
+       "pos": "n."
+      },
+      {
+       "h": "下意识",
+       "py": "xiàyìshí",
+       "gl": "subconsciously; instinctively",
+       "pos": "adj."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "找",
+       "py": "zhǎo",
+       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
+       "pos": "v."
+      },
+      {
+       "h": "刹车",
+       "py": "shāchē",
+       "gl": "brake",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "踩",
+       "py": "cǎi",
+       "gl": "step on; tread",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "空",
+       "py": "kōng",
+       "gl": "free (time) (有空 have free time); empty",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The car drove slowly and steadily, always stopping at yellow lights and slowing down at every zebra crossing.",
+   "phrases": [
+    {
+     "en": "The car drove slowly and steadily,",
+     "words": [
+      {
+       "h": "车",
+       "py": "chē",
+       "gl": "car; vehicle; bus",
+       "pos": "n."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; turn on; drive; start (a business); prescribe; hold (a meeting)",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "稳",
+       "py": "wěn",
+       "gl": "steady; stable",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "always stopping at yellow lights and slowing down at every zebra crossing.",
+     "words": [
+      {
+       "h": "黄灯",
+       "py": "huángdēng",
+       "gl": "yellow light",
+       "pos": "n."
+      },
+      {
+       "h": "一定",
+       "py": "yídìng",
+       "gl": "definitely; surely; must",
+       "pos": "adv."
+      },
+      {
+       "h": "停",
+       "py": "tíng",
+       "gl": "stop; park",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "斑马线",
+       "py": "bānmǎxiàn",
+       "gl": "zebra crossing",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "减速",
+       "py": "jiǎnsù",
+       "gl": "slow down; decelerate",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"It follows the rules better than I do,\" he said under his breath.",
+   "phrases": [
+    {
+     "en": "\"It follows the rules better than I do,\" he said under his breath.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "守",
+       "py": "shǒu",
+       "gl": "guard; keep watch; wait by",
+       "pos": "v."
+      },
+      {
+       "h": "规矩",
+       "py": "guījǔ",
+       "gl": "rule; custom",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "小声",
+       "py": "xiǎoshēng",
+       "gl": "in a low voice; quietly",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He knew there were cameras, radar, and laser sensors on the roof, and that AI decided when to speed up, brake, and turn.",
+   "phrases": [
+    {
+     "en": "He knew there were cameras, radar, and laser sensors on the roof,",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know; find out; learn",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "车",
+       "py": "chē",
+       "gl": "car; vehicle; bus",
+       "pos": "n."
+      },
+      {
+       "h": "顶",
+       "py": "dǐng",
+       "gl": "top; roof",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
@@ -173,59 +1216,17 @@
        "pos": "n."
       },
       {
-       "h": "实时",
-       "py": "shíshí",
-       "gl": "real-time",
-       "pos": "adv."
-      },
-      {
-       "h": "收集",
-       "py": "shōují",
-       "gl": "collect; gather",
-       "pos": "v."
-      },
-      {
-       "h": "周围",
-       "py": "zhōuwéi",
-       "gl": "surroundings; around",
-       "pos": "n."
-      },
-      {
-       "h": "环境",
-       "py": "huánjìng",
-       "gl": "environment; conditions",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "信息",
-       "py": "xìnxī",
-       "gl": "information",
-       "pos": "n."
-      },
-      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "and then an AI system makes judgments and decides when to speed up, brake, or turn.",
+     "en": "and that AI decided when to speed up, brake, and turn.",
      "words": [
       {
-       "h": "再",
-       "py": "zài",
-       "gl": "then; after that",
-       "pos": "adv."
-      },
-      {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
+       "h": "由",
+       "py": "yóu",
+       "gl": "by (marks the agent)",
        "pos": "prep."
       },
       {
@@ -235,37 +1236,22 @@
        "pos": "n."
       },
       {
-       "h": "系统",
-       "py": "xìtǒng",
-       "gl": "system",
-       "pos": "n."
-      },
-      {
-       "h": "做出",
-       "py": "zuòchū",
-       "gl": "make; produce; come up with",
-       "pos": "v."
-      },
-      {
-       "h": "判断",
-       "py": "pànduàn",
-       "gl": "judge; determine; judgment",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
        "h": "决定",
        "py": "juédìng",
        "gl": "decide; decision",
        "pos": "v."
       },
       {
-       "h": "什么时候",
-       "py": "shénmeshíhou",
-       "gl": "when",
-       "pos": "question word"
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
       },
       {
        "h": "加速",
@@ -283,10 +1269,7 @@
        "pos": "v."
       },
       {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
+       "h": "、"
       },
       {
        "h": "转弯",
@@ -302,474 +1285,72 @@
    ]
   },
   {
-   "en": "At the moment, quite a few cities already allow self-driving taxis to run road tests in designated areas, and passengers just need to call one on their phone to get a taste of a ride with \"no driver.\"",
+   "en": "At one intersection a cat suddenly ran across the road, and the car stopped gently and waited for it to pass.",
    "phrases": [
     {
-     "en": "At the moment, quite a few cities already allow self-driving taxis to run road tests in designated areas,",
+     "en": "At one intersection a cat suddenly ran across the road,",
      "words": [
       {
-       "h": "目前",
-       "py": "mùqián",
-       "gl": "currently; at present",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "允许",
-       "py": "yǔnxǔ",
-       "gl": "allow; permit",
-       "pos": "v."
-      },
-      {
-       "h": "自动驾驶",
-       "py": "zìdòngjiàshǐ",
-       "gl": "self-driving; autonomous driving",
-       "pos": "adj."
-      },
-      {
-       "h": "出租车",
-       "py": "chūzūchē",
-       "gl": "taxi",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
        "pos": "prep."
       },
       {
-       "h": "特定",
-       "py": "tèdìng",
-       "gl": "specific; particular",
-       "pos": "adj."
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
       },
       {
-       "h": "区域",
-       "py": "qūyù",
-       "gl": "area; region; zone",
-       "pos": "n."
-      },
-      {
-       "h": "内",
-       "py": "nèi",
-       "gl": "within; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "上路",
-       "py": "shànglù",
-       "gl": "set out; take to the road",
-       "pos": "v."
-      },
-      {
-       "h": "测试",
-       "py": "cèshì",
-       "gl": "test; test; trial",
+       "h": "路口",
+       "py": "lùkǒu",
+       "gl": "intersection",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and passengers just need to call one on their phone to get a taste of a ride with \"no driver.\"",
-     "words": [
+      },
       {
-       "h": "乘客",
-       "py": "chéngkè",
-       "gl": "passenger",
-       "pos": "n."
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
       },
       {
        "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "需",
-       "py": "xū",
-       "gl": "need; require",
-       "pos": "v."
-      },
-      {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "叫车",
-       "py": "jiàochē",
-       "gl": "call a car; hail a ride",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "体验",
-       "py": "tǐyàn",
-       "gl": "experience; try out",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "无人驾驶",
-       "py": "wúrénjiàshǐ",
-       "gl": "driverless; self-driving",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "感觉",
-       "py": "gǎnjué",
-       "gl": "feeling; sense; feel",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Surveys show, however, that many people are still skeptical about the technology: they worry that the system won't react quickly enough in an emergency, and that if there's an accident it will be hard to say who is responsible.",
-   "phrases": [
-    {
-     "en": "Surveys show, however, that many people are still skeptical about the technology:",
-     "words": [
-      {
-       "h": "不过",
-       "py": "búguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "调查",
-       "py": "diàochá",
-       "gl": "survey; investigation",
-       "pos": "n."
-      },
-      {
-       "h": "显示",
-       "py": "xiǎnshì",
-       "gl": "show; indicate",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "项",
-       "py": "xiàng",
-       "gl": "measure word for items, tasks, services",
+       "py": "zhī",
+       "gl": "(measure word for animals, one of a pair)",
        "pos": "measure word"
       },
       {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
+       "h": "猫",
+       "py": "māo",
+       "gl": "cat",
        "pos": "n."
       },
       {
-       "h": "仍然",
-       "py": "réngrán",
-       "gl": "still; as before",
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
        "pos": "adv."
       },
       {
-       "h": "半信半疑",
-       "py": "bànxìnbànyí",
-       "gl": "half-believing, half-doubting (idiom)",
-       "pos": "phrase"
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "they worry that the system won't react quickly enough in an emergency, and that if there's an accident it will be hard to say who is responsible.",
-     "words": [
-      {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
-       "pos": "pron."
-      },
-      {
-       "h": "担心",
-       "py": "dānxīn",
-       "gl": "worry",
+       "h": "跑",
+       "py": "pǎo",
+       "gl": "run",
        "pos": "v."
       },
       {
-       "h": "系统",
-       "py": "xìtǒng",
-       "gl": "system",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "particle: action in progress (他在吃 'he is eating')",
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
        "pos": "function word"
       },
       {
-       "h": "遇到",
-       "py": "yùdào",
-       "gl": "encounter; come across; run into",
-       "pos": "v."
-      },
-      {
-       "h": "突发",
-       "py": "tūfā",
-       "gl": "sudden; unexpected",
-       "pos": "adj."
-      },
-      {
-       "h": "情况",
-       "py": "qíngkuàng",
-       "gl": "situation; circumstances",
-       "pos": "n."
-      },
-      {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; time",
-       "pos": "conj."
-      },
-      {
-       "h": "反应",
-       "py": "fǎnyìng",
-       "gl": "reaction; response; react",
-       "pos": "n."
-      },
-      {
-       "h": "不够",
-       "py": "bùgòu",
-       "gl": "not enough; be short of",
-       "pos": "adv."
-      },
-      {
-       "h": "及时",
-       "py": "jíshí",
-       "gl": "in time; promptly",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "担心",
-       "py": "dānxīn",
-       "gl": "worry",
-       "pos": "v."
-      },
-      {
-       "h": "一旦",
-       "py": "yídàn",
-       "gl": "once; in case; as soon as",
-       "pos": "conj."
-      },
-      {
-       "h": "发生",
-       "py": "fāshēng",
-       "gl": "happen; occur",
-       "pos": "v."
-      },
-      {
-       "h": "事故",
-       "py": "shìgù",
-       "gl": "accident",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "责任",
-       "py": "zérèn",
-       "gl": "responsibility; duty",
-       "pos": "n."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "难",
-       "py": "nán",
-       "gl": "difficult; hard",
-       "pos": "adj."
-      },
-      {
-       "h": "分清",
-       "py": "fēnqīng",
-       "gl": "distinguish; tell apart",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Industry insiders believe that to make the public truly trust self-driving cars, it's not enough to keep improving safety; they also need large amounts of real test data to prove the cars are more reliable than human drivers.",
-   "phrases": [
-    {
-     "en": "Industry insiders believe that to make the public truly trust self-driving cars,",
-     "words": [
-      {
-       "h": "业内",
-       "py": "yènèi",
-       "gl": "within the industry; industry",
-       "pos": "n."
-      },
-      {
-       "h": "人士",
-       "py": "rénshì",
-       "gl": "person (formal); figure",
-       "pos": "n."
-      },
-      {
-       "h": "认为",
-       "py": "rènwéi",
-       "gl": "think; believe; consider",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "公众",
-       "py": "gōngzhòng",
-       "gl": "public",
-       "pos": "n."
-      },
-      {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "truly; really",
-       "pos": "adv."
-      },
-      {
-       "h": "信任",
-       "py": "xìnrèn",
-       "gl": "trust",
-       "pos": "v."
-      },
-      {
-       "h": "自动驾驶",
-       "py": "zìdòngjiàshǐ",
-       "gl": "self-driving; autonomous driving",
+       "h": "马路",
+       "py": "mǎlù",
+       "gl": "road; street",
        "pos": "n."
       },
       {
@@ -778,176 +1359,46 @@
      ]
     },
     {
-     "en": "besides constantly improving safety, they need large amounts of real test data to prove the cars are more reliable than human drivers.",
+     "en": "and the car stopped gently and waited for it to pass.",
      "words": [
       {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
+       "h": "车",
+       "py": "chē",
+       "gl": "car; vehicle; bus",
+       "pos": "n."
       },
       {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
+       "h": "轻轻",
+       "py": "qīngqīng",
+       "gl": "gently; lightly; soft; gentle; light",
        "pos": "adv."
       },
       {
-       "h": "提高",
-       "py": "tígāo",
-       "gl": "raise; improve",
-       "pos": "v."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "的",
+       "h": "地",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
        "pos": "particle"
       },
       {
-       "h": "安全性",
-       "py": "ānquánxìng",
-       "gl": "safety; security",
-       "pos": "n."
+       "h": "停",
+       "py": "tíng",
+       "gl": "stop; park",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
+       "pos": "particle"
       },
       {
        "h": "，"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require",
-       "pos": "v."
-      },
-      {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
-      },
-      {
-       "h": "大量",
-       "py": "dàliàng",
-       "gl": "large amount of; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "真实",
-       "py": "zhēnshí",
-       "gl": "true; genuine; real",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "测试",
-       "py": "cèshì",
-       "gl": "test; test; trial",
-       "pos": "n."
-      },
-      {
-       "h": "数据",
-       "py": "shùjù",
-       "gl": "data",
-       "pos": "n."
-      },
-      {
-       "h": "来",
-       "py": "lái",
-       "gl": "(links a method to a purpose) to; in order to",
-       "pos": "function word"
-      },
-      {
-       "h": "证明",
-       "py": "zhèngmíng",
-       "gl": "prove; show",
-       "pos": "v."
-      },
-      {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
-       "pos": "pron."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "人类",
-       "py": "rénlèi",
-       "gl": "humanity; mankind",
-       "pos": "n."
-      },
-      {
-       "h": "司机",
-       "py": "sījī",
-       "gl": "driver",
-       "pos": "n."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "可靠",
-       "py": "kěkào",
-       "gl": "reliable; trustworthy",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Cities such as Beijing and Wuhan now allow driverless taxis to operate commercially, charging fares, in some areas.",
-   "phrases": [
-    {
-     "en": "Cities such as Beijing and Wuhan now allow driverless taxis to operate commercially, charging fares, in some areas.",
-     "words": [
-      {
-       "h": "目前",
-       "py": "mùqián",
-       "gl": "currently; at present",
-       "pos": "adv."
-      },
-      {
-       "h": "北京",
-       "py": "běijīng",
-       "gl": "Beijing",
-       "pos": "proper noun"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "武汉",
-       "py": "wǔhàn",
-       "gl": "Wuhan",
-       "pos": "proper noun"
       },
       {
        "h": "等",
@@ -956,9 +1407,341 @@
        "pos": "particle"
       },
       {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "过去",
+       "py": "guòqu",
+       "gl": "past (complement)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But in the little lane next to the wet market, where vendors had set up their stalls in the middle of the road, the car hesitated and sat still for a long time.",
+   "phrases": [
+    {
+     "en": "But in the little lane next to the wet market,",
+     "words": [
+      {
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "到了",
+       "py": "dàole",
+       "gl": "reach; arrive; when it comes to (time); by (到了清朝 by the Qing dynasty)",
+       "pos": "v."
+      },
+      {
+       "h": "菜市场",
+       "py": "càishìchǎng",
+       "gl": "food market",
+       "pos": "n."
+      },
+      {
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "巷子",
+       "py": "xiàngzi",
+       "gl": "alley; lane",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "where vendors had set up their stalls in the middle of the road, the car hesitated and sat still for a long time.",
+     "words": [
+      {
+       "h": "小贩",
+       "py": "xiǎofàn",
+       "gl": "street vendor",
+       "pos": "n."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "摊子",
+       "py": "tānzi",
+       "gl": "stall; stand",
+       "pos": "n."
+      },
+      {
+       "h": "摆",
+       "py": "bǎi",
+       "gl": "(摆摊) to run a stall",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "路",
+       "py": "lù",
+       "gl": "road; route; (bus) line",
+       "pos": "n."
+      },
+      {
+       "h": "中间",
+       "py": "zhōngjiān",
+       "gl": "middle; in the middle",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "无人车",
+       "py": "wúrénchē",
+       "gl": "driverless car",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "犹豫",
+       "py": "yóuyù",
+       "gl": "hesitate; hesitation",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "停",
+       "py": "tíng",
+       "gl": "stop; park",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "久",
+       "py": "jiǔ",
+       "gl": "long (time); for a long time",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lao Hu laughed. \"It doesn't know this city as well as I do.\"",
+   "phrases": [
+    {
+     "en": "Lao Hu laughed. \"It doesn't know this city as well as I do.\"",
+     "words": [
+      {
+       "h": "老胡",
+       "py": "Lǎo Hú",
+       "gl": "Lao Hu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "熟悉",
+       "py": "shúxī",
+       "gl": "familiar; know well",
+       "pos": "adj."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "座",
+       "py": "zuò",
+       "gl": "measure word for cities, mountains, buildings, bridges",
+       "pos": "measure word"
+      },
+      {
        "h": "城市",
        "py": "chéngshì",
        "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Then a line popped up on the screen: Remote safety operator has taken over. The car slowly edged around the stalls.",
+   "phrases": [
+    {
+     "en": "Then a line popped up on the screen: Remote safety operator has taken over.",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "跳",
+       "py": "tiào",
+       "gl": "jump out",
+       "pos": "v."
+      },
+      {
+       "h": "出",
+       "py": "chū",
+       "gl": "out (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "行",
+       "py": "háng",
+       "gl": "measure word for lines (of text)",
+       "pos": "measure word"
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "远程",
+       "py": "yuǎnchéng",
+       "gl": "remote (远程办公 work remotely)",
+       "pos": "adj."
+      },
+      {
+       "h": "安全员",
+       "py": "ānquányuán",
+       "gl": "safety operator; safety officer",
        "pos": "n."
       },
       {
@@ -968,58 +1751,60 @@
        "pos": "adv."
       },
       {
-       "h": "允许",
-       "py": "yǔnxǔ",
-       "gl": "allow; permit",
+       "h": "接管",
+       "py": "jiēguǎn",
+       "gl": "take over",
        "pos": "v."
       },
       {
-       "h": "无人驾驶",
-       "py": "wúrénjiàshǐ",
-       "gl": "driverless; self-driving",
-       "pos": "phrase"
-      },
+       "h": "。"
+      }
+     ]
+    },
+    {
+     "en": "The car slowly edged around the stalls.",
+     "words": [
       {
-       "h": "出租车",
-       "py": "chūzūchē",
-       "gl": "taxi",
+       "h": "车",
+       "py": "chē",
+       "gl": "car; vehicle; bus",
        "pos": "n."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "部分",
-       "py": "bùfèn",
-       "gl": "part; some; partially",
-       "pos": "adj."
-      },
-      {
-       "h": "区域",
-       "py": "qūyù",
-       "gl": "area; region; zone",
-       "pos": "n."
-      },
-      {
-       "h": "正式",
-       "py": "zhèngshì",
-       "gl": "officially",
+       "h": "慢慢",
+       "py": "mànmàn",
+       "gl": "slowly; gradually",
        "pos": "adv."
       },
       {
-       "h": "收费",
-       "py": "shōufèi",
-       "gl": "charge (a fee)",
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "绕",
+       "py": "rào",
+       "gl": "go around; circle; detour",
        "pos": "v."
       },
       {
-       "h": "运营",
-       "py": "yùnyíng",
-       "gl": "run; operate (business, community)",
-       "pos": "v."
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "摊子",
+       "py": "tānzi",
+       "gl": "stall; stand",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -1029,19 +1814,122 @@
    ]
   },
   {
-   "en": "But this has also worried many ride-hailing drivers, who fear their jobs will be taken over by self-driving technology.",
+   "en": "So, somewhere far away, a person was still keeping an eye on it.",
    "phrases": [
     {
-     "en": "But this has also worried many ride-hailing drivers, who fear their jobs will be taken over by self-driving technology.",
+     "en": "So, somewhere far away, a person was still keeping an eye on it.",
      "words": [
       {
-       "h": "不过",
-       "py": "bùguò",
-       "gl": "but; however",
-       "pos": "conj."
+       "h": "原来",
+       "py": "yuánlái",
+       "gl": "it turns out; so (that's why); originally",
+       "pos": "adv."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "远",
+       "py": "yuǎn",
+       "gl": "far; distant",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "地方",
+       "py": "dìfāng",
+       "gl": "place",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "look at; watching",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening Lao Hu told his son about it. His son worked fixing cars and had just seen ads hiring remote safety operators and maintenance engineers.",
+   "phrases": [
+    {
+     "en": "That evening Lao Hu told his son about it.",
+     "words": [
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "老胡",
+       "py": "Lǎo Hú",
+       "gl": "Lao Hu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
       },
       {
        "h": "这",
@@ -1050,230 +1938,54 @@
        "pos": "pron."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
+       "h": "件",
+       "py": "jiàn",
+       "gl": "measure word for clothing, matters, items",
+       "pos": "measure word"
       },
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "网约车",
-       "py": "wǎngyuēchē",
-       "gl": "ride-hailing car",
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
        "pos": "n."
       },
       {
-       "h": "司机",
-       "py": "sījī",
-       "gl": "driver",
-       "pos": "n."
-      },
-      {
-       "h": "感到",
-       "py": "gǎndào",
-       "gl": "feel",
+       "h": "讲",
+       "py": "jiǎng",
+       "gl": "tell; talk about",
        "pos": "v."
       },
       {
-       "h": "担忧",
-       "py": "dānyōu",
-       "gl": "worry; concern",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "担心",
-       "py": "dānxīn",
-       "gl": "worry",
-       "pos": "v."
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
        "pos": "prep."
       },
       {
-       "h": "自动驾驶",
-       "py": "zìdòngjiàshǐ",
-       "gl": "self-driving; autonomous driving",
+       "h": "儿子",
+       "py": "érzi",
+       "gl": "son",
        "pos": "n."
       },
       {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "取代",
-       "py": "qǔdài",
-       "gl": "replace",
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
        "pos": "v."
       },
       {
        "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In fact, Baidu isn't the only company driving autonomous vehicles forward in China.",
-   "phrases": [
-    {
-     "en": "In fact,",
-     "words": [
-      {
-       "h": "事实上",
-       "py": "shìshíshàng",
-       "gl": "in fact; actually",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
       }
      ]
     },
     {
-     "en": "Baidu isn't the only company driving autonomous vehicles forward in China.",
+     "en": "His son worked fixing cars and had just seen ads hiring remote safety operators and maintenance engineers.",
      "words": [
       {
-       "h": "推动",
-       "py": "tuīdòng",
-       "gl": "promote; push forward; drive",
-       "pos": "v."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "自动驾驶",
-       "py": "zìdòngjiàshǐ",
-       "gl": "self-driving; autonomous driving",
+       "h": "儿子",
+       "py": "érzi",
+       "gl": "son",
        "pos": "n."
-      },
-      {
-       "h": "发展",
-       "py": "fāzhǎn",
-       "gl": "develop; development",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "百度",
-       "py": "bǎidù",
-       "gl": "Baidu",
-       "pos": "proper noun"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "measure word"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Companies like WeRide and Pony.ai also run their own driverless fleets in several cities, including Beijing, Guangzhou, and Shenzhen.",
-   "phrases": [
-    {
-     "en": "Companies like WeRide and Pony.ai also, in several cities including Beijing, Guangzhou, and Shenzhen,",
-     "words": [
-      {
-       "h": "文远知行",
-       "py": "wényuǎnzhīxíng",
-       "gl": "WeRide (company)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "小马智行",
-       "py": "xiǎomǎzhìxíng",
-       "gl": "Pony.ai (company)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "particle"
-      },
-      {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
       },
       {
        "h": "在",
@@ -1282,95 +1994,84 @@
        "pos": "prep."
       },
       {
-       "h": "北京",
-       "py": "běijīng",
-       "gl": "Beijing",
-       "pos": "proper noun"
+       "h": "修",
+       "py": "xiū",
+       "gl": "repair; fix; build",
+       "pos": "v."
       },
       {
-       "h": "、"
-      },
-      {
-       "h": "广州",
-       "py": "guǎngzhōu",
-       "gl": "Guangzhou",
-       "pos": "proper noun"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "深圳",
-       "py": "shēnzhèn",
-       "gl": "Shenzhen",
-       "pos": "proper noun"
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "particle"
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
+       "h": "车",
+       "py": "chē",
+       "gl": "car; vehicle; bus",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "run their own driverless fleets.",
-     "words": [
+      },
       {
-       "h": "运营",
-       "py": "yùnyíng",
-       "gl": "run; operate (business, community)",
+       "h": "正好",
+       "py": "zhènghǎo",
+       "gl": "just right; happen to; exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
        "pos": "v."
       },
       {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
       },
       {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
+       "h": "招聘",
+       "py": "zhāopìn",
+       "gl": "recruit; hire",
+       "pos": "v."
+      },
+      {
+       "h": "远程",
+       "py": "yuǎnchéng",
+       "gl": "remote (远程办公 work remotely)",
+       "pos": "adj."
+      },
+      {
+       "h": "安全员",
+       "py": "ānquányuán",
+       "gl": "safety operator; safety officer",
+       "pos": "n."
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "运维",
+       "py": "yùnwéi",
+       "gl": "operation and maintenance",
+       "pos": "n."
+      },
+      {
+       "h": "工程师",
+       "py": "gōngchéngshī",
+       "gl": "engineer",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "无人驾驶",
-       "py": "wúrénjiàshǐ",
-       "gl": "driverless; self-driving",
-       "pos": "n."
-      },
-      {
-       "h": "车队",
-       "py": "chēduì",
-       "gl": "fleet (of vehicles)",
+       "h": "广告",
+       "py": "guǎnggào",
+       "gl": "advertisement; ad",
        "pos": "n."
       },
       {
@@ -1381,19 +2082,43 @@
    ]
   },
   {
-   "en": "In 2022, Shenzhen passed the country's first local regulations on intelligent connected vehicles, allowing qualifying driverless cars to drive in designated areas with no safety driver on board at all.",
+   "en": "His son said that as early as 2022, Shenzhen passed China's first local regulation on intelligent connected vehicles, allowing some driverless cars to run in designated areas with no safety driver on board.",
    "phrases": [
     {
-     "en": "In 2022, Shenzhen passed the country's first local regulations on intelligent connected vehicles,",
+     "en": "His son said that as early as 2022, Shenzhen passed China's first local regulation on intelligent connected vehicles,",
      "words": [
       {
-       "h": "2022"
+       "h": "儿子",
+       "py": "érzi",
+       "gl": "son",
+       "pos": "n."
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "早",
+       "py": "zǎo",
+       "gl": "early",
+       "pos": "adj."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "二零二二年",
+       "py": "èr líng èr èr nián",
+       "gl": "(the year) 2022",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -1403,6 +2128,12 @@
        "py": "shēnzhèn",
        "gl": "Shenzhen",
        "pos": "proper noun"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
       },
       {
        "h": "出台",
@@ -1420,48 +2151,30 @@
        "h": "全国",
        "py": "quánguó",
        "gl": "the whole country; nationwide",
-       "pos": "adj."
+       "pos": "n."
       },
       {
-       "h": "首",
-       "py": "shǒu",
+       "h": "第一",
+       "py": "dìyī",
        "gl": "first",
-       "pos": "adj."
+       "pos": "num."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
+       "h": "部",
+       "py": "bù",
+       "gl": "measure word for films, novels, machines; department; measure word for laws, regulations",
        "pos": "measure word"
       },
       {
-       "h": "关于",
-       "py": "guānyú",
-       "gl": "about; concerning; regarding",
-       "pos": "prep."
-      },
-      {
-       "h": "智能",
-       "py": "zhìnéng",
-       "gl": "smart (devices); intelligent",
-       "pos": "adj."
-      },
-      {
-       "h": "网联",
-       "py": "wǎnglián",
-       "gl": "internet-connected (智能网联汽车 connected vehicle)",
-       "pos": "adj."
-      },
-      {
-       "h": "汽车",
-       "py": "qìchē",
-       "gl": "car; motor vehicle",
+       "h": "智能网联汽车",
+       "py": "zhìnéng wǎnglián qìchē",
+       "gl": "intelligent connected vehicle",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -1482,7 +2195,7 @@
      ]
     },
     {
-     "en": "allowing qualifying driverless cars to drive in designated areas with no safety driver on board at all.",
+     "en": "allowing some driverless cars to run in designated areas with no safety driver on board.",
      "words": [
       {
        "h": "允许",
@@ -1491,22 +2204,10 @@
        "pos": "v."
       },
       {
-       "h": "符合",
-       "py": "fúhé",
-       "gl": "match; conform to; meet",
-       "pos": "v."
-      },
-      {
-       "h": "条件",
-       "py": "tiáojiàn",
-       "gl": "conditions",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "一些",
+       "py": "yīxiē",
+       "gl": "some; certain",
+       "pos": "pron."
       },
       {
        "h": "无人车",
@@ -1533,671 +2234,6 @@
        "pos": "n."
       },
       {
-       "h": "内",
-       "py": "nèi",
-       "gl": "within; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "配备",
-       "py": "pèibèi",
-       "gl": "be equipped with",
-       "pos": "v."
-      },
-      {
-       "h": "安全员",
-       "py": "ānquányuán",
-       "gl": "safety operator; safety officer",
-       "pos": "n."
-      },
-      {
-       "h": "上路",
-       "py": "shànglù",
-       "gl": "set out; take to the road",
-       "pos": "v."
-      },
-      {
-       "h": "行驶",
-       "py": "xíngshǐ",
-       "gl": "drive; travel (of vehicles)",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Wuhan is one of the cities where Baidu's Apollo Go robotaxi service operates on the largest scale, and by 2024 the service had completed millions of rides.",
-   "phrases": [
-    {
-     "en": "Wuhan is one of the cities where Baidu's Apollo Go robotaxi service operates on the largest scale,",
-     "words": [
-      {
-       "h": "武汉",
-       "py": "wǔhàn",
-       "gl": "Wuhan",
-       "pos": "proper noun"
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "百度",
-       "py": "bǎidù",
-       "gl": "Baidu",
-       "pos": "proper noun"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "萝卜快跑",
-       "py": "luóbokuàipǎo",
-       "gl": "Apollo Go (Baidu's robotaxi service)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "布局",
-       "py": "bùjú",
-       "gl": "layout; arrangement; deployment",
-       "pos": "n."
-      },
-      {
-       "h": "规模",
-       "py": "guīmó",
-       "gl": "scale; size",
-       "pos": "n."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "之",
-       "py": "zhī",
-       "gl": "(literary) of: 之一 one of",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and by 2024 the service had completed millions of rides.",
-     "words": [
-      {
-       "h": "截至",
-       "py": "jiézhì",
-       "gl": "as of; up to",
-       "pos": "prep."
-      },
-      {
-       "h": "2024"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "项",
-       "py": "xiàng",
-       "gl": "measure word for items, tasks, services",
-       "pos": "measure word"
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "完成",
-       "py": "wánchéng",
-       "gl": "finish; complete; accomplish",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "数",
-       "py": "shù",
-       "gl": "several; a number of",
-       "pos": "num."
-      },
-      {
-       "h": "百万",
-       "py": "bǎiwàn",
-       "gl": "million",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
-      },
-      {
-       "h": "订单",
-       "py": "dìngdān",
-       "gl": "order",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Beyond many cities at home, some Chinese self-driving companies have set their sights on overseas markets, starting to test or roll out driverless taxi services in the Middle East, Southeast Asia, and elsewhere.",
-   "phrases": [
-    {
-     "en": "Beyond many cities at home,",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "国内",
-       "py": "guónèi",
-       "gl": "domestic; at home (in one's own country)",
-       "pos": "n."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "some Chinese self-driving companies have set their sights on overseas markets,",
-     "words": [
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "num."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "自动驾驶",
-       "py": "zìdòngjiàshǐ",
-       "gl": "self-driving; autonomous driving",
-       "pos": "n."
-      },
-      {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "目光",
-       "py": "mùguāng",
-       "gl": "gaze; attention",
-       "pos": "n."
-      },
-      {
-       "h": "投向",
-       "py": "tóuxiàng",
-       "gl": "turn (one's eyes) to; direct toward",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "海外",
-       "py": "hǎiwài",
-       "gl": "overseas; abroad",
-       "pos": "adj."
-      },
-      {
-       "h": "市场",
-       "py": "shìchǎng",
-       "gl": "market",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "starting to test or roll out driverless taxi services in the Middle East, Southeast Asia, and elsewhere.",
-     "words": [
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "中东",
-       "py": "zhōngdōng",
-       "gl": "Middle East",
-       "pos": "proper noun"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "东南亚",
-       "py": "dōngnányà",
-       "gl": "Southeast Asia",
-       "pos": "proper noun"
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "particle"
-      },
-      {
-       "h": "地",
-       "py": "dì",
-       "gl": "place; region",
-       "pos": "n."
-      },
-      {
-       "h": "测试",
-       "py": "cèshì",
-       "gl": "test; test; trial",
-       "pos": "n."
-      },
-      {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "部署",
-       "py": "bùshǔ",
-       "gl": "deploy",
-       "pos": "v."
-      },
-      {
-       "h": "无人驾驶",
-       "py": "wúrénjiàshǐ",
-       "gl": "driverless; self-driving",
-       "pos": "n."
-      },
-      {
-       "h": "出租车",
-       "py": "chūzūchē",
-       "gl": "taxi",
-       "pos": "n."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "For example, Apollo Go has already begun carrying passengers in some cities in the United Arab Emirates, the first time Chinese self-driving technology has gone abroad on a large scale.",
-   "phrases": [
-    {
-     "en": "For example, Apollo Go has already begun carrying passengers in some cities in the United Arab Emirates, in the Middle East,",
-     "words": [
-      {
-       "h": "例如",
-       "py": "lìrú",
-       "gl": "for example",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "萝卜快跑",
-       "py": "luóbokuàipǎo",
-       "gl": "Apollo Go (Baidu's robotaxi service)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "中东",
-       "py": "zhōngdōng",
-       "gl": "Middle East",
-       "pos": "proper noun"
-      },
-      {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "country",
-       "pos": "n."
-      },
-      {
-       "h": "阿联酋",
-       "py": "āliánqiú",
-       "gl": "UAE (United Arab Emirates)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "部分",
-       "py": "bùfèn",
-       "gl": "part; some; partially",
-       "pos": "adj."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "提供",
-       "py": "tígōng",
-       "gl": "provide",
-       "pos": "v."
-      },
-      {
-       "h": "载客",
-       "py": "zàikè",
-       "gl": "carry passengers",
-       "pos": "v."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the first time Chinese self-driving technology has gone abroad on a large scale.",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "自动驾驶",
-       "py": "zìdòngjiàshǐ",
-       "gl": "self-driving; autonomous driving",
-       "pos": "n."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "首次",
-       "py": "shǒucì",
-       "gl": "for the first time",
-       "pos": "adv."
-      },
-      {
-       "h": "大规模",
-       "py": "dàguīmó",
-       "gl": "large-scale; on a large scale",
-       "pos": "adv."
-      },
-      {
-       "h": "走出",
-       "py": "zǒuchū",
-       "gl": "walk out of; go out of",
-       "pos": "v."
-      },
-      {
-       "h": "国门",
-       "py": "guómén",
-       "gl": "the country's borders (走出国门 go abroad)",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Still, driverless cars are far from perfect: over the past few years there have been a number of traffic accidents around the world involving self-driving systems, which has made regulators pay more attention to safety standards.",
-   "phrases": [
-    {
-     "en": "Still, driverless cars are far from perfect:",
-     "words": [
-      {
-       "h": "不过",
-       "py": "bùguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "无人驾驶",
-       "py": "wúrénjiàshǐ",
-       "gl": "driverless; self-driving",
-       "pos": "n."
-      },
-      {
-       "h": "汽车",
-       "py": "qìchē",
-       "gl": "car; motor vehicle",
-       "pos": "n."
-      },
-      {
-       "h": "并非",
-       "py": "bìngfēi",
-       "gl": "not; by no means; not at all",
-       "pos": "adv."
-      },
-      {
-       "h": "完美无缺",
-       "py": "wánměiwúquē",
-       "gl": "flawless; perfect",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "over the past few years there have been a number of traffic accidents around the world involving self-driving systems,",
-     "words": [
-      {
-       "h": "过去",
-       "py": "guòqù",
-       "gl": "past; the past",
-       "pos": "adj."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
        "h": "里",
        "py": "lǐ",
        "gl": "in; inside",
@@ -2207,155 +2243,33 @@
        "h": "，"
       },
       {
-       "h": "全球",
-       "py": "quánqiú",
-       "gl": "global; worldwide",
-       "pos": "adj."
-      },
-      {
-       "h": "范围",
-       "py": "fànwéi",
-       "gl": "range; scope; extent",
+       "h": "车",
+       "py": "chē",
+       "gl": "car; vehicle; bus",
        "pos": "n."
       },
       {
-       "h": "内",
-       "py": "nèi",
-       "gl": "within; inside",
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
        "pos": "postposition"
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
        "pos": "adv."
       },
       {
-       "h": "发生",
-       "py": "fāshēng",
-       "gl": "happen; occur",
+       "h": "配",
+       "py": "pèi",
+       "gl": "to equip",
        "pos": "v."
       },
       {
-       "h": "过",
-       "py": "guò",
-       "gl": "particle: past experience (have done)",
-       "pos": "particle"
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "起",
-       "py": "qǐ",
-       "gl": "measure word for cases, incidents",
-       "pos": "measure word"
-      },
-      {
-       "h": "涉及",
-       "py": "shèjí",
-       "gl": "involve; concern",
-       "pos": "v."
-      },
-      {
-       "h": "自动驾驶",
-       "py": "zìdòngjiàshǐ",
-       "gl": "self-driving; autonomous driving",
-       "pos": "n."
-      },
-      {
-       "h": "系统",
-       "py": "xìtǒng",
-       "gl": "system",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "交通",
-       "py": "jiāotōng",
-       "gl": "traffic; transportation",
-       "pos": "n."
-      },
-      {
-       "h": "事故",
-       "py": "shìgù",
-       "gl": "accident",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which has made regulators pay more attention to the relevant safety standards.",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "监管",
-       "py": "jiānguǎn",
-       "gl": "supervise; regulate; regulatory",
-       "pos": "adj."
-      },
-      {
-       "h": "部门",
-       "py": "bùmén",
-       "gl": "department; government agency",
-       "pos": "n."
-      },
-      {
-       "h": "更加",
-       "py": "gèngjiā",
-       "gl": "even more",
-       "pos": "adv."
-      },
-      {
-       "h": "重视",
-       "py": "zhòngshì",
-       "gl": "attach importance to; value",
-       "pos": "v."
-      },
-      {
-       "h": "相关",
-       "py": "xiāngguān",
-       "gl": "related; relevant",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "安全",
-       "py": "ānquán",
-       "gl": "safe; safety",
-       "pos": "n."
-      },
-      {
-       "h": "标准",
-       "py": "biāozhǔn",
-       "gl": "standard",
+       "h": "安全员",
+       "py": "ānquányuán",
+       "gl": "safety operator; safety officer",
        "pos": "n."
       },
       {
@@ -2366,225 +2280,28 @@
    ]
   },
   {
-   "en": "In response, many countries and regions are speeding up laws and regulations specifically for self-driving cars, spelling out how responsibility should be divided after an accident.",
+   "en": "And Baidu isn't the only company making driverless cars — there are WeRide, Pony.ai, and others, some of which have already started carrying passengers in the UAE.",
    "phrases": [
     {
-     "en": "In response,",
+     "en": "And Baidu isn't the only company making driverless cars — there are WeRide, Pony.ai, and others,",
      "words": [
       {
-       "h": "针对",
-       "py": "zhēnduì",
-       "gl": "aimed at; targeting; regarding",
-       "pos": "prep."
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "many countries and regions are speeding up laws and regulations specifically for self-driving cars,",
-     "words": [
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "country",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "加快",
-       "py": "jiākuài",
-       "gl": "speed up; accelerate",
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make; be; work as",
        "pos": "v."
       },
       {
-       "h": "制定",
-       "py": "zhìdìng",
-       "gl": "draw up; formulate (a plan)",
-       "pos": "v."
-      },
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "针对",
-       "py": "zhēnduì",
-       "gl": "aimed at; targeting; regarding",
-       "pos": "prep."
-      },
-      {
-       "h": "自动驾驶",
-       "py": "zìdòngjiàshǐ",
-       "gl": "self-driving; autonomous driving",
+       "h": "无人车",
+       "py": "wúrénchē",
+       "gl": "driverless car",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
-      },
-      {
-       "h": "法律",
-       "py": "fǎlǜ",
-       "gl": "law",
-       "pos": "n."
-      },
-      {
-       "h": "法规",
-       "py": "fǎguī",
-       "gl": "regulation; law",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "spelling out how responsibility should be divided after an accident.",
-     "words": [
-      {
-       "h": "明确",
-       "py": "míngquè",
-       "gl": "clear; definite; clearly; explicitly",
-       "pos": "adv."
-      },
-      {
-       "h": "规定",
-       "py": "guīdìng",
-       "gl": "stipulate; prescribe",
-       "pos": "v."
-      },
-      {
-       "h": "事故",
-       "py": "shìgù",
-       "gl": "accident",
-       "pos": "n."
-      },
-      {
-       "h": "发生",
-       "py": "fāshēng",
-       "gl": "happen; occur",
-       "pos": "v."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "责任",
-       "py": "zérèn",
-       "gl": "responsibility; duty",
-       "pos": "n."
-      },
-      {
-       "h": "应该",
-       "py": "yīnggāi",
-       "gl": "should; ought to; probably",
-       "pos": "function word"
-      },
-      {
-       "h": "如何",
-       "py": "rúhé",
-       "gl": "how",
-       "pos": "pron."
-      },
-      {
-       "h": "划分",
-       "py": "huàfēn",
-       "gl": "divide; allocate",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "China's Ministry of Industry and Information Technology and other agencies have also jointly issued a number of documents to gradually standardize market access, testing, and commercial operation of self-driving cars.",
-   "phrases": [
-    {
-     "en": "China's Ministry of Industry and Information Technology and other agencies have also jointly issued a number of documents",
-     "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "工业和信息化部",
-       "py": "gōngyèhéxìnxīhuàbù",
-       "gl": "Ministry of Industry and Information Technology (MIIT)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "particle"
-      },
-      {
-       "h": "部门",
-       "py": "bùmén",
-       "gl": "department; government agency",
-       "pos": "n."
       },
       {
        "h": "也",
@@ -2593,325 +2310,16 @@
        "pos": "adv."
       },
       {
-       "h": "联合",
-       "py": "liánhé",
-       "gl": "unite; join forces",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
        "pos": "adv."
       },
       {
-       "h": "发布",
-       "py": "fābù",
-       "gl": "post; publish",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "项",
-       "py": "xiàng",
-       "gl": "measure word for items, tasks, services",
-       "pos": "measure word"
-      },
-      {
-       "h": "文件",
-       "py": "wénjiàn",
-       "gl": "document; file",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to gradually standardize market access, testing, and commercial operation of self-driving cars.",
-     "words": [
-      {
-       "h": "推动",
-       "py": "tuīdòng",
-       "gl": "promote; push forward; drive",
-       "pos": "v."
-      },
-      {
-       "h": "自动驾驶",
-       "py": "zìdòngjiàshǐ",
-       "gl": "self-driving; autonomous driving",
-       "pos": "n."
-      },
-      {
-       "h": "汽车",
-       "py": "qìchē",
-       "gl": "car; motor vehicle",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "准入",
-       "py": "zhǔnrù",
-       "gl": "market access; entry approval",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "测试",
-       "py": "cèshì",
-       "gl": "test; test; trial",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "商业化",
-       "py": "shāngyèhuà",
-       "gl": "commercialization",
-       "pos": "n."
-      },
-      {
-       "h": "运营",
-       "py": "yùnyíng",
-       "gl": "run; operate (business, community)",
-       "pos": "v."
-      },
-      {
-       "h": "逐步",
-       "py": "zhúbù",
-       "gl": "gradually; step by step",
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
        "pos": "adv."
-      },
-      {
-       "h": "走向",
-       "py": "zǒuxiàng",
-       "gl": "move toward; head for; lead to",
-       "pos": "v."
-      },
-      {
-       "h": "规范化",
-       "py": "guīfànhuà",
-       "gl": "standardization; regulation",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Meanwhile, carmakers keep upgrading their sensors and algorithms, hoping their vehicles can make reliable judgments even in difficult conditions such as rain or darkness.",
-   "phrases": [
-    {
-     "en": "Meanwhile, carmakers keep upgrading their sensors and algorithms,",
-     "words": [
-      {
-       "h": "与此同时",
-       "py": "yǔcǐtóngshí",
-       "gl": "at the same time; meanwhile",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "车企",
-       "py": "chēqǐ",
-       "gl": "carmaker; automaker",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "升级",
-       "py": "shēngjí",
-       "gl": "upgrade",
-       "pos": "v."
-      },
-      {
-       "h": "传感器",
-       "py": "chuángǎnqì",
-       "gl": "sensor",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "算法",
-       "py": "suànfǎ",
-       "gl": "algorithm",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "hoping their vehicles can make reliable judgments even in difficult conditions such as rain or darkness.",
-     "words": [
-      {
-       "h": "希望",
-       "py": "xīwàng",
-       "gl": "hope; wish",
-       "pos": "v."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "车辆",
-       "py": "chēliàng",
-       "gl": "vehicle",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "雨天",
-       "py": "yǔtiān",
-       "gl": "rainy day",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "夜间",
-       "py": "yèjiān",
-       "gl": "night; at night; nighttime",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "particle"
-      },
-      {
-       "h": "复杂",
-       "py": "fùzá",
-       "gl": "complicated; complex",
-       "pos": "adj."
-      },
-      {
-       "h": "环境",
-       "py": "huánjìng",
-       "gl": "environment; conditions",
-       "pos": "n."
-      },
-      {
-       "h": "下",
-       "py": "xià",
-       "gl": "under (conditions); in (a context)",
-       "pos": "postposition"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "保持",
-       "py": "bǎochí",
-       "gl": "maintain; keep",
-       "pos": "v."
-      },
-      {
-       "h": "稳定",
-       "py": "wěndìng",
-       "gl": "stable; steady",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "判断",
-       "py": "pànduàn",
-       "gl": "judge; determine; judgment",
-       "pos": "n."
-      },
-      {
-       "h": "能力",
-       "py": "nénglì",
-       "gl": "ability",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Following Baidu, WeRide also received a road-testing permit in Hong Kong in 2023, a sign that Chinese self-driving companies are speeding up their international expansion.",
-   "phrases": [
-    {
-     "en": "Following Baidu, WeRide also received a road-testing permit in Hong Kong in 2023,",
-     "words": [
-      {
-       "h": "继",
-       "py": "jì",
-       "gl": "following; after (继…之后 after)",
-       "pos": "prep."
       },
       {
        "h": "百度",
@@ -2920,24 +2328,77 @@
        "pos": "proper noun"
       },
       {
-       "h": "之后",
-       "py": "zhīhòu",
-       "gl": "after",
-       "pos": "postposition"
+       "h": "一",
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
+       "pos": "adv."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "measure word for companies",
+       "pos": "measure word"
       },
       {
        "h": "，"
       },
       {
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
+       "pos": "conj."
+      },
+      {
        "h": "文远知行",
-       "py": "wényuǎnzhīxíng",
-       "gl": "WeRide (company)",
+       "py": "Wényuǎn Zhīxíng",
+       "gl": "WeRide",
        "pos": "proper noun"
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
+       "h": "、"
+      },
+      {
+       "h": "小马智行",
+       "py": "Xiǎomǎ Zhìxíng",
+       "gl": "Pony.ai",
+       "pos": "proper noun"
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "conj."
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "some of which have already started carrying passengers in the UAE.",
+     "words": [
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
        "pos": "adv."
       },
       {
@@ -2947,18 +2408,21 @@
        "pos": "prep."
       },
       {
-       "h": "2023"
+       "h": "阿联酋",
+       "py": "Āliánqiú",
+       "gl": "UAE (United Arab Emirates)",
+       "pos": "proper noun"
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
+       "pos": "v."
       },
       {
-       "h": "获得",
-       "py": "huòdé",
-       "gl": "get; obtain",
+       "h": "载客",
+       "py": "zàikè",
+       "gl": "carry passengers",
        "pos": "v."
       },
       {
@@ -2968,110 +2432,6 @@
        "pos": "particle"
       },
       {
-       "h": "香港",
-       "py": "xiānggǎng",
-       "gl": "Hong Kong",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "道路",
-       "py": "dàolù",
-       "gl": "road; path; way",
-       "pos": "n."
-      },
-      {
-       "h": "测试",
-       "py": "cèshì",
-       "gl": "test; test; trial",
-       "pos": "n."
-      },
-      {
-       "h": "许可",
-       "py": "xǔkě",
-       "gl": "permission; license",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "a sign that Chinese self-driving companies are speeding up their international expansion.",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "显示",
-       "py": "xiǎnshì",
-       "gl": "show; indicate",
-       "pos": "v."
-      },
-      {
-       "h": "出",
-       "py": "chū",
-       "gl": "resultative complement: out (showing a result)",
-       "pos": "particle"
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "自动驾驶",
-       "py": "zìdòngjiàshǐ",
-       "gl": "self-driving; autonomous driving",
-       "pos": "n."
-      },
-      {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "正在",
-       "py": "zhèngzài",
-       "gl": "be in the middle of (doing)",
-       "pos": "adv."
-      },
-      {
-       "h": "加快",
-       "py": "jiākuài",
-       "gl": "speed up; accelerate",
-       "pos": "v."
-      },
-      {
-       "h": "拓展",
-       "py": "tuòzhǎn",
-       "gl": "expand; extend",
-       "pos": "v."
-      },
-      {
-       "h": "国际",
-       "py": "guójì",
-       "gl": "international",
-       "pos": "adj."
-      },
-      {
-       "h": "市场",
-       "py": "shìchǎng",
-       "gl": "market",
-       "pos": "n."
-      },
-      {
        "h": "。"
       }
      ]
@@ -3079,309 +2439,34 @@
    ]
   },
   {
-   "en": "Data published by the companies show that these driverless cars have accidents far less often than the average human driver, but the public still has doubts about whether a cold machine can be trusted.",
+   "en": "Wuhan, Wuxi, and Chongqing are also building smart roads with vehicle-road coordination, so that traffic lights and cameras can \"talk\" to the cars.",
    "phrases": [
     {
-     "en": "Data published by the companies show that these driverless cars have accidents far less often than the average human driver,",
+     "en": "Wuhan, Wuxi, and Chongqing are also building smart roads with vehicle-road coordination,",
      "words": [
       {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "公开",
-       "py": "gōngkāi",
-       "gl": "public; open; make public; publicly",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "数据",
-       "py": "shùjù",
-       "gl": "data",
-       "pos": "n."
-      },
-      {
-       "h": "显示",
-       "py": "xiǎnshì",
-       "gl": "show; indicate",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "无人驾驶",
-       "py": "wúrénjiàshǐ",
-       "gl": "driverless; self-driving",
-       "pos": "n."
-      },
-      {
-       "h": "车辆",
-       "py": "chēliàng",
-       "gl": "vehicle",
-       "pos": "n."
-      },
-      {
-       "h": "发生",
-       "py": "fāshēng",
-       "gl": "happen; occur",
-       "pos": "v."
-      },
-      {
-       "h": "事故",
-       "py": "shìgù",
-       "gl": "accident",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "概率",
-       "py": "gàilǜ",
-       "gl": "probability",
-       "pos": "n."
-      },
-      {
-       "h": "远",
-       "py": "yuǎn",
-       "gl": "far; distant",
-       "pos": "adv."
-      },
-      {
-       "h": "低于",
-       "py": "dīyú",
-       "gl": "lower than; below",
-       "pos": "v."
-      },
-      {
-       "h": "人类",
-       "py": "rénlèi",
-       "gl": "humanity; mankind",
-       "pos": "n."
-      },
-      {
-       "h": "司机",
-       "py": "sījī",
-       "gl": "driver",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "平均",
-       "py": "píngjūn",
-       "gl": "average; on average; equally",
-       "pos": "adj."
-      },
-      {
-       "h": "水平",
-       "py": "shuǐpíng",
-       "gl": "level; standard",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but the public still has doubts about whether a cold machine can be trusted.",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "公众",
-       "py": "gōngzhòng",
-       "gl": "public",
-       "pos": "n."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "冷冰冰",
-       "py": "lěngbīngbīng",
-       "gl": "ice-cold; cold and impersonal",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "机器",
-       "py": "jīqì",
-       "gl": "machine",
-       "pos": "n."
-      },
-      {
-       "h": "是否",
-       "py": "shìfǒu",
-       "gl": "whether; if",
-       "pos": "conj."
-      },
-      {
-       "h": "值得",
-       "py": "zhíde",
-       "gl": "be worth; deserve",
-       "pos": "v."
-      },
-      {
-       "h": "信任",
-       "py": "xìnrèn",
-       "gl": "trust",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "依然",
-       "py": "yīrán",
-       "gl": "still; as before",
-       "pos": "adv."
-      },
-      {
-       "h": "心存疑虑",
-       "py": "xīncúnyílǜ",
-       "gl": "have doubts",
-       "pos": "phrase"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "To help self-driving cars \"read\" road conditions better, several Chinese cities are also building smart road infrastructure for vehicle-road coordination, so that traffic lights, cameras, and other devices can communicate with cars in real time.",
-   "phrases": [
-    {
-     "en": "To help self-driving cars \"read\" road conditions better,",
-     "words": [
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "自动驾驶",
-       "py": "zìdòngjiàshǐ",
-       "gl": "self-driving; autonomous driving",
-       "pos": "n."
-      },
-      {
-       "h": "车辆",
-       "py": "chēliàng",
-       "gl": "vehicle",
-       "pos": "n."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adv."
-      },
-      {
-       "h": "地",
-       "py": "dì",
-       "gl": "place; region",
-       "pos": "n."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "看懂",
-       "py": "kàndǒng",
-       "gl": "understand (by reading or watching)",
-       "pos": "v."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "路况",
-       "py": "lùkuàng",
-       "gl": "road conditions; traffic",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "several Chinese cities are also building smart road infrastructure for vehicle-road coordination,",
-     "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
+       "h": "武汉",
+       "py": "Wǔhàn",
+       "gl": "Wuhan",
        "pos": "proper noun"
       },
       {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
+       "h": "、"
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
+       "h": "无锡",
+       "py": "Wúxī",
+       "gl": "Wuxi (city)",
+       "pos": "proper noun"
       },
       {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
+       "h": "、"
+      },
+      {
+       "h": "重庆",
+       "py": "chóngqìng",
+       "gl": "Chongqing",
+       "pos": "proper noun"
       },
       {
        "h": "还",
@@ -3396,21 +2481,21 @@
        "pos": "prep."
       },
       {
-       "h": "建设",
-       "py": "jiànshè",
-       "gl": "construction; development; build",
+       "h": "建",
+       "py": "jiàn",
+       "gl": "build; set up; create",
        "pos": "v."
       },
       {
        "h": "车路协同",
-       "py": "chēlùxiétóng",
-       "gl": "vehicle-road coordination (V2X)",
+       "py": "chēlù xiétóng",
+       "gl": "vehicle-road coordination",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -3426,50 +2511,35 @@
        "pos": "n."
       },
       {
-       "h": "基础设施",
-       "py": "jīchǔshèshī",
-       "gl": "infrastructure",
-       "pos": "n."
-      },
-      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "so that traffic lights, cameras, and other devices can communicate with cars in real time.",
+     "en": "so that traffic lights and cameras can \"talk\" to the cars.",
      "words": [
       {
        "h": "让",
        "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
-       "h": "信号灯",
-       "py": "xìnhàodēng",
-       "gl": "traffic light; signal light",
+       "h": "红绿灯",
+       "py": "hónglǜdēng",
+       "gl": "traffic light",
        "pos": "n."
       },
       {
-       "h": "、"
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
       },
       {
        "h": "摄像头",
        "py": "shèxiàngtóu",
        "gl": "camera; webcam",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "particle"
-      },
-      {
-       "h": "设备",
-       "py": "shèbèi",
-       "gl": "equipment; device",
        "pos": "n."
       },
       {
@@ -3482,205 +2552,31 @@
        "h": "能",
        "py": "néng",
        "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "与",
-       "py": "yǔ",
-       "gl": "and; with (formal)",
-       "pos": "conj."
-      },
-      {
-       "h": "车辆",
-       "py": "chēliàng",
-       "gl": "vehicle",
-       "pos": "n."
-      },
-      {
-       "h": "实时",
-       "py": "shíshí",
-       "gl": "real-time",
-       "pos": "adv."
-      },
-      {
-       "h": "通信",
-       "py": "tōngxìn",
-       "gl": "communication",
        "pos": "v."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Wuhan, Wuxi, Chongqing, and other cities have also been named national pilot zones for connected vehicles, specifically for testing vehicle-to-road and vehicle-to-vehicle coordination technology.",
-   "phrases": [
-    {
-     "en": "Wuhan, Wuxi, Chongqing, and other cities have also been named national pilot zones for connected vehicles,",
-     "words": [
-      {
-       "h": "武汉",
-       "py": "wǔhàn",
-       "gl": "Wuhan",
-       "pos": "proper noun"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "无锡",
-       "py": "wúxī",
-       "gl": "Wuxi (city)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "重庆",
-       "py": "chóngqìng",
-       "gl": "Chongqing",
-       "pos": "proper noun"
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "particle"
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
        "pos": "prep."
       },
       {
-       "h": "列为",
-       "py": "lièwèi",
-       "gl": "list as; classify as",
+       "h": "车",
+       "py": "chē",
+       "gl": "car; vehicle; bus",
+       "pos": "n."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
        "pos": "v."
       },
       {
-       "h": "国家级",
-       "py": "guójiājí",
-       "gl": "national-level",
-       "pos": "adj."
-      },
-      {
-       "h": "车联网",
-       "py": "chēliánwǎng",
-       "gl": "Internet of Vehicles; connected-vehicle network",
-       "pos": "n."
-      },
-      {
-       "h": "先导区",
-       "py": "xiāndǎoqū",
-       "gl": "pilot zone",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "specifically for testing vehicle-to-road and vehicle-to-vehicle coordination technology.",
-     "words": [
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "用于",
-       "py": "yòngyú",
-       "gl": "be used for",
-       "pos": "v."
-      },
-      {
-       "h": "测试",
-       "py": "cèshì",
-       "gl": "test; test; trial",
-       "pos": "n."
-      },
-      {
-       "h": "车辆",
-       "py": "chēliàng",
-       "gl": "vehicle",
-       "pos": "n."
-      },
-      {
-       "h": "与",
-       "py": "yǔ",
-       "gl": "and; with (formal)",
-       "pos": "conj."
-      },
-      {
-       "h": "道路",
-       "py": "dàolù",
-       "gl": "road; path; way",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "车辆",
-       "py": "chēliàng",
-       "gl": "vehicle",
-       "pos": "n."
-      },
-      {
-       "h": "与",
-       "py": "yǔ",
-       "gl": "and; with (formal)",
-       "pos": "conj."
-      },
-      {
-       "h": "车辆",
-       "py": "chēliàng",
-       "gl": "vehicle",
-       "pos": "n."
-      },
-      {
-       "h": "之间",
-       "py": "zhījiān",
-       "gl": "between; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "协同",
-       "py": "xiétóng",
-       "gl": "coordination; cooperation",
-       "pos": "n."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
+       "h": "”"
       },
       {
        "h": "。"
@@ -3690,215 +2586,24 @@
    ]
   },
   {
-   "en": "Although the infrastructure keeps improving, most cities still require a safety operator either in the car or remotely, and it will be a while before human monitoring is dropped entirely.",
+   "en": "But how to assign responsibility in an accident is still being debated, and the rules are still being written one by one.",
    "phrases": [
     {
-     "en": "Although the infrastructure keeps improving,",
+     "en": "But how to assign responsibility in an accident is still being debated, and the rules are still being written one by one.",
      "words": [
       {
-       "h": "尽管",
-       "py": "jǐnguǎn",
-       "gl": "although; despite",
+       "h": "不过",
+       "py": "bùguò",
+       "gl": "but; however",
        "pos": "conj."
       },
       {
-       "h": "基础设施",
-       "py": "jīchǔshèshī",
-       "gl": "infrastructure",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "完善",
-       "py": "wánshàn",
-       "gl": "improve; perfect; well-developed",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "most cities still require a safety operator either in the car or remotely,",
-     "words": [
-      {
-       "h": "目前",
-       "py": "mùqián",
-       "gl": "currently; at present",
-       "pos": "adv."
-      },
-      {
-       "h": "大多数",
-       "py": "dàduōshù",
-       "gl": "the vast majority; most",
-       "pos": "adj."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "仍然",
-       "py": "réngrán",
-       "gl": "still; as before",
-       "pos": "adv."
-      },
-      {
-       "h": "要求",
-       "py": "yāoqiú",
-       "gl": "require; demand",
-       "pos": "v."
-      },
-      {
-       "h": "车内",
-       "py": "chēnèi",
-       "gl": "inside the car",
-       "pos": "n."
-      },
-      {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "远程",
-       "py": "yuǎnchéng",
-       "gl": "remote (远程办公 work remotely)",
-       "pos": "adj."
-      },
-      {
-       "h": "配备",
-       "py": "pèibèi",
-       "gl": "be equipped with",
-       "pos": "v."
-      },
-      {
-       "h": "安全员",
-       "py": "ānquányuán",
-       "gl": "safety operator; safety officer",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and it will be a while before human monitoring is dropped entirely.",
-     "words": [
-      {
-       "h": "全面",
-       "py": "quánmiàn",
-       "gl": "comprehensive; all-round",
-       "pos": "adv."
-      },
-      {
-       "h": "取消",
-       "py": "qǔxiāo",
-       "gl": "cancel; abolish",
-       "pos": "v."
-      },
-      {
-       "h": "人工",
-       "py": "réngōng",
-       "gl": "human (as opposed to machine: 人工同传 human interpreting)",
-       "pos": "adj."
-      },
-      {
-       "h": "监控",
-       "py": "jiānkòng",
-       "gl": "monitoring; surveillance",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "段",
-       "py": "duàn",
-       "gl": "measure word for periods or episodes (a chapter, a story); measure word for sections",
-       "pos": "measure word"
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "At the same time, the driverless industry has created new jobs, such as remote safety operators and fleet maintenance engineers, and these jobs need skills completely different from those of traditional drivers.",
-   "phrases": [
-    {
-     "en": "At the same time, the driverless industry has created new jobs,",
-     "words": [
-      {
-       "h": "与此同时",
-       "py": "yǔcǐtóngshí",
-       "gl": "at the same time; meanwhile",
-       "pos": "phrase"
-      },
-      {
        "h": "，"
       },
       {
-       "h": "无人驾驶",
-       "py": "wúrénjiàshǐ",
-       "gl": "driverless; self-driving",
-       "pos": "n."
-      },
-      {
-       "h": "行业",
-       "py": "hángyè",
-       "gl": "industry; line of business",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "创造",
-       "py": "chuàngzào",
-       "gl": "create; creation",
+       "h": "出",
+       "py": "chū",
+       "gl": "have (an accident); happen",
        "pos": "v."
       },
       {
@@ -3908,140 +2613,118 @@
        "pos": "particle"
       },
       {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "职业",
-       "py": "zhíyè",
-       "gl": "occupation; profession",
+       "h": "事故",
+       "py": "shìgù",
+       "gl": "accident",
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "such as remote safety operators and fleet maintenance engineers,",
-     "words": [
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
-      },
-      {
-       "h": "远程",
-       "py": "yuǎnchéng",
-       "gl": "remote (远程办公 work remotely)",
-       "pos": "adj."
-      },
-      {
-       "h": "安全员",
-       "py": "ānquányuán",
-       "gl": "safety operator; safety officer",
+       "h": "责任",
+       "py": "zérèn",
+       "gl": "responsibility; duty",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "车辆",
-       "py": "chēliàng",
-       "gl": "vehicle",
-       "pos": "n."
-      },
-      {
-       "h": "运维",
-       "py": "yùnwéi",
-       "gl": "operation and maintenance",
-       "pos": "n."
-      },
-      {
-       "h": "工程师",
-       "py": "gōngchéngshī",
-       "gl": "engineer",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and these jobs need skills completely different from those of traditional drivers.",
-     "words": [
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
        "pos": "pron."
       },
       {
-       "h": "岗位",
-       "py": "gǎngwèi",
-       "gl": "post; position; job",
-       "pos": "n."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require",
+       "h": "分",
+       "py": "fēn",
+       "gl": "to divide, allot",
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "，"
       },
       {
-       "h": "技能",
-       "py": "jìnéng",
-       "gl": "skill",
-       "pos": "n."
+       "h": "大家",
+       "py": "dàjiā",
+       "gl": "everyone; everybody",
+       "pos": "pron."
       },
       {
-       "h": "跟",
-       "py": "gēn",
-       "gl": "like; the same as (跟…一样 just like)",
-       "pos": "prep."
-      },
-      {
-       "h": "传统",
-       "py": "chuántǒng",
-       "gl": "traditional; tradition",
-       "pos": "adj."
-      },
-      {
-       "h": "司机",
-       "py": "sījī",
-       "gl": "driver",
-       "pos": "n."
-      },
-      {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
-       "h": "不同",
-       "py": "bùtóng",
-       "gl": "different",
-       "pos": "adj."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "讨论",
+       "py": "tǎolùn",
+       "gl": "discuss; discussion",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "法规",
+       "py": "fǎguī",
+       "gl": "regulation; law",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (roads, rivers, fish), lines, messages, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (roads, rivers, fish), lines, messages, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -4051,11 +2734,14 @@
    ]
   },
   {
-   "en": "Experts generally agree that self-driving cars won't fully replace human drivers any time soon, but as the technology and regulations mature, their share of people's everyday travel is only going to grow.",
+   "en": "\"Experts say drivers won't be completely replaced anytime soon,\" his son said.",
    "phrases": [
     {
-     "en": "Experts generally agree that self-driving cars won't fully replace human drivers any time soon,",
+     "en": "\"Experts say drivers won't be completely replaced anytime soon,\" his son said.",
      "words": [
+      {
+       "h": "“"
+      },
       {
        "h": "专家",
        "py": "zhuānjiā",
@@ -4063,24 +2749,33 @@
        "pos": "n."
       },
       {
-       "h": "普遍",
-       "py": "pǔbiàn",
-       "gl": "widely; generally; common",
-       "pos": "adv."
-      },
-      {
-       "h": "认为",
-       "py": "rènwéi",
-       "gl": "think; believe; consider",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "自动驾驶",
-       "py": "zìdòngjiàshǐ",
-       "gl": "self-driving; autonomous driving",
+       "h": "短时间",
+       "py": "duǎnshíjiān",
+       "gl": "short time",
+       "pos": "n."
+      },
+      {
+       "h": "内",
+       "py": "nèi",
+       "gl": "within; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "司机",
+       "py": "sījī",
+       "gl": "driver",
        "pos": "n."
       },
       {
@@ -4093,31 +2788,13 @@
        "h": "会",
        "py": "huì",
        "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
        "pos": "function word"
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "短",
-       "py": "duǎn",
-       "gl": "short",
-       "pos": "adj."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "内",
-       "py": "nèi",
-       "gl": "within; inside",
-       "pos": "postposition"
       },
       {
        "h": "完全",
@@ -4132,164 +2809,22 @@
        "pos": "v."
       },
       {
-       "h": "人类",
-       "py": "rénlèi",
-       "gl": "humanity; mankind",
-       "pos": "n."
-      },
-      {
-       "h": "司机",
-       "py": "sījī",
-       "gl": "driver",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but as the technology and regulations keep maturing,",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
       },
       {
-       "h": "随着",
-       "py": "suízhe",
-       "gl": "along with; as (something develops)",
-       "pos": "prep."
+       "h": "”"
       },
       {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
+       "h": "儿子",
+       "py": "érzi",
+       "gl": "son",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "法规",
-       "py": "fǎguī",
-       "gl": "regulation; law",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "成熟",
-       "py": "chéngshú",
-       "gl": "mature; ripe; well-developed",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "their share of people's everyday travel is only going to grow.",
-     "words": [
-      {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
-       "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "人们",
-       "py": "rénmen",
-       "gl": "people",
-       "pos": "n."
-      },
-      {
-       "h": "日常",
-       "py": "rìcháng",
-       "gl": "daily; everyday",
-       "pos": "adj."
-      },
-      {
-       "h": "出行",
-       "py": "chūxíng",
-       "gl": "travel; getting around",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "所",
-       "py": "suǒ",
-       "gl": "particle before a verb (所提出的 that which is proposed)",
-       "pos": "function word"
-      },
-      {
-       "h": "占",
-       "py": "zhàn",
-       "gl": "take up; occupy; account for",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "比例",
-       "py": "bǐlì",
-       "gl": "proportion; ratio",
-       "pos": "n."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
       },
       {
        "h": "。"
@@ -4299,96 +2834,388 @@
    ]
   },
   {
-   "en": "All in all, driverless driving is moving from technical trials into a new stage of truly becoming part of daily life.",
+   "en": "Lao Hu was quiet for a long time, then asked, \"Do these safety operators take people in their fifties?\"",
    "phrases": [
     {
-     "en": "All in all, driverless driving is moving from technical trials into a new stage of truly becoming part of daily life.",
+     "en": "Lao Hu was quiet for a long time, then asked, \"Do these safety operators take people in their fifties?\"",
      "words": [
       {
-       "h": "总的来说",
-       "py": "zǒngdeláishuō",
-       "gl": "in general; overall",
-       "pos": "phrase"
+       "h": "老胡",
+       "py": "Lǎo Hú",
+       "gl": "Lao Hu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "沉默",
+       "py": "chénmò",
+       "gl": "be silent; silence",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "久",
+       "py": "jiǔ",
+       "gl": "long (time); for a long time",
+       "pos": "adj."
       },
       {
        "h": "，"
       },
       {
-       "h": "无人驾驶",
-       "py": "wúrénjiàshǐ",
-       "gl": "driverless; self-driving",
-       "pos": "n."
-      },
-      {
-       "h": "正",
-       "py": "zhèng",
-       "gl": "just; right now (in progress)",
-       "pos": "adv."
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "试验",
-       "py": "shìyàn",
-       "gl": "trial; test",
-       "pos": "n."
-      },
-      {
-       "h": "走向",
-       "py": "zǒuxiàng",
-       "gl": "move toward; head for; lead to",
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
        "pos": "v."
       },
       {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "truly; really",
-       "pos": "adv."
+       "h": "："
       },
       {
-       "h": "融入",
-       "py": "róngrù",
-       "gl": "blend into; integrate into",
+       "h": "“"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "安全员",
+       "py": "ānquányuán",
+       "gl": "safety operator; safety officer",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
-       "h": "日常",
-       "py": "rìcháng",
-       "gl": "daily; everyday",
+       "h": "五十",
+       "py": "wǔshí",
+       "gl": "fifty",
+       "pos": "num."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
        "pos": "adj."
       },
       {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "His son laughed and opened the job page to show him.",
+   "phrases": [
+    {
+     "en": "His son laughed and opened the job page to show him.",
+     "words": [
+      {
+       "h": "儿子",
+       "py": "érzi",
+       "gl": "son",
+       "pos": "n."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "招聘",
+       "py": "zhāopìn",
+       "gl": "recruit; hire",
+       "pos": "v."
+      },
+      {
+       "h": "页面",
+       "py": "yèmiàn",
+       "gl": "page",
+       "pos": "n."
+      },
+      {
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The next morning Lao Hu still took his own taxi out. His first passenger was an old lady, and where she wanted to go was that very lane next to the wet market.",
+   "phrases": [
+    {
+     "en": "The next morning Lao Hu still took his own taxi out.",
+     "words": [
+      {
+       "h": "第二",
+       "py": "dìèr",
+       "gl": "next (day)",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "老胡",
+       "py": "Lǎo Hú",
+       "gl": "Lao Hu",
+       "pos": "proper noun"
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "出租车",
+       "py": "chūzūchē",
+       "gl": "taxi",
+       "pos": "n."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "to drive out (a car)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "出去",
+       "py": "chūqu",
+       "gl": "out (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    },
+    {
+     "en": "His first passenger was an old lady, and where she wanted to go was that very lane next to the wet market.",
+     "words": [
+      {
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "客人",
+       "py": "kèrén",
+       "gl": "guest; customer",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
+       "pos": "measure word"
+      },
+      {
+       "h": "老奶奶",
+       "py": "lǎonǎinǎi",
+       "gl": "granny; old woman",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "正好",
+       "py": "zhènghǎo",
+       "gl": "just right; happen to; exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "菜市场",
+       "py": "càishìchǎng",
+       "gl": "food market",
+       "pos": "n."
+      },
+      {
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
        "pos": "adj."
       },
       {
-       "h": "阶段",
-       "py": "jiēduàn",
-       "gl": "stage; phase",
+       "h": "巷子",
+       "py": "xiàngzi",
+       "gl": "alley; lane",
        "pos": "n."
       },
       {

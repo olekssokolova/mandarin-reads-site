@@ -1,122 +1,191 @@
 {
  "id": "mentalhealth5",
  "level": 5,
- "title_zh": "关注心理健康",
- "title_en": "Taking Care of Mental Health",
+ "title_zh": "门外的十分钟",
+ "title_en": "Ten Minutes Outside the Door",
  "free": false,
  "audio_url": null,
- "note_en": "Look at 哪怕……也……: 哪怕只是散步半个小时，也能让心情变好 \"even if it's just a half-hour walk, it can lift your mood.\" English needs only \"even if,\" but Chinese pairs 哪怕 in the first clause with 也 in the second, and the 也 can't be dropped. The text also uses 不再……而是…… \"no longer A but B\" (不再被当作“软弱”的表现，而是被看作……), another two-part frame where English needs just one connecting word.",
+ "note_en": "After an adjective or verb, 得 introduces the degree — how far the state went: 紧张得睡不着觉 \"so nervous she couldn't sleep\"; 安静得能听见 \"so quiet you could hear…\" The order is always the same: first the state, then 得, then what it led to — like English \"so … that.\"",
  "sentences": [
   {
-   "en": "Modern life moves fast, and whether you're in school or working, it's easy to feel stressed.",
+   "en": "From November on, Lin Xia stopped going to her morning classes.",
    "phrases": [
     {
-     "en": "Modern life moves fast,",
+     "en": "From November on, Lin Xia stopped going to her morning classes.",
      "words": [
       {
-       "h": "现代",
-       "py": "xiàndài",
-       "gl": "modern",
-       "pos": "adj."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life; live",
+       "h": "十一月",
+       "py": "shíyīyuè",
+       "gl": "November",
        "pos": "n."
       },
       {
-       "h": "节奏",
-       "py": "jiézòu",
-       "gl": "rhythm; pace",
-       "pos": "n."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "快",
-       "py": "kuài",
-       "gl": "fast; quick",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and whether you're in school or working,",
-     "words": [
-      {
-       "h": "不管",
-       "py": "bùguǎn",
-       "gl": "no matter; regardless of",
-       "pos": "conj."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
        "pos": "v."
       },
       {
-       "h": "上学",
-       "py": "shàngxué",
-       "gl": "go to school; attend school",
-       "pos": "v."
+       "h": "，"
       },
       {
-       "h": "还是",
-       "py": "háishi",
-       "gl": "still; nevertheless; after all",
+       "h": "林夏",
+       "py": "Lín Xià",
+       "gl": "Lin Xia",
+       "pos": "proper noun"
+      },
+      {
+       "h": "不再",
+       "py": "bùzài",
+       "gl": "no longer; not anymore",
        "pos": "adv."
       },
       {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on; in; in terms of (after a noun: 世界上 in the world, 工作上 at work)",
+       "pos": "v."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "课",
+       "py": "kè",
+       "gl": "class; lesson",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "The alarm went off at seven; she turned it off, then stared at the ceiling and lay there until noon.",
+   "phrases": [
     {
-     "en": "it's easy for everyone to feel stressed.",
+     "en": "The alarm went off at seven; she turned it off, then stared at the ceiling and lay there until noon.",
      "words": [
       {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
+       "h": "闹钟",
+       "py": "nàozhōng",
+       "gl": "alarm clock",
+       "pos": "n."
+      },
+      {
+       "h": "七",
+       "py": "qī",
+       "gl": "seven",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "响",
+       "py": "xiǎng",
+       "gl": "ring",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "容易",
-       "py": "róngyì",
-       "gl": "easy; be prone to; likely to",
-       "pos": "adj."
-      },
-      {
-       "h": "感到",
-       "py": "gǎndào",
-       "gl": "feel",
+       "h": "关",
+       "py": "guān",
+       "gl": "turn off; close",
        "pos": "v."
       },
       {
-       "h": "压力",
-       "py": "yālì",
-       "gl": "pressure; stress",
+       "h": "掉",
+       "py": "diào",
+       "gl": "(complement: away, off)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "然后",
+       "py": "ránhòu",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "天花板",
+       "py": "tiānhuābǎn",
+       "gl": "ceiling",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "躺",
+       "py": "tǎng",
+       "gl": "lie (down)",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "中午",
+       "py": "zhōngwǔ",
+       "gl": "noon; midday",
        "pos": "n."
       },
       {
@@ -127,40 +196,22 @@
    ]
   },
   {
-   "en": "Many people get so nervous before exams that they can't sleep, and people with jobs often feel exhausted because they have too much to do and too little time.",
+   "en": "At night she was so nervous she couldn't sleep, and during the day so tired she didn't want to say a word.",
    "phrases": [
     {
-     "en": "Many people get so nervous before exams that they can't sleep,",
+     "en": "At night she was so nervous she couldn't sleep, and during the day so tired she didn't want to say a word.",
      "words": [
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening; in the evening; night",
        "pos": "n."
       },
       {
-       "h": "考试",
-       "py": "kǎoshì",
-       "gl": "exam; test",
-       "pos": "n."
-      },
-      {
-       "h": "前",
-       "py": "qián",
-       "gl": "ago; before",
-       "pos": "postposition"
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
        "h": "紧张",
@@ -171,8 +222,8 @@
       {
        "h": "得",
        "py": "de",
-       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
-       "pos": "function word"
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
       },
       {
        "h": "睡不着觉",
@@ -182,22 +233,799 @@
       },
       {
        "h": "，"
+      },
+      {
+       "h": "白天",
+       "py": "báitiān",
+       "gl": "during the day",
+       "pos": "n."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "累",
+       "py": "lèi",
+       "gl": "tired",
+       "pos": "adj."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "话",
+       "py": "huà",
+       "gl": "words; speech; what someone says",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"I'm fine, it's just exams coming up,\" she told her mom on the phone, smiling at the empty dorm room.",
+   "phrases": [
+    {
+     "en": "\"I'm fine, it's just exams coming up,\" she told her mom on the phone, smiling at the empty dorm room.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "没事",
+       "py": "méishì",
+       "gl": "it's all right; be fine",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "just; simply; exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick; almost; nearly",
+       "pos": "adv."
+      },
+      {
+       "h": "考试",
+       "py": "kǎoshì",
+       "gl": "exam; test",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "电话",
+       "py": "diànhuà",
+       "gl": "phone; phone call",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "空",
+       "py": "kōng",
+       "gl": "free (time) (有空 have free time); empty",
+       "pos": "adj."
+      },
+      {
+       "h": "宿舍",
+       "py": "sùshè",
+       "gl": "dormitory; dorm",
+       "pos": "n."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Her roommate, A Ning, was the class mental-health monitor.",
+   "phrases": [
+    {
+     "en": "Her roommate, A Ning, was the class mental-health monitor.",
+     "words": [
+      {
+       "h": "室友",
+       "py": "shìyǒu",
+       "gl": "roommate",
+       "pos": "n."
+      },
+      {
+       "h": "阿宁",
+       "py": "Ā Níng",
+       "gl": "A Ning",
+       "pos": "proper noun"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "班",
+       "py": "bān",
+       "gl": "class; group; shift",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "心理委员",
+       "py": "xīnlǐ wěiyuán",
+       "gl": "class mental-health monitor",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In training, the teacher had taught her only one thing: notice the small things. Curtains drawn even in the daytime, food left to go cold, a phone that rings and rings with no one answering.",
+   "phrases": [
+    {
+     "en": "In training, the teacher had taught her only one thing: notice the small things.",
+     "words": [
+      {
+       "h": "培训",
+       "py": "péixùn",
+       "gl": "training",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "老师",
+       "py": "lǎoshī",
+       "gl": "teacher",
+       "pos": "n."
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "件",
+       "py": "jiàn",
+       "gl": "measure word for clothing, matters, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "注意",
+       "py": "zhùyì",
+       "gl": "notice",
+       "pos": "v."
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
+       "pos": "n."
+      },
+      {
+       "h": "。"
       }
      ]
     },
     {
-     "en": "and people with jobs often, because they have too much to do and too little time,",
+     "en": "Curtains drawn even in the daytime, food left to go cold, a phone that rings and rings with no one answering.",
      "words": [
       {
-       "h": "上班",
-       "py": "shàngbān",
-       "gl": "go to work; work",
+       "h": "白天",
+       "py": "báitiān",
+       "gl": "during the day",
+       "pos": "n."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "拉",
+       "py": "lā",
+       "gl": "to draw (curtains)",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "窗帘",
+       "py": "chuānglián",
+       "gl": "curtain",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "凉",
+       "py": "liáng",
+       "gl": "cool; cold",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "饭",
+       "py": "fàn",
+       "gl": "meal; food; cooked rice",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "响",
+       "py": "xiǎng",
+       "gl": "ring (of a phone)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "久",
+       "py": "jiǔ",
+       "gl": "long (time); for a long time",
+       "pos": "adj."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "接",
+       "py": "jiē",
+       "gl": "to answer (a call)",
        "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "电话",
+       "py": "diànhuà",
+       "gl": "phone; phone call",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "One evening A Ning sat on the edge of her bed and didn't try to talk her into anything.",
+   "phrases": [
+    {
+     "en": "One evening A Ning sat on the edge of her bed and didn't try to talk her into anything.",
+     "words": [
+      {
+       "h": "一天",
+       "py": "yītiān",
+       "gl": "one day; a day; (one) day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "阿宁",
+       "py": "Ā Níng",
+       "gl": "A Ning",
+       "pos": "proper noun"
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "床边",
+       "py": "chuángbiān",
+       "gl": "bedside",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "劝",
+       "py": "quàn",
+       "gl": "persuade; advise; urge",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"I can see you're really tired,\" she said. \"If you want, I'll go with you to the counseling center.\"",
+   "phrases": [
+    {
+     "en": "\"I can see you're really tired,\" she said. \"If you want, I'll go with you to the counseling center.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "出来",
+       "py": "chūlái",
+       "gl": "directional complement: out; into being; come out",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "累",
+       "py": "lèi",
+       "gl": "tired",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "愿意",
+       "py": "yuànyì",
+       "gl": "be willing",
+       "pos": "v."
+      },
+      {
+       "h": "的话",
+       "py": "dehuà",
+       "gl": "if (…的话: if …)",
+       "pos": "conj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "陪",
+       "py": "péi",
+       "gl": "accompany; keep company",
+       "pos": "v."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "心理咨询中心",
+       "py": "xīnlǐ zīxún zhōngxīn",
+       "gl": "counseling center",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"The people who go there have problems,\" Lin Xia said. \"It's so embarrassing.\"",
+   "phrases": [
+    {
+     "en": "\"The people who go there have problems,\" Lin Xia said. \"It's so embarrassing.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "那儿",
+       "py": "nàér",
+       "gl": "there",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -207,87 +1035,222 @@
        "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
+       "h": "，"
       },
       {
-       "h": "常常",
-       "py": "chángcháng",
-       "gl": "often",
-       "pos": "adv."
+       "h": "”"
       },
       {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because of; because",
-       "pos": "conj."
+       "h": "林夏",
+       "py": "Lín Xià",
+       "gl": "Lin Xia",
+       "pos": "proper noun"
       },
       {
-       "h": "任务",
-       "py": "rènwu",
-       "gl": "task",
-       "pos": "n."
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
       },
       {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
+       "h": "，"
+      },
+      {
+       "h": "“"
       },
       {
        "h": "多",
        "py": "duō",
-       "gl": "many; much; more",
+       "gl": "many; much",
        "pos": "adj."
       },
       {
-       "h": "、"
+       "h": "丢人",
+       "py": "diūrén",
+       "gl": "embarrassing, shameful",
+       "pos": "adj."
       },
       {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
+       "h": "啊",
+       "py": "a",
+       "gl": "particle: agreement, emotion (ah; oh)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"So if you catch a cold, is it embarrassing to see a doctor?\"",
+   "phrases": [
+    {
+     "en": "\"So if you catch a cold, is it embarrassing to see a doctor?\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "感冒",
+       "py": "gǎnmào",
+       "gl": "catch a cold; cold",
        "pos": "n."
       },
       {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "紧",
-       "py": "jǐn",
-       "gl": "tight (of time); pressed",
-       "pos": "adj."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "feel exhausted.",
-     "words": [
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but",
-       "pos": "conj."
       },
       {
-       "h": "感到",
-       "py": "gǎndào",
-       "gl": "feel",
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
        "pos": "v."
       },
       {
-       "h": "疲惫",
-       "py": "píbèi",
-       "gl": "tired; exhausted",
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "医生",
+       "py": "yīshēng",
+       "gl": "doctor",
+       "pos": "n."
+      },
+      {
+       "h": "丢人",
+       "py": "diūrén",
+       "gl": "embarrassing, shameful",
        "pos": "adj."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lin Xia didn't answer. Three days later, the two of them were standing at the door of the counseling center.",
+   "phrases": [
+    {
+     "en": "Lin Xia didn't answer. Three days later, the two of them were standing at the door of the counseling center.",
+     "words": [
+      {
+       "h": "林夏",
+       "py": "Lín Xià",
+       "gl": "Lin Xia",
+       "pos": "proper noun"
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "回答",
+       "py": "huídá",
+       "gl": "answer; reply",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "两个人",
+       "py": "liǎnggèrén",
+       "gl": "two people",
+       "pos": "n."
+      },
+      {
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "心理咨询中心",
+       "py": "xīnlǐ zīxún zhōngxīn",
+       "gl": "counseling center",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "门口",
+       "py": "ménkǒu",
+       "gl": "entrance; doorway",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -297,55 +1260,288 @@
    ]
   },
   {
-   "en": "Mental health is actually just as important as physical health; if you're under too much stress and in a bad mood for a long time, it will also affect your work and your relationships.",
+   "en": "The hallway was so quiet you could hear the clock.",
    "phrases": [
     {
-     "en": "Mental health is actually just as important as physical health;",
+     "en": "The hallway was so quiet you could hear the clock.",
      "words": [
       {
-       "h": "心理健康",
-       "py": "xīnlǐjiànkāng",
-       "gl": "mental health",
+       "h": "走廊",
+       "py": "zǒuláng",
+       "gl": "corridor; veranda",
        "pos": "n."
       },
       {
-       "h": "其实",
-       "py": "qíshí",
-       "gl": "actually; in fact",
-       "pos": "adv."
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
+       "h": "安静",
+       "py": "ānjìng",
+       "gl": "quiet; calm",
+       "pos": "adj."
       },
       {
-       "h": "身体健康",
-       "py": "shēntǐjiànkāng",
-       "gl": "good health; physical health",
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "听见",
+       "py": "tīngjiàn",
+       "gl": "hear",
+       "pos": "v."
+      },
+      {
+       "h": "钟",
+       "py": "zhōng",
+       "gl": "bell",
        "pos": "n."
       },
       {
-       "h": "一样",
-       "py": "yíyàng",
-       "gl": "same; identical",
-       "pos": "adj."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lin Xia stood outside the door for ten minutes, raising her hand and lowering it again; A Ning just stood beside her and didn't rush her once.",
+   "phrases": [
+    {
+     "en": "Lin Xia stood outside the door for ten minutes, raising her hand and lowering it again;",
+     "words": [
+      {
+       "h": "林夏",
+       "py": "Lín Xià",
+       "gl": "Lin Xia",
+       "pos": "proper noun"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "门外",
+       "py": "ménwài",
+       "gl": "outside the door; outside the gate",
+       "pos": "n."
+      },
+      {
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "十",
+       "py": "shí",
+       "gl": "ten",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
       },
       {
        "h": "，"
+      },
+      {
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "抬",
+       "py": "tái",
+       "gl": "lift; raise",
+       "pos": "v."
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "under (强光下 under bright light)",
+       "pos": "postposition"
+      },
+      {
+       "h": "；"
       }
      ]
     },
     {
-     "en": "if you're under too much stress and in a bad mood for a long time,",
+     "en": "A Ning just stood beside her and didn't rush her once.",
      "words": [
+      {
+       "h": "阿宁",
+       "py": "Ā Níng",
+       "gl": "A Ning",
+       "pos": "proper noun"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "催",
+       "py": "cuī",
+       "gl": "hurry; rush; urge",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A sheet of paper on the door said: If you need help at night, call the national mental health hotline, 12356.",
+   "phrases": [
+    {
+     "en": "A sheet of paper on the door said: If you need help at night, call the national mental health hotline, 12356.",
+     "words": [
+      {
+       "h": "门",
+       "py": "mén",
+       "gl": "door",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "贴",
+       "py": "tiē",
+       "gl": "stick; paste; put up",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "张",
+       "py": "zhāng",
+       "gl": "measure word for flat objects (paper, photos, tables)",
+       "pos": "measure word"
+      },
+      {
+       "h": "纸",
+       "py": "zhǐ",
+       "gl": "paper",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
       {
        "h": "如果",
        "py": "rúguǒ",
@@ -353,86 +1549,226 @@
        "pos": "conj."
       },
       {
-       "h": "长期",
-       "py": "chángqī",
-       "gl": "long-term; over a long period",
+       "h": "夜里",
+       "py": "yèlǐ",
+       "gl": "at night",
        "pos": "n."
       },
       {
-       "h": "压力",
-       "py": "yālì",
-       "gl": "pressure; stress",
-       "pos": "n."
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "心情",
-       "py": "xīnqíng",
-       "gl": "mood",
-       "pos": "n."
-      },
-      {
-       "h": "不好",
-       "py": "bùhǎo",
-       "gl": "bad; not good",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it will also affect your work and your relationships.",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
-      },
-      {
-       "h": "影响",
-       "py": "yǐngxiǎng",
-       "gl": "influence; affect",
+       "h": "需要",
+       "py": "xūyào",
+       "gl": "need to; have to",
        "pos": "v."
       },
       {
-       "h": "工作效率",
-       "py": "gōngzuòxiàolǜ",
-       "gl": "work efficiency",
+       "h": "帮助",
+       "py": "bāngzhù",
+       "gl": "help; assistance",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
+       "h": "，"
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may",
+       "pos": "v."
+      },
+      {
+       "h": "拨打",
+       "py": "bōdǎ",
+       "gl": "dial; call (a number)",
+       "pos": "v."
+      },
+      {
+       "h": "全国",
+       "py": "quánguó",
+       "gl": "the whole country; nationwide",
+       "pos": "adj."
+      },
+      {
+       "h": "统一",
+       "py": "tǒngyī",
+       "gl": "unify; unite; unified",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "心理",
+       "py": "xīnlǐ",
+       "gl": "psychological; mental; psychology; mentality",
+       "pos": "n."
+      },
+      {
+       "h": "援助",
+       "py": "yuánzhù",
+       "gl": "aid; assistance",
+       "pos": "n."
+      },
+      {
+       "h": "热线",
+       "py": "rèxiàn",
+       "gl": "hotline",
+       "pos": "n."
+      },
+      {
+       "h": "一二三五六",
+       "py": "yāo èr sān wǔ liù",
+       "gl": "12356 (mental health hotline)",
+       "pos": "num."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Since 2025, the Health Commission has run this hotline nationwide; whatever city you're in, it's the same number.",
+   "phrases": [
+    {
+     "en": "Since 2025, the Health Commission has run this hotline nationwide; whatever city you're in, it's the same number.",
+     "words": [
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "二零二五年",
+       "py": "èr líng èr wǔ nián",
+       "gl": "the year 2025",
+       "pos": "n."
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "(从…起) starting from",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "卫健委",
+       "py": "Wèijiànwěi",
+       "gl": "Health Commission",
+       "pos": "proper noun"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "全国",
+       "py": "quánguó",
+       "gl": "the whole country; nationwide",
+       "pos": "n."
+      },
+      {
+       "h": "开通",
+       "py": "kāitōng",
+       "gl": "open; launch (a service, line); activate",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "热线",
+       "py": "rèxiàn",
+       "gl": "hotline",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不管",
+       "py": "bùguǎn",
+       "gl": "no matter; regardless of",
        "pos": "conj."
       },
       {
-       "h": "人际关系",
-       "py": "rénjìguānxì",
-       "gl": "interpersonal relationships",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "哪个",
+       "py": "nǎge",
+       "gl": "which",
+       "pos": "pron."
+      },
+      {
+       "h": "城市",
+       "py": "chéngshì",
+       "gl": "city",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "hit; play (ball games); make (a phone call)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "同一个",
+       "py": "tóngyīgè",
+       "gl": "the same (one)",
+       "pos": "pron."
+      },
+      {
+       "h": "号码",
+       "py": "hàomǎ",
+       "gl": "number",
        "pos": "n."
       },
       {
@@ -443,66 +1779,229 @@
    ]
   },
   {
-   "en": "Experts suggest some simple ways to relax in daily life, such as setting aside a little time every day for exercise; even a half-hour walk can lift your mood.",
+   "en": "In 2023 the Ministry of Education and other agencies also required schools and universities to have proper counselors and run regular mental health screenings.",
    "phrases": [
     {
-     "en": "Experts suggest some simple ways to relax in daily life,",
+     "en": "In 2023 the Ministry of Education and other agencies also required schools and universities to have proper counselors and run regular mental health screenings.",
      "words": [
       {
-       "h": "专家",
-       "py": "zhuānjiā",
-       "gl": "expert; specialist",
+       "h": "二零二三年",
+       "py": "èr líng èr sān nián",
+       "gl": "2023",
        "pos": "n."
       },
       {
-       "h": "建议",
-       "py": "jiànyì",
-       "gl": "suggest; advise; suggestion",
+       "h": "，"
+      },
+      {
+       "h": "教育部",
+       "py": "Jiàoyùbù",
+       "gl": "Ministry of Education",
+       "pos": "proper noun"
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "conj."
+      },
+      {
+       "h": "部门",
+       "py": "bùmén",
+       "gl": "department; government agency",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "要求",
+       "py": "yāoqiú",
+       "gl": "ask; request; demand; insist on; requirement; require",
        "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "平时",
-       "py": "píngshí",
-       "gl": "usually; ordinarily",
+       "h": "大中小学",
+       "py": "dà zhōng xiǎo xué",
+       "gl": "schools and universities",
        "pos": "n."
       },
       {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "function word"
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
       },
       {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
       },
       {
-       "h": "一些",
-       "py": "yìxiē",
-       "gl": "some; a few",
+       "h": "配",
+       "py": "pèi",
+       "gl": "go with; pair with; serve with",
+       "pos": "v."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "so that; in order to",
+       "pos": "conj."
+      },
+      {
+       "h": "心理",
+       "py": "xīnlǐ",
+       "gl": "psychological; mental; psychology; mentality",
+       "pos": "n."
+      },
+      {
+       "h": "老师",
+       "py": "lǎoshī",
+       "gl": "teacher",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "定期",
+       "py": "dìngqī",
+       "gl": "regularly; periodically",
+       "pos": "adv."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "心理健康",
+       "py": "xīnlǐjiànkāng",
+       "gl": "mental health",
+       "pos": "n."
+      },
+      {
+       "h": "筛查",
+       "py": "shāichá",
+       "gl": "screening",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the end, the door opened by itself. A counselor of about forty leaned out: \"Would you like to come in and sit for a while?\"",
+   "phrases": [
+    {
+     "en": "In the end, the door opened by itself. A counselor of about forty leaned out: \"Would you like to come in and sit for a while?\"",
+     "words": [
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "门",
+       "py": "mén",
+       "gl": "door",
+       "pos": "n."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
        "pos": "num."
       },
       {
-       "h": "简单",
-       "py": "jiǎndān",
-       "gl": "simple; easy",
-       "pos": "adj."
+       "h": "位",
+       "py": "wèi",
+       "gl": "polite measure word for people",
+       "pos": "measure word"
+      },
+      {
+       "h": "四十",
+       "py": "sìshí",
+       "gl": "forty",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "左右",
+       "py": "zuǒyòu",
+       "gl": "about; around (after a number)",
+       "pos": "adv."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "方法",
-       "py": "fāngfǎ",
-       "gl": "method; way",
+       "h": "咨询师",
+       "py": "zīxúnshī",
+       "gl": "counselor; consultant",
+       "pos": "n."
+      },
+      {
+       "h": "探",
+       "py": "tàn",
+       "gl": "stick out (one's head); poke",
+       "pos": "v."
+      },
+      {
+       "h": "出",
+       "py": "chū",
+       "gl": "out (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "头",
+       "py": "tóu",
+       "gl": "head",
        "pos": "n."
       },
       {
@@ -512,91 +2011,161 @@
        "pos": "v."
       },
       {
-       "h": "放松",
-       "py": "fàngsōng",
-       "gl": "relaxed; relax",
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
+       "h": "进来",
+       "py": "jìnlái",
+       "gl": "come in",
+       "pos": "v."
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
+       "pos": "v."
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
+       "pos": "v."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lin Xia nodded, and A Ning sat on the bench in the hallway to wait for her.",
+   "phrases": [
+    {
+     "en": "Lin Xia nodded, and A Ning sat on the bench in the hallway to wait for her.",
+     "words": [
+      {
+       "h": "林夏",
+       "py": "Lín Xià",
+       "gl": "Lin Xia",
+       "pos": "proper noun"
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "头",
+       "py": "tóu",
+       "gl": "head",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "阿宁",
+       "py": "Ā Níng",
+       "gl": "A Ning",
+       "pos": "proper noun"
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "走廊",
+       "py": "zǒuláng",
+       "gl": "corridor; veranda",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "长椅",
+       "py": "zhǎngyǐ",
+       "gl": "bench",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "wait",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
-       "h": "，"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "An hour later Lin Xia came out with red eyes, but she walked lightly, as if she'd put down a very heavy backpack.",
+   "phrases": [
     {
-     "en": "such as setting aside a little time every day for exercise;",
+     "en": "An hour later Lin Xia came out with red eyes,",
      "words": [
       {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
-      },
-      {
-       "h": "每天",
-       "py": "měitiān",
-       "gl": "every day",
-       "pos": "n."
-      },
-      {
-       "h": "抽出",
-       "py": "chōuchū",
-       "gl": "find (time); take out",
-       "pos": "v."
-      },
-      {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; a bit",
-       "pos": "adv."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "运动",
-       "py": "yùndòng",
-       "gl": "sport; exercise",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "even if it's just a half-hour walk, it can lift your mood.",
-     "words": [
-      {
-       "h": "哪怕",
-       "py": "nǎpà",
-       "gl": "even if",
-       "pos": "conj."
-      },
-      {
-       "h": "只是",
-       "py": "zhǐshì",
-       "gl": "just; only; merely",
-       "pos": "adv."
-      },
-      {
-       "h": "散步",
-       "py": "sànbù",
-       "gl": "take a walk; go for a walk",
-       "pos": "v."
-      },
-      {
-       "h": "半",
-       "py": "bàn",
-       "gl": "half",
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
        "pos": "num."
       },
       {
@@ -612,80 +2181,129 @@
        "pos": "n."
       },
       {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
        "h": "，"
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
+       "h": "林夏",
+       "py": "Lín Xià",
+       "gl": "Lin Xia",
+       "pos": "proper noun"
       },
       {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "h": "出来",
+       "py": "chūlái",
+       "gl": "directional complement: out; into being; come out",
        "pos": "v."
       },
       {
-       "h": "心情",
-       "py": "xīnqíng",
-       "gl": "mood",
-       "pos": "n."
-      },
-      {
-       "h": "变好",
-       "py": "biànhǎo",
-       "gl": "get better; become better",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Getting enough sleep is also important; staying up late not only affects your body but can easily bring your mood down.",
-   "phrases": [
-    {
-     "en": "Getting enough sleep is also important;",
-     "words": [
-      {
-       "h": "保证",
-       "py": "bǎozhèng",
-       "gl": "guarantee; ensure; promise",
-       "pos": "v."
-      },
-      {
-       "h": "充足",
-       "py": "chōngzú",
-       "gl": "sufficient; ample",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "睡眠",
-       "py": "shuìmián",
-       "gl": "sleep",
+       "h": "，"
+      },
+      {
+       "h": "眼睛",
+       "py": "yǎnjīng",
+       "gl": "eye; eyes",
        "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
+       "h": "红红的",
+       "py": "hónghóng de",
+       "gl": "red; reddened",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but she walked lightly, as if she'd put down a very heavy backpack.",
+     "words": [
+      {
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "up (complement: start/take on, e.g. 承担起 take on)",
+       "pos": "v."
+      },
+      {
+       "h": "路",
+       "py": "lù",
+       "gl": "road; route; (bus) line",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "轻",
+       "py": "qīng",
+       "gl": "light (in weight); gentle; soft",
+       "pos": "adj."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "under (强光下 under bright light)",
+       "pos": "postposition"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
       },
       {
        "h": "很",
@@ -694,79 +2312,21 @@
        "pos": "adv."
       },
       {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
+       "h": "重",
+       "py": "zhòng",
+       "gl": "heavy",
        "pos": "adj."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "staying up late not only affects your body,",
-     "words": [
-      {
-       "h": "熬夜",
-       "py": "áoyè",
-       "gl": "stay up late",
-       "pos": "v."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "不仅",
-       "py": "bùjǐn",
-       "gl": "not only",
-       "pos": "conj."
-      },
-      {
-       "h": "影响",
-       "py": "yǐngxiǎng",
-       "gl": "influence; affect",
-       "pos": "v."
-      },
-      {
-       "h": "身体",
-       "py": "shēntǐ",
-       "gl": "body; health",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but can easily bring your mood down.",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; still; in addition",
-       "pos": "adv."
-      },
-      {
-       "h": "容易",
-       "py": "róngyì",
-       "gl": "easy; be prone to; likely to",
-       "pos": "adj."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "情绪低落",
-       "py": "qíngxùdīluò",
-       "gl": "low spirits; feel down",
+       "h": "书包",
+       "py": "shūbāo",
+       "gl": "school bag; backpack",
        "pos": "n."
       },
       {
@@ -777,237 +2337,179 @@
    ]
   },
   {
-   "en": "Also, when something is bothering you, don't bottle it up; talk it over with a friend or family member, and once you say what's on your mind, you'll often feel much lighter.",
+   "en": "\"What did you tell her?\" \"Just that I'm really tired. She said that's a good start.\"",
    "phrases": [
     {
-     "en": "Also, when something is bothering you, don't bottle it up;",
+     "en": "\"What did you tell her?\" \"Just that I'm really tired. She said that's a good start.\"",
      "words": [
       {
-       "h": "另外",
-       "py": "lìngwài",
-       "gl": "in addition; besides; other; separately",
-       "pos": "conj."
+       "h": "“"
       },
       {
-       "h": "，"
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
       },
       {
-       "h": "遇到",
-       "py": "yùdào",
-       "gl": "encounter; come across; run into",
-       "pos": "v."
-      },
-      {
-       "h": "烦心事",
-       "py": "fánxīnshì",
-       "gl": "worry; something troubling",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不要",
-       "py": "búyào",
-       "gl": "don't; must not",
-       "pos": "function word"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "憋着",
-       "py": "biēzhe",
-       "gl": "hold in; keep (feelings) bottled up",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "talk it over with a friend or family member,",
-     "words": [
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "function word"
-      },
-      {
-       "h": "找",
-       "py": "zhǎo",
-       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
-       "pos": "v."
-      },
-      {
-       "h": "朋友",
-       "py": "péngyou",
-       "gl": "friend",
-       "pos": "n."
-      },
-      {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "家人",
-       "py": "jiārén",
-       "gl": "family members; family",
-       "pos": "n."
-      },
-      {
-       "h": "聊一聊",
-       "py": "liáoyìliáo",
-       "gl": "have a chat",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and once you say what's on your mind, you'll often feel much lighter.",
-     "words": [
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
        "pos": "prep."
       },
       {
-       "h": "心里",
-       "py": "xīnlǐ",
-       "gl": "in one's heart; inside",
-       "pos": "n."
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "想法",
-       "py": "xiǎngfǎ",
-       "gl": "idea; thought",
-       "pos": "n."
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
       },
       {
-       "h": "说出来",
-       "py": "shuōchūlái",
-       "gl": "say (out loud); speak",
+       "h": "？"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "累",
+       "py": "lèi",
+       "gl": "tired",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "往往",
-       "py": "wǎngwǎng",
-       "gl": "often; usually; tend to",
-       "pos": "adv."
+       "h": "这",
+       "py": "zhè",
+       "gl": "this; these",
+       "pos": "pron."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "can (know how to); will",
-       "pos": "function word"
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
       },
       {
-       "h": "轻松",
-       "py": "qīngsōng",
-       "gl": "relaxed; easy",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
        "pos": "adj."
       },
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start; beginning",
+       "pos": "v."
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "If the stress is really too much and you can't handle it yourself, you can also consider talking to a counselor; there's nothing shameful about that.",
+   "en": "That evening Lin Xia opened the curtains herself, and for the first time in a month the setting sun shone into the dorm.",
    "phrases": [
     {
-     "en": "If the stress is really too much and you can't handle it yourself,",
+     "en": "That evening Lin Xia opened the curtains herself, and for the first time in a month the setting sun shone into the dorm.",
      "words": [
       {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "压力",
-       "py": "yālì",
-       "gl": "pressure; stress",
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
        "pos": "n."
       },
       {
-       "h": "实在",
-       "py": "shízài",
-       "gl": "really; truly",
-       "pos": "adv."
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
+       "h": "傍晚",
+       "py": "bàngwǎn",
+       "gl": "dusk; early evening",
+       "pos": "n."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "林夏",
+       "py": "Lín Xià",
+       "gl": "Lin Xia",
+       "pos": "proper noun"
       },
       {
        "h": "自己",
@@ -1016,300 +2518,15 @@
        "pos": "pron."
       },
       {
-       "h": "调节",
-       "py": "tiáojié",
-       "gl": "regulate; adjust",
+       "h": "拉",
+       "py": "lā",
+       "gl": "pull; hold (someone's hand)",
        "pos": "v."
       },
       {
-       "h": "不过来",
-       "py": "bùguòlái",
-       "gl": "(after a verb) unable to manage; can't cope",
-       "pos": "function word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "you can also consider talking to a counselor;",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "function word"
-      },
-      {
-       "h": "考虑",
-       "py": "kǎolǜ",
-       "gl": "consider; think about",
-       "pos": "v."
-      },
-      {
-       "h": "找",
-       "py": "zhǎo",
-       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
-       "pos": "v."
-      },
-      {
-       "h": "心理咨询师",
-       "py": "xīnlǐzīxúnshī",
-       "gl": "psychological counselor; therapist",
-       "pos": "n."
-      },
-      {
-       "h": "谈一谈",
-       "py": "tányìtán",
-       "gl": "have a talk",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "there's nothing shameful about that.",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "adv."
-      },
-      {
-       "h": "不是",
-       "py": "bùshì",
-       "gl": "not be; is not",
-       "pos": "v."
-      },
-      {
-       "h": "什么",
-       "py": "shénme",
-       "gl": "what",
-       "pos": "pron."
-      },
-      {
-       "h": "丢人",
-       "py": "diūrén",
-       "gl": "embarrassing; shameful; lose face",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "事",
-       "py": "shì",
-       "gl": "matter; thing",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Faced with fierce \"involution\" (neijuan, a pointless rat race of competition), many young people have started choosing to \"lie flat\" (tangping, opting out of the rat race) as a way to ease the psychological pressure.",
-   "phrases": [
-    {
-     "en": "Faced with fierce \"involution\" (neijuan, a pointless rat race of competition), many young people have started choosing to \"lie flat\" (tangping, opting out of the rat race) as a way to ease the psychological pressure.",
-     "words": [
-      {
-       "h": "面对",
-       "py": "miànduì",
-       "gl": "face; confront; deal with",
-       "pos": "v."
-      },
-      {
-       "h": "激烈",
-       "py": "jīliè",
-       "gl": "intense; fierce",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "内卷",
-       "py": "nèijuǎn",
-       "gl": "rat race; involution (excessive competition)",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "竞争",
-       "py": "jìngzhēng",
-       "gl": "competition",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "年轻人",
-       "py": "niánqīngrén",
-       "gl": "young people",
-       "pos": "n."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "选择",
-       "py": "xuǎnzé",
-       "gl": "choose",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "躺平",
-       "py": "tǎngpíng",
-       "gl": "\"lying flat\" (opting out of the rat race)",
-       "pos": "v."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "以此",
-       "py": "yǐcǐ",
-       "gl": "by this; thereby",
-       "pos": "conj."
-      },
-      {
-       "h": "减轻",
-       "py": "jiǎnqīng",
-       "gl": "lighten; reduce; ease",
-       "pos": "v."
-      },
-      {
-       "h": "心理",
-       "py": "xīnlǐ",
-       "gl": "psychological; mental",
-       "pos": "adj."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on; in (after a noun: 桌子上 on the table; 历史上 in history)",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "压力",
-       "py": "yālì",
-       "gl": "pressure; stress",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "To help more people, many cities have set up mental health hotlines offering free counseling around the clock.",
-   "phrases": [
-    {
-     "en": "To help more people, many cities have set up mental health hotlines offering free counseling around the clock.",
-     "words": [
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "帮助",
-       "py": "bāngzhù",
-       "gl": "help; assist",
-       "pos": "v."
-      },
-      {
-       "h": "更多",
-       "py": "gèngduō",
-       "gl": "more; even more",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "people; others",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "开通",
-       "py": "kāitōng",
-       "gl": "open; launch (a service, line); activate",
+       "h": "开",
+       "py": "kāi",
+       "gl": "open (complement)",
        "pos": "v."
       },
       {
@@ -1319,364 +2536,57 @@
        "pos": "particle"
       },
       {
-       "h": "心理",
-       "py": "xīnlǐ",
-       "gl": "psychological; mental",
-       "pos": "n."
-      },
-      {
-       "h": "援助",
-       "py": "yuánzhù",
-       "gl": "aid; assistance",
-       "pos": "n."
-      },
-      {
-       "h": "热线",
-       "py": "rèxiàn",
-       "gl": "hotline",
+       "h": "窗帘",
+       "py": "chuānglián",
+       "gl": "curtain",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "随时",
-       "py": "suíshí",
-       "gl": "at any time",
-       "pos": "adv."
+       "h": "一个月",
+       "py": "yígèyuè",
+       "gl": "one month",
+       "pos": "n."
       },
       {
-       "h": "提供",
-       "py": "tígōng",
-       "gl": "provide",
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
        "pos": "v."
       },
       {
-       "h": "免费",
-       "py": "miǎnfèi",
-       "gl": "free (of charge)",
-       "pos": "adj."
-      },
-      {
-       "h": "咨询",
-       "py": "zīxún",
-       "gl": "consultation; counseling",
-       "pos": "n."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In 2025, the national health authorities took the lead in launching a unified nationwide mental health hotline, 12356; no matter what city they're in, anyone struggling psychologically can call the same number for free, professional help.",
-   "phrases": [
-    {
-     "en": "In 2025, the national health authorities took the lead in launching a unified nationwide mental health hotline, 12356;",
-     "words": [
-      {
-       "h": "2025"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "国家卫生健康部门",
-       "py": "guójiāwèishēngjiànkāngbùmén",
-       "gl": "national health authorities",
-       "pos": "n."
-      },
-      {
-       "h": "牵头",
-       "py": "qiāntóu",
-       "gl": "take the lead; lead",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "全国范围内",
-       "py": "quánguófànwéinèi",
-       "gl": "nationwide; across the country",
-       "pos": "adv."
-      },
-      {
-       "h": "开通",
-       "py": "kāitōng",
-       "gl": "open; launch (a service, line); activate",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "统一",
-       "py": "tǒngyī",
-       "gl": "unify; unite; unified",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "心理",
-       "py": "xīnlǐ",
-       "gl": "psychological; mental",
-       "pos": "n."
-      },
-      {
-       "h": "援助",
-       "py": "yuánzhù",
-       "gl": "aid; assistance",
-       "pos": "n."
-      },
-      {
-       "h": "热线",
-       "py": "rèxiàn",
-       "gl": "hotline",
-       "pos": "n."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "12356"
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "no matter what city they're in, anyone struggling psychologically can call the same number for free, professional help.",
-     "words": [
-      {
-       "h": "不管",
-       "py": "bùguǎn",
-       "gl": "no matter; regardless of",
-       "pos": "conj."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "什么",
-       "py": "shénme",
-       "gl": "what",
-       "pos": "pron."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "遇到",
-       "py": "yùdào",
-       "gl": "encounter; come across; run into",
-       "pos": "v."
-      },
-      {
-       "h": "心理",
-       "py": "xīnlǐ",
-       "gl": "psychological; mental",
-       "pos": "adj."
-      },
-      {
-       "h": "困扰",
-       "py": "kùnrǎo",
-       "gl": "trouble; distress",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "function word"
-      },
-      {
-       "h": "拨打",
-       "py": "bōdǎ",
-       "gl": "dial; call (a number)",
-       "pos": "v."
-      },
-      {
-       "h": "同一",
-       "py": "tóngyī",
-       "gl": "the same",
-       "pos": "adj."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "号码",
-       "py": "hàomǎ",
-       "gl": "number",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "寻求",
-       "py": "xúnqiú",
-       "gl": "seek",
-       "pos": "v."
-      },
-      {
-       "h": "免费",
-       "py": "miǎnfèi",
-       "gl": "free (of charge)",
-       "pos": "adj."
-      },
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but",
-       "pos": "conj."
-      },
-      {
-       "h": "专业",
-       "py": "zhuānyè",
-       "gl": "professional",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "帮助",
-       "py": "bāngzhù",
-       "gl": "help; assistance",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Back in 2023, the Ministry of Education and several other departments jointly issued a special action plan requiring primary and secondary schools and universities nationwide to build a more complete mental health system within three years, including hiring more full-time school psychologists, offering mental health courses, and screening students regularly.",
-   "phrases": [
-    {
-     "en": "Back in 2023, the Ministry of Education and several other departments jointly issued a special action plan,",
-     "words": [
-      {
-       "h": "早在",
-       "py": "zǎozài",
-       "gl": "as early as; back in",
-       "pos": "adv."
-      },
-      {
-       "h": "2023"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "教育部",
-       "py": "jiàoyùbù",
-       "gl": "Ministry of Education",
-       "pos": "proper noun"
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "多个",
-       "py": "duōgè",
-       "gl": "several; multiple",
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
        "pos": "num."
       },
       {
-       "h": "部门",
-       "py": "bùmén",
-       "gl": "department; government agency",
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "夕阳",
+       "py": "xīyáng",
+       "gl": "setting sun; sunset",
        "pos": "n."
       },
       {
-       "h": "联合",
-       "py": "liánhé",
-       "gl": "unite; join forces",
-       "pos": "adv."
+       "h": "照",
+       "py": "zhào",
+       "gl": "shine (a light); take a photo; reflect",
+       "pos": "v."
       },
       {
-       "h": "发布",
-       "py": "fābù",
-       "gl": "post; publish",
+       "h": "进",
+       "py": "jìn",
+       "gl": "in (complement)",
        "pos": "v."
       },
       {
@@ -1684,2328 +2594,11 @@
        "py": "le",
        "gl": "particle: completed action / change of state",
        "pos": "particle"
-      },
-      {
-       "h": "专项",
-       "py": "zhuānxiàng",
-       "gl": "special; dedicated (fund, program)",
-       "pos": "adj."
-      },
-      {
-       "h": "行动计划",
-       "py": "xíngdòngjìhuà",
-       "gl": "action plan",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "requiring primary and secondary schools and universities nationwide to build a more complete mental health system within three years,",
-     "words": [
-      {
-       "h": "要求",
-       "py": "yāoqiú",
-       "gl": "require; demand",
-       "pos": "v."
-      },
-      {
-       "h": "全国",
-       "py": "quánguó",
-       "gl": "the whole country; nationwide",
-       "pos": "n."
-      },
-      {
-       "h": "中小学",
-       "py": "zhōngxiǎoxué",
-       "gl": "primary and secondary schools",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "高校",
-       "py": "gāoxiào",
-       "gl": "college; university",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "内",
-       "py": "nèi",
-       "gl": "within; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "建立",
-       "py": "jiànlì",
-       "gl": "establish; build",
-       "pos": "v."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "完善",
-       "py": "wánshàn",
-       "gl": "improve; perfect; well-developed",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "心理健康",
-       "py": "xīnlǐjiànkāng",
-       "gl": "mental health",
-       "pos": "n."
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "体系",
-       "py": "tǐxì",
-       "gl": "system",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "including hiring more full-time school psychologists, offering mental health courses, and screening students regularly.",
-     "words": [
-      {
-       "h": "包括",
-       "py": "bāokuò",
-       "gl": "include",
-       "pos": "v."
-      },
-      {
-       "h": "增加",
-       "py": "zēngjiā",
-       "gl": "increase; raise",
-       "pos": "v."
-      },
-      {
-       "h": "专职",
-       "py": "zhuānzhí",
-       "gl": "full-time; dedicated (staff)",
-       "pos": "adj."
-      },
-      {
-       "h": "心理",
-       "py": "xīnlǐ",
-       "gl": "psychological; mental",
-       "pos": "adj."
-      },
-      {
-       "h": "教师",
-       "py": "jiàoshī",
-       "gl": "teacher",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "开设",
-       "py": "kāishè",
-       "gl": "open; set up; offer (a course)",
-       "pos": "v."
-      },
-      {
-       "h": "心理健康",
-       "py": "xīnlǐjiànkāng",
-       "gl": "mental health",
-       "pos": "n."
-      },
-      {
-       "h": "课程",
-       "py": "kèchéng",
-       "gl": "course; curriculum",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "conj."
-      },
-      {
-       "h": "定期",
-       "py": "dìngqī",
-       "gl": "regularly; periodically",
-       "pos": "adv."
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
-      {
-       "h": "学生",
-       "py": "xuéshēng",
-       "gl": "student",
-       "pos": "n."
-      },
-      {
-       "h": "进行",
-       "py": "jìnxíng",
-       "gl": "carry out; conduct",
-       "pos": "v."
-      },
-      {
-       "h": "心理健康",
-       "py": "xīnlǐjiànkāng",
-       "gl": "mental health",
-       "pos": "n."
-      },
-      {
-       "h": "筛查",
-       "py": "shāichá",
-       "gl": "screening; screen (for disease)",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "These measures reflect an important change: mental health problems are no longer seen as a sign of \"weakness\" but as ordinary health problems, just like a cold or a fever, and more and more people are seeking professional help instead of bearing the stress alone.",
-   "phrases": [
-    {
-     "en": "These measures reflect an important change: mental health problems are no longer seen as a sign of \"weakness,\"",
-     "words": [
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "措施",
-       "py": "cuòshī",
-       "gl": "measure; step",
-       "pos": "n."
-      },
-      {
-       "h": "反映",
-       "py": "fǎnyìng",
-       "gl": "reflect; show",
-       "pos": "v."
-      },
-      {
-       "h": "出",
-       "py": "chū",
-       "gl": "resultative complement: out (showing a result)",
-       "pos": "function word"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "变化",
-       "py": "biànhuà",
-       "gl": "change; changes",
-       "pos": "n."
-      },
-      {
-       "h": "："
-      },
-      {
-       "h": "心理健康",
-       "py": "xīnlǐjiànkāng",
-       "gl": "mental health",
-       "pos": "n."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "不再",
-       "py": "bùzài",
-       "gl": "no longer; not anymore",
-       "pos": "adv."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "function word"
-      },
-      {
-       "h": "当作",
-       "py": "dàngzuò",
-       "gl": "treat as; regard as",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "软弱",
-       "py": "ruǎnruò",
-       "gl": "weak; weakness",
-       "pos": "adj."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "表现",
-       "py": "biǎoxiàn",
-       "gl": "sign; manifestation",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but as ordinary health problems, just like a cold or a fever,",
-     "words": [
-      {
-       "h": "而是",
-       "py": "érshì",
-       "gl": "but rather (不是…而是… not … but …)",
-       "pos": "conj."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "function word"
-      },
-      {
-       "h": "看作",
-       "py": "kànzuò",
-       "gl": "regard as; consider",
-       "pos": "v."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "感冒",
-       "py": "gǎnmào",
-       "gl": "catch a cold; cold",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "发烧",
-       "py": "fāshāo",
-       "gl": "fever",
-       "pos": "n."
-      },
-      {
-       "h": "一样",
-       "py": "yīyàng",
-       "gl": "same; identical",
-       "pos": "adj."
-      },
-      {
-       "h": "普通",
-       "py": "pǔtōng",
-       "gl": "ordinary; common",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "健康",
-       "py": "jiànkāng",
-       "gl": "healthy; health",
-       "pos": "n."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and more and more people are seeking professional help instead of bearing the stress alone.",
-     "words": [
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "主动",
-       "py": "zhǔdòng",
-       "gl": "on one's own initiative; proactively",
-       "pos": "adv."
-      },
-      {
-       "h": "寻求",
-       "py": "xúnqiú",
-       "gl": "seek",
-       "pos": "v."
-      },
-      {
-       "h": "专业",
-       "py": "zhuānyè",
-       "gl": "professional",
-       "pos": "adj."
-      },
-      {
-       "h": "帮助",
-       "py": "bāngzhù",
-       "gl": "help; assistance",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but",
-       "pos": "conj."
-      },
-      {
-       "h": "不是",
-       "py": "búshì",
-       "gl": "not be; is not",
-       "pos": "v."
-      },
-      {
-       "h": "选择",
-       "py": "xuǎnzé",
-       "gl": "choose; choice",
-       "pos": "v."
-      },
-      {
-       "h": "独自",
-       "py": "dúzì",
-       "gl": "alone; by oneself",
-       "pos": "adv."
-      },
-      {
-       "h": "承受",
-       "py": "chéngshòu",
-       "gl": "bear; endure; withstand",
-       "pos": "v."
-      },
-      {
-       "h": "压力",
-       "py": "yālì",
-       "gl": "pressure; stress",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Some universities have also set up a system of \"mental health monitors\": trained student leaders help teachers notice classmates' emotional distress early and steer them toward professional help, forming a multilevel early-warning network from the dorms up to the departments.",
-   "phrases": [
-    {
-     "en": "Some universities have also set up a system of \"mental health monitors\": trained student leaders help teachers notice classmates' emotional distress early,",
-     "words": [
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "pron."
-      },
-      {
-       "h": "高校",
-       "py": "gāoxiào",
-       "gl": "college; university",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "设立",
-       "py": "shèlì",
-       "gl": "set up; establish",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "心理委员",
-       "py": "xīnlǐwěiyuán",
-       "gl": "student mental health representative",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "制度",
-       "py": "zhìdù",
-       "gl": "system; institution",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "由",
-       "py": "yóu",
-       "gl": "by (marks the agent)",
-       "pos": "prep."
-      },
-      {
-       "h": "经过",
-       "py": "jīngguò",
-       "gl": "go through; undergo; pass by",
-       "pos": "prep."
-      },
-      {
-       "h": "培训",
-       "py": "péixùn",
-       "gl": "training",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "学生",
-       "py": "xuéshēng",
-       "gl": "student",
-       "pos": "n."
-      },
-      {
-       "h": "骨干",
-       "py": "gǔgàn",
-       "gl": "backbone; key member",
-       "pos": "n."
-      },
-      {
-       "h": "协助",
-       "py": "xiézhù",
-       "gl": "assist; help",
-       "pos": "v."
-      },
-      {
-       "h": "老师",
-       "py": "lǎoshī",
-       "gl": "teacher",
-       "pos": "n."
-      },
-      {
-       "h": "及时",
-       "py": "jíshí",
-       "gl": "in time; promptly",
-       "pos": "adv."
-      },
-      {
-       "h": "发现",
-       "py": "fāxiàn",
-       "gl": "discover; notice; find",
-       "pos": "v."
-      },
-      {
-       "h": "同学",
-       "py": "tóngxué",
-       "gl": "classmate; fellow student",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "异常",
-       "py": "yìcháng",
-       "gl": "abnormal; unusually",
-       "pos": "adj."
-      },
-      {
-       "h": "情绪",
-       "py": "qíngxù",
-       "gl": "emotion; mood",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and steer them toward professional help, forming a multilevel early-warning network from the dorms up to the departments.",
-     "words": [
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "conj."
-      },
-      {
-       "h": "引导",
-       "py": "yǐndǎo",
-       "gl": "guide; lead",
-       "pos": "v."
-      },
-      {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
-       "pos": "pron."
-      },
-      {
-       "h": "寻求",
-       "py": "xúnqiú",
-       "gl": "seek",
-       "pos": "v."
-      },
-      {
-       "h": "专业",
-       "py": "zhuānyè",
-       "gl": "professional",
-       "pos": "adj."
-      },
-      {
-       "h": "帮助",
-       "py": "bāngzhù",
-       "gl": "help; assistance",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "形成",
-       "py": "xíngchéng",
-       "gl": "form; take shape",
-       "pos": "v."
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
       },
       {
        "h": "宿舍",
        "py": "sùshè",
        "gl": "dormitory; dorm",
-       "pos": "n."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; up to (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "学院",
-       "py": "xuéyuàn",
-       "gl": "college; school; institute",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more",
-       "pos": "adj."
-      },
-      {
-       "h": "层",
-       "py": "céng",
-       "gl": "measure word for layers, floors, levels",
-       "pos": "measure word"
-      },
-      {
-       "h": "预警",
-       "py": "yùjǐng",
-       "gl": "early warning; warn in advance",
-       "pos": "n."
-      },
-      {
-       "h": "网络",
-       "py": "wǎngluò",
-       "gl": "internet; network; online",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Besides in-person counseling, many internet platforms have launched online counseling, where users can talk to a counselor by text, voice, or even video anytime, anywhere, which greatly lowers the barrier to asking for help.",
-   "phrases": [
-    {
-     "en": "Besides in-person counseling, many internet platforms have launched online counseling,",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "线下",
-       "py": "xiànxià",
-       "gl": "offline; in person",
-       "pos": "adj."
-      },
-      {
-       "h": "咨询",
-       "py": "zīxún",
-       "gl": "consultation; counseling",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "互联网",
-       "py": "hùliánwǎng",
-       "gl": "internet",
-       "pos": "n."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "推出",
-       "py": "tuīchū",
-       "gl": "launch; introduce; release",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "在线",
-       "py": "zàixiàn",
-       "gl": "online",
-       "pos": "adj."
-      },
-      {
-       "h": "心理咨询",
-       "py": "xīnlǐzīxún",
-       "gl": "psychological counseling",
-       "pos": "n."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "where users can talk to a counselor by text, voice, or even video anytime, anywhere, which greatly lowers the barrier to asking for help.",
-     "words": [
-      {
-       "h": "用户",
-       "py": "yònghù",
-       "gl": "user",
-       "pos": "n."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "function word"
-      },
-      {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
-      },
-      {
-       "h": "文字",
-       "py": "wénzì",
-       "gl": "writing; text; written language",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "语音",
-       "py": "yǔyīn",
-       "gl": "voice; audio",
-       "pos": "n."
-      },
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "conj."
-      },
-      {
-       "h": "视频",
-       "py": "shìpín",
-       "gl": "video; video call",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "随时随地",
-       "py": "suíshísuídì",
-       "gl": "anytime, anywhere",
-       "pos": "adv."
-      },
-      {
-       "h": "与",
-       "py": "yǔ",
-       "gl": "and; with (formal)",
-       "pos": "prep."
-      },
-      {
-       "h": "心理咨询师",
-       "py": "xīnlǐzīxúnshī",
-       "gl": "psychological counselor; therapist",
-       "pos": "n."
-      },
-      {
-       "h": "交流",
-       "py": "jiāoliú",
-       "gl": "communicate; exchange",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "大大",
-       "py": "dàdà",
-       "gl": "greatly; considerably",
-       "pos": "adv."
-      },
-      {
-       "h": "降低",
-       "py": "jiàngdī",
-       "gl": "lower; reduce",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "求助",
-       "py": "qiúzhù",
-       "gl": "ask for help; seek help",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "门槛",
-       "py": "ménkǎn",
-       "gl": "threshold; barrier",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "On the business side, more and more companies are introducing Employee Assistance Programs (EAPs), offering confidential counseling, stress-management talks, and emotional support classes, in an effort to reduce absences and lost productivity caused by mental health problems at the source.",
-   "phrases": [
-    {
-     "en": "On the business side, more and more companies are introducing Employee Assistance Programs (EAPs),",
-     "words": [
-      {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "方面",
-       "py": "fāngmiàn",
-       "gl": "aspect; respect; side",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company",
-       "pos": "n."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "引入",
-       "py": "yǐnrù",
-       "gl": "introduce; bring in",
-       "pos": "v."
-      },
-      {
-       "h": "员工",
-       "py": "yuángōng",
-       "gl": "employee; staff",
-       "pos": "n."
-      },
-      {
-       "h": "帮助",
-       "py": "bāngzhù",
-       "gl": "help; assistance",
-       "pos": "n."
-      },
-      {
-       "h": "计划",
-       "py": "jìhuà",
-       "gl": "plan; program",
-       "pos": "n."
-      },
-      {
-       "h": "（"
-      },
-      {
-       "h": "EAP"
-      },
-      {
-       "h": "）"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "offering confidential counseling, stress-management talks, and emotional support classes,",
-     "words": [
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
-      {
-       "h": "员工",
-       "py": "yuángōng",
-       "gl": "employee; staff",
-       "pos": "n."
-      },
-      {
-       "h": "提供",
-       "py": "tígōng",
-       "gl": "provide",
-       "pos": "v."
-      },
-      {
-       "h": "保密",
-       "py": "bǎomì",
-       "gl": "keep secret; confidential",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "心理咨询",
-       "py": "xīnlǐzīxún",
-       "gl": "psychological counseling",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "压力",
-       "py": "yālì",
-       "gl": "pressure; stress",
-       "pos": "n."
-      },
-      {
-       "h": "管理",
-       "py": "guǎnlǐ",
-       "gl": "manage; run",
-       "pos": "n."
-      },
-      {
-       "h": "讲座",
-       "py": "jiǎngzuò",
-       "gl": "lecture; talk",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "情绪",
-       "py": "qíngxù",
-       "gl": "emotion; mood",
-       "pos": "n."
-      },
-      {
-       "h": "疏导",
-       "py": "shūdǎo",
-       "gl": "relief; guidance (of emotions)",
-       "pos": "n."
-      },
-      {
-       "h": "课程",
-       "py": "kèchéng",
-       "gl": "course; curriculum",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "in an effort to reduce absences and lost productivity caused by mental health problems at the source.",
-     "words": [
-      {
-       "h": "试图",
-       "py": "shìtú",
-       "gl": "try; attempt",
-       "pos": "v."
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "源头",
-       "py": "yuántóu",
-       "gl": "source; origin",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on; in (after a noun: 桌子上 on the table; 历史上 in history)",
-       "pos": "postposition"
-      },
-      {
-       "h": "减少",
-       "py": "jiǎnshǎo",
-       "gl": "reduce; cut down",
-       "pos": "v."
-      },
-      {
-       "h": "因",
-       "py": "yīn",
-       "gl": "because of; due to",
-       "pos": "prep."
-      },
-      {
-       "h": "心理",
-       "py": "xīnlǐ",
-       "gl": "psychological; mental",
-       "pos": "adj."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "导致",
-       "py": "dǎozhì",
-       "gl": "lead to; cause",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "缺勤",
-       "py": "quēqín",
-       "gl": "absence from work",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "效率",
-       "py": "xiàolǜ",
-       "gl": "efficiency",
-       "pos": "n."
-      },
-      {
-       "h": "下降",
-       "py": "xiàjiàng",
-       "gl": "fall; decline; drop",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Media figures and celebrities openly sharing how they've coped with anxiety and depression has also, to some extent, reduced social prejudice against mental illness, helping more people realize that admitting you need help is nothing to be ashamed of.",
-   "phrases": [
-    {
-     "en": "Media figures and celebrities openly sharing how they've coped with anxiety and depression",
-     "words": [
-      {
-       "h": "媒体",
-       "py": "méitǐ",
-       "gl": "media",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "公众人物",
-       "py": "gōngzhòngrénwù",
-       "gl": "public figure",
-       "pos": "n."
-      },
-      {
-       "h": "公开",
-       "py": "gōngkāi",
-       "gl": "public; open; make public; publicly",
-       "pos": "adv."
-      },
-      {
-       "h": "分享",
-       "py": "fēnxiǎng",
-       "gl": "share",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "应对",
-       "py": "yìngduì",
-       "gl": "respond to; cope with; deal with",
-       "pos": "v."
-      },
-      {
-       "h": "焦虑",
-       "py": "jiāolǜ",
-       "gl": "anxious; anxiety",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "抑郁",
-       "py": "yìyù",
-       "gl": "depression; low mood",
-       "pos": "n."
-      },
-      {
-       "h": "情绪",
-       "py": "qíngxù",
-       "gl": "emotion; mood",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "has also, to some extent, reduced social prejudice against mental illness,",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "一定",
-       "py": "yídìng",
-       "gl": "certain; some (degree of)",
-       "pos": "adj."
-      },
-      {
-       "h": "程度",
-       "py": "chéngdù",
-       "gl": "degree; extent",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on; in (after a noun: 桌子上 on the table; 历史上 in history)",
-       "pos": "postposition"
-      },
-      {
-       "h": "减少",
-       "py": "jiǎnshǎo",
-       "gl": "reduce; cut down",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "社会",
-       "py": "shèhuì",
-       "gl": "society",
-       "pos": "n."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "心理疾病",
-       "py": "xīnlǐjíbìng",
-       "gl": "mental illness",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "偏见",
-       "py": "piānjiàn",
-       "gl": "prejudice; bias",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "helping more people realize that admitting you need help is nothing to be ashamed of.",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "更多",
-       "py": "gèngduō",
-       "gl": "more; even more",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "意识到",
-       "py": "yìshídào",
-       "gl": "realize; become aware of",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "承认",
-       "py": "chéngrèn",
-       "gl": "admit; acknowledge",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "帮助",
-       "py": "bāngzhù",
-       "gl": "help; assistance",
-       "pos": "n."
-      },
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "adv."
-      },
-      {
-       "h": "不是",
-       "py": "búshì",
-       "gl": "not be; is not",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "件",
-       "py": "jiàn",
-       "gl": "measure word for clothing, matters, items",
-       "pos": "measure word"
-      },
-      {
-       "h": "丢人",
-       "py": "diūrén",
-       "gl": "embarrassing; shameful; lose face",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "事",
-       "py": "shì",
-       "gl": "matter; thing",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Overall, from national policy to company practice to changing personal attitudes, Chinese society is paying more and more attention to mental health; this is both a sign of social progress and a way of creating more room for people to seek help.",
-   "phrases": [
-    {
-     "en": "Overall, from national policy to company practice to changing personal attitudes,",
-     "words": [
-      {
-       "h": "总体",
-       "py": "zǒngtǐ",
-       "gl": "overall; on the whole",
-       "pos": "adv."
-      },
-      {
-       "h": "来看",
-       "py": "láikàn",
-       "gl": "(从…来看) from the perspective of; judging by",
-       "pos": "function word"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "state; country",
-       "pos": "n."
-      },
-      {
-       "h": "政策",
-       "py": "zhèngcè",
-       "gl": "policy",
-       "pos": "n."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; up to (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "实践",
-       "py": "shíjiàn",
-       "gl": "practice; put into practice",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "then; after that",
-       "pos": "adv."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; up to (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "个人",
-       "py": "gèrén",
-       "gl": "personal; individual",
-       "pos": "adj."
-      },
-      {
-       "h": "观念",
-       "py": "guānniàn",
-       "gl": "idea; notion; concept",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "转变",
-       "py": "zhuǎnbiàn",
-       "gl": "change; shift; transformation",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Chinese society is paying more and more attention to mental health;",
-     "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "社会",
-       "py": "shèhuì",
-       "gl": "society",
-       "pos": "n."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "心理健康",
-       "py": "xīnlǐjiànkāng",
-       "gl": "mental health",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "重视",
-       "py": "zhòngshì",
-       "gl": "attach importance to; value",
-       "pos": "n."
-      },
-      {
-       "h": "程度",
-       "py": "chéngdù",
-       "gl": "degree; extent",
-       "pos": "n."
-      },
-      {
-       "h": "正在",
-       "py": "zhèngzài",
-       "gl": "be in the middle of (doing)",
-       "pos": "adv."
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "提高",
-       "py": "tígāo",
-       "gl": "raise; improve",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "this is both a sign of social progress and a way of creating more room for people to seek help.",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this; these",
-       "pos": "pron."
-      },
-      {
-       "h": "既",
-       "py": "jì",
-       "gl": "both (既…又… both … and …)",
-       "pos": "conj."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "社会",
-       "py": "shèhuì",
-       "gl": "society",
-       "pos": "n."
-      },
-      {
-       "h": "进步",
-       "py": "jìnbù",
-       "gl": "progress; improve",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "体现",
-       "py": "tǐxiàn",
-       "gl": "embodiment; manifestation; reflect",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
-      {
-       "h": "更多",
-       "py": "gèngduō",
-       "gl": "more; even more",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "创造",
-       "py": "chuàngzào",
-       "gl": "create; creation",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "求助",
-       "py": "qiúzhù",
-       "gl": "ask for help; seek help",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "空间",
-       "py": "kōngjiān",
-       "gl": "space",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "It's worth mentioning that the World Health Organization has repeatedly stressed that mental health is an inseparable part of overall health and that every government should include mental health services in basic public health care; China's recent push for community clinics to add psychological outpatient services is a concrete policy expression of this idea.",
-   "phrases": [
-    {
-     "en": "It's worth mentioning that the World Health Organization has repeatedly stressed that mental health is an inseparable part of overall health,",
-     "words": [
-      {
-       "h": "值得",
-       "py": "zhíde",
-       "gl": "be worth; deserve",
-       "pos": "v."
-      },
-      {
-       "h": "一提",
-       "py": "yītí",
-       "gl": "mention (值得一提 worth mentioning)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "世界卫生组织",
-       "py": "shìjièwèishēngzǔzhī",
-       "gl": "World Health Organization (WHO)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "多次",
-       "py": "duōcì",
-       "gl": "many times; repeatedly",
-       "pos": "adv."
-      },
-      {
-       "h": "强调",
-       "py": "qiángdiào",
-       "gl": "emphasize; stress",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "心理健康",
-       "py": "xīnlǐjiànkāng",
-       "gl": "mental health",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "整体",
-       "py": "zhěngtǐ",
-       "gl": "whole; overall",
-       "pos": "adj."
-      },
-      {
-       "h": "健康",
-       "py": "jiànkāng",
-       "gl": "healthy; health",
-       "pos": "n."
-      },
-      {
-       "h": "不可分割",
-       "py": "bùkěfēngē",
-       "gl": "inseparable; integral",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "一部分",
-       "py": "yībùfèn",
-       "gl": "part; portion",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and that every government should include mental health services in basic public health care;",
-     "words": [
-      {
-       "h": "各国",
-       "py": "gèguó",
-       "gl": "every country; various countries",
-       "pos": "n."
-      },
-      {
-       "h": "政府",
-       "py": "zhèngfǔ",
-       "gl": "government",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "应",
-       "py": "yīng",
-       "gl": "should; ought to",
-       "pos": "function word"
-      },
-      {
-       "h": "将",
-       "py": "jiāng",
-       "gl": "particle introducing the object before the verb (like 把)",
-       "pos": "prep."
-      },
-      {
-       "h": "心理健康",
-       "py": "xīnlǐjiànkāng",
-       "gl": "mental health",
-       "pos": "n."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "纳入",
-       "py": "nàrù",
-       "gl": "include; bring into",
-       "pos": "v."
-      },
-      {
-       "h": "基本",
-       "py": "jīběn",
-       "gl": "basic; basically",
-       "pos": "adj."
-      },
-      {
-       "h": "公共卫生",
-       "py": "gōnggòngwèishēng",
-       "gl": "public health",
-       "pos": "n."
-      },
-      {
-       "h": "体系",
-       "py": "tǐxì",
-       "gl": "system",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "China's recent push for community clinics to add psychological outpatient services is a concrete policy expression of this idea.",
-     "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "近年来",
-       "py": "jìnniánlái",
-       "gl": "in recent years",
-       "pos": "adv."
-      },
-      {
-       "h": "推动",
-       "py": "tuīdòng",
-       "gl": "promote; push forward; drive",
-       "pos": "v."
-      },
-      {
-       "h": "基层",
-       "py": "jīcéng",
-       "gl": "grassroots; local level",
-       "pos": "adj."
-      },
-      {
-       "h": "医疗机构",
-       "py": "yīliáojīgòu",
-       "gl": "medical institution",
-       "pos": "n."
-      },
-      {
-       "h": "增设",
-       "py": "zēngshè",
-       "gl": "add; set up additionally",
-       "pos": "v."
-      },
-      {
-       "h": "心理",
-       "py": "xīnlǐ",
-       "gl": "psychological; mental",
-       "pos": "adj."
-      },
-      {
-       "h": "门诊",
-       "py": "ménzhěn",
-       "gl": "outpatient clinic",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "正是",
-       "py": "zhèngshì",
-       "gl": "precisely; it is exactly",
-       "pos": "adv."
-      },
-      {
-       "h": "这一",
-       "py": "zhèyī",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "理念",
-       "py": "lǐniàn",
-       "gl": "concept; philosophy; principle",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "政策",
-       "py": "zhèngcè",
-       "gl": "policy",
-       "pos": "n."
-      },
-      {
-       "h": "层面",
-       "py": "céngmiàn",
-       "gl": "level; aspect",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "具体",
-       "py": "jùtǐ",
-       "gl": "specific; concrete",
-       "pos": "adj."
-      },
-      {
-       "h": "体现",
-       "py": "tǐxiàn",
-       "gl": "embodiment; manifestation; reflect",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "It should be noted that mental health resources are still unevenly distributed across regions; professional services are relatively limited in rural and remote areas, and this is a key area for future policy to improve.",
-   "phrases": [
-    {
-     "en": "It should be noted that mental health resources are still unevenly distributed across regions;",
-     "words": [
-      {
-       "h": "值得",
-       "py": "zhíde",
-       "gl": "be worth; deserve",
-       "pos": "v."
-      },
-      {
-       "h": "注意",
-       "py": "zhùyì",
-       "gl": "pay attention to; be careful about",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不同",
-       "py": "bùtóng",
-       "gl": "different",
-       "pos": "adj."
-      },
-      {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
-       "pos": "n."
-      },
-      {
-       "h": "心理健康",
-       "py": "xīnlǐjiànkāng",
-       "gl": "mental health",
-       "pos": "n."
-      },
-      {
-       "h": "资源",
-       "py": "zīyuán",
-       "gl": "resource",
-       "pos": "n."
-      },
-      {
-       "h": "分布",
-       "py": "fēnbù",
-       "gl": "distribution; be distributed",
-       "pos": "n."
-      },
-      {
-       "h": "仍",
-       "py": "réng",
-       "gl": "still; yet",
-       "pos": "adv."
-      },
-      {
-       "h": "不均衡",
-       "py": "bùjūnhéng",
-       "gl": "uneven; unbalanced",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "professional services are relatively limited in rural and remote areas,",
-     "words": [
-      {
-       "h": "农村",
-       "py": "nóngcūn",
-       "gl": "countryside; rural area",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "偏远",
-       "py": "piānyuǎn",
-       "gl": "remote; out-of-the-way",
-       "pos": "adj."
-      },
-      {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
-       "pos": "n."
-      },
-      {
-       "h": "可",
-       "py": "kě",
-       "gl": "can; may",
-       "pos": "function word"
-      },
-      {
-       "h": "获得",
-       "py": "huòdé",
-       "gl": "get; obtain",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "专业",
-       "py": "zhuānyè",
-       "gl": "professional",
-       "pos": "adj."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "相对",
-       "py": "xiāngduì",
-       "gl": "relatively; comparatively",
-       "pos": "adv."
-      },
-      {
-       "h": "有限",
-       "py": "yǒuxiàn",
-       "gl": "limited",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and this is a key area for future policy to improve.",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this; these",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "未来",
-       "py": "wèilái",
-       "gl": "future; in the future",
-       "pos": "n."
-      },
-      {
-       "h": "政策",
-       "py": "zhèngcè",
-       "gl": "policy",
-       "pos": "n."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "重点",
-       "py": "zhòngdiǎn",
-       "gl": "key point; key; focus",
-       "pos": "n."
-      },
-      {
-       "h": "改善",
-       "py": "gǎishàn",
-       "gl": "improve",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "方向",
-       "py": "fāngxiàng",
-       "gl": "direction",
        "pos": "n."
       },
       {

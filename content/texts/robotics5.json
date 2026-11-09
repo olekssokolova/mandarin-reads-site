@@ -1,139 +1,28 @@
 {
  "id": "robotics5",
  "level": 5,
- "title_zh": "机器人时代",
- "title_en": "The Age of Robots",
+ "title_zh": "焊花",
+ "title_en": "Welding Sparks",
  "free": false,
  "audio_url": null,
- "note_en": "Look at 与其抗拒新技术，不如提前学习和机器协作所需要的新技能: the pattern 与其 A，不如 B means \"rather than A, it's better to B.\" The option being rejected comes first, after 与其, and the preferred one follows 不如, the reverse of the English \"better B than A\" but the same order as \"rather than A, B.\"",
+ "note_en": "了 and 着 mark different aspects. 了 after a verb shows completion or a change: 车间里多了二十台橙色的机械臂 \"there were now twenty orange robotic arms in the workshop.\" 着 shows an ongoing action or state: 它们一刻不停地转着 \"they kept turning without a pause\"; 年轻的技术员盯着电脑屏幕 \"the young technicians stared at the computer screen.\" Roughly, 了 is \"it happened,\" 着 is \"it's going on.\"",
  "sentences": [
   {
-   "en": "In recent years China's robotics industry has grown rapidly and become one of the largest markets for industrial robots in the world.",
+   "en": "Lao Chen had been a welder in the workshop of a car factory for twenty-two years, and his left hand bore a dozen scars burned by welding sparks.",
    "phrases": [
     {
-     "en": "In recent years China's robotics industry has grown rapidly",
+     "en": "Lao Chen had been a welder in the workshop of a car factory for twenty-two years,",
      "words": [
       {
-       "h": "近年来",
-       "py": "jìnniánlái",
-       "gl": "in recent years",
-       "pos": "adv."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
+       "h": "老陈",
+       "py": "Lǎo Chén",
+       "gl": "Old Chen",
        "pos": "proper noun"
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "产业",
-       "py": "chǎnyè",
-       "gl": "industry",
-       "pos": "n."
-      },
-      {
-       "h": "发展",
-       "py": "fāzhǎn",
-       "gl": "develop; development",
-       "pos": "v."
-      },
-      {
-       "h": "迅速",
-       "py": "xùnsù",
-       "gl": "rapidly; swiftly",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and become one of the largest markets for industrial robots in the world.",
-     "words": [
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "成为",
-       "py": "chéngwéi",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "全球",
-       "py": "quánqiú",
-       "gl": "global; worldwide",
-       "pos": "n."
-      },
-      {
-       "h": "最大",
-       "py": "zuìdà",
-       "gl": "biggest; largest",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "工业",
-       "py": "gōngyè",
-       "gl": "industry; industrial",
-       "pos": "n."
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "市场",
-       "py": "shìchǎng",
-       "gl": "market",
-       "pos": "n."
-      },
-      {
-       "h": "之一",
-       "py": "zhīyī",
-       "gl": "one of (最…之一 'one of the most …')",
-       "pos": "phrase"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In industries such as cars and electronics, many factories use robots instead of human workers to do repetitive and dangerous jobs, which has greatly raised productivity.",
-   "phrases": [
-    {
-     "en": "In industries such as cars and electronics,",
-     "words": [
-      {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -143,133 +32,27 @@
        "pos": "n."
       },
       {
-       "h": "、"
-      },
-      {
-       "h": "电子",
-       "py": "diànzǐ",
-       "gl": "electronic; electronics",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "行业",
-       "py": "hángyè",
-       "gl": "industry; line of business",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "many factories use robots instead of human workers",
-     "words": [
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "工厂",
-       "py": "gōngchǎng",
+       "h": "厂",
+       "py": "chǎng",
        "gl": "factory",
        "pos": "n."
       },
       {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "v."
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "代替",
-       "py": "dàitì",
-       "gl": "replace; substitute for",
-       "pos": "v."
-      },
-      {
-       "h": "人工",
-       "py": "réngōng",
-       "gl": "man-made; artificial (人工发酵 artificial fermentation)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to do repetitive and dangerous jobs, which has greatly raised productivity.",
-     "words": [
-      {
-       "h": "完成",
-       "py": "wánchéng",
-       "gl": "finish; complete; accomplish",
-       "pos": "v."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "重复",
-       "py": "chóngfù",
-       "gl": "repeat; repetition; repetitive",
-       "pos": "adj."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "危险",
-       "py": "wēixiǎn",
-       "gl": "danger; dangerous",
-       "pos": "adj."
-      },
-      {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
+       "h": "车间",
+       "py": "chējiān",
+       "gl": "workshop (in a factory)",
        "pos": "n."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "大大",
-       "py": "dàdà",
-       "gl": "greatly; considerably",
-       "pos": "adv."
-      },
-      {
-       "h": "提高",
-       "py": "tígāo",
-       "gl": "raise; improve",
+       "h": "当",
+       "py": "dāng",
+       "gl": "to work as",
        "pos": "v."
       },
       {
@@ -279,505 +62,9 @@
        "pos": "particle"
       },
       {
-       "h": "生产",
-       "py": "shēngchǎn",
-       "gl": "produce; manufacture",
-       "pos": "n."
-      },
-      {
-       "h": "效率",
-       "py": "xiàolǜ",
-       "gl": "efficiency",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Besides industrial robots, service robots are gradually making their way into ordinary people's lives.",
-   "phrases": [
-    {
-     "en": "Besides industrial robots,",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "工业",
-       "py": "gōngyè",
-       "gl": "industry; industrial",
-       "pos": "n."
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "service robots are gradually making their way into ordinary people's lives.",
-     "words": [
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "慢慢",
-       "py": "mànmàn",
-       "gl": "slowly; gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "走进",
-       "py": "zǒujìn",
-       "gl": "enter; walk into",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "普通",
-       "py": "pǔtōng",
-       "gl": "ordinary; common",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Some robots assist doctors in hospitals, some deliver food in restaurants, and others can chat with the elderly to keep them company.",
-   "phrases": [
-    {
-     "en": "Some robots assist doctors in hospitals,",
-     "words": [
-      {
-       "h": "有的",
-       "py": "yǒude",
-       "gl": "some (of them)",
-       "pos": "pron."
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "医院",
-       "py": "yīyuàn",
-       "gl": "hospital",
-       "pos": "n."
-      },
-      {
-       "h": "协助",
-       "py": "xiézhù",
-       "gl": "assist; help",
-       "pos": "v."
-      },
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "some deliver food in restaurants,",
-     "words": [
-      {
-       "h": "有的",
-       "py": "yǒude",
-       "gl": "some (of them)",
-       "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "餐厅",
-       "py": "cāntīng",
-       "gl": "restaurant",
-       "pos": "n."
-      },
-      {
-       "h": "送餐",
-       "py": "sòngcān",
-       "gl": "deliver food; food delivery",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and others can chat with the elderly to keep them company.",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "有的",
-       "py": "yǒude",
-       "gl": "some (of them)",
-       "pos": "pron."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "陪",
-       "py": "péi",
-       "gl": "accompany; keep company",
-       "pos": "v."
-      },
-      {
-       "h": "老人",
-       "py": "lǎorén",
-       "gl": "old person; elderly people",
-       "pos": "n."
-      },
-      {
-       "h": "聊天",
-       "py": "liáotiān",
-       "gl": "chat; talk",
-       "pos": "v."
-      },
-      {
-       "h": "解闷",
-       "py": "jiěmèn",
-       "gl": "relieve boredom",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "On top of that, China's falling birth rate and aging population are making its labor shortage more and more obvious.",
-   "phrases": [
-    {
-     "en": "On top of that, China's falling birth rate and aging population are making its labor shortage more and more obvious.",
-     "words": [
-      {
-       "h": "另外",
-       "py": "lìngwài",
-       "gl": "in addition; besides; other; separately",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "出生率",
-       "py": "chūshēnglǜ",
-       "gl": "birth rate",
-       "pos": "n."
-      },
-      {
-       "h": "下降",
-       "py": "xiàjiàng",
-       "gl": "fall; decline; drop",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "老龄化",
-       "py": "lǎolínghuà",
-       "gl": "aging (of the population)",
-       "pos": "n."
-      },
-      {
-       "h": "加剧",
-       "py": "jiājù",
-       "gl": "intensify; worsen",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "劳动力",
-       "py": "láodònglì",
-       "gl": "labor force; workforce",
-       "pos": "n."
-      },
-      {
-       "h": "短缺",
-       "py": "duǎnquē",
-       "gl": "shortage; short of",
-       "pos": "adj."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "变得",
-       "py": "biàndé",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "更加",
-       "py": "gèngjiā",
-       "gl": "even more",
-       "pos": "adv."
-      },
-      {
-       "h": "明显",
-       "py": "míngxiǎn",
-       "gl": "obvious; clear; clearly",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "That is exactly why some companies have started developing companion robots, hoping they can help care for the growing number of \"empty-nest\" elderly people whose children live far away.",
-   "phrases": [
-    {
-     "en": "That is exactly why some companies have started developing companion robots, hoping they can help care for the growing number of \"empty-nest\" elderly people whose children live far away.",
-     "words": [
-      {
-       "h": "正因为如此",
-       "py": "zhèngyīnwèirúcǐ",
-       "gl": "precisely because of this",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "adj."
-      },
-      {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "研发",
-       "py": "yánfā",
-       "gl": "research and develop; develop",
-       "pos": "v."
-      },
-      {
-       "h": "陪护",
-       "py": "péihù",
-       "gl": "care for; accompany (a patient); caregiving",
-       "pos": "v."
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "希望",
-       "py": "xīwàng",
-       "gl": "hope; wish",
-       "pos": "v."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "帮助",
-       "py": "bāngzhù",
-       "gl": "help; assist",
-       "pos": "v."
-      },
-      {
-       "h": "照顾",
-       "py": "zhàogù",
-       "gl": "take care of; look after",
-       "pos": "v."
-      },
-      {
-       "h": "越来越多",
-       "py": "yuèláiyuèduō",
-       "gl": "more and more",
-       "pos": "phrase"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "空巢老人",
-       "py": "kōngcháolǎorén",
-       "gl": "empty-nest elderly",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "According to a report by the International Federation of Robotics, in 2023 China's robot density reached about 470 units per 10,000 workers, ranking third in the world and overtaking Germany for the first time.",
-   "phrases": [
-    {
-     "en": "According to a report by the International Federation of Robotics,",
-     "words": [
-      {
-       "h": "根据",
-       "py": "gēnjù",
-       "gl": "according to; based on",
-       "pos": "prep."
-      },
-      {
-       "h": "国际机器人联合会",
-       "py": "guójìjīqìrénliánhéhuì",
-       "gl": "International Federation of Robotics",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "报告",
-       "py": "bàogào",
-       "gl": "report",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "in 2023 China's robot density reached about 470 units per 10,000 workers,",
-     "words": [
-      {
-       "h": "二零二三",
-       "py": "èrlíngèrsān",
-       "gl": "2023 (year)",
+       "h": "二十二",
+       "py": "èrshíèr",
+       "gl": "twenty-two",
        "pos": "num."
       },
       {
@@ -787,34 +74,1564 @@
        "pos": "measure word"
       },
       {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
+       "h": "焊工",
+       "py": "hàngōng",
+       "gl": "welder",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and his left hand bore a dozen scars burned by welding sparks.",
+     "words": [
+      {
+       "h": "左手",
+       "py": "zuǒshǒu",
+       "gl": "left hand",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "留",
+       "py": "liú",
+       "gl": "leave; set aside",
+       "pos": "v."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "under (强光下 under bright light)",
+       "pos": "postposition"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "十几",
+       "py": "shíjǐ",
+       "gl": "a dozen or so; over ten",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "焊花",
+       "py": "hànhuā",
+       "gl": "welding sparks",
+       "pos": "n."
+      },
+      {
+       "h": "烫",
+       "py": "tàng",
+       "gl": "scalding hot; scald",
+       "pos": "adj."
+      },
+      {
+       "h": "出来",
+       "py": "chūlái",
+       "gl": "directional complement: out; into being; come out",
+       "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "机器人密度",
-       "py": "jīqìrénmìdù",
-       "gl": "robot density",
+       "h": "疤",
+       "py": "bā",
+       "gl": "scar",
        "pos": "n."
       },
       {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That spring he came to work one morning and found twenty orange robotic arms in the workshop.",
+   "phrases": [
+    {
+     "en": "That spring he came to work one morning and found twenty orange robotic arms in the workshop.",
+     "words": [
+      {
+       "h": "那年",
+       "py": "nànián",
+       "gl": "that year",
+       "pos": "n."
+      },
+      {
+       "h": "春天",
+       "py": "chūntiān",
+       "gl": "spring (season)",
        "pos": "adv."
       },
       {
-       "h": "达到",
-       "py": "dádào",
-       "gl": "reach; achieve",
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
        "pos": "v."
+      },
+      {
+       "h": "上班",
+       "py": "shàngbān",
+       "gl": "go to work; work",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
+       "pos": "v."
+      },
+      {
+       "h": "车间",
+       "py": "chējiān",
+       "gl": "workshop (in a factory)",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "二十",
+       "py": "èrshí",
+       "gl": "twenty",
+       "pos": "num."
+      },
+      {
+       "h": "台",
+       "py": "tái",
+       "gl": "stage; platform; measure word for machines (computers, TVs)",
+       "pos": "measure word"
+      },
+      {
+       "h": "橙色",
+       "py": "chéngsè",
+       "gl": "orange (color)",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "机械臂",
+       "py": "jīxièbì",
+       "gl": "robotic arm",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "They kept turning without a pause, sparks flying out stroke after stroke, as neat as a dance no one had rehearsed.",
+   "phrases": [
+    {
+     "en": "They kept turning without a pause,",
+     "words": [
+      {
+       "h": "它们",
+       "py": "tāmen",
+       "gl": "they; them (for animals and things)",
+       "pos": "pron."
+      },
+      {
+       "h": "一刻不停",
+       "py": "yíkè bù tíng",
+       "gl": "without stopping for a moment",
+       "pos": "phrase"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "转着",
+       "py": "zhuànzhe",
+       "gl": "to spin",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "sparks flying out stroke after stroke, as neat as a dance no one had rehearsed.",
+     "words": [
+      {
+       "h": "焊花",
+       "py": "hànhuā",
+       "gl": "welding sparks",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "道",
+       "py": "dào",
+       "gl": "measure word for exam questions, dishes",
+       "pos": "measure word"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "道",
+       "py": "dào",
+       "gl": "measure word for exam questions, dishes",
+       "pos": "measure word"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "飞",
+       "py": "fēi",
+       "gl": "fly",
+       "pos": "v."
+      },
+      {
+       "h": "出去",
+       "py": "chūqu",
+       "gl": "out (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "整齐",
+       "py": "zhěngqí",
+       "gl": "neat; tidy",
+       "pos": "adv."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "场",
+       "py": "chǎng",
+       "gl": "measure word for events, games, performances",
+       "pos": "measure word"
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "排练",
+       "py": "páiliàn",
+       "gl": "rehearsal; rehearse",
+       "pos": "n."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "舞",
+       "py": "wǔ",
+       "gl": "dance",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lao Chen took ten minutes to weld a car door; a robotic arm took a minute and a half.",
+   "phrases": [
+    {
+     "en": "Lao Chen took ten minutes to weld a car door; a robotic arm took a minute and a half.",
+     "words": [
+      {
+       "h": "老陈",
+       "py": "Lǎo Chén",
+       "gl": "Old Chen",
+       "pos": "proper noun"
+      },
+      {
+       "h": "焊",
+       "py": "hàn",
+       "gl": "to weld",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "扇",
+       "py": "shàn",
+       "gl": "measure word for doors, windows, screens",
+       "pos": "measure word"
+      },
+      {
+       "h": "车门",
+       "py": "chēmén",
+       "gl": "car door",
+       "pos": "n."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "十",
+       "py": "shí",
+       "gl": "ten",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "机械臂",
+       "py": "jīxièbì",
+       "gl": "robotic arm",
+       "pos": "n."
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "分",
+       "py": "fēn",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "半",
+       "py": "bàn",
+       "gl": "half",
+       "pos": "num."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He stood outside the yellow line, face shield in hand, not knowing where to put it.",
+   "phrases": [
+    {
+     "en": "He stood outside the yellow line, face shield in hand, not knowing where to put it.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "黄线",
+       "py": "huángxiàn",
+       "gl": "yellow line",
+       "pos": "n."
+      },
+      {
+       "h": "外面",
+       "py": "wàimiàn",
+       "gl": "outside",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "拿着",
+       "py": "názhe",
+       "gl": "holding; with",
+       "pos": "v."
+      },
+      {
+       "h": "面罩",
+       "py": "miànzhào",
+       "gl": "face shield",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know; find out; learn",
+       "pos": "v."
+      },
+      {
+       "h": "该",
+       "py": "gāi",
+       "gl": "should; ought to",
+       "pos": "v."
+      },
+      {
+       "h": "往",
+       "py": "wǎng",
+       "gl": "toward; to",
+       "pos": "prep."
+      },
+      {
+       "h": "哪儿",
+       "py": "nǎr",
+       "gl": "where",
+       "pos": "question word"
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The workshop director said that workers on this line could either leave or take a training course to learn to maintain the robots.",
+   "phrases": [
+    {
+     "en": "The workshop director said that workers on this line",
+     "words": [
+      {
+       "h": "车间",
+       "py": "chējiān",
+       "gl": "workshop (in a factory)",
+       "pos": "n."
+      },
+      {
+       "h": "主任",
+       "py": "zhǔrèn",
+       "gl": "director; head (of a department)",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this; these",
+       "pos": "pron."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "线",
+       "py": "xiàn",
+       "gl": "line",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "工人",
+       "py": "gōngrén",
+       "gl": "worker",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "could either leave or take a training course to learn to maintain the robots.",
+     "words": [
+      {
+       "h": "要么",
+       "py": "yàome",
+       "gl": "either…or…",
+       "pos": "conj."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "send away (打发走)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "要么",
+       "py": "yàome",
+       "gl": "either…or…",
+       "pos": "conj."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go",
+       "pos": "v."
+      },
+      {
+       "h": "参加",
+       "py": "cānjiā",
+       "gl": "take part in; participate",
+       "pos": "v."
+      },
+      {
+       "h": "培训班",
+       "py": "péixùnbān",
+       "gl": "training course",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "维修",
+       "py": "wéixiū",
+       "gl": "repair, maintenance",
+       "pos": "v."
+      },
+      {
+       "h": "机器人",
+       "py": "jīqìrén",
+       "gl": "robot; bot",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "At home his wife asked what he would do, and after a long silence he said, \"I'm forty-six. Learn now?\"",
+   "phrases": [
+    {
+     "en": "At home his wife asked what he would do,",
+     "words": [
+      {
+       "h": "回到",
+       "py": "huídào",
+       "gl": "return to; get back to",
+       "pos": "v."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "妻子",
+       "py": "qīzǐ",
+       "gl": "wife",
+       "pos": "n."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
+       "pos": "pron."
+      },
+      {
+       "h": "办",
+       "py": "bàn",
+       "gl": "to do, act",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and after a long silence he said, \"I'm forty-six. Learn now?\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "沉默",
+       "py": "chénmò",
+       "gl": "be silent; silence",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "久",
+       "py": "jiǔ",
+       "gl": "long (time); for a long time",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "四十六",
+       "py": "sìshíliù",
+       "gl": "forty-six",
+       "pos": "num."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That night he tossed and turned: his daughter was in college, the mortgage wasn't paid off, and his mother was in a nursing home.",
+   "phrases": [
+    {
+     "en": "That night he tossed and turned:",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "夜里",
+       "py": "yèlǐ",
+       "gl": "at night",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "翻来覆去",
+       "py": "fān lái fù qù",
+       "gl": "turn over and over",
+       "pos": "phrase"
+      },
+      {
+       "h": "睡",
+       "py": "shuì",
+       "gl": "sleep",
+       "pos": "v."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "his daughter was in college, the mortgage wasn't paid off, and his mother was in a nursing home.",
+     "words": [
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "大学",
+       "py": "dàxué",
+       "gl": "university; college",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "房贷",
+       "py": "fángdài",
+       "gl": "mortgage",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "母亲",
+       "py": "mǔqīn",
+       "gl": "mother",
+       "pos": "n."
+      },
+      {
+       "h": "住",
+       "py": "zhù",
+       "gl": "live; stay",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "养老院",
+       "py": "yǎnglǎoyuàn",
+       "gl": "nursing home; retirement home",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The next morning, he signed up.",
+   "phrases": [
+    {
+     "en": "The next morning, he signed up.",
+     "words": [
+      {
+       "h": "第二",
+       "py": "dìèr",
+       "gl": "second",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "报",
+       "py": "bào",
+       "gl": "report (to the police); sign up (for a course)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "名",
+       "py": "míng",
+       "gl": "measure word for people (with a role or profession)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The manual was as thick as a brick and full of words he didn't understand. Every evening he sat under the lamp in his reading glasses, copying out the parts he didn't get, one by one.",
+   "phrases": [
+    {
+     "en": "The manual was as thick as a brick and full of words he didn't understand.",
+     "words": [
+      {
+       "h": "说明书",
+       "py": "shuōmíngshū",
+       "gl": "instructions; manual",
+       "pos": "n."
+      },
+      {
+       "h": "厚",
+       "py": "hòu",
+       "gl": "thick; warm (of clothes)",
+       "pos": "adj."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "块",
+       "py": "kuài",
+       "gl": "(measure word for bricks)",
+       "pos": "measure word"
+      },
+      {
+       "h": "砖",
+       "py": "zhuān",
+       "gl": "brick",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "里面",
+       "py": "lǐmiàn",
+       "gl": "inside",
+       "pos": "n."
+      },
+      {
+       "h": "全",
+       "py": "quán",
+       "gl": "all; entirely",
+       "pos": "adj."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "懂",
+       "py": "dǒng",
+       "gl": "understand",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "词",
+       "py": "cí",
+       "gl": "word",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    },
+    {
+     "en": "Every evening he sat under the lamp in his reading glasses, copying out the parts he didn't get, one by one.",
+     "words": [
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "戴着",
+       "py": "dàizhe",
+       "gl": "wearing",
+       "pos": "v."
+      },
+      {
+       "h": "老花镜",
+       "py": "lǎohuājìng",
+       "gl": "reading glasses",
+       "pos": "n."
+      },
+      {
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "灯",
+       "py": "dēng",
+       "gl": "light; lamp",
+       "pos": "n."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "under (强光下 under bright light)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "懂",
+       "py": "dǒng",
+       "gl": "understand",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "地方",
+       "py": "dìfāng",
+       "gl": "place",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (roads, rivers, fish), lines, messages, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (roads, rivers, fish), lines, messages, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "抄",
+       "py": "chāo",
+       "gl": "copy (by hand)",
+       "pos": "v."
+      },
+      {
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "His daughter explained things to him over video, and once she said, laughing, \"Dad, you study harder than I do now.\"",
+   "phrases": [
+    {
+     "en": "His daughter explained things to him over video,",
+     "words": [
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video; video call",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "讲",
+       "py": "jiǎng",
+       "gl": "talk about; tell; explain",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and once she said, laughing, \"Dad, you study harder than I do now.\"",
+     "words": [
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
+       "h": "笑着",
+       "py": "xiàozhe",
+       "gl": "smiling; with a smile",
+       "pos": "v."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "爸",
+       "py": "bà",
+       "gl": "dad",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "n."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "用功",
+       "py": "yònggōng",
+       "gl": "hardworking; studious",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Later he saw in the news that according to the International Federation of Robotics, in 2023 China had about 470 robots for every 10,000 workers, ranking third in the world for robot density and overtaking Germany for the first time.",
+   "phrases": [
+    {
+     "en": "Later he saw in the news",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "新闻",
+       "py": "xīnwén",
+       "gl": "news",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "that according to the International Federation of Robotics, in 2023 China had about 470 robots for every 10,000 workers,",
+     "words": [
+      {
+       "h": "据",
+       "py": "jù",
+       "gl": "according to",
+       "pos": "prep."
+      },
+      {
+       "h": "国际机器人联合会",
+       "py": "Guójì Jīqìrén Liánhéhuì",
+       "gl": "International Federation of Robotics",
+       "pos": "proper noun"
+      },
+      {
+       "h": "统计",
+       "py": "tǒngjì",
+       "gl": "count; compile statistics; statistics",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "二零二三年",
+       "py": "èr líng èr sān nián",
+       "gl": "2023",
+       "pos": "n."
+      },
+      {
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
       },
       {
        "h": "每",
@@ -823,15 +1640,15 @@
        "pos": "pron."
       },
       {
-       "h": "万",
-       "py": "wàn",
+       "h": "一万",
+       "py": "yīwàn",
        "gl": "ten thousand",
        "pos": "num."
       },
       {
-       "h": "名",
-       "py": "míng",
-       "gl": "measure word for people (with a role or profession)",
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
        "pos": "measure word"
       },
       {
@@ -841,14 +1658,26 @@
        "pos": "n."
       },
       {
-       "h": "约",
-       "py": "yuē",
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "大约",
+       "py": "dàyuē",
        "gl": "about; approximately",
        "pos": "adv."
       },
       {
        "h": "四百七十",
-       "py": "sìbǎiqīshí",
+       "py": "sìbǎi qīshí",
        "gl": "four hundred seventy",
        "pos": "num."
       },
@@ -859,18 +1688,36 @@
        "pos": "measure word"
       },
       {
+       "h": "机器人",
+       "py": "jīqìrén",
+       "gl": "robot; bot",
+       "pos": "n."
+      },
+      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "ranking third in the world",
+     "en": "ranking third in the world for robot density and overtaking Germany for the first time.",
      "words": [
       {
-       "h": "排名",
-       "py": "páimíng",
-       "gl": "ranking",
+       "h": "机器人密度",
+       "py": "jīqìrén mìdù",
+       "gl": "robot density",
+       "pos": "n."
+      },
+      {
+       "h": "排",
+       "py": "pái",
+       "gl": "rank (排第一 rank first)",
        "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
       },
       {
        "h": "世界",
@@ -886,16 +1733,11 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and overtaking Germany for the first time.",
-     "words": [
+      },
       {
-       "h": "首次",
-       "py": "shǒucì",
-       "gl": "for the first time",
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
        "pos": "adv."
       },
       {
@@ -903,6 +1745,12 @@
        "py": "chāoguò",
        "gl": "exceed; surpass; be more than",
        "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "德国",
@@ -918,19 +1766,13 @@
    ]
   },
   {
-   "en": "Keep in mind that ten years ago China was still far behind developed countries on this measure; the reason it could catch up and overtake them in such a short time is precisely that manufacturers brought in automated equipment on a massive scale.",
+   "en": "\"Ten years ago we were nowhere near that,\" the course instructor said.",
    "phrases": [
     {
-     "en": "Keep in mind that ten years ago China was still far behind developed countries on this measure;",
+     "en": "\"Ten years ago we were nowhere near that,\" the course instructor said.",
      "words": [
       {
-       "h": "要知道",
-       "py": "yàozhīdào",
-       "gl": "you should know; mind you",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
+       "h": "“"
       },
       {
        "h": "十",
@@ -948,37 +1790,16 @@
        "h": "前",
        "py": "qián",
        "gl": "ago; before",
-       "pos": "n."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "这项",
-       "py": "zhèxiàng",
-       "gl": "this (item, policy, project)",
-       "pos": "pron."
-      },
-      {
-       "h": "指标",
-       "py": "zhǐbiāo",
-       "gl": "indicator; index; target",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on; in (after a noun: 桌子上 on the table; 历史上 in history)",
        "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
       },
       {
        "h": "还",
@@ -987,158 +1808,58 @@
        "pos": "adv."
       },
       {
-       "h": "远远",
-       "py": "yuǎnyuǎn",
-       "gl": "far; by far",
-       "pos": "adv."
-      },
-      {
-       "h": "落后",
-       "py": "luòhòu",
-       "gl": "fall behind; be behind",
+       "h": "差",
+       "py": "chà",
+       "gl": "differ by; lack; poor; bad",
        "pos": "v."
       },
       {
-       "h": "于",
-       "py": "yú",
-       "gl": "than; behind (formal: 落后于人 fall behind others)",
-       "pos": "prep."
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
       },
       {
-       "h": "发达国家",
-       "py": "fādáguójiā",
-       "gl": "developed country",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "yet now it has caught up and overtaken them in such a short time,",
-     "words": [
-      {
-       "h": "如今",
-       "py": "rújīn",
-       "gl": "nowadays; now",
-       "pos": "adv."
-      },
-      {
-       "h": "却",
-       "py": "què",
-       "gl": "but; yet",
-       "pos": "conj."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "这么",
-       "py": "zhème",
-       "gl": "so; like this",
-       "pos": "pron."
-      },
-      {
-       "h": "短",
-       "py": "duǎn",
-       "gl": "short",
+       "h": "远",
+       "py": "yuǎn",
+       "gl": "far; distant",
        "pos": "adj."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "呢",
+       "py": "ne",
+       "gl": "particle: action in progress; softens a statement; question particle",
        "pos": "particle"
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "内",
-       "py": "nèi",
-       "gl": "within; inside",
-       "pos": "n."
-      },
-      {
-       "h": "实现",
-       "py": "shíxiàn",
-       "gl": "realize; achieve",
-       "pos": "v."
-      },
-      {
-       "h": "反超",
-       "py": "fǎnchāo",
-       "gl": "overtake (after trailing)",
-       "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the reason is precisely that manufacturers brought in automated equipment on a massive scale.",
-     "words": [
+      },
       {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
-       "pos": "v."
+       "h": "”"
+      },
+      {
+       "h": "培训班",
+       "py": "péixùnbān",
+       "gl": "training course",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "正是",
-       "py": "zhèngshì",
-       "gl": "precisely; it is exactly",
-       "pos": "adv."
-      },
-      {
-       "h": "制造业",
-       "py": "zhìzàoyè",
-       "gl": "manufacturing industry",
+       "h": "老师",
+       "py": "lǎoshī",
+       "gl": "teacher",
        "pos": "n."
       },
       {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "大规模",
-       "py": "dàguīmó",
-       "gl": "large-scale; on a large scale",
-       "pos": "adv."
-      },
-      {
-       "h": "引入",
-       "py": "yǐnrù",
-       "gl": "introduce; bring in",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
-      },
-      {
-       "h": "自动化设备",
-       "py": "zìdònghuàshèbèi",
-       "gl": "automated equipment",
-       "pos": "n."
       },
       {
        "h": "。"
@@ -1148,41 +1869,91 @@
    ]
   },
   {
-   "en": "The government is actively pushing this process too: many industrial policies issued in recent years list robotics as a key area for development and encourage companies to use robots to upgrade traditional production lines.",
+   "en": "Six months later Lao Chen passed the exam and returned to the same workshop — this time to repair the robots.",
    "phrases": [
     {
-     "en": "The government is actively pushing this process too:",
+     "en": "Six months later Lao Chen passed the exam and returned to the same workshop —",
      "words": [
       {
-       "h": "政府",
-       "py": "zhèngfǔ",
-       "gl": "government",
-       "pos": "n."
+       "h": "半",
+       "py": "bàn",
+       "gl": "half",
+       "pos": "num."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
+       "h": "后",
+       "py": "hòu",
+       "gl": "after; later; behind",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "老陈",
+       "py": "Lǎo Chén",
+       "gl": "Old Chen",
+       "pos": "proper noun"
+      },
+      {
+       "h": "通过",
+       "py": "tōngguò",
+       "gl": "through; by means of; via",
        "pos": "prep."
       },
       {
-       "h": "积极",
-       "py": "jījí",
-       "gl": "active; enthusiastic; positive",
-       "pos": "adv."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "推动",
-       "py": "tuīdòng",
-       "gl": "promote; push forward; drive",
+       "h": "考试",
+       "py": "kǎoshì",
+       "gl": "exam; test",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "回到",
+       "py": "huídào",
+       "gl": "return to; get back to",
        "pos": "v."
       },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "那个",
+       "py": "nàge",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "车间",
+       "py": "chējiān",
+       "gl": "workshop (in a factory)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "this time to repair the robots.",
+     "words": [
       {
        "h": "这",
        "py": "zhè",
@@ -1191,58 +1962,144 @@
       },
       {
        "h": "一",
-       "py": "yī",
+       "py": "yí",
        "gl": "one",
        "pos": "num."
       },
       {
-       "h": "进程",
-       "py": "jìnchéng",
-       "gl": "process; course",
-       "pos": "n."
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
       },
       {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "many industrial policies issued in recent years list robotics as a key area for development",
-     "words": [
-      {
-       "h": "近几年",
-       "py": "jìnjǐnián",
-       "gl": "in recent years",
-       "pos": "adv."
+       "h": "，"
       },
       {
-       "h": "发布",
-       "py": "fābù",
-       "gl": "post; publish",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "修",
+       "py": "xiū",
+       "gl": "repair; fix; build",
+       "pos": "v."
+      },
+      {
+       "h": "机器人",
+       "py": "jīqìrén",
+       "gl": "robot; bot",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Once, robotic arm No. 5 suddenly stopped, and the whole line stopped with it.",
+   "phrases": [
+    {
+     "en": "Once, robotic arm No. 5 suddenly stopped, and the whole line stopped with it.",
+     "words": [
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
       },
       {
-       "h": "项",
-       "py": "xiàng",
-       "gl": "measure word for items, tasks, services",
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
        "pos": "measure word"
       },
       {
-       "h": "产业政策",
-       "py": "chǎnyèzhèngcè",
-       "gl": "industrial policy",
+       "h": "，"
+      },
+      {
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
+       "pos": "num."
+      },
+      {
+       "h": "号",
+       "py": "hào",
+       "gl": "number; date (day of the month)",
+       "pos": "n."
+      },
+      {
+       "h": "机械臂",
+       "py": "jīxièbì",
+       "gl": "robotic arm",
+       "pos": "n."
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "停",
+       "py": "tíng",
+       "gl": "stop; park",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "整",
+       "py": "zhěng",
+       "gl": "whole; entire",
+       "pos": "adj."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "线",
+       "py": "xiàn",
+       "gl": "line",
        "pos": "n."
       },
       {
@@ -1252,84 +2109,22 @@
        "pos": "adv."
       },
       {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "列为",
-       "py": "lièwèi",
-       "gl": "list as; classify as",
+       "h": "停",
+       "py": "tíng",
+       "gl": "stop; park",
        "pos": "v."
       },
       {
-       "h": "重点",
-       "py": "zhòngdiǎn",
-       "gl": "key point; key; focus",
-       "pos": "adj."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "发展方向",
-       "py": "fāzhǎnfāngxiàng",
-       "gl": "direction of development",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and encourage companies to use robots to upgrade traditional production lines.",
-     "words": [
-      {
-       "h": "鼓励",
-       "py": "gǔlì",
-       "gl": "encourage",
-       "pos": "v."
-      },
-      {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "prep."
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "改造",
-       "py": "gǎizào",
-       "gl": "overhaul; upgrade; transformation",
-       "pos": "v."
-      },
-      {
-       "h": "传统",
-       "py": "chuántǒng",
-       "gl": "traditional; tradition",
-       "pos": "adj."
-      },
-      {
-       "h": "生产线",
-       "py": "shēngchǎnxiàn",
-       "gl": "production line",
-       "pos": "n."
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -1339,16 +2134,196 @@
    ]
   },
   {
-   "en": "The World Robot Conference, held every year in Beijing, has also become an important window on the latest progress in China's robotics industry; at the venue you can often see all kinds of robots that can stir-fry dishes, fold clothes, and even play ping-pong.",
+   "en": "The young technicians stared at the computer screen, but Lao Chen walked over, listened, and said the welding torch's angle was off.",
    "phrases": [
     {
-     "en": "The World Robot Conference, held every year in Beijing,",
+     "en": "The young technicians stared at the computer screen,",
      "words": [
       {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
+       "h": "年轻",
+       "py": "niánqīng",
+       "gl": "young",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "技术员",
+       "py": "jìshùyuán",
+       "gl": "technician",
+       "pos": "n."
+      },
+      {
+       "h": "盯着",
+       "py": "dīngzhe",
+       "gl": "stare at; keep an eye on",
+       "pos": "v."
+      },
+      {
+       "h": "电脑",
+       "py": "diànnǎo",
+       "gl": "computer",
+       "pos": "n."
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but Lao Chen walked over, listened, and said the welding torch's angle was off.",
+     "words": [
+      {
+       "h": "老陈",
+       "py": "Lǎo Chén",
+       "gl": "Old Chen",
+       "pos": "proper noun"
+      },
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "过去",
+       "py": "guòqu",
+       "gl": "over; there (complement)",
+       "pos": "v."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "焊枪",
+       "py": "hànqiāng",
+       "gl": "welding torch",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "角度",
+       "py": "jiǎodù",
+       "gl": "angle; point of view",
+       "pos": "n."
+      },
+      {
+       "h": "偏",
+       "py": "piān",
+       "gl": "lean toward; rather (in taste)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He had held that torch for twenty-two years; he could tell at once whether it sounded right.",
+   "phrases": [
+    {
+     "en": "He had held that torch for twenty-two years; he could tell at once whether it sounded right.",
+     "words": [
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
        "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "焊枪",
+       "py": "hànqiāng",
+       "gl": "welding torch",
+       "pos": "n."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "二十二",
+       "py": "èrshíèr",
+       "gl": "twenty-two",
+       "pos": "num."
       },
       {
        "h": "年",
@@ -1357,9 +2332,459 @@
        "pos": "measure word"
       },
       {
+       "h": "，"
+      },
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound",
+       "pos": "n."
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "right away; then; just (emphasis)",
+       "pos": "adv."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the weekend he visited his mother at the nursing home; a new care robot had arrived there that reminded the elderly to take their medicine and even chatted with them.",
+   "phrases": [
+    {
+     "en": "On the weekend he visited his mother at the nursing home;",
+     "words": [
+      {
+       "h": "周末",
+       "py": "zhōumò",
+       "gl": "weekend",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "养老院",
+       "py": "yǎnglǎoyuàn",
+       "gl": "nursing home; retirement home",
+       "pos": "n."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "母亲",
+       "py": "mǔqīn",
+       "gl": "mother",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "a new care robot had arrived there that reminded the elderly to take their medicine and even chatted with them.",
+     "words": [
+      {
+       "h": "那里",
+       "py": "nàlǐ",
+       "gl": "there",
+       "pos": "pron."
+      },
+      {
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adv."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "陪护",
+       "py": "péihù",
+       "gl": "to care for (a patient)",
+       "pos": "v."
+      },
+      {
+       "h": "机器人",
+       "py": "jīqìrén",
+       "gl": "robot; bot",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "提醒",
+       "py": "tíxǐng",
+       "gl": "remind",
+       "pos": "v."
+      },
+      {
+       "h": "老人",
+       "py": "lǎorén",
+       "gl": "old person; elderly people",
+       "pos": "n."
+      },
+      {
+       "h": "吃药",
+       "py": "chīyào",
+       "gl": "take medicine",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "陪",
+       "py": "péi",
+       "gl": "accompany; keep company",
+       "pos": "v."
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "聊天",
+       "py": "liáotiān",
+       "gl": "chat; talk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "His mother called it \"Little Iron\" and said it sang better than her son.",
+   "phrases": [
+    {
+     "en": "His mother called it \"Little Iron\" and said it sang better than her son.",
+     "words": [
+      {
+       "h": "母亲",
+       "py": "mǔqīn",
+       "gl": "mother",
+       "pos": "n."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "铁",
+       "py": "tiě",
+       "gl": "iron",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "唱",
+       "py": "chàng",
+       "gl": "sing",
+       "pos": "v."
+      },
+      {
+       "h": "歌",
+       "py": "gē",
+       "gl": "song",
+       "pos": "n."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "儿子",
+       "py": "érzi",
+       "gl": "son",
+       "pos": "n."
+      },
+      {
+       "h": "唱",
+       "py": "chàng",
+       "gl": "sing",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "But when Lao Chen got up to leave, she still held his hand for a long time and wouldn't let go.",
+   "phrases": [
+    {
+     "en": "But when Lao Chen got up to leave, she still held his hand for a long time and wouldn't let go.",
+     "words": [
+      {
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "老陈",
+       "py": "Lǎo Chén",
+       "gl": "Old Chen",
+       "pos": "proper noun"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "want; order; be going to; need",
+       "pos": "v."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "walk; go; leave",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "拉着",
+       "py": "lāzhe",
+       "gl": "hold (by the hand); drag along",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "半天",
+       "py": "bàntiān",
+       "gl": "a long time; ages",
+       "pos": "adv."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "松开",
+       "py": "sōngkāi",
+       "gl": "release; let go",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That year at the World Robot Conference in Beijing there were humanoid robots that could cook, fold clothes, and even play ping-pong.",
+   "phrases": [
+    {
+     "en": "That year at the World Robot Conference in Beijing there were humanoid robots that could cook, fold clothes,",
+     "words": [
+      {
+       "h": "那年",
+       "py": "nànián",
+       "gl": "that year",
+       "pos": "n."
+      },
+      {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -1369,133 +2794,30 @@
        "pos": "proper noun"
       },
       {
-       "h": "举办",
-       "py": "jǔbàn",
-       "gl": "hold (an event); host",
-       "pos": "v."
-      },
-      {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "世界机器人大会",
-       "py": "shìjièjīqìréndàhuì",
+       "py": "Shìjiè Jīqìrén Dàhuì",
        "gl": "World Robot Conference",
        "pos": "proper noun"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "has also become an important window on the latest progress in China's robotics industry;",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "成了",
-       "py": "chéngle",
-       "gl": "became; turned into",
-       "pos": "v."
-      },
-      {
-       "h": "观察",
-       "py": "guānchá",
-       "gl": "observe; watch",
-       "pos": "v."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "机器人产业",
-       "py": "jīqìrénchǎnyè",
-       "gl": "robotics industry",
-       "pos": "n."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "进展",
-       "py": "jìnzhǎn",
-       "gl": "progress",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
-      },
-      {
-       "h": "窗口",
-       "py": "chuāngkǒu",
-       "gl": "window (into something)",
-       "pos": "n."
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "at the venue you can often see all kinds of robots that can stir-fry dishes, fold clothes, and even play ping-pong.",
-     "words": [
-      {
-       "h": "会场",
-       "py": "huìchǎng",
-       "gl": "venue; conference hall",
-       "pos": "n."
       },
       {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "n."
-      },
-      {
-       "h": "经常",
-       "py": "jīngcháng",
-       "gl": "often",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "看到",
-       "py": "kàndào",
-       "gl": "see",
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
@@ -1520,14 +2842,25 @@
        "pos": "v."
       },
       {
-       "h": "叠衣服",
-       "py": "diéyīfú",
-       "gl": "fold clothes",
+       "h": "叠",
+       "py": "dié",
+       "gl": "fold; pile up",
        "pos": "v."
       },
       {
-       "h": "，"
+       "h": "衣服",
+       "py": "yīfu",
+       "gl": "clothes",
+       "pos": "n."
       },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and even play ping-pong.",
+     "words": [
       {
        "h": "甚至",
        "py": "shènzhì",
@@ -1541,296 +2874,30 @@
        "pos": "v."
       },
       {
-       "h": "打乒乓球",
-       "py": "dǎpīngpāngqiú",
-       "gl": "play ping-pong",
+       "h": "打",
+       "py": "dǎ",
+       "gl": "to play",
        "pos": "v."
+      },
+      {
+       "h": "乒乓球",
+       "py": "pīngpāngqiú",
+       "gl": "table tennis; ping-pong",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "各种",
-       "py": "gèzhǒng",
-       "gl": "all kinds of; various",
-       "pos": "pron."
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In the last few years, humanoid robots have become one of the most closely watched areas: many Chinese companies are developing robots that can walk, carry things, and even perform delicate tasks like a human, hoping to use them in factories and homes in the future.",
-   "phrases": [
-    {
-     "en": "In the last few years, humanoid robots have become one of the most closely watched areas:",
-     "words": [
-      {
-       "h": "这几年",
-       "py": "zhèjǐnián",
-       "gl": "these past few years; in recent years",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
        "h": "人形机器人",
-       "py": "rénxíngjīqìrén",
+       "py": "rénxíng jīqìrén",
        "gl": "humanoid robot",
        "pos": "n."
       },
       {
-       "h": "成为",
-       "py": "chéngwéi",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "受",
-       "py": "shòu",
-       "gl": "receive; enjoy (受欢迎 be popular)",
-       "pos": "v."
-      },
-      {
-       "h": "关注",
-       "py": "guānzhù",
-       "gl": "attention; interest; follow (closely)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "方向",
-       "py": "fāngxiàng",
-       "gl": "direction",
-       "pos": "n."
-      },
-      {
-       "h": "之一",
-       "py": "zhīyī",
-       "gl": "one of (最…之一 'one of the most …')",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "many Chinese companies are developing robots that can walk, carry things, and even perform delicate tasks like a human,",
-     "words": [
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "num."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "研发",
-       "py": "yánfā",
-       "gl": "research and develop; develop",
-       "pos": "v."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "够",
-       "py": "gòu",
-       "gl": "enough; be enough; suffice",
-       "pos": "adv."
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "prep."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "一样",
-       "py": "yīyàng",
-       "gl": "same; identical",
-       "pos": "adj."
-      },
-      {
-       "h": "走路",
-       "py": "zǒulù",
-       "gl": "walk",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "搬",
-       "py": "bān",
-       "gl": "move (house); carry",
-       "pos": "v."
-      },
-      {
-       "h": "东西",
-       "py": "dōngxī",
-       "gl": "thing; stuff",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "adv."
-      },
-      {
-       "h": "完成",
-       "py": "wánchéng",
-       "gl": "finish; complete",
-       "pos": "v."
-      },
-      {
-       "h": "精细",
-       "py": "jīngxì",
-       "gl": "fine; delicate; meticulous",
-       "pos": "adj."
-      },
-      {
-       "h": "操作",
-       "py": "cāozuò",
-       "gl": "operation; operate",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "hoping to use them in factories and homes in the future.",
-     "words": [
-      {
-       "h": "希望",
-       "py": "xīwàng",
-       "gl": "hope; wish",
-       "pos": "v."
-      },
-      {
-       "h": "未来",
-       "py": "wèilái",
-       "gl": "future",
-       "pos": "n."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "应用",
-       "py": "yìngyòng",
-       "gl": "application; use",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "工厂",
-       "py": "gōngchǎng",
-       "gl": "factory",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "家庭",
-       "py": "jiātíng",
-       "gl": "family; household",
-       "pos": "n."
-      },
-      {
-       "h": "当中",
-       "py": "dāngzhōng",
-       "gl": "among; in",
-       "pos": "n."
-      },
-      {
        "h": "。"
       }
      ]
@@ -1838,10 +2905,10 @@
    ]
   },
   {
-   "en": "But experts caution that before humanoid robots truly enter ordinary people's lives on a large scale, a whole series of problems, such as cost, safety, and reliability, still has to be solved, so we shouldn't be overly optimistic.",
+   "en": "But experts said they're still a long way from ordinary homes; price, safety, and reliability all still have to be solved.",
    "phrases": [
     {
-     "en": "But experts caution",
+     "en": "But experts said they're still a long way from ordinary homes;",
      "words": [
       {
        "h": "不过",
@@ -1856,47 +2923,36 @@
        "pos": "n."
       },
       {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that before humanoid robots truly enter ordinary people's lives on a large scale,",
-     "words": [
-      {
-       "h": "人形机器人",
-       "py": "rénxíngjīqìrén",
-       "gl": "humanoid robot",
-       "pos": "n."
       },
       {
-       "h": "距离",
-       "py": "jùlí",
-       "gl": "be (far) from",
+       "h": "它们",
+       "py": "tāmen",
+       "gl": "they; them (for animals and things)",
+       "pos": "pron."
+      },
+      {
+       "h": "离",
+       "py": "lí",
+       "gl": "from (distance: A 离 B 远 \"A is far from B\")",
        "pos": "prep."
       },
       {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "truly; really",
-       "pos": "adv."
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
       },
       {
-       "h": "大规模",
-       "py": "dàguīmó",
-       "gl": "large-scale; on a large scale",
-       "pos": "adv."
-      },
-      {
-       "h": "走进",
-       "py": "zǒujìn",
-       "gl": "enter; walk into",
+       "h": "进",
+       "py": "jìn",
+       "gl": "in (complement)",
        "pos": "v."
       },
       {
@@ -1908,23 +2964,15 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
        "pos": "n."
       },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "a whole series of problems, such as cost, safety, and reliability, still has to be solved,",
-     "words": [
       {
        "h": "还",
        "py": "hái",
@@ -1932,36 +2980,44 @@
        "pos": "adv."
       },
       {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
       },
       {
-       "h": "解决",
-       "py": "jiějué",
-       "gl": "solve; settle",
-       "pos": "v."
+       "h": "远",
+       "py": "yuǎn",
+       "gl": "far; distant",
+       "pos": "adj."
       },
       {
-       "h": "成本",
-       "py": "chéngběn",
-       "gl": "cost",
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "price, safety, and reliability all still have to be solved.",
+     "words": [
+      {
+       "h": "价格",
+       "py": "jiàgé",
+       "gl": "price",
        "pos": "n."
       },
       {
        "h": "、"
       },
       {
-       "h": "安全性",
-       "py": "ānquánxìng",
-       "gl": "safety; security",
+       "h": "安全",
+       "py": "ānquán",
+       "gl": "safety",
        "pos": "n."
       },
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
@@ -1971,54 +3027,28 @@
        "pos": "n."
       },
       {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "particle"
-      },
-      {
-       "h": "一系列",
-       "py": "yīxìliè",
-       "gl": "series; a whole range of",
-       "pos": "num."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so we shouldn't be overly optimistic.",
-     "words": [
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
        "pos": "adv."
       },
       {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
-       "h": "过于",
-       "py": "guòyú",
-       "gl": "too; excessively",
-       "pos": "adv."
-      },
-      {
-       "h": "乐观",
-       "py": "lèguān",
-       "gl": "optimistic",
-       "pos": "adj."
+       "h": "解决",
+       "py": "jiějué",
+       "gl": "solve; settle",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -2028,60 +3058,101 @@
    ]
   },
   {
-   "en": "As robots get smarter, some jobs that once only humans could do, such as simple quality checks and sorting, are gradually being handed over to robots, letting workers move on to work that calls for more judgment and creativity.",
+   "en": "Watching the news, Lao Chen thought of his mother holding his hand.",
    "phrases": [
     {
-     "en": "As robots get smarter,",
+     "en": "Watching the news, Lao Chen thought of his mother holding his hand.",
      "words": [
       {
-       "h": "随着",
-       "py": "suízhe",
-       "gl": "along with; as (something develops)",
-       "pos": "prep."
+       "h": "老陈",
+       "py": "Lǎo Chén",
+       "gl": "Old Chen",
+       "pos": "proper noun"
+      },
+      {
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "look at; watching",
+       "pos": "v."
+      },
+      {
+       "h": "新闻",
+       "py": "xīnwén",
+       "gl": "news",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "想起",
+       "py": "xiǎngqǐ",
+       "gl": "remember; think of; remind (让我想起 'remind me of')",
+       "pos": "v."
+      },
+      {
+       "h": "母亲",
+       "py": "mǔqīn",
+       "gl": "mother",
+       "pos": "n."
+      },
+      {
+       "h": "拉着",
+       "py": "lāzhe",
+       "gl": "hold (by the hand); drag along",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He thought: a robot can remind you to take your medicine, but some things still take a person.",
+   "phrases": [
+    {
+     "en": "He thought: a robot can remind you to take your medicine,",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "机器人",
        "py": "jīqìrén",
        "gl": "robot; bot",
        "pos": "n."
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "聪明",
-       "py": "cōngmíng",
-       "gl": "smart; clever",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "some jobs that once only humans could do, such as simple quality checks and sorting,",
-     "words": [
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "num."
-      },
-      {
-       "h": "原本",
-       "py": "yuánběn",
-       "gl": "originally",
-       "pos": "adv."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
       },
       {
        "h": "能",
@@ -2090,73 +3161,16 @@
        "pos": "v."
       },
       {
-       "h": "由",
-       "py": "yóu",
-       "gl": "by (marks the agent)",
-       "pos": "prep."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "完成",
-       "py": "wánchéng",
-       "gl": "finish; complete",
+       "h": "提醒",
+       "py": "tíxǐng",
+       "gl": "remind",
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
-      },
-      {
-       "h": "简单",
-       "py": "jiǎndān",
-       "gl": "simple; easy",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "质检",
-       "py": "zhìjiǎn",
-       "gl": "quality inspection",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "分拣",
-       "py": "fēnjiǎn",
-       "gl": "sorting",
-       "pos": "n."
+       "h": "吃药",
+       "py": "chīyào",
+       "gl": "take medicine",
+       "pos": "v."
       },
       {
        "h": "，"
@@ -2164,92 +3178,51 @@
      ]
     },
     {
-     "en": "are gradually being handed over to robots,",
+     "en": "but some things still take a person.",
      "words": [
       {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "有些",
+       "py": "yǒuxiē",
+       "gl": "some",
+       "pos": "pron."
+      },
+      {
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
        "pos": "adv."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "逐渐",
-       "py": "zhújiàn",
-       "gl": "gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "交给",
-       "py": "jiāogěi",
-       "gl": "hand over to; give to",
+       "h": "得",
+       "py": "děi",
+       "gl": "to have to",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
        "pos": "n."
       },
       {
        "h": "来",
        "py": "lái",
-       "gl": "(used between a method and a verb: in order to)",
-       "pos": "function word"
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "letting workers move on to work that calls for more judgment and creativity.",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "工人",
-       "py": "gōngrén",
-       "gl": "worker",
-       "pos": "n."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "v."
-      },
-      {
-       "h": "转",
-       "py": "zhuǎn",
-       "gl": "switch (to); move on (to)",
-       "pos": "v."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
+       "gl": "come; arrive",
        "pos": "v."
       },
       {
@@ -2259,48 +3232,6 @@
        "pos": "v."
       },
       {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "判断力",
-       "py": "pànduànlì",
-       "gl": "judgment; ability to judge",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "创造力",
-       "py": "chuàngzàolì",
-       "gl": "creativity",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
        "h": "。"
       }
      ]
@@ -2308,784 +3239,60 @@
    ]
   },
   {
-   "en": "Of course, the rapid increase in robots also makes some workers who do simple, repetitive labor uneasy, worried that their jobs could be taken over by machines at any moment.",
+   "en": "Leaving the workshop that evening, he looked back: the twenty orange arms were still turning, the sparks like a shower of golden rain.",
    "phrases": [
     {
-     "en": "Of course, the rapid increase in robots",
+     "en": "Leaving the workshop that evening, he looked back:",
      "words": [
       {
-       "h": "当然",
-       "py": "dāngrán",
-       "gl": "of course; certainly",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
        "pos": "n."
       },
       {
-       "h": "数量",
-       "py": "shùliàng",
-       "gl": "quantity; number",
+       "h": "离开",
+       "py": "líkāi",
+       "gl": "leave",
+       "pos": "v."
+      },
+      {
+       "h": "车间",
+       "py": "chējiān",
+       "gl": "workshop (in a factory)",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "快速",
-       "py": "kuàisù",
-       "gl": "fast; rapid",
-       "pos": "adj."
-      },
-      {
-       "h": "增加",
-       "py": "zēngjiā",
-       "gl": "increase; raise; add",
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "also makes some workers who do simple, repetitive labor uneasy,",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
       },
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "一部分",
-       "py": "yībùfèn",
-       "gl": "part; portion",
-       "pos": "n."
-      },
-      {
-       "h": "从事",
-       "py": "cóngshì",
-       "gl": "work in; be engaged in (a field)",
-       "pos": "v."
-      },
-      {
-       "h": "简单",
-       "py": "jiǎndān",
-       "gl": "simple; easy",
-       "pos": "adj."
-      },
-      {
-       "h": "重复",
-       "py": "chóngfù",
-       "gl": "repeat; repetition; repetitive",
-       "pos": "adj."
-      },
-      {
-       "h": "劳动",
-       "py": "láodòng",
-       "gl": "labor; work",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "工人",
-       "py": "gōngrén",
-       "gl": "worker",
-       "pos": "n."
-      },
-      {
-       "h": "感到",
-       "py": "gǎndào",
-       "gl": "feel",
-       "pos": "v."
-      },
-      {
-       "h": "不安",
-       "py": "bùān",
-       "gl": "uneasy; anxious; unease",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "worried that their jobs could be taken over by machines at any moment.",
-     "words": [
-      {
-       "h": "担心",
-       "py": "dānxīn",
-       "gl": "worry",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
        "pos": "pron."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "岗位",
-       "py": "gǎngwèi",
-       "gl": "post; position; job",
-       "pos": "n."
-      },
-      {
-       "h": "随时",
-       "py": "suíshí",
-       "gl": "at any time",
-       "pos": "adv."
-      },
-      {
-       "h": "可能",
-       "py": "kěnéng",
-       "gl": "possible; maybe",
-       "pos": "adv."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
-      },
-      {
-       "h": "机器",
-       "py": "jīqì",
-       "gl": "machine",
-       "pos": "n."
-      },
-      {
-       "h": "取代",
-       "py": "qǔdài",
-       "gl": "replace",
+       "h": "回头",
+       "py": "huítóu",
+       "gl": "look back; turn one's head",
        "pos": "v."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "On this, the general view across society is that rather than resisting new technology, it's better to learn in advance the new skills needed to work alongside machines; only then can you stay competitive amid change.",
-   "phrases": [
-    {
-     "en": "On this, the general view across society is",
-     "words": [
-      {
-       "h": "对此",
-       "py": "duìcǐ",
-       "gl": "about this; in this regard",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "社会",
-       "py": "shèhuì",
-       "gl": "society",
-       "pos": "n."
-      },
-      {
-       "h": "各界",
-       "py": "gèjiè",
-       "gl": "all walks of life; all sectors (of society)",
-       "pos": "n."
-      },
-      {
-       "h": "普遍",
-       "py": "pǔbiàn",
-       "gl": "widely; generally; common",
-       "pos": "adv."
-      },
-      {
-       "h": "认为",
-       "py": "rènwéi",
-       "gl": "think; believe; consider",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that rather than resisting new technology,",
-     "words": [
-      {
-       "h": "与其",
-       "py": "yǔqí",
-       "gl": "rather than (与其…不如… 'rather than … better to …')",
-       "pos": "conj."
-      },
-      {
-       "h": "抗拒",
-       "py": "kàngjù",
-       "gl": "resist; be reluctant about",
-       "pos": "v."
-      },
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it's better to learn in advance the new skills needed to work alongside machines;",
-     "words": [
-      {
-       "h": "不如",
-       "py": "bùrú",
-       "gl": "be not as good as; had better (与其…不如… 'rather than … better to')",
-       "pos": "conj."
-      },
-      {
-       "h": "提前",
-       "py": "tíqián",
-       "gl": "in advance; ahead of time",
-       "pos": "adv."
-      },
-      {
-       "h": "学习",
-       "py": "xuéxí",
-       "gl": "study; learn",
-       "pos": "v."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "机器",
-       "py": "jīqì",
-       "gl": "machine",
-       "pos": "n."
-      },
-      {
-       "h": "协作",
-       "py": "xiézuò",
-       "gl": "cooperate; collaboration",
-       "pos": "n."
-      },
-      {
-       "h": "所",
-       "py": "suǒ",
-       "gl": "particle before a verb (所提出的 that which is proposed)",
-       "pos": "function word"
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "技能",
-       "py": "jìnéng",
-       "gl": "skill",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "only then can you stay competitive amid change.",
-     "words": [
-      {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "like this; this way; such",
-       "pos": "pron."
-      },
-      {
-       "h": "才",
-       "py": "cái",
-       "gl": "only then; not until",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "变化",
-       "py": "biànhuà",
-       "gl": "change; changes",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "prep."
-      },
-      {
-       "h": "保住",
-       "py": "bǎozhù",
-       "gl": "keep; save; preserve",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "竞争力",
-       "py": "jìngzhēnglì",
-       "gl": "competitiveness",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Beyond industry and services, robotics is also starting to be used in medical rehabilitation, for example helping patients who have trouble moving after a stroke or an injury do rehab exercises and recover faster.",
-   "phrases": [
-    {
-     "en": "Beyond industry and services,",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "工业",
-       "py": "gōngyè",
-       "gl": "industry; industrial",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "领域",
-       "py": "lǐngyù",
-       "gl": "field; area; domain",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "robotics is also starting to be used in medical rehabilitation,",
-     "words": [
-      {
-       "h": "机器人技术",
-       "py": "jīqìrénjìshù",
-       "gl": "robotics",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
-      },
-      {
-       "h": "应用",
-       "py": "yìngyòng",
-       "gl": "application; use",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "医疗康复",
-       "py": "yīliáokāngfù",
-       "gl": "medical rehabilitation",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "prep."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "for example helping patients who have trouble moving after a stroke or an injury",
-     "words": [
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
-      },
-      {
-       "h": "帮助",
-       "py": "bāngzhù",
-       "gl": "help; assist",
-       "pos": "v."
-      },
-      {
-       "h": "因",
-       "py": "yīn",
-       "gl": "because of; due to",
-       "pos": "prep."
-      },
-      {
-       "h": "中风",
-       "py": "zhòngfēng",
-       "gl": "stroke (medical)",
-       "pos": "n."
-      },
-      {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "受伤",
-       "py": "shòushāng",
-       "gl": "get hurt; be injured",
-       "pos": "v."
-      },
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but",
-       "pos": "conj."
-      },
-      {
-       "h": "行动不便",
-       "py": "xíngdòngbùbiàn",
-       "gl": "with limited mobility",
-       "pos": "phrase"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "病人",
-       "py": "bìngrén",
-       "gl": "patient (sick person)",
-       "pos": "n."
-      }
-     ]
-    },
-    {
-     "en": "do rehab exercises and recover faster.",
-     "words": [
-      {
-       "h": "进行",
-       "py": "jìnxíng",
-       "gl": "carry out; conduct",
-       "pos": "v."
-      },
-      {
-       "h": "康复训练",
-       "py": "kāngfùxùnliàn",
-       "gl": "rehabilitation exercises",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "提高",
-       "py": "tígāo",
-       "gl": "raise; improve",
-       "pos": "v."
-      },
-      {
-       "h": "恢复",
-       "py": "huīfù",
-       "gl": "recover; be restored",
-       "pos": "v."
-      },
-      {
-       "h": "速度",
-       "py": "sùdù",
-       "gl": "speed",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In some remote areas, hospitals even use remotely operated surgical robots so that specialist doctors in big cities can perform complex operations on local patients, which greatly eases the problem of unevenly distributed medical resources.",
-   "phrases": [
-    {
-     "en": "In some remote areas,",
-     "words": [
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "num."
-      },
-      {
-       "h": "偏远地区",
-       "py": "piānyuǎndìqū",
-       "gl": "remote area",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "hospitals even use remotely operated surgical robots",
-     "words": [
-      {
-       "h": "医院",
-       "py": "yīyuàn",
-       "gl": "hospital",
-       "pos": "n."
-      },
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "adv."
-      },
-      {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
-      },
-      {
-       "h": "远程操作",
-       "py": "yuǎnchéngcāozuò",
-       "gl": "remote operation",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "手术机器人",
-       "py": "shǒushùjīqìrén",
-       "gl": "surgical robot",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so that specialist doctors in big cities can perform complex operations on local patients,",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "大城市",
-       "py": "dàchéngshì",
-       "gl": "big city",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "专家医生",
-       "py": "zhuānjiāyīshēng",
-       "gl": "specialist doctor",
-       "pos": "n."
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
-      {
-       "h": "当地",
-       "py": "dāngdì",
-       "gl": "local",
-       "pos": "n."
-      },
-      {
-       "h": "病人",
-       "py": "bìngrén",
-       "gl": "patient (sick person)",
-       "pos": "n."
-      },
-      {
-       "h": "完成",
-       "py": "wánchéng",
-       "gl": "finish; complete",
-       "pos": "v."
-      },
-      {
-       "h": "复杂",
-       "py": "fùzá",
-       "gl": "complicated; complex",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "手术",
-       "py": "shǒushù",
-       "gl": "surgery; operation",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which greatly eases the problem of unevenly distributed medical resources.",
-     "words": [
-      {
-       "h": "大大",
-       "py": "dàdà",
-       "gl": "greatly; considerably",
-       "pos": "adv."
-      },
-      {
-       "h": "缓解",
-       "py": "huǎnjiě",
-       "gl": "relieve; ease",
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
        "pos": "v."
       },
       {
@@ -3095,760 +3302,116 @@
        "pos": "particle"
       },
       {
-       "h": "医疗资源",
-       "py": "yīliáozīyuán",
-       "gl": "medical resources",
-       "pos": "n."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "均衡",
-       "py": "jūnhéng",
-       "gl": "balanced; even",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "What's more, as the population keeps aging, the development of care robots is speeding up, and in the future they may take on part of the daily care of elderly people who can no longer look after themselves.",
-   "phrases": [
-    {
-     "en": "What's more, as the population keeps aging,",
-     "words": [
-      {
-       "h": "不仅如此",
-       "py": "bùjǐnrúcǐ",
-       "gl": "moreover; what's more",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "随着",
-       "py": "suízhe",
-       "gl": "along with; as (something develops)",
-       "pos": "prep."
-      },
-      {
-       "h": "人口老龄化",
-       "py": "rénkǒulǎolínghuà",
-       "gl": "population aging",
-       "pos": "n."
-      },
-      {
-       "h": "程度",
-       "py": "chéngdù",
-       "gl": "degree; extent",
-       "pos": "n."
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "加深",
-       "py": "jiāshēn",
-       "gl": "deepen; intensify",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the development of care robots is speeding up,",
-     "words": [
-      {
-       "h": "护理机器人",
-       "py": "hùlǐjīqìrén",
-       "gl": "care robot; nursing robot",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "研发",
-       "py": "yánfā",
-       "gl": "research and develop; develop",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "加速",
-       "py": "jiāsù",
-       "gl": "accelerate; speed up",
-       "pos": "v."
-      },
-      {
-       "h": "推进",
-       "py": "tuījìn",
-       "gl": "push into; advance; push forward",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and in the future they may take on part of the daily care of elderly people who can no longer look after themselves.",
-     "words": [
-      {
-       "h": "未来",
-       "py": "wèilái",
-       "gl": "future",
-       "pos": "n."
-      },
-      {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
-       "pos": "pron."
-      },
-      {
-       "h": "们",
-       "py": "men",
-       "gl": "plural suffix for people",
-       "pos": "function word"
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "望",
-       "py": "wàng",
-       "gl": "hope; expect (有望: be expected to)",
-       "pos": "v."
-      },
-      {
-       "h": "承担",
-       "py": "chéngdān",
-       "gl": "take on; bear (a responsibility)",
-       "pos": "v."
-      },
-      {
-       "h": "一部分",
-       "py": "yībùfèn",
-       "gl": "part; portion",
-       "pos": "n."
-      },
-      {
-       "h": "照顾",
-       "py": "zhàogù",
-       "gl": "take care of; look after",
-       "pos": "v."
-      },
-      {
-       "h": "失能",
-       "py": "shīnéng",
-       "gl": "disabled; unable to care for oneself",
-       "pos": "adj."
-      },
-      {
-       "h": "老",
-       "py": "lǎo",
-       "gl": "old; elderly",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "日常起居",
-       "py": "rìchángqǐjū",
-       "gl": "daily living; everyday routine",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Of course, no robot, however advanced, can fully replace the emotional connection between people; many experts think robots are better suited to repetitive, dangerous, or heavy work, leaving the parts that need more patience and empathy to humans.",
-   "phrases": [
-    {
-     "en": "Of course, no robot, however advanced, can fully replace the emotional connection between people;",
-     "words": [
-      {
-       "h": "当然",
-       "py": "dāngrán",
-       "gl": "of course; certainly",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "no matter how (再…也…); however",
-       "pos": "adv."
-      },
-      {
-       "h": "先进",
-       "py": "xiānjìn",
-       "gl": "advanced",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "无法",
-       "py": "wúfǎ",
-       "gl": "be unable to; cannot",
-       "pos": "v."
-      },
-      {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
-       "pos": "adv."
-      },
-      {
-       "h": "替代",
-       "py": "tìdài",
-       "gl": "replace; substitute",
-       "pos": "v."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "与",
-       "py": "yǔ",
-       "gl": "and; with (formal)",
-       "pos": "conj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "之间",
-       "py": "zhījiān",
-       "gl": "between; among",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "情感交流",
-       "py": "qínggǎnjiāoliú",
-       "gl": "emotional connection; emotional communication",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "many experts think",
-     "words": [
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of",
-       "pos": "num."
-      },
-      {
-       "h": "专家",
-       "py": "zhuānjiā",
-       "gl": "expert; specialist",
-       "pos": "n."
-      },
-      {
-       "h": "认为",
-       "py": "rènwéi",
-       "gl": "think; believe; consider",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "robots are better suited to repetitive, dangerous, or heavy work,",
-     "words": [
-      {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "适合",
-       "py": "shìhé",
-       "gl": "suit; be suitable for",
-       "pos": "v."
-      },
-      {
-       "h": "承担",
-       "py": "chéngdān",
-       "gl": "take on; bear (a responsibility)",
-       "pos": "v."
-      },
-      {
-       "h": "重复",
-       "py": "chóngfù",
-       "gl": "repeat; repetition; repetitive",
-       "pos": "adj."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "危险",
-       "py": "wēixiǎn",
-       "gl": "dangerous; danger",
-       "pos": "adj."
-      },
-      {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "繁重",
-       "py": "fánzhòng",
-       "gl": "heavy; strenuous",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "leaving the parts that need more patience and empathy to humans.",
-     "words": [
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but",
-       "pos": "conj."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "耐心",
-       "py": "nàixīn",
-       "gl": "patient; patience",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "同理心",
-       "py": "tónglǐxīn",
-       "gl": "empathy",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "部分",
-       "py": "bùfèn",
-       "gl": "part; section",
-       "pos": "n."
-      },
-      {
-       "h": "留给",
-       "py": "liúgěi",
-       "gl": "leave (for someone)",
-       "pos": "v."
-      },
-      {
-       "h": "人类",
-       "py": "rénlèi",
-       "gl": "humanity; mankind",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "It's safe to predict that over the next few decades robots will keep changing China's industrial structure and labor market, and how to make technological progress truly benefit most ordinary people will be a question the whole of society has to face together.",
-   "phrases": [
-    {
-     "en": "It's safe to predict that over the next few decades",
-     "words": [
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "v."
-      },
-      {
-       "h": "预见",
-       "py": "yùjiàn",
-       "gl": "foresee; predict",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "接下来",
-       "py": "jiēxiàlái",
-       "gl": "next; then; what follows",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "几十",
-       "py": "jǐshí",
-       "gl": "several dozen; tens of",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "一眼",
+       "py": "yīyǎn",
+       "gl": "one glance; at a glance",
        "pos": "measure word"
       },
       {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "n."
-      },
-      {
-       "h": "，"
+       "h": "："
       }
      ]
     },
     {
-     "en": "robots will keep changing China's industrial structure and labor market,",
+     "en": "the twenty orange arms were still turning, the sparks like a shower of golden rain.",
      "words": [
       {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "将",
-       "py": "jiāng",
-       "gl": "will; be going to",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "继续",
-       "py": "jìxù",
-       "gl": "continue; go on",
-       "pos": "v."
-      },
-      {
-       "h": "改变",
-       "py": "gǎibiàn",
-       "gl": "change; transform",
-       "pos": "v."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "产业结构",
-       "py": "chǎnyèjiégòu",
-       "gl": "industrial structure",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "劳动力市场",
-       "py": "láodònglìshìchǎng",
-       "gl": "labor market",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and how to make technological progress truly benefit most ordinary people",
-     "words": [
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but",
-       "pos": "conj."
-      },
-      {
-       "h": "如何",
-       "py": "rúhé",
-       "gl": "how",
-       "pos": "pron."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "技术进步",
-       "py": "jìshùjìnbù",
-       "gl": "technological progress",
-       "pos": "n."
-      },
-      {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "truly; really",
-       "pos": "adv."
-      },
-      {
-       "h": "造福",
-       "py": "zàofú",
-       "gl": "benefit; bring benefit to",
-       "pos": "v."
-      },
-      {
-       "h": "大多数",
-       "py": "dàduōshù",
-       "gl": "the vast majority; most",
+       "h": "二十",
+       "py": "èrshí",
+       "gl": "twenty",
        "pos": "num."
       },
       {
-       "h": "普通人",
-       "py": "pǔtōngrén",
-       "gl": "ordinary person",
-       "pos": "n."
+       "h": "台",
+       "py": "tái",
+       "gl": "stage; platform; measure word for machines (computers, TVs)",
+       "pos": "measure word"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "will be a question the whole of society has to face together.",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "整个",
-       "py": "zhěnggè",
-       "gl": "whole; entire",
-       "pos": "pron."
-      },
-      {
-       "h": "社会",
-       "py": "shèhuì",
-       "gl": "society",
-       "pos": "n."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "共同",
-       "py": "gòngtóng",
-       "gl": "jointly; together; common",
-       "pos": "adv."
-      },
-      {
-       "h": "面对",
-       "py": "miànduì",
-       "gl": "face; confront; deal with",
-       "pos": "v."
+       "h": "橙色",
+       "py": "chéngsè",
+       "gl": "orange (color)",
+       "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "课题",
-       "py": "kètí",
-       "gl": "topic; issue; research subject",
+       "h": "机械臂",
+       "py": "jīxièbì",
+       "gl": "robotic arm",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "转着",
+       "py": "zhuànzhe",
+       "gl": "to spin",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "焊花",
+       "py": "hànhuā",
+       "gl": "welding sparks",
+       "pos": "n."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "阵",
+       "py": "zhèn",
+       "gl": "measure word for short spells (a gust, a burst, a pang)",
+       "pos": "measure word"
+      },
+      {
+       "h": "金色",
+       "py": "jīnsè",
+       "gl": "golden; gold",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "雨",
+       "py": "yǔ",
+       "gl": "rain",
        "pos": "n."
       },
       {

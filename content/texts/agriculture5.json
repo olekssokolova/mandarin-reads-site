@@ -1,29 +1,23 @@
 {
  "id": "agriculture5",
  "level": 5,
- "title_zh": "大棚里的新农业",
- "title_en": "New Farming in the Greenhouse",
+ "title_zh": "镜头前的西红柿",
+ "title_en": "Tomatoes in Front of the Camera",
  "free": false,
  "audio_url": null,
- "note_en": "得 links a verb or adjective to a comment on how it turns out: 长得不好 \"grow poorly,\" 保持得比较合适 \"be kept at a fairly suitable level.\" English puts an adverb after the verb (\"grew badly\"), but Chinese needs 得 as a bridge before the description. Don't confuse it with 的 (before nouns) and 地 (before verbs) — all three are pronounced de.",
+ "note_en": "After a verb, 得 introduces how the action goes or how the result turned out: 西红柿长得不好 \"the tomatoes grew badly,\" 都保持得刚刚好 \"everything stays just right.\" The negative goes after 得, not before the verb: \"grew badly\" is 长得不好.",
  "sentences": [
   {
-   "en": "Old Zhang's family has been growing vegetables for more than ten years, and in the last few years the way they farm has changed a lot.",
+   "en": "Lao Zhang had grown vegetables for fifteen years, and for fifteen years the sky had called the shots.",
    "phrases": [
     {
-     "en": "Old Zhang's family has been growing vegetables for more than ten years,",
+     "en": "Lao Zhang had grown vegetables for fifteen years, and for fifteen years the sky had called the shots.",
      "words": [
       {
        "h": "老张",
        "py": "Lǎo Zhāng",
        "gl": "Lao Zhang (Old Zhang)",
        "pos": "proper noun"
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "measure word"
       },
       {
        "h": "种",
@@ -38,108 +32,61 @@
        "pos": "particle"
       },
       {
-       "h": "十几",
-       "py": "shíjǐ",
-       "gl": "a dozen or so; over ten",
+       "h": "十五",
+       "py": "shíwǔ",
+       "gl": "fifteen",
        "pos": "num."
       },
       {
        "h": "年",
        "py": "nián",
        "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
+       "pos": "measure word"
       },
       {
-       "h": "蔬菜",
-       "py": "shūcài",
-       "gl": "vegetable",
+       "h": "菜",
+       "py": "cài",
+       "gl": "vegetable; dish (food)",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and in the last few years the way they farm has changed a lot.",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few; how many (under ten); which (number)",
+       "h": "十五",
+       "py": "shíwǔ",
+       "gl": "fifteen",
        "pos": "num."
       },
       {
        "h": "年",
        "py": "nián",
        "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
        "pos": "measure word"
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "种植方式",
-       "py": "zhòngzhífāngshì",
-       "gl": "way of farming",
-       "pos": "n."
-      },
-      {
-       "h": "发生",
-       "py": "fāshēng",
-       "gl": "happen; occur",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
        "pos": "adv."
       },
       {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "变化",
-       "py": "biànhuà",
-       "gl": "change; changes",
+       "h": "老天",
+       "py": "lǎotiān",
+       "gl": "heaven (fate)",
        "pos": "n."
+      },
+      {
+       "h": "说了算",
+       "py": "shuō le suàn",
+       "gl": "to call the shots",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -149,48 +96,10 @@
    ]
   },
   {
-   "en": "In the past, growing vegetables depended entirely on the weather: when summer was too hot or winter too cold, the vegetables in the fields often grew poorly, and the harvest was unpredictable.",
+   "en": "If the summer was too hot, the tomatoes grew badly; if the winter was too cold, they didn't grow at all; one year a hailstorm wiped out a whole year's crop in ten minutes.",
    "phrases": [
     {
-     "en": "In the past, growing vegetables depended entirely on the weather:",
-     "words": [
-      {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
-       "pos": "n."
-      },
-      {
-       "h": "种菜",
-       "py": "zhòngcài",
-       "gl": "grow vegetables",
-       "pos": "v."
-      },
-      {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
-       "pos": "adv."
-      },
-      {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "天气",
-       "py": "tiānqì",
-       "gl": "weather",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "when summer was too hot or winter too cold,",
+     "en": "If the summer was too hot, the tomatoes grew badly; if the winter was too cold, they didn't grow at all;",
      "words": [
       {
        "h": "夏天",
@@ -211,7 +120,40 @@
        "pos": "adj."
       },
       {
-       "h": "、"
+       "h": "，"
+      },
+      {
+       "h": "西红柿",
+       "py": "xīhóngshì",
+       "gl": "tomato",
+       "pos": "n."
+      },
+      {
+       "h": "长",
+       "py": "zhǎng",
+       "gl": "grow; have (a feature); look (长得…)",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "；"
       },
       {
        "h": "冬天",
@@ -232,47 +174,12 @@
        "pos": "adj."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the vegetables in the fields often grew poorly, and the harvest was unpredictable.",
-     "words": [
-      {
-       "h": "地里",
-       "py": "dìlǐ",
-       "gl": "in the fields",
-       "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "蔬菜",
-       "py": "shūcài",
-       "gl": "vegetable",
-       "pos": "n."
-      },
-      {
-       "h": "常常",
-       "py": "chángcháng",
-       "gl": "often",
+       "h": "根本",
+       "py": "gēnběn",
+       "gl": "at all (in negatives); fundamentally",
        "pos": "adv."
       },
       {
@@ -282,43 +189,138 @@
        "pos": "v."
       },
       {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
-       "pos": "function word"
-      },
-      {
-       "h": "不好",
-       "py": "bùhǎo",
-       "gl": "bad; not good",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "收成",
-       "py": "shōucheng",
-       "gl": "harvest; crop",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
        "h": "不",
        "py": "bù",
        "gl": "not; no",
        "pos": "adv."
       },
       {
-       "h": "稳定",
-       "py": "wěndìng",
-       "gl": "stable; steady",
-       "pos": "adj."
+       "h": "出",
+       "py": "chū",
+       "gl": "out (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "；"
+      }
+     ]
+    },
+    {
+     "en": "one year a hailstorm wiped out a whole year's crop in ten minutes.",
+     "words": [
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "场",
+       "py": "chǎng",
+       "gl": "measure word for events, games, performances",
+       "pos": "measure word"
+      },
+      {
+       "h": "冰雹",
+       "py": "bīngbáo",
+       "gl": "hail",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "十",
+       "py": "shí",
+       "gl": "ten",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "菜",
+       "py": "cài",
+       "gl": "dish (food)",
+       "pos": "n."
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "hit; play (ball games); make (a phone call)",
+       "pos": "v."
+      },
+      {
+       "h": "光",
+       "py": "guāng",
+       "gl": "light; ray",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -328,66 +330,16 @@
    ]
   },
   {
-   "en": "Then the village brought in greenhouse technology, and Old Zhang's family built several greenhouses too, fitted with automatic watering and temperature-control equipment. No matter how the weather changes outside, the temperature and humidity inside can be kept at about the right level.",
+   "en": "When the village built greenhouses, he took a low-interest rural revitalization loan and put up two as well.",
    "phrases": [
     {
-     "en": "Then the village brought in greenhouse technology,",
+     "en": "When the village built greenhouses, he took a low-interest rural revitalization loan and put up two as well.",
      "words": [
-      {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "n."
-      },
       {
        "h": "村里",
        "py": "cūnlǐ",
        "gl": "in the village; village",
        "pos": "n."
-      },
-      {
-       "h": "引进",
-       "py": "yǐnjìn",
-       "gl": "introduce; bring in",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "大棚技术",
-       "py": "dàpéngjìshù",
-       "gl": "greenhouse technology",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and Old Zhang's family built several greenhouses too, fitted with automatic watering and temperature-control equipment.",
-     "words": [
-      {
-       "h": "老张",
-       "py": "Lǎo Zhāng",
-       "gl": "Lao Zhang (Old Zhang)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "measure word"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
       },
       {
        "h": "建",
@@ -396,15 +348,87 @@
        "pos": "v."
       },
       {
+       "h": "大棚",
+       "py": "dàpéng",
+       "gl": "greenhouse",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "乡村振兴",
+       "py": "xiāngcūn zhènxīng",
+       "gl": "rural revitalization",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "优惠",
+       "py": "yōuhuì",
+       "gl": "discount; special offer; preferential",
+       "pos": "adj."
+      },
+      {
+       "h": "贷款",
+       "py": "dàikuǎn",
+       "gl": "loan",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "盖",
+       "py": "gài",
+       "gl": "build (a house); cover",
+       "pos": "v."
+      },
+      {
        "h": "了",
        "py": "le",
        "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few; how many (under ten); which (number)",
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
        "pos": "num."
       },
       {
@@ -414,37 +438,29 @@
        "pos": "measure word"
       },
       {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Watering in the greenhouse was automatic, and whatever the wind and rain did outside, the temperature and humidity inside stayed just right.",
+   "phrases": [
+    {
+     "en": "Watering in the greenhouse was automatic, and whatever the wind and rain did outside, the temperature and humidity inside stayed just right.",
+     "words": [
+      {
        "h": "大棚",
        "py": "dàpéng",
        "gl": "greenhouse",
        "pos": "n."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "里面",
-       "py": "lǐmiàn",
-       "gl": "inside",
-       "pos": "n."
-      },
-      {
-       "h": "安装",
-       "py": "ānzhuāng",
-       "gl": "install",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "自动",
-       "py": "zìdòng",
-       "gl": "automatically; automatic",
-       "pos": "adv."
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
        "h": "浇水",
@@ -453,48 +469,25 @@
        "pos": "v."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "控制",
-       "py": "kòngzhì",
-       "gl": "control",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
       },
       {
-       "h": "温度",
-       "py": "wēndù",
-       "gl": "temperature; warmth",
-       "pos": "n."
+       "h": "自动",
+       "py": "zìdòng",
+       "gl": "automatically; automatic",
+       "pos": "adv."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "设备",
-       "py": "shèbèi",
-       "gl": "equipment; device",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "No matter how the weather changes outside, the temperature and humidity inside can be kept at about the right level.",
-     "words": [
-      {
-       "h": "不管",
-       "py": "bùguǎn",
-       "gl": "no matter; regardless of",
-       "pos": "conj."
       },
       {
        "h": "外面",
@@ -503,31 +496,31 @@
        "pos": "n."
       },
       {
-       "h": "天气",
-       "py": "tiānqì",
-       "gl": "weather",
+       "h": "刮",
+       "py": "guā",
+       "gl": "blow (of wind)",
+       "pos": "v."
+      },
+      {
+       "h": "风",
+       "py": "fēng",
+       "gl": "wind",
        "pos": "n."
       },
       {
-       "h": "怎么",
-       "py": "zěnme",
-       "gl": "how",
-       "pos": "question word"
+       "h": "下",
+       "py": "xià",
+       "gl": "under (强光下 under bright light)",
+       "pos": "postposition"
       },
       {
-       "h": "变化",
-       "py": "biànhuà",
-       "gl": "change; changes",
+       "h": "雨",
+       "py": "yǔ",
+       "gl": "rain",
        "pos": "n."
       },
       {
        "h": "，"
-      },
-      {
-       "h": "大棚",
-       "py": "dàpéng",
-       "gl": "greenhouse",
-       "pos": "n."
       },
       {
        "h": "里面",
@@ -538,7 +531,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -550,7 +543,7 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
@@ -566,12 +559,6 @@
        "pos": "adv."
       },
       {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
        "h": "保持",
        "py": "bǎochí",
        "gl": "maintain; keep",
@@ -580,19 +567,13 @@
       {
        "h": "得",
        "py": "de",
-       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
-       "pos": "function word"
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
       },
       {
-       "h": "比较",
-       "py": "bǐjiào",
-       "gl": "relatively; fairly; compare",
-       "pos": "adv."
-      },
-      {
-       "h": "合适",
-       "py": "héshì",
-       "gl": "suitable; fitting",
+       "h": "刚刚好",
+       "py": "gānggāng hǎo",
+       "gl": "just right; exactly",
        "pos": "adj."
       },
       {
@@ -603,29 +584,15 @@
    ]
   },
   {
-   "en": "As a result, vegetables can be grown all year round, and yields are much higher than before.",
+   "en": "Now tomatoes grew all year round, but he still sold them the old way: he hauled them to the market and stood there until dark.",
    "phrases": [
     {
-     "en": "As a result,",
+     "en": "Now tomatoes grew all year round, but he still sold them the old way: he hauled them to the market and stood there until dark.",
      "words": [
       {
-       "h": "这样一来",
-       "py": "zhèyàngyìlái",
-       "gl": "this way; as a result",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "vegetables can be grown all year round,",
-     "words": [
-      {
-       "h": "蔬菜",
-       "py": "shūcài",
-       "gl": "vegetable",
+       "h": "西红柿",
+       "py": "xīhóngshì",
+       "gl": "tomato",
        "pos": "n."
       },
       {
@@ -644,51 +611,13 @@
        "h": "能",
        "py": "néng",
        "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "种",
-       "py": "zhòng",
-       "gl": "plant; grow",
        "pos": "v."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and yields are much higher than before.",
-     "words": [
-      {
-       "h": "产量",
-       "py": "chǎnliàng",
-       "gl": "output; yield",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
-       "pos": "n."
-      },
-      {
-       "h": "高",
-       "py": "gāo",
-       "gl": "tall; high",
-       "pos": "adj."
+       "h": "长",
+       "py": "zhǎng",
+       "gl": "grow; have (a feature); look (长得…)",
+       "pos": "v."
       },
       {
        "h": "了",
@@ -697,146 +626,52 @@
        "pos": "particle"
       },
       {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Besides the way they grow things, the way they sell vegetables has changed too.",
-   "phrases": [
-    {
-     "en": "Besides the way they grow things,",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "种植方式",
-       "py": "zhòngzhífāngshì",
-       "gl": "way of farming",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "变化",
-       "py": "biànhuà",
-       "gl": "change; changes",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the way they sell vegetables has changed too.",
-     "words": [
-      {
-       "h": "卖菜",
-       "py": "màicài",
-       "gl": "sell vegetables",
-       "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "老",
+       "py": "lǎo",
+       "gl": "old; elderly",
+       "pos": "adj."
       },
       {
        "h": "办法",
        "py": "bànfǎ",
-       "gl": "way; method; (没办法) there's nothing one can do",
+       "gl": "way; method; solution",
        "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
+       "h": "："
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "一样",
-       "py": "yíyàng",
-       "gl": "same; identical",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Old Zhang used to haul his vegetables to the market and sell them bit by bit; now he contacts nearby supermarkets and restaurants directly by phone, and they send a truck to the greenhouses to pick up the produce, saving him a lot of time and effort.",
-   "phrases": [
-    {
-     "en": "Old Zhang used to haul his vegetables to the market and sell them bit by bit;",
-     "words": [
-      {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
-       "pos": "n."
-      },
-      {
-       "h": "老张",
-       "py": "Lǎo Zhāng",
-       "gl": "Lao Zhang (Old Zhang)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "蔬菜",
-       "py": "shūcài",
-       "gl": "vegetable",
-       "pos": "n."
-      },
-      {
-       "h": "拉到",
-       "py": "lādào",
-       "gl": "haul to; take to",
+       "h": "拉",
+       "py": "lā",
+       "gl": "to haul",
        "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
       },
       {
        "h": "集市",
@@ -847,185 +682,34 @@
       {
        "h": "上",
        "py": "shàng",
-       "gl": "on (a surface: 床上 on the bed)",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
        "pos": "postposition"
       },
       {
-       "h": "一点一点",
-       "py": "yìdiǎnyìdiǎn",
-       "gl": "little by little; bit by bit",
+       "h": "，"
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
        "pos": "adv."
       },
       {
-       "h": "卖",
-       "py": "mài",
-       "gl": "sell",
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
        "pos": "v."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "now he contacts nearby supermarkets and restaurants directly by phone,",
-     "words": [
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
        "pos": "prep."
       },
       {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "附近",
-       "py": "fùjìn",
-       "gl": "nearby; vicinity",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "超市",
-       "py": "chāoshì",
-       "gl": "supermarket",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "饭店",
-       "py": "fàndiàn",
-       "gl": "restaurant; hotel",
-       "pos": "n."
-      },
-      {
-       "h": "直接",
-       "py": "zhíjiē",
-       "gl": "directly; straight",
-       "pos": "adj."
-      },
-      {
-       "h": "联系",
-       "py": "liánxì",
-       "gl": "contact; get in touch",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and they send a truck to the greenhouses to pick up the produce, saving him a lot of time and effort.",
-     "words": [
-      {
-       "h": "对方",
-       "py": "duìfāng",
-       "gl": "the other party; the other person",
-       "pos": "n."
-      },
-      {
-       "h": "派",
-       "py": "pài",
-       "gl": "send; dispatch",
-       "pos": "v."
-      },
-      {
-       "h": "车",
-       "py": "chē",
-       "gl": "car; vehicle; bus",
-       "pos": "n."
-      },
-      {
-       "h": "来",
-       "py": "lái",
-       "gl": "come; arrive",
-       "pos": "v."
-      },
-      {
-       "h": "大棚",
-       "py": "dàpéng",
-       "gl": "greenhouse",
-       "pos": "n."
-      },
-      {
-       "h": "这边",
-       "py": "zhèbiān",
-       "gl": "this side; here",
-       "pos": "n."
-      },
-      {
-       "h": "收菜",
-       "py": "shōucài",
-       "gl": "collect vegetables (from a grower)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "力气",
-       "py": "lìqi",
-       "gl": "strength; physical effort",
+       "h": "天黑",
+       "py": "tiānhēi",
+       "gl": "get dark; nightfall",
        "pos": "n."
       },
       {
@@ -1036,16 +720,143 @@
    ]
   },
   {
-   "en": "Old Zhang says that although farming is still hard work, with these new technologies and methods his income is much more stable than before, and he plans to have his son carry on the work in the future.",
+   "en": "In the fall his son, Zhang Liang, came back from Hangzhou; he had quit his office job.",
    "phrases": [
     {
-     "en": "Old Zhang says that although farming is still hard work,",
+     "en": "In the fall his son, Zhang Liang, came back from Hangzhou; he had quit his office job.",
      "words": [
       {
-       "h": "老张",
-       "py": "Lǎo Zhāng",
-       "gl": "Lao Zhang (Old Zhang)",
+       "h": "秋天",
+       "py": "qiūtiān",
+       "gl": "fall; autumn",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "儿子",
+       "py": "érzi",
+       "gl": "son",
+       "pos": "n."
+      },
+      {
+       "h": "张亮",
+       "py": "Zhāng Liàng",
+       "gl": "Zhang Liang",
        "pos": "proper noun"
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "杭州",
+       "py": "hángzhōu",
+       "gl": "Hangzhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "回来",
+       "py": "huílái",
+       "gl": "come back; return",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "办公室",
+       "py": "bàngōngshì",
+       "gl": "office",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "工作",
+       "py": "gōngzuò",
+       "gl": "work; job",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "辞",
+       "py": "cí",
+       "gl": "quit (a job); resign",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"We'll sell on livestreams,\" he said. \"The village next door is already a Taobao village.\"",
+   "phrases": [
+    {
+     "en": "\"We'll sell on livestreams,\" he said. \"The village next door is already a Taobao village.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "直播",
+       "py": "zhíbō",
+       "gl": "live stream; broadcast live",
+       "pos": "n."
+      },
+      {
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
        "h": "说",
@@ -1057,60 +868,37 @@
        "h": "，"
       },
       {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
+       "h": "“"
       },
       {
-       "h": "种地",
-       "py": "zhòngdì",
-       "gl": "farm; work the land",
-       "pos": "v."
-      },
-      {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
-      },
-      {
-       "h": "还是",
-       "py": "háishi",
-       "gl": "still; nevertheless; after all",
-       "pos": "adv."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "辛苦",
-       "py": "xīnkǔ",
-       "gl": "hard; tiring; laborious",
+       "h": "隔壁",
+       "py": "gébì",
+       "gl": "next door",
        "pos": "adj."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "with these new technologies and methods his income is much more stable than before,",
-     "words": [
-      {
-       "h": "但是",
-       "py": "dànshì",
-       "gl": "but; however",
-       "pos": "conj."
+       "h": "村",
+       "py": "cūn",
+       "gl": "village",
+       "pos": "n."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
+      },
+      {
+       "h": "淘宝村",
+       "py": "Táobǎo cūn",
+       "gl": "\"Taobao village\"",
+       "pos": "n."
       },
       {
        "h": "了",
@@ -1119,49 +907,71 @@
        "pos": "particle"
       },
       {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
+       "h": "。"
       },
       {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lao Zhang said nothing, but that cigarette took him longer than usual.",
+   "phrases": [
+    {
+     "en": "Lao Zhang said nothing, but that cigarette took him longer than usual.",
+     "words": [
+      {
+       "h": "老张",
+       "py": "Lǎo Zhāng",
+       "gl": "Lao Zhang (Old Zhang)",
+       "pos": "proper noun"
       },
       {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "办法",
-       "py": "bànfǎ",
-       "gl": "way; method; (没办法) there's nothing one can do",
-       "pos": "n."
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "收入",
-       "py": "shōurù",
-       "gl": "income",
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "根",
+       "py": "gēn",
+       "gl": "measure word for long thin things (candles, sticks)",
+       "pos": "measure word"
+      },
+      {
+       "h": "烟",
+       "py": "yān",
+       "gl": "cigarette",
        "pos": "n."
+      },
+      {
+       "h": "抽",
+       "py": "chōu",
+       "gl": "find (time); take out",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
       },
       {
        "h": "比",
@@ -1170,108 +980,16 @@
        "pos": "prep."
       },
       {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
-       "pos": "n."
-      },
-      {
-       "h": "稳定",
-       "py": "wěndìng",
-       "gl": "stable; steady",
-       "pos": "adj."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and he plans to have his son carry on the work in the future.",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
+       "h": "平时",
+       "py": "píngshí",
+       "gl": "usually; ordinarily",
        "pos": "adv."
       },
       {
-       "h": "打算",
-       "py": "dǎsuàn",
-       "gl": "plan; intend",
-       "pos": "v."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "儿子",
-       "py": "érzi",
-       "gl": "son",
-       "pos": "n."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "later; in the future; after",
-       "pos": "n."
-      },
-      {
-       "h": "继续",
-       "py": "jìxù",
-       "gl": "continue; go on",
-       "pos": "v."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "这份",
-       "py": "zhèfèn",
-       "gl": "this (这份 + noun: this piece of …)",
-       "pos": "measure word"
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "下去",
-       "py": "xiàqù",
-       "gl": "go on; continue (after a verb: keep doing)",
-       "pos": "function word"
+       "h": "久",
+       "py": "jiǔ",
+       "gl": "long (time); for a long time",
+       "pos": "adj."
       },
       {
        "h": "。"
@@ -1281,69 +999,21 @@
    ]
   },
   {
-   "en": "In recent years, the government has been pushing a \"rural revitalization\" strategy, providing training and loan support to farming households like Old Zhang's.",
+   "en": "Young people like Zhang Liang who come back from the city are what the villagers call \"new farmers.\"",
    "phrases": [
     {
-     "en": "In recent years, the government has been pushing a \"rural revitalization\" strategy, providing training and loan support to farming households like Old Zhang's.",
+     "en": "Young people like Zhang Liang who come back from the city are what the villagers call \"new farmers.\"",
      "words": [
-      {
-       "h": "近年来",
-       "py": "jìnniánlái",
-       "gl": "in recent years",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "state; country",
-       "pos": "n."
-      },
-      {
-       "h": "推行",
-       "py": "tuīxíng",
-       "gl": "implement; promote (a policy)",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "乡村振兴",
-       "py": "xiāngcūnzhènxīng",
-       "gl": "rural revitalization",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "战略",
-       "py": "zhànlüè",
-       "gl": "strategy",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
       {
        "h": "像",
        "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "prep."
+       "gl": "resemble; be like; like",
+       "pos": "v."
       },
       {
-       "h": "老张",
-       "py": "lǎozhāng",
-       "gl": "Lao Zhang (Old Zhang)",
+       "h": "张亮",
+       "py": "Zhāng Liàng",
+       "gl": "Zhang Liang",
        "pos": "proper noun"
       },
       {
@@ -1353,54 +1023,38 @@
        "pos": "pron."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
       },
       {
-       "h": "农户",
-       "py": "nónghù",
-       "gl": "farming household; farmer",
+       "h": "城里",
+       "py": "chénglǐ",
+       "gl": "in the city; in town",
        "pos": "n."
       },
       {
-       "h": "提供",
-       "py": "tígōng",
-       "gl": "provide",
+       "h": "回来",
+       "py": "huílái",
+       "gl": "come back; return",
        "pos": "v."
       },
       {
-       "h": "培训",
-       "py": "péixùn",
-       "gl": "training",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "年轻人",
+       "py": "niánqīngrén",
+       "gl": "young people",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
+       "h": "，"
       },
-      {
-       "h": "贷款支持",
-       "py": "dàikuǎnzhīchí",
-       "gl": "loan support",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The village has also organized e-commerce livestreaming classes, teaching farmers how to sell their own vegetables to online buyers through short-video platforms.",
-   "phrases": [
-    {
-     "en": "The village has also organized e-commerce livestreaming classes, teaching farmers how to sell their own vegetables to online buyers through short-video platforms.",
-     "words": [
       {
        "h": "村里",
        "py": "cūnlǐ",
@@ -1408,97 +1062,34 @@
        "pos": "n."
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "组织",
-       "py": "zǔzhī",
-       "gl": "organize",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "电商直播培训班",
-       "py": "diànshāngzhíbōpéixùnbān",
-       "gl": "e-commerce livestreaming training course",
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
        "pos": "n."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "教",
+       "h": "叫",
        "py": "jiào",
-       "gl": "teach",
+       "gl": "be called",
        "pos": "v."
       },
       {
-       "h": "农民",
-       "py": "nóngmín",
-       "gl": "farmer; peasant",
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "新农人",
+       "py": "xīn nóngrén",
+       "gl": "\"new farmer\"",
        "pos": "n."
       },
       {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
-      },
-      {
-       "h": "短视频平台",
-       "py": "duǎnshìpínpíngtái",
-       "gl": "short-video platform",
-       "pos": "n."
-      },
-      {
-       "h": "向",
-       "py": "xiàng",
-       "gl": "to; toward; from (向她借钱 'borrow money from her')",
-       "pos": "prep."
-      },
-      {
-       "h": "网友",
-       "py": "wǎngyǒu",
-       "gl": "netizen; internet user",
-       "pos": "n."
-      },
-      {
-       "h": "推销",
-       "py": "tuīxiāo",
-       "gl": "sell; promote; market",
-       "pos": "v."
-      },
-      {
-       "h": "自家",
-       "py": "zìjiā",
-       "gl": "one's own; one's own home",
-       "pos": "n."
-      },
-      {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "plant; grow",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "蔬菜",
-       "py": "shūcài",
-       "gl": "vegetable",
-       "pos": "n."
+       "h": "”"
       },
       {
        "h": "。"
@@ -1508,40 +1099,22 @@
    ]
   },
   {
-   "en": "The Rural Revitalization Promotion Law, which officially took effect in June 2021, spells out in law the government's specific responsibilities for supporting rural development in areas such as industry, talent, culture and the environment.",
+   "en": "The Rural Revitalization Promotion Law, in force since 2021, promises support for everything from industry and talent to roads.",
    "phrases": [
     {
-     "en": "The Rural Revitalization Promotion Law, which officially took effect in June 2021, spells out in law the government's specific responsibilities for supporting rural development in areas such as industry, talent, culture and the environment.",
+     "en": "The Rural Revitalization Promotion Law, in force since 2021, promises support for everything from industry and talent to roads.",
      "words": [
       {
-       "h": "2021"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "二零二一年",
+       "py": "èr líng èr yī nián",
+       "gl": "the year 2021",
        "pos": "n."
       },
       {
-       "h": "6"
-      },
-      {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
-       "pos": "n."
-      },
-      {
-       "h": "起",
-       "py": "qǐ",
-       "gl": "(从…起) starting from",
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
        "pos": "v."
-      },
-      {
-       "h": "正式",
-       "py": "zhèngshì",
-       "gl": "formal; official",
-       "pos": "adj."
       },
       {
        "h": "实施",
@@ -1552,7 +1125,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -1560,9 +1133,9 @@
       },
       {
        "h": "乡村振兴促进法",
-       "py": "xiāngcūnzhènxīngcùjìnfǎ",
+       "py": "Xiāngcūn Zhènxīng Cùjìnfǎ",
        "gl": "Rural Revitalization Promotion Law",
-       "pos": "n."
+       "pos": "proper noun"
       },
       {
        "h": "》"
@@ -1573,37 +1146,7 @@
       {
        "h": "从",
        "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "法律层面",
-       "py": "fǎlǜcéngmiàn",
-       "gl": "legal level",
-       "pos": "n."
-      },
-      {
-       "h": "明确",
-       "py": "míngquè",
-       "gl": "clarify; specify",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "state; country",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
+       "gl": "from (从…到… from … to …)",
        "pos": "prep."
       },
       {
@@ -1622,34 +1165,43 @@
        "pos": "n."
       },
       {
-       "h": "、"
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
       },
       {
-       "h": "文化",
-       "py": "wénhuà",
-       "gl": "culture",
+       "h": "道路",
+       "py": "dàolù",
+       "gl": "road; path; way",
        "pos": "n."
       },
       {
-       "h": "、"
+       "h": "，"
       },
       {
-       "h": "生态",
-       "py": "shēngtài",
-       "gl": "ecology; ecological",
-       "pos": "n."
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
       },
       {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
       },
       {
-       "h": "方面",
-       "py": "fāngmiàn",
-       "gl": "aspect; respect; side",
-       "pos": "n."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
       },
       {
        "h": "支持",
@@ -1658,36 +1210,6 @@
        "pos": "v."
       },
       {
-       "h": "乡村",
-       "py": "xiāngcūn",
-       "gl": "countryside; rural area",
-       "pos": "n."
-      },
-      {
-       "h": "发展",
-       "py": "fāzhǎn",
-       "gl": "develop; development",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "具体",
-       "py": "jùtǐ",
-       "gl": "specific; concrete",
-       "pos": "adj."
-      },
-      {
-       "h": "责任",
-       "py": "zérèn",
-       "gl": "responsibility; duty",
-       "pos": "n."
-      },
-      {
        "h": "。"
       }
      ]
@@ -1695,1019 +1217,31 @@
    ]
   },
   {
-   "en": "Growers like Old Zhang's family, who have prospered thanks to greenhouse technology, are no longer isolated cases nationwide: according to statistics, China's area under protected cultivation ranks among the largest in the world, and greenhouses have become an important source of vegetables for many regions.",
+   "en": "On the first livestream the son talked to the camera alone, while Lao Zhang stood behind him, pretending to straighten the plastic sheeting.",
    "phrases": [
     {
-     "en": "Growers like Old Zhang's family, who have prospered thanks to greenhouse technology, are no longer isolated cases nationwide: according to statistics, China's area under protected cultivation ranks among the largest in the world, and greenhouses have become an important source of vegetables for many regions.",
+     "en": "On the first livestream the son talked to the camera alone, while Lao Zhang stood behind him, pretending to straighten the plastic sheeting.",
      "words": [
       {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "prep."
-      },
-      {
-       "h": "老张",
-       "py": "lǎozhāng",
-       "gl": "Lao Zhang (Old Zhang)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "measure word"
-      },
-      {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "such; like this",
-       "pos": "pron."
-      },
-      {
-       "h": "依靠",
-       "py": "yīkào",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "大棚技术",
-       "py": "dàpéngjìshù",
-       "gl": "greenhouse technology",
-       "pos": "n."
-      },
-      {
-       "h": "发展",
-       "py": "fāzhǎn",
-       "gl": "develop; development",
-       "pos": "v."
-      },
-      {
-       "h": "起来",
-       "py": "qǐlái",
-       "gl": "complement: start to (火了起来 became popular); up",
-       "pos": "function word"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "种植户",
-       "py": "zhòngzhíhù",
-       "gl": "grower; farming household",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "全国",
-       "py": "quánguó",
-       "gl": "the whole country; nationwide",
-       "pos": "adj."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "不是",
-       "py": "búshì",
-       "gl": "not be; is not",
-       "pos": "v."
-      },
-      {
-       "h": "个别现象",
-       "py": "gèbiéxiànxiàng",
-       "gl": "isolated case; rare phenomenon",
-       "pos": "n."
-      },
-      {
-       "h": "："
-      },
-      {
-       "h": "据统计",
-       "py": "jùtǒngjì",
-       "gl": "according to statistics",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "设施农业",
-       "py": "shèshīnóngyè",
-       "gl": "facility agriculture (greenhouse farming)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "种植面积",
-       "py": "zhòngzhímiànjī",
-       "gl": "planted area; area under cultivation",
-       "pos": "n."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "位居世界前列",
-       "py": "wèijūshìjièqiánliè",
-       "gl": "rank among the world's top",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "温室",
-       "py": "wēnshì",
-       "gl": "greenhouse",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "大棚",
-       "py": "dàpéng",
-       "gl": "greenhouse",
-       "pos": "n."
-      },
-      {
-       "h": "成为",
-       "py": "chéngwéi",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
-       "pos": "n."
-      },
-      {
-       "h": "蔬菜供应",
-       "py": "shūcàigōngyìng",
-       "gl": "vegetable supply",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
-      },
-      {
-       "h": "来源",
-       "py": "láiyuán",
-       "gl": "source",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "To help farmers like Old Zhang with funding, many banks have launched small credit loans specifically for rural areas, with much simpler approval procedures than ordinary commercial loans and relatively favorable interest rates.",
-   "phrases": [
-    {
-     "en": "To help farmers like Old Zhang with funding, many banks have launched small credit loans specifically for rural areas, with much simpler approval procedures than ordinary commercial loans and relatively favorable interest rates.",
-     "words": [
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "帮助",
-       "py": "bāngzhù",
-       "gl": "help; assist",
-       "pos": "v."
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "prep."
-      },
-      {
-       "h": "老张",
-       "py": "lǎozhāng",
-       "gl": "Lao Zhang (Old Zhang)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "一样",
-       "py": "yīyàng",
-       "gl": "same; identical",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "农户",
-       "py": "nónghù",
-       "gl": "farming household; farmer",
-       "pos": "n."
-      },
-      {
-       "h": "解决",
-       "py": "jiějué",
-       "gl": "solve; settle",
-       "pos": "v."
-      },
-      {
-       "h": "资金",
-       "py": "zījīn",
-       "gl": "funds; capital",
-       "pos": "n."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "银行",
-       "py": "yínháng",
-       "gl": "bank",
-       "pos": "n."
-      },
-      {
-       "h": "推出",
-       "py": "tuīchū",
-       "gl": "launch; introduce; release",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "面向",
-       "py": "miànxiàng",
-       "gl": "be aimed at; be intended for; face",
-       "pos": "v."
-      },
-      {
-       "h": "农村",
-       "py": "nóngcūn",
-       "gl": "countryside; rural area",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "小额信用贷款",
-       "py": "xiǎoéxìnyòngdàikuǎn",
-       "gl": "microcredit loan",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "审批手续",
-       "py": "shěnpīshǒuxù",
-       "gl": "approval procedure",
-       "pos": "n."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "普通",
-       "py": "pǔtōng",
-       "gl": "ordinary; common",
-       "pos": "adj."
-      },
-      {
-       "h": "商业贷款",
-       "py": "shāngyèdàikuǎn",
-       "gl": "commercial loan",
-       "pos": "n."
-      },
-      {
-       "h": "简单",
-       "py": "jiǎndān",
-       "gl": "simple; easy",
-       "pos": "adj."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "利率",
-       "py": "lìlǜ",
-       "gl": "interest rate",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "相对",
-       "py": "xiāngduì",
-       "gl": "relatively; comparatively",
-       "pos": "adv."
-      },
-      {
-       "h": "优惠",
-       "py": "yōuhuì",
-       "gl": "discount; special offer; preferential",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Besides bank loans, the \"farm-to-supermarket\" model is also spreading across the country: farmers sign supply agreements directly with supermarkets, cutting out the wholesale middlemen, so vegetables get from field to shelf much faster and their freshness is better guaranteed.",
-   "phrases": [
-    {
-     "en": "Besides bank loans, the \"farm-to-supermarket\" model is also spreading across the country: farmers sign supply agreements directly with supermarkets, cutting out the wholesale middlemen, so vegetables get from field to shelf much faster and their freshness is better guaranteed.",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "银行贷款",
-       "py": "yínhángdàikuǎn",
-       "gl": "bank loan",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "农超对接",
-       "py": "nóngchāoduìjiē",
-       "gl": "farm-to-supermarket direct supply",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "模式",
-       "py": "móshì",
-       "gl": "model; mode",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "全国",
-       "py": "quánguó",
-       "gl": "the whole country; nationwide",
-       "pos": "adj."
-      },
-      {
-       "h": "推广",
-       "py": "tuīguǎng",
-       "gl": "promote; popularize",
-       "pos": "v."
-      },
-      {
-       "h": "："
-      },
-      {
-       "h": "农户",
-       "py": "nónghù",
-       "gl": "farming household; farmer",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "超市",
-       "py": "chāoshì",
-       "gl": "supermarket",
-       "pos": "n."
-      },
-      {
-       "h": "直接",
-       "py": "zhíjiē",
-       "gl": "directly; straight",
-       "pos": "adj."
-      },
-      {
-       "h": "签订",
-       "py": "qiāndìng",
-       "gl": "sign (a contract or agreement)",
-       "pos": "v."
-      },
-      {
-       "h": "供货协议",
-       "py": "gōnghuòxiéyì",
-       "gl": "supply agreement",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "减少",
-       "py": "jiǎnshǎo",
-       "gl": "reduce; cut down",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "中间",
-       "py": "zhōngjiān",
-       "gl": "intermediate (中间环节 middleman stage)",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "批发环节",
-       "py": "pīfāhuánjié",
-       "gl": "wholesale stage",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "蔬菜",
-       "py": "shūcài",
-       "gl": "vegetable",
-       "pos": "n."
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "田地",
-       "py": "tiándì",
-       "gl": "farmland; field",
-       "pos": "n."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
-       "pos": "prep."
-      },
-      {
-       "h": "货架",
-       "py": "huòjià",
-       "gl": "shelf (in a store)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "大大",
-       "py": "dàdà",
-       "gl": "greatly; considerably",
-       "pos": "adv."
-      },
-      {
-       "h": "缩短",
-       "py": "suōduǎn",
-       "gl": "shorten",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "新鲜度",
-       "py": "xīnxiāndù",
-       "gl": "freshness",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "保障",
-       "py": "bǎozhàng",
-       "gl": "security; guarantee",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "E-commerce platforms are also playing an important role in rural revitalization: some places where large numbers of online sellers of farm products have clustered are called \"Taobao villages\" (after China's biggest online marketplace), and they have boosted the economy of whole areas.",
-   "phrases": [
-    {
-     "en": "E-commerce platforms are also playing an important role in rural revitalization: some places where large numbers of online sellers of farm products have clustered are called \"Taobao villages\" (after China's biggest online marketplace), and they have boosted the economy of whole areas.",
-     "words": [
-      {
-       "h": "电商平台",
-       "py": "diànshāngpíngtái",
-       "gl": "e-commerce platform",
-       "pos": "n."
-      },
-      {
-       "h": "同样",
-       "py": "tóngyàng",
-       "gl": "the same; likewise; also; likewise; equally; the same; similar",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "乡村振兴",
-       "py": "xiāngcūnzhènxīng",
-       "gl": "rural revitalization",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "扮演",
-       "py": "bànyǎn",
-       "gl": "play (a role)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
-      },
-      {
-       "h": "角色",
-       "py": "juésè",
-       "gl": "role",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "地方",
-       "py": "dìfāng",
-       "gl": "place",
-       "pos": "n."
-      },
-      {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because",
-       "pos": "conj."
-      },
-      {
-       "h": "聚集",
-       "py": "jùjí",
-       "gl": "gather; be concentrated",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "大量",
-       "py": "dàliàng",
-       "gl": "large amount of; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
-      },
-      {
-       "h": "网络",
-       "py": "wǎngluò",
-       "gl": "internet; network; online",
-       "pos": "n."
-      },
-      {
-       "h": "销售",
-       "py": "xiāoshòu",
-       "gl": "sell; sales",
-       "pos": "v."
-      },
-      {
-       "h": "农产品",
-       "py": "nóngchǎnpǐn",
-       "gl": "agricultural products",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "商户",
-       "py": "shānghù",
-       "gl": "merchant; business owner",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "function word"
-      },
-      {
-       "h": "称为",
-       "py": "chēngwéi",
-       "gl": "be called; be known as",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "淘宝",
-       "py": "táobǎo",
-       "gl": "Taobao (online shopping platform)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "村",
-       "py": "cūn",
-       "gl": "village",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "带动",
-       "py": "dàidòng",
-       "gl": "drive; boost; spur",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "整片",
-       "py": "zhěngpiàn",
-       "gl": "whole stretch; entire area",
-       "pos": "adj."
-      },
-      {
-       "h": "区域",
-       "py": "qūyù",
-       "gl": "area; region; zone",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "经济发展",
-       "py": "jīngjìfāzhǎn",
-       "gl": "economic development",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Some young people who had left to work in the cities saw the opportunities that e-commerce and livestream selling offered back home, and chose to return and start their own businesses, becoming the village's \"new farmers\" — and it was against this background that Old Zhang's son decided to stay in the village.",
-   "phrases": [
-    {
-     "en": "Some young people who had left to work in the cities saw the opportunities that e-commerce and livestream selling offered back home, and chose to return and start their own businesses, becoming the village's \"new farmers\" — and it was against this background that Old Zhang's son decided to stay in the village.",
-     "words": [
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; a few",
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
        "pos": "num."
       },
       {
-       "h": "原本",
-       "py": "yuánběn",
-       "gl": "originally",
-       "pos": "adv."
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
       },
       {
-       "h": "外出",
-       "py": "wàichū",
-       "gl": "go out; leave home (for work)",
-       "pos": "v."
-      },
-      {
-       "h": "打工",
-       "py": "dǎgōng",
-       "gl": "work a part-time job; work for someone",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "年轻人",
-       "py": "niánqīngrén",
-       "gl": "young people",
+       "h": "直播",
+       "py": "zhíbō",
+       "gl": "live stream; broadcast live",
        "pos": "n."
       },
       {
        "h": "，"
-      },
-      {
-       "h": "看到",
-       "py": "kàndào",
-       "gl": "see",
-       "pos": "v."
-      },
-      {
-       "h": "家乡",
-       "py": "jiāxiāng",
-       "gl": "hometown",
-       "pos": "n."
-      },
-      {
-       "h": "电商",
-       "py": "diànshāng",
-       "gl": "e-commerce",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "直播带货",
-       "py": "zhíbōdàihuò",
-       "gl": "livestream selling",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "机会",
-       "py": "jīhuì",
-       "gl": "opportunity; chance",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "选择",
-       "py": "xuǎnzé",
-       "gl": "choice; option",
-       "pos": "n."
-      },
-      {
-       "h": "返乡创业",
-       "py": "fǎnxiāngchuàngyè",
-       "gl": "return home to start a business",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "成为",
-       "py": "chéngwéi",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "村里",
-       "py": "cūnlǐ",
-       "gl": "in the village; village",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "新农人",
-       "py": "xīnnóngrén",
-       "gl": "\"new farmer\" (young person returning to farming)",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "老张",
-       "py": "lǎozhāng",
-       "gl": "Lao Zhang (Old Zhang)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
       },
       {
        "h": "儿子",
@@ -2716,84 +1250,11 @@
        "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "num."
       },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "such; like this",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "背景下",
-       "py": "bèijǐngxià",
-       "gl": "against the background of; in the context of",
-       "pos": "n."
-      },
-      {
-       "h": "决定",
-       "py": "juédìng",
-       "gl": "decide; decision",
-       "pos": "v."
-      },
-      {
-       "h": "留",
-       "py": "liú",
-       "gl": "stay; remain",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "村里",
-       "py": "cūnlǐ",
-       "gl": "in the village; village",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "For Old Zhang, his son's willingness to stay is a family decision, but it also reflects the fact that more and more young people in the countryside are realizing that farming isn't just another word for hard work and low pay, and that with new technology and new sales channels it can have a real future.",
-   "phrases": [
-    {
-     "en": "For Old Zhang, his son's willingness to stay is a family decision, but it also reflects the fact that more and more young people in the countryside are realizing that farming isn't just another word for hard work and low pay, and that with new technology and new sales channels it can have a real future.",
-     "words": [
       {
        "h": "对",
        "py": "duì",
@@ -2801,20 +1262,102 @@
        "pos": "prep."
       },
       {
-       "h": "老张",
-       "py": "lǎozhāng",
-       "gl": "Lao Zhang (Old Zhang)",
-       "pos": "proper noun"
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
       },
       {
-       "h": "来说",
-       "py": "láishuō",
-       "gl": "as for; for (对…来说 for someone)",
-       "pos": "phrase"
+       "h": "镜头",
+       "py": "jìngtóu",
+       "gl": "camera; lens; shot",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
       },
       {
        "h": "，"
       },
+      {
+       "h": "老张",
+       "py": "Lǎo Zhāng",
+       "gl": "Lao Zhang (Old Zhang)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "后面",
+       "py": "hòumiàn",
+       "gl": "behind; at the back",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "装",
+       "py": "zhuāng",
+       "gl": "pretend; act",
+       "pos": "v."
+      },
+      {
+       "h": "作",
+       "py": "zuò",
+       "gl": "(装作) to pretend",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "整理",
+       "py": "zhěnglǐ",
+       "gl": "tidy up; put in order",
+       "pos": "v."
+      },
+      {
+       "h": "塑料",
+       "py": "sùliào",
+       "gl": "plastic",
+       "pos": "n."
+      },
+      {
+       "h": "膜",
+       "py": "mó",
+       "gl": "plastic sheeting, film",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The son talked fast, but only seventeen people were watching, and they sold two boxes.",
+   "phrases": [
+    {
+     "en": "The son talked fast, but only seventeen people were watching, and they sold two boxes.",
+     "words": [
       {
        "h": "儿子",
        "py": "érzi",
@@ -2822,455 +1365,100 @@
        "pos": "n."
       },
       {
-       "h": "愿意",
-       "py": "yuànyì",
-       "gl": "be willing",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "留下来",
-       "py": "liúxiàlái",
-       "gl": "stay; remain; leave behind",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "既",
-       "py": "jì",
-       "gl": "both (既…又… both … and …)",
-       "pos": "conj."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "家庭",
-       "py": "jiātíng",
-       "gl": "family; household",
-       "pos": "n."
-      },
-      {
-       "h": "的",
+       "h": "得",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
        "pos": "particle"
       },
       {
-       "h": "决定",
-       "py": "juédìng",
-       "gl": "decide; decision",
-       "pos": "v."
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
       },
       {
        "h": "，"
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "反映出",
-       "py": "fǎnyìngchū",
-       "gl": "reflect; show",
-       "pos": "v."
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more",
-       "pos": "adj."
-      },
-      {
-       "h": "农村",
-       "py": "nóngcūn",
-       "gl": "countryside; rural area",
-       "pos": "n."
-      },
-      {
-       "h": "青年",
-       "py": "qīngnián",
-       "gl": "youth (青年旅舍 youth hostel)",
-       "pos": "n."
-      },
-      {
-       "h": "重新",
-       "py": "chóngxīn",
-       "gl": "again; once more",
-       "pos": "adv."
-      },
-      {
-       "h": "认识到",
-       "py": "rènshídào",
-       "gl": "realize; recognize",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "农业",
-       "py": "nóngyè",
-       "gl": "agriculture; farming",
-       "pos": "n."
-      },
-      {
-       "h": "并不",
-       "py": "bìngbù",
-       "gl": "not at all; by no means",
-       "pos": "adv."
-      },
-      {
-       "h": "只是",
-       "py": "zhǐshì",
-       "gl": "just; only; merely",
-       "pos": "adv."
-      },
-      {
-       "h": "辛苦",
-       "py": "xīnkǔ",
-       "gl": "hard; tiring; laborious",
-       "pos": "adj."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
        "pos": "conj."
       },
       {
-       "h": "低收入",
-       "py": "dīshōurù",
-       "gl": "low income",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "代名词",
-       "py": "dàimíngcí",
-       "gl": "byword; synonym",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "借助",
-       "py": "jièzhù",
-       "gl": "make use of; with the help of",
-       "pos": "v."
-      },
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "渠道",
-       "py": "qúdào",
-       "gl": "channel; means",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "这份",
-       "py": "zhèfèn",
-       "gl": "this (这份 + noun: this piece of …)",
-       "pos": "measure word"
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "同样",
-       "py": "tóngyàng",
-       "gl": "the same; likewise; also; likewise; equally; the same; similar",
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
        "pos": "adv."
       },
       {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "v."
+       "h": "十七",
+       "py": "shíqī",
+       "gl": "seventeen",
+       "pos": "num."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "前景",
-       "py": "qiánjǐng",
-       "gl": "prospects; outlook",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "From depending on the weather to relying on technology and e-commerce, from growing a single crop to a gradually more complete industry chain, the changes in Old Zhang's family are a snapshot of what millions of Chinese farming households have been through together under the rural revitalization strategy.",
-   "phrases": [
-    {
-     "en": "From depending on the weather to relying on technology and e-commerce, from growing a single crop to a gradually more complete industry chain, the changes in Old Zhang's family are a snapshot of what millions of Chinese farming households have been through together under the rural revitalization strategy.",
-     "words": [
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "day; sky",
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
        "pos": "measure word"
       },
       {
-       "h": "吃饭",
-       "py": "chīfàn",
-       "gl": "eat; have a meal",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
-       "pos": "prep."
-      },
-      {
-       "h": "依靠",
-       "py": "yīkào",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "科技",
-       "py": "kējì",
-       "gl": "technology; science and technology",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "电商",
-       "py": "diànshāng",
-       "gl": "e-commerce",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "单一",
-       "py": "dānyī",
-       "gl": "single; uniform; monotonous",
-       "pos": "adj."
-      },
-      {
-       "h": "种植",
-       "py": "zhòngzhí",
-       "gl": "plant; grow; cultivation",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
-       "pos": "prep."
-      },
-      {
-       "h": "产业链条",
-       "py": "chǎnyèliàntiáo",
-       "gl": "industrial chain; supply chain",
-       "pos": "n."
-      },
-      {
-       "h": "逐渐",
-       "py": "zhújiàn",
-       "gl": "gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "完善",
-       "py": "wánshàn",
-       "gl": "improve; perfect; well-developed",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "老张",
-       "py": "lǎozhāng",
-       "gl": "Lao Zhang (Old Zhang)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "measure word"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "变化",
-       "py": "biànhuà",
-       "gl": "change; changes",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "千千万万",
-       "py": "qiānqiānwànwàn",
-       "gl": "countless; millions of",
-       "pos": "adj."
-      },
-      {
-       "h": "农户",
-       "py": "nónghù",
-       "gl": "farming household; farmer",
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
        "pos": "n."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "乡村振兴",
-       "py": "xiāngcūnzhènxīng",
-       "gl": "rural revitalization",
-       "pos": "n."
-      },
-      {
-       "h": "战略",
-       "py": "zhànlüè",
-       "gl": "strategy",
-       "pos": "n."
-      },
-      {
-       "h": "推动",
-       "py": "tuīdòng",
-       "gl": "promote; push forward; drive",
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
        "pos": "v."
       },
       {
-       "h": "下",
-       "py": "xià",
-       "gl": "under (conditions); in (a context)",
-       "pos": "postposition"
+       "h": "，"
       },
       {
-       "h": "共同",
-       "py": "gòngtóng",
-       "gl": "jointly; together; common",
-       "pos": "adv."
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "go through; experience",
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "缩影",
-       "py": "suōyǐng",
-       "gl": "epitome; microcosm",
-       "pos": "n."
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "箱",
+       "py": "xiāng",
+       "gl": "measure word for boxes, crates",
+       "pos": "measure word"
       },
       {
        "h": "。"
@@ -3280,238 +1468,115 @@
    ]
   },
   {
-   "en": "Besides vegetables, many areas are also using greenhouse technology to grow high-value fruit such as strawberries and blueberries, attracting city dwellers to come pick their own on weekends — a new model combining farming and tourism.",
+   "en": "Someone asked in the comments, \"How can you prove you didn't spray pesticide?\"",
    "phrases": [
     {
-     "en": "Besides vegetables, many areas are also using greenhouse technology to grow high-value fruit such as strawberries and blueberries, attracting city dwellers to come pick their own on weekends — a new model combining farming and tourism.",
+     "en": "Someone asked in the comments, \"How can you prove you didn't spray pesticide?\"",
      "words": [
       {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
+       "h": "有人",
+       "py": "yǒurén",
+       "gl": "someone; some people",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "蔬菜",
-       "py": "shūcài",
-       "gl": "vegetable",
+       "h": "评论",
+       "py": "pínglùn",
+       "gl": "comment",
        "pos": "n."
       },
       {
-       "h": "种植",
-       "py": "zhòngzhí",
-       "gl": "plant; grow; cultivation",
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
        "pos": "v."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "结合",
-       "py": "jiéhé",
-       "gl": "combine; integrate",
-       "pos": "v."
-      },
-      {
-       "h": "大棚技术",
-       "py": "dàpéngjìshù",
-       "gl": "greenhouse technology",
-       "pos": "n."
-      },
-      {
-       "h": "发展起",
-       "py": "fāzhǎnqǐ",
-       "gl": "develop; build up",
-       "pos": "v."
-      },
-      {
-       "h": "草莓",
-       "py": "cǎoméi",
-       "gl": "strawberry",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "蓝莓",
-       "py": "lánméi",
-       "gl": "blueberry",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "高附加值",
-       "py": "gāofùjiāzhí",
-       "gl": "high value-added",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "水果",
-       "py": "shuǐguǒ",
-       "gl": "fruit",
-       "pos": "n."
-      },
-      {
-       "h": "种植",
-       "py": "zhòngzhí",
-       "gl": "plant; grow; cultivation",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "吸引",
-       "py": "xīyǐn",
-       "gl": "attract",
-       "pos": "v."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "居民",
-       "py": "jūmín",
-       "gl": "resident; inhabitant",
-       "pos": "n."
-      },
-      {
-       "h": "周末",
-       "py": "zhōumò",
-       "gl": "weekend",
-       "pos": "n."
-      },
-      {
-       "h": "前来",
-       "py": "qiánlái",
-       "gl": "come; arrive",
-       "pos": "v."
-      },
-      {
-       "h": "体验",
-       "py": "tǐyàn",
-       "gl": "experience; try out",
-       "pos": "n."
-      },
-      {
-       "h": "采摘",
-       "py": "cǎizhāi",
-       "gl": "pick; harvest",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "形成",
-       "py": "xíngchéng",
-       "gl": "form; take shape",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
+       "h": "："
       },
       {
        "h": "“"
       },
       {
-       "h": "农旅融合",
-       "py": "nónglǚrónghé",
-       "gl": "integration of farming and tourism",
+       "h": "你们",
+       "py": "nǐmen",
+       "gl": "you (plural)",
+       "pos": "pron."
+      },
+      {
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
+       "pos": "pron."
+      },
+      {
+       "h": "证明",
+       "py": "zhèngmíng",
+       "gl": "prove; show",
+       "pos": "v."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "hit; play (ball games); make (a phone call)",
+       "pos": "v."
+      },
+      {
+       "h": "农药",
+       "py": "nóngyào",
+       "gl": "pesticide",
        "pos": "n."
+      },
+      {
+       "h": "？"
       },
       {
        "h": "”"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "模式",
-       "py": "móshì",
-       "gl": "model; mode",
-       "pos": "n."
-      },
-      {
-       "h": "。"
       }
      ]
     }
    ]
   },
   {
-   "en": "This kind of agritourism not only gives farmers an extra source of income but also lets more city people learn how crops grow, and some families even make a point of bringing their kids along to get a taste of working in the fields.",
+   "en": "The son froze. Then Lao Zhang suddenly stepped up to the camera, picked a tomato, wiped it on his sleeve, and took a big bite.",
    "phrases": [
     {
-     "en": "This kind of agritourism not only gives farmers an extra source of income but also lets more city people learn how crops grow, and some families even make a point of bringing their kids along to get a taste of working in the fields.",
+     "en": "The son froze. Then Lao Zhang suddenly stepped up to the camera, picked a tomato, wiped it on his sleeve, and took a big bite.",
      "words": [
       {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "观光农业",
-       "py": "guānguāngnóngyè",
-       "gl": "agritourism",
+       "h": "儿子",
+       "py": "érzi",
+       "gl": "son",
        "pos": "n."
       },
       {
-       "h": "不仅",
-       "py": "bùjǐn",
-       "gl": "not only",
-       "pos": "conj."
+       "h": "愣",
+       "py": "lèng",
+       "gl": "be stunned; freeze",
+       "pos": "v."
       },
       {
-       "h": "增加",
-       "py": "zēngjiā",
-       "gl": "increase; raise; add",
+       "h": "住",
+       "py": "zhù",
+       "gl": "live; stay",
        "pos": "v."
       },
       {
@@ -3521,165 +1586,404 @@
        "pos": "particle"
       },
       {
-       "h": "农户",
-       "py": "nónghù",
-       "gl": "farming household; farmer",
+       "h": "。"
+      },
+      {
+       "h": "老张",
+       "py": "Lǎo Zhāng",
+       "gl": "Lao Zhang (Old Zhang)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "镜头",
+       "py": "jìngtóu",
+       "gl": "camera; lens; shot",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "收入来源",
-       "py": "shōurùláiyuán",
-       "gl": "source of income",
-       "pos": "n."
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
       },
       {
        "h": "，"
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "h": "摘",
+       "py": "zhāi",
+       "gl": "pick (fruit); pluck",
        "pos": "v."
       },
       {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
+       "h": "下",
+       "py": "xià",
+       "gl": "under (强光下 under bright light)",
+       "pos": "postposition"
       },
       {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much; more",
-       "pos": "adj."
-      },
-      {
-       "h": "城里人",
-       "py": "chénglǐrén",
-       "gl": "city dweller; townspeople",
-       "pos": "n."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "机会",
-       "py": "jīhuì",
-       "gl": "opportunity; chance",
-       "pos": "n."
-      },
-      {
-       "h": "了解",
-       "py": "liǎojiě",
-       "gl": "get to know; understand",
-       "pos": "v."
-      },
-      {
-       "h": "农作物",
-       "py": "nóngzuòwù",
-       "gl": "crop",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "生长过程",
-       "py": "shēngzhǎngguòchéng",
-       "gl": "growth process",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; a few",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "家庭",
-       "py": "jiātíng",
-       "gl": "family; household",
+       "h": "西红柿",
+       "py": "xīhóngshì",
+       "gl": "tomato",
        "pos": "n."
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "袖子",
+       "py": "xiùzi",
+       "gl": "sleeve",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "擦",
+       "py": "cā",
+       "gl": "wipe; clean",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "擦",
+       "py": "cā",
+       "gl": "wipe; clean",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "咬",
+       "py": "yǎo",
+       "gl": "bite",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "大",
+       "py": "dà",
+       "gl": "big; large",
+       "pos": "adj."
+      },
+      {
+       "h": "口",
+       "py": "kǒu",
+       "gl": "(measure word: a bite, a mouthful)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Whatever I sell, I eat, and I've eaten it for fifteen years,\" he said, chewing. \"The land doesn't lie.\"",
+   "phrases": [
+    {
+     "en": "\"Whatever I sell, I eat, and I've eaten it for fifteen years,\" he said, chewing. \"The land doesn't lie.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
+       "pos": "v."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
        "pos": "v."
       },
       {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
-       "pos": "adv."
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
       },
       {
-       "h": "带",
-       "py": "dài",
-       "gl": "bring; take (along); carry",
+       "h": "，"
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
        "pos": "v."
       },
       {
-       "h": "孩子",
-       "py": "háizi",
-       "gl": "child",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "十五",
+       "py": "shíwǔ",
+       "gl": "fifteen",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "嚼",
+       "py": "jiáo",
+       "gl": "chew",
+       "pos": "v."
+      },
+      {
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "土地",
+       "py": "tǔdì",
+       "gl": "land; soil",
        "pos": "n."
       },
       {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely (会不会 'will or won't')",
        "pos": "v."
       },
       {
-       "h": "体验",
-       "py": "tǐyàn",
-       "gl": "experience; try out",
+       "h": "骗",
+       "py": "piàn",
+       "gl": "deceive; cheat; scam",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
        "pos": "n."
       },
       {
-       "h": "下地劳作",
-       "py": "xiàdìláozuò",
-       "gl": "work in the fields",
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Tomato juice ran down his chin, and in an instant the comments were full of hearts.",
+   "phrases": [
+    {
+     "en": "Tomato juice ran down his chin, and in an instant the comments were full of hearts.",
+     "words": [
+      {
+       "h": "西红柿",
+       "py": "xīhóngshì",
+       "gl": "tomato",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "感觉",
-       "py": "gǎnjué",
-       "gl": "feeling; sense",
+       "h": "汁",
+       "py": "zhī",
+       "gl": "juice; broth",
+       "pos": "n."
+      },
+      {
+       "h": "顺",
+       "py": "shùn",
+       "gl": "smooth; going well",
+       "pos": "adj."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "下巴",
+       "py": "xiàba",
+       "gl": "chin",
+       "pos": "n."
+      },
+      {
+       "h": "流",
+       "py": "liú",
+       "gl": "flow; run",
+       "pos": "v."
+      },
+      {
+       "h": "下来",
+       "py": "xiàlái",
+       "gl": "verb complement: settling down (坐下来 sit down)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "评论",
+       "py": "pínglùn",
+       "gl": "comment",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "一下子",
+       "py": "yīxiàzi",
+       "gl": "all at once; suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "全",
+       "py": "quán",
+       "gl": "all, entirely",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "红心",
+       "py": "hóngxīn",
+       "gl": "heart (emoji)",
        "pos": "n."
       },
       {
@@ -3690,115 +1994,25 @@
    ]
   },
   {
-   "en": "At the same time, agricultural experts and technicians regularly visit the countryside to give farmers technical guidance and help them solve practical problems with things like greenhouse management and pest and disease control.",
+   "en": "That evening they sold two hundred boxes.",
    "phrases": [
     {
-     "en": "At the same time, agricultural experts and technicians regularly visit the countryside to give farmers technical guidance and help them solve practical problems with things like greenhouse management and pest and disease control.",
+     "en": "That evening they sold two hundred boxes.",
      "words": [
       {
-       "h": "与此同时",
-       "py": "yǔcǐtóngshí",
-       "gl": "at the same time; meanwhile",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "农业",
-       "py": "nóngyè",
-       "gl": "agriculture; farming",
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
        "pos": "n."
       },
       {
-       "h": "专家",
-       "py": "zhuānjiā",
-       "gl": "expert; specialist",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "农技人员",
-       "py": "nóngjìrényuán",
-       "gl": "agricultural technician",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "定期",
-       "py": "dìngqī",
-       "gl": "regularly; periodically",
-       "pos": "adv."
-      },
-      {
-       "h": "下乡",
-       "py": "xiàxiāng",
-       "gl": "go to the countryside",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
-      {
-       "h": "农户",
-       "py": "nónghù",
-       "gl": "farming household; farmer",
-       "pos": "n."
-      },
-      {
-       "h": "提供",
-       "py": "tígōng",
-       "gl": "provide",
-       "pos": "v."
-      },
-      {
-       "h": "种植",
-       "py": "zhòngzhí",
-       "gl": "plant; grow; cultivation",
-       "pos": "v."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "指导",
-       "py": "zhǐdǎo",
-       "gl": "guide; instruct; guidance",
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
        "pos": "n."
       },
       {
        "h": "，"
-      },
-      {
-       "h": "帮助",
-       "py": "bāngzhù",
-       "gl": "help; assist",
-       "pos": "v."
       },
       {
        "h": "他们",
@@ -3807,103 +2021,9 @@
        "pos": "pron."
       },
       {
-       "h": "解决",
-       "py": "jiějué",
-       "gl": "solve; settle",
-       "pos": "v."
-      },
-      {
-       "h": "大棚",
-       "py": "dàpéng",
-       "gl": "greenhouse",
-       "pos": "n."
-      },
-      {
-       "h": "管理",
-       "py": "guǎnlǐ",
-       "gl": "manage; run",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "病虫害防治",
-       "py": "bìngchónghàifángzhì",
-       "gl": "pest and disease control",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "方面",
-       "py": "fāngmiàn",
-       "gl": "aspect; respect; side",
-       "pos": "n."
-      },
-      {
-       "h": "遇到",
-       "py": "yùdào",
-       "gl": "encounter; come across; run into",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "实际",
-       "py": "shíjì",
-       "gl": "actual; real; practical",
-       "pos": "adj."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Many local governments have also set up traceability systems for farm products: by scanning the QR code on the package with their phones, shoppers can look up details such as where the vegetables were grown, who grew them and the inspection reports, which gives them more peace of mind when buying.",
-   "phrases": [
-    {
-     "en": "Many local governments have also set up traceability systems for farm products: by scanning the QR code on the package with their phones, shoppers can look up details such as where the vegetables were grown, who grew them and the inspection reports, which gives them more peace of mind when buying.",
-     "words": [
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "地方政府",
-       "py": "dìfāngzhèngfǔ",
-       "gl": "local government",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "建立",
-       "py": "jiànlì",
-       "gl": "establish; build",
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
        "pos": "v."
       },
       {
@@ -3913,54 +2033,79 @@
        "pos": "particle"
       },
       {
-       "h": "农产品质量追溯系统",
-       "py": "nóngchǎnpǐnzhìliàngzhuīsùxìtǒng",
-       "gl": "farm product quality tracing system",
-       "pos": "n."
+       "h": "两百",
+       "py": "liǎngbǎi",
+       "gl": "two hundred",
+       "pos": "num."
+      },
+      {
+       "h": "箱",
+       "py": "xiāng",
+       "gl": "measure word for boxes, crates",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Now every box carries a QR code: scan it and you see the greenhouse, the picking date, and Lao Zhang's face.",
+   "phrases": [
+    {
+     "en": "Now every box carries a QR code: scan it and you see the greenhouse, the picking date, and Lao Zhang's face.",
+     "words": [
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
       },
       {
        "h": "，"
       },
       {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
       },
       {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
       },
       {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "扫描",
-       "py": "sǎomiáo",
-       "gl": "scanning; scan",
-       "pos": "v."
-      },
-      {
-       "h": "包装",
-       "py": "bāozhuāng",
-       "gl": "packaging",
+       "h": "箱子",
+       "py": "xiāngzi",
+       "gl": "box; suitcase",
        "pos": "n."
       },
       {
        "h": "上",
        "py": "shàng",
-       "gl": "on (a surface: 床上 on the bed)",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
        "pos": "postposition"
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "贴",
+       "py": "tiē",
+       "gl": "stick; paste; put up",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
        "pos": "particle"
       },
       {
@@ -3973,325 +2118,84 @@
        "h": "，"
       },
       {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "扫",
+       "py": "sǎo",
+       "gl": "scan; sweep",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
        "h": "就",
        "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
        "h": "能",
        "py": "néng",
        "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "查到",
-       "py": "chádào",
-       "gl": "find (out); look up",
        "pos": "v."
       },
       {
-       "h": "蔬菜",
-       "py": "shūcài",
-       "gl": "vegetable",
-       "pos": "n."
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
+       "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "产地",
-       "py": "chǎndì",
-       "gl": "place of production; growing area",
+       "h": "大棚",
+       "py": "dàpéng",
+       "gl": "greenhouse",
        "pos": "n."
       },
       {
        "h": "、"
       },
       {
-       "h": "种植户",
-       "py": "zhòngzhíhù",
-       "gl": "grower; farming household",
-       "pos": "n."
+       "h": "采摘",
+       "py": "cǎizhāi",
+       "gl": "pick; harvest",
+       "pos": "v."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "检测报告",
-       "py": "jiǎncèbàogào",
-       "gl": "test report; inspection report",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "详细信息",
-       "py": "xiángxìxìnxī",
-       "gl": "detailed information",
+       "h": "日期",
+       "py": "rìqī",
+       "gl": "date",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "购买",
-       "py": "gòumǎi",
-       "gl": "buy; purchase",
-       "pos": "v."
-      },
-      {
-       "h": "起来",
-       "py": "qǐlái",
-       "gl": "complement: start to (火了起来 became popular); up",
-       "pos": "function word"
-      },
-      {
-       "h": "更加",
-       "py": "gèngjiā",
-       "gl": "even more",
-       "pos": "adv."
-      },
-      {
-       "h": "放心",
-       "py": "fàngxīn",
-       "gl": "feel at ease; stop worrying",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "For farmers like Old Zhang, taking an e-commerce livestreaming class is only the first step; to really do well at online sales, they have to keep learning how to shoot short videos, how to interact with viewers, and how to deal with new issues such as returns and customer service.",
-   "phrases": [
-    {
-     "en": "For farmers like Old Zhang, taking an e-commerce livestreaming class is only the first step; to really do well at online sales, they have to keep learning how to shoot short videos, how to interact with viewers, and how to deal with new issues such as returns and customer service.",
-     "words": [
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
+       "pos": "conj."
       },
       {
        "h": "老张",
-       "py": "lǎozhāng",
+       "py": "Lǎo Zhāng",
        "gl": "Lao Zhang (Old Zhang)",
        "pos": "proper noun"
       },
       {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "such; like this",
-       "pos": "pron."
-      },
-      {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "农户",
-       "py": "nónghù",
-       "gl": "farming household; farmer",
-       "pos": "n."
-      },
-      {
-       "h": "来说",
-       "py": "láishuō",
-       "gl": "as for; for (对…来说 for someone)",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "参加",
-       "py": "cānjiā",
-       "gl": "take part in; participate",
-       "pos": "v."
-      },
-      {
-       "h": "电商直播培训班",
-       "py": "diànshāngzhíbōpéixùnbān",
-       "gl": "e-commerce livestreaming training course",
-       "pos": "n."
-      },
-      {
-       "h": "只是",
-       "py": "zhǐshì",
-       "gl": "just; only; merely",
-       "pos": "adv."
-      },
-      {
-       "h": "第一步",
-       "py": "dìyībù",
-       "gl": "first step",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "real; true; genuine",
-       "pos": "adv."
-      },
-      {
-       "h": "做好",
-       "py": "zuòhǎo",
-       "gl": "do well; get ready; finish making",
-       "pos": "v."
-      },
-      {
-       "h": "线上销售",
-       "py": "xiànshàngxiāoshòu",
-       "gl": "online sales",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require",
-       "pos": "v."
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "学习",
-       "py": "xuéxí",
-       "gl": "study; learn",
-       "pos": "n."
-      },
-      {
-       "h": "如何",
-       "py": "rúhé",
-       "gl": "how",
-       "pos": "adv."
-      },
-      {
-       "h": "拍摄",
-       "py": "pāishè",
-       "gl": "film; shoot (photos, video)",
-       "pos": "v."
-      },
-      {
-       "h": "短视频",
-       "py": "duǎnshìpín",
-       "gl": "short video",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "如何",
-       "py": "rúhé",
-       "gl": "how",
-       "pos": "adv."
-      },
-      {
-       "h": "与",
-       "py": "yǔ",
-       "gl": "and; with (formal)",
-       "pos": "conj."
-      },
-      {
-       "h": "网友",
-       "py": "wǎngyǒu",
-       "gl": "netizen; internet user",
-       "pos": "n."
-      },
-      {
-       "h": "互动",
-       "py": "hùdòng",
-       "gl": "interaction; interact; interactive",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "以及",
-       "py": "yǐjí",
-       "gl": "and; as well as",
-       "pos": "conj."
-      },
-      {
-       "h": "如何",
-       "py": "rúhé",
-       "gl": "how",
-       "pos": "adv."
-      },
-      {
-       "h": "应对",
-       "py": "yìngduì",
-       "gl": "respond to; cope with; deal with",
-       "pos": "v."
-      },
-      {
-       "h": "退货",
-       "py": "tuìhuò",
-       "gl": "return goods; return",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "售后",
-       "py": "shòuhòu",
-       "gl": "after-sales",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem",
+       "h": "脸",
+       "py": "liǎn",
+       "gl": "face",
        "pos": "n."
       },
       {
@@ -4302,60 +2206,33 @@
    ]
   },
   {
-   "en": "Some older farmers admit that talking in front of a camera felt awkward at first, but with help from the young people in the village, they gradually learned to introduce their vegetables and tell their farming stories through livestreams.",
+   "en": "He still doesn't like the camera, but every evening at eight he steps in front of it himself and eats one tomato.",
    "phrases": [
     {
-     "en": "Some older farmers admit that talking in front of a camera felt awkward at first, but with help from the young people in the village, they gradually learned to introduce their vegetables and tell their farming stories through livestreams.",
+     "en": "He still doesn't like the camera, but every evening at eight he steps in front of it himself and eats one tomato.",
      "words": [
       {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; a few",
-       "pos": "num."
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
-       "h": "年纪",
-       "py": "niánjì",
-       "gl": "age (of a person)",
-       "pos": "n."
-      },
-      {
-       "h": "较大",
-       "py": "jiàodà",
-       "gl": "relatively large; older (of age)",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "农户",
-       "py": "nónghù",
-       "gl": "farming household; farmer",
-       "pos": "n."
-      },
-      {
-       "h": "坦言",
-       "py": "tǎnyán",
-       "gl": "admit frankly; say candidly",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "刚开始",
-       "py": "gāngkāishǐ",
-       "gl": "at first; in the beginning",
+       "h": "还是",
+       "py": "háishi",
+       "gl": "still; nevertheless; after all",
        "pos": "adv."
       },
       {
-       "h": "面对",
-       "py": "miànduì",
-       "gl": "face; confront; deal with",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "喜欢",
+       "py": "xǐhuan",
+       "gl": "like; love",
        "pos": "v."
       },
       {
@@ -4365,459 +2242,103 @@
        "pos": "n."
       },
       {
-       "h": "说话",
-       "py": "shuōhuà",
-       "gl": "speak; talk",
-       "pos": "v."
+       "h": "，"
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
       },
       {
-       "h": "感到",
-       "py": "gǎndào",
-       "gl": "feel",
-       "pos": "v."
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
       },
       {
-       "h": "不自然",
-       "py": "bùzìrán",
-       "gl": "unnatural; awkward",
-       "pos": "adj."
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "八",
+       "py": "bā",
+       "gl": "eight",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
       },
       {
        "h": "，"
       },
       {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
       },
       {
-       "h": "村里",
-       "py": "cūnlǐ",
-       "gl": "in the village; village",
-       "pos": "n."
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
       },
       {
-       "h": "年轻人",
-       "py": "niánqīngrén",
-       "gl": "young people",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "帮助",
-       "py": "bāngzhù",
-       "gl": "help; assist",
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
        "pos": "v."
       },
       {
-       "h": "下",
-       "py": "xià",
-       "gl": "under (conditions); in (a context)",
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "镜头",
+       "py": "jìngtóu",
+       "gl": "camera; lens; shot",
+       "pos": "n."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
        "pos": "postposition"
       },
       {
        "h": "，"
       },
       {
-       "h": "渐渐",
-       "py": "jiànjiàn",
-       "gl": "gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "学会",
-       "py": "xuéhuì",
-       "gl": "learn (to do); master",
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
       },
       {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "直播",
-       "py": "zhíbō",
-       "gl": "live stream; broadcast live",
+       "h": "西红柿",
+       "py": "xīhóngshì",
+       "gl": "tomato",
        "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      },
-      {
-       "h": "介绍",
-       "py": "jièshào",
-       "gl": "introduce; present",
-       "pos": "v."
-      },
-      {
-       "h": "自家",
-       "py": "zìjiā",
-       "gl": "one's own; one's own home",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "蔬菜",
-       "py": "shūcài",
-       "gl": "vegetable",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "种植",
-       "py": "zhòngzhí",
-       "gl": "plant; grow; cultivation",
-       "pos": "v."
-      },
-      {
-       "h": "故事",
-       "py": "gùshì",
-       "gl": "story",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "This way of working, which combines the old and the new, keeps the foundation of traditional farming — experience and hard work — while using modern technology and online channels to open up much wider markets.",
-   "phrases": [
-    {
-     "en": "This way of working, which combines the old and the new, keeps the foundation of traditional farming — experience and hard work — while using modern technology and online channels to open up much wider markets.",
-     "words": [
-      {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "新旧结合",
-       "py": "xīnjiùjiéhé",
-       "gl": "combining old and new",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "劳动方式",
-       "py": "láodòngfāngshì",
-       "gl": "way of working",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一方面",
-       "py": "yìfāngmiàn",
-       "gl": "on the one hand (一方面…一方面… on the one hand … on the other)",
-       "pos": "conj."
-      },
-      {
-       "h": "保留",
-       "py": "bǎoliú",
-       "gl": "keep; retain; preserve",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "传统农业",
-       "py": "chuántǒngnóngyè",
-       "gl": "traditional agriculture",
-       "pos": "n."
-      },
-      {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "经验",
-       "py": "jīngyàn",
-       "gl": "experience (practical); work experience",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "勤劳",
-       "py": "qínláo",
-       "gl": "hard work; diligence",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "根基",
-       "py": "gēnjī",
-       "gl": "foundation; basis",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "另一方面",
-       "py": "lìngyìfāngmiàn",
-       "gl": "on the other hand",
-       "pos": "conj."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "借助",
-       "py": "jièzhù",
-       "gl": "make use of; with the help of",
-       "pos": "v."
-      },
-      {
-       "h": "现代",
-       "py": "xiàndài",
-       "gl": "modern",
-       "pos": "adj."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "互联网",
-       "py": "hùliánwǎng",
-       "gl": "internet",
-       "pos": "n."
-      },
-      {
-       "h": "渠道",
-       "py": "qúdào",
-       "gl": "channel; means",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "打开",
-       "py": "dǎkāi",
-       "gl": "open",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "广阔",
-       "py": "guǎngkuò",
-       "gl": "vast; broad",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "市场",
-       "py": "shìchǎng",
-       "gl": "market",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Old Zhang often says that the land doesn't lie: as long as you farm it with care, life will gradually get better.",
-   "phrases": [
-    {
-     "en": "Old Zhang often says that the land doesn't lie: as long as you farm it with care, life will gradually get better.",
-     "words": [
-      {
-       "h": "老张",
-       "py": "lǎozhāng",
-       "gl": "Lao Zhang (Old Zhang)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "常",
-       "py": "cháng",
-       "gl": "often",
-       "pos": "adv."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "土地",
-       "py": "tǔdì",
-       "gl": "land; soil",
-       "pos": "n."
-      },
-      {
-       "h": "不会",
-       "py": "búhuì",
-       "gl": "will not; be unlikely (会不会 'will or won't')",
-       "pos": "adv."
-      },
-      {
-       "h": "骗人",
-       "py": "piànrén",
-       "gl": "deceive people; lie",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "只要",
-       "py": "zhǐyào",
-       "gl": "as long as; if only",
-       "pos": "conj."
-      },
-      {
-       "h": "用心",
-       "py": "yòngxīn",
-       "gl": "attentively; with care; effort",
-       "pos": "adv."
-      },
-      {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "plant; grow",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "日子",
-       "py": "rìzi",
-       "gl": "life; days",
-       "pos": "n."
-      },
-      {
-       "h": "总会",
-       "py": "zǒnghuì",
-       "gl": "will always; is bound to",
-       "pos": "adv."
-      },
-      {
-       "h": "慢慢",
-       "py": "mànmàn",
-       "gl": "slowly; gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "好起来",
-       "py": "hǎoqǐlái",
-       "gl": "get better",
-       "pos": "v."
       },
       {
        "h": "。"

@@ -1,50 +1,50 @@
 {
  "id": "brokenequip5",
  "level": 5,
- "title_zh": "洗衣机坏了",
- "title_en": "The Washing Machine Broke Down",
+ "title_zh": "洗衣机里的声音",
+ "title_en": "The Noise in the Washing Machine",
  "free": false,
  "audio_url": null,
- "note_en": "一下 after a verb makes the action brief and casual: 检查一下口袋 \"just check your pockets.\" English softens with words like \"just,\" \"quickly\" or \"take a look,\" but Chinese simply adds 一下 after the verb. It's very common in requests and advice because it sounds less demanding than the bare verb.",
+ "note_en": "一下 after a verb makes the action \"small,\" brief, and polite: 检查一下 \"take a quick look,\" 等一下 \"wait a moment,\" 开一下 \"switch it on for a moment.\" It doesn't mean \"once\" in a counting sense; it softens the request, and without it a Chinese request can sound too blunt.",
  "sentences": [
   {
-   "en": "Last month, Mr. Wang's brand-new washing machine suddenly broke down: it made a harsh, strange noise during the wash cycle and shook violently during the spin cycle.",
+   "en": "The first Tuesday after the funeral, the washing machine started to scream.",
    "phrases": [
     {
-     "en": "Last month, Mr. Wang's brand-new washing machine suddenly broke down:",
+     "en": "The first Tuesday after the funeral, the washing machine started to scream.",
      "words": [
       {
-       "h": "上个月",
-       "py": "shànggèyuè",
-       "gl": "last month",
-       "pos": "adv."
+       "h": "葬礼",
+       "py": "zànglǐ",
+       "gl": "funeral",
+       "pos": "n."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "王先生",
-       "py": "wáng xiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
-       "pos": "v."
+       "h": "后",
+       "py": "hòu",
+       "gl": "after",
+       "pos": "postposition"
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
+      },
+      {
+       "h": "第一个",
+       "py": "dìyígè",
+       "gl": "the first",
+       "pos": "num."
+      },
+      {
+       "h": "星期二",
+       "py": "xīngqīèr",
+       "gl": "Tuesday",
+       "pos": "n."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "洗衣机",
@@ -53,15 +53,9 @@
        "pos": "n."
       },
       {
-       "h": "突然",
-       "py": "tūrán",
-       "gl": "suddenly",
-       "pos": "adv."
-      },
-      {
-       "h": "出",
-       "py": "chū",
-       "gl": "come up; occur (出问题 have problems)",
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
        "pos": "v."
       },
       {
@@ -71,98 +65,281 @@
        "pos": "particle"
       },
       {
-       "h": "故障",
-       "py": "gùzhàng",
-       "gl": "breakdown; malfunction; fault",
-       "pos": "n."
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
       },
       {
-       "h": "："
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "On the spin cycle it shook so hard that it walked across the floor toward the door, and Lao Wang held it down with both hands.",
+   "phrases": [
     {
-     "en": "it made a harsh, strange noise during the wash cycle and shook violently during the spin cycle.",
+     "en": "On the spin cycle it shook so hard that it walked across the floor toward the door, and Lao Wang held it down with both hands.",
      "words": [
       {
-       "h": "洗涤",
-       "py": "xǐdí",
-       "gl": "wash; washing",
+       "h": "甩干",
+       "py": "shuǎigān",
+       "gl": "spin-dry",
        "pos": "n."
-      },
-      {
-       "h": "过程",
-       "py": "guòchéng",
-       "gl": "process",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "机器",
-       "py": "jīqì",
-       "gl": "machine",
-       "pos": "n."
-      },
-      {
-       "h": "发出",
-       "py": "fāchū",
-       "gl": "make; give off (a sound)",
-       "pos": "v."
-      },
-      {
-       "h": "刺耳",
-       "py": "cìěr",
-       "gl": "grating; harsh (of sound)",
-       "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "异响",
-       "py": "yìxiǎng",
-       "gl": "strange noise",
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "甩干",
-       "py": "shuǎigān",
-       "gl": "spin-dry",
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "抖",
+       "py": "dǒu",
+       "gl": "shake; tremble",
        "pos": "v."
       },
       {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; time",
-       "pos": "conj."
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "往",
+       "py": "wǎng",
+       "gl": "toward; to",
+       "pos": "prep."
+      },
+      {
+       "h": "门口",
+       "py": "ménkǒu",
+       "gl": "entrance; doorway",
+       "pos": "n."
+      },
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "老王",
+       "py": "Lǎo Wáng",
+       "gl": "Lao Wang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "只",
+       "py": "zhī",
+       "gl": "(measure word for animals, one of a pair)",
+       "pos": "measure word"
+      },
+      {
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "按",
+       "py": "àn",
+       "gl": "to hold down",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "For thirty years his wife had handled every appliance in the house; he didn't even know where the manuals were.",
+   "phrases": [
+    {
+     "en": "For thirty years his wife had handled every appliance in the house; he didn't even know where the manuals were.",
+     "words": [
+      {
+       "h": "家里",
+       "py": "jiālǐ",
+       "gl": "at home; in the family",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "电器",
+       "py": "diànqì",
+       "gl": "electrical appliance",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "三十",
+       "py": "sānshí",
+       "gl": "thirty",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
        "pos": "adv."
       },
       {
-       "h": "剧烈",
-       "py": "jùliè",
-       "gl": "severe; intense; violent",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "老伴",
+       "py": "lǎobàn",
+       "gl": "spouse (of an elderly couple)",
+       "pos": "n."
+      },
+      {
+       "h": "管",
+       "py": "guǎn",
+       "gl": "to be in charge of",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "连",
+       "py": "lián",
+       "gl": "even (连…都… even)",
+       "pos": "prep."
+      },
+      {
+       "h": "说明书",
+       "py": "shuōmíngshū",
+       "gl": "instructions; manual",
+       "pos": "n."
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "哪儿",
+       "py": "nǎr",
+       "gl": "where",
+       "pos": "question word"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both; even; already",
        "pos": "adv."
       },
       {
-       "h": "震动",
-       "py": "zhèndòng",
-       "gl": "vibration; vibrate; shake",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "知道",
+       "py": "zhīdào",
+       "gl": "know; find out; learn",
        "pos": "v."
       },
       {
@@ -173,84 +350,90 @@
    ]
   },
   {
-   "en": "He called the customer service hotline, described the problem in detail, and sent photos of his receipt and warranty card.",
+   "en": "In the end he found them in the bottom drawer: a blue folder, with receipts, warranty cards, and manuals filed inside by year.",
    "phrases": [
     {
-     "en": "He called the customer service hotline and described the problem in detail,",
+     "en": "In the end he found them in the bottom drawer: a blue folder,",
      "words": [
       {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "联系",
-       "py": "liánxì",
-       "gl": "contact; get in touch",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "客服",
-       "py": "kèfú",
-       "gl": "customer service",
-       "pos": "n."
-      },
-      {
-       "h": "热线",
-       "py": "rèxiàn",
-       "gl": "hotline",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "详细",
-       "py": "xiángxì",
-       "gl": "detailed; in detail",
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "the end; in the end",
        "pos": "adv."
       },
       {
-       "h": "描述",
-       "py": "miáoshù",
-       "gl": "describe",
-       "pos": "v."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
       },
       {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
+       "h": "下面",
+       "py": "xiàmiàn",
+       "gl": "under; below; beneath",
        "pos": "n."
-      },
-      {
-       "h": "出现",
-       "py": "chūxiàn",
-       "gl": "appear; emerge",
-       "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "情况",
-       "py": "qíngkuàng",
-       "gl": "situation; circumstances",
+       "h": "抽屉",
+       "py": "chōutì",
+       "gl": "drawer",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "找到",
+       "py": "zhǎodào",
+       "gl": "find",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "蓝色",
+       "py": "lánsè",
+       "gl": "blue",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "文件夹",
+       "py": "wénjiànjiā",
+       "gl": "folder",
        "pos": "n."
       },
       {
@@ -259,36 +442,51 @@
      ]
     },
     {
-     "en": "and sent photos of his receipt and warranty card.",
+     "en": "with receipts, warranty cards, and manuals filed inside by year.",
      "words": [
       {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "conj."
-      },
-      {
-       "h": "提供",
-       "py": "tígōng",
-       "gl": "provide",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "购买",
-       "py": "gòumǎi",
-       "gl": "buy; purchase",
+       "h": "里面",
+       "py": "lǐmiàn",
+       "gl": "inside",
        "pos": "n."
       },
       {
-       "h": "凭证",
-       "py": "píngzhèng",
-       "gl": "proof; voucher; receipt",
+       "h": "按",
+       "py": "àn",
+       "gl": "according to; by",
+       "pos": "prep."
+      },
+      {
+       "h": "年份",
+       "py": "niánfèn",
+       "gl": "year",
+       "pos": "n."
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "发票",
+       "py": "fāpiào",
+       "gl": "receipt; invoice",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "保修卡",
+       "py": "bǎoxiūkǎ",
+       "gl": "warranty card",
        "pos": "n."
       },
       {
@@ -298,21 +496,9 @@
        "pos": "conj."
       },
       {
-       "h": "保修卡",
-       "py": "bǎoxiūkǎ",
-       "gl": "warranty card",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "照片",
-       "py": "zhàopiàn",
-       "gl": "photo",
+       "h": "说明书",
+       "py": "shuōmíngshū",
+       "gl": "instructions; manual",
        "pos": "n."
       },
       {
@@ -323,44 +509,11 @@
    ]
   },
   {
-   "en": "The customer service rep told him the washing machine was still under warranty, so a technician could come to his home and repair it for free, at no cost to him at all.",
+   "en": "On the washing machine's warranty card was a line in her small handwriting: \"Motor under warranty until next May.\"",
    "phrases": [
     {
-     "en": "The customer service rep told him the washing machine was still under warranty,",
+     "en": "On the washing machine's warranty card was a line in her small handwriting: \"Motor under warranty until next May.\"",
      "words": [
-      {
-       "h": "客服",
-       "py": "kèfú",
-       "gl": "customer service",
-       "pos": "n."
-      },
-      {
-       "h": "人员",
-       "py": "rényuán",
-       "gl": "staff; personnel",
-       "pos": "n."
-      },
-      {
-       "h": "告诉",
-       "py": "gàosu",
-       "gl": "tell",
-       "pos": "v."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "这款",
-       "py": "zhèkuǎn",
-       "gl": "this model; this type",
-       "pos": "pron."
-      },
       {
        "h": "洗衣机",
        "py": "xǐyījī",
@@ -368,10 +521,520 @@
        "pos": "n."
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "保修卡",
+       "py": "bǎoxiūkǎ",
+       "gl": "warranty card",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "行",
+       "py": "háng",
+       "gl": "measure word for lines (of text)",
+       "pos": "measure word"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "电机",
+       "py": "diànjī",
+       "gl": "electric motor",
+       "pos": "n."
+      },
+      {
+       "h": "保修",
+       "py": "bǎoxiū",
+       "gl": "warranty; guarantee",
+       "pos": "n."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "明年",
+       "py": "míngnián",
+       "gl": "next year",
+       "pos": "n."
+      },
+      {
+       "h": "五月",
+       "py": "wǔyuè",
+       "gl": "May",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That afternoon someone called: \"Hello, we're official customer service. We can do a free home repair — first transfer two hundred yuan for the call-out fee.\"",
+   "phrases": [
+    {
+     "en": "That afternoon someone called: \"Hello, we're official customer service. We can do a free home repair — first transfer two hundred yuan for the call-out fee.\"",
+     "words": [
+      {
+       "h": "当天",
+       "py": "dàngtiān",
+       "gl": "that day; the same day",
+       "pos": "n."
+      },
+      {
+       "h": "下午",
+       "py": "xiàwǔ",
+       "gl": "afternoon",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有人",
+       "py": "yǒurén",
+       "gl": "someone; some people",
+       "pos": "pron."
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "hit; play (ball games); make (a phone call)",
+       "pos": "v."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "电话",
+       "py": "diànhuà",
+       "gl": "phone; phone call",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "您好",
+       "py": "nínhǎo",
+       "gl": "hello (polite)",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "官方",
+       "py": "guānfāng",
+       "gl": "official; authorities",
+       "pos": "adj."
+      },
+      {
+       "h": "客服",
+       "py": "kèfú",
+       "gl": "customer service",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may",
+       "pos": "v."
+      },
+      {
+       "h": "免费",
+       "py": "miǎnfèi",
+       "gl": "free (of charge)",
        "pos": "adv."
+      },
+      {
+       "h": "上门",
+       "py": "shàngmén",
+       "gl": "come to someone's door; make a house call",
+       "pos": "v."
+      },
+      {
+       "h": "维修",
+       "py": "wéixiū",
+       "gl": "repair; maintain",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "先",
+       "py": "xiān",
+       "gl": "first; before",
+       "pos": "adv."
+      },
+      {
+       "h": "转",
+       "py": "zhuǎn",
+       "gl": "transfer (money); turn",
+       "pos": "v."
+      },
+      {
+       "h": "两百",
+       "py": "liǎngbǎi",
+       "gl": "two hundred",
+       "pos": "num."
+      },
+      {
+       "h": "元",
+       "py": "yuán",
+       "gl": "yuan (Chinese currency unit)",
+       "pos": "measure word"
+      },
+      {
+       "h": "上门费",
+       "py": "shàngménfèi",
+       "gl": "call-out fee",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He remembered his wife saying that real customer service never asks you to pay first, so he hung up.",
+   "phrases": [
+    {
+     "en": "He remembered his wife saying that real customer service never asks you to pay first, so he hung up.",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "(从…起) starting from",
+       "pos": "postposition"
+      },
+      {
+       "h": "老伴",
+       "py": "lǎobàn",
+       "gl": "spouse (of an elderly couple)",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "真",
+       "py": "zhēn",
+       "gl": "real; genuine; really",
+       "pos": "adj."
+      },
+      {
+       "h": "客服",
+       "py": "kèfú",
+       "gl": "customer service",
+       "pos": "n."
+      },
+      {
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely (会不会 'will or won't')",
+       "pos": "v."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "先",
+       "py": "xiān",
+       "gl": "first; before",
+       "pos": "adv."
+      },
+      {
+       "h": "转账",
+       "py": "zhuǎnzhàng",
+       "gl": "transfer money",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "电话",
+       "py": "diànhuà",
+       "gl": "phone; phone call",
+       "pos": "n."
+      },
+      {
+       "h": "挂",
+       "py": "guà",
+       "gl": "hang up (the phone)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He called the number on the warranty card, and the person said, \"Wait a moment, let me check… You're under warranty. A technician will come tomorrow, free of charge.\"",
+   "phrases": [
+    {
+     "en": "He called the number on the warranty card, and the person said, \"Wait a moment, let me check… You're under warranty. A technician will come tomorrow, free of charge.\"",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "按",
+       "py": "àn",
+       "gl": "according to; by",
+       "pos": "prep."
+      },
+      {
+       "h": "保修卡",
+       "py": "bǎoxiūkǎ",
+       "gl": "warranty card",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "号码",
+       "py": "hàomǎ",
+       "gl": "number",
+       "pos": "n."
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "hit; play (ball games); make (a phone call)",
+       "pos": "v."
+      },
+      {
+       "h": "过去",
+       "py": "guòqù",
+       "gl": "over; there (complement)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "对方",
+       "py": "duìfāng",
+       "gl": "the other party; the other person",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "等",
+       "py": "děng",
+       "gl": "and so on; etc.",
+       "pos": "particle"
+      },
+      {
+       "h": "一下",
+       "py": "yíxià",
+       "gl": "a bit; once (softens the verb: take a look)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "查",
+       "py": "chá",
+       "gl": "check; look up (in a dictionary, online)",
+       "pos": "v."
+      },
+      {
+       "h": "一下",
+       "py": "yíxià",
+       "gl": "a bit; once (softens the verb: take a look)",
+       "pos": "particle"
+      },
+      {
+       "h": "…"
+      },
+      {
+       "h": "…"
       },
       {
        "h": "在",
@@ -393,17 +1056,18 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so a technician could come to his home and repair it for free, at no cost to him at all.",
-     "words": [
+      },
       {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "function word"
+       "h": "明天",
+       "py": "míngtiān",
+       "gl": "tomorrow",
+       "pos": "n."
+      },
+      {
+       "h": "师傅",
+       "py": "shīfù",
+       "gl": "master (polite address for a skilled worker); master craftsman",
+       "pos": "n."
       },
       {
        "h": "免费",
@@ -418,241 +1082,103 @@
        "pos": "v."
       },
       {
-       "h": "检修",
-       "py": "jiǎnxiū",
-       "gl": "inspection and repair; maintenance",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不需要",
-       "py": "bùxūyào",
-       "gl": "not need; no need to",
-       "pos": "v."
-      },
-      {
-       "h": "承担",
-       "py": "chéngdān",
-       "gl": "take on; bear (a responsibility)",
-       "pos": "v."
-      },
-      {
-       "h": "任何",
-       "py": "rènhé",
-       "gl": "any",
-       "pos": "pron."
-      },
-      {
-       "h": "费用",
-       "py": "fèiyòng",
-       "gl": "cost; expenses",
-       "pos": "n."
-      },
-      {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "The next day the repairman showed up on time, and after a careful inspection found that the problem was caused by a loose part, which he replaced on the spot.",
+   "en": "The next morning, a technician in blue overalls took off the back panel and said, \"Let me take a quick look first.\"",
    "phrases": [
     {
-     "en": "The next day the repairman showed up on time,",
+     "en": "The next morning, a technician in blue overalls took off the back panel and said, \"Let me take a quick look first.\"",
      "words": [
       {
        "h": "第二天",
-       "py": "dì'èrtiān",
+       "py": "dìèrtiān",
        "gl": "the next day",
-       "pos": "adv."
+       "pos": "n."
+      },
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "维修",
-       "py": "wéixiū",
-       "gl": "repair; maintain",
-       "pos": "n."
-      },
-      {
-       "h": "师傅",
-       "py": "shīfu",
-       "gl": "master (polite address for a skilled worker); master craftsman",
-       "pos": "n."
-      },
-      {
-       "h": "准时",
-       "py": "zhǔnshí",
-       "gl": "on time; punctual",
-       "pos": "adv."
-      },
-      {
-       "h": "上门",
-       "py": "shàngmén",
-       "gl": "come to someone's door; make a house call",
+       "h": "穿",
+       "py": "chuān",
+       "gl": "put on; wear",
        "pos": "v."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and after a careful inspection found that the problem was caused by a loose part, which he replaced on the spot.",
-     "words": [
-      {
-       "h": "仔细",
-       "py": "zǐxì",
-       "gl": "carefully",
-       "pos": "adv."
-      },
-      {
-       "h": "检查",
-       "py": "jiǎnchá",
-       "gl": "check; inspect",
-       "pos": "v."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "发现",
-       "py": "fāxiàn",
-       "gl": "discover; find out",
-       "pos": "v."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "零件",
-       "py": "língjiàn",
-       "gl": "part; component",
-       "pos": "n."
-      },
-      {
-       "h": "松动",
-       "py": "sōngdòng",
-       "gl": "loose; come loose",
+       "h": "蓝",
+       "py": "lán",
+       "gl": "blue",
        "pos": "adj."
       },
       {
-       "h": "导致",
-       "py": "dǎozhì",
-       "gl": "lead to; cause",
-       "pos": "v."
+       "h": "衣服",
+       "py": "yīfu",
+       "gl": "clothes",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
-      {
-       "h": "，"
-      },
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "and; also; moreover",
-       "pos": "conj."
-      },
-      {
-       "h": "当场",
-       "py": "dāngchǎng",
-       "gl": "on the spot; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "更换",
-       "py": "gēnghuàn",
-       "gl": "replace; change",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "配件",
-       "py": "pèijiàn",
-       "gl": "part; accessory",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The repairman also reminded Mr. Wang that it's best to check pockets before doing laundry, so that hard objects don't damage the parts.",
-   "phrases": [
-    {
-     "en": "The repairman also reminded Mr. Wang that it's best to check pockets before doing laundry,",
-     "words": [
       {
        "h": "师傅",
-       "py": "shīfu",
+       "py": "shīfù",
        "gl": "master (polite address for a skilled worker); master craftsman",
        "pos": "n."
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
        "pos": "v."
       },
       {
-       "h": "王先生",
-       "py": "wáng xiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
+       "h": "后盖",
+       "py": "hòugài",
+       "gl": "back cover",
+       "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "平时",
-       "py": "píngshí",
-       "gl": "usually; ordinarily",
-       "pos": "adv."
-      },
-      {
-       "h": "洗衣服",
-       "py": "xǐyīfu",
-       "gl": "do laundry; wash clothes",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "前",
-       "py": "qián",
-       "gl": "ago; before",
-       "pos": "postposition"
+       "h": "："
       },
       {
-       "h": "最好",
-       "py": "zuìhǎo",
-       "gl": "had better; it's best to",
+       "h": "“"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "先",
+       "py": "xiān",
+       "gl": "first; before",
        "pos": "adv."
       },
       {
@@ -664,827 +1190,62 @@
       {
        "h": "一下",
        "py": "yíxià",
-       "gl": "a bit; briefly (after a verb: do something a little)",
-       "pos": "adv."
-      },
-      {
-       "h": "口袋",
-       "py": "kǒudài",
-       "gl": "pocket; bag; pouch",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so that hard objects don't damage the parts.",
-     "words": [
-      {
-       "h": "避免",
-       "py": "bìmiǎn",
-       "gl": "avoid",
-       "pos": "v."
-      },
-      {
-       "h": "硬物",
-       "py": "yìngwù",
-       "gl": "hard object",
-       "pos": "n."
-      },
-      {
-       "h": "损坏",
-       "py": "sǔnhuài",
-       "gl": "damage; damaged",
-       "pos": "v."
-      },
-      {
-       "h": "零件",
-       "py": "língjiàn",
-       "gl": "part; component",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After the repair, Mr. Wang ran the machine a few times and confirmed it was back to normal, with no more strange noises or shaking.",
-   "phrases": [
-    {
-     "en": "After the repair, Mr. Wang ran the machine a few times",
-     "words": [
-      {
-       "h": "修好",
-       "py": "xiūhǎo",
-       "gl": "repair; fix; finish building",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "王先生",
-       "py": "wáng xiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "试着",
-       "py": "shìzhe",
-       "gl": "try (to do)",
-       "pos": "v."
-      },
-      {
-       "h": "运行",
-       "py": "yùnxíng",
-       "gl": "run; operate (of software, machines)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
+       "gl": "a bit; once (softens the verb: take a look)",
        "pos": "particle"
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences: 第一次 \"the first time\")",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and confirmed it was back to normal, with no more strange noises or shaking.",
-     "words": [
-      {
-       "h": "确认",
-       "py": "quèrèn",
-       "gl": "confirm",
-       "pos": "v."
-      },
-      {
-       "h": "洗衣机",
-       "py": "xǐyījī",
-       "gl": "washing machine",
-       "pos": "n."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "恢复",
-       "py": "huīfù",
-       "gl": "recover; be restored",
-       "pos": "v."
-      },
-      {
-       "h": "正常",
-       "py": "zhèngcháng",
-       "gl": "normal",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
-       "pos": "adv."
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; once more",
-       "pos": "adv."
-      },
-      {
-       "h": "出现",
-       "py": "chūxiàn",
-       "gl": "appear; emerge",
-       "pos": "v."
-      },
-      {
-       "h": "异响",
-       "py": "yìxiǎng",
-       "gl": "strange noise",
-       "pos": "n."
-      },
-      {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "震动",
-       "py": "zhèndòng",
-       "gl": "vibration; vibrate; shake",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "情况",
-       "py": "qíngkuàng",
-       "gl": "situation; circumstances",
-       "pos": "n."
-      },
-      {
        "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The whole repair took less than an hour, and he was quite pleased with the service.",
-   "phrases": [
-    {
-     "en": "The whole repair took less than an hour,",
-     "words": [
-      {
-       "h": "整个",
-       "py": "zhěnggè",
-       "gl": "whole; entire",
-       "pos": "pron."
-      },
-      {
-       "h": "维修",
-       "py": "wéixiū",
-       "gl": "repair; maintain",
-       "pos": "n."
-      },
-      {
-       "h": "过程",
-       "py": "guòchéng",
-       "gl": "process",
-       "pos": "n."
-      },
-      {
-       "h": "不到",
-       "py": "bùdào",
-       "gl": "not reach; less than; (after verb) unable to (找不到 can't find)",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "小时",
-       "py": "xiǎoshí",
-       "gl": "hour",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and he was quite pleased with the service.",
-     "words": [
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "态度",
-       "py": "tàidù",
-       "gl": "attitude",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "相当",
-       "py": "xiāngdāng",
-       "gl": "quite; rather",
-       "pos": "adv."
-      },
-      {
-       "h": "满意",
-       "py": "mǎnyì",
-       "gl": "satisfied; pleased",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "He posted about the experience online to remind other consumers: when you buy an appliance, be sure to keep the receipt and warranty card, so you can stand up for your rights later.",
-   "phrases": [
-    {
-     "en": "He posted about the experience online to remind other consumers: when you buy an appliance, be sure to keep the receipt and warranty card,",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "function word"
-      },
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
-       "pos": "n."
-      },
-      {
-       "h": "发",
-       "py": "fā",
-       "gl": "post; send",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "网上",
-       "py": "wǎngshàng",
-       "gl": "online; on the internet",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
-       "pos": "v."
-      },
-      {
-       "h": "其他",
-       "py": "qítā",
-       "gl": "other; else",
-       "pos": "pron."
-      },
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "："
-      },
-      {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
-       "pos": "v."
-      },
-      {
-       "h": "电器",
-       "py": "diànqì",
-       "gl": "electrical appliance",
-       "pos": "n."
-      },
-      {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; time",
-       "pos": "conj."
-      },
-      {
-       "h": "一定",
-       "py": "yídìng",
-       "gl": "definitely; surely; must",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
-      },
-      {
-       "h": "保留",
-       "py": "bǎoliú",
-       "gl": "keep; retain; preserve",
-       "pos": "v."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "well (after a verb: 保护好 'protect well')",
-       "pos": "adv."
-      },
-      {
-       "h": "发票",
-       "py": "fāpiào",
-       "gl": "receipt; invoice",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "保修卡",
-       "py": "bǎoxiūkǎ",
-       "gl": "warranty card",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so you can stand up for your rights later.",
-     "words": [
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "v."
-      },
-      {
-       "h": "日后",
-       "py": "rìhòu",
-       "gl": "in the future; later",
-       "pos": "adv."
-      },
-      {
-       "h": "维权",
-       "py": "wéiquán",
-       "gl": "defend one's rights",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "These days scammers pose as official customer service and call people, tricking them into transferring money under the pretext of \"free repairs,\" so everyone needs to be on guard.",
-   "phrases": [
-    {
-     "en": "These days scammers pose as official customer service and call people, tricking them into transferring money under the pretext of \"free repairs,\" so everyone needs to be on guard.",
-     "words": [
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "some (有人 some people)",
-       "pos": "v."
-      },
-      {
-       "h": "骗子",
-       "py": "piànzi",
-       "gl": "swindler; scammer",
-       "pos": "n."
-      },
-      {
-       "h": "冒充",
-       "py": "màochōng",
-       "gl": "pose as; impersonate",
-       "pos": "v."
-      },
-      {
-       "h": "官方",
-       "py": "guānfāng",
-       "gl": "official; authorities",
-       "pos": "adj."
-      },
-      {
-       "h": "客服",
-       "py": "kèfú",
-       "gl": "customer service",
-       "pos": "n."
-      },
-      {
-       "h": "打",
-       "py": "dǎ",
-       "gl": "hit; play (ball games); make (a phone call)",
-       "pos": "v."
-      },
-      {
-       "h": "电话",
-       "py": "diànhuà",
-       "gl": "phone; phone call",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "以",
-       "py": "yǐ",
-       "gl": "by; with; for (以…出名 'famous for …')",
-       "pos": "prep."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "免费",
-       "py": "miǎnfèi",
-       "gl": "free (of charge)",
-       "pos": "adj."
-      },
-      {
-       "h": "维修",
-       "py": "wéixiū",
-       "gl": "repair; maintain",
-       "pos": "n."
       },
       {
        "h": "”"
-      },
-      {
-       "h": "为名",
-       "py": "wèimíng",
-       "gl": "under the name of; on the pretext of (以…为名)",
-       "pos": "phrase"
-      },
-      {
-       "h": "诱导",
-       "py": "yòudǎo",
-       "gl": "lure; induce",
-       "pos": "v."
-      },
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "转账",
-       "py": "zhuǎnzhàng",
-       "gl": "transfer money",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "提高",
-       "py": "tígāo",
-       "gl": "raise; improve",
-       "pos": "v."
-      },
-      {
-       "h": "警惕",
-       "py": "jǐngtì",
-       "gl": "vigilance; be on guard",
-       "pos": "n."
-      },
-      {
-       "h": "。"
       }
      ]
     }
    ]
   },
   {
-   "en": "By law, home appliances bought online can be returned within seven days with no reason needed, a policy that does a good job of protecting consumers' rights.",
+   "en": "Five minutes later he pulled a small hairpin out of a gap in the drum with his tongs — an iron butterfly.",
    "phrases": [
     {
-     "en": "By law, home appliances bought online can be returned within seven days with no reason needed, a policy that does a good job of protecting consumers' rights.",
+     "en": "Five minutes later he pulled a small hairpin out of a gap in the drum with his tongs — an iron butterfly.",
      "words": [
       {
-       "h": "按",
-       "py": "àn",
-       "gl": "according to; by",
-       "pos": "prep."
-      },
-      {
-       "h": "规定",
-       "py": "guīdìng",
-       "gl": "regulation; rule",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "网购",
-       "py": "wǎnggòu",
-       "gl": "online shopping; shop online",
-       "pos": "n."
-      },
-      {
-       "h": "家电",
-       "py": "jiādiàn",
-       "gl": "home appliance",
-       "pos": "n."
-      },
-      {
-       "h": "七",
-       "py": "qī",
-       "gl": "seven",
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
        "pos": "num."
       },
       {
-       "h": "天",
-       "py": "tiān",
-       "gl": "day",
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
        "pos": "measure word"
       },
       {
-       "h": "内",
-       "py": "nèi",
-       "gl": "within; inside",
+       "h": "后",
+       "py": "hòu",
+       "gl": "after; later; behind",
        "pos": "postposition"
       },
       {
-       "h": "无理由",
-       "py": "wúlǐyóu",
-       "gl": "no reason needed; no questions asked (returns)",
-       "pos": "phrase"
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "退货",
-       "py": "tuìhuò",
-       "gl": "return goods; return",
-       "pos": "v."
-      },
-      {
        "h": "，"
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
        "pos": "pron."
       },
       {
-       "h": "项",
-       "py": "xiàng",
-       "gl": "measure word for items, tasks, services",
-       "pos": "measure word"
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
       },
       {
-       "h": "政策",
-       "py": "zhèngcè",
-       "gl": "policy",
-       "pos": "n."
-      },
-      {
-       "h": "较好",
-       "py": "jiàohǎo",
-       "gl": "fairly good; relatively well",
-       "pos": "adj."
-      },
-      {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (认真地 'carefully')",
-       "pos": "function word"
-      },
-      {
-       "h": "保护",
-       "py": "bǎohù",
-       "gl": "protect; protection",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "权益",
-       "py": "quányì",
-       "gl": "rights and interests",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Unexpectedly, three months later an air conditioner of the same brand developed a similar noise problem, and this time Mr. Wang went straight to calling 12315, the national consumer complaint hotline, for advice.",
-   "phrases": [
-    {
-     "en": "Unexpectedly, three months later",
-     "words": [
-      {
-       "h": "没想到",
-       "py": "méixiǎngdào",
-       "gl": "didn't expect; never thought",
-       "pos": "v."
-      },
-      {
-       "h": "过了",
-       "py": "guòle",
-       "gl": "after; (time) passed",
-       "pos": "v."
-      },
-      {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "an air conditioner of the same brand developed a similar noise problem,",
-     "words": [
-      {
-       "h": "同",
-       "py": "tóng",
-       "gl": "same; alike",
-       "pos": "adj."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "牌子",
-       "py": "páizi",
-       "gl": "brand",
+       "h": "滚筒",
+       "py": "gǔntǒng",
+       "gl": "drum (of a washing machine)",
        "pos": "n."
       },
       {
@@ -1494,9 +1255,475 @@
        "pos": "particle"
       },
       {
-       "h": "空调",
-       "py": "kōngtiáo",
-       "gl": "air conditioner",
+       "h": "缝",
+       "py": "féng",
+       "gl": "sew; stitch",
+       "pos": "v."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "夹",
+       "py": "jiā",
+       "gl": "to pull out (with tongs)",
+       "pos": "v."
+      },
+      {
+       "h": "出",
+       "py": "chū",
+       "gl": "out (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "发卡",
+       "py": "fàqiǎ",
+       "gl": "hairpin",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一只",
+       "py": "yīzhī",
+       "gl": "one (animal; one of a pair)",
+       "pos": "measure word"
+      },
+      {
+       "h": "铁",
+       "py": "tiě",
+       "gl": "iron",
+       "pos": "n."
+      },
+      {
+       "h": "蝴蝶",
+       "py": "húdié",
+       "gl": "butterfly",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"That's what was rattling,\" the technician said. \"Best to check the pockets before you do the wash.\"",
+   "phrases": [
+    {
+     "en": "\"That's what was rattling,\" the technician said. \"Best to check the pockets before you do the wash.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "just; simply; exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "响",
+       "py": "xiǎng",
+       "gl": "ring",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "师傅",
+       "py": "shīfù",
+       "gl": "master (polite address for a skilled worker); master craftsman",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "洗",
+       "py": "xǐ",
+       "gl": "wash",
+       "pos": "v."
+      },
+      {
+       "h": "衣服",
+       "py": "yīfu",
+       "gl": "clothes",
+       "pos": "n."
+      },
+      {
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "最好",
+       "py": "zuìhǎo",
+       "gl": "had better; it's best to",
+       "pos": "adv."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "口袋",
+       "py": "kǒudài",
+       "gl": "pocket; bag; pouch",
+       "pos": "n."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "一下",
+       "py": "yíxià",
+       "gl": "a bit; once (softens the verb: take a look)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lao Wang took the hairpin and said nothing for a long time. His wife had worn it for years.",
+   "phrases": [
+    {
+     "en": "Lao Wang took the hairpin and said nothing for a long time. His wife had worn it for years.",
+     "words": [
+      {
+       "h": "老王",
+       "py": "Lǎo Wáng",
+       "gl": "Lao Wang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "接",
+       "py": "jiē",
+       "gl": "to take (in one's hands)",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "发卡",
+       "py": "fàqiǎ",
+       "gl": "hairpin",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "半天",
+       "py": "bàntiān",
+       "gl": "a long time; ages",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "老伴",
+       "py": "lǎobàn",
+       "gl": "spouse (of an elderly couple)",
+       "pos": "n."
+      },
+      {
+       "h": "戴",
+       "py": "dài",
+       "gl": "wear (glasses, a watch, a hat, headphones)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "很多",
+       "py": "hěnduō",
+       "gl": "many; a lot; much",
+       "pos": "adj."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The technician tightened a screw, replaced a part, and said, \"Switch it on for a moment and try it.\"",
+   "phrases": [
+    {
+     "en": "The technician tightened a screw, replaced a part, and said, \"Switch it on for a moment and try it.\"",
+     "words": [
+      {
+       "h": "师傅",
+       "py": "shīfù",
+       "gl": "master (polite address for a skilled worker); master craftsman",
+       "pos": "n."
+      },
+      {
+       "h": "拧",
+       "py": "nǐng",
+       "gl": "screw; tighten",
+       "pos": "v."
+      },
+      {
+       "h": "紧",
+       "py": "jǐn",
+       "gl": "tight; tightly",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "螺丝",
+       "py": "luósī",
+       "gl": "bolt; screw",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "换",
+       "py": "huàn",
+       "gl": "change; switch; exchange",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "零件",
+       "py": "língjiàn",
+       "gl": "part; component",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "您",
+       "py": "nín",
+       "gl": "you (polite)",
+       "pos": "pron."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; turn on; open (an account); prescribe",
+       "pos": "v."
+      },
+      {
+       "h": "一下",
+       "py": "yíxià",
+       "gl": "a bit; once (softens the verb: take a look)",
+       "pos": "particle"
+      },
+      {
+       "h": "试",
+       "py": "shì",
+       "gl": "try",
+       "pos": "v."
+      },
+      {
+       "h": "试",
+       "py": "shì",
+       "gl": "try",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The washing machine began to turn, its sound low and even, just as it used to be when she did the laundry every Saturday.",
+   "phrases": [
+    {
+     "en": "The washing machine began to turn, its sound low and even, just as it used to be when she did the laundry every Saturday.",
+     "words": [
+      {
+       "h": "洗衣机",
+       "py": "xǐyījī",
+       "gl": "washing machine",
+       "pos": "n."
+      },
+      {
+       "h": "转",
+       "py": "zhuǎn",
+       "gl": "transfer (money); turn",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound",
        "pos": "n."
       },
       {
@@ -1506,22 +1733,73 @@
        "pos": "adv."
       },
       {
-       "h": "出现",
-       "py": "chūxiàn",
-       "gl": "appear; emerge",
+       "h": "低",
+       "py": "dī",
+       "gl": "low",
+       "pos": "adj."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "平",
+       "py": "píng",
+       "gl": "even, steady",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "以前",
+       "py": "yǐqián",
+       "gl": "before; in the past; ago",
+       "pos": "postposition"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "星期六",
+       "py": "xīngqīliù",
+       "gl": "Saturday",
+       "pos": "n."
+      },
+      {
+       "h": "洗",
+       "py": "xǐ",
+       "gl": "wash",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "类似",
-       "py": "lèisì",
-       "gl": "similar",
-       "pos": "adj."
+       "h": "衣服",
+       "py": "yīfu",
+       "gl": "clothes",
+       "pos": "n."
       },
       {
        "h": "的",
@@ -1530,87 +1808,16 @@
        "pos": "particle"
       },
       {
-       "h": "噪音",
-       "py": "zàoyīn",
-       "gl": "noise",
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
        "pos": "n."
       },
       {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and this time Mr. Wang went straight to calling 12315, the national consumer complaint hotline, for advice.",
-     "words": [
-      {
-       "h": "王先生",
-       "py": "wángxiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "直接",
-       "py": "zhíjiē",
-       "gl": "directly; straight",
-       "pos": "adv."
-      },
-      {
-       "h": "拨打",
-       "py": "bōdǎ",
-       "gl": "dial; call (a number)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "12315"
-      },
-      {
-       "h": "全国",
-       "py": "quánguó",
-       "gl": "the whole country; nationwide",
-       "pos": "n."
-      },
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "投诉",
-       "py": "tóusù",
-       "gl": "complain; complaint",
-       "pos": "n."
-      },
-      {
-       "h": "热线",
-       "py": "rèxiàn",
-       "gl": "hotline",
-       "pos": "n."
-      },
-      {
-       "h": "咨询",
-       "py": "zīxún",
-       "gl": "consult; seek advice",
-       "pos": "v."
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
       },
       {
        "h": "。"
@@ -1620,15 +1827,30 @@
    ]
   },
   {
-   "en": "The operator told him that under the \"three guarantees\" rules (sanbao: repair, replacement or refund), the main components of large appliances are usually under warranty for at least three years, though the details depend on what the product manual says.",
+   "en": "Before leaving, the technician told him that under the \"three guarantees\" rules, the main parts of large appliances are usually under warranty for at least three years, and if the seller won't deal with it, you can complain to 12315.",
    "phrases": [
     {
-     "en": "The operator told him",
+     "en": "Before leaving, the technician told him that under the \"three guarantees\" rules, the main parts of large appliances are usually under warranty for at least three years,",
      "words": [
       {
-       "h": "接线员",
-       "py": "jiēxiànyuán",
-       "gl": "operator (on a hotline)",
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "之前",
+       "py": "zhīqián",
+       "gl": "before; prior to",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "师傅",
+       "py": "shīfù",
+       "gl": "master (polite address for a skilled worker); master craftsman",
        "pos": "n."
       },
       {
@@ -1645,16 +1867,11 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that under the \"three guarantees\" rules (sanbao: repair, replacement or refund),",
-     "words": [
+      },
       {
-       "h": "根据",
-       "py": "gēnjù",
-       "gl": "according to; based on",
+       "h": "按",
+       "py": "àn",
+       "gl": "according to; by",
        "pos": "prep."
       },
       {
@@ -1662,7 +1879,7 @@
       },
       {
        "h": "三包",
-       "py": "sānbāo",
+       "py": "sān bāo",
        "gl": "\"three guarantees\" (repair, replacement, refund)",
        "pos": "n."
       },
@@ -1677,12 +1894,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the main components of large appliances are usually under warranty for at least three years,",
-     "words": [
+      },
       {
        "h": "大",
        "py": "dà",
@@ -1694,12 +1906,6 @@
        "py": "jiādiàn",
        "gl": "home appliance",
        "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
       },
       {
        "h": "主要",
@@ -1714,21 +1920,33 @@
        "pos": "n."
       },
       {
-       "h": "保修期",
-       "py": "bǎoxiūqī",
-       "gl": "warranty period",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "保修",
+       "py": "bǎoxiū",
+       "gl": "warranty; guarantee",
        "pos": "n."
       },
       {
        "h": "一般",
        "py": "yìbān",
-       "gl": "usually; generally",
+       "gl": "generally; usually; ordinary; average; so-so",
        "pos": "adv."
       },
       {
-       "h": "不少于",
-       "py": "bùshǎoyú",
-       "gl": "no less than; at least",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "少于",
+       "py": "shǎoyú",
+       "gl": "less than; fewer than",
        "pos": "v."
       },
       {
@@ -1749,603 +1967,12 @@
      ]
     },
     {
-     "en": "though the details depend on what the product manual says.",
+     "en": "and if the seller won't deal with it, you can complain to 12315.",
      "words": [
       {
-       "h": "具体",
-       "py": "jùtǐ",
-       "gl": "specific; concrete",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
-       "pos": "v."
-      },
-      {
-       "h": "产品",
-       "py": "chǎnpǐn",
-       "gl": "product; goods",
-       "pos": "n."
-      },
-      {
-       "h": "说明书",
-       "py": "shuōmíngshū",
-       "gl": "instructions; manual",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "约定",
-       "py": "yuēdìng",
-       "gl": "agree on; agreement; terms",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After digging out the manual and checking it, Mr. Wang found that the compressor was indeed still under warranty, so he contacted after-sales service again, and they quickly arranged a second free repair.",
-   "phrases": [
-    {
-     "en": "After digging out the manual and checking it,",
-     "words": [
-      {
-       "h": "王先生",
-       "py": "wángxiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "找出",
-       "py": "zhǎochū",
-       "gl": "find out; identify",
-       "pos": "v."
-      },
-      {
-       "h": "说明书",
-       "py": "shuōmíngshū",
-       "gl": "instructions; manual",
-       "pos": "n."
-      },
-      {
-       "h": "核对",
-       "py": "héduì",
-       "gl": "check; verify",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Mr. Wang found that the compressor was indeed still under warranty,",
-     "words": [
-      {
-       "h": "发现",
-       "py": "fāxiàn",
-       "gl": "discover; find out",
-       "pos": "v."
-      },
-      {
-       "h": "压缩机",
-       "py": "yāsuōjī",
-       "gl": "compressor",
-       "pos": "n."
-      },
-      {
-       "h": "确实",
-       "py": "quèshí",
-       "gl": "indeed; really",
-       "pos": "adv."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "保修期",
-       "py": "bǎoxiūqī",
-       "gl": "warranty period",
-       "pos": "n."
-      },
-      {
-       "h": "内",
-       "py": "nèi",
-       "gl": "within; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so he contacted after-sales service again,",
-     "words": [
-      {
-       "h": "于是",
-       "py": "yúshì",
-       "gl": "so; thereupon; then",
-       "pos": "conj."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again",
-       "pos": "adv."
-      },
-      {
-       "h": "联系",
-       "py": "liánxì",
-       "gl": "contact; get in touch",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "售后",
-       "py": "shòuhòu",
-       "gl": "after-sales",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and they quickly arranged a second free repair.",
-     "words": [
-      {
-       "h": "对方",
-       "py": "duìfāng",
-       "gl": "the other party; the other person",
-       "pos": "n."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "快",
-       "py": "kuài",
-       "gl": "fast; quick",
-       "pos": "adj."
-      },
-      {
-       "h": "安排",
-       "py": "ānpái",
-       "gl": "arrange; plan",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "第二次",
-       "py": "dìèrcì",
-       "gl": "the second time",
-       "pos": "num."
-      },
-      {
-       "h": "免费",
-       "py": "miǎnfèi",
-       "gl": "free (of charge)",
-       "pos": "adj."
-      },
-      {
-       "h": "维修",
-       "py": "wéixiū",
-       "gl": "repair; maintain",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Once the repair was done, Mr. Wang made a point of organizing the warranty card and the records of both repairs and keeping them in one folder, so they'd be easy to find later.",
-   "phrases": [
-    {
-     "en": "Once the repair was done,",
-     "words": [
-      {
-       "h": "维修",
-       "py": "wéixiū",
-       "gl": "repair; maintain",
-       "pos": "n."
-      },
-      {
-       "h": "完成",
-       "py": "wánchéng",
-       "gl": "finish; complete",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Mr. Wang made a point of organizing the warranty card and the records of both repairs",
-     "words": [
-      {
-       "h": "王先生",
-       "py": "wángxiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
-       "pos": "adv."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "保修卡",
-       "py": "bǎoxiūkǎ",
-       "gl": "warranty card",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
-      },
-      {
-       "h": "维修",
-       "py": "wéixiū",
-       "gl": "repair; maintain",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "记录",
-       "py": "jìlù",
-       "gl": "record; write down; record (data)",
-       "pos": "n."
-      },
-      {
-       "h": "整理好",
-       "py": "zhěnglǐhǎo",
-       "gl": "put in order; sort out",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and keeping them in one folder,",
-     "words": [
-      {
-       "h": "存",
-       "py": "cún",
-       "gl": "save; deposit; store",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "文件夹",
-       "py": "wénjiànjiā",
-       "gl": "folder",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so they'd be easy to find later.",
-     "words": [
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "adj."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "查找",
-       "py": "cházhǎo",
-       "gl": "search for; look up",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "He said the whole thing made it even clearer to him that only by understanding the Consumer Rights Protection Law and the \"three guarantees\" rules can you avoid getting a raw deal when problems come up.",
-   "phrases": [
-    {
-     "en": "He said",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the whole thing made it even clearer to him",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "件",
-       "py": "jiàn",
-       "gl": "measure word for clothing, matters, items",
-       "pos": "measure word"
-      },
-      {
-       "h": "事",
-       "py": "shì",
-       "gl": "matter; thing",
-       "pos": "n."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "更加",
-       "py": "gèngjiā",
-       "gl": "even more",
-       "pos": "adv."
-      },
-      {
-       "h": "明白",
-       "py": "míngbái",
-       "gl": "understand; realize",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that only by understanding the Consumer Rights Protection Law and the \"three guarantees\" rules",
-     "words": [
-      {
-       "h": "弄清楚",
-       "py": "nòngqīngchǔ",
-       "gl": "figure out; make clear",
-       "pos": "v."
-      },
-      {
-       "h": "《"
-      },
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "权益",
-       "py": "quányì",
-       "gl": "rights and interests",
-       "pos": "n."
-      },
-      {
-       "h": "保护法",
-       "py": "bǎohùfǎ",
-       "gl": "protection law",
-       "pos": "n."
-      },
-      {
-       "h": "》"
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "三包",
-       "py": "sānbāo",
-       "gl": "\"three guarantees\" (repair, replacement, refund)",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "规定",
-       "py": "guīdìng",
-       "gl": "regulation; rule",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "can you avoid getting a raw deal when problems come up.",
-     "words": [
-      {
-       "h": "才",
-       "py": "cái",
-       "gl": "only then; not until",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "遇到",
-       "py": "yùdào",
-       "gl": "encounter; come across; run into",
-       "pos": "v."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
+       "h": "商家",
+       "py": "shāngjiā",
+       "gl": "seller; merchant",
        "pos": "n."
       },
       {
@@ -2355,9 +1982,36 @@
        "pos": "adv."
       },
       {
-       "h": "吃亏",
-       "py": "chīkuī",
-       "gl": "lose out; be at a disadvantage",
+       "h": "管",
+       "py": "guǎn",
+       "gl": "to deal with",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可以",
+       "py": "kěyǐ",
+       "gl": "can; may",
+       "pos": "v."
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "hit; play (ball games); make (a phone call)",
+       "pos": "v."
+      },
+      {
+       "h": "一二三一五",
+       "py": "yāo èr sān yāo wǔ",
+       "gl": "12315 (consumer complaints hotline)",
+       "pos": "num."
+      },
+      {
+       "h": "投诉",
+       "py": "tóusù",
+       "gl": "complain; file a complaint",
        "pos": "v."
       },
       {
@@ -2368,48 +2022,13 @@
    ]
   },
   {
-   "en": "After this experience, Mr. Wang also got into the habit, when shopping online, of saving a screenshot of the order and the chat history after placing an order.",
+   "en": "\"And anything bought online can be returned within seven days, no reason needed,\" he added, as if Lao Wang were about to buy something.",
    "phrases": [
     {
-     "en": "After this experience,",
+     "en": "\"And anything bought online can be returned within seven days, no reason needed,\" he added, as if Lao Wang were about to buy something.",
      "words": [
       {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
-       "pos": "n."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Mr. Wang also got into the habit, when shopping online,",
-     "words": [
-      {
-       "h": "王先生",
-       "py": "wángxiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
+       "h": "“"
       },
       {
        "h": "网上",
@@ -2421,275 +2040,6 @@
        "h": "买",
        "py": "mǎi",
        "gl": "buy",
-       "pos": "v."
-      },
-      {
-       "h": "东西",
-       "py": "dōngxī",
-       "gl": "thing; stuff",
-       "pos": "n."
-      },
-      {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; time",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "养成",
-       "py": "yǎngchéng",
-       "gl": "form (a habit); develop",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "habit",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "of saving a screenshot of the order and the chat history after placing an order.",
-     "words": [
-      {
-       "h": "下单",
-       "py": "xiàdān",
-       "gl": "place an order",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "订单",
-       "py": "dìngdān",
-       "gl": "order",
-       "pos": "n."
-      },
-      {
-       "h": "截图",
-       "py": "jiétú",
-       "gl": "screenshot",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "聊天",
-       "py": "liáotiān",
-       "gl": "chat; talk",
-       "pos": "n."
-      },
-      {
-       "h": "记录",
-       "py": "jìlù",
-       "gl": "record; write down; record (data)",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "保存",
-       "py": "bǎocún",
-       "gl": "preserve; keep; save; storage",
-       "pos": "v."
-      },
-      {
-       "h": "下来",
-       "py": "xiàlái",
-       "gl": "down (verb complement: 写下来 write down); over a period (几年下来 after several years)",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Once he bought a high-speed blender online, and less than a week later he noticed that the blades made a strange noise when they spun, and the jar was leaking where it connected to the base.",
-   "phrases": [
-    {
-     "en": "Once he bought a high-speed blender online,",
-     "words": [
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "网上",
-       "py": "wǎngshàng",
-       "gl": "online; on the internet",
-       "pos": "n."
-      },
-      {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "台",
-       "py": "tái",
-       "gl": "stage; platform; measure word for machines (computers, TVs)",
-       "pos": "measure word"
-      },
-      {
-       "h": "破壁机",
-       "py": "pòbìjī",
-       "gl": "high-speed blender",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and less than a week later he noticed that the blades made a strange noise when they spun,",
-     "words": [
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "不到",
-       "py": "búdào",
-       "gl": "not reach; less than; (after verb) unable to (找不到 can't find)",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "周",
-       "py": "zhōu",
-       "gl": "week",
-       "pos": "measure word"
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "发现",
-       "py": "fāxiàn",
-       "gl": "discover; find out",
-       "pos": "v."
-      },
-      {
-       "h": "刀片",
-       "py": "dāopiàn",
-       "gl": "blade",
-       "pos": "n."
-      },
-      {
-       "h": "转动",
-       "py": "zhuǎndòng",
-       "gl": "turn; rotate",
        "pos": "v."
       },
       {
@@ -2699,103 +2049,7 @@
        "pos": "particle"
       },
       {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "声音",
-       "py": "shēngyīn",
-       "gl": "sound",
-       "pos": "n."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "奇怪",
-       "py": "qíguài",
-       "gl": "strange; odd",
-       "pos": "adj."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the jar was leaking where it connected to the base.",
-     "words": [
-      {
-       "h": "而且",
-       "py": "érqiě",
-       "gl": "moreover; and also",
-       "pos": "conj."
-      },
-      {
-       "h": "杯体",
-       "py": "bēitǐ",
-       "gl": "cup body (of a blender)",
-       "pos": "n."
-      },
-      {
-       "h": "接口",
-       "py": "jiēkǒu",
-       "gl": "connector; port; joint",
-       "pos": "n."
-      },
-      {
-       "h": "处",
-       "py": "chù",
-       "gl": "place; measure word for places",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "particle: action in progress (他在吃 'he is eating')",
-       "pos": "function word"
-      },
-      {
-       "h": "漏水",
-       "py": "lòushuǐ",
-       "gl": "leak (water)",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Remembering the seven-day no-reason return rule, he immediately contacted customer service to request a return, and after checking the situation they quickly agreed.",
-   "phrases": [
-    {
-     "en": "Remembering the seven-day no-reason return rule,",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "想起",
-       "py": "xiǎngqǐ",
-       "gl": "remember; think of; remind (让我想起 'remind me of')",
-       "pos": "v."
       },
       {
        "h": "七",
@@ -2806,248 +2060,7 @@
       {
        "h": "天",
        "py": "tiān",
-       "gl": "day",
-       "pos": "measure word"
-      },
-      {
-       "h": "无理由",
-       "py": "wúlǐyóu",
-       "gl": "no reason needed; no questions asked (returns)",
-       "pos": "phrase"
-      },
-      {
-       "h": "退货",
-       "py": "tuìhuò",
-       "gl": "return goods; return",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "规定",
-       "py": "guīdìng",
-       "gl": "regulation; rule",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "he immediately contacted customer service to request a return,",
-     "words": [
-      {
-       "h": "马上",
-       "py": "mǎshàng",
-       "gl": "immediately; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "联系",
-       "py": "liánxì",
-       "gl": "contact; get in touch",
-       "pos": "v."
-      },
-      {
-       "h": "客服",
-       "py": "kèfú",
-       "gl": "customer service",
-       "pos": "n."
-      },
-      {
-       "h": "申请",
-       "py": "shēnqǐng",
-       "gl": "apply (for); application",
-       "pos": "v."
-      },
-      {
-       "h": "退货",
-       "py": "tuìhuò",
-       "gl": "return goods; return",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and after checking the situation they quickly agreed.",
-     "words": [
-      {
-       "h": "客服",
-       "py": "kèfú",
-       "gl": "customer service",
-       "pos": "n."
-      },
-      {
-       "h": "核实",
-       "py": "héshí",
-       "gl": "verify; check",
-       "pos": "v."
-      },
-      {
-       "h": "情况",
-       "py": "qíngkuàng",
-       "gl": "situation; circumstances",
-       "pos": "n."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "快",
-       "py": "kuài",
-       "gl": "fast; quick",
-       "pos": "adj."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "同意",
-       "py": "tóngyì",
-       "gl": "agree",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The seller paid the return shipping, and a few days after receiving the returned item, the money was refunded to his account via the original payment method.",
-   "phrases": [
-    {
-     "en": "The seller paid the return shipping,",
-     "words": [
-      {
-       "h": "退货",
-       "py": "tuìhuò",
-       "gl": "return goods; return",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "快递费",
-       "py": "kuàidìfèi",
-       "gl": "shipping fee",
-       "pos": "n."
-      },
-      {
-       "h": "由",
-       "py": "yóu",
-       "gl": "by (marks the agent)",
-       "pos": "prep."
-      },
-      {
-       "h": "商家",
-       "py": "shāngjiā",
-       "gl": "seller; merchant",
-       "pos": "n."
-      },
-      {
-       "h": "承担",
-       "py": "chéngdān",
-       "gl": "take on; bear (a responsibility)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and a few days after receiving the returned item, the money was refunded to his account via the original payment method.",
-     "words": [
-      {
-       "h": "钱款",
-       "py": "qiánkuǎn",
-       "gl": "money; funds",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "收到",
-       "py": "shōudào",
-       "gl": "receive",
-       "pos": "v."
-      },
-      {
-       "h": "退回",
-       "py": "tuìhuí",
-       "gl": "return; send back; refund",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "商品",
-       "py": "shāngpǐn",
-       "gl": "goods; product",
-       "pos": "n."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "day",
+       "gl": "day; sky",
        "pos": "measure word"
       },
       {
@@ -3057,1984 +2070,10 @@
        "pos": "postposition"
       },
       {
-       "h": "原路",
-       "py": "yuánlù",
-       "gl": "the same way back (原路退回 refunded to the original account)",
-       "pos": "adv."
-      },
-      {
-       "h": "退回",
-       "py": "tuìhuí",
-       "gl": "return; send back; refund",
-       "pos": "v."
-      },
-      {
-       "h": "到了",
-       "py": "dàole",
-       "gl": "to; into (退回到了 returned to)",
-       "pos": "prep."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "账户",
-       "py": "zhànghù",
-       "gl": "(bank) account",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Mr. Wang said this return made him more confident about shopping online, and helped him understand that the rules are there to protect consumers — if you don't use them, you're the one who loses out.",
-   "phrases": [
-    {
-     "en": "Mr. Wang said",
-     "words": [
-      {
-       "h": "王先生",
-       "py": "wángxiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "this return made him more confident about shopping online,",
-     "words": [
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "退货",
-       "py": "tuìhuò",
-       "gl": "return goods; return",
-       "pos": "v."
-      },
-      {
-       "h": "体验",
-       "py": "tǐyàn",
-       "gl": "experience; try out",
-       "pos": "n."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "网购",
-       "py": "wǎnggòu",
-       "gl": "online shopping; shop online",
-       "pos": "v."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "信心",
-       "py": "xìnxīn",
-       "gl": "confidence",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and helped him understand that the rules are there to protect consumers —",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "明白",
-       "py": "míngbái",
-       "gl": "understand; realize",
-       "pos": "v."
-      },
-      {
-       "h": "规则",
-       "py": "guīzé",
-       "gl": "rule",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "用来",
-       "py": "yònglái",
-       "gl": "be used for; use to",
-       "pos": "v."
-      },
-      {
-       "h": "保护",
-       "py": "bǎohù",
-       "gl": "protect; protection",
-       "pos": "v."
-      },
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "if you don't use them, you're the one who loses out.",
-     "words": [
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "话",
-       "py": "huà",
-       "gl": "(的话: if)",
-       "pos": "n."
-      },
-      {
-       "h": "反而",
-       "py": "fǎnér",
-       "gl": "instead; on the contrary",
-       "pos": "adv."
-      },
-      {
-       "h": "吃亏",
-       "py": "chīkuī",
-       "gl": "lose out; be at a disadvantage",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Later he also learned that if a seller refuses to honor its \"three guarantees\" obligations, consumers can file a complaint with the local consumer association or call the 12315 hotline to report it.",
-   "phrases": [
-    {
-     "en": "Later he also learned",
-     "words": [
-      {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "n."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
        "h": "还",
        "py": "hái",
        "gl": "also; in addition; still",
        "pos": "adv."
-      },
-      {
-       "h": "了解到",
-       "py": "liǎojiědào",
-       "gl": "learn; find out",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that if a seller refuses to honor its \"three guarantees\" obligations,",
-     "words": [
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "商家",
-       "py": "shāngjiā",
-       "gl": "seller; merchant",
-       "pos": "n."
-      },
-      {
-       "h": "拒绝",
-       "py": "jùjué",
-       "gl": "refuse; reject",
-       "pos": "v."
-      },
-      {
-       "h": "履行",
-       "py": "lǚxíng",
-       "gl": "fulfill; carry out (an obligation)",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "三包",
-       "py": "sānbāo",
-       "gl": "\"three guarantees\" (repair, replacement, refund)",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "义务",
-       "py": "yìwù",
-       "gl": "duty; obligation",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "consumers can file a complaint with the local consumer association",
-     "words": [
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "function word"
-      },
-      {
-       "h": "向",
-       "py": "xiàng",
-       "gl": "to; toward; from (向她借钱 'borrow money from her')",
-       "pos": "prep."
-      },
-      {
-       "h": "当地",
-       "py": "dāngdì",
-       "gl": "local; locality",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "消费者协会",
-       "py": "xiāofèizhěxiéhuì",
-       "gl": "Consumers' Association",
-       "pos": "n."
-      },
-      {
-       "h": "投诉",
-       "py": "tóusù",
-       "gl": "complain; complaint",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "or call the 12315 hotline to report it.",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "function word"
-      },
-      {
-       "h": "拨打",
-       "py": "bōdǎ",
-       "gl": "dial; call (a number)",
-       "pos": "v."
-      },
-      {
-       "h": "12315"
-      },
-      {
-       "h": "热线",
-       "py": "rèxiàn",
-       "gl": "hotline",
-       "pos": "n."
-      },
-      {
-       "h": "反映",
-       "py": "fǎnyìng",
-       "gl": "report (a problem); reflect",
-       "pos": "v."
-      },
-      {
-       "h": "情况",
-       "py": "qíngkuàng",
-       "gl": "situation; circumstances",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "If neither negotiation nor complaints work, consumers can also take legal action to defend their rights, although this usually takes more time and energy.",
-   "phrases": [
-    {
-     "en": "If neither negotiation nor complaints work,",
-     "words": [
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "协商",
-       "py": "xiéshāng",
-       "gl": "consult; negotiate; talk over",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "投诉",
-       "py": "tóusù",
-       "gl": "complain; complaint",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
-       "pos": "v."
-      },
-      {
-       "h": "效果",
-       "py": "xiàoguǒ",
-       "gl": "effect; result",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "consumers can also take legal action to defend their rights,",
-     "words": [
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "function word"
-      },
-      {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
-      },
-      {
-       "h": "法律",
-       "py": "fǎlǜ",
-       "gl": "law",
-       "pos": "n."
-      },
-      {
-       "h": "途径",
-       "py": "tújìng",
-       "gl": "channel; means; way",
-       "pos": "n."
-      },
-      {
-       "h": "维权",
-       "py": "wéiquán",
-       "gl": "defend one's rights",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "although this usually takes more time and energy.",
-     "words": [
-      {
-       "h": "不过",
-       "py": "bùguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      },
-      {
-       "h": "通常",
-       "py": "tōngcháng",
-       "gl": "usually; normally",
-       "pos": "adv."
-      },
-      {
-       "h": "花费",
-       "py": "huāfèi",
-       "gl": "cost; expense; spend",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "精力",
-       "py": "jīnglì",
-       "gl": "energy; effort",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Mr. Wang summed up everything he had learned and sent it to his parents, reminding them to keep their receipts when shopping online too, and not to be afraid to stand up for their rights when something goes wrong.",
-   "phrases": [
-    {
-     "en": "Mr. Wang summed up everything he had learned",
-     "words": [
-      {
-       "h": "王先生",
-       "py": "wángxiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "经验",
-       "py": "jīngyàn",
-       "gl": "experience (practical); work experience",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "总结",
-       "py": "zǒngjié",
-       "gl": "sum up; summarize",
-       "pos": "v."
-      },
-      {
-       "h": "下来",
-       "py": "xiàlái",
-       "gl": "down (verb complement: 写下来 write down); over a period (几年下来 after several years)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and sent it to his parents,",
-     "words": [
-      {
-       "h": "发给了",
-       "py": "fāgěile",
-       "gl": "sent to",
-       "pos": "v."
-      },
-      {
-       "h": "家里",
-       "py": "jiālǐ",
-       "gl": "at home; in the family",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "父母",
-       "py": "fùmǔ",
-       "gl": "parents",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "reminding them to keep their receipts when shopping online too,",
-     "words": [
-      {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
-       "pos": "v."
-      },
-      {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
-       "pos": "pron."
-      },
-      {
-       "h": "网购",
-       "py": "wǎnggòu",
-       "gl": "online shopping; shop online",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
-      },
-      {
-       "h": "注意",
-       "py": "zhùyì",
-       "gl": "pay attention to; be careful about",
-       "pos": "v."
-      },
-      {
-       "h": "保留",
-       "py": "bǎoliú",
-       "gl": "keep; retain; preserve",
-       "pos": "v."
-      },
-      {
-       "h": "凭证",
-       "py": "píngzhèng",
-       "gl": "proof; voucher; receipt",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and not to be afraid to stand up for their rights when something goes wrong.",
-     "words": [
-      {
-       "h": "遇到",
-       "py": "yùdào",
-       "gl": "encounter; come across; run into",
-       "pos": "v."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "别",
-       "py": "bié",
-       "gl": "don't (prohibition); other",
-       "pos": "adv."
-      },
-      {
-       "h": "怕",
-       "py": "pà",
-       "gl": "be afraid; fear; worry",
-       "pos": "v."
-      },
-      {
-       "h": "维权",
-       "py": "wéiquán",
-       "gl": "defend one's rights",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "At first his parents thought standing up for their rights was too much hassle and didn't want to waste the time, but Mr. Wang patiently explained that these rules exist precisely so that ordinary consumers lose out less.",
-   "phrases": [
-    {
-     "en": "At first his parents thought standing up for their rights was too much hassle",
-     "words": [
-      {
-       "h": "父母",
-       "py": "fùmǔ",
-       "gl": "parents",
-       "pos": "n."
-      },
-      {
-       "h": "一开始",
-       "py": "yīkāishǐ",
-       "gl": "at first; in the beginning",
-       "pos": "adv."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "维权",
-       "py": "wéiquán",
-       "gl": "defend one's rights",
-       "pos": "v."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "麻烦",
-       "py": "máfán",
-       "gl": "trouble; hassle; troublesome; inconvenient",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and didn't want to waste the time,",
-     "words": [
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like",
-       "pos": "v."
-      },
-      {
-       "h": "浪费",
-       "py": "làngfèi",
-       "gl": "waste",
-       "pos": "v."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but Mr. Wang patiently explained",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "王先生",
-       "py": "wángxiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "耐心",
-       "py": "nàixīn",
-       "gl": "patient; patience",
-       "pos": "adv."
-      },
-      {
-       "h": "解释",
-       "py": "jiěshì",
-       "gl": "explain",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that these rules exist precisely so that ordinary consumers lose out less.",
-     "words": [
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "规定",
-       "py": "guīdìng",
-       "gl": "regulation; rule",
-       "pos": "n."
-      },
-      {
-       "h": "本来",
-       "py": "běnlái",
-       "gl": "originally; by nature",
-       "pos": "adv."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "普通",
-       "py": "pǔtōng",
-       "gl": "ordinary; common",
-       "pos": "adj."
-      },
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "少",
-       "py": "shǎo",
-       "gl": "lack; have less (少了杂物 'less clutter')",
-       "pos": "adv."
-      },
-      {
-       "h": "吃亏",
-       "py": "chīkuī",
-       "gl": "lose out; be at a disadvantage",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Gradually his parents started paying attention to receipts too, and the whole family developed more careful, more sensible shopping habits.",
-   "phrases": [
-    {
-     "en": "Gradually,",
-     "words": [
-      {
-       "h": "慢慢",
-       "py": "mànmàn",
-       "gl": "slowly; gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (认真地 'carefully')",
-       "pos": "function word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "his parents started paying attention to receipts too,",
-     "words": [
-      {
-       "h": "父母",
-       "py": "fùmǔ",
-       "gl": "parents",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "留意",
-       "py": "liúyì",
-       "gl": "pay attention to; watch out for",
-       "pos": "v."
-      },
-      {
-       "h": "购物",
-       "py": "gòuwù",
-       "gl": "shop; go shopping",
-       "pos": "v."
-      },
-      {
-       "h": "凭证",
-       "py": "píngzhèng",
-       "gl": "proof; voucher; receipt",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the whole family developed more careful, more sensible shopping habits.",
-     "words": [
-      {
-       "h": "一家人",
-       "py": "yījiārén",
-       "gl": "whole family; family",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "养成",
-       "py": "yǎngchéng",
-       "gl": "form (a habit); develop",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "仔细",
-       "py": "zǐxì",
-       "gl": "careful; thorough",
-       "pos": "adj."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "理性",
-       "py": "lǐxìng",
-       "gl": "rational",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "消费",
-       "py": "xiāofèi",
-       "gl": "consumption; spending",
-       "pos": "n."
-      },
-      {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "habit",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Mr. Wang even wrote up the experience as a post with shopping tips and put it on a community forum, reminding everyone to shop sensibly and not to chase low prices blindly.",
-   "phrases": [
-    {
-     "en": "Mr. Wang even wrote up the experience as a post with shopping tips",
-     "words": [
-      {
-       "h": "王先生",
-       "py": "wángxiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
-       "pos": "adv."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
-       "pos": "n."
-      },
-      {
-       "h": "写成",
-       "py": "xiěchéng",
-       "gl": "write as; put in the form of",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "篇",
-       "py": "piān",
-       "gl": "measure word for articles, essays",
-       "pos": "measure word"
-      },
-      {
-       "h": "购物",
-       "py": "gòuwù",
-       "gl": "shop; go shopping",
-       "pos": "v."
-      },
-      {
-       "h": "心得",
-       "py": "xīndé",
-       "gl": "insights; what one has learned",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and put it on a community forum,",
-     "words": [
-      {
-       "h": "发",
-       "py": "fā",
-       "gl": "post (on social media)",
-       "pos": "v."
-      },
-      {
-       "h": "在了",
-       "py": "zàile",
-       "gl": "at; in (after a verb: 发在了 posted on)",
-       "pos": "prep."
-      },
-      {
-       "h": "社区",
-       "py": "shèqū",
-       "gl": "community; neighborhood",
-       "pos": "n."
-      },
-      {
-       "h": "论坛",
-       "py": "lùntán",
-       "gl": "forum",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "reminding everyone to shop sensibly and not to chase low prices blindly.",
-     "words": [
-      {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
-       "pos": "v."
-      },
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "理性",
-       "py": "lǐxìng",
-       "gl": "rational",
-       "pos": "adj."
-      },
-      {
-       "h": "消费",
-       "py": "xiāofèi",
-       "gl": "consumption; spending; spending; consumption; spend (money); consume",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不要",
-       "py": "búyào",
-       "gl": "don't; must not",
-       "pos": "v."
-      },
-      {
-       "h": "盲目",
-       "py": "mángmù",
-       "gl": "blindly",
-       "pos": "adv."
-      },
-      {
-       "h": "追求",
-       "py": "zhuīqiú",
-       "gl": "pursue; seek; pursuit",
-       "pos": "v."
-      },
-      {
-       "h": "低价",
-       "py": "dījià",
-       "gl": "low price; cheaply",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "One commenter said they had been through a similar fight for their rights, and advised everyone to choose sellers with good reputations and lots of reviews when shopping online.",
-   "phrases": [
-    {
-     "en": "One commenter said",
-     "words": [
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "网友",
-       "py": "wǎngyǒu",
-       "gl": "netizen; internet user",
-       "pos": "n."
-      },
-      {
-       "h": "留言",
-       "py": "liúyán",
-       "gl": "comment; leave a message",
-       "pos": "v."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "they had been through a similar fight for their rights,",
-     "words": [
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "遇到过",
-       "py": "yùdàoguò",
-       "gl": "have encountered",
-       "pos": "v."
-      },
-      {
-       "h": "类似",
-       "py": "lèisì",
-       "gl": "similar",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "维权",
-       "py": "wéiquán",
-       "gl": "defend one's rights",
-       "pos": "v."
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and advised everyone to choose sellers with good reputations and lots of reviews when shopping online.",
-     "words": [
-      {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
-       "pos": "v."
-      },
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "网购",
-       "py": "wǎnggòu",
-       "gl": "online shopping; shop online",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
-      },
-      {
-       "h": "优先",
-       "py": "yōuxiān",
-       "gl": "first; as a priority",
-       "pos": "adv."
-      },
-      {
-       "h": "选择",
-       "py": "xuǎnzé",
-       "gl": "choose",
-       "pos": "v."
-      },
-      {
-       "h": "信誉",
-       "py": "xìnyù",
-       "gl": "reputation; credibility",
-       "pos": "n."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good",
-       "pos": "adj."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "评价",
-       "py": "píngjià",
-       "gl": "rating; review; evaluation",
-       "pos": "n."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "商家",
-       "py": "shāngjiā",
-       "gl": "seller; merchant",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Another mentioned that some reputable platforms now offer price protection: if an item's price drops after you buy it, you can apply for the difference.",
-   "phrases": [
-    {
-     "en": "Another mentioned",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "网友",
-       "py": "wǎngyǒu",
-       "gl": "netizen; internet user",
-       "pos": "n."
-      },
-      {
-       "h": "提到",
-       "py": "tídào",
-       "gl": "mention",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that some reputable platforms now offer price protection:",
-     "words": [
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "pron."
-      },
-      {
-       "h": "正规",
-       "py": "zhèngguī",
-       "gl": "official; legitimate",
-       "pos": "adj."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "adv."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "推出",
-       "py": "tuīchū",
-       "gl": "launch; introduce; release",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "价格",
-       "py": "jiàgé",
-       "gl": "price",
-       "pos": "n."
-      },
-      {
-       "h": "保护",
-       "py": "bǎohù",
-       "gl": "protection; protect",
-       "pos": "v."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "if an item's price drops after you buy it, you can apply for the difference.",
-     "words": [
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "买完",
-       "py": "mǎiwán",
-       "gl": "finish buying; after buying",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "商品",
-       "py": "shāngpǐn",
-       "gl": "goods; product",
-       "pos": "n."
-      },
-      {
-       "h": "降价",
-       "py": "jiàngjià",
-       "gl": "cut prices; drop in price",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "function word"
-      },
-      {
-       "h": "申请",
-       "py": "shēnqǐng",
-       "gl": "apply (for); application",
-       "pos": "v."
-      },
-      {
-       "h": "补",
-       "py": "bǔ",
-       "gl": "make up for; supplement; fill (a tooth)",
-       "pos": "v."
-      },
-      {
-       "h": "差价",
-       "py": "chājià",
-       "gl": "price difference",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Mr. Wang feels that these consumer protections keep getting better, which shows that society is paying more and more attention to consumers' rights.",
-   "phrases": [
-    {
-     "en": "Mr. Wang feels",
-     "words": [
-      {
-       "h": "王先生",
-       "py": "wángxiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that these consumer protections keep getting better,",
-     "words": [
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "保护",
-       "py": "bǎohù",
-       "gl": "protection; protect",
-       "pos": "v."
-      },
-      {
-       "h": "措施",
-       "py": "cuòshī",
-       "gl": "measure; step",
-       "pos": "n."
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "完善",
-       "py": "wánshàn",
-       "gl": "improve; perfect; well-developed",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which shows that society is paying more and more attention to consumers' rights.",
-     "words": [
-      {
-       "h": "说明",
-       "py": "shuōmíng",
-       "gl": "show; explain; indicate",
-       "pos": "v."
-      },
-      {
-       "h": "社会",
-       "py": "shèhuì",
-       "gl": "society",
-       "pos": "n."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "权益",
-       "py": "quányì",
-       "gl": "rights and interests",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "重视",
-       "py": "zhòngshì",
-       "gl": "attach importance to; value",
-       "pos": "n."
-      },
-      {
-       "h": "程度",
-       "py": "chéngdù",
-       "gl": "degree; extent",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "particle: action in progress (他在吃 'he is eating')",
-       "pos": "function word"
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "提高",
-       "py": "tígāo",
-       "gl": "raise; improve",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "He advises his friends that when buying large appliances online, it's best to choose brands with official after-sales service centers, so that problems can be solved faster.",
-   "phrases": [
-    {
-     "en": "He advises his friends",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "建议",
-       "py": "jiànyì",
-       "gl": "suggest; advise",
-       "pos": "v."
-      },
-      {
-       "h": "身边",
-       "py": "shēnbiān",
-       "gl": "by one's side; nearby; around one; by one's side; nearby; at hand; by one's side",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "朋友",
-       "py": "péngyǒu",
-       "gl": "friend",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that when buying large appliances online, it's best to choose brands with official after-sales service centers,",
-     "words": [
-      {
-       "h": "网购",
-       "py": "wǎnggòu",
-       "gl": "online shopping; shop online",
-       "pos": "v."
-      },
-      {
-       "h": "大件",
-       "py": "dàjiàn",
-       "gl": "large (item); bulky",
-       "pos": "adj."
-      },
-      {
-       "h": "家电",
-       "py": "jiādiàn",
-       "gl": "home appliance",
-       "pos": "n."
-      },
-      {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; time",
-       "pos": "n."
-      },
-      {
-       "h": "最好",
-       "py": "zuìhǎo",
-       "gl": "had better; it's best to",
-       "pos": "adv."
-      },
-      {
-       "h": "选择",
-       "py": "xuǎnzé",
-       "gl": "choose",
-       "pos": "v."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "正规",
-       "py": "zhèngguī",
-       "gl": "official; legitimate",
-       "pos": "adj."
-      },
-      {
-       "h": "售后",
-       "py": "shòuhòu",
-       "gl": "after-sales",
-       "pos": "n."
-      },
-      {
-       "h": "网点",
-       "py": "wǎngdiǎn",
-       "gl": "outlet; service point",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "品牌",
-       "py": "pǐnpái",
-       "gl": "brand",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so that problems can be solved faster.",
-     "words": [
-      {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "like this; this way; such",
-       "pos": "pron."
-      },
-      {
-       "h": "出现",
-       "py": "chūxiàn",
-       "gl": "appear; emerge",
-       "pos": "v."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; time",
-       "pos": "n."
       },
       {
        "h": "能",
@@ -5043,27 +2082,238 @@
        "pos": "v."
       },
       {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
+       "h": "无理由退货",
+       "py": "wú lǐyóu tuìhuò",
+       "gl": "no-reason return",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
        "pos": "adv."
       },
       {
-       "h": "快",
-       "py": "kuài",
-       "gl": "fast; quick",
-       "pos": "adj."
-      },
-      {
-       "h": "得到",
-       "py": "dédào",
-       "gl": "get; obtain; receive",
+       "h": "加",
+       "py": "jiā",
+       "gl": "add",
        "pos": "v."
       },
       {
-       "h": "解决",
-       "py": "jiějué",
-       "gl": "solve; settle",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "好像",
+       "py": "hǎoxiàng",
+       "gl": "seem; be like",
+       "pos": "adv."
+      },
+      {
+       "h": "老王",
+       "py": "Lǎo Wáng",
+       "gl": "Lao Wang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "want; order; be going to; need",
+       "pos": "v."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "似的",
+       "py": "shìde",
+       "gl": "as if; like (像…似的)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening Lao Wang put the repair slip into the blue folder and, the way she used to, wrote the date on it.",
+   "phrases": [
+    {
+     "en": "That evening Lao Wang put the repair slip into the blue folder and, the way she used to, wrote the date on it.",
+     "words": [
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "老王",
+       "py": "Lǎo Wáng",
+       "gl": "Lao Wang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "维修单",
+       "py": "wéixiūdān",
+       "gl": "repair order",
+       "pos": "n."
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "进",
+       "py": "jìn",
+       "gl": "in (complement)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "蓝色",
+       "py": "lánsè",
+       "gl": "blue",
+       "pos": "n."
+      },
+      {
+       "h": "文件夹",
+       "py": "wénjiànjiā",
+       "gl": "folder",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "样子",
+       "py": "yàngzi",
+       "gl": "appearance; look; shape",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "上面",
+       "py": "shàngmiàn",
+       "gl": "on top; on the surface; above",
+       "pos": "n."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "日期",
+       "py": "rìqī",
+       "gl": "date",
        "pos": "n."
       },
       {
@@ -5074,141 +2324,44 @@
    ]
   },
   {
-   "en": "After these few experiences of standing up for his rights, Mr. Wang has a much fuller understanding of consumer protection laws and knows better how to protect himself when problems arise.",
+   "en": "He put the iron butterfly in too, tucked between a receipt and a warranty card.",
    "phrases": [
     {
-     "en": "After these few experiences of standing up for his rights,",
+     "en": "He put the iron butterfly in too, tucked between a receipt and a warranty card.",
      "words": [
       {
-       "h": "经过",
-       "py": "jīngguò",
-       "gl": "go through; undergo; pass by",
-       "pos": "v."
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this; these",
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
        "pos": "pron."
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
+       "h": "只",
+       "py": "zhī",
+       "gl": "(measure word for animals, one of a pair)",
        "pos": "measure word"
       },
       {
-       "h": "维权",
-       "py": "wéiquán",
-       "gl": "defend one's rights",
-       "pos": "v."
+       "h": "铁",
+       "py": "tiě",
+       "gl": "iron",
+       "pos": "n."
       },
       {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
+       "h": "蝴蝶",
+       "py": "húdié",
+       "gl": "butterfly",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Mr. Wang has a much fuller understanding of consumer protection laws",
-     "words": [
-      {
-       "h": "王先生",
-       "py": "wángxiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
       },
       {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "权益",
-       "py": "quányì",
-       "gl": "rights and interests",
-       "pos": "n."
-      },
-      {
-       "h": "保护",
-       "py": "bǎohù",
-       "gl": "protection; protect",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "相关",
-       "py": "xiāngguān",
-       "gl": "related; relevant",
-       "pos": "adj."
-      },
-      {
-       "h": "法规",
-       "py": "fǎguī",
-       "gl": "regulation; law",
-       "pos": "n."
-      },
-      {
-       "h": "有了",
-       "py": "yǒule",
-       "gl": "have; there is (now); come to have",
-       "pos": "v."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "全面",
-       "py": "quánmiàn",
-       "gl": "comprehensive; all-round",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "了解",
-       "py": "liǎojiě",
-       "gl": "know; understand; get to know",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and knows better how to protect himself when problems arise.",
-     "words": [
       {
        "h": "也",
        "py": "yě",
@@ -5216,230 +2369,60 @@
        "pos": "adv."
       },
       {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "懂得",
-       "py": "dǒngde",
-       "gl": "understand; know",
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
        "pos": "v."
       },
       {
-       "h": "如何",
-       "py": "rúhé",
-       "gl": "how",
-       "pos": "pron."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "进去",
+       "py": "jìnqù",
+       "gl": "(after a verb) in; into",
+       "pos": "function word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "夹",
+       "py": "jiā",
+       "gl": "pick up (with chopsticks); clip",
+       "pos": "v."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "遇到",
-       "py": "yùdào",
-       "gl": "encounter; come across; run into",
-       "pos": "v."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
+       "h": "发票",
+       "py": "fāpiào",
+       "gl": "receipt; invoice",
        "pos": "n."
       },
       {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; time",
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "保修卡",
+       "py": "bǎoxiūkǎ",
+       "gl": "warranty card",
        "pos": "n."
       },
       {
-       "h": "保护",
-       "py": "bǎohù",
-       "gl": "protect; protection",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Mr. Wang often says that an appliance breaking down is nothing to be afraid of — the key is knowing how to defend your rights in a reasonable, lawful way.",
-   "phrases": [
-    {
-     "en": "Mr. Wang often says",
-     "words": [
-      {
-       "h": "王先生",
-       "py": "wángxiānshēng",
-       "gl": "Mr. Wang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "常",
-       "py": "cháng",
-       "gl": "often",
-       "pos": "adv."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that an appliance breaking down is nothing to be afraid of —",
-     "words": [
-      {
-       "h": "家电",
-       "py": "jiādiàn",
-       "gl": "home appliance",
-       "pos": "n."
-      },
-      {
-       "h": "出",
-       "py": "chū",
-       "gl": "come up; occur (出问题 have problems)",
-       "pos": "v."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "可怕",
-       "py": "kěpà",
-       "gl": "scary; frightening; terrible",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the key is knowing how to defend your rights in a reasonable, lawful way.",
-     "words": [
-      {
-       "h": "关键",
-       "py": "guānjiàn",
-       "gl": "key; crucial; critical",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
-      },
-      {
-       "h": "懂得",
-       "py": "dǒngde",
-       "gl": "understand; know",
-       "pos": "v."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "prep."
-      },
-      {
-       "h": "合理",
-       "py": "hélǐ",
-       "gl": "reasonable; sensible",
-       "pos": "adj."
-      },
-      {
-       "h": "合法",
-       "py": "héfǎ",
-       "gl": "legal; lawful",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "(before a verb) to; in order",
-       "pos": "v."
-      },
-      {
-       "h": "维护",
-       "py": "wéihù",
-       "gl": "protect; safeguard (rights)",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "应有",
-       "py": "yīngyǒu",
-       "gl": "due; proper; deserved",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "权益",
-       "py": "quányì",
-       "gl": "rights and interests",
+       "h": "中间",
+       "py": "zhōngjiān",
+       "gl": "between; in the middle of",
        "pos": "n."
       },
       {

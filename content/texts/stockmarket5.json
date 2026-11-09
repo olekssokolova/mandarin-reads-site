@@ -1,17 +1,238 @@
 {
  "id": "stockmarket5",
  "level": 5,
- "title_zh": "小张学炒股",
- "title_en": "Xiao Zhang Learns to Trade Stocks",
+ "title_zh": "确认键",
+ "title_en": "The Confirm Button",
  "free": false,
  "audio_url": null,
- "note_en": "In 差点把存款全部投进去 \"nearly put all his savings in,\" 把 moves the object 存款 \"savings\" in front of the verb, and the verb must be followed by a result or direction, here 进去 \"in(to it).\" English simply says \"put X in,\" but Chinese 把 sentences can't end on a bare verb: 把存款投 is incomplete without 进去.",
+ "note_en": "把 moves the object in front of the verb, and 进去 after the verb shows direction — \"in, into it\": 千万别把积蓄都投进去 \"whatever you do, don't put all your savings into it.\" 把 is needed when something happens to the object and the result matters: 把手指从确认键上拿开 \"took his finger off the Confirm button.\" In English the object follows the verb; in a Chinese 把 sentence it comes before it.",
  "sentences": [
   {
-   "en": "Xiao Zhang had worked for a few years and saved up some money, which had been sitting in the bank earning very little interest.",
+   "en": "In the office pantry, Lao Ma held his phone up in front of everyone: the screen was a sea of red.",
    "phrases": [
     {
-     "en": "Xiao Zhang had worked for a few years and saved up some money,",
+     "en": "In the office pantry, Lao Ma held his phone up in front of everyone: the screen was a sea of red.",
+     "words": [
+      {
+       "h": "茶水间",
+       "py": "cháshuǐjiān",
+       "gl": "office pantry",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "老马",
+       "py": "Lǎo Mǎ",
+       "gl": "Lao Ma",
+       "pos": "proper noun"
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "举",
+       "py": "jǔ",
+       "gl": "lift; raise",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "面前",
+       "py": "miànqián",
+       "gl": "in front of; before (真理面前 before the truth)",
+       "pos": "postposition"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "屏幕",
+       "py": "píngmù",
+       "gl": "screen",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "一片",
+       "py": "yípiàn",
+       "gl": "a stretch of; all over; a sheet of",
+       "pos": "num."
+      },
+      {
+       "h": "红",
+       "py": "hóng",
+       "gl": "red",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"It hit the daily limit yesterday,\" he said. \"In one week I've made more than a month's salary.\"",
+   "phrases": [
+    {
+     "en": "\"It hit the daily limit yesterday,\" he said. \"In one week I've made more than a month's salary.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "昨天",
+       "py": "zuótiān",
+       "gl": "yesterday",
+       "pos": "n."
+      },
+      {
+       "h": "涨停",
+       "py": "zhǎngtíng",
+       "gl": "to hit the daily limit up (of a stock)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "一个月",
+       "py": "yígèyuè",
+       "gl": "one month",
+       "pos": "n."
+      },
+      {
+       "h": "工资",
+       "py": "gōngzī",
+       "gl": "salary; wages",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "more (than)",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Zhang stood at the back holding his cup, hardly breathing.",
+   "phrases": [
+    {
+     "en": "Xiao Zhang stood at the back holding his cup, hardly breathing.",
      "words": [
       {
        "h": "小张",
@@ -20,10 +241,86 @@
        "pos": "proper noun"
       },
       {
+       "h": "端着",
+       "py": "duānzhe",
+       "gl": "holding (level in the hands)",
+       "pos": "v."
+      },
+      {
+       "h": "杯子",
+       "py": "bēizi",
+       "gl": "cup; glass",
+       "pos": "n."
+      },
+      {
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "后面",
+       "py": "hòumiàn",
+       "gl": "behind; at the back",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "半天",
+       "py": "bàntiān",
+       "gl": "a long time; ages",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "喘",
+       "py": "chuǎn",
+       "gl": "to catch (one's breath)",
+       "pos": "v."
+      },
+      {
+       "h": "气",
+       "py": "qì",
+       "gl": "breath",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He had worked for five years and saved 120,000 yuan, all of it in the bank, earning pitifully low interest.",
+   "phrases": [
+    {
+     "en": "He had worked for five years and saved 120,000 yuan,",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
        "h": "工作",
        "py": "gōngzuò",
        "gl": "work; job",
-       "pos": "v."
+       "pos": "n."
       },
       {
        "h": "了",
@@ -32,9 +329,9 @@
        "pos": "particle"
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
        "pos": "num."
       },
       {
@@ -59,16 +356,16 @@
        "pos": "particle"
       },
       {
-       "h": "一些",
-       "py": "yìxiē",
-       "gl": "some; a few",
+       "h": "十二万",
+       "py": "shí'èr wàn",
+       "gl": "120,000",
        "pos": "num."
       },
       {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
+       "h": "块",
+       "py": "kuài",
+       "gl": "yuan; kuai (colloquial for money)",
+       "pos": "measure word"
       },
       {
        "h": "，"
@@ -76,7 +373,7 @@
      ]
     },
     {
-     "en": "which had been sitting in the bank earning very little interest.",
+     "en": "all of it in the bank, earning pitifully low interest.",
      "words": [
       {
        "h": "一直",
@@ -93,7 +390,7 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -118,15 +415,21 @@
        "pos": "n."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
        "h": "低",
        "py": "dī",
        "gl": "low",
+       "pos": "adj."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "可怜",
+       "py": "kělián",
+       "gl": "pitiful; poor",
        "pos": "adj."
       },
       {
@@ -137,127 +440,31 @@
    ]
   },
   {
-   "en": "He heard from a coworker that you could make money trading stocks, so he decided to give investing a try.",
+   "en": "That evening he downloaded a brokerage app and opened an account in twenty minutes.",
    "phrases": [
     {
-     "en": "He heard from a coworker that you could make money trading stocks,",
+     "en": "That evening he downloaded a brokerage app and opened an account in twenty minutes.",
      "words": [
       {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "听",
-       "py": "tīng",
-       "gl": "listen; hear",
-       "pos": "v."
-      },
-      {
-       "h": "同事",
-       "py": "tóngshì",
-       "gl": "colleague; coworker",
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
        "pos": "n."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "炒股",
-       "py": "chǎogǔ",
-       "gl": "trade stocks",
-       "pos": "v."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "赚钱",
-       "py": "zhuànqián",
-       "gl": "make money; earn money",
-       "pos": "v."
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so he decided to give investing in stocks a try.",
-     "words": [
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
-       "pos": "adv."
       },
-      {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like; think; miss",
-       "pos": "v."
-      },
-      {
-       "h": "试试",
-       "py": "shìshi",
-       "gl": "give it a try; try",
-       "pos": "v."
-      },
-      {
-       "h": "投资",
-       "py": "tóuzī",
-       "gl": "invest; investment",
-       "pos": "v."
-      },
-      {
-       "h": "股票",
-       "py": "gǔpiào",
-       "gl": "stock; share",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "He downloaded a brokerage's app on his phone and quickly opened an account.",
-   "phrases": [
-    {
-     "en": "He downloaded a brokerage's app on his phone",
-     "words": [
       {
        "h": "他",
        "py": "tā",
        "gl": "he; him",
        "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
       },
       {
        "h": "下载",
@@ -292,7 +499,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -303,22 +510,23 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and quickly opened an account.",
-     "words": [
+      },
       {
-       "h": "很快",
-       "py": "hěnkuài",
-       "gl": "quickly; soon",
-       "pos": "adv."
+       "h": "二十",
+       "py": "èrshí",
+       "gl": "twenty",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
       },
       {
        "h": "就",
        "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
@@ -330,8 +538,8 @@
       {
        "h": "好",
        "py": "hǎo",
-       "gl": "well (after a verb: 保护好 'protect well')",
-       "pos": "function word"
+       "gl": "good",
+       "pos": "adj."
       },
       {
        "h": "了",
@@ -340,9 +548,9 @@
        "pos": "particle"
       },
       {
-       "h": "账户",
-       "py": "zhànghù",
-       "gl": "(bank) account",
+       "h": "户",
+       "py": "hù",
+       "gl": "account (开户)",
        "pos": "n."
       },
       {
@@ -353,70 +561,22 @@
    ]
   },
   {
-   "en": "After opening the account, Xiao Zhang was so excited that he read loads of stock news and watched lots of videos, and nearly put all his savings in.",
+   "en": "He watched stock videos until two in the morning; everyone in them seemed to have doubled their money in a year.",
    "phrases": [
     {
-     "en": "After opening the account, Xiao Zhang was so excited that he read loads of stock news and watched lots of videos,",
+     "en": "He watched stock videos until two in the morning;",
      "words": [
       {
-       "h": "开户",
-       "py": "kāihù",
-       "gl": "open an account",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
        "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "小张",
-       "py": "Xiǎo Zhāng",
-       "gl": "Xiao Zhang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "兴奋",
-       "py": "xīngfèn",
-       "gl": "excited",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "查",
-       "py": "chá",
-       "gl": "check; look up (in a dictionary, online)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "关于",
-       "py": "guānyú",
-       "gl": "about; concerning; regarding",
-       "pos": "prep."
       },
       {
        "h": "股票",
@@ -425,28 +585,40 @@
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "新闻",
-       "py": "xīnwén",
-       "gl": "news",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
        "h": "视频",
        "py": "shìpín",
        "gl": "video; video call",
        "pos": "n."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "凌晨",
+       "py": "língchén",
+       "gl": "before dawn; early morning",
+       "pos": "n."
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock",
+       "pos": "measure word"
       },
       {
        "h": "，"
@@ -454,13 +626,61 @@
      ]
     },
     {
-     "en": "and nearly put all his savings in.",
+     "en": "everyone in them seemed to have doubled their money in a year.",
      "words": [
       {
-       "h": "差点",
-       "py": "chàdiǎn",
-       "gl": "almost; nearly (happened)",
+       "h": "里面",
+       "py": "lǐmiàn",
+       "gl": "inside",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "好像",
+       "py": "hǎoxiàng",
+       "gl": "seem; be like",
        "pos": "adv."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
        "h": "把",
@@ -469,10 +689,59 @@
        "pos": "prep."
       },
       {
-       "h": "存款",
-       "py": "cúnkuǎn",
-       "gl": "savings; deposit",
+       "h": "钱",
+       "py": "qián",
+       "gl": "money",
        "pos": "n."
+      },
+      {
+       "h": "翻",
+       "py": "fān",
+       "gl": "double; multiply (翻一倍); turn over",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一倍",
+       "py": "yíbèi",
+       "gl": "double; twice as much (increase of 100%)",
+       "pos": "num."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "He typed the whole 120,000 into the input box, and his finger stopped on the Confirm button.",
+   "phrases": [
+    {
+     "en": "He typed the whole 120,000 into the input box,",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "十二万",
+       "py": "shí'èr wàn",
+       "gl": "120,000",
+       "pos": "num."
       },
       {
        "h": "全部",
@@ -481,77 +750,72 @@
        "pos": "adv."
       },
       {
-       "h": "投",
-       "py": "tóu",
-       "gl": "invest; put in (money)",
+       "h": "填",
+       "py": "tián",
+       "gl": "fill in (a form)",
        "pos": "v."
       },
       {
-       "h": "进去",
-       "py": "jìnqù",
-       "gl": "(after a verb) in; into",
-       "pos": "function word"
+       "h": "进",
+       "py": "jìn",
+       "gl": "in (complement)",
+       "pos": "v."
       },
       {
-       "h": "。"
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "输入框",
+       "py": "shūrùkuàng",
+       "gl": "input box",
+       "pos": "n."
+      },
+      {
+       "h": "，"
       }
      ]
-    }
-   ]
-  },
-  {
-   "en": "He told his older sister about it.",
-   "phrases": [
+    },
     {
-     "en": "He told his older sister about it.",
+     "en": "and his finger stopped on the Confirm button.",
      "words": [
       {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
+       "h": "手指",
+       "py": "shǒuzhǐ",
+       "gl": "finger",
+       "pos": "n."
       },
       {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "h": "停",
+       "py": "tíng",
+       "gl": "stop; park",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this; these",
-       "pos": "pron."
-      },
-      {
-       "h": "件",
-       "py": "jiàn",
-       "gl": "measure word for clothing, matters, items",
-       "pos": "measure word"
-      },
-      {
-       "h": "事",
-       "py": "shì",
-       "gl": "matter; thing",
-       "pos": "n."
-      },
-      {
-       "h": "告诉",
-       "py": "gàosu",
-       "gl": "tell",
-       "pos": "v."
-      },
-      {
        "h": "了",
        "py": "le",
        "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "姐姐",
-       "py": "jiějie",
-       "gl": "older sister",
+       "h": "确认键",
+       "py": "quèrènjiàn",
+       "gl": "\"Confirm\" button",
        "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
        "h": "。"
@@ -561,67 +825,74 @@
    ]
   },
   {
-   "en": "When she heard, she was very worried and reminded him that investing is risky: stock prices go up and down, and nobody can guarantee you'll make money.",
+   "en": "Just then his sister called.",
    "phrases": [
     {
-     "en": "When she heard, she was very worried and reminded him that investing is risky:",
+     "en": "Just then his sister called.",
      "words": [
       {
-       "h": "姐姐",
-       "py": "jiějie",
-       "gl": "older sister",
-       "pos": "n."
-      },
-      {
-       "h": "听",
-       "py": "tīng",
-       "gl": "listen; hear",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "postposition"
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "担心",
-       "py": "dānxīn",
-       "gl": "worry",
-       "pos": "v."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "这时",
+       "py": "zhèshí",
+       "gl": "at this moment; at that time",
+       "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
+       "h": "姐姐",
+       "py": "jiějie",
+       "gl": "older sister",
+       "pos": "n."
+      },
+      {
+       "h": "打来",
+       "py": "dǎlái",
+       "gl": "call (on the phone); phone in",
        "pos": "v."
       },
       {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "投资",
-       "py": "tóuzī",
-       "gl": "invest; investment",
-       "pos": "v."
+       "h": "电话",
+       "py": "diànhuà",
+       "gl": "phone; phone call",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "His sister was an accountant; when he'd finished, she was silent for a long time, then asked just one thing: \"If it drops twenty percent tomorrow, will you still be able to sleep?\"",
+   "phrases": [
+    {
+     "en": "His sister was an accountant; when he'd finished, she was silent for a long time,",
+     "words": [
+      {
+       "h": "姐姐",
+       "py": "jiějie",
+       "gl": "older sister",
+       "pos": "n."
       },
       {
        "h": "是",
@@ -630,22 +901,64 @@
        "pos": "v."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "风险",
-       "py": "fēngxiǎn",
-       "gl": "risk",
+       "h": "会计",
+       "py": "kuàijì",
+       "gl": "accountant",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "h": "，"
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "沉默",
+       "py": "chénmò",
+       "gl": "be silent; silence",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "久",
+       "py": "jiǔ",
+       "gl": "long (time); for a long time",
+       "pos": "adj."
       },
       {
        "h": "，"
@@ -653,8 +966,208 @@
      ]
     },
     {
-     "en": "stock prices go up and down, and nobody can guarantee you'll make money.",
+     "en": "then asked just one thing: \"If it drops twenty percent tomorrow, will you still be able to sleep?\"",
      "words": [
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
+       "pos": "adv."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "要是",
+       "py": "yàoshì",
+       "gl": "if",
+       "pos": "conj."
+      },
+      {
+       "h": "明天",
+       "py": "míngtiān",
+       "gl": "tomorrow",
+       "pos": "n."
+      },
+      {
+       "h": "跌",
+       "py": "diē",
+       "gl": "fall; drop",
+       "pos": "v."
+      },
+      {
+       "h": "百分之二十",
+       "py": "bǎifēnzhīèrshí",
+       "gl": "twenty percent",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "睡",
+       "py": "shuì",
+       "gl": "sleep",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Zhang didn't answer, and took his finger off the Confirm button.",
+   "phrases": [
+    {
+     "en": "Xiao Zhang didn't answer, and took his finger off the Confirm button.",
+     "words": [
+      {
+       "h": "小张",
+       "py": "Xiǎo Zhāng",
+       "gl": "Xiao Zhang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "回答",
+       "py": "huídá",
+       "gl": "answer; reply",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "手指",
+       "py": "shǒuzhǐ",
+       "gl": "finger",
+       "pos": "n."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "确认键",
+       "py": "quèrènjiàn",
+       "gl": "\"Confirm\" button",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "away; open (complement)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Stock prices go up and down, and nobody can guarantee you'll make money,\" his sister said. \"Whatever you do, don't put all your savings into it, and never borrow money to trade stocks.\"",
+   "phrases": [
+    {
+     "en": "\"Stock prices go up and down, and nobody can guarantee you'll make money,\" his sister said.",
+     "words": [
+      {
+       "h": "“"
+      },
       {
        "h": "股价",
        "py": "gǔjià",
@@ -664,7 +1177,7 @@
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
@@ -676,7 +1189,7 @@
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
@@ -704,7 +1217,7 @@
        "h": "能",
        "py": "néng",
        "gl": "can; be able to",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "保证",
@@ -713,10 +1226,10 @@
        "pos": "v."
       },
       {
-       "h": "一定",
-       "py": "yídìng",
-       "gl": "definitely; surely; must",
-       "pos": "adv."
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
       },
       {
        "h": "赚钱",
@@ -725,23 +1238,16 @@
        "pos": "v."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "She said he must never put all his savings into the stock market, and he certainly shouldn't borrow money to trade stocks.",
-   "phrases": [
-    {
-     "en": "She said he must never put all his savings into the stock market,",
-     "words": [
+       "h": "，"
+      },
       {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
+       "h": "”"
+      },
+      {
+       "h": "姐姐",
+       "py": "jiějie",
+       "gl": "older sister",
+       "pos": "n."
       },
       {
        "h": "说",
@@ -750,28 +1256,33 @@
        "pos": "v."
       },
       {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "\"Whatever you do, don't put all your savings into it, and never borrow money to trade stocks.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
        "h": "千万",
        "py": "qiānwàn",
        "gl": "by all means; (with negative) never; whatever you do, don't",
        "pos": "adv."
       },
       {
-       "h": "不要",
-       "py": "bùyào",
-       "gl": "don't; must not",
-       "pos": "function word"
+       "h": "别",
+       "py": "bié",
+       "gl": "don't (prohibition); other",
+       "pos": "adv."
       },
       {
        "h": "把",
        "py": "bǎ",
        "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
        "pos": "prep."
-      },
-      {
-       "h": "所有",
-       "py": "suǒyǒu",
-       "gl": "all; every",
-       "pos": "adj."
       },
       {
        "h": "积蓄",
@@ -788,29 +1299,18 @@
       {
        "h": "投",
        "py": "tóu",
-       "gl": "invest; put in (money)",
+       "gl": "to invest",
        "pos": "v."
       },
       {
-       "h": "进",
-       "py": "jìn",
-       "gl": "into (写进 write into)",
+       "h": "进去",
+       "py": "jìnqù",
+       "gl": "(after a verb) in; into",
        "pos": "function word"
       },
       {
-       "h": "股市",
-       "py": "gǔshì",
-       "gl": "stock market",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and he certainly shouldn't borrow money to trade stocks.",
-     "words": [
+      },
       {
        "h": "更",
        "py": "gèng",
@@ -821,13 +1321,19 @@
        "h": "不能",
        "py": "bùnéng",
        "gl": "cannot; must not",
-       "pos": "function word"
+       "pos": "v."
       },
       {
-       "h": "借钱",
-       "py": "jièqián",
-       "gl": "borrow money",
+       "h": "借",
+       "py": "jiè",
+       "gl": "borrow; lend",
        "pos": "v."
+      },
+      {
+       "h": "钱",
+       "py": "qián",
+       "gl": "money",
+       "pos": "n."
       },
       {
        "h": "炒股",
@@ -837,29 +1343,20 @@
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "She suggested he start with a small amount of money and learn gradually about companies and the market.",
+   "en": "He deleted the number and typed in 10,000 instead; the rest stayed in the bank for emergencies.",
    "phrases": [
     {
-     "en": "She suggested he start with a small amount of money,",
+     "en": "He deleted the number and typed in 10,000 instead;",
      "words": [
-      {
-       "h": "姐姐",
-       "py": "jiějie",
-       "gl": "older sister",
-       "pos": "n."
-      },
-      {
-       "h": "建议",
-       "py": "jiànyì",
-       "gl": "suggest; advise; suggestion",
-       "pos": "v."
-      },
       {
        "h": "他",
        "py": "tā",
@@ -867,28 +1364,69 @@
        "pos": "pron."
       },
       {
-       "h": "先",
-       "py": "xiān",
-       "gl": "first; before",
-       "pos": "adv."
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
       },
       {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
+       "h": "数字",
+       "py": "shùzì",
+       "gl": "number; figure; digit",
+       "pos": "n."
+      },
+      {
+       "h": "删掉",
+       "py": "shāndiào",
+       "gl": "delete",
        "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
+       "h": "，"
+      },
+      {
+       "h": "重新",
+       "py": "chóngxīn",
+       "gl": "again; once more",
+       "pos": "adv."
+      },
+      {
+       "h": "填",
+       "py": "tián",
+       "gl": "fill in (a form)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一万",
+       "py": "yīwàn",
+       "gl": "ten thousand",
        "pos": "num."
       },
       {
-       "h": "小部分",
-       "py": "xiǎobùfèn",
-       "gl": "small part",
-       "pos": "n."
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "the rest stayed in the bank for emergencies.",
+     "words": [
+      {
+       "h": "剩下",
+       "py": "shèngxià",
+       "gl": "be left (over); remain",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "钱",
@@ -898,31 +1436,265 @@
       },
       {
        "h": "，"
+      },
+      {
+       "h": "留",
+       "py": "liú",
+       "gl": "stay; remain",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "银行",
+       "py": "yínháng",
+       "gl": "bank",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "应急",
+       "py": "yìngjí",
+       "gl": "for emergencies",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Only then did he start seriously learning about the stock market: China has the Shanghai Stock Exchange, the Shenzhen Stock Exchange, and the Beijing Stock Exchange, which specializes in innovative companies.",
+   "phrases": [
+    {
+     "en": "Only then did he start seriously learning about the stock market:",
+     "words": [
+      {
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
+       "pos": "adv."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "才",
+       "py": "cái",
+       "gl": "only then; not until",
+       "pos": "adv."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start; beginning",
+       "pos": "v."
+      },
+      {
+       "h": "认真",
+       "py": "rènzhēn",
+       "gl": "serious; conscientious; carefully",
+       "pos": "adv."
+      },
+      {
+       "h": "了解",
+       "py": "liǎojiě",
+       "gl": "get to know; understand",
+       "pos": "v."
+      },
+      {
+       "h": "股市",
+       "py": "gǔshì",
+       "gl": "stock market",
+       "pos": "n."
+      },
+      {
+       "h": "："
       }
      ]
     },
     {
-     "en": "and learn gradually about companies and the market.",
+     "en": "China has the Shanghai Stock Exchange, the Shenzhen Stock Exchange,",
      "words": [
       {
-       "h": "慢慢",
-       "py": "mànmàn",
-       "gl": "slowly; gradually",
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "上海证券交易所",
+       "py": "Shànghǎi Zhèngquàn Jiāoyìsuǒ",
+       "gl": "Shanghai Stock Exchange",
+       "pos": "proper noun"
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "深圳证券交易所",
+       "py": "Shēnzhèn Zhèngquàn Jiāoyìsuǒ",
+       "gl": "Shenzhen Stock Exchange",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and the Beijing Stock Exchange, which specializes in innovative companies.",
+     "words": [
+      {
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
+       "pos": "conj."
+      },
+      {
+       "h": "专门",
+       "py": "zhuānmén",
+       "gl": "specially; special; specialized",
        "pos": "adv."
       },
       {
-       "h": "学习",
-       "py": "xuéxí",
-       "gl": "study; learn",
+       "h": "服务",
+       "py": "fúwù",
+       "gl": "serve; service",
+       "pos": "n."
+      },
+      {
+       "h": "创新",
+       "py": "chuàngxīn",
+       "gl": "innovation; innovate",
+       "pos": "n."
+      },
+      {
+       "h": "企业",
+       "py": "qǐyè",
+       "gl": "enterprise; company; business",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "北京证券交易所",
+       "py": "Běijīng Zhèngquàn Jiāoyìsuǒ",
+       "gl": "Beijing Stock Exchange",
+       "pos": "proper noun"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The whole market is overseen by the China Securities Regulatory Commission, which sets the rules, checks whether listed companies are telling the truth, and protects investors.",
+   "phrases": [
+    {
+     "en": "The whole market is overseen by the China Securities Regulatory Commission,",
+     "words": [
+      {
+       "h": "管",
+       "py": "guǎn",
+       "gl": "manage; care about; look after",
        "pos": "v."
+      },
+      {
+       "h": "整个",
+       "py": "zhěnggè",
+       "gl": "whole; entire",
+       "pos": "adj."
+      },
+      {
+       "h": "股市",
+       "py": "gǔshì",
+       "gl": "stock market",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "证监会",
+       "py": "Zhèngjiānhuì",
+       "gl": "China Securities Regulatory Commission",
+       "pos": "proper noun"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "which sets the rules, checks whether listed companies are telling the truth, and protects investors.",
+     "words": [
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
+       "h": "定",
+       "py": "dìng",
+       "gl": "set; fix (a time)",
+       "pos": "v."
+      },
+      {
+       "h": "规则",
+       "py": "guīzé",
+       "gl": "rule",
+       "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "了解",
-       "py": "liǎojiě",
-       "gl": "know; understand; get to know",
+       "h": "查",
+       "py": "chá",
+       "gl": "check; look up (in a dictionary, online)",
+       "pos": "v."
+      },
+      {
+       "h": "上市",
+       "py": "shàngshì",
+       "gl": "go public (on the stock market); come on the market",
        "pos": "v."
       },
       {
@@ -932,741 +1704,15 @@
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "市场",
-       "py": "shìchǎng",
-       "gl": "market",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Xiao Zhang thought his sister had a point.",
-   "phrases": [
-    {
-     "en": "Xiao Zhang thought his sister had a point.",
-     "words": [
-      {
-       "h": "小张",
-       "py": "Xiǎo Zhāng",
-       "gl": "Xiao Zhang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "姐姐",
-       "py": "jiějie",
-       "gl": "older sister",
-       "pos": "n."
-      },
-      {
        "h": "说",
        "py": "shuō",
        "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
-       "pos": "particle"
-      },
-      {
-       "h": "有道理",
-       "py": "yǒudàolǐ",
-       "gl": "make sense; reasonable",
-       "pos": "phrase"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "He decided to invest just a small amount at first, keep most of his money for emergencies, and learn as he went.",
-   "phrases": [
-    {
-     "en": "He decided to invest just a small amount at first, keeping most of his money for emergencies,",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "决定",
-       "py": "juédìng",
-       "gl": "decide; decision",
-       "pos": "v."
-      },
-      {
-       "h": "先",
-       "py": "xiān",
-       "gl": "first; before",
-       "pos": "adv."
-      },
-      {
-       "h": "投入",
-       "py": "tóurù",
-       "gl": "put in; invest",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "小部分",
-       "py": "xiǎobùfèn",
-       "gl": "small part",
-       "pos": "n."
-      },
-      {
-       "h": "资金",
-       "py": "zījīn",
-       "gl": "funds; capital",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "大部分",
-       "py": "dàbùfèn",
-       "gl": "most; the greater part",
-       "pos": "n."
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "留着",
-       "py": "liúzhe",
-       "gl": "keep; save",
-       "pos": "v."
-      },
-      {
-       "h": "应急",
-       "py": "yìngjí",
-       "gl": "for emergencies; meet an emergency",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and learn as he invested.",
-     "words": [
-      {
-       "h": "一边",
-       "py": "yìbiān",
-       "gl": "at the same time (一边…一边… doing two things at once)",
-       "pos": "conj."
-      },
-      {
-       "h": "投资",
-       "py": "tóuzī",
-       "gl": "invest; investment",
-       "pos": "v."
-      },
-      {
-       "h": "一边",
-       "py": "yìbiān",
-       "gl": "at the same time (一边…一边… doing two things at once)",
-       "pos": "conj."
-      },
-      {
-       "h": "学习",
-       "py": "xuéxí",
-       "gl": "study; learn",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "More and more young people, like Xiao Zhang, want to boost their income through investing, because many worry their pensions won't be enough.",
-   "phrases": [
-    {
-     "en": "More and more young people, like Xiao Zhang, want to boost their income through investing, because many worry their pensions won't be enough.",
-     "words": [
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "prep."
-      },
-      {
-       "h": "小张",
-       "py": "xiǎozhāng",
-       "gl": "Xiao Zhang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "一样",
-       "py": "yīyàng",
-       "gl": "like; the same as (跟…一样 just like)",
-       "pos": "adv."
-      },
-      {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like",
-       "pos": "v."
-      },
-      {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "投资",
-       "py": "tóuzī",
-       "gl": "invest; investment",
-       "pos": "v."
-      },
-      {
-       "h": "增加",
-       "py": "zēngjiā",
-       "gl": "increase; raise",
-       "pos": "v."
-      },
-      {
-       "h": "收入",
-       "py": "shōurù",
-       "gl": "income",
-       "pos": "n."
-      },
-      {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "年轻人",
-       "py": "niánqīngrén",
-       "gl": "young people",
-       "pos": "n."
-      },
-      {
-       "h": "越来越多",
-       "py": "yuèláiyuèduō",
-       "gl": "more and more",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because",
-       "pos": "conj."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "people; others",
-       "pos": "n."
-      },
-      {
-       "h": "担心",
-       "py": "dānxīn",
-       "gl": "worry",
-       "pos": "v."
-      },
-      {
-       "h": "养老金",
-       "py": "yǎnglǎojīn",
-       "gl": "pension",
-       "pos": "n."
-      },
-      {
-       "h": "不够用",
-       "py": "bùgòuyòng",
-       "gl": "not enough",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "China has recently been phasing in a later retirement age, which has made more people realize that living on a pension alone isn't easy.",
-   "phrases": [
-    {
-     "en": "China has recently been phasing in a later retirement age, which has made more people realize that living on a pension alone isn't easy.",
-     "words": [
-      {
-       "h": "最近",
-       "py": "zuìjìn",
-       "gl": "recently; lately",
-       "pos": "adv."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "逐步",
-       "py": "zhúbù",
-       "gl": "gradually; step by step",
-       "pos": "adv."
-      },
-      {
-       "h": "推行",
-       "py": "tuīxíng",
-       "gl": "implement; promote (a policy)",
-       "pos": "v."
-      },
-      {
-       "h": "延迟",
-       "py": "yánchí",
-       "gl": "delay; postpone; raise gradually (retirement age)",
-       "pos": "v."
-      },
-      {
-       "h": "退休",
-       "py": "tuìxiū",
-       "gl": "retire; retirement",
-       "pos": "v."
-      },
-      {
-       "h": "政策",
-       "py": "zhèngcè",
-       "gl": "policy",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "更多",
-       "py": "gèngduō",
-       "gl": "more; even more",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "people; others",
-       "pos": "n."
-      },
-      {
-       "h": "意识到",
-       "py": "yìshídào",
-       "gl": "realize; become aware of",
-       "pos": "v."
-      },
-      {
-       "h": "仅",
-       "py": "jǐn",
-       "gl": "only; merely",
-       "pos": "adv."
-      },
-      {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "退休金",
-       "py": "tuìxiūjīn",
-       "gl": "pension",
-       "pos": "n."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life; live",
-       "pos": "v."
-      },
-      {
-       "h": "并不",
-       "py": "bìngbù",
-       "gl": "not at all; by no means",
-       "pos": "adv."
-      },
-      {
-       "h": "容易",
-       "py": "róngyì",
-       "gl": "easy; be prone to; likely to",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "China's policy of raising the retirement age officially took effect on January 1, 2025: over fifteen years, the retirement age for men will gradually rise from 60 to 63, and the age for women will rise accordingly.",
-   "phrases": [
-    {
-     "en": "China's policy of raising the retirement age officially took effect on January 1, 2025;",
-     "words": [
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "延迟退休",
-       "py": "yánchítuìxiū",
-       "gl": "delayed retirement",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "政策",
-       "py": "zhèngcè",
-       "gl": "policy",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "ever (with 不/没: 从没 never)",
-       "pos": "prep."
-      },
-      {
-       "h": "二零二五",
-       "py": "èrlíngèrwǔ",
-       "gl": "two zero two five (2025)",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
-       "pos": "measure word"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "日",
-       "py": "rì",
-       "gl": "day; per day",
-       "pos": "n."
-      },
-      {
-       "h": "起",
-       "py": "qǐ",
-       "gl": "(从…起) starting from",
-       "pos": "prep."
-      },
-      {
-       "h": "正式",
-       "py": "zhèngshì",
-       "gl": "officially",
-       "pos": "adv."
-      },
-      {
-       "h": "实施",
-       "py": "shíshī",
-       "gl": "implement; put into effect",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "over fifteen years, the retirement age for men will gradually rise from 60 to 63,",
-     "words": [
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "prep."
-      },
-      {
-       "h": "十五",
-       "py": "shíwǔ",
-       "gl": "fifteen",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "逐步",
-       "py": "zhúbù",
-       "gl": "gradually; step by step",
-       "pos": "adv."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "男",
-       "py": "nán",
-       "gl": "male",
-       "pos": "adj."
-      },
-      {
-       "h": "职工",
-       "py": "zhígōng",
-       "gl": "employee; worker",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "退休年龄",
-       "py": "tuìxiūniánlíng",
-       "gl": "retirement age",
-       "pos": "n."
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "六十",
-       "py": "liùshí",
-       "gl": "sixty",
-       "pos": "num."
-      },
-      {
-       "h": "岁",
-       "py": "suì",
-       "gl": "year (of age): years old",
-       "pos": "measure word"
-      },
-      {
-       "h": "提高",
-       "py": "tígāo",
-       "gl": "raise; improve",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
-       "pos": "v."
-      },
-      {
-       "h": "六十三",
-       "py": "liùshísān",
-       "gl": "sixty-three",
-       "pos": "num."
-      },
-      {
-       "h": "岁",
-       "py": "suì",
-       "gl": "year (of age): years old",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the retirement age for women will rise accordingly.",
-     "words": [
-      {
-       "h": "女",
-       "py": "nǚ",
-       "gl": "female; woman",
-       "pos": "adj."
-      },
-      {
-       "h": "职工",
-       "py": "zhígōng",
-       "gl": "employee; worker",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "退休年龄",
-       "py": "tuìxiūniánlíng",
-       "gl": "retirement age",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "相应",
-       "py": "xiāngyìng",
-       "gl": "corresponding; accordingly",
-       "pos": "adv."
-      },
-      {
-       "h": "提高",
-       "py": "tígāo",
-       "gl": "raise; improve",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The policy is gradual: the age goes up by only a few months each year rather than in one big jump, so that everyone has plenty of time to adjust.",
-   "phrases": [
-    {
-     "en": "The policy is phased in gradually:",
-     "words": [
-      {
-       "h": "这项",
-       "py": "zhèxiàng",
-       "gl": "this (item, policy, project)",
-       "pos": "pron."
-      },
-      {
-       "h": "政策",
-       "py": "zhèngcè",
-       "gl": "policy",
-       "pos": "n."
-      },
-      {
-       "h": "采取",
-       "py": "cǎiqǔ",
-       "gl": "adopt; take (measures)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -1674,83 +1720,6 @@
        "py": "shì",
        "gl": "be (is; am; are)",
        "pos": "v."
-      },
-      {
-       "h": "渐进式",
-       "py": "jiànjìnshì",
-       "gl": "gradual; step-by-step",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the age goes up by only a few months each year rather than in one big jump,",
-     "words": [
-      {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
-       "pos": "pron."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "延迟",
-       "py": "yánchí",
-       "gl": "delay; postpone; raise gradually (retirement age)",
-       "pos": "v."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but",
-       "pos": "conj."
       },
       {
        "h": "不",
@@ -1765,600 +1734,19 @@
        "pos": "v."
       },
       {
-       "h": "一次性",
-       "py": "yícìxìng",
-       "gl": "in one go; all at once",
-       "pos": "adj."
-      },
-      {
-       "h": "大幅",
-       "py": "dàfú",
-       "gl": "substantially; sharply",
-       "pos": "adv."
-      },
-      {
-       "h": "调整",
-       "py": "tiáozhěng",
-       "gl": "adjust; tune",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so that everyone has plenty of time to adjust.",
-     "words": [
-      {
-       "h": "目的",
-       "py": "mùdì",
-       "gl": "purpose; goal",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "充分",
-       "py": "chōngfèn",
-       "gl": "full; sufficient",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go (to do something)",
-       "pos": "v."
-      },
-      {
-       "h": "适应",
-       "py": "shìyìng",
-       "gl": "adapt; get used to",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Many of Xiao Zhang's friends his age had started talking about retirement and old age too, which made him feel that besides working hard, he really ought to learn something about managing money.",
-   "phrases": [
-    {
-     "en": "Many of Xiao Zhang's friends his age had started talking about retirement and old age too,",
-     "words": [
-      {
-       "h": "小张",
-       "py": "xiǎozhāng",
-       "gl": "Xiao Zhang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "身边",
-       "py": "shēnbiān",
-       "gl": "by one's side; nearby; around one; by one's side; nearby; at hand; by one's side",
-       "pos": "n."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "num."
-      },
-      {
-       "h": "同龄人",
-       "py": "tónglíngrén",
-       "gl": "peer; person of the same age",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "讨论",
-       "py": "tǎolùn",
-       "gl": "discuss; discussion",
-       "pos": "v."
-      },
-      {
-       "h": "退休",
-       "py": "tuìxiū",
-       "gl": "retire; retirement",
-       "pos": "v."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "养老",
-       "py": "yǎnglǎo",
-       "gl": "provide for the elderly; retirement",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem; trouble",
+       "h": "真话",
+       "py": "zhēnhuà",
+       "gl": "truth",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which made him feel",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
       },
       {
        "h": "也",
        "py": "yě",
        "gl": "also; too",
        "pos": "adv."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that besides working hard, he really ought to learn something about managing money.",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "努力",
-       "py": "nǔlì",
-       "gl": "work hard; try hard; effort",
-       "pos": "adv."
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "确实",
-       "py": "quèshí",
-       "gl": "indeed; really",
-       "pos": "adv."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "应该",
-       "py": "yīnggāi",
-       "gl": "should; ought to; probably",
-       "pos": "v."
-      },
-      {
-       "h": "学",
-       "py": "xué",
-       "gl": "study; learn",
-       "pos": "v."
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "num."
-      },
-      {
-       "h": "理财",
-       "py": "lǐcái",
-       "gl": "manage finances; personal finance",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "知识",
-       "py": "zhīshí",
-       "gl": "knowledge",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "He made a point of learning about China's stock market: there are two main exchanges, the Shanghai Stock Exchange and the Shenzhen Stock Exchange, plus the Beijing Stock Exchange, which specifically serves innovative tech companies.",
-   "phrases": [
-    {
-     "en": "He made a point of learning about China's stock market:",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go (to do something)",
-       "pos": "v."
-      },
-      {
-       "h": "了解",
-       "py": "liǎojiě",
-       "gl": "know; understand; get to know",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一下",
-       "py": "yīxià",
-       "gl": "a bit; briefly (after a verb: do something a little)",
-       "pos": "adv."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "股票市场",
-       "py": "gǔpiàoshìchǎng",
-       "gl": "stock market",
-       "pos": "n."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "right now the main ones are the Shanghai Stock Exchange and the Shenzhen Stock Exchange,",
-     "words": [
-      {
-       "h": "目前",
-       "py": "mùqián",
-       "gl": "currently; at present",
-       "pos": "adv."
-      },
-      {
-       "h": "主要",
-       "py": "zhǔyào",
-       "gl": "main; mainly",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "上海证券交易所",
-       "py": "shànghǎizhèngquànjiāoyìsuǒ",
-       "gl": "Shanghai Stock Exchange",
-       "pos": "proper noun"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "深圳证券交易所",
-       "py": "shēnzhènzhèngquànjiāoyìsuǒ",
-       "gl": "Shenzhen Stock Exchange",
-       "pos": "proper noun"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "plus the Beijing Stock Exchange, which specifically serves innovative tech companies.",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "v."
-      },
-      {
-       "h": "科技创新",
-       "py": "kējìchuàngxīn",
-       "gl": "technological innovation",
-       "pos": "n."
-      },
-      {
-       "h": "企业",
-       "py": "qǐyè",
-       "gl": "enterprise; company; business",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "北京证券交易所",
-       "py": "běijīngzhèngquànjiāoyìsuǒ",
-       "gl": "Beijing Stock Exchange",
-       "pos": "proper noun"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The body that regulates the whole stock market is the China Securities Regulatory Commission (CSRC); its job is to make the rules, oversee listed companies' disclosure of information, and protect investors' legal rights.",
-   "phrases": [
-    {
-     "en": "The body that regulates the whole stock market is the China Securities Regulatory Commission (CSRC);",
-     "words": [
-      {
-       "h": "负责",
-       "py": "fùzé",
-       "gl": "be responsible for; be in charge of",
-       "pos": "v."
-      },
-      {
-       "h": "监管",
-       "py": "jiānguǎn",
-       "gl": "supervise; regulate; regulatory",
-       "pos": "v."
-      },
-      {
-       "h": "整个",
-       "py": "zhěnggè",
-       "gl": "whole; entire",
-       "pos": "pron."
-      },
-      {
-       "h": "股票市场",
-       "py": "gǔpiàoshìchǎng",
-       "gl": "stock market",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "机构",
-       "py": "jīgòu",
-       "gl": "agency; organization; institution",
-       "pos": "n."
-      },
-      {
-       "h": "叫",
-       "py": "jiào",
-       "gl": "be called",
-       "pos": "v."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "证监会",
-       "py": "zhèngjiānhuì",
-       "gl": "China Securities Regulatory Commission (CSRC)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "its job is to make the rules, oversee listed companies' disclosure of information,",
-     "words": [
-      {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "职责",
-       "py": "zhízé",
-       "gl": "duty; responsibility",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "制定",
-       "py": "zhìdìng",
-       "gl": "draw up; formulate (a plan)",
-       "pos": "v."
-      },
-      {
-       "h": "规则",
-       "py": "guīzé",
-       "gl": "rule",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "监督",
-       "py": "jiāndū",
-       "gl": "supervise; supervision",
-       "pos": "v."
-      },
-      {
-       "h": "上市公司",
-       "py": "shàngshìgōngsī",
-       "gl": "listed company; publicly traded company",
-       "pos": "n."
-      },
-      {
-       "h": "信息披露",
-       "py": "xìnxīpīlù",
-       "gl": "information disclosure",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and protect investors' legal rights.",
-     "words": [
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "conj."
       },
       {
        "h": "保护",
@@ -2373,24 +1761,6 @@
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "合法",
-       "py": "héfǎ",
-       "gl": "legal; lawful",
-       "pos": "adj."
-      },
-      {
-       "h": "权益",
-       "py": "quányì",
-       "gl": "rights and interests",
-       "pos": "n."
-      },
-      {
        "h": "。"
       }
      ]
@@ -2398,77 +1768,15 @@
    ]
   },
   {
-   "en": "Xiao Zhang also learned that in recent years China has introduced a registration-based IPO system, making it easier and more transparent for qualifying companies to go public, but that doesn't mean the risk is any lower.",
+   "en": "Since the registration-based IPO reform, listing has become easier and more transparent for companies, but that doesn't mean the risks are smaller.",
    "phrases": [
     {
-     "en": "Xiao Zhang also learned",
+     "en": "Since the registration-based IPO reform, listing has become easier and more transparent for companies,",
      "words": [
-      {
-       "h": "小张",
-       "py": "xiǎozhāng",
-       "gl": "Xiao Zhang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "了解",
-       "py": "liǎojiě",
-       "gl": "know; understand; get to know",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that in recent years China has introduced a registration-based IPO system,",
-     "words": [
-      {
-       "h": "近些年",
-       "py": "jìnxiēnián",
-       "gl": "in recent years",
-       "pos": "adv."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "推行",
-       "py": "tuīxíng",
-       "gl": "implement; promote (a policy)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "股票发行",
-       "py": "gǔpiàofāxíng",
-       "gl": "stock issuance",
-       "pos": "n."
-      },
       {
        "h": "注册制",
        "py": "zhùcèzhì",
-       "gl": "registration-based system (for stock listings)",
+       "gl": "registration-based system (for IPOs)",
        "pos": "n."
       },
       {
@@ -2478,36 +1786,13 @@
        "pos": "n."
       },
       {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "making it easier and more transparent for qualifying companies to go public,",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "符合",
-       "py": "fúhé",
-       "gl": "match; conform to; meet",
-       "pos": "v."
-      },
-      {
-       "h": "条件",
-       "py": "tiáojiàn",
-       "gl": "conditions",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
       },
       {
        "h": "企业",
@@ -2522,15 +1807,9 @@
        "pos": "v."
       },
       {
-       "h": "变得",
-       "py": "biàndé",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "更加",
-       "py": "gèngjiā",
-       "gl": "even more",
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
        "pos": "adv."
       },
       {
@@ -2540,10 +1819,13 @@
        "pos": "adj."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
+       "h": "、"
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
       },
       {
        "h": "透明",
@@ -2552,17 +1834,23 @@
        "pos": "adj."
       },
       {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "but that doesn't mean the risk is any lower.",
+     "en": "but that doesn't mean the risks are smaller.",
      "words": [
       {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
        "pos": "conj."
       },
       {
@@ -2572,21 +1860,15 @@
        "pos": "pron."
       },
       {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "adv."
-      },
-      {
        "h": "不",
        "py": "bù",
        "gl": "not; no",
        "pos": "adv."
       },
       {
-       "h": "意味着",
-       "py": "yìwèizhe",
-       "gl": "mean; signify; imply",
+       "h": "等于",
+       "py": "děngyú",
+       "gl": "equal; amount to",
        "pos": "v."
       },
       {
@@ -2621,72 +1903,22 @@
    ]
   },
   {
-   "en": "According to data from China Securities Depository and Clearing, by the end of 2024 there were more than 230 million investors in A-shares (stocks listed in mainland China), and the number keeps growing.",
+   "en": "By the end of 2024, A-share investors numbered more than 230 million.",
    "phrases": [
     {
-     "en": "According to data from China Securities Depository and Clearing,",
-     "words": [
-      {
-       "h": "根据",
-       "py": "gēnjù",
-       "gl": "according to; based on",
-       "pos": "prep."
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "结算",
-       "py": "jiésuàn",
-       "gl": "China Clearing (中国结算, securities depository)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "公布",
-       "py": "gōngbù",
-       "gl": "announce; publish; make public",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "数据",
-       "py": "shùjù",
-       "gl": "data",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "by the end of 2024 there were more than 230 million investors in A-shares (stocks listed in mainland China),",
+     "en": "By the end of 2024, A-share investors numbered more than 230 million.",
      "words": [
       {
        "h": "到",
        "py": "dào",
-       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
-       "pos": "v."
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
       },
       {
-       "h": "二零二四",
-       "py": "èrlíngèrsì",
-       "gl": "2024 (year)",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
+       "h": "二零二四年",
+       "py": "èr líng èr sì nián",
+       "gl": "(the year) 2024",
+       "pos": "n."
       },
       {
        "h": "底",
@@ -2698,24 +1930,21 @@
        "h": "，"
       },
       {
-       "h": "A"
+       "h": "A股",
+       "py": "A gǔ",
+       "gl": "A-shares (mainland-listed stocks)",
+       "pos": "n."
       },
       {
-       "h": "股",
-       "py": "gǔ",
-       "gl": "stock; share",
-       "pos": "n."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "投资者",
        "py": "tóuzīzhě",
        "gl": "investor",
-       "pos": "n."
-      },
-      {
-       "h": "数量",
-       "py": "shùliàng",
-       "gl": "quantity; number",
        "pos": "n."
       },
       {
@@ -2731,54 +1960,16 @@
        "pos": "v."
       },
       {
-       "h": "两亿三千万",
-       "py": "liǎngyìsānqiānwàn",
-       "gl": "two hundred thirty million",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "二亿三千万",
+       "py": "èryì sānqiān wàn",
+       "gl": "230 million",
        "pos": "num."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the number keeps growing.",
-     "words": [
-      {
-       "h": "这个",
-       "py": "zhège",
-       "gl": "this; this one",
-       "pos": "pron."
-      },
-      {
-       "h": "数字",
-       "py": "shùzì",
-       "gl": "number; figure; digit",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "增长",
-       "py": "zēngzhǎng",
-       "gl": "grow; increase; growth",
-       "pos": "v."
       },
       {
        "h": "。"
@@ -2788,21 +1979,21 @@
    ]
   },
   {
-   "en": "Xiao Zhang figured that with so many people investing in stocks, it must have become one of the main ways ordinary people manage their money, but more people taking part doesn't mean making money gets any easier.",
+   "en": "Xiao Zhang thought: with so many people buying, making money hasn't become any easier.",
    "phrases": [
     {
-     "en": "Xiao Zhang figured that with so many people investing in stocks,",
+     "en": "Xiao Zhang thought: with so many people buying, making money hasn't become any easier.",
      "words": [
       {
        "h": "小张",
-       "py": "xiǎozhāng",
+       "py": "Xiǎo Zhāng",
        "gl": "Xiao Zhang",
        "pos": "proper noun"
       },
       {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
        "pos": "v."
       },
       {
@@ -2827,155 +2018,25 @@
        "pos": "n."
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "参与",
-       "py": "cānyù",
-       "gl": "take part in; participate",
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
        "pos": "v."
-      },
-      {
-       "h": "股票投资",
-       "py": "gǔpiàotóuzī",
-       "gl": "stock investment",
-       "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it must have become one of the main ways ordinary people manage their money,",
-     "words": [
-      {
-       "h": "说明",
-       "py": "shuōmíng",
-       "gl": "show; explain; indicate",
-       "pos": "v."
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "成了",
-       "py": "chéngle",
-       "gl": "became; turned into",
-       "pos": "v."
-      },
-      {
-       "h": "普通人",
-       "py": "pǔtōngrén",
-       "gl": "ordinary person",
-       "pos": "n."
-      },
-      {
-       "h": "理财",
-       "py": "lǐcái",
-       "gl": "manage finances; personal finance",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      },
-      {
-       "h": "之一",
-       "py": "zhīyī",
-       "gl": "one of (最…之一 'one of the most …')",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but more people taking part doesn't mean making money gets any easier.",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
        "pos": "conj."
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "参与",
-       "py": "cānyù",
-       "gl": "take part in; participate",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "代表",
-       "py": "dàibiǎo",
-       "gl": "represent; on behalf of; stand for",
-       "pos": "v."
       },
       {
        "h": "赚钱",
@@ -2984,22 +2045,34 @@
        "pos": "v."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "变得",
-       "py": "biàndé",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
+       "h": "并",
+       "py": "bìng",
+       "gl": "(before a negative) not at all",
        "pos": "adv."
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "因此",
+       "py": "yīncǐ",
+       "gl": "because of this; therefore",
+       "pos": "conj."
+      },
+      {
+       "h": "变",
+       "py": "biàn",
+       "gl": "become; turn",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
       },
       {
        "h": "容易",
@@ -3015,10 +2088,233 @@
    ]
   },
   {
-   "en": "His sister told him that before buying a stock, it's best to look at the company's fundamentals: what business it's in, whether it has made money in recent years, and whether it has a lot of debt.",
+   "en": "The stock he bought rose eight percent a week later, and two weeks after that it fell twelve percent.",
    "phrases": [
     {
-     "en": "His sister told him that before buying a stock, it's best to look at the company's fundamentals,",
+     "en": "The stock he bought rose eight percent a week later,",
+     "words": [
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "只",
+       "py": "zhī",
+       "gl": "(measure word for animals, one of a pair)",
+       "pos": "measure word"
+      },
+      {
+       "h": "股票",
+       "py": "gǔpiào",
+       "gl": "stock; share",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "周",
+       "py": "zhōu",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "后",
+       "py": "hòu",
+       "gl": "after; later; behind",
+       "pos": "postposition"
+      },
+      {
+       "h": "涨",
+       "py": "zhǎng",
+       "gl": "rise (of prices, wages); go up",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "百分之八",
+       "py": "bǎi fēn zhī bā",
+       "gl": "eight percent",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and two weeks after that it fell twelve percent.",
+     "words": [
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "周",
+       "py": "zhōu",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "跌",
+       "py": "diē",
+       "gl": "fall; drop",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "百分之十二",
+       "py": "bǎi fēn zhī shí'èr",
+       "gl": "twelve percent",
+       "pos": "num."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the pantry, Lao Ma never pulled out his phone again.",
+   "phrases": [
+    {
+     "en": "In the pantry, Lao Ma never pulled out his phone again.",
+     "words": [
+      {
+       "h": "茶水间",
+       "py": "cháshuǐjiān",
+       "gl": "office pantry",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "老马",
+       "py": "Lǎo Mǎ",
+       "gl": "Lao Ma",
+       "pos": "proper noun"
+      },
+      {
+       "h": "再",
+       "py": "zài",
+       "gl": "again; once more",
+       "pos": "adv."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "出",
+       "py": "chū",
+       "gl": "out (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "His sister taught him to look first at what a company actually does before buying, whether it has been profitable in recent years, and whether it has a lot of debt.",
+   "phrases": [
+    {
+     "en": "His sister taught him to look first at what a company actually does before buying,",
      "words": [
       {
        "h": "姐姐",
@@ -3027,9 +2323,9 @@
        "pos": "n."
       },
       {
-       "h": "告诉",
-       "py": "gàosù",
-       "gl": "tell",
+       "h": "教",
+       "py": "jiāo",
+       "gl": "teach",
        "pos": "v."
       },
       {
@@ -3048,28 +2344,10 @@
        "pos": "v."
       },
       {
-       "h": "股票",
-       "py": "gǔpiào",
-       "gl": "stock; share",
-       "pos": "n."
-      },
-      {
        "h": "之前",
        "py": "zhīqián",
        "gl": "before; prior to",
-       "pos": "n."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "well (after a verb: 保护好 'protect well')",
-       "pos": "adv."
+       "pos": "postposition"
       },
       {
        "h": "先",
@@ -3078,48 +2356,10 @@
        "pos": "adv."
       },
       {
-       "h": "看看",
-       "py": "kànkàn",
-       "gl": "have a look; take a look",
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
        "pos": "v."
-      },
-      {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "基本面",
-       "py": "jīběnmiàn",
-       "gl": "fundamentals (of a company)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "such as what business the company is in,",
-     "words": [
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
-      },
-      {
-       "h": "这家",
-       "py": "zhèjiā",
-       "gl": "this (company, shop, family)",
-       "pos": "num."
       },
       {
        "h": "公司",
@@ -3136,7 +2376,7 @@
       {
        "h": "做",
        "py": "zuò",
-       "gl": "do; make",
+       "gl": "do; make; be; work as",
        "pos": "v."
       },
       {
@@ -3146,15 +2386,9 @@
        "pos": "pron."
       },
       {
-       "h": "业务",
-       "py": "yèwù",
-       "gl": "business; services (e.g. banking)",
-       "pos": "n."
-      },
-      {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -3163,13 +2397,13 @@
      ]
     },
     {
-     "en": "whether it has made money in recent years, and whether it has a lot of debt.",
+     "en": "whether it has been profitable in recent years, and whether it has a lot of debt.",
      "words": [
       {
-       "h": "最近",
-       "py": "zuìjìn",
-       "gl": "recently; lately",
-       "pos": "adv."
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
       },
       {
        "h": "几",
@@ -3181,7 +2415,7 @@
        "h": "年",
        "py": "nián",
        "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
+       "pos": "n."
       },
       {
        "h": "赚",
@@ -3213,7 +2447,7 @@
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
@@ -3231,13 +2465,13 @@
       {
        "h": "多",
        "py": "duō",
-       "gl": "many; much",
+       "gl": "many; much; more than (after a number)",
        "pos": "adj."
       },
       {
-       "h": "债务",
-       "py": "zhàiwù",
-       "gl": "debt",
+       "h": "负债",
+       "py": "fùzhài",
+       "gl": "debts, liabilities",
        "pos": "n."
       },
       {
@@ -3248,60 +2482,30 @@
    ]
   },
   {
-   "en": "She also warned him not to blindly buy just because he saw other people showing off their gains online; often, by the time ordinary investors hear the news, the price has already shot up and the risk is actually higher.",
+   "en": "And not to buy just because others post screenshots of their gains; by the time ordinary people hear the news, the price has often already risen a long way.",
    "phrases": [
     {
-     "en": "She also warned him not to blindly buy just because he saw other people showing off their gains online;",
+     "en": "And not to buy just because others post screenshots of their gains;",
      "words": [
       {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
-       "pos": "v."
-      },
-      {
-       "h": "小张",
-       "py": "xiǎozhāng",
-       "gl": "Xiao Zhang",
-       "pos": "proper noun"
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
+       "pos": "conj."
       },
       {
        "h": "，"
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
+       "h": "别",
+       "py": "bié",
+       "gl": "don't (prohibition); other",
        "pos": "adv."
       },
       {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "看着",
-       "py": "kànzhe",
-       "gl": "look at; watching",
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
        "pos": "v."
       },
       {
@@ -3309,18 +2513,6 @@
        "py": "biérén",
        "gl": "other people; others",
        "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "网上",
-       "py": "wǎngshàng",
-       "gl": "online; on the internet",
-       "pos": "n."
       },
       {
        "h": "晒",
@@ -3335,22 +2527,22 @@
        "pos": "n."
       },
       {
+       "h": "截图",
+       "py": "jiétú",
+       "gl": "screenshot",
+       "pos": "n."
+      },
+      {
        "h": "就",
        "py": "jiù",
        "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "盲目",
-       "py": "mángmù",
-       "gl": "blindly",
-       "pos": "adv."
-      },
-      {
        "h": "跟着",
        "py": "gēnzhe",
        "gl": "follow; along with",
-       "pos": "v."
+       "pos": "prep."
       },
       {
        "h": "买",
@@ -3364,42 +2556,18 @@
      ]
     },
     {
-     "en": "often, by the time ordinary investors hear the news,",
+     "en": "by the time ordinary people hear the news, the price has often already risen a long way.",
      "words": [
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
       {
        "h": "等",
        "py": "děng",
-       "gl": "by the time; when",
-       "pos": "v."
+       "gl": "and so on; etc.",
+       "pos": "particle"
       },
       {
-       "h": "普通",
-       "py": "pǔtōng",
-       "gl": "ordinary; common",
-       "pos": "adj."
-      },
-      {
-       "h": "投资者",
-       "py": "tóuzīzhě",
-       "gl": "investor",
+       "h": "普通人",
+       "py": "pǔtōngrén",
+       "gl": "ordinary person",
        "pos": "n."
       },
       {
@@ -3415,30 +2583,19 @@
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the price has already shot up, and the risk is actually higher.",
-     "words": [
+      },
       {
        "h": "股价",
        "py": "gǔjià",
        "gl": "share price",
        "pos": "n."
+      },
+      {
+       "h": "往往",
+       "py": "wǎngwǎng",
+       "gl": "often; usually; tend to",
+       "pos": "adv."
       },
       {
        "h": "已经",
@@ -3465,33 +2622,6 @@
        "pos": "n."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "风险",
-       "py": "fēngxiǎn",
-       "gl": "risk",
-       "pos": "n."
-      },
-      {
-       "h": "反而",
-       "py": "fǎnér",
-       "gl": "instead; on the contrary",
-       "pos": "adv."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "高",
-       "py": "gāo",
-       "gl": "tall; high",
-       "pos": "adj."
-      },
-      {
        "h": "。"
       }
      ]
@@ -3499,22 +2629,16 @@
    ]
   },
   {
-   "en": "So Xiao Zhang started spending a little time every day reading financial news and gradually learned to understand some basic figures in company financial reports, such as revenue, net profit, and debt ratio.",
+   "en": "He started spending half an hour every evening on financial news, learning to read revenue, net profit, and liabilities in financial reports.",
    "phrases": [
     {
-     "en": "So Xiao Zhang started spending a little time every day reading financial news,",
+     "en": "He started spending half an hour every evening on financial news,",
      "words": [
       {
-       "h": "小张",
-       "py": "xiǎozhāng",
-       "gl": "Xiao Zhang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "于是",
-       "py": "yúshì",
-       "gl": "so; thereupon; then",
-       "pos": "conj."
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
        "h": "开始",
@@ -3523,33 +2647,39 @@
        "pos": "v."
       },
       {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
-       "pos": "pron."
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
+       "pos": "n."
       },
       {
-       "h": "天",
-       "py": "tiān",
-       "gl": "day",
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
        "pos": "n."
       },
       {
        "h": "花",
        "py": "huā",
-       "gl": "flower; spend (time, money)",
+       "gl": "spend (time, money); flower",
        "pos": "v."
       },
       {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; a bit",
-       "pos": "adv."
+       "h": "半",
+       "py": "bàn",
+       "gl": "half",
+       "pos": "num."
       },
       {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
        "pos": "n."
       },
       {
@@ -3559,9 +2689,15 @@
        "pos": "v."
       },
       {
-       "h": "财经新闻",
-       "py": "cáijīngxīnwén",
-       "gl": "financial news",
+       "h": "财经",
+       "py": "cáijīng",
+       "gl": "finance and economics",
+       "pos": "n."
+      },
+      {
+       "h": "新闻",
+       "py": "xīnwén",
+       "gl": "news",
        "pos": "n."
       },
       {
@@ -3570,37 +2706,19 @@
      ]
     },
     {
-     "en": "and gradually learned to understand some basic figures in company financial reports,",
+     "en": "learning to read revenue, net profit, and liabilities in financial reports.",
      "words": [
       {
-       "h": "慢慢",
-       "py": "mànmàn",
-       "gl": "slowly; gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "学",
-       "py": "xué",
-       "gl": "study; learn",
+       "h": "学着",
+       "py": "xuézhe",
+       "gl": "learning to; imitating",
        "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
       },
       {
        "h": "看懂",
        "py": "kàndǒng",
        "gl": "understand (by reading or watching)",
        "pos": "v."
-      },
-      {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company",
-       "pos": "n."
       },
       {
        "h": "财报",
@@ -3612,45 +2730,13 @@
        "h": "里",
        "py": "lǐ",
        "gl": "in; inside",
-       "pos": "n."
+       "pos": "postposition"
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "num."
-      },
-      {
-       "h": "基本",
-       "py": "jīběn",
-       "gl": "basic; basically",
-       "pos": "adj."
-      },
-      {
-       "h": "指标",
-       "py": "zhǐbiāo",
-       "gl": "indicator; index; target",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "such as revenue, net profit, and debt ratio.",
-     "words": [
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
       },
       {
        "h": "营业收入",
@@ -3670,13 +2756,13 @@
       {
        "h": "和",
        "py": "hé",
-       "gl": "and; with",
+       "gl": "and",
        "pos": "conj."
       },
       {
-       "h": "负债率",
-       "py": "fùzhàilǜ",
-       "gl": "debt ratio",
+       "h": "负债",
+       "py": "fùzhài",
+       "gl": "debts, liabilities",
        "pos": "n."
       },
       {
@@ -3687,10 +2773,10 @@
    ]
   },
   {
-   "en": "He found that the market's ups and downs depend not only on how the company itself is doing but also on the overall economy, government policy, and even world events.",
+   "en": "He found that stock prices depend not just on the company but on the whole economy, government policy, and even the international situation.",
    "phrases": [
     {
-     "en": "He found that the market's ups and downs depend not only on how the company itself is doing,",
+     "en": "He found that stock prices depend not just on the company",
      "words": [
       {
        "h": "他",
@@ -3701,28 +2787,16 @@
       {
        "h": "发现",
        "py": "fāxiàn",
-       "gl": "discover; find out; notice",
+       "gl": "discover; find out",
        "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "股票市场",
-       "py": "gǔpiàoshìchǎng",
-       "gl": "stock market",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "涨跌",
-       "py": "zhǎngdiē",
-       "gl": "rise and fall (of prices)",
+       "h": "股价",
+       "py": "gǔjià",
+       "gl": "share price",
        "pos": "n."
       },
       {
@@ -3732,9 +2806,9 @@
        "pos": "adv."
       },
       {
-       "h": "仅",
-       "py": "jǐn",
-       "gl": "only; merely",
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
        "pos": "adv."
       },
       {
@@ -3750,33 +2824,9 @@
        "pos": "n."
       },
       {
-       "h": "本身",
-       "py": "běnshēn",
-       "gl": "itself; in itself",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "经营情况",
-       "py": "jīngyíngqíngkuàng",
-       "gl": "business performance",
-       "pos": "n."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "关",
-       "py": "guān",
-       "gl": "be related (to) (跟…有关)",
+       "h": "有关",
+       "py": "yǒuguān",
+       "gl": "be related to; have to do with",
        "pos": "v."
       },
       {
@@ -3785,7 +2835,7 @@
      ]
     },
     {
-     "en": "but are also affected by the overall economy, government policy,",
+     "en": "but on the whole economy, government policy, and even the international situation.",
      "words": [
       {
        "h": "还",
@@ -3794,27 +2844,21 @@
        "pos": "adv."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
       },
       {
-       "h": "受到",
-       "py": "shòudào",
-       "gl": "receive; be subjected to",
-       "pos": "v."
-      },
-      {
-       "h": "整体",
-       "py": "zhěngtǐ",
-       "gl": "whole; overall",
+       "h": "整个",
+       "py": "zhěnggè",
+       "gl": "whole; entire",
        "pos": "adj."
       },
       {
-       "h": "经济形势",
-       "py": "jīngjìxíngshì",
-       "gl": "economic situation",
+       "h": "经济",
+       "py": "jīngjì",
+       "gl": "economy",
        "pos": "n."
       },
       {
@@ -3823,7 +2867,7 @@
       {
        "h": "国家",
        "py": "guójiā",
-       "gl": "country; state",
+       "gl": "state; country",
        "pos": "n."
       },
       {
@@ -3834,12 +2878,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and even world events.",
-     "words": [
+      },
       {
        "h": "甚至",
        "py": "shènzhì",
@@ -3847,22 +2886,22 @@
        "pos": "adv."
       },
       {
-       "h": "国际局势",
-       "py": "guójìjúshì",
-       "gl": "international situation",
+       "h": "国际",
+       "py": "guójì",
+       "gl": "international",
+       "pos": "adj."
+      },
+      {
+       "h": "形势",
+       "py": "xíngshì",
+       "gl": "situation",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "影响",
-       "py": "yǐngxiǎng",
-       "gl": "influence; affect",
-       "pos": "n."
+       "h": "有关",
+       "py": "yǒuguān",
+       "gl": "be related to; have to do with",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -3872,60 +2911,43 @@
    ]
   },
   {
-   "en": "After a few months, Xiao Zhang hadn't struck it rich, but he hadn't lost much money either, and he gradually realized that trading stocks is more like a long learning process that takes patience than a shortcut to getting rich quick.",
+   "en": "Six months passed; he hadn't struck it rich, and he hadn't lost much either.",
    "phrases": [
     {
-     "en": "After a few months,",
+     "en": "Six months passed; he hadn't struck it rich, and he hadn't lost much either.",
      "words": [
       {
-       "h": "几个",
-       "py": "jǐgè",
-       "gl": "a few; several",
+       "h": "半",
+       "py": "bàn",
+       "gl": "half",
        "pos": "num."
       },
       {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
        "pos": "measure word"
       },
       {
-       "h": "下来",
-       "py": "xiàlái",
-       "gl": "down (verb complement: 写下来 write down); over a period (几年下来 after several years)",
-       "pos": "function word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Xiao Zhang hadn't struck it rich, but he hadn't lost much money either,",
-     "words": [
-      {
-       "h": "小张",
-       "py": "xiǎozhāng",
-       "gl": "Xiao Zhang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "投资",
-       "py": "tóuzī",
-       "gl": "invest; investment",
+       "h": "过去",
+       "py": "guòqù",
+       "gl": "past; the past",
        "pos": "n."
       },
       {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
        "h": "没有",
@@ -3943,357 +2965,15 @@
        "h": "，"
       },
       {
-       "h": "但是",
-       "py": "dànshì",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
        "h": "也",
        "py": "yě",
        "gl": "also; too",
        "pos": "adv."
       },
       {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
-       "pos": "v."
-      },
-      {
-       "h": "亏",
-       "py": "kuī",
-       "gl": "lose (money); loss",
-       "pos": "v."
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and he gradually realized that trading stocks is more like a long learning process that takes patience,",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "渐渐",
-       "py": "jiànjiàn",
-       "gl": "gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "明白",
-       "py": "míngbái",
-       "gl": "understand; realize",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "炒股",
-       "py": "chǎogǔ",
-       "gl": "trade stocks",
-       "pos": "v."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "prep."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "一场",
-       "py": "yīcháng",
-       "gl": "a; one (measure word for events, performances, dreams)",
-       "pos": "measure word"
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "耐心",
-       "py": "nàixīn",
-       "gl": "patient; patience",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "长期",
-       "py": "chángqī",
-       "gl": "long-term",
-       "pos": "adj."
-      },
-      {
-       "h": "学习",
-       "py": "xuéxí",
-       "gl": "study; learn",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "rather than a shortcut to getting rich quick.",
-     "words": [
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but",
-       "pos": "conj."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "快速",
-       "py": "kuàisù",
-       "gl": "fast; rapid",
-       "pos": "adj."
-      },
-      {
-       "h": "致富",
-       "py": "zhìfù",
-       "gl": "get rich",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "捷径",
-       "py": "jiéjìng",
-       "gl": "shortcut",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "He also began to understand what his sister had said at the start: rather than dreaming about getting rich overnight, it's better to first figure out how not to lose your money for nothing.",
-   "phrases": [
-    {
-     "en": "He also began to understand what his sister had said at the start:",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "理解",
-       "py": "lǐjiě",
-       "gl": "understand; understanding",
-       "pos": "v."
-      },
-      {
-       "h": "姐姐",
-       "py": "jiějie",
-       "gl": "older sister",
-       "pos": "n."
-      },
-      {
-       "h": "当初",
-       "py": "dāngchū",
-       "gl": "at first; originally; back then",
-       "pos": "adv."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
-      },
-      {
-       "h": "句话",
-       "py": "jùhuà",
-       "gl": "sentence; phrase (as in 一句话)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "rather than dreaming about getting rich overnight,",
-     "words": [
-      {
-       "h": "与其",
-       "py": "yǔqí",
-       "gl": "rather than (与其…不如… 'rather than … better to …')",
-       "pos": "conj."
-      },
-      {
-       "h": "想着",
-       "py": "xiǎngzhe",
-       "gl": "think about",
-       "pos": "v."
-      },
-      {
-       "h": "怎么",
-       "py": "zěnme",
-       "gl": "how",
-       "pos": "pron."
-      },
-      {
-       "h": "一夜暴富",
-       "py": "yīyèbàofù",
-       "gl": "get rich overnight",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it's better to first figure out how not to lose your money for nothing.",
-     "words": [
-      {
-       "h": "不如",
-       "py": "bùrú",
-       "gl": "be not as good as; had better (与其…不如… 'rather than … better to')",
-       "pos": "conj."
-      },
-      {
-       "h": "先",
-       "py": "xiān",
-       "gl": "first; before",
-       "pos": "adv."
-      },
-      {
-       "h": "想办法",
-       "py": "xiǎngbànfǎ",
-       "gl": "find a way; think of a way",
-       "pos": "v."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "白白",
-       "py": "báibái",
-       "gl": "in vain; for nothing",
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
        "pos": "adv."
       },
       {
@@ -4303,10 +2983,10 @@
        "pos": "v."
       },
       {
-       "h": "掉",
-       "py": "diào",
-       "gl": "(after a verb) off; away",
-       "pos": "function word"
+       "h": "多少",
+       "py": "duōshǎo",
+       "gl": "how many; how much",
+       "pos": "pron."
       },
       {
        "h": "。"
@@ -4316,10 +2996,10 @@
    ]
   },
   {
-   "en": "Now Xiao Zhang still puts a small part of his income into investments every month, keeps most of the rest in the bank or uses it to buy lower-risk financial products, and tries to strike a balance between returns and safety.",
+   "en": "Now he puts a small part of his salary in every month, while most of it still sits in the bank or in low-risk wealth management products.",
    "phrases": [
     {
-     "en": "Now Xiao Zhang still puts a small part of his income into investments every month,",
+     "en": "Now he puts a small part of his salary in every month,",
      "words": [
       {
        "h": "现在",
@@ -4331,10 +3011,10 @@
        "h": "，"
       },
       {
-       "h": "小张",
-       "py": "xiǎozhāng",
-       "gl": "Xiao Zhang",
-       "pos": "proper noun"
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
        "h": "每",
@@ -4352,61 +3032,55 @@
        "h": "月",
        "py": "yuè",
        "gl": "month; moon",
-       "pos": "measure word"
+       "pos": "n."
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
+       "h": "工资",
+       "py": "gōngzī",
+       "gl": "salary; wages",
+       "pos": "n."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "拿出",
-       "py": "náchū",
-       "gl": "take out",
-       "pos": "v."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "一",
-       "py": "yī",
+       "py": "yì",
        "gl": "one",
        "pos": "num."
       },
       {
-       "h": "小部分",
-       "py": "xiǎobùfèn",
-       "gl": "small part",
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "部分",
+       "py": "bùfèn",
+       "gl": "part; section",
        "pos": "n."
       },
       {
-       "h": "收入",
-       "py": "shōurù",
-       "gl": "income",
-       "pos": "n."
-      },
-      {
-       "h": "用来",
-       "py": "yònglái",
-       "gl": "be used for; use to",
+       "h": "投",
+       "py": "tóu",
+       "gl": "to invest",
        "pos": "v."
       },
       {
-       "h": "投资",
-       "py": "tóuzī",
-       "gl": "invest; investment",
-       "pos": "v."
+       "h": "进去",
+       "py": "jìnqù",
+       "gl": "(after a verb) in; into",
+       "pos": "function word"
       },
       {
        "h": "，"
@@ -4414,20 +3088,8 @@
      ]
     },
     {
-     "en": "keeps most of the rest in the bank,",
+     "en": "while most of it still sits in the bank or in low-risk wealth management products.",
      "words": [
-      {
-       "h": "剩下",
-       "py": "shèngxià",
-       "gl": "be left (over); remain",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
       {
        "h": "大部分",
        "py": "dàbùfèn",
@@ -4435,9 +3097,9 @@
        "pos": "n."
       },
       {
-       "h": "依然",
-       "py": "yīrán",
-       "gl": "still; as before",
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
        "pos": "adv."
       },
       {
@@ -4449,7 +3111,7 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -4460,12 +3122,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "or uses it to buy lower-risk financial products,",
-     "words": [
+      },
       {
        "h": "或者",
        "py": "huòzhě",
@@ -4473,15 +3130,9 @@
        "pos": "conj."
       },
       {
-       "h": "用来",
-       "py": "yònglái",
-       "gl": "be used for; use to",
-       "pos": "v."
-      },
-      {
-       "h": "购买",
-       "py": "gòumǎi",
-       "gl": "buy; purchase",
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
        "pos": "v."
       },
       {
@@ -4489,12 +3140,6 @@
        "py": "fēngxiǎn",
        "gl": "risk",
        "pos": "n."
-      },
-      {
-       "h": "较",
-       "py": "jiào",
-       "gl": "relatively; comparatively",
-       "pos": "adv."
       },
       {
        "h": "低",
@@ -4505,75 +3150,19 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "理财产品",
-       "py": "lǐcáichǎnpǐn",
-       "gl": "wealth management product",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "trying to strike a balance between returns and safety.",
-     "words": [
-      {
-       "h": "争取",
-       "py": "zhēngqǔ",
-       "gl": "strive for; try to",
+       "h": "理财",
+       "py": "lǐcái",
+       "gl": "to manage one's money",
        "pos": "v."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "收益",
-       "py": "shōuyì",
-       "gl": "earnings; return",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "安全",
-       "py": "ānquán",
-       "gl": "safety",
-       "pos": "n."
-      },
-      {
-       "h": "之间",
-       "py": "zhījiān",
-       "gl": "between; among",
-       "pos": "n."
-      },
-      {
-       "h": "找到",
-       "py": "zhǎodào",
-       "gl": "find",
-       "pos": "v."
-      },
-      {
-       "h": "一个",
-       "py": "yígè",
-       "gl": "one (with measure word: one item)",
-       "pos": "num."
-      },
-      {
-       "h": "平衡",
-       "py": "pínghéng",
-       "gl": "balance; balanced",
+       "h": "产品",
+       "py": "chǎnpǐn",
+       "gl": "product; goods",
        "pos": "n."
       },
       {
@@ -4584,16 +3173,16 @@
    ]
   },
   {
-   "en": "For him, this experience of learning to invest has also given him a more down-to-earth plan for money and the future.",
+   "en": "These days, when he presses the Confirm button, he always does it slowly, as if first asking himself in his sister's voice: \"Will you be able to sleep?\"",
    "phrases": [
     {
-     "en": "For him, this experience of learning to invest",
+     "en": "These days, when he presses the Confirm button, he always does it slowly,",
      "words": [
       {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
       },
       {
        "h": "他",
@@ -4602,49 +3191,49 @@
        "pos": "pron."
       },
       {
-       "h": "来说",
-       "py": "láishuō",
-       "gl": "as for; for (对…来说 for someone)",
-       "pos": "function word"
+       "h": "按",
+       "py": "àn",
+       "gl": "press",
+       "pos": "v."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "段",
-       "py": "duàn",
-       "gl": "measure word for periods or episodes (a chapter, a story); measure word for sections",
-       "pos": "measure word"
-      },
-      {
-       "h": "学习",
-       "py": "xuéxí",
-       "gl": "study; learn",
-       "pos": "n."
-      },
-      {
-       "h": "投资",
-       "py": "tóuzī",
-       "gl": "invest; investment",
+       "h": "确认键",
+       "py": "quèrènjiàn",
+       "gl": "\"Confirm\" button",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
        "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "总是",
+       "py": "zǒngshì",
+       "gl": "always",
+       "pos": "adv."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
+       "pos": "adj."
       },
       {
        "h": "，"
@@ -4652,94 +3241,103 @@
      ]
     },
     {
-     "en": "has also given him a more down-to-earth plan for money and the future.",
+     "en": "as if first asking himself in his sister's voice: \"Will you be able to sleep?\"",
      "words": [
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
+       "h": "好像",
+       "py": "hǎoxiàng",
+       "gl": "seem; be like",
        "pos": "adv."
       },
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "h": "先",
+       "py": "xiān",
+       "gl": "first; before",
+       "pos": "adv."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
        "pos": "v."
       },
       {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "金钱",
-       "py": "jīnqián",
-       "gl": "money",
+       "h": "姐姐",
+       "py": "jiějie",
+       "gl": "older sister",
        "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "未来",
-       "py": "wèilái",
-       "gl": "future",
-       "pos": "n."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "more (than)",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一份",
-       "py": "yīfèn",
-       "gl": "one (copy, portion, share)",
-       "pos": "num."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "踏实",
-       "py": "tàshí",
-       "gl": "steady; at ease; down-to-earth",
-       "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "规划",
-       "py": "guīhuà",
-       "gl": "plan; planning",
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound; voice",
        "pos": "n."
       },
       {
-       "h": "。"
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "睡",
+       "py": "shuì",
+       "gl": "sleep",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
       }
      ]
     }

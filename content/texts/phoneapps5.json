@@ -1,21 +1,21 @@
 {
  "id": "phoneapps5",
  "level": 5,
- "title_zh": "手机软件里的一天",
- "title_en": "A Day Spent in Phone Apps",
+ "title_zh": "长辈模式",
+ "title_en": "Senior Mode",
  "free": false,
  "audio_url": null,
- "note_en": "一…就… links two actions so that the second follows the first immediately: 手机闹钟一响，我就…刷了几分钟短视频 \"as soon as my alarm went off, I...scrolled through short videos.\" 一 goes right before the first verb and 就 before the second, each after its own subject, where English uses a single conjunction, \"as soon as.\"",
+ "note_en": "The pair 一…就… links two actions that follow right on each other's heels: \"as soon as…, …\" 闹钟一响，小苏就打开了短视频 \"as soon as the alarm rang, Xiao Su opened her short videos.\" The first half is often the trigger and the second the habitual response, so the pattern is good at describing automatic behavior: 一打开就能看到 \"the moment you open it, you can see…\"",
  "sentences": [
   {
-   "en": "At seven in the morning, as soon as my phone alarm went off, I scrolled through short videos for a few minutes before finally getting up.",
+   "en": "At seven in the morning, as soon as the alarm rang, Xiao Su opened her short videos before her eyes were even open.",
    "phrases": [
     {
-     "en": "At seven in the morning, as soon as my phone alarm went off,",
+     "en": "At seven in the morning, as soon as the alarm rang, Xiao Su opened her short videos before her eyes were even open.",
      "words": [
       {
        "h": "早上",
-       "py": "zǎoshang",
+       "py": "zǎoshàng",
        "gl": "morning",
        "pos": "n."
       },
@@ -28,17 +28,11 @@
       {
        "h": "点",
        "py": "diǎn",
-       "gl": "o'clock",
+       "gl": "o'clock; point; dot",
        "pos": "measure word"
       },
       {
        "h": "，"
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
       },
       {
        "h": "闹钟",
@@ -49,8 +43,8 @@
       {
        "h": "一",
        "py": "yī",
-       "gl": "one",
-       "pos": "num."
+       "gl": "as soon as (一…就… no sooner … than)",
+       "pos": "adv."
       },
       {
        "h": "响",
@@ -60,17 +54,12 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I scrolled through short videos for a few minutes before finally getting up.",
-     "words": [
+      },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
+       "h": "小苏",
+       "py": "Xiǎo Sū",
+       "gl": "Xiao Su",
+       "pos": "proper noun"
       },
       {
        "h": "就",
@@ -79,15 +68,9 @@
        "pos": "adv."
       },
       {
-       "h": "顺手",
-       "py": "shùnshǒu",
-       "gl": "while one is at it; casually",
-       "pos": "adv."
-      },
-      {
-       "h": "刷",
-       "py": "shuā",
-       "gl": "scroll (a feed); swipe (a card); fake (reviews, ratings)",
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "turn on; open (an app); open",
        "pos": "v."
       },
       {
@@ -95,18 +78,6 @@
        "py": "le",
        "gl": "particle: completed action / change of state",
        "pos": "particle"
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few; how many (under ten); which (number)",
-       "pos": "num."
-      },
-      {
-       "h": "分钟",
-       "py": "fēnzhōng",
-       "gl": "minute",
-       "pos": "measure word"
       },
       {
        "h": "短视频",
@@ -115,15 +86,36 @@
        "pos": "n."
       },
       {
-       "h": "才",
-       "py": "cái",
-       "gl": "only then; not until; only; (emphasis) really",
+       "h": "，"
+      },
+      {
+       "h": "眼睛",
+       "py": "yǎnjīng",
+       "gl": "eye; eyes",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
-       "h": "起床",
-       "py": "qǐchuáng",
-       "gl": "get up (out of bed)",
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "睁",
+       "py": "zhēng",
+       "gl": "to open (one's eyes)",
+       "pos": "v."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; turn on; open (an account); prescribe",
        "pos": "v."
       },
       {
@@ -134,31 +126,16 @@
    ]
   },
   {
-   "en": "After leaving home, I used a ride-hailing app to get a car to the office, and when I arrived I just scanned a code to pay — I didn't even need my wallet.",
+   "en": "A taxi by app, coffee by scanning a code, lunch by delivery — half an hour and it was at the door downstairs.",
    "phrases": [
     {
-     "en": "After leaving home, I used a ride-hailing app to get a car to the office,",
+     "en": "A taxi by app, coffee by scanning a code, lunch by delivery — half an hour and it was at the door downstairs.",
      "words": [
       {
-       "h": "出门",
-       "py": "chūmén",
-       "gl": "go out (of the house); leave home",
+       "h": "打车",
+       "py": "dǎchē",
+       "gl": "take a taxi; call a taxi",
        "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "later; in the future; after",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
       },
       {
        "h": "用",
@@ -167,84 +144,19 @@
        "pos": "v."
       },
       {
-       "h": "打车软件",
-       "py": "dǎchēruǎnjiàn",
-       "gl": "ride-hailing app",
-       "pos": "n."
-      },
-      {
-       "h": "叫",
-       "py": "jiào",
-       "gl": "call; order (a taxi, takeout)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "辆",
-       "py": "liàng",
-       "gl": "measure word for vehicles",
-       "pos": "measure word"
-      },
-      {
-       "h": "车",
-       "py": "chē",
-       "gl": "car; vehicle; bus",
-       "pos": "n."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
-       "pos": "v."
-      },
-      {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company; office (work)",
+       "h": "软件",
+       "py": "ruǎnjiàn",
+       "gl": "app; software",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and when I arrived I just scanned a code to pay —",
-     "words": [
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
-       "pos": "prep."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "地方",
-       "py": "dìfang",
-       "gl": "place",
+       "h": "咖啡",
+       "py": "kāfēi",
+       "gl": "coffee",
        "pos": "n."
-      },
-      {
-       "h": "直接",
-       "py": "zhíjiē",
-       "gl": "directly; straight",
-       "pos": "adj."
       },
       {
        "h": "扫码",
@@ -253,174 +165,7 @@
        "pos": "v."
       },
       {
-       "h": "付款",
-       "py": "fùkuǎn",
-       "gl": "pay; make a payment",
-       "pos": "v."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "I didn't even need my wallet.",
-     "words": [
-      {
-       "h": "连",
-       "py": "lián",
-       "gl": "even (连…都… even); connect",
-       "pos": "prep."
-      },
-      {
-       "h": "钱包",
-       "py": "qiánbāo",
-       "gl": "wallet",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "不用",
-       "py": "búyòng",
-       "gl": "not need; no need to",
-       "pos": "function word"
-      },
-      {
-       "h": "拿",
-       "py": "ná",
-       "gl": "hold; carry; take",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "At lunchtime, neither my coworkers nor I felt like going out to eat, so we each opened a food delivery app and ordered lunch, and in about half an hour the delivery guy brought it to the door of our office building.",
-   "phrases": [
-    {
-     "en": "At lunchtime, neither my coworkers nor I felt like going out to eat,",
-     "words": [
-      {
-       "h": "中午",
-       "py": "zhōngwǔ",
-       "gl": "noon; midday",
-       "pos": "n."
-      },
-      {
-       "h": "休息",
-       "py": "xiūxi",
-       "gl": "rest",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and; with",
-       "pos": "conj."
-      },
-      {
-       "h": "同事",
-       "py": "tóngshì",
-       "gl": "colleague; coworker",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "不想",
-       "py": "bùxiǎng",
-       "gl": "not want to",
-       "pos": "v."
-      },
-      {
-       "h": "出去",
-       "py": "chūqù",
-       "gl": "go out",
-       "pos": "v."
-      },
-      {
-       "h": "吃饭",
-       "py": "chīfàn",
-       "gl": "eat; have a meal",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so we each opened a food delivery app and ordered lunch,",
-     "words": [
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "各自",
-       "py": "gèzì",
-       "gl": "each; respectively; separately",
-       "pos": "pron."
-      },
-      {
-       "h": "打开",
-       "py": "dǎkāi",
-       "gl": "open",
-       "pos": "v."
-      },
-      {
-       "h": "外卖软件",
-       "py": "wàimàiruǎnjiàn",
-       "gl": "food delivery app",
-       "pos": "n."
-      },
-      {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "o'clock",
-       "pos": "measure word"
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
       },
       {
        "h": "午饭",
@@ -429,13 +174,20 @@
        "pos": "n."
       },
       {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "外卖",
+       "py": "wàimài",
+       "gl": "takeout; food delivery",
+       "pos": "n."
+      },
+      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and in about half an hour the delivery guy brought it to the door of our office building.",
-     "words": [
+      },
       {
        "h": "半",
        "py": "bàn",
@@ -455,55 +207,22 @@
        "pos": "n."
       },
       {
-       "h": "左右",
-       "py": "zuǒyòu",
-       "gl": "about; around (after a number)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "外卖员",
-       "py": "wàimàiyuán",
-       "gl": "food delivery courier",
-       "pos": "n."
-      },
-      {
        "h": "就",
        "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "饭",
-       "py": "fàn",
-       "gl": "meal; food; cooked rice",
-       "pos": "n."
-      },
-      {
-       "h": "送到",
-       "py": "sòngdào",
-       "gl": "deliver",
+       "h": "送",
+       "py": "sòng",
+       "gl": "deliver; send; give (as a gift)",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company; office (work)",
-       "pos": "n."
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
       },
       {
        "h": "楼下",
@@ -519,169 +238,114 @@
    ]
   },
   {
-   "en": "During my afternoon break, I usually open a social media app, check out what my friends have posted, give them some likes, and answer a few messages while I'm at it.",
+   "en": "She hadn't carried a wallet in three years and sometimes almost forgot what paper money looked like.",
    "phrases": [
     {
-     "en": "During my afternoon break, I usually open a social media app,",
+     "en": "She hadn't carried a wallet in three years and sometimes almost forgot what paper money looked like.",
      "words": [
       {
-       "h": "下午",
-       "py": "xiàwǔ",
-       "gl": "afternoon",
-       "pos": "n."
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "中间",
-       "py": "zhōngjiān",
-       "gl": "between; in the middle of",
-       "pos": "n."
-      },
-      {
-       "h": "休息",
-       "py": "xiūxi",
-       "gl": "rest",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
        "pos": "pron."
       },
       {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "habit; be used to; be in the habit of",
-       "pos": "v."
-      },
-      {
-       "h": "打开",
-       "py": "dǎkāi",
-       "gl": "open",
-       "pos": "v."
-      },
-      {
-       "h": "社交软件",
-       "py": "shèjiāoruǎnjiàn",
-       "gl": "social media app",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "check out what my friends have posted, give them some likes,",
-     "words": [
-      {
-       "h": "看看",
-       "py": "kànkàn",
-       "gl": "have a look; take a look",
-       "pos": "v."
-      },
-      {
-       "h": "朋友",
-       "py": "péngyou",
-       "gl": "friend",
-       "pos": "n."
-      },
-      {
-       "h": "发",
-       "py": "fā",
-       "gl": "send; issue; give out",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "动态",
-       "py": "dòngtài",
-       "gl": "post; status update (on social media)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "for; to (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
-       "pos": "pron."
-      },
-      {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "o'clock",
-       "pos": "measure word"
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "赞",
-       "py": "zàn",
-       "gl": "like (on social media); praise",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and answer a few messages while I'm at it.",
-     "words": [
-      {
-       "h": "顺便",
-       "py": "shùnbiàn",
-       "gl": "by the way; on the way",
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
        "pos": "adv."
       },
       {
-       "h": "回",
-       "py": "huí",
-       "gl": "reply",
-       "pos": "v."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few; how many (under ten); which (number)",
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
        "pos": "num."
       },
       {
-       "h": "条",
-       "py": "tiáo",
-       "gl": "measure word for posts, messages, items",
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
        "pos": "measure word"
       },
       {
-       "h": "消息",
-       "py": "xiāoxi",
-       "gl": "message; news",
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "带",
+       "py": "dài",
+       "gl": "bring; take (along); carry",
+       "pos": "v."
+      },
+      {
+       "h": "钱包",
+       "py": "qiánbāo",
+       "gl": "wallet",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "有时候",
+       "py": "yǒushíhòu",
+       "gl": "sometimes",
+       "pos": "adv."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "almost; nearly",
+       "pos": "adv."
+      },
+      {
+       "h": "忘",
+       "py": "wàng",
+       "gl": "forget",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "纸币",
+       "py": "zhǐbì",
+       "gl": "paper money; banknote",
+       "pos": "n."
+      },
+      {
+       "h": "长",
+       "py": "zhǎng",
+       "gl": "grow; have (a feature); look (长得…)",
+       "pos": "v."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "样",
+       "py": "yàng",
+       "gl": "look, appearance",
        "pos": "n."
       },
       {
@@ -692,92 +356,60 @@
    ]
   },
   {
-   "en": "When I left work in the evening, I called another car, scrolled through short videos on the way, and the time flew by.",
+   "en": "At ten at night, the host of a livestream was shouting \"Last three!\", and Xiao Su's finger very nearly pressed the button.",
    "phrases": [
     {
-     "en": "When I left work in the evening, I called another car,",
+     "en": "At ten at night, the host of a livestream was shouting \"Last three!\", and Xiao Su's finger very nearly pressed the button.",
      "words": [
       {
        "h": "晚上",
-       "py": "wǎnshang",
+       "py": "wǎnshàng",
        "gl": "evening",
        "pos": "n."
       },
       {
-       "h": "下班",
-       "py": "xiàbān",
-       "gl": "get off work; finish work",
-       "pos": "v."
-      },
-      {
-       "h": "回家",
-       "py": "huíjiā",
-       "gl": "go home; come home",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "叫",
-       "py": "jiào",
-       "gl": "call; order (a taxi, takeout)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "十",
+       "py": "shí",
+       "gl": "ten",
        "pos": "num."
       },
       {
-       "h": "辆",
-       "py": "liàng",
-       "gl": "measure word for vehicles",
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
        "pos": "measure word"
       },
       {
-       "h": "车",
-       "py": "chē",
-       "gl": "car; vehicle; bus",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "scrolled through short videos on the way, and the time flew by.",
-     "words": [
+      },
       {
-       "h": "路上",
-       "py": "lùshang",
-       "gl": "on the way; on the road",
+       "h": "直播间",
+       "py": "zhíbōjiān",
+       "gl": "livestream (room)",
        "pos": "n."
       },
       {
-       "h": "刷",
-       "py": "shuā",
-       "gl": "scroll (a feed); swipe (a card); fake (reviews, ratings)",
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "主播",
+       "py": "zhǔbō",
+       "gl": "host (of a livestream); streamer",
+       "pos": "n."
+      },
+      {
+       "h": "喊",
+       "py": "hǎn",
+       "gl": "shout; call out",
        "pos": "v."
       },
       {
@@ -787,108 +419,18 @@
        "pos": "particle"
       },
       {
-       "h": "短视频",
-       "py": "duǎnshìpín",
-       "gl": "short video",
-       "pos": "n."
+       "h": "“"
       },
       {
-       "h": "，"
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
+       "pos": "adj."
       },
       {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "一下子",
-       "py": "yíxiàzi",
-       "gl": "all at once; suddenly",
-       "pos": "adv."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "right away; then; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "过去",
-       "py": "guòqù",
-       "gl": "past; go over (跑过去 \"run over\")",
-       "pos": "function word"
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Once I got home, I opened a shopping app, spotted a piece of clothing I liked, compared prices at a few stores, and finally placed an order and paid.",
-   "phrases": [
-    {
-     "en": "Once I got home, I opened a shopping app,",
-     "words": [
-      {
-       "h": "到家",
-       "py": "dàojiā",
-       "gl": "get home; arrive home",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "later; in the future; after",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "打开",
-       "py": "dǎkāi",
-       "gl": "open",
-       "pos": "v."
-      },
-      {
-       "h": "购物软件",
-       "py": "gòuwùruǎnjiàn",
-       "gl": "shopping app",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "spotted a piece of clothing I liked, compared prices at a few stores,",
-     "words": [
-      {
-       "h": "看中",
-       "py": "kànzhòng",
-       "gl": "take a fancy to; pick out",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
        "pos": "num."
       },
       {
@@ -898,19 +440,46 @@
        "pos": "measure word"
       },
       {
-       "h": "衣服",
-       "py": "yīfu",
-       "gl": "clothes",
-       "pos": "n."
+       "h": "”"
       },
       {
        "h": "，"
       },
       {
-       "h": "比较",
-       "py": "bǐjiào",
-       "gl": "relatively; fairly; compare",
+       "h": "小苏",
+       "py": "Xiǎo Sū",
+       "gl": "Xiao Su",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "手指",
+       "py": "shǒuzhǐ",
+       "gl": "finger",
+       "pos": "n."
+      },
+      {
+       "h": "差点",
+       "py": "chàdiǎn",
+       "gl": "almost; nearly (happened)",
        "pos": "adv."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "按",
+       "py": "àn",
+       "gl": "press",
+       "pos": "v."
       },
       {
        "h": "了",
@@ -919,47 +488,9 @@
        "pos": "particle"
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few; how many (under ten); which (number)",
-       "pos": "num."
-      },
-      {
-       "h": "家",
-       "py": "jiā",
-       "gl": "home; family; measure word for shops, businesses",
-       "pos": "measure word"
-      },
-      {
-       "h": "价格",
-       "py": "jiàgé",
-       "gl": "price",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and finally placed an order and paid.",
-     "words": [
-      {
-       "h": "最后",
-       "py": "zuìhòu",
-       "gl": "in the end; finally",
-       "pos": "n."
-      },
-      {
-       "h": "下单",
-       "py": "xiàdān",
-       "gl": "place an order",
-       "pos": "v."
-      },
-      {
-       "h": "付款",
-       "py": "fùkuǎn",
-       "gl": "pay; make a payment",
+       "h": "下去",
+       "py": "xiàqu",
+       "gl": "down (directional complement)",
        "pos": "v."
       },
       {
@@ -970,49 +501,258 @@
    ]
   },
   {
-   "en": "After dinner, I usually use my phone to note down how much I spent that day, to remind myself not to waste money.",
+   "en": "Just then her mom called from a hospital corridor, her voice so small Xiao Su hardly recognized it.",
    "phrases": [
     {
-     "en": "After dinner, I usually use my phone to note down how much I spent that day,",
+     "en": "Just then her mom called from a hospital corridor, her voice so small Xiao Su hardly recognized it.",
      "words": [
       {
-       "h": "吃完",
-       "py": "chīwán",
-       "gl": "finish eating",
-       "pos": "v."
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
       },
       {
-       "h": "晚饭",
-       "py": "wǎnfàn",
-       "gl": "dinner; supper",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "这时",
+       "py": "zhèshí",
+       "gl": "at this moment; at that time",
        "pos": "n."
       },
       {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after; later",
+       "h": "，"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "hit; play (ball games); make (a phone call)",
+       "pos": "v."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "电话",
+       "py": "diànhuà",
+       "gl": "phone; phone call",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "医院",
+       "py": "yīyuàn",
+       "gl": "hospital",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "走廊",
+       "py": "zǒuláng",
+       "gl": "corridor; veranda",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
        "pos": "postposition"
       },
       {
        "h": "，"
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound; voice",
+       "pos": "n."
       },
       {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "habit; be used to; be in the habit of",
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "小苏",
+       "py": "Xiǎo Sū",
+       "gl": "Xiao Su",
+       "pos": "proper noun"
+      },
+      {
+       "h": "几乎",
+       "py": "jīhū",
+       "gl": "almost; nearly",
+       "pos": "adv."
+      },
+      {
+       "h": "认",
+       "py": "rèn",
+       "gl": "recognize; tell apart; admit; accept",
        "pos": "v."
       },
       {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "出",
+       "py": "chū",
+       "gl": "out (directional complement)",
        "pos": "v."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The hospital window no longer took cash; you could only register by scanning a code.",
+   "phrases": [
+    {
+     "en": "The hospital window no longer took cash; you could only register by scanning a code.",
+     "words": [
+      {
+       "h": "医院",
+       "py": "yīyuàn",
+       "gl": "hospital",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "窗口",
+       "py": "chuāngkǒu",
+       "gl": "window",
+       "pos": "n."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "收",
+       "py": "shōu",
+       "gl": "accept; take",
+       "pos": "v."
+      },
+      {
+       "h": "现金",
+       "py": "xiànjīn",
+       "gl": "cash",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "挂号",
+       "py": "guàhào",
+       "gl": "to register (at a hospital)",
+       "pos": "v."
+      },
+      {
+       "h": "只能",
+       "py": "zhǐnéng",
+       "gl": "can only; have to",
+       "pos": "adv."
+      },
+      {
+       "h": "扫码",
+       "py": "sǎomǎ",
+       "gl": "scan a code",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Her mom had been pointing her phone at the QR code for half an hour, and every time something else popped up.",
+   "phrases": [
+    {
+     "en": "Her mom had been pointing her phone at the QR code for half an hour, and every time something else popped up.",
+     "words": [
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
       },
       {
        "h": "手机",
@@ -1021,22 +761,570 @@
        "pos": "n."
       },
       {
-       "h": "记",
-       "py": "jì",
-       "gl": "remember; memorize; write down",
-       "pos": "v."
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
       },
       {
-       "h": "一下",
-       "py": "yíxià",
-       "gl": "a bit; briefly (after a verb: do something a little)",
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "二维码",
+       "py": "èrwéimǎ",
+       "gl": "QR code",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "半",
+       "py": "bàn",
+       "gl": "half",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
        "pos": "adv."
       },
       {
-       "h": "今天",
-       "py": "jīntiān",
-       "gl": "today",
+       "h": "跳",
+       "py": "tiào",
+       "gl": "to pop up",
+       "pos": "v."
+      },
+      {
+       "h": "出",
+       "py": "chū",
+       "gl": "out (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "别的",
+       "py": "biéde",
+       "gl": "other; else",
+       "pos": "pron."
+      },
+      {
+       "h": "东西",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
        "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The people waiting in line behind her kept sighing, and her mom said \"sorry\" to each of them in turn.",
+   "phrases": [
+    {
+     "en": "The people waiting in line behind her kept sighing, and her mom said \"sorry\" to each of them in turn.",
+     "words": [
+      {
+       "h": "后面",
+       "py": "hòumiàn",
+       "gl": "behind; at the back",
+       "pos": "n."
+      },
+      {
+       "h": "排队",
+       "py": "páiduì",
+       "gl": "line up; stand in line",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
+      },
+      {
+       "h": "一直",
+       "py": "yìzhí",
+       "gl": "all along; always; continuously",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "叹气",
+       "py": "tànqì",
+       "gl": "sigh",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "对不起",
+       "py": "duìbùqǐ",
+       "gl": "sorry; excuse me",
+       "pos": "phrase"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Using her own phone, Xiao Su registered her in twenty seconds, and it being so easy only made her feel worse.",
+   "phrases": [
+    {
+     "en": "Using her own phone, Xiao Su registered her in twenty seconds,",
+     "words": [
+      {
+       "h": "小苏",
+       "py": "Xiǎo Sū",
+       "gl": "Xiao Su",
+       "pos": "proper noun"
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "二十",
+       "py": "èrshí",
+       "gl": "twenty",
+       "pos": "num."
+      },
+      {
+       "h": "秒",
+       "py": "miǎo",
+       "gl": "second",
+       "pos": "measure word"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "帮",
+       "py": "bāng",
+       "gl": "help",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "挂",
+       "py": "guà",
+       "gl": "(挂号) to register",
+       "pos": "v."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "号",
+       "py": "hào",
+       "gl": "number (unit No.)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and it being so easy only made her feel worse.",
+     "words": [
+      {
+       "h": "这么",
+       "py": "zhème",
+       "gl": "so; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "容易",
+       "py": "róngyì",
+       "gl": "easy; be prone to; likely to",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "反而",
+       "py": "fǎnér",
+       "gl": "on the contrary; instead",
+       "pos": "adv."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "心里",
+       "py": "xīnlǐ",
+       "gl": "in one's heart; inside",
+       "pos": "n."
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "难受",
+       "py": "nánshòu",
+       "gl": "uncomfortable; feel unwell",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The newspapers call it the \"digital divide,\" but the newspapers don't say how your own mother's voice can shake.",
+   "phrases": [
+    {
+     "en": "The newspapers call it the \"digital divide,\"",
+     "words": [
+      {
+       "h": "报纸",
+       "py": "bàozhǐ",
+       "gl": "newspaper",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "管",
+       "py": "guǎn",
+       "gl": "call (管…叫 call something ...)",
+       "pos": "v."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "数字鸿沟",
+       "py": "shùzì hónggōu",
+       "gl": "digital divide",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "but the newspapers don't say how your own mother's voice can shake.",
+     "words": [
+      {
+       "h": "可",
+       "py": "kě",
+       "gl": "can; may",
+       "pos": "v."
+      },
+      {
+       "h": "报纸",
+       "py": "bàozhǐ",
+       "gl": "newspaper",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound; voice",
+       "pos": "n."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "抖",
+       "py": "dǒu",
+       "gl": "shake; tremble",
+       "pos": "v."
+      },
+      {
+       "h": "成",
+       "py": "chéng",
+       "gl": "become; turn into",
+       "pos": "v."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "样",
+       "py": "yàng",
+       "gl": "item (measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On Saturday Xiao Su went to her parents' place and spent a whole day reworking their phones.",
+   "phrases": [
+    {
+     "en": "On Saturday Xiao Su went to her parents' place and spent a whole day reworking their phones.",
+     "words": [
+      {
+       "h": "星期六",
+       "py": "xīngqīliù",
+       "gl": "Saturday",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "小苏",
+       "py": "Xiǎo Sū",
+       "gl": "Xiao Su",
+       "pos": "proper noun"
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "return; go back",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "父母",
+       "py": "fùmǔ",
+       "gl": "parents",
+       "pos": "n."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "花",
@@ -1051,384 +1339,23 @@
        "pos": "particle"
       },
       {
-       "h": "多少",
-       "py": "duōshao",
-       "gl": "how many; how much",
-       "pos": "pron."
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
       },
       {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to remind myself not to waste money.",
-     "words": [
-      {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "别",
-       "py": "bié",
-       "gl": "don't (prohibition); other",
-       "pos": "adv."
-      },
-      {
-       "h": "乱",
-       "py": "luàn",
-       "gl": "at random; recklessly; chaotic; in disorder",
-       "pos": "adv."
-      },
-      {
-       "h": "花钱",
-       "py": "huāqián",
-       "gl": "spend money",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Around ten at night, I opened my phone again to watch a livestream; the host was selling things, the atmosphere was lively, and I almost placed an order.",
-   "phrases": [
-    {
-     "en": "Around ten at night, I opened my phone again to watch a livestream; the host was selling things, the atmosphere was lively, and I almost placed an order.",
-     "words": [
-      {
-       "h": "晚上",
-       "py": "wǎnshàng",
-       "gl": "evening; in the evening",
-       "pos": "n."
-      },
-      {
-       "h": "十点",
-       "py": "shídiǎn",
-       "gl": "ten o'clock",
-       "pos": "n."
-      },
-      {
-       "h": "左右",
-       "py": "zuǒyòu",
-       "gl": "about; around (after a number)",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again",
-       "pos": "adv."
-      },
-      {
-       "h": "打开",
-       "py": "dǎkāi",
-       "gl": "open",
-       "pos": "v."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
-       "pos": "v."
-      },
-      {
-       "h": "直播",
-       "py": "zhíbō",
-       "gl": "live stream; broadcast live",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "主播",
-       "py": "zhǔbō",
-       "gl": "host (of a livestream); streamer",
-       "pos": "n."
-      },
-      {
-       "h": "正在",
-       "py": "zhèngzài",
-       "gl": "be in the middle of (doing)",
-       "pos": "adv."
-      },
-      {
-       "h": "卖",
-       "py": "mài",
-       "gl": "sell",
-       "pos": "v."
-      },
-      {
-       "h": "东西",
-       "py": "dōngxī",
-       "gl": "thing; stuff",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "气氛",
-       "py": "qìfēn",
-       "gl": "atmosphere; mood",
-       "pos": "n."
-      },
-      {
-       "h": "热闹",
-       "py": "rènào",
-       "gl": "lively; bustling",
+       "h": "整",
+       "py": "zhěng",
+       "gl": "whole; entire",
        "pos": "adj."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "差点",
-       "py": "chàdiǎn",
-       "gl": "almost; nearly (happened)",
-       "pos": "adv."
-      },
-      {
-       "h": "下单",
-       "py": "xiàdān",
-       "gl": "place an order",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "My parents aren't very good with smartphones and often need my help even to pay by scanning a QR code — this is what's called the \"digital divide.\"",
-   "phrases": [
-    {
-     "en": "My parents aren't very good with smartphones and often need my help even to pay by scanning a QR code — this is what's called the \"digital divide.\"",
-     "words": [
-      {
-       "h": "爸爸妈妈",
-       "py": "bàbàmāmā",
-       "gl": "mom and dad; parents",
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
        "pos": "n."
       },
-      {
-       "h": "不太",
-       "py": "bùtài",
-       "gl": "not very; not quite",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "智能手机",
-       "py": "zhìnéngshǒujī",
-       "gl": "smartphone",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "连",
-       "py": "lián",
-       "gl": "even (连…都… even)",
-       "pos": "prep."
-      },
-      {
-       "h": "扫码支付",
-       "py": "sǎomǎzhīfù",
-       "gl": "pay by scanning a QR code",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both; even; already",
-       "pos": "adv."
-      },
-      {
-       "h": "常常",
-       "py": "chángcháng",
-       "gl": "often",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "帮忙",
-       "py": "bāngmáng",
-       "gl": "help; do a favor",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "所谓",
-       "py": "suǒwèi",
-       "gl": "so-called; what is called",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "数字鸿沟",
-       "py": "shùzìhónggōu",
-       "gl": "digital divide",
-       "pos": "phrase"
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "On the weekend, I made a point of taking my parents to a phone store and helped them switch several of the apps they use most to the \"care version\" or \"senior mode,\" so the text is bigger and they're easier to use.",
-   "phrases": [
-    {
-     "en": "On the weekend, I made a point of taking my parents to a phone store",
-     "words": [
-      {
-       "h": "周末",
-       "py": "zhōumò",
-       "gl": "weekend",
-       "pos": "n."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
-       "pos": "adv."
-      },
-      {
-       "h": "带",
-       "py": "dài",
-       "gl": "lead; take (someone)",
-       "pos": "v."
-      },
-      {
-       "h": "父母",
-       "py": "fùmǔ",
-       "gl": "parents",
-       "pos": "n."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go (to)",
-       "pos": "v."
-      },
-      {
-       "h": "手机营业厅",
-       "py": "shǒujīyíngyètīng",
-       "gl": "mobile phone service center",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and helped them switch several of the apps they use most to the \"care version\" or \"senior mode,\"",
-     "words": [
       {
        "h": "帮",
        "py": "bāng",
@@ -1442,10 +1369,53 @@
        "pos": "pron."
       },
       {
+       "h": "改",
+       "py": "gǎi",
+       "gl": "change; revise; correct",
+       "pos": "v."
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She switched the apps they used most into \"senior mode\": big text, few buttons, and the most important things right there the moment you open it.",
+   "phrases": [
+    {
+     "en": "She switched the apps they used most into \"senior mode\": big text, few buttons, and the most important things right there the moment you open it.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
        "h": "把",
        "py": "bǎ",
        "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
        "pos": "prep."
+      },
+      {
+       "h": "常用",
+       "py": "chángyòng",
+       "gl": "commonly used; common",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "几",
@@ -1460,12 +1430,6 @@
        "pos": "measure word"
       },
       {
-       "h": "常用",
-       "py": "chángyòng",
-       "gl": "commonly used; common",
-       "pos": "adj."
-      },
-      {
        "h": "软件",
        "py": "ruǎnjiàn",
        "gl": "app; software",
@@ -1478,72 +1442,43 @@
        "pos": "adv."
       },
       {
-       "h": "换成",
-       "py": "huànchéng",
-       "gl": "change into; replace with",
+       "h": "换",
+       "py": "huàn",
+       "gl": "change; switch; exchange",
+       "pos": "v."
+      },
+      {
+       "h": "成",
+       "py": "chéng",
+       "gl": "become; turn into",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
        "h": "“"
       },
       {
-       "h": "关怀版",
-       "py": "guānhuáibǎn",
-       "gl": "senior-friendly version (of an app)",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "“"
-      },
-      {
        "h": "长辈模式",
-       "py": "zhǎngbèimóshì",
-       "gl": "senior mode (simplified phone mode)",
+       "py": "zhǎngbèi móshì",
+       "gl": "senior mode",
        "pos": "n."
       },
       {
        "h": "”"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so the text is bigger and they're easier to use.",
-     "words": [
-      {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "like this; this way; such",
-       "pos": "pron."
+       "h": "："
       },
       {
        "h": "字体",
        "py": "zìtǐ",
        "gl": "font",
        "pos": "n."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
-       "pos": "adv."
       },
       {
        "h": "大",
@@ -1555,28 +1490,67 @@
        "h": "，"
       },
       {
-       "h": "操作",
-       "py": "cāozuò",
-       "gl": "operation; operate",
+       "h": "按钮",
+       "py": "ànniǔ",
+       "gl": "button",
        "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
-       "pos": "adv."
-      },
-      {
-       "h": "简单",
-       "py": "jiǎndān",
-       "gl": "simple; easy",
+       "h": "少",
+       "py": "shǎo",
+       "gl": "few; little",
        "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
+       "pos": "adv."
+      },
+      {
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
+       "pos": "v."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "right away; then; just (emphasis)",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "看到",
+       "py": "kàndào",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "重要",
+       "py": "zhòngyào",
+       "gl": "important",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -1586,37 +1560,37 @@
    ]
   },
   {
-   "en": "In fact, in recent years the Ministry of Industry and Information Technology has pushed thousands of websites and apps to complete \"age-friendly upgrades,\" specifically to solve the problem of older people struggling with their phones.",
+   "en": "Since 2021 the Ministry of Industry and Information Technology has pushed hundreds of websites and apps to adapt for older users, and modes like this keep multiplying.",
    "phrases": [
     {
-     "en": "In fact, in recent years the Ministry of Industry and Information Technology has pushed thousands of websites and apps to complete \"age-friendly upgrades,\"",
+     "en": "Since 2021 the Ministry of Industry and Information Technology has pushed hundreds of websites and apps to adapt for older users, and modes like this keep multiplying.",
      "words": [
       {
-       "h": "其实",
-       "py": "qíshí",
-       "gl": "actually; in fact",
-       "pos": "adv."
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "二零二一年",
+       "py": "èr líng èr yī nián",
+       "gl": "the year 2021",
+       "pos": "n."
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "(从…起) starting from",
+       "pos": "postposition"
       },
       {
        "h": "，"
       },
       {
-       "h": "近年来",
-       "py": "jìnniánlái",
-       "gl": "in recent years",
-       "pos": "adv."
-      },
-      {
-       "h": "工业和信息化部",
-       "py": "gōngyèhéxìnxīhuàbù",
-       "gl": "Ministry of Industry and Information Technology (MIIT)",
+       "h": "工信部",
+       "py": "Gōngxìnbù",
+       "gl": "Ministry of Industry and Information Technology",
        "pos": "proper noun"
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
       },
       {
        "h": "推动",
@@ -1625,9 +1599,9 @@
        "pos": "v."
       },
       {
-       "h": "几千",
-       "py": "jǐqiān",
-       "gl": "several thousand",
+       "h": "几百",
+       "py": "jǐbǎi",
+       "gl": "several hundred",
        "pos": "num."
       },
       {
@@ -1652,670 +1626,19 @@
        "h": "APP"
       },
       {
-       "h": "完成",
-       "py": "wánchéng",
-       "gl": "finish; complete",
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
        "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "“"
       },
       {
        "h": "适老化改造",
-       "py": "shìlǎohuàgǎizào",
-       "gl": "age-friendly modification (for the elderly)",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "specifically to solve the problem of older people struggling with their phones.",
-     "words": [
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "解决",
-       "py": "jiějué",
-       "gl": "solve; settle",
-       "pos": "v."
-      },
-      {
-       "h": "老年人",
-       "py": "lǎoniánrén",
-       "gl": "elderly person; the elderly",
-       "pos": "n."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Today, mobile payment covers the vast majority of shopping situations in China: from buying vegetables to taking the subway, you can pay almost anywhere by scanning a QR code with your phone.",
-   "phrases": [
-    {
-     "en": "Today, mobile payment covers the vast majority of shopping situations in China:",
-     "words": [
-      {
-       "h": "如今",
-       "py": "rújīn",
-       "gl": "nowadays; now",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "移动支付",
-       "py": "yídòngzhīfù",
-       "gl": "mobile payment",
-       "pos": "n."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "覆盖",
-       "py": "fùgài",
-       "gl": "cover; coverage",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "绝大多数",
-       "py": "juédàduōshù",
-       "gl": "the vast majority",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "消费",
-       "py": "xiāofèi",
-       "gl": "consumption; spending",
-       "pos": "n."
-      },
-      {
-       "h": "场景",
-       "py": "chǎngjǐng",
-       "gl": "scene",
+       "py": "shìlǎohuà gǎizào",
+       "gl": "age-friendly adaptation",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "from buying vegetables to taking the subway,",
-     "words": [
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "买菜",
-       "py": "mǎicài",
-       "gl": "buy groceries",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; up to (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "坐",
-       "py": "zuò",
-       "gl": "sit; ride; take (transport)",
-       "pos": "v."
-      },
-      {
-       "h": "地铁",
-       "py": "dìtiě",
-       "gl": "subway",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "you can pay almost anywhere by scanning a QR code with your phone.",
-     "words": [
-      {
-       "h": "几乎",
-       "py": "jīhū",
-       "gl": "almost; nearly",
-       "pos": "adv."
-      },
-      {
-       "h": "处处",
-       "py": "chùchù",
-       "gl": "everywhere; in every way",
-       "pos": "adv."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "扫码",
-       "py": "sǎomǎ",
-       "gl": "scan a code",
-       "pos": "v."
-      },
-      {
-       "h": "完成",
-       "py": "wánchéng",
-       "gl": "finish; complete",
-       "pos": "v."
-      },
-      {
-       "h": "付款",
-       "py": "fùkuǎn",
-       "gl": "pay; make a payment",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But precisely because life depends more and more on phones, as soon as the signal is bad or an app crashes, a lot of things actually become harder — another kind of headache that convenience brings.",
-   "phrases": [
-    {
-     "en": "But precisely because life depends more and more on phones,",
-     "words": [
-      {
-       "h": "不过",
-       "py": "bùguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "正",
-       "py": "zhèng",
-       "gl": "precisely; just",
-       "pos": "adv."
-      },
-      {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because",
-       "pos": "conj."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "离不开",
-       "py": "líbùkāi",
-       "gl": "can't do without",
-       "pos": "v."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "as soon as the signal is bad or an app crashes,",
-     "words": [
-      {
-       "h": "一旦",
-       "py": "yídàn",
-       "gl": "once; in case; as soon as",
-       "pos": "conj."
-      },
-      {
-       "h": "信号",
-       "py": "xìnhào",
-       "gl": "signal; sign",
-       "pos": "n."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good",
-       "pos": "adj."
-      },
-      {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "软件",
-       "py": "ruǎnjiàn",
-       "gl": "app; software",
-       "pos": "n."
-      },
-      {
-       "h": "出",
-       "py": "chū",
-       "gl": "come up; occur (出问题 have problems)",
-       "pos": "v."
-      },
-      {
-       "h": "故障",
-       "py": "gùzhàng",
-       "gl": "breakdown; malfunction; fault",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "a lot of things actually become harder — another kind of headache that convenience brings.",
-     "words": [
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "事情",
-       "py": "shìqíng",
-       "gl": "thing; matter",
-       "pos": "n."
-      },
-      {
-       "h": "反而",
-       "py": "fǎnér",
-       "gl": "on the contrary; instead",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "变得",
-       "py": "biàndé",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "麻烦",
-       "py": "máfán",
-       "gl": "trouble; hassle; troublesome; inconvenient",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "便利",
-       "py": "biànlì",
-       "gl": "convenience",
-       "pos": "n."
-      },
-      {
-       "h": "带来",
-       "py": "dàilái",
-       "gl": "bring; bring about",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "另一种",
-       "py": "lìngyīzhǒng",
-       "gl": "another kind of; a different kind of",
-       "pos": "pron."
-      },
-      {
-       "h": "烦恼",
-       "py": "fánnǎo",
-       "gl": "worry; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "All in all, phone apps make life more efficient, but they also remind us that we can't rely entirely on screens; sometimes putting down the phone and talking face to face matters just as much.",
-   "phrases": [
-    {
-     "en": "All in all, phone apps make life more efficient,",
-     "words": [
-      {
-       "h": "总的来说",
-       "py": "zǒngdeláishuō",
-       "gl": "in general; overall",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "软件",
-       "py": "ruǎnjiàn",
-       "gl": "app; software",
-       "pos": "n."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
-      },
-      {
-       "h": "更加",
-       "py": "gèngjiā",
-       "gl": "even more",
-       "pos": "adv."
-      },
-      {
-       "h": "高效",
-       "py": "gāoxiào",
-       "gl": "efficient; highly effective",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but they also remind us that we can't rely entirely on screens;",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
-       "pos": "v."
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不能",
-       "py": "bùnéng",
-       "gl": "cannot; must not",
-       "pos": "function word"
-      },
-      {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
-       "pos": "adv."
-      },
-      {
-       "h": "依赖",
-       "py": "yīlài",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "屏幕",
-       "py": "píngmù",
-       "gl": "screen",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "sometimes putting down the phone and talking face to face matters just as much.",
-     "words": [
-      {
-       "h": "有时候",
-       "py": "yǒushíhòu",
-       "gl": "sometimes",
-       "pos": "adv."
-      },
-      {
-       "h": "放下",
-       "py": "fàngxià",
-       "gl": "put down; set aside",
-       "pos": "v."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "面对面",
-       "py": "miànduìmiàn",
-       "gl": "face-to-face",
-       "pos": "adv."
-      },
-      {
-       "h": "交流",
-       "py": "jiāoliú",
-       "gl": "communicate; exchange",
-       "pos": "n."
-      },
-      {
-       "h": "同样",
-       "py": "tóngyàng",
-       "gl": "the same; likewise; also; likewise; equally; the same; similar",
-       "pos": "adv."
-      },
-      {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Super apps like WeChat aren't just for chatting: they also bundle dozens of functions like mini-programs, payments, ride-hailing and booking doctor's appointments, and can meet most of your everyday needs.",
-   "phrases": [
-    {
-     "en": "Super apps like WeChat aren't just for chatting:",
-     "words": [
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "v."
-      },
-      {
-       "h": "微信",
-       "py": "wēixìn",
-       "gl": "WeChat (messaging app)",
-       "pos": "proper noun"
       },
       {
        "h": "这样",
@@ -2330,584 +1653,10 @@
        "pos": "particle"
       },
       {
-       "h": "超级应用",
-       "py": "chāojíyìngyòng",
-       "gl": "super app",
+       "h": "模式",
+       "py": "móshì",
+       "gl": "mode",
        "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不仅",
-       "py": "bùjǐn",
-       "gl": "not only",
-       "pos": "conj."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "聊天",
-       "py": "liáotiān",
-       "gl": "chat; talk",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "they also bundle dozens of functions like mini-programs, payments, ride-hailing and booking doctor's appointments,",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "集成",
-       "py": "jíchéng",
-       "gl": "integrate",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "小程序",
-       "py": "xiǎochéngxù",
-       "gl": "mini-program (app inside WeChat, Alipay, etc.)",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "支付",
-       "py": "zhīfù",
-       "gl": "payment",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "打车",
-       "py": "dǎchē",
-       "gl": "take a taxi; call a taxi",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "挂号",
-       "py": "guàhào",
-       "gl": "register (at a hospital); make an appointment",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "几十",
-       "py": "jǐshí",
-       "gl": "several dozen; tens of",
-       "pos": "num."
-      },
-      {
-       "h": "种",
-       "py": "zhǒng",
-       "gl": "kind; type (measure word); plant; grow",
-       "pos": "measure word"
-      },
-      {
-       "h": "功能",
-       "py": "gōngnéng",
-       "gl": "function; feature",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and can meet most of your everyday needs.",
-     "words": [
-      {
-       "h": "几乎",
-       "py": "jīhū",
-       "gl": "almost; nearly",
-       "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "function word"
-      },
-      {
-       "h": "满足",
-       "py": "mǎnzú",
-       "gl": "satisfy",
-       "pos": "v."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "大部分",
-       "py": "dàbùfèn",
-       "gl": "most; the greater part",
-       "pos": "n."
-      },
-      {
-       "h": "需求",
-       "py": "xūqiú",
-       "gl": "need; requirement",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "According to official statistics, China has become one of the countries with the highest rates of mobile payment in the world, which owes a lot to the fierce competition between the two big platforms, WeChat Pay and Alipay.",
-   "phrases": [
-    {
-     "en": "According to official statistics, China has become one of the countries with the highest rates of mobile payment in the world,",
-     "words": [
-      {
-       "h": "据",
-       "py": "jù",
-       "gl": "according to",
-       "pos": "prep."
-      },
-      {
-       "h": "官方",
-       "py": "guānfāng",
-       "gl": "official; authorities",
-       "pos": "adj."
-      },
-      {
-       "h": "统计",
-       "py": "tǒngjì",
-       "gl": "count; compile statistics; statistics",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "成为",
-       "py": "chéngwéi",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "全球",
-       "py": "quánqiú",
-       "gl": "global; worldwide",
-       "pos": "n."
-      },
-      {
-       "h": "移动支付",
-       "py": "yídòngzhīfù",
-       "gl": "mobile payment",
-       "pos": "n."
-      },
-      {
-       "h": "普及率",
-       "py": "pǔjílǜ",
-       "gl": "penetration rate; adoption rate",
-       "pos": "n."
-      },
-      {
-       "h": "最高",
-       "py": "zuìgāo",
-       "gl": "highest; supreme",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "country",
-       "pos": "n."
-      },
-      {
-       "h": "之一",
-       "py": "zhīyī",
-       "gl": "one of (最…之一 'one of the most …')",
-       "pos": "function word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which owes a lot to the fierce competition between the two big platforms, WeChat Pay and Alipay.",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "与",
-       "py": "yǔ",
-       "gl": "and; with (formal)",
-       "pos": "prep."
-      },
-      {
-       "h": "微信支付",
-       "py": "wēixìnzhīfù",
-       "gl": "WeChat Pay",
-       "pos": "proper noun"
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "支付宝",
-       "py": "zhīfùbǎo",
-       "gl": "Alipay",
-       "pos": "proper noun"
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this; these",
-       "pos": "pron."
-      },
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "激烈",
-       "py": "jīliè",
-       "gl": "intense; fierce",
-       "pos": "adj."
-      },
-      {
-       "h": "竞争",
-       "py": "jìngzhēng",
-       "gl": "competition",
-       "pos": "n."
-      },
-      {
-       "h": "密不可分",
-       "py": "mìbùkěfēn",
-       "gl": "inseparable; closely linked",
-       "pos": "phrase"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "However, the \"teen mode\" on short-video platforms reminds us that spending too long on your phone is bad for both your eyesight and your attention span, and many parents have started limiting how much time their kids spend on short-video apps.",
-   "phrases": [
-    {
-     "en": "However, the \"teen mode\" on short-video platforms reminds us",
-     "words": [
-      {
-       "h": "不过",
-       "py": "bùguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "短视频",
-       "py": "duǎnshìpín",
-       "gl": "short video",
-       "pos": "n."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "青少年模式",
-       "py": "qīngshàoniánmóshì",
-       "gl": "youth mode (parental-control setting)",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
-       "pos": "v."
-      },
-      {
-       "h": "我们",
-       "py": "wǒmen",
-       "gl": "we; us",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that spending too long on your phone is bad for both your eyesight and your attention span,",
-     "words": [
-      {
-       "h": "刷",
-       "py": "shuā",
-       "gl": "scroll (a feed); swipe (a card); fake (reviews, ratings)",
-       "pos": "v."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "久",
-       "py": "jiǔ",
-       "gl": "long (time); for a long time",
-       "pos": "adj."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "视力",
-       "py": "shìlì",
-       "gl": "eyesight; vision",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "注意力",
-       "py": "zhùyìlì",
-       "gl": "attention; concentration",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and many parents have started limiting how much time their kids spend on short-video apps.",
-     "words": [
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "家长",
-       "py": "jiāzhǎng",
-       "gl": "parent",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "限制",
-       "py": "xiànzhì",
-       "gl": "limit; restrict",
-       "pos": "v."
-      },
-      {
-       "h": "孩子",
-       "py": "háizi",
-       "gl": "child",
-       "pos": "n."
-      },
-      {
-       "h": "使用",
-       "py": "shǐyòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "短视频",
-       "py": "duǎnshìpín",
-       "gl": "short video",
-       "pos": "n."
-      },
-      {
-       "h": "软件",
-       "py": "ruǎnjiàn",
-       "gl": "app; software",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "At the same time, more and more users are paying attention to what permissions apps collect, and many regularly check and turn off unnecessary permissions to protect their privacy.",
-   "phrases": [
-    {
-     "en": "At the same time, more and more users are paying attention to what permissions apps collect,",
-     "words": [
-      {
-       "h": "与此同时",
-       "py": "yǔcǐtóngshí",
-       "gl": "at the same time; meanwhile",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
       },
       {
        "h": "越来越",
@@ -2918,8 +1667,120 @@
       {
        "h": "多",
        "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
+       "gl": "more (than)",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Her mom wrote it all down in a notebook with a pen, step by step: \"First press the green one, then press the little square.\"",
+   "phrases": [
+    {
+     "en": "Her mom wrote it all down in a notebook with a pen, step by step: \"First press the green one, then press the little square.\"",
+     "words": [
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "本子",
+       "py": "běnzi",
+       "gl": "notebook",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "笔",
+       "py": "bǐ",
+       "gl": "pen; brush; writing",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "步",
+       "py": "bù",
+       "gl": "step",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "步",
+       "py": "bù",
+       "gl": "step",
+       "pos": "n."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "记",
+       "py": "jì",
+       "gl": "remember; memorize; write down",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "先",
+       "py": "xiān",
+       "gl": "first; before",
+       "pos": "adv."
+      },
+      {
+       "h": "按",
+       "py": "àn",
+       "gl": "press",
+       "pos": "v."
+      },
+      {
+       "h": "绿色",
+       "py": "lǜsè",
+       "gl": "green",
+       "pos": "n."
       },
       {
        "h": "的",
@@ -2928,105 +1789,167 @@
        "pos": "particle"
       },
       {
-       "h": "用户",
-       "py": "yònghù",
-       "gl": "user",
+       "h": "，"
+      },
+      {
+       "h": "再",
+       "py": "zài",
+       "gl": "again; then",
+       "pos": "adv."
+      },
+      {
+       "h": "按",
+       "py": "àn",
+       "gl": "press",
+       "pos": "v."
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "方块",
+       "py": "fāngkuài",
+       "gl": "square, block",
        "pos": "n."
       },
       {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Mom, you can just remember it.\" \"Did you learn to walk in a day?\"",
+   "phrases": [
+    {
+     "en": "\"Mom, you can just remember it.\" \"Did you learn to walk in a day?\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "妈",
+       "py": "mā",
+       "gl": "mom; mother",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "记",
+       "py": "jì",
+       "gl": "remember; memorize; write down",
        "pos": "v."
       },
       {
-       "h": "关注",
-       "py": "guānzhù",
-       "gl": "pay attention to; follow (closely)",
-       "pos": "v."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
-       "h": "APP"
+       "h": "脑子",
+       "py": "nǎozi",
+       "gl": "brain; mind",
+       "pos": "n."
       },
       {
-       "h": "收集",
-       "py": "shōují",
-       "gl": "collect; gather",
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "行",
+       "py": "xíng",
+       "gl": "to be OK, will do",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "哪些",
-       "py": "nǎxiē",
-       "gl": "which (plural); what",
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
        "pos": "pron."
       },
       {
-       "h": "权限",
-       "py": "quánxiàn",
-       "gl": "permission; access rights",
-       "pos": "n."
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
+      },
+      {
+       "h": "走路",
+       "py": "zǒulù",
+       "gl": "walk",
+       "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and many regularly check and turn off unnecessary permissions",
-     "words": [
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
        "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn",
+       "pos": "v."
       },
       {
        "h": "会",
        "py": "huì",
        "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "定期",
-       "py": "dìngqī",
-       "gl": "regularly; periodically",
-       "pos": "adv."
-      },
-      {
-       "h": "检查",
-       "py": "jiǎnchá",
-       "gl": "check; inspect",
        "pos": "v."
-      },
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "conj."
-      },
-      {
-       "h": "关闭",
-       "py": "guānbì",
-       "gl": "close; shut down; turn off",
-       "pos": "v."
-      },
-      {
-       "h": "不必要",
-       "py": "bùbìyào",
-       "gl": "unnecessary",
-       "pos": "adj."
       },
       {
        "h": "的",
@@ -3035,36 +1958,59 @@
        "pos": "particle"
       },
       {
-       "h": "授权",
-       "py": "shòuquán",
-       "gl": "authorization; permission",
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening, on the high-speed train back, Xiao Su received the first voice message her mom had ever sent in her life.",
+   "phrases": [
+    {
+     "en": "That evening, on the high-speed train back, Xiao Su received the first voice message her mom had ever sent in her life.",
+     "words": [
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to protect their privacy.",
-     "words": [
-      {
-       "h": "以",
-       "py": "yǐ",
-       "gl": "in order to; so as to",
-       "pos": "conj."
       },
       {
-       "h": "保护",
-       "py": "bǎohù",
-       "gl": "protect; protection",
+       "h": "小苏",
+       "py": "Xiǎo Sū",
+       "gl": "Xiao Su",
+       "pos": "proper noun"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "回去",
+       "py": "huíqù",
+       "gl": "go back",
        "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
       },
       {
        "h": "的",
@@ -3073,9 +2019,78 @@
        "pos": "particle"
       },
       {
-       "h": "隐私",
-       "py": "yǐnsī",
-       "gl": "privacy",
+       "h": "高铁",
+       "py": "gāotiě",
+       "gl": "high-speed rail; bullet train",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "收到",
+       "py": "shōudào",
+       "gl": "receive",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "辈子",
+       "py": "bèizi",
+       "gl": "lifetime (一辈子 all one's life)",
+       "pos": "n."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for posts, messages, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "语音",
+       "py": "yǔyīn",
+       "gl": "voice message",
        "pos": "n."
       },
       {
@@ -3086,175 +2101,15 @@
    ]
   },
   {
-   "en": "It's easy to predict that as technology keeps advancing, phone apps will become even smarter, but how to make sure everyone can enjoy this convenience equally is still a question society needs to keep thinking about.",
+   "en": "First four seconds of silence, then a little rustling, and finally a careful \"Did it send? Can you hear me?\"",
    "phrases": [
     {
-     "en": "It's easy to predict that as technology keeps advancing, phone apps will become even smarter,",
+     "en": "First four seconds of silence, then a little rustling, and finally a careful \"Did it send? Can you hear me?\"",
      "words": [
       {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "function word"
-      },
-      {
-       "h": "预见",
-       "py": "yùjiàn",
-       "gl": "foresee; predict",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "随着",
-       "py": "suízhe",
-       "gl": "along with; as (something develops)",
-       "pos": "prep."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "进步",
-       "py": "jìnbù",
-       "gl": "progress; improve",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "软件",
-       "py": "ruǎnjiàn",
-       "gl": "app; software",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "变得",
-       "py": "biàndé",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "更加",
-       "py": "gèngjiā",
-       "gl": "even more",
-       "pos": "adv."
-      },
-      {
-       "h": "智能",
-       "py": "zhìnéng",
-       "gl": "smart (devices); intelligent",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but how to make sure everyone can enjoy this convenience equally",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "如何",
-       "py": "rúhé",
-       "gl": "how",
-       "pos": "adv."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "每个人",
-       "py": "měigèrén",
-       "gl": "everyone; each person",
-       "pos": "pron."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "平等",
-       "py": "píngděng",
-       "gl": "equal; equally",
-       "pos": "adj."
-      },
-      {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (认真地 'carefully')",
-       "pos": "particle"
-      },
-      {
-       "h": "享受",
-       "py": "xiǎngshòu",
-       "gl": "enjoy",
-       "pos": "v."
-      },
-      {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "便利",
-       "py": "biànlì",
-       "gl": "convenience",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "is still a question society needs to keep thinking about.",
-     "words": [
-      {
-       "h": "依然",
-       "py": "yīrán",
-       "gl": "still; as before",
+       "h": "先",
+       "py": "xiān",
+       "gl": "first; before",
        "pos": "adv."
       },
       {
@@ -3264,28 +2119,16 @@
        "pos": "v."
       },
       {
-       "h": "社会",
-       "py": "shèhuì",
-       "gl": "society",
-       "pos": "n."
+       "h": "四",
+       "py": "sì",
+       "gl": "four",
+       "pos": "num."
       },
       {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "持续",
-       "py": "chíxù",
-       "gl": "continue; last",
-       "pos": "adv."
-      },
-      {
-       "h": "思考",
-       "py": "sīkǎo",
-       "gl": "think; ponder; reflect",
-       "pos": "v."
+       "h": "秒",
+       "py": "miǎo",
+       "gl": "second",
+       "pos": "measure word"
       },
       {
        "h": "的",
@@ -3294,556 +2137,260 @@
        "pos": "particle"
       },
       {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem; trouble",
+       "h": "安静",
+       "py": "ānjìng",
+       "gl": "quiet; calm",
        "pos": "n."
       },
       {
-       "h": "。"
+       "h": "，"
+      },
+      {
+       "h": "然后",
+       "py": "ránhòu",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "声音",
+       "py": "shēngyīn",
+       "gl": "sound",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "小心",
+       "py": "xiǎoxīn",
+       "gl": "careful; be careful (不小心 'carelessly; by accident')",
+       "pos": "adv."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "出去",
+       "py": "chūqu",
+       "gl": "out (directional complement)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "你",
+       "py": "nǐ",
+       "gl": "you",
+       "pos": "pron."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "见",
+       "py": "jiàn",
+       "gl": "see; meet",
+       "pos": "v."
+      },
+      {
+       "h": "吗",
+       "py": "ma",
+       "gl": "question particle (yes/no questions)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "If I want to go shopping on the weekend, I usually first look up the mall's parking and special deals in a map app and plan my route ahead of time.",
+   "en": "Xiao Su didn't type; she sent a voice message too, speaking slowly so her mom could hear every word.",
    "phrases": [
     {
-     "en": "If I want to go shopping on the weekend, I usually first look up the mall's parking and special deals in a map app",
+     "en": "Xiao Su didn't type; she sent a voice message too, speaking slowly so her mom could hear every word.",
      "words": [
       {
-       "h": "周末",
-       "py": "zhōumò",
-       "gl": "weekend",
+       "h": "小苏",
+       "py": "Xiǎo Sū",
+       "gl": "Xiao Su",
+       "pos": "proper noun"
+      },
+      {
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
+       "pos": "v."
+      },
+      {
+       "h": "打",
+       "py": "dǎ",
+       "gl": "hit; play (ball games); make (a phone call)",
+       "pos": "v."
+      },
+      {
+       "h": "字",
+       "py": "zì",
+       "gl": "character (Chinese); written character",
        "pos": "n."
-      },
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like",
-       "pos": "v."
-      },
-      {
-       "h": "出门",
-       "py": "chūmén",
-       "gl": "go out (of the house); leave home",
-       "pos": "v."
-      },
-      {
-       "h": "逛街",
-       "py": "guàngjiē",
-       "gl": "go shopping; walk around the streets",
-       "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "通常",
-       "py": "tōngcháng",
-       "gl": "usually; normally",
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
        "pos": "adv."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "先",
-       "py": "xiān",
-       "gl": "first; before",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "地图软件",
-       "py": "dìtúruǎnjiàn",
-       "gl": "map app",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
-      },
-      {
-       "h": "搜索",
-       "py": "sōusuǒ",
-       "gl": "search",
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
        "pos": "v."
       },
       {
-       "h": "商场",
-       "py": "shāngchǎng",
-       "gl": "shopping mall",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "停车场",
-       "py": "tíngchēchǎng",
-       "gl": "parking lot",
-       "pos": "n."
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
       },
       {
-       "h": "优惠活动",
-       "py": "yōuhuìhuódòng",
-       "gl": "promotion; special offer",
+       "h": "语音",
+       "py": "yǔyīn",
+       "gl": "voice message",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and plan my route ahead of time.",
-     "words": [
+      },
       {
-       "h": "提前",
-       "py": "tíqián",
-       "gl": "in advance; ahead of time",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
        "pos": "adv."
       },
       {
-       "h": "规划",
-       "py": "guīhuà",
-       "gl": "plan; planning",
-       "pos": "v."
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "好",
        "py": "hǎo",
-       "gl": "well (after a verb: 保护好 'protect well')",
-       "pos": "function word"
-      },
-      {
-       "h": "路线",
-       "py": "lùxiàn",
-       "gl": "route",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "When you need to see a doctor, many hospitals now also let you book appointments and view test results online, so you no longer have to wait in long lines.",
-   "phrases": [
-    {
-     "en": "When you need to see a doctor, many hospitals now also let you book appointments and view test results online,",
-     "words": [
-      {
-       "h": "看病",
-       "py": "kànbìng",
-       "gl": "see a doctor",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "医院",
-       "py": "yīyuàn",
-       "gl": "hospital",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "推出",
-       "py": "tuīchū",
-       "gl": "launch; introduce; release",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "线上",
-       "py": "xiànshàng",
-       "gl": "online",
-       "pos": "adj."
-      },
-      {
-       "h": "挂号",
-       "py": "guàhào",
-       "gl": "register (at a hospital); make an appointment",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
+       "gl": "so that; in order to",
        "pos": "conj."
-      },
-      {
-       "h": "查看",
-       "py": "chákàn",
-       "gl": "check; look at",
-       "pos": "v."
-      },
-      {
-       "h": "检查报告",
-       "py": "jiǎnchábàogào",
-       "gl": "test report; medical report",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "功能",
-       "py": "gōngnéng",
-       "gl": "function; feature",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so you no longer have to wait in long lines.",
-     "words": [
-      {
-       "h": "不用",
-       "py": "bùyòng",
-       "gl": "not need; no need to",
-       "pos": "function word"
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; once more",
-       "pos": "adv."
-      },
-      {
-       "h": "排",
-       "py": "pái",
-       "gl": "line up; arrange in a row (排队 wait in line)",
-       "pos": "v."
-      },
-      {
-       "h": "长队",
-       "py": "chángduì",
-       "gl": "long line",
-       "pos": "n."
-      },
-      {
-       "h": "等候",
-       "py": "děnghòu",
-       "gl": "wait",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "On business trips, booking flights, booking hotels and calling cars can all be done on your phone in one go, which saves a lot of time and energy.",
-   "phrases": [
-    {
-     "en": "On business trips, booking flights, booking hotels and calling cars can all be done on your phone in one go,",
-     "words": [
-      {
-       "h": "出差",
-       "py": "chūchāi",
-       "gl": "go on a business trip",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "订",
-       "py": "dìng",
-       "gl": "book; order; reserve",
-       "pos": "v."
-      },
-      {
-       "h": "机票",
-       "py": "jīpiào",
-       "gl": "plane ticket",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "订",
-       "py": "dìng",
-       "gl": "book; order; reserve",
-       "pos": "v."
-      },
-      {
-       "h": "酒店",
-       "py": "jiǔdiàn",
-       "gl": "hotel",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "叫车",
-       "py": "jiàochē",
-       "gl": "call a car; hail a ride",
-       "pos": "v."
-      },
-      {
-       "h": "全部",
-       "py": "quánbù",
-       "gl": "all; entirely",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
-      },
-      {
-       "h": "一次",
-       "py": "yīcì",
-       "gl": "once; in one go; at the first attempt",
-       "pos": "num."
-      },
-      {
-       "h": "完成",
-       "py": "wánchéng",
-       "gl": "finish; complete",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which saves a lot of time and energy.",
-     "words": [
-      {
-       "h": "大大",
-       "py": "dàdà",
-       "gl": "greatly; considerably",
-       "pos": "adv."
-      },
-      {
-       "h": "节省",
-       "py": "jiéshěng",
-       "gl": "save; economize",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "精力",
-       "py": "jīnglì",
-       "gl": "energy; effort",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But we also have to admit that relying too much on app recommendations can sometimes make it hard to make decisions on our own — like what movie to watch or what to eat.",
-   "phrases": [
-    {
-     "en": "But we also have to admit that relying too much on app recommendations",
-     "words": [
-      {
-       "h": "不过",
-       "py": "bùguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
-      },
-      {
-       "h": "承认",
-       "py": "chéngrèn",
-       "gl": "admit; acknowledge",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "过度",
-       "py": "guòdù",
-       "gl": "excessively; overly; too much",
-       "pos": "adv."
-      },
-      {
-       "h": "依赖",
-       "py": "yīlài",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "软件",
-       "py": "ruǎnjiàn",
-       "gl": "app; software",
-       "pos": "n."
-      },
-      {
-       "h": "推荐",
-       "py": "tuījiàn",
-       "gl": "recommendation",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "can sometimes make it hard to make decisions on our own —",
-     "words": [
-      {
-       "h": "有时候",
-       "py": "yǒushíhòu",
-       "gl": "sometimes",
-       "pos": "adv."
-      },
-      {
-       "h": "反而",
-       "py": "fǎnér",
-       "gl": "on the contrary; instead",
-       "pos": "adv."
       },
       {
        "h": "让",
@@ -3852,1276 +2399,22 @@
        "pos": "v."
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
        "pos": "n."
       },
       {
-       "h": "很难",
-       "py": "hěnnán",
-       "gl": "very difficult; hard to",
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "清楚",
+       "py": "qīngchǔ",
+       "gl": "clear; clearly",
        "pos": "adj."
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; once more",
-       "pos": "adv."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "独立",
-       "py": "dúlì",
-       "gl": "independent; independence",
-       "pos": "adv."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "决定",
-       "py": "juédìng",
-       "gl": "decision",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "like what movie to watch or what to eat.",
-     "words": [
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "function word"
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
-       "pos": "v."
-      },
-      {
-       "h": "什么",
-       "py": "shénme",
-       "gl": "what",
-       "pos": "pron."
-      },
-      {
-       "h": "电影",
-       "py": "diànyǐng",
-       "gl": "movie; film",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "该",
-       "py": "gāi",
-       "gl": "should; ought to",
-       "pos": "function word"
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
-      },
-      {
-       "h": "什么",
-       "py": "shénme",
-       "gl": "what",
-       "pos": "pron."
-      },
-      {
-       "h": "饭",
-       "py": "fàn",
-       "gl": "meal; food; cooked rice",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Despite these small problems, most people still think the convenience apps bring to life far outweighs the trouble they cause.",
-   "phrases": [
-    {
-     "en": "Despite these small problems,",
-     "words": [
-      {
-       "h": "尽管",
-       "py": "jǐnguǎn",
-       "gl": "although; despite",
-       "pos": "conj."
-      },
-      {
-       "h": "存在",
-       "py": "cúnzài",
-       "gl": "exist",
-       "pos": "v."
-      },
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "小",
-       "py": "xiǎo",
-       "gl": "small; little",
-       "pos": "adj."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "most people still think",
-     "words": [
-      {
-       "h": "大多数",
-       "py": "dàduōshù",
-       "gl": "the vast majority; most",
-       "pos": "n."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "还是",
-       "py": "háishì",
-       "gl": "still; nevertheless; after all",
-       "pos": "adv."
-      },
-      {
-       "h": "认为",
-       "py": "rènwéi",
-       "gl": "think; believe; consider",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the convenience apps bring to life far outweighs the trouble they cause.",
-     "words": [
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "软件",
-       "py": "ruǎnjiàn",
-       "gl": "app; software",
-       "pos": "n."
-      },
-      {
-       "h": "给",
-       "py": "gěi",
-       "gl": "to; for (someone); give",
-       "pos": "prep."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
-      },
-      {
-       "h": "带来",
-       "py": "dàilái",
-       "gl": "bring; bring about",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "n."
-      },
-      {
-       "h": "远远",
-       "py": "yuǎnyuǎn",
-       "gl": "far; by far",
-       "pos": "adv."
-      },
-      {
-       "h": "大于",
-       "py": "dàyú",
-       "gl": "be greater than; exceed",
-       "pos": "v."
-      },
-      {
-       "h": "它",
-       "py": "tā",
-       "gl": "it",
-       "pos": "pron."
-      },
-      {
-       "h": "带来",
-       "py": "dàilái",
-       "gl": "bring; bring about",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "麻烦",
-       "py": "máfán",
-       "gl": "trouble; hassle; troublesome; inconvenient",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "When you travel by high-speed train, you just swipe your ID card or the e-ticket on your phone to go straight into the station — there's no need to print a paper ticket at all.",
-   "phrases": [
-    {
-     "en": "When you travel by high-speed train, you just swipe your ID card or the e-ticket on your phone",
-     "words": [
-      {
-       "h": "坐",
-       "py": "zuò",
-       "gl": "sit; ride; take (transport)",
-       "pos": "v."
-      },
-      {
-       "h": "高铁",
-       "py": "gāotiě",
-       "gl": "high-speed rail; bullet train",
-       "pos": "n."
-      },
-      {
-       "h": "出行",
-       "py": "chūxíng",
-       "gl": "travel; getting around",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "只要",
-       "py": "zhǐyào",
-       "gl": "as long as; if only",
-       "pos": "conj."
-      },
-      {
-       "h": "刷",
-       "py": "shuā",
-       "gl": "scan; swipe (a card)",
-       "pos": "v."
-      },
-      {
-       "h": "一下",
-       "py": "yīxià",
-       "gl": "a bit; briefly (after a verb: do something a little)",
-       "pos": "adv."
-      },
-      {
-       "h": "身份证",
-       "py": "shēnfènzhèng",
-       "gl": "ID card",
-       "pos": "n."
-      },
-      {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "电子车票",
-       "py": "diànzichēpiào",
-       "gl": "e-ticket",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to go straight into the station —",
-     "words": [
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "直接",
-       "py": "zhíjiē",
-       "gl": "directly; straight",
-       "pos": "adv."
-      },
-      {
-       "h": "进站",
-       "py": "jìnzhàn",
-       "gl": "enter the station",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "there's no need to print a paper ticket at all.",
-     "words": [
-      {
-       "h": "根本",
-       "py": "gēnběn",
-       "gl": "at all (in negatives); fundamentally",
-       "pos": "adv."
-      },
-      {
-       "h": "不用",
-       "py": "bùyòng",
-       "gl": "not need; no need to",
-       "pos": "function word"
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; once more",
-       "pos": "adv."
-      },
-      {
-       "h": "打印",
-       "py": "dǎyìn",
-       "gl": "print; print out",
-       "pos": "v."
-      },
-      {
-       "h": "纸质",
-       "py": "zhǐzhì",
-       "gl": "paper (made of paper); print",
-       "pos": "adj."
-      },
-      {
-       "h": "车票",
-       "py": "chēpiào",
-       "gl": "ticket (bus, train)",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "When borrowing books from the library, you just show the digital library card on your phone, and the system automatically records the checkout and return dates, which is really convenient.",
-   "phrases": [
-    {
-     "en": "When borrowing books from the library, you just show the digital library card on your phone,",
-     "words": [
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "图书馆",
-       "py": "túshūguǎn",
-       "gl": "library",
-       "pos": "n."
-      },
-      {
-       "h": "借书",
-       "py": "jièshū",
-       "gl": "borrow a book",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhòu",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "出示",
-       "py": "chūshì",
-       "gl": "show; present (a document)",
-       "pos": "v."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "电子借书证",
-       "py": "diànzijièshūzhèng",
-       "gl": "electronic library card",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the system automatically records the checkout and return dates,",
-     "words": [
-      {
-       "h": "系统",
-       "py": "xìtǒng",
-       "gl": "system",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "自动",
-       "py": "zìdòng",
-       "gl": "automatically; automatic",
-       "pos": "adv."
-      },
-      {
-       "h": "记录",
-       "py": "jìlù",
-       "gl": "record; write down; record (data)",
-       "pos": "v."
-      },
-      {
-       "h": "借还",
-       "py": "jièhái",
-       "gl": "borrowing and returning",
-       "pos": "n."
-      },
-      {
-       "h": "日期",
-       "py": "rìqī",
-       "gl": "date",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which is really convenient.",
-     "words": [
-      {
-       "h": "十分",
-       "py": "shífēn",
-       "gl": "very; extremely",
-       "pos": "adv."
-      },
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Even at the package lockers by the entrance of our residential complex, you can pick up your parcels just by scanning a code with your phone, so couriers and residents no longer waste time waiting for each other.",
-   "phrases": [
-    {
-     "en": "Even at the package lockers by the entrance of our residential complex, you can pick up your parcels just by scanning a code with your phone,",
-     "words": [
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "adv."
-      },
-      {
-       "h": "小区",
-       "py": "xiǎoqū",
-       "gl": "residential complex; neighborhood",
-       "pos": "n."
-      },
-      {
-       "h": "门口",
-       "py": "ménkǒu",
-       "gl": "entrance; doorway",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "快递柜",
-       "py": "kuàidìguì",
-       "gl": "parcel locker",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "function word"
-      },
-      {
-       "h": "直接",
-       "py": "zhíjiē",
-       "gl": "directly; straight",
-       "pos": "adv."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "扫码",
-       "py": "sǎomǎ",
-       "gl": "scan a code",
-       "pos": "v."
-      },
-      {
-       "h": "取件",
-       "py": "qǔjiàn",
-       "gl": "pick up (a parcel)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so couriers and residents no longer waste time waiting for each other.",
-     "words": [
-      {
-       "h": "快递员",
-       "py": "kuàidìyuán",
-       "gl": "courier; delivery person",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "居民",
-       "py": "jūmín",
-       "gl": "resident; inhabitant",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "不用",
-       "py": "bùyòng",
-       "gl": "not need; no need to",
-       "pos": "function word"
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; once more",
-       "pos": "adv."
-      },
-      {
-       "h": "花",
-       "py": "huā",
-       "gl": "spend (time, money); flower",
-       "pos": "v."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "互相",
-       "py": "hùxiāng",
-       "gl": "each other; mutually",
-       "pos": "adv."
-      },
-      {
-       "h": "等待",
-       "py": "děngdài",
-       "gl": "wait; await",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "You could say that a single phone has more or less replaced the wallet, bank cards, various IDs and tickets that we used to have to carry around.",
-   "phrases": [
-    {
-     "en": "You could say",
-     "words": [
-      {
-       "h": "可以说",
-       "py": "kěyǐshuō",
-       "gl": "one could say; it can be said",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that a single phone has more or less replaced the wallet, bank cards, various IDs and tickets that we used to have to carry around.",
-     "words": [
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "部",
-       "py": "bù",
-       "gl": "measure word for phones, machines, films",
-       "pos": "measure word"
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "几乎",
-       "py": "jīhū",
-       "gl": "almost; nearly",
-       "pos": "adv."
-      },
-      {
-       "h": "代替",
-       "py": "dàitì",
-       "gl": "replace; substitute for",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "从前",
-       "py": "cóngqián",
-       "gl": "the past; before; formerly",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require",
-       "pos": "v."
-      },
-      {
-       "h": "随身携带",
-       "py": "suíshēnxiédài",
-       "gl": "carry with one",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "钱包",
-       "py": "qiánbāo",
-       "gl": "wallet",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "银行卡",
-       "py": "yínhángkǎ",
-       "gl": "bank card",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "各种",
-       "py": "gèzhǒng",
-       "gl": "various; all kinds of",
-       "pos": "pron."
-      },
-      {
-       "h": "证件",
-       "py": "zhèngjiàn",
-       "gl": "ID; document",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "车票",
-       "py": "chēpiào",
-       "gl": "ticket (bus, train)",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Of course, that's exactly why losing your phone or running out of battery causes much more trouble than it used to, so a lot of people now always carry a power bank.",
-   "phrases": [
-    {
-     "en": "Of course, that's exactly why losing your phone or running out of battery",
-     "words": [
-      {
-       "h": "当然",
-       "py": "dāngrán",
-       "gl": "of course; certainly",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "正",
-       "py": "zhèng",
-       "gl": "precisely; just",
-       "pos": "adv."
-      },
-      {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because",
-       "pos": "conj."
-      },
-      {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "this way; like this",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一旦",
-       "py": "yídàn",
-       "gl": "once; in case; as soon as",
-       "pos": "conj."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "丢失",
-       "py": "diūshī",
-       "gl": "lose",
-       "pos": "v."
-      },
-      {
-       "h": "或者",
-       "py": "huòzhě",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "没电",
-       "py": "méidiàn",
-       "gl": "run out of battery; (power is off)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "causes much more trouble than it used to,",
-     "words": [
-      {
-       "h": "带来",
-       "py": "dàilái",
-       "gl": "bring; bring about",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "麻烦",
-       "py": "máfán",
-       "gl": "trouble; hassle; troublesome; inconvenient",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
-       "pos": "n."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; strong",
-       "pos": "adj."
-      },
-      {
-       "h": "得多",
-       "py": "déduō",
-       "gl": "much (more) (好得多 much better)",
-       "pos": "function word"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so a lot of people now always carry a power bank.",
-     "words": [
-      {
-       "h": "所以",
-       "py": "suǒyǐ",
-       "gl": "so; therefore",
-       "pos": "conj."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "随身",
-       "py": "suíshēn",
-       "gl": "(carry) with one; on one's person",
-       "pos": "adv."
-      },
-      {
-       "h": "带",
-       "py": "dài",
-       "gl": "carry (with oneself); take along",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "充电宝",
-       "py": "chōngdiànbǎo",
-       "gl": "power bank",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "When I want to rest on the weekend, I deliberately leave my phone in another room, forcing myself to get away from the screen for a while and quietly read a book.",
-   "phrases": [
-    {
-     "en": "When I want to rest on the weekend, I deliberately leave my phone in another room,",
-     "words": [
-      {
-       "h": "周末",
-       "py": "zhōumò",
-       "gl": "weekend",
-       "pos": "n."
-      },
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like",
-       "pos": "v."
-      },
-      {
-       "h": "休息",
-       "py": "xiūxī",
-       "gl": "rest",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
-       "pos": "adv."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "放在",
-       "py": "fàngzài",
-       "gl": "put in; put on; place",
-       "pos": "v."
-      },
-      {
-       "h": "另一个",
-       "py": "lìngyígè",
-       "gl": "another; the other",
-       "pos": "pron."
-      },
-      {
-       "h": "房间",
-       "py": "fángjiān",
-       "gl": "room",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "forcing myself to get away from the screen for a while",
-     "words": [
-      {
-       "h": "强迫",
-       "py": "qiǎngpò",
-       "gl": "force; compel",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "暂时",
-       "py": "zànshí",
-       "gl": "for now; temporarily",
-       "pos": "adv."
-      },
-      {
-       "h": "离开",
-       "py": "líkāi",
-       "gl": "leave",
-       "pos": "v."
-      },
-      {
-       "h": "屏幕",
-       "py": "píngmù",
-       "gl": "screen",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and quietly read a book.",
-     "words": [
-      {
-       "h": "安静",
-       "py": "ānjìng",
-       "gl": "quiet; calm",
-       "pos": "adv."
-      },
-      {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (认真地 'carefully')",
-       "pos": "particle"
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
-       "pos": "v."
-      },
-      {
-       "h": "一会儿",
-       "py": "yīhuìer",
-       "gl": "a while; a moment",
-       "pos": "adv."
-      },
-      {
-       "h": "书",
-       "py": "shū",
-       "gl": "book",
-       "pos": "n."
       },
       {
        "h": "。"

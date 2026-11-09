@@ -1,299 +1,59 @@
 {
  "id": "realestate5",
  "level": 5,
- "title_zh": "小李买房的经历",
- "title_en": "Xiao Li Buys an Apartment",
+ "title_zh": "第三套房子",
+ "title_en": "The Third Apartment",
  "free": false,
  "audio_url": null,
- "note_en": "套 is the measure word for things that come as a complete set, and it's the standard one for apartments and houses: 中介带他看了三套房子 \"the agent showed him three apartments,\" and once the noun is clear it can stand alone: 一套靠近地铁站，一套靠近学校 \"one near the subway, one near a school.\" English just says \"one,\" but Chinese keeps the measure word even when the noun is dropped.",
+ "note_en": "The measure word 套 is used for things made of parts that count as a set: 三套房子 \"three apartments\" (rooms, kitchen, bathroom, all together), 一套家具 \"a set of furniture.\" Buildings take other measure words, but an apartment is always 套. In speech the noun is often dropped: 你们只有一套 \"you only have one (apartment).\"",
  "sentences": [
   {
-   "en": "Xiao Li recently decided to buy an apartment, so he started browsing all kinds of property listings online.",
+   "en": "On one Sunday, the agent showed them three apartments.",
    "phrases": [
     {
-     "en": "Xiao Li recently decided to buy an apartment,",
+     "en": "On one Sunday, the agent showed them three apartments.",
      "words": [
       {
-       "h": "小李",
-       "py": "Xiǎo Lǐ",
-       "gl": "Xiao Li (name)",
-       "pos": "proper noun"
+       "h": "中介",
+       "py": "zhōngjiè",
+       "gl": "real-estate agent",
+       "pos": "n."
       },
       {
-       "h": "最近",
-       "py": "zuìjìn",
-       "gl": "recently; lately",
-       "pos": "adv."
-      },
-      {
-       "h": "打算",
-       "py": "dǎsuàn",
-       "gl": "plan; intend",
-       "pos": "v."
-      },
-      {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
        "pos": "num."
       },
       {
-       "h": "套",
-       "py": "tào",
-       "gl": "measure word for sets (of ideas, furniture, etc.)",
-       "pos": "measure word"
-      },
-      {
-       "h": "房子",
-       "py": "fángzi",
-       "gl": "house; apartment",
+       "h": "星期天",
+       "py": "xīngqītiān",
+       "gl": "Sunday",
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so he started browsing all kinds of property listings online.",
-     "words": [
-      {
-       "h": "于是",
-       "py": "yúshì",
-       "gl": "so; thereupon; then",
-       "pos": "conj."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
+       "h": "带",
+       "py": "dài",
+       "gl": "bring; take (along); carry",
        "pos": "v."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "网上",
-       "py": "wǎngshàng",
-       "gl": "online; on the internet",
-       "pos": "n."
-      },
-      {
-       "h": "浏览",
-       "py": "liúlǎn",
-       "gl": "browse",
-       "pos": "v."
-      },
-      {
-       "h": "各种",
-       "py": "gèzhǒng",
-       "gl": "all kinds of; various",
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
        "pos": "pron."
       },
       {
-       "h": "房源",
-       "py": "fángyuán",
-       "gl": "housing listing; available housing",
-       "pos": "n."
-      },
-      {
-       "h": "信息",
-       "py": "xìnxī",
-       "gl": "information",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "First he looked at size, price and location, and then he contacted a real estate agent and set up a time to go see some places in person.",
-   "phrases": [
-    {
-     "en": "First he looked at size, price and location,",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "先",
-       "py": "xiān",
-       "gl": "first; before",
-       "pos": "adv."
-      },
-      {
-       "h": "看了",
-       "py": "kànle",
-       "gl": "looked at; saw; watched",
-       "pos": "v."
-      },
-      {
-       "h": "房子",
-       "py": "fángzi",
-       "gl": "house; apartment",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "面积",
-       "py": "miànjī",
-       "gl": "area (size)",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "价格",
-       "py": "jiàgé",
-       "gl": "price",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "位置",
-       "py": "wèizhì",
-       "gl": "position; location; place",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and then he contacted a real estate agent and set up a time to go see some places in person.",
-     "words": [
-      {
-       "h": "然后",
-       "py": "ránhòu",
-       "gl": "then; after that",
-       "pos": "conj."
-      },
-      {
-       "h": "联系",
-       "py": "liánxì",
-       "gl": "contact; get in touch",
+       "h": "看",
+       "py": "kàn",
+       "gl": "(给...看) show",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
        "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "位",
-       "py": "wèi",
-       "gl": "polite measure word for people",
-       "pos": "measure word"
-      },
-      {
-       "h": "中介",
-       "py": "zhōngjiè",
-       "gl": "agent; intermediary",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "约好",
-       "py": "yuēhǎo",
-       "gl": "agree on; arrange (to meet)",
-       "pos": "v."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
-       "pos": "v."
-      },
-      {
-       "h": "实地",
-       "py": "shídì",
-       "gl": "on site; in person",
-       "pos": "adv."
-      },
-      {
-       "h": "看房",
-       "py": "kànfáng",
-       "gl": "view a house (apartment)",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The agent showed him three apartments: one near a subway station, one near a school, and one in the suburbs that was a lot cheaper.",
-   "phrases": [
-    {
-     "en": "The agent showed him three apartments:",
-     "words": [
-      {
-       "h": "中介",
-       "py": "zhōngjiè",
-       "gl": "agent; intermediary",
-       "pos": "n."
-      },
-      {
-       "h": "带",
-       "py": "dài",
-       "gl": "show around; lead",
-       "pos": "v."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "看了",
-       "py": "kànle",
-       "gl": "looked at; saw; watched",
-       "pos": "v."
+       "pos": "function word"
       },
       {
        "h": "三",
@@ -314,88 +74,22 @@
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "The first was next to a school, in a school district, and the price made Xiao Li count the zeros twice.",
+   "phrases": [
     {
-     "en": "one near a subway station, one near a school,",
+     "en": "The first was next to a school, in a school district, and the price made Xiao Li count the zeros twice.",
      "words": [
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "套",
-       "py": "tào",
-       "gl": "measure word for sets (of ideas, furniture, etc.)",
-       "pos": "measure word"
-      },
-      {
-       "h": "靠近",
-       "py": "kàojìn",
-       "gl": "near; close to",
-       "pos": "v."
-      },
-      {
-       "h": "地铁站",
-       "py": "dìtiězhàn",
-       "gl": "subway station",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "套",
-       "py": "tào",
-       "gl": "measure word for sets (of ideas, furniture, etc.)",
-       "pos": "measure word"
-      },
-      {
-       "h": "靠近",
-       "py": "kàojìn",
-       "gl": "near; close to",
-       "pos": "v."
-      },
-      {
-       "h": "学校",
-       "py": "xuéxiào",
-       "gl": "school",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and one in the suburbs that was a lot cheaper.",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
        "pos": "num."
       },
       {
@@ -407,7 +101,134 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "学校",
+       "py": "xuéxiào",
+       "gl": "school",
+       "pos": "n."
+      },
+      {
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "学区房",
+       "py": "xuéqūfáng",
+       "gl": "school-district housing",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "价格",
+       "py": "jiàgé",
+       "gl": "price",
+       "pos": "n."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "小李",
+       "py": "Xiǎo Lǐ",
+       "gl": "Xiao Li (name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "后面",
+       "py": "hòumiàn",
+       "gl": "later (on); further on",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "零",
+       "py": "líng",
+       "gl": "zero",
+       "pos": "num."
+      },
+      {
+       "h": "数",
+       "py": "shǔ",
+       "gl": "count",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "遍",
+       "py": "biàn",
+       "gl": "measure word for times (doing something from start to finish)",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The second was in the suburbs: cheap, quiet, and an hour and forty minutes from work.",
+   "phrases": [
+    {
+     "en": "The second was in the suburbs: cheap, quiet, and an hour and forty minutes from work.",
+     "words": [
+      {
+       "h": "第二",
+       "py": "dìèr",
+       "gl": "second",
+       "pos": "num."
+      },
+      {
+       "h": "套",
+       "py": "tào",
+       "gl": "measure word for sets (of ideas, furniture, etc.)",
+       "pos": "measure word"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
@@ -420,22 +241,70 @@
        "h": "，"
       },
       {
-       "h": "价格",
-       "py": "jiàgé",
-       "gl": "price",
-       "pos": "n."
-      },
-      {
        "h": "便宜",
        "py": "piányi",
        "gl": "cheap; inexpensive",
        "pos": "adj."
       },
       {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
+       "h": "，"
+      },
+      {
+       "h": "安静",
+       "py": "ānjìng",
+       "gl": "quiet; calm",
        "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "公司",
+       "py": "gōngsī",
+       "gl": "company; office (work)",
+       "pos": "n."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
+       "pos": "n."
+      },
+      {
+       "h": "四十",
+       "py": "sìshí",
+       "gl": "forty",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
       },
       {
        "h": "。"
@@ -445,60 +314,28 @@
    ]
   },
   {
-   "en": "After talking it over with his girlfriend, Xiao Li decided that although the one near the subway was a bit more expensive, it was more convenient for getting to work, and it had more amenities nearby.",
+   "en": "The third was next to a subway station: sixty square meters, secondhand, with faded floral wallpaper on the walls.",
    "phrases": [
     {
-     "en": "After talking it over with his girlfriend,",
+     "en": "The third was next to a subway station: sixty square meters, secondhand, with faded floral wallpaper on the walls.",
      "words": [
       {
-       "h": "小李",
-       "py": "Xiǎo Lǐ",
-       "gl": "Xiao Li (name)",
-       "pos": "proper noun"
+       "h": "第三",
+       "py": "dìsān",
+       "gl": "third",
+       "pos": "num."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "with",
-       "pos": "conj."
+       "h": "套",
+       "py": "tào",
+       "gl": "measure word for sets (of ideas, furniture, etc.)",
+       "pos": "measure word"
       },
       {
-       "h": "女朋友",
-       "py": "nǚpéngyou",
-       "gl": "girlfriend",
-       "pos": "n."
-      },
-      {
-       "h": "商量",
-       "py": "shāngliang",
-       "gl": "discuss; consult",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Xiao Li decided that although the one near the subway was a bit more expensive,",
-     "words": [
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "靠近",
-       "py": "kàojìn",
-       "gl": "near; close to",
-       "pos": "v."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
        "h": "地铁站",
@@ -507,463 +344,66 @@
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "房子",
-       "py": "fángzi",
-       "gl": "house; apartment",
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
        "pos": "n."
-      },
-      {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
-      },
-      {
-       "h": "贵",
-       "py": "guì",
-       "gl": "expensive",
-       "pos": "adj."
-      },
-      {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; a bit",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "it was more convenient for getting to work, and it had more amenities nearby.",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "上班",
-       "py": "shàngbān",
-       "gl": "go to work; work",
-       "pos": "v."
-      },
-      {
-       "h": "比较",
-       "py": "bǐjiào",
-       "gl": "relatively; fairly; compare",
-       "pos": "adv."
-      },
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "adj."
       },
       {
        "h": "，"
       },
       {
-       "h": "周围",
-       "py": "zhōuwéi",
-       "gl": "surroundings; around",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
-      },
-      {
-       "h": "设施",
-       "py": "shèshī",
-       "gl": "facilities; infrastructure",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "比较",
-       "py": "bǐjiào",
-       "gl": "relatively; fairly; compare",
-       "pos": "adv."
-      },
-      {
-       "h": "齐全",
-       "py": "qíquán",
-       "gl": "complete; fully equipped",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The agent told them that to buy an apartment, they'd first need to make a down payment, and the rest could be covered by a bank loan and paid off gradually over many years.",
-   "phrases": [
-    {
-     "en": "The agent told them",
-     "words": [
-      {
-       "h": "中介",
-       "py": "zhōngjiè",
-       "gl": "agent; intermediary",
-       "pos": "n."
-      },
-      {
-       "h": "告诉",
-       "py": "gàosu",
-       "gl": "tell",
-       "pos": "v."
-      },
-      {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that to buy an apartment, they'd first need to make a down payment,",
-     "words": [
-      {
-       "h": "买房",
-       "py": "mǎifáng",
-       "gl": "buy a home; buying a home",
-       "pos": "v."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require",
-       "pos": "v."
-      },
-      {
-       "h": "先",
-       "py": "xiān",
-       "gl": "first; before",
-       "pos": "adv."
-      },
-      {
-       "h": "付",
-       "py": "fù",
-       "gl": "pay",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "六十",
+       "py": "liùshí",
+       "gl": "sixty",
        "pos": "num."
       },
       {
-       "h": "部分",
-       "py": "bùfen",
-       "gl": "part; section",
-       "pos": "n."
-      },
-      {
-       "h": "首付",
-       "py": "shǒufù",
-       "gl": "down payment",
+       "h": "平米",
+       "py": "píngmǐ",
+       "gl": "square meter",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the rest could be covered by a bank loan and paid off gradually over many years.",
-     "words": [
+      },
       {
-       "h": "剩下",
-       "py": "shèngxià",
-       "gl": "be left (over); remain",
+       "h": "二手房",
+       "py": "èrshǒufáng",
+       "gl": "resale home; secondhand housing",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "墙",
+       "py": "qiáng",
+       "gl": "wall",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "贴",
+       "py": "tiē",
+       "gl": "stick; paste; put up",
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
        "pos": "particle"
       },
       {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "function word"
-      },
-      {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
-      },
-      {
-       "h": "银行",
-       "py": "yínháng",
-       "gl": "bank",
-       "pos": "n."
-      },
-      {
-       "h": "贷款",
-       "py": "dàikuǎn",
-       "gl": "loan",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "分成",
-       "py": "fēnchéng",
-       "gl": "divide into",
-       "pos": "v."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "慢慢",
-       "py": "mànmàn",
-       "gl": "slowly; gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "还",
-       "py": "huán",
-       "gl": "repay; pay back",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "They worked out how much they'd have to pay on the loan each month, decided the pressure was manageable, and chose to sign the contract.",
-   "phrases": [
-    {
-     "en": "They worked out how much they'd have to pay on the loan each month,",
-     "words": [
-      {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
-       "pos": "pron."
-      },
-      {
-       "h": "算了一下",
-       "py": "suànleyíxià",
-       "gl": "did a quick calculation; worked out",
-       "pos": "v."
-      },
-      {
-       "h": "每个",
-       "py": "měigè",
-       "gl": "every; each",
-       "pos": "pron."
-      },
-      {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
-       "pos": "n."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
-      },
-      {
-       "h": "还",
-       "py": "huán",
-       "gl": "repay; pay back",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "贷款",
-       "py": "dàikuǎn",
-       "gl": "loan",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "decided the pressure was manageable,",
-     "words": [
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "压力",
-       "py": "yālì",
-       "gl": "pressure; stress",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "fairly; reasonably",
-       "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "function word"
-      },
-      {
-       "h": "接受",
-       "py": "jiēshòu",
-       "gl": "accept",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and chose to sign the contract.",
-     "words": [
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "决定",
-       "py": "juédìng",
-       "gl": "decide; decision",
-       "pos": "v."
-      },
-      {
-       "h": "签",
-       "py": "qiān",
-       "gl": "sign",
-       "pos": "v."
-      },
-      {
-       "h": "合同",
-       "py": "hétong",
-       "gl": "contract",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "When signing the contract, Xiao Li paid particular attention to the property's ownership title, and only felt comfortable paying after making sure there were no disputes.",
-   "phrases": [
-    {
-     "en": "When signing the contract, Xiao Li paid particular attention to the property's ownership title,",
-     "words": [
-      {
-       "h": "签",
-       "py": "qiān",
-       "gl": "sign",
-       "pos": "v."
-      },
-      {
-       "h": "合同",
-       "py": "hétong",
-       "gl": "contract",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "时候",
-       "py": "shíhou",
-       "gl": "time; moment (when ...)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "小李",
-       "py": "Xiǎo Lǐ",
-       "gl": "Xiao Li (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly",
-       "pos": "adv."
-      },
-      {
-       "h": "注意",
-       "py": "zhùyì",
-       "gl": "pay attention to; be careful about",
+       "h": "褪",
+       "py": "tuì",
+       "gl": "fade",
        "pos": "v."
       },
       {
@@ -973,9 +413,9 @@
        "pos": "particle"
       },
       {
-       "h": "房子",
-       "py": "fángzi",
-       "gl": "house; apartment",
+       "h": "色",
+       "py": "sè",
+       "gl": "color",
        "pos": "n."
       },
       {
@@ -985,72 +425,16 @@
        "pos": "particle"
       },
       {
-       "h": "产权",
-       "py": "chǎnquán",
-       "gl": "property rights",
+       "h": "花",
+       "py": "huā",
+       "gl": "flower",
        "pos": "n."
       },
       {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem",
+       "h": "墙纸",
+       "py": "qiángzhǐ",
+       "gl": "wallpaper",
        "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and only felt comfortable paying after making sure there were no disputes.",
-     "words": [
-      {
-       "h": "确认",
-       "py": "quèrèn",
-       "gl": "confirm",
-       "pos": "v."
-      },
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
-       "pos": "v."
-      },
-      {
-       "h": "什么",
-       "py": "shénme",
-       "gl": "what",
-       "pos": "pron."
-      },
-      {
-       "h": "纠纷",
-       "py": "jiūfēn",
-       "gl": "dispute",
-       "pos": "n."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "才",
-       "py": "cái",
-       "gl": "only then; not until",
-       "pos": "adv."
-      },
-      {
-       "h": "放心",
-       "py": "fàngxīn",
-       "gl": "feel at ease; stop worrying",
-       "pos": "v."
-      },
-      {
-       "h": "付款",
-       "py": "fùkuǎn",
-       "gl": "pay; make a payment",
-       "pos": "v."
       },
       {
        "h": "。"
@@ -1060,42 +444,464 @@
    ]
   },
   {
-   "en": "After moving into the new apartment, Xiao Li often said that when choosing a home, you can't just look at the apartment itself — the surroundings of the complex and the neighbors matter just as much.",
+   "en": "The sellers were an elderly couple moving to their daughter's home in another city.",
    "phrases": [
     {
-     "en": "After moving into the new apartment,",
+     "en": "The sellers were an elderly couple moving to their daughter's home in another city.",
      "words": [
       {
-       "h": "搬进",
-       "py": "bānjìn",
-       "gl": "move into",
+       "h": "卖",
+       "py": "mài",
+       "gl": "sell",
        "pos": "v."
       },
       {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "房子",
-       "py": "fángzi",
-       "gl": "house; apartment",
+       "h": "房",
+       "py": "fáng",
+       "gl": "home, apartment",
        "pos": "n."
       },
       {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "老人",
+       "py": "lǎorén",
+       "gl": "old person; elderly people",
        "pos": "n."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "搬",
+       "py": "bān",
+       "gl": "move (house); carry",
+       "pos": "v."
+      },
+      {
+       "h": "去",
+       "py": "qù",
+       "gl": "go (to)",
+       "pos": "v."
+      },
+      {
+       "h": "外地",
+       "py": "wàidì",
+       "gl": "another city; away from home",
+       "pos": "n."
+      },
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "On the kitchen wall there were still pencil lines: their daughter's height from age three to eighteen.",
+   "phrases": [
     {
-     "en": "Xiao Li often said that when choosing a home, you can't just look at the apartment itself —",
+     "en": "On the kitchen wall there were still pencil lines: their daughter's height from age three to eighteen.",
+     "words": [
+      {
+       "h": "厨房",
+       "py": "chúfáng",
+       "gl": "kitchen",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "墙",
+       "py": "qiáng",
+       "gl": "wall",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "留",
+       "py": "liú",
+       "gl": "stay; remain",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "铅笔",
+       "py": "qiānbǐ",
+       "gl": "pencil",
+       "pos": "n."
+      },
+      {
+       "h": "画",
+       "py": "huà",
+       "gl": "to draw, mark",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "线",
+       "py": "xiàn",
+       "gl": "line",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "十八",
+       "py": "shíbā",
+       "gl": "eighteen",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "身高",
+       "py": "shēngāo",
+       "gl": "height (of a person)",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"You'll paint over them, I suppose?\" the old woman asked. Xiao Xue answered at once: \"No.\"",
+   "phrases": [
+    {
+     "en": "\"You'll paint over them, I suppose?\" the old woman asked. Xiao Xue answered at once: \"No.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "你们",
+       "py": "nǐmen",
+       "gl": "you (plural)",
+       "pos": "pron."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "刷",
+       "py": "shuā",
+       "gl": "to paint (with a brush)",
+       "pos": "v."
+      },
+      {
+       "h": "掉",
+       "py": "diào",
+       "gl": "(complement: away, off)",
+       "pos": "v."
+      },
+      {
+       "h": "吧",
+       "py": "ba",
+       "gl": "(particle: supposition)",
+       "pos": "particle"
+      },
+      {
+       "h": "？"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "老奶奶",
+       "py": "lǎonǎinǎi",
+       "gl": "granny; old woman",
+       "pos": "n."
+      },
+      {
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "小雪",
+       "py": "Xiǎo Xuě",
+       "gl": "Xiaoxue",
+       "pos": "proper noun"
+      },
+      {
+       "h": "马上",
+       "py": "mǎshàng",
+       "gl": "immediately; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "不会",
+       "py": "búhuì",
+       "gl": "will not; be unlikely (会不会 'will or won't')",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Xue's mother thought the marital home should be provided by the groom's family; that's what everyone does.",
+   "phrases": [
+    {
+     "en": "Xiao Xue's mother thought the marital home should be provided by the groom's family; that's what everyone does.",
+     "words": [
+      {
+       "h": "小雪",
+       "py": "Xiǎo Xuě",
+       "gl": "Xiaoxue",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "觉得",
+       "py": "juéde",
+       "gl": "feel; think",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "婚房",
+       "py": "hūnfáng",
+       "gl": "marital home",
+       "pos": "n."
+      },
+      {
+       "h": "应该",
+       "py": "yīnggāi",
+       "gl": "should; ought to; probably",
+       "pos": "v."
+      },
+      {
+       "h": "由",
+       "py": "yóu",
+       "gl": "by (marks the agent)",
+       "pos": "prep."
+      },
+      {
+       "h": "男方",
+       "py": "nánfāng",
+       "gl": "the groom's side; the man's family",
+       "pos": "n."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "准备",
+       "py": "zhǔnbèi",
+       "gl": "prepare; get ready",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "大家",
+       "py": "dàjiā",
+       "gl": "everyone; everybody",
+       "pos": "pron."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Li's father came from their hometown and, without a word, put a bankbook wrapped in a handkerchief on the table.",
+   "phrases": [
+    {
+     "en": "Xiao Li's father came from their hometown and, without a word, put a bankbook wrapped in a handkerchief on the table.",
      "words": [
       {
        "h": "小李",
@@ -1104,9 +910,66 @@
        "pos": "proper noun"
       },
       {
-       "h": "常",
-       "py": "cháng",
-       "gl": "often",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "老家",
+       "py": "lǎojiā",
+       "gl": "hometown; family home",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "话",
+       "py": "huà",
+       "gl": "words; speech; what someone says",
+       "pos": "n."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
        "pos": "adv."
       },
       {
@@ -1119,54 +982,46 @@
        "h": "，"
       },
       {
-       "h": "选",
-       "py": "xuǎn",
-       "gl": "choose; pick",
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
        "pos": "v."
       },
       {
-       "h": "房子",
-       "py": "fángzi",
-       "gl": "house; apartment",
+       "h": "手帕",
+       "py": "shǒupà",
+       "gl": "handkerchief",
        "pos": "n."
       },
       {
-       "h": "不只是",
-       "py": "bùzhǐshì",
-       "gl": "not just; not only",
-       "pos": "conj."
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
+       "h": "包",
+       "py": "bāo",
+       "gl": "wrap; make (dumplings)",
        "pos": "v."
       },
       {
-       "h": "房子",
-       "py": "fángzi",
-       "gl": "house; apartment",
-       "pos": "n."
-      },
-      {
-       "h": "本身",
-       "py": "běnshēn",
-       "gl": "itself; in itself",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the surroundings of the complex and the neighbors matter just as much.",
-     "words": [
-      {
-       "h": "小区",
-       "py": "xiǎoqū",
-       "gl": "residential complex; neighborhood",
-       "pos": "n."
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
       },
       {
        "h": "的",
@@ -1175,40 +1030,40 @@
        "pos": "particle"
       },
       {
-       "h": "环境",
-       "py": "huánjìng",
-       "gl": "environment; surroundings",
+       "h": "存折",
+       "py": "cúnzhé",
+       "gl": "bankbook",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
       },
       {
-       "h": "邻居",
-       "py": "línjū",
-       "gl": "neighbor",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "桌",
+       "py": "zhuō",
+       "gl": "table",
        "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "同样",
-       "py": "tóngyàng",
-       "gl": "the same; likewise; also; likewise; equally; the same; similar",
-       "pos": "adv."
-      },
-      {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
+       "h": "上",
+       "py": "shàng",
+       "gl": "on; in; in terms of (after a noun: 世界上 in the world, 工作上 at work)",
+       "pos": "postposition"
       },
       {
        "h": "。"
@@ -1218,22 +1073,213 @@
    ]
   },
   {
-   "en": "In China, before a couple gets married, the groom's family is often expected to have a marital home ready, which leaves many young people burdened with mortgage pressure.",
+   "en": "It was everything he had saved in thirty years.",
    "phrases": [
     {
-     "en": "In China, before a couple gets married, the groom's family is often expected to have a marital home ready, which leaves many young people burdened with mortgage pressure.",
+     "en": "It was everything he had saved in thirty years.",
      "words": [
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "三十",
+       "py": "sānshí",
+       "gl": "thirty",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "攒",
+       "py": "zǎn",
+       "gl": "save up; accumulate",
+       "pos": "v."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "under (强光下 under bright light)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "全部",
+       "py": "quánbù",
+       "gl": "all; entirely",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Li took only half and gave the handkerchief back to his father: \"We'll borrow the rest.\"",
+   "phrases": [
+    {
+     "en": "Xiao Li took only half and gave the handkerchief back to his father: \"We'll borrow the rest.\"",
+     "words": [
+      {
+       "h": "小李",
+       "py": "Xiǎo Lǐ",
+       "gl": "Xiao Li (name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一半",
+       "py": "yíbàn",
+       "gl": "half",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
        "pos": "prep."
       },
       {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
+       "h": "手帕",
+       "py": "shǒupà",
+       "gl": "handkerchief",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "huán",
+       "gl": "return; give back",
+       "pos": "v."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "剩下",
+       "py": "shèngxià",
+       "gl": "be left (over); remain",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "贷款",
+       "py": "dàikuǎn",
+       "gl": "loan",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Since 2024, the down payment for a first home in many cities has been cut to fifteen percent.",
+   "phrases": [
+    {
+     "en": "Since 2024, the down payment for a first home in many cities has been cut to fifteen percent.",
+     "words": [
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "二零二四年",
+       "py": "èr líng èr sì nián",
+       "gl": "(the year) 2024",
+       "pos": "n."
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "(从…起) starting from",
+       "pos": "postposition"
       },
       {
        "h": "，"
@@ -1245,337 +1291,15 @@
        "pos": "adj."
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "people; others",
-       "pos": "n."
-      },
-      {
-       "h": "结婚",
-       "py": "jiéhūn",
-       "gl": "marry; get married",
-       "pos": "v."
-      },
-      {
-       "h": "前",
-       "py": "qián",
-       "gl": "ago; before",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "男方",
-       "py": "nánfāng",
-       "gl": "the groom's side; the man's family",
-       "pos": "n."
-      },
-      {
-       "h": "家庭",
-       "py": "jiātíng",
-       "gl": "family; household",
-       "pos": "n."
-      },
-      {
-       "h": "常常",
-       "py": "chángcháng",
-       "gl": "often",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "先",
-       "py": "xiān",
-       "gl": "first; before",
-       "pos": "adv."
-      },
-      {
-       "h": "准备好",
-       "py": "zhǔnbèihǎo",
-       "gl": "get ready; prepare",
-       "pos": "v."
-      },
-      {
-       "h": "婚房",
-       "py": "hūnfáng",
-       "gl": "marital home; wedding apartment",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "年轻人",
-       "py": "niánqīngrén",
-       "gl": "young people",
-       "pos": "n."
-      },
-      {
-       "h": "背上",
-       "py": "bèishàng",
-       "gl": "shoulder (a burden); take on",
-       "pos": "v."
-      },
-      {
-       "h": "房贷",
-       "py": "fángdài",
-       "gl": "mortgage",
-       "pos": "n."
-      },
-      {
-       "h": "压力",
-       "py": "yālì",
-       "gl": "pressure; stress",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "On top of that, so their child can get into a better elementary school, some parents spare no expense to buy a so-called \"school district home.\"",
-   "phrases": [
-    {
-     "en": "On top of that, so their child can get into a better elementary school, some parents spare no expense to buy a so-called \"school district home.\"",
-     "words": [
-      {
-       "h": "另外",
-       "py": "lìngwài",
-       "gl": "in addition; besides; other; separately",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "孩子",
-       "py": "háizi",
-       "gl": "child",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "attend (school); go to (school)",
-       "pos": "v."
-      },
-      {
-       "h": "更好",
-       "py": "gènghǎo",
-       "gl": "better",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "小学",
-       "py": "xiǎoxué",
-       "gl": "elementary school",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "pron."
-      },
-      {
-       "h": "家长",
-       "py": "jiāzhǎng",
-       "gl": "parent",
-       "pos": "n."
-      },
-      {
-       "h": "不惜",
-       "py": "bùxī",
-       "gl": "not hesitate to; spare no (cost, effort)",
-       "pos": "v."
-      },
-      {
-       "h": "花",
-       "py": "huā",
-       "gl": "spend (time, money); flower",
-       "pos": "v."
-      },
-      {
-       "h": "高价",
-       "py": "gāojià",
-       "gl": "high price",
-       "pos": "n."
-      },
-      {
-       "h": "买下",
-       "py": "mǎixià",
-       "gl": "buy; purchase",
-       "pos": "v."
-      },
-      {
-       "h": "所谓",
-       "py": "suǒwèi",
-       "gl": "so-called; what is called",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "学区房",
-       "py": "xuéqūfáng",
-       "gl": "school-district housing",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "To ease the pressure on homebuyers, many Chinese cities have lowered the down payment ratio for first homes in recent years, to as little as about 15 percent of the price.",
-   "phrases": [
-    {
-     "en": "To ease the pressure on homebuyers,",
-     "words": [
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "减轻",
-       "py": "jiǎnqīng",
-       "gl": "lighten; reduce; ease",
-       "pos": "v."
-      },
-      {
-       "h": "购房者",
-       "py": "gòufángzhě",
-       "gl": "homebuyer",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "压力",
-       "py": "yālì",
-       "gl": "pressure; stress",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "many Chinese cities have lowered the down payment ratio for first homes in recent years,",
-     "words": [
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
        "h": "城市",
        "py": "chéngshì",
        "gl": "city",
        "pos": "n."
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "下调",
-       "py": "xiàtiáo",
-       "gl": "lower; cut (a rate, level)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -1585,72 +1309,34 @@
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
        "h": "首付",
        "py": "shǒufù",
        "gl": "down payment",
        "pos": "n."
       },
       {
-       "h": "比例",
-       "py": "bǐlì",
-       "gl": "proportion; ratio",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to as little as about 15 percent of the price.",
-     "words": [
-      {
-       "h": "最低",
-       "py": "zuìdī",
-       "gl": "lowest; minimum",
-       "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "function word"
-      },
-      {
-       "h": "降到",
-       "py": "jiàngdào",
-       "gl": "drop to; fall to",
+       "h": "降",
+       "py": "jiàng",
+       "gl": "fall; drop",
        "pos": "v."
       },
       {
-       "h": "房价",
-       "py": "fángjià",
-       "gl": "housing price",
-       "pos": "n."
+       "h": "到",
+       "py": "dào",
+       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
+       "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
        "h": "百分之十五",
-       "py": "bǎifēnzhīshíwǔ",
+       "py": "bǎi fēn zhī shíwǔ",
        "gl": "fifteen percent",
        "pos": "num."
-      },
-      {
-       "h": "左右",
-       "py": "zuǒyòu",
-       "gl": "about; around (after a number)",
-       "pos": "adv."
       },
       {
        "h": "。"
@@ -1660,83 +1346,27 @@
    ]
   },
   {
-   "en": "Besides applying for a commercial loan, many people also try to get a housing provident fund loan, because its interest rate is usually quite a bit lower than a commercial loan's, which saves a lot of interest.",
+   "en": "They took a housing provident fund loan first, since its rate is lower than a commercial loan's, and calculated again and again: the monthly payment wouldn't exceed a third of their combined income.",
    "phrases": [
     {
-     "en": "Besides applying for a commercial loan,",
+     "en": "They took a housing provident fund loan first, since its rate is lower than a commercial loan's,",
      "words": [
       {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
       },
       {
-       "h": "申请",
-       "py": "shēnqǐng",
-       "gl": "apply (for); application",
-       "pos": "v."
-      },
-      {
-       "h": "商业",
-       "py": "shāngyè",
-       "gl": "commercial; business",
-       "pos": "adj."
-      },
-      {
-       "h": "贷款",
-       "py": "dàikuǎn",
-       "gl": "loan",
-       "pos": "n."
-      },
-      {
-       "h": "以外",
-       "py": "yǐwài",
-       "gl": "besides; apart from (除了…以外)",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "many people also try to get a housing provident fund loan,",
-     "words": [
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
+       "h": "先",
+       "py": "xiān",
+       "gl": "first; before",
        "pos": "adv."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "尽量",
-       "py": "jǐnliàng",
-       "gl": "try one's best to; as far as possible",
-       "pos": "adv."
-      },
-      {
-       "h": "申请",
-       "py": "shēnqǐng",
-       "gl": "apply (for); application",
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
        "pos": "v."
       },
       {
@@ -1753,35 +1383,6 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "because its interest rate is usually quite a bit lower than a commercial loan's,",
-     "words": [
-      {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because",
-       "pos": "conj."
-      },
-      {
-       "h": "公积金",
-       "py": "gōngjījīn",
-       "gl": "housing provident fund",
-       "pos": "n."
-      },
-      {
-       "h": "贷款",
-       "py": "dàikuǎn",
-       "gl": "loan",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
       },
       {
        "h": "利率",
@@ -1790,27 +1391,15 @@
        "pos": "n."
       },
       {
-       "h": "通常",
-       "py": "tōngcháng",
-       "gl": "usually; normally",
-       "pos": "adv."
-      },
-      {
        "h": "比",
        "py": "bǐ",
        "gl": "than; compared with (comparison)",
        "pos": "prep."
       },
       {
-       "h": "商业",
-       "py": "shāngyè",
-       "gl": "commercial; business",
-       "pos": "adj."
-      },
-      {
-       "h": "贷款",
-       "py": "dàikuǎn",
-       "gl": "loan",
+       "h": "商业贷款",
+       "py": "shāngyè dàikuǎn",
+       "gl": "commercial loan",
        "pos": "n."
       },
       {
@@ -1820,1631 +1409,43 @@
        "pos": "adj."
       },
       {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "which saves a lot of interest.",
+     "en": "and calculated again and again: the monthly payment wouldn't exceed a third of their combined income.",
      "words": [
       {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "省下",
-       "py": "shěngxià",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "利息",
-       "py": "lìxī",
-       "gl": "interest (on money)",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In addition, Shanghai and Chongqing have been piloting a property tax since 2011, with the aim of making people who own several homes pay a bit more in tax.",
-   "phrases": [
-    {
-     "en": "In addition,",
-     "words": [
-      {
-       "h": "另外",
-       "py": "lìngwài",
-       "gl": "in addition; besides; other; separately",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Shanghai and Chongqing have been piloting a property tax since 2011,",
-     "words": [
-      {
-       "h": "上海",
-       "py": "shànghǎi",
-       "gl": "Shanghai",
-       "pos": "proper noun"
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "重庆",
-       "py": "chóngqìng",
-       "gl": "Chongqing",
-       "pos": "proper noun"
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "二零一一年",
-       "py": "èrlíngyīyīnián",
-       "gl": "the year 2011",
-       "pos": "num."
-      },
-      {
-       "h": "起",
-       "py": "qǐ",
-       "gl": "(从…起) starting from",
-       "pos": "postposition"
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "试点",
-       "py": "shìdiǎn",
-       "gl": "pilot; run a trial",
-       "pos": "v."
-      },
-      {
-       "h": "房产税",
-       "py": "fángchǎnshuì",
-       "gl": "property tax",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "with the aim of making people who own several homes pay a bit more in tax.",
-     "words": [
-      {
-       "h": "目的",
-       "py": "mùdì",
-       "gl": "purpose; goal",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "拥有",
-       "py": "yōngyǒu",
-       "gl": "have; own; possess",
-       "pos": "v."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "套",
-       "py": "tào",
-       "gl": "measure word for sets (of ideas, furniture, etc.)",
-       "pos": "measure word"
-      },
-      {
-       "h": "房子",
-       "py": "fángzi",
-       "gl": "house; apartment",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "more (than)",
-       "pos": "adv."
-      },
-      {
-       "h": "承担",
-       "py": "chéngdān",
-       "gl": "take on; bear (a responsibility)",
-       "pos": "v."
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; a few",
-       "pos": "pron."
-      },
-      {
-       "h": "税费",
-       "py": "shuìfèi",
-       "gl": "taxes and fees",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The property tax pilot has now been running for more than ten years, but in 2022 the authorities announced they would not expand the pilot for the time being, so whether it will be rolled out nationwide is still an open question.",
-   "phrases": [
-    {
-     "en": "The property tax pilot has now been running for more than ten years,",
-     "words": [
-      {
-       "h": "房产税",
-       "py": "fángchǎnshuì",
-       "gl": "property tax",
-       "pos": "n."
-      },
-      {
-       "h": "试点",
-       "py": "shìdiǎn",
-       "gl": "pilot; run a trial",
-       "pos": "n."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; up to (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "十多",
-       "py": "shíduō",
-       "gl": "more than ten",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but in 2022 the authorities announced they would not expand the pilot for the time being,",
-     "words": [
-      {
-       "h": "不过",
-       "py": "búguò",
-       "gl": "however; but",
-       "pos": "conj."
-      },
-      {
-       "h": "2022"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year",
-       "pos": "n."
-      },
-      {
-       "h": "有关",
-       "py": "yǒuguān",
-       "gl": "relevant; concerned",
-       "pos": "adj."
-      },
-      {
-       "h": "部门",
-       "py": "bùmén",
-       "gl": "department; authority",
-       "pos": "n."
-      },
-      {
-       "h": "宣布",
-       "py": "xuānbù",
-       "gl": "announce",
-       "pos": "v."
-      },
-      {
-       "h": "暂时",
-       "py": "zànshí",
-       "gl": "for the time being; temporarily",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not",
-       "pos": "adv."
-      },
-      {
-       "h": "扩大",
-       "py": "kuòdà",
-       "gl": "expand; enlarge",
-       "pos": "v."
-      },
-      {
-       "h": "试点",
-       "py": "shìdiǎn",
-       "gl": "pilot; trial",
-       "pos": "n."
-      },
-      {
-       "h": "范围",
-       "py": "fànwéi",
-       "gl": "scope; range",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so whether it will be rolled out nationwide is still an open question.",
-     "words": [
-      {
-       "h": "所以",
-       "py": "suǒyǐ",
-       "gl": "so; therefore",
-       "pos": "conj."
-      },
-      {
-       "h": "是否",
-       "py": "shìfǒu",
-       "gl": "whether; if",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "推广",
-       "py": "tuīguǎng",
-       "gl": "promote; popularize",
-       "pos": "v."
-      },
-      {
-       "h": "到",
-       "py": "dào",
-       "gl": "to; up to (从…到… from … to …)",
-       "pos": "prep."
-      },
-      {
-       "h": "全国",
-       "py": "quánguó",
-       "gl": "the whole country; nationwide",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "目前",
-       "py": "mùqián",
-       "gl": "at present; currently",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "still",
-       "pos": "adv."
-      },
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
-       "pos": "v."
-      },
-      {
-       "h": "定论",
-       "py": "dìnglùn",
-       "gl": "final conclusion; settled answer",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Mortgage rates have also been adjusted several times over the years: the central bank has repeatedly cut the five-year-plus loan prime rate, which has eased many homebuyers' monthly repayment burden somewhat.",
-   "phrases": [
-    {
-     "en": "Mortgage rates have also been adjusted several times over the years:",
-     "words": [
-      {
-       "h": "房贷",
-       "py": "fángdài",
-       "gl": "mortgage",
-       "pos": "n."
-      },
-      {
-       "h": "利率",
-       "py": "lìlǜ",
-       "gl": "interest rate",
-       "pos": "n."
-      },
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "go through; experience",
+       "h": "算",
+       "py": "suàn",
+       "gl": "count as; be considered",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
-      },
-      {
-       "h": "调整",
-       "py": "tiáozhěng",
-       "gl": "adjust; tune",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the central bank has repeatedly cut the five-year-plus loan prime rate,",
-     "words": [
-      {
-       "h": "央行",
-       "py": "yāngháng",
-       "gl": "central bank",
-       "pos": "n."
-      },
-      {
-       "h": "多次",
-       "py": "duōcì",
-       "gl": "many times; repeatedly",
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
        "pos": "adv."
       },
       {
-       "h": "下调",
-       "py": "xiàtiáo",
-       "gl": "lower; cut (a rate, level)",
+       "h": "算",
+       "py": "suàn",
+       "gl": "count as; be considered",
        "pos": "v."
-      },
-      {
-       "h": "五年期",
-       "py": "wǔniánqī",
-       "gl": "five-year (term)",
-       "pos": "n."
-      },
-      {
-       "h": "以上",
-       "py": "yǐshàng",
-       "gl": "more than; over; above",
-       "pos": "n."
-      },
-      {
-       "h": "贷款",
-       "py": "dàikuǎn",
-       "gl": "loan",
-       "pos": "n."
-      },
-      {
-       "h": "市场",
-       "py": "shìchǎng",
-       "gl": "market",
-       "pos": "n."
-      },
-      {
-       "h": "报价",
-       "py": "bàojià",
-       "gl": "quoted price; quote",
-       "pos": "n."
-      },
-      {
-       "h": "利率",
-       "py": "lìlǜ",
-       "gl": "interest rate",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which has eased many homebuyers' monthly repayment burden somewhat.",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "购房者",
-       "py": "gòufángzhě",
-       "gl": "homebuyer",
-       "pos": "n."
-      },
-      {
-       "h": "每月",
-       "py": "měiyuè",
-       "gl": "every month; monthly",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "还款",
-       "py": "háikuǎn",
-       "gl": "repayment; repay (a loan)",
-       "pos": "n."
-      },
-      {
-       "h": "压力",
-       "py": "yālì",
-       "gl": "pressure; stress",
-       "pos": "n."
-      },
-      {
-       "h": "有所",
-       "py": "yǒusuǒ",
-       "gl": "to some extent; somewhat",
-       "pos": "adv."
-      },
-      {
-       "h": "减轻",
-       "py": "jiǎnqīng",
-       "gl": "lighten; reduce; ease",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Xiao Li worked out that if he paid off part of the loan early, he could save a lot of interest overall, so he planned to work for a few years and save up a good sum before thinking about early repayment.",
-   "phrases": [
-    {
-     "en": "Xiao Li worked out",
-     "words": [
-      {
-       "h": "小李",
-       "py": "xiǎolǐ",
-       "gl": "Xiao Li (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "算了一下",
-       "py": "suànleyīxià",
-       "gl": "did a quick calculation; worked out",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that if he paid off part of the loan early, he could save a lot of interest overall,",
-     "words": [
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "提前",
-       "py": "tíqián",
-       "gl": "in advance; ahead of time",
-       "pos": "adv."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "repay; pay back",
-       "pos": "v."
-      },
-      {
-       "h": "一部分",
-       "py": "yībùfèn",
-       "gl": "part; portion",
-       "pos": "n."
-      },
-      {
-       "h": "贷款",
-       "py": "dàikuǎn",
-       "gl": "loan",
-       "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "总共",
-       "py": "zǒnggòng",
-       "gl": "in total; altogether",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "省下",
-       "py": "shěngxià",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "利息",
-       "py": "lìxī",
-       "gl": "interest (on money)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so he planned to work for a few years and save up a good sum before thinking about early repayment.",
-     "words": [
-      {
-       "h": "于是",
-       "py": "yúshì",
-       "gl": "so; thereupon; then",
-       "pos": "conj."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "打算",
-       "py": "dǎsuàn",
-       "gl": "plan; intend",
-       "pos": "v."
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work",
-       "pos": "v."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "攒够",
-       "py": "zǎngòu",
-       "gl": "save up enough",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "笔",
-       "py": "bǐ",
-       "gl": "measure word for sums of money",
-       "pos": "measure word"
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "then; only then",
-       "pos": "adv."
-      },
-      {
-       "h": "考虑",
-       "py": "kǎolǜ",
-       "gl": "consider; think about",
-       "pos": "v."
-      },
-      {
-       "h": "提前",
-       "py": "tíqián",
-       "gl": "in advance; ahead of time",
-       "pos": "adv."
-      },
-      {
-       "h": "还款",
-       "py": "háikuǎn",
-       "gl": "repayment; repay (a loan)",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Besides new homes, the secondhand housing market has also become more and more active in recent years, and many young people looking to save money prefer secondhand apartments in good locations at relatively low prices.",
-   "phrases": [
-    {
-     "en": "Besides new homes,",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "新房",
-       "py": "xīnfáng",
-       "gl": "new home; new housing",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the secondhand housing market has also become more and more active in recent years,",
-     "words": [
-      {
-       "h": "二手房",
-       "py": "èrshǒufáng",
-       "gl": "resale home; secondhand housing",
-       "pos": "n."
-      },
-      {
-       "h": "市场",
-       "py": "shìchǎng",
-       "gl": "market",
-       "pos": "n."
-      },
-      {
-       "h": "这些",
-       "py": "zhèxiē",
-       "gl": "these",
-       "pos": "pron."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "活跃",
-       "py": "huóyuè",
-       "gl": "active; lively; liven up",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and many young people looking to save money",
-     "words": [
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "年轻人",
-       "py": "niánqīngrén",
-       "gl": "young people",
-       "pos": "n."
-      },
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "省钱",
-       "py": "shěngqián",
-       "gl": "save money",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "prefer secondhand apartments in good locations at relatively low prices.",
-     "words": [
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "优先",
-       "py": "yōuxiān",
-       "gl": "first; as a priority",
-       "pos": "adv."
-      },
-      {
-       "h": "考虑",
-       "py": "kǎolǜ",
-       "gl": "consider; think about",
-       "pos": "v."
-      },
-      {
-       "h": "地段",
-       "py": "dìduàn",
-       "gl": "location; area (of a property)",
-       "pos": "n."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good",
-       "pos": "adj."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "价格",
-       "py": "jiàgé",
-       "gl": "price",
-       "pos": "n."
-      },
-      {
-       "h": "相对",
-       "py": "xiāngduì",
-       "gl": "relatively; comparatively",
-       "pos": "adv."
-      },
-      {
-       "h": "便宜",
-       "py": "piányi",
-       "gl": "cheap; inexpensive",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "二手房",
-       "py": "èrshǒufáng",
-       "gl": "resale home; secondhand housing",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Buying a secondhand apartment involves a bit more paperwork than buying a new one: besides signing the contract, you also have to transfer the title, which usually has to be done in person at the real estate registration center.",
-   "phrases": [
-    {
-     "en": "Buying a secondhand apartment involves a bit more paperwork than buying a new one:",
-     "words": [
-      {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
-       "pos": "v."
-      },
-      {
-       "h": "二手房",
-       "py": "èrshǒufáng",
-       "gl": "resale home; secondhand housing",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "手续",
-       "py": "shǒuxù",
-       "gl": "procedure; formalities",
-       "pos": "n."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
-       "pos": "v."
-      },
-      {
-       "h": "新房",
-       "py": "xīnfáng",
-       "gl": "new home; new housing",
-       "pos": "n."
-      },
-      {
-       "h": "复杂",
-       "py": "fùzá",
-       "gl": "complicated; complex",
-       "pos": "adj."
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; a few",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "besides signing the contract, you also have to transfer the title,",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "签",
-       "py": "qiān",
-       "gl": "sign",
-       "pos": "v."
-      },
-      {
-       "h": "合同",
-       "py": "hétóng",
-       "gl": "contract",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
-      },
-      {
-       "h": "办理",
-       "py": "bànlǐ",
-       "gl": "handle; take care of (business)",
-       "pos": "v."
-      },
-      {
-       "h": "房产",
-       "py": "fángchǎn",
-       "gl": "real estate; property",
-       "pos": "n."
-      },
-      {
-       "h": "过户",
-       "py": "guòhù",
-       "gl": "transfer of ownership",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which usually has to be done in person at the real estate registration center.",
-     "words": [
-      {
-       "h": "一般",
-       "py": "yìbān",
-       "gl": "usually; generally",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go (to)",
-       "pos": "v."
-      },
-      {
-       "h": "不动产",
-       "py": "bùdòngchǎn",
-       "gl": "real estate; real property",
-       "pos": "n."
-      },
-      {
-       "h": "登记",
-       "py": "dēngjì",
-       "gl": "register; registration",
-       "pos": "n."
-      },
-      {
-       "h": "中心",
-       "py": "zhōngxīn",
-       "gl": "center",
-       "pos": "n."
-      },
-      {
-       "h": "现场",
-       "py": "xiànchǎng",
-       "gl": "live; on site",
-       "pos": "adv."
-      },
-      {
-       "h": "办理",
-       "py": "bànlǐ",
-       "gl": "handle; take care of (business)",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After the transfer is done, you also have to pay the deed tax, a registration fee and other charges; the exact amounts are calculated from the size and total price of the property, and policies vary slightly from city to city.",
-   "phrases": [
-    {
-     "en": "After the transfer is done,",
-     "words": [
-      {
-       "h": "过户",
-       "py": "guòhù",
-       "gl": "transfer of ownership",
-       "pos": "n."
-      },
-      {
-       "h": "手续",
-       "py": "shǒuxù",
-       "gl": "procedure; formalities",
-       "pos": "n."
-      },
-      {
-       "h": "办好",
-       "py": "bànhǎo",
-       "gl": "get done; complete (paperwork)",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "you also have to pay the deed tax, a registration fee and other charges;",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "缴纳",
-       "py": "jiǎonà",
-       "gl": "pay (fees, taxes, contributions)",
-       "pos": "v."
-      },
-      {
-       "h": "契税",
-       "py": "qìshuì",
-       "gl": "deed tax (on property purchase)",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "登记费",
-       "py": "dēngjìfèi",
-       "gl": "registration fee",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "particle"
-      },
-      {
-       "h": "费用",
-       "py": "fèiyòng",
-       "gl": "cost; expenses",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the exact amounts are calculated from the size and total price of the property,",
-     "words": [
-      {
-       "h": "具体",
-       "py": "jùtǐ",
-       "gl": "specific; concrete",
-       "pos": "adv."
-      },
-      {
-       "h": "金额",
-       "py": "jīné",
-       "gl": "amount (of money)",
-       "pos": "n."
-      },
-      {
-       "h": "根据",
-       "py": "gēnjù",
-       "gl": "according to; based on",
-       "pos": "prep."
-      },
-      {
-       "h": "房屋",
-       "py": "fángwū",
-       "gl": "house; housing",
-       "pos": "n."
-      },
-      {
-       "h": "面积",
-       "py": "miànjī",
-       "gl": "area (size)",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "总价",
-       "py": "zǒngjià",
-       "gl": "total price",
-       "pos": "n."
-      },
-      {
-       "h": "计算",
-       "py": "jìsuàn",
-       "gl": "calculation; computing",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and policies vary slightly from city to city.",
-     "words": [
-      {
-       "h": "不同",
-       "py": "bùtóng",
-       "gl": "different",
-       "pos": "adj."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "政策",
-       "py": "zhèngcè",
-       "gl": "policy",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "略",
-       "py": "lüè",
-       "gl": "slightly; a little",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "不同",
-       "py": "bùtóng",
-       "gl": "different",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After talking it over, Xiao Li and his girlfriend decided not to rush into a fancy renovation of their marital home for now, but to get the basic furniture first and upgrade gradually later when they could afford it.",
-   "phrases": [
-    {
-     "en": "After talking it over, Xiao Li and his girlfriend decided",
-     "words": [
-      {
-       "h": "小李",
-       "py": "xiǎolǐ",
-       "gl": "Xiao Li (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "with",
-       "pos": "conj."
-      },
-      {
-       "h": "女朋友",
-       "py": "nǚpéngyǒu",
-       "gl": "girlfriend",
-       "pos": "n."
-      },
-      {
-       "h": "商量",
-       "py": "shāngliáng",
-       "gl": "discuss; consult",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "决定",
-       "py": "juédìng",
-       "gl": "decide; decision",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "not to rush into a fancy renovation of their marital home for now,",
-     "words": [
-      {
-       "h": "暂时",
-       "py": "zànshí",
-       "gl": "for now; temporarily",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "急着",
-       "py": "jízhe",
-       "gl": "be in a hurry to",
-       "pos": "v."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "婚房",
-       "py": "hūnfáng",
-       "gl": "marital home; wedding apartment",
-       "pos": "n."
-      },
-      {
-       "h": "装修",
-       "py": "zhuāngxiū",
-       "gl": "renovate; renovation",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "dé",
-       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
-       "pos": "function word"
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "豪华",
-       "py": "háohuá",
-       "gl": "luxurious; luxury",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but to get the basic furniture first",
-     "words": [
-      {
-       "h": "先",
-       "py": "xiān",
-       "gl": "first; before",
-       "pos": "adv."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "基本",
-       "py": "jīběn",
-       "gl": "basic; basically",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "家具",
-       "py": "jiājù",
-       "gl": "furniture",
-       "pos": "n."
-      },
-      {
-       "h": "添置",
-       "py": "tiānzhì",
-       "gl": "buy; acquire (furniture, equipment)",
-       "pos": "v."
-      },
-      {
-       "h": "齐全",
-       "py": "qíquán",
-       "gl": "complete; fully equipped",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and upgrade gradually later when they could afford it.",
-     "words": [
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "条件",
-       "py": "tiáojiàn",
-       "gl": "conditions; terms",
-       "pos": "n."
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "then; only then",
-       "pos": "adv."
-      },
-      {
-       "h": "慢慢",
-       "py": "mànmàn",
-       "gl": "slowly; gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "升级",
-       "py": "shēngjí",
-       "gl": "upgrade",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The two of them also agreed to keep their monthly loan payments under a third of their household income, so that life wouldn't feel too tight.",
-   "phrases": [
-    {
-     "en": "The two of them also agreed",
-     "words": [
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "商量好",
-       "py": "shāngliánghǎo",
-       "gl": "agree on; arrange in advance",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to keep their monthly loan payments under a third of their household income,",
-     "words": [
-      {
-       "h": "每个",
-       "py": "měigè",
+       "h": "每",
+       "py": "měi",
        "gl": "every; each",
        "pos": "pron."
       },
@@ -3455,45 +1456,42 @@
        "pos": "n."
       },
       {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
        "h": "的",
        "py": "de",
        "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "还贷款",
-       "py": "huándàikuǎn",
-       "gl": "repay a loan",
-       "pos": "v."
-      },
-      {
-       "h": "金额",
-       "py": "jīné",
-       "gl": "amount (of money)",
+       "h": "钱",
+       "py": "qián",
+       "gl": "money",
        "pos": "n."
       },
       {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
+       "h": "，"
       },
       {
-       "h": "控制",
-       "py": "kòngzhì",
-       "gl": "control",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "超过",
+       "py": "chāoguò",
+       "gl": "exceed; surpass; be more than",
        "pos": "v."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "家庭",
-       "py": "jiātíng",
-       "gl": "family; household",
+       "h": "两个人",
+       "py": "liǎnggèrén",
+       "gl": "two people",
        "pos": "n."
       },
       {
@@ -3515,68 +1513,6 @@
        "pos": "num."
       },
       {
-       "h": "以内",
-       "py": "yǐnèi",
-       "gl": "within",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so that life wouldn't feel too tight.",
-     "words": [
-      {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "like this; this way; such",
-       "pos": "pron."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on; in (after a noun: 桌子上 on the table; 历史上 in history)",
-       "pos": "postposition"
-      },
-      {
-       "h": "才",
-       "py": "cái",
-       "gl": "only then; not until",
-       "pos": "adv."
-      },
-      {
-       "h": "不会",
-       "py": "búhuì",
-       "gl": "will not; be unlikely (会不会 'will or won't')",
-       "pos": "function word"
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "紧张",
-       "py": "jǐnzhāng",
-       "gl": "nervous; tense",
-       "pos": "adj."
-      },
-      {
        "h": "。"
       }
      ]
@@ -3584,780 +1520,81 @@
    ]
   },
   {
-   "en": "To ease the pressure on young people buying homes, some cities have also introduced shared-ownership housing in recent years: buyers only need to purchase part of the ownership, and the government holds the rest.",
+   "en": "At the real estate registration center they transferred ownership and paid the deed tax.",
    "phrases": [
     {
-     "en": "To ease the pressure on young people buying homes,",
+     "en": "At the real estate registration center they transferred ownership and paid the deed tax.",
      "words": [
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "减轻",
-       "py": "jiǎnqīng",
-       "gl": "lighten; reduce; ease",
-       "pos": "v."
-      },
-      {
-       "h": "年轻人",
-       "py": "niánqīngrén",
-       "gl": "young people",
-       "pos": "n."
-      },
-      {
-       "h": "买房",
-       "py": "mǎifáng",
-       "gl": "buy a home; buying a home",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "压力",
-       "py": "yālì",
-       "gl": "pressure; stress",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "some cities have also introduced shared-ownership housing in recent years:",
-     "words": [
-      {
-       "h": "近年来",
-       "py": "jìnniánlái",
-       "gl": "in recent years",
-       "pos": "adv."
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "pron."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "推出",
-       "py": "tuīchū",
-       "gl": "launch; introduce; release",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "共有产权房",
-       "py": "gòngyǒuchǎnquánfáng",
-       "gl": "shared-ownership housing",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "buyers only need to purchase part of the ownership,",
-     "words": [
-      {
-       "h": "购房者",
-       "py": "gòufángzhě",
-       "gl": "homebuyer",
-       "pos": "n."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "购买",
-       "py": "gòumǎi",
-       "gl": "buy; purchase",
-       "pos": "v."
-      },
-      {
-       "h": "房屋",
-       "py": "fángwū",
-       "gl": "house; housing",
-       "pos": "n."
-      },
-      {
-       "h": "产权",
-       "py": "chǎnquán",
-       "gl": "property rights",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "一部分",
-       "py": "yībùfèn",
-       "gl": "part; portion",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the government holds the rest.",
-     "words": [
-      {
-       "h": "其余",
-       "py": "qíyú",
-       "gl": "the rest; remaining",
-       "pos": "adj."
-      },
-      {
-       "h": "部分",
-       "py": "bùfèn",
-       "gl": "part; section",
-       "pos": "n."
-      },
-      {
-       "h": "由",
-       "py": "yóu",
-       "gl": "by (marks the agent)",
-       "pos": "prep."
-      },
-      {
-       "h": "政府",
-       "py": "zhèngfǔ",
-       "gl": "government",
-       "pos": "n."
-      },
-      {
-       "h": "持有",
-       "py": "chíyǒu",
-       "gl": "hold; possess",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Shared-ownership homes are usually priced well below market value, but if you want to sell your share later on, you have to go through an approval process.",
-   "phrases": [
-    {
-     "en": "Shared-ownership homes are usually priced well below market value,",
-     "words": [
-      {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "共有产权房",
-       "py": "gòngyǒuchǎnquánfáng",
-       "gl": "shared-ownership housing",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "价格",
-       "py": "jiàgé",
-       "gl": "price",
-       "pos": "n."
-      },
-      {
-       "h": "通常",
-       "py": "tōngcháng",
-       "gl": "usually; normally",
-       "pos": "adv."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "市场价",
-       "py": "shìchǎngjià",
-       "gl": "market price",
-       "pos": "n."
-      },
-      {
-       "h": "低",
-       "py": "dī",
-       "gl": "low",
-       "pos": "adj."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but if you want to sell your share later on,",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "将来",
-       "py": "jiānglái",
-       "gl": "future; in the future",
-       "pos": "n."
-      },
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like",
-       "pos": "v."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "那部分",
-       "py": "nàbùfèn",
-       "gl": "that part",
-       "pos": "n."
-      },
-      {
-       "h": "产权",
-       "py": "chǎnquán",
-       "gl": "property rights",
-       "pos": "n."
-      },
-      {
-       "h": "卖掉",
-       "py": "màidiào",
-       "gl": "sell (off)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "you have to go through an approval process.",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require; need to; have to",
-       "pos": "v."
-      },
-      {
-       "h": "经过",
-       "py": "jīngguò",
-       "gl": "go through; undergo; pass by",
-       "pos": "v."
-      },
-      {
-       "h": "一定",
-       "py": "yídìng",
-       "gl": "certain; some (degree of)",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "审批",
-       "py": "shěnpī",
-       "gl": "approval; examine and approve",
-       "pos": "n."
-      },
-      {
-       "h": "程序",
-       "py": "chéngxù",
-       "gl": "program (computer); procedure",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After buying the apartment, Xiao Li also made a point of looking into how property management fees are charged, and found that his complex charges about 2.5 yuan per square meter per month, mainly for landscaping and security.",
-   "phrases": [
-    {
-     "en": "After buying the apartment, Xiao Li also made a point of looking into how property management fees are charged,",
-     "words": [
-      {
-       "h": "买房",
-       "py": "mǎifáng",
-       "gl": "buy a home; buying a home",
-       "pos": "v."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "小李",
-       "py": "xiǎolǐ",
-       "gl": "Xiao Li (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
-       "pos": "adv."
-      },
-      {
-       "h": "了解",
-       "py": "liǎojiě",
-       "gl": "know; understand; get to know",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "物业费",
-       "py": "wùyèfèi",
-       "gl": "property management fee",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "收取",
-       "py": "shōuqǔ",
-       "gl": "charge; collect (fees)",
-       "pos": "v."
-      },
-      {
-       "h": "标准",
-       "py": "biāozhǔn",
-       "gl": "standard",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and found that his complex charges about 2.5 yuan per square meter per month,",
-     "words": [
-      {
-       "h": "发现",
-       "py": "fāxiàn",
-       "gl": "discover; find out; notice",
-       "pos": "v."
-      },
-      {
-       "h": "这个",
-       "py": "zhège",
-       "gl": "this; this one",
-       "pos": "pron."
-      },
-      {
-       "h": "小区",
-       "py": "xiǎoqū",
-       "gl": "residential complex; neighborhood",
-       "pos": "n."
-      },
-      {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
-       "pos": "pron."
-      },
-      {
-       "h": "平方米",
-       "py": "píngfāngmǐ",
-       "gl": "square meter",
-       "pos": "n."
-      },
-      {
-       "h": "每月",
-       "py": "měiyuè",
-       "gl": "every month; monthly",
-       "pos": "n."
-      },
-      {
-       "h": "大概",
-       "py": "dàgài",
-       "gl": "probably; about; approximately",
-       "pos": "adv."
-      },
-      {
-       "h": "收取",
-       "py": "shōuqǔ",
-       "gl": "charge; collect (fees)",
-       "pos": "v."
-      },
-      {
-       "h": "两块五",
-       "py": "liǎngkuàiwǔ",
-       "gl": "two and a half yuan",
-       "pos": "num."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "物业费",
-       "py": "wùyèfèi",
-       "gl": "property management fee",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "mainly for landscaping and security.",
-     "words": [
-      {
-       "h": "主要",
-       "py": "zhǔyào",
-       "gl": "main; mainly",
-       "pos": "adv."
-      },
-      {
-       "h": "用于",
-       "py": "yòngyú",
-       "gl": "be used for",
-       "pos": "v."
-      },
-      {
-       "h": "绿化",
-       "py": "lǜhuà",
-       "gl": "landscaping; greening",
-       "pos": "n."
-      },
-      {
-       "h": "养护",
-       "py": "yǎnghù",
-       "gl": "maintenance; upkeep",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "安保",
-       "py": "ānbǎo",
-       "gl": "security",
-       "pos": "n."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "He also learned that under the relevant regulations, the special maintenance fund for residential buildings is usually paid by the buyer in one lump sum when registering ownership, and is used later for major repairs and upgrades to the building's common areas.",
-   "phrases": [
-    {
-     "en": "He also learned that under the relevant regulations,",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "了解到",
-       "py": "liǎojiědào",
-       "gl": "learn; find out",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "根据",
-       "py": "gēnjù",
-       "gl": "according to; based on",
-       "pos": "prep."
-      },
-      {
-       "h": "相关",
-       "py": "xiāngguān",
-       "gl": "related; relevant",
-       "pos": "adj."
-      },
-      {
-       "h": "规定",
-       "py": "guīdìng",
-       "gl": "regulation; rule",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the special maintenance fund for residential buildings is usually paid by the buyer in one lump sum when registering ownership,",
-     "words": [
-      {
-       "h": "住宅",
-       "py": "zhùzhái",
-       "gl": "residence; housing",
-       "pos": "n."
-      },
-      {
-       "h": "专项",
-       "py": "zhuānxiàng",
-       "gl": "special; dedicated (fund, program)",
-       "pos": "adj."
-      },
-      {
-       "h": "维修资金",
-       "py": "wéixiūzījīn",
-       "gl": "maintenance fund",
-       "pos": "n."
-      },
-      {
-       "h": "一般",
-       "py": "yìbān",
-       "gl": "usually; generally",
-       "pos": "adv."
-      },
-      {
-       "h": "由",
-       "py": "yóu",
-       "gl": "by (marks the agent)",
-       "pos": "prep."
-      },
-      {
-       "h": "购房者",
-       "py": "gòufángzhě",
-       "gl": "homebuyer",
-       "pos": "n."
-      },
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "办理",
-       "py": "bànlǐ",
-       "gl": "handle; take care of (business)",
-       "pos": "v."
-      },
-      {
-       "h": "产权",
-       "py": "chǎnquán",
-       "gl": "property rights",
+       "h": "不动产",
+       "py": "bùdòngchǎn",
+       "gl": "real estate; real property",
        "pos": "n."
       },
       {
        "h": "登记",
        "py": "dēngjì",
        "gl": "register; registration",
+       "pos": "v."
+      },
+      {
+       "h": "中心",
+       "py": "zhōngxīn",
+       "gl": "center",
        "pos": "n."
       },
       {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; time",
-       "pos": "n."
+       "h": "，"
       },
       {
-       "h": "一次性",
-       "py": "yícìxìng",
-       "gl": "in one go; all at once",
-       "pos": "adv."
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
       },
       {
-       "h": "缴纳",
-       "py": "jiǎonà",
-       "gl": "pay (fees, taxes, contributions)",
+       "h": "办",
+       "py": "bàn",
+       "gl": "get (done); apply for; do",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "过户",
+       "py": "guòhù",
+       "gl": "to transfer ownership",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and is used later for major repairs and upgrades to the building's common areas.",
-     "words": [
+      },
       {
-       "h": "用于",
-       "py": "yòngyú",
-       "gl": "be used for",
+       "h": "交",
+       "py": "jiāo",
+       "gl": "pay (fees, bills)",
        "pos": "v."
       },
       {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "房屋",
-       "py": "fángwū",
-       "gl": "house; housing",
-       "pos": "n."
-      },
-      {
-       "h": "公共",
-       "py": "gōnggòng",
-       "gl": "public",
-       "pos": "adj."
-      },
-      {
-       "h": "部分",
-       "py": "bùfèn",
-       "gl": "part; section",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "大修",
-       "py": "dàxiū",
-       "gl": "major repair; overhaul",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "更新",
-       "py": "gēngxīn",
-       "gl": "renewal; update",
+       "h": "契税",
+       "py": "qìshuì",
+       "gl": "deed tax (on property purchase)",
        "pos": "n."
       },
       {
@@ -4368,53 +1605,217 @@
    ]
   },
   {
-   "en": "Xiao Li and his girlfriend agreed to set aside time every year to keep an eye on changes in local real estate policy, so they wouldn't miss a good moment to buy or borrow because they were out of the loop.",
+   "en": "When property tax came up, the agent said, \"Shanghai and Chongqing have been piloting it since 2011, but you only have one, so don't worry for now.\"",
    "phrases": [
     {
-     "en": "Xiao Li and his girlfriend agreed",
+     "en": "When property tax came up, the agent said, \"Shanghai and Chongqing have been piloting it since 2011, but you only have one, so don't worry for now.\"",
      "words": [
       {
-       "h": "小李",
-       "py": "xiǎolǐ",
-       "gl": "Xiao Li (name)",
+       "h": "说到",
+       "py": "shuōdào",
+       "gl": "speaking of",
+       "pos": "conj."
+      },
+      {
+       "h": "房产税",
+       "py": "fángchǎnshuì",
+       "gl": "property tax",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "中介",
+       "py": "zhōngjiè",
+       "gl": "real-estate agent",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "上海",
+       "py": "shànghǎi",
+       "gl": "Shanghai",
        "pos": "proper noun"
       },
       {
        "h": "和",
        "py": "hé",
-       "gl": "with",
+       "gl": "and",
        "pos": "conj."
       },
       {
-       "h": "女朋友",
-       "py": "nǚpéngyǒu",
-       "gl": "girlfriend",
+       "h": "重庆",
+       "py": "chóngqìng",
+       "gl": "Chongqing",
+       "pos": "proper noun"
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "二零一一年",
+       "py": "èr líng yī yī nián",
+       "gl": "the year 2011",
        "pos": "n."
       },
       {
-       "h": "商量",
-       "py": "shāngliáng",
-       "gl": "discuss; consult",
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
        "pos": "v."
       },
       {
+       "h": "试点",
+       "py": "shìdiǎn",
+       "gl": "pilot; run a trial",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
        "h": "，"
+      },
+      {
+       "h": "不过",
+       "py": "bùguò",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "你们",
+       "py": "nǐmen",
+       "gl": "you (plural)",
+       "pos": "pron."
+      },
+      {
+       "h": "只有",
+       "py": "zhǐyǒu",
+       "gl": "only; only have",
+       "pos": "adv."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "套",
+       "py": "tào",
+       "gl": "measure word for sets (of ideas, furniture, etc.)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "先",
+       "py": "xiān",
+       "gl": "first; before",
+       "pos": "adv."
+      },
+      {
+       "h": "不用",
+       "py": "bùyòng",
+       "gl": "not need; no need to",
+       "pos": "v."
+      },
+      {
+       "h": "担心",
+       "py": "dānxīn",
+       "gl": "worry",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "On the day they got the keys there wasn't a single piece of furniture, and the two of them sat on the floor eating instant noodles.",
+   "phrases": [
     {
-     "en": "to set aside time every year to keep an eye on changes in local real estate policy,",
+     "en": "On the day they got the keys there wasn't a single piece of furniture, and the two of them sat on the floor eating instant noodles.",
      "words": [
       {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "钥匙",
+       "py": "yàoshi",
+       "gl": "key",
        "pos": "n."
       },
       {
-       "h": "每年",
-       "py": "měinián",
-       "gl": "every year",
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "家里",
+       "py": "jiālǐ",
+       "gl": "at home; in the family",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "件",
+       "py": "jiàn",
+       "gl": "measure word for clothing, matters, items",
+       "pos": "measure word"
+      },
+      {
+       "h": "家具",
+       "py": "jiājù",
+       "gl": "furniture",
        "pos": "n."
       },
       {
@@ -4424,380 +1825,97 @@
        "pos": "adv."
       },
       {
-       "h": "抽时间",
-       "py": "chōushíjiān",
-       "gl": "find time",
-       "pos": "v."
-      },
-      {
-       "h": "关注一下",
-       "py": "guānzhùyīxià",
-       "gl": "keep an eye on; pay some attention to",
-       "pos": "v."
-      },
-      {
-       "h": "当地",
-       "py": "dāngdì",
-       "gl": "local; locality",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "房地产",
-       "py": "fángdìchǎn",
-       "gl": "real estate",
-       "pos": "n."
-      },
-      {
-       "h": "政策",
-       "py": "zhèngcè",
-       "gl": "policy",
-       "pos": "n."
-      },
-      {
-       "h": "变化",
-       "py": "biànhuà",
-       "gl": "change; changes",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so they wouldn't miss a good moment to buy or borrow because they were out of the loop.",
-     "words": [
-      {
-       "h": "避免",
-       "py": "bìmiǎn",
-       "gl": "avoid",
-       "pos": "v."
-      },
-      {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because",
-       "pos": "conj."
-      },
-      {
-       "h": "信息",
-       "py": "xìnxī",
-       "gl": "information",
-       "pos": "n."
-      },
-      {
-       "h": "滞后",
-       "py": "zhìhòu",
-       "gl": "lag behind; be delayed",
-       "pos": "v."
-      },
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but",
-       "pos": "conj."
-      },
-      {
-       "h": "错过",
-       "py": "cuòguò",
-       "gl": "miss",
-       "pos": "v."
-      },
-      {
-       "h": "合适",
-       "py": "héshì",
-       "gl": "suitable; fitting",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "购房",
-       "py": "gòufáng",
-       "gl": "buy a home",
-       "pos": "v."
-      },
-      {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "贷款",
-       "py": "dàikuǎn",
-       "gl": "loan",
-       "pos": "n."
-      },
-      {
-       "h": "时机",
-       "py": "shíjī",
-       "gl": "timing; moment",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "They also agreed that if their income went up, they would make it a priority to use their full provident fund loan allowance, since the interest on that part of the loan is clearly lower than on a commercial loan.",
-   "phrases": [
-    {
-     "en": "They also agreed",
-     "words": [
-      {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
-       "pos": "pron."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "商定",
-       "py": "shāngdìng",
-       "gl": "agree on; settle through discussion",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that if their income went up, they would make it a priority to use their full provident fund loan allowance,",
-     "words": [
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "收入",
-       "py": "shōurù",
-       "gl": "income",
-       "pos": "n."
-      },
-      {
-       "h": "提高",
-       "py": "tígāo",
-       "gl": "raise; improve",
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
        "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
+       "h": "两个人",
+       "py": "liǎnggèrén",
+       "gl": "two people",
+       "pos": "n."
       },
       {
-       "h": "优先",
-       "py": "yōuxiān",
-       "gl": "first; as a priority",
-       "pos": "adv."
-      },
-      {
-       "h": "考虑",
-       "py": "kǎolǜ",
-       "gl": "consider; think about",
+       "h": "坐",
+       "py": "zuò",
+       "gl": "sit; ride; take (transport)",
        "pos": "v."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "公积金",
-       "py": "gōngjījīn",
-       "gl": "housing provident fund",
-       "pos": "n."
-      },
-      {
-       "h": "贷款",
-       "py": "dàikuǎn",
-       "gl": "loan",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "额度",
-       "py": "édù",
-       "gl": "limit; quota",
-       "pos": "n."
-      },
-      {
-       "h": "用满",
-       "py": "yòngmǎn",
-       "gl": "use up (fully); max out",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "since the interest on that part of the loan is clearly lower than on a commercial loan.",
-     "words": [
-      {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because",
-       "pos": "conj."
-      },
-      {
-       "h": "这部分",
-       "py": "zhèbùfèn",
-       "gl": "this part",
-       "pos": "n."
-      },
-      {
-       "h": "贷款",
-       "py": "dàikuǎn",
-       "gl": "loan",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "利息",
-       "py": "lìxī",
-       "gl": "interest (on money)",
-       "pos": "n."
-      },
-      {
-       "h": "明显",
-       "py": "míngxiǎn",
-       "gl": "obvious; clear; clearly",
-       "pos": "adv."
-      },
-      {
-       "h": "低于",
-       "py": "dīyú",
-       "gl": "lower than; below",
-       "pos": "v."
-      },
-      {
-       "h": "商业",
-       "py": "shāngyè",
-       "gl": "commercial; business",
-       "pos": "adj."
-      },
-      {
-       "h": "贷款",
-       "py": "dàikuǎn",
-       "gl": "loan",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Many of Xiao Li's friends have also bought homes one after another over the past few years, and they often get together to swap the problems they've run into and the lessons they've learned with loans, title transfers and renovations.",
-   "phrases": [
-    {
-     "en": "Many of Xiao Li's friends have also bought homes one after another over the past few years,",
-     "words": [
-      {
-       "h": "小李",
-       "py": "xiǎolǐ",
-       "gl": "Xiao Li (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "身边",
-       "py": "shēnbiān",
-       "gl": "by one's side; nearby; around one; by one's side; nearby; at hand; by one's side",
-       "pos": "n."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "朋友",
-       "py": "péngyǒu",
-       "gl": "friend",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this; these",
-       "pos": "pron."
+       "h": "地上",
+       "py": "dìshàng",
+       "gl": "on the ground; on earth",
+       "pos": "n."
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "方便面",
+       "py": "fāngbiànmiàn",
+       "gl": "instant noodles",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"We'll buy a set of furniture bit by bit,\" Xiao Li said.",
+   "phrases": [
+    {
+     "en": "\"We'll buy a set of furniture bit by bit,\" Xiao Li said.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
        "pos": "num."
       },
       {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "套",
+       "py": "tào",
+       "gl": "measure word for sets (of ideas, furniture, etc.)",
        "pos": "measure word"
       },
       {
-       "h": "陆续",
-       "py": "lùxù",
-       "gl": "one after another; gradually",
+       "h": "家具",
+       "py": "jiājù",
+       "gl": "furniture",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after; later; in the future",
+       "pos": "postposition"
+      },
+      {
+       "h": "慢慢",
+       "py": "mànmàn",
+       "gl": "slowly; gradually",
        "pos": "adv."
       },
       {
@@ -4807,102 +1925,74 @@
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
+       "h": "。"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "小李",
+       "py": "Xiǎo Lǐ",
+       "gl": "Xiao Li (name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Xiao Xue stood up, went to the kitchen wall, and with a pencil drew a new line at the height of his shoulder.",
+   "phrases": [
+    {
+     "en": "Xiao Xue stood up, went to the kitchen wall, and with a pencil drew a new line at the height of his shoulder.",
+     "words": [
+      {
+       "h": "小雪",
+       "py": "Xiǎo Xuě",
+       "gl": "Xiaoxue",
+       "pos": "proper noun"
+      },
+      {
+       "h": "站",
+       "py": "zhàn",
+       "gl": "stand",
+       "pos": "v."
+      },
+      {
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
        "pos": "particle"
       },
       {
-       "h": "房",
-       "py": "fáng",
-       "gl": "house; apartment; room",
-       "pos": "n."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and they often get together to swap the problems they've run into and the lessons they've learned with loans, title transfers and renovations.",
-     "words": [
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
       },
       {
-       "h": "常常",
-       "py": "chángcháng",
-       "gl": "often",
-       "pos": "adv."
-      },
-      {
-       "h": "聚",
-       "py": "jù",
-       "gl": "gather; get together",
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
        "pos": "v."
       },
       {
-       "h": "在一起",
-       "py": "zàiyìqǐ",
-       "gl": "together; be together",
-       "pos": "adv."
-      },
-      {
-       "h": "交流",
-       "py": "jiāoliú",
-       "gl": "communicate; exchange",
-       "pos": "v."
-      },
-      {
-       "h": "各自",
-       "py": "gèzì",
-       "gl": "each; respectively; separately",
-       "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
        "pos": "prep."
       },
       {
-       "h": "贷款",
-       "py": "dàikuǎn",
-       "gl": "loan",
+       "h": "厨房",
+       "py": "chúfáng",
+       "gl": "kitchen",
        "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "过户",
-       "py": "guòhù",
-       "gl": "transfer of ownership",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "装修",
-       "py": "zhuāngxiū",
-       "gl": "renovate; renovation",
-       "pos": "n."
-      },
-      {
-       "h": "方面",
-       "py": "fāngmiàn",
-       "gl": "aspect; respect; side",
-       "pos": "n."
-      },
-      {
-       "h": "遇到",
-       "py": "yùdào",
-       "gl": "encounter; come across; run into",
-       "pos": "v."
       },
       {
        "h": "的",
@@ -4911,21 +2001,117 @@
        "pos": "particle"
       },
       {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
+       "h": "墙",
+       "py": "qiáng",
+       "gl": "wall",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
+       "h": "边",
+       "py": "biān",
+       "gl": "edge, by",
+       "pos": "n."
       },
       {
-       "h": "经验",
-       "py": "jīngyàn",
-       "gl": "experience (practical); work experience",
+       "h": "，"
+      },
+      {
+       "h": "拿",
+       "py": "ná",
+       "gl": "hold; carry; take",
+       "pos": "v."
+      },
+      {
+       "h": "铅笔",
+       "py": "qiānbǐ",
+       "gl": "pencil",
+       "pos": "n."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "肩膀",
+       "py": "jiānbǎng",
+       "gl": "shoulder",
+       "pos": "n."
+      },
+      {
+       "h": "那么",
+       "py": "nàme",
+       "gl": "so; that (much)",
+       "pos": "adv."
+      },
+      {
+       "h": "高",
+       "py": "gāo",
+       "gl": "tall; high",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "地方",
+       "py": "dìfāng",
+       "gl": "place",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "画",
+       "py": "huà",
+       "gl": "to draw (a line)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "线",
+       "py": "xiàn",
+       "gl": "line",
        "pos": "n."
       },
       {
@@ -4936,396 +2122,18 @@
    ]
   },
   {
-   "en": "Xiao Li feels that this atmosphere of sharing has made buying a home, which used to be such a headache, a lot easier, and everyone can pick up plenty of practical knowledge from other people's experiences.",
+   "en": "\"What's that for?\" \"We'll measure from here.\"",
    "phrases": [
     {
-     "en": "Xiao Li feels",
+     "en": "\"What's that for?\" \"We'll measure from here.\"",
      "words": [
       {
-       "h": "小李",
-       "py": "xiǎolǐ",
-       "gl": "Xiao Li (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that this atmosphere of sharing has made buying a home, which used to be such a headache, a lot easier,",
-     "words": [
-      {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "互相",
-       "py": "hùxiāng",
-       "gl": "each other; mutually",
-       "pos": "adv."
-      },
-      {
-       "h": "交流",
-       "py": "jiāoliú",
-       "gl": "communicate; exchange",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "氛围",
-       "py": "fēnwéi",
-       "gl": "atmosphere; ambience",
-       "pos": "n."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "买房",
-       "py": "mǎifáng",
-       "gl": "buy a home; buying a home",
-       "pos": "v."
+       "h": "“"
       },
       {
        "h": "这",
        "py": "zhè",
        "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "件",
-       "py": "jiàn",
-       "gl": "measure word for clothing, matters, items",
-       "pos": "measure word"
-      },
-      {
-       "h": "原本",
-       "py": "yuánběn",
-       "gl": "originally",
-       "pos": "adv."
-      },
-      {
-       "h": "让人头疼",
-       "py": "ràngréntóuténg",
-       "gl": "give one a headache; troublesome",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "事情",
-       "py": "shìqíng",
-       "gl": "thing; matter",
-       "pos": "n."
-      },
-      {
-       "h": "变得",
-       "py": "biàndé",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "轻松",
-       "py": "qīngsōng",
-       "gl": "relaxed; easy",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and everyone can pick up plenty of practical knowledge from other people's experiences.",
-     "words": [
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "v."
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "别人",
-       "py": "biérén",
-       "gl": "other people; others",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "学到",
-       "py": "xuédào",
-       "gl": "learn",
-       "pos": "v."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "实用",
-       "py": "shíyòng",
-       "gl": "practical; useful",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "知识",
-       "py": "zhīshí",
-       "gl": "knowledge",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Looking back on it many years later, Xiao Li still felt that those days of comparing, calculating and learning over and over to buy a home had taught him what it truly means to \"live within your means.\"",
-   "phrases": [
-    {
-     "en": "Looking back on it many years later, Xiao Li still felt",
-     "words": [
-      {
-       "h": "多年",
-       "py": "duōnián",
-       "gl": "many years",
-       "pos": "n."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
-      },
-      {
-       "h": "回想起",
-       "py": "huíxiǎngqǐ",
-       "gl": "recall; think back to",
-       "pos": "v."
-      },
-      {
-       "h": "这段",
-       "py": "zhèduàn",
-       "gl": "this (period, stretch, section)",
-       "pos": "pron."
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "小李",
-       "py": "xiǎolǐ",
-       "gl": "Xiao Li (name)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "依然",
-       "py": "yīrán",
-       "gl": "still; as before",
-       "pos": "adv."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that those days of comparing, calculating and learning over and over to buy a home",
-     "words": [
-      {
-       "h": "那段",
-       "py": "nàduàn",
-       "gl": "that (period, clip, passage)",
-       "pos": "pron."
-      },
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "买房",
-       "py": "mǎifáng",
-       "gl": "buy a home; buying a home",
-       "pos": "v."
-      },
-      {
-       "h": "反复",
-       "py": "fǎnfù",
-       "gl": "repeatedly; over and over",
-       "pos": "adv."
-      },
-      {
-       "h": "比较",
-       "py": "bǐjiào",
-       "gl": "relatively; fairly; compare",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "计算",
-       "py": "jìsuàn",
-       "gl": "calculation; computing",
-       "pos": "v."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "学习",
-       "py": "xuéxí",
-       "gl": "study; learn",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "日子",
-       "py": "rìzi",
-       "gl": "life; days",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "had taught him what it truly means to \"live within your means.\"",
-     "words": [
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "truly; really",
-       "pos": "adv."
-      },
-      {
-       "h": "理解",
-       "py": "lǐjiě",
-       "gl": "understand; understanding",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "什么",
-       "py": "shénme",
-       "gl": "what",
        "pos": "pron."
       },
       {
@@ -5335,19 +2143,55 @@
        "pos": "v."
       },
       {
-       "h": "“"
+       "h": "干",
+       "py": "gàn",
+       "gl": "do; work",
+       "pos": "v."
       },
       {
-       "h": "量入为出",
-       "py": "liàngrùwéichū",
-       "gl": "live within one's means (idiom)",
-       "pos": "phrase"
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "？"
       },
       {
        "h": "”"
       },
       {
+       "h": "“"
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "这儿",
+       "py": "zhèr",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start",
+       "pos": "v."
+      },
+      {
+       "h": "量",
+       "py": "liáng",
+       "gl": "to measure",
+       "pos": "v."
+      },
+      {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }

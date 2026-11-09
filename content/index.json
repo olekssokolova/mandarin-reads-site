@@ -4628,6 +4628,15 @@
    "episode_count": 20
   },
   {
+   "id": "cooking5",
+   "level": 5,
+   "title_zh": "差三秒",
+   "title_en": "Three Seconds Short",
+   "free": true,
+   "chars": 614,
+   "file": "cooking5.json"
+  },
+  {
    "id": "modernslang01",
    "level": 5,
    "title_zh": "996工作制到底是什么",
@@ -4645,16 +4654,16 @@
    "title_zh": "奶奶的新手机",
    "title_en": "Grandma's New Phone",
    "free": true,
-   "chars": 662,
+   "chars": 681,
    "file": "pclexicon5.json"
   },
   {
    "id": "travel5",
    "level": 5,
-   "title_zh": "一个人的旅行",
-   "title_en": "Planning a Solo Trip",
+   "title_zh": "删掉一半的攻略",
+   "title_en": "Half the Itinerary, Deleted",
    "free": true,
-   "chars": 667,
+   "chars": 704,
    "file": "travel5.json"
   },
   {
@@ -4668,15 +4677,6 @@
    "series": "redchamber",
    "episode": 1,
    "episode_count": 20
-  },
-  {
-   "id": "cooking5",
-   "level": 5,
-   "title_zh": "火候的艺术",
-   "title_en": "The Art of Heat Control",
-   "free": true,
-   "chars": 753,
-   "file": "cooking5.json"
   },
   {
    "id": "scifi01",
@@ -4703,6 +4703,339 @@
    "episode_count": 20
   },
   {
+   "id": "gender5",
+   "level": 5,
+   "title_zh": "那个问题",
+   "title_en": "That Question",
+   "free": false,
+   "chars": 402,
+   "file": "gender5.json"
+  },
+  {
+   "id": "influencer5",
+   "level": 5,
+   "title_zh": "第四十七次",
+   "title_en": "The Forty-Seventh Take",
+   "free": false,
+   "chars": 414,
+   "file": "influencer5.json"
+  },
+  {
+   "id": "transport5",
+   "level": 5,
+   "title_zh": "早上八点十分",
+   "title_en": "Ten Past Eight in the Morning",
+   "free": false,
+   "chars": 422,
+   "file": "transport5.json"
+  },
+  {
+   "id": "addiction5",
+   "level": 5,
+   "title_zh": "客厅里的篮子",
+   "title_en": "The Basket in the Living Room",
+   "free": false,
+   "chars": 424,
+   "file": "addiction5.json"
+  },
+  {
+   "id": "ecommerce5",
+   "level": 5,
+   "title_zh": "六楼的包裹",
+   "title_en": "Parcels for the Sixth Floor",
+   "free": false,
+   "chars": 430,
+   "file": "ecommerce5.json"
+  },
+  {
+   "id": "toilet5",
+   "level": 5,
+   "title_zh": "胡同里的三分钟",
+   "title_en": "Three Minutes in a Hutong",
+   "free": false,
+   "chars": 437,
+   "file": "toilet5.json"
+  },
+  {
+   "id": "realestate5",
+   "level": 5,
+   "title_zh": "第三套房子",
+   "title_en": "The Third Apartment",
+   "free": false,
+   "chars": 441,
+   "file": "realestate5.json"
+  },
+  {
+   "id": "workethics5",
+   "level": 5,
+   "title_zh": "爸爸的画像",
+   "title_en": "Daddy's Portrait",
+   "free": false,
+   "chars": 442,
+   "file": "workethics5.json"
+  },
+  {
+   "id": "videogames5",
+   "level": 5,
+   "title_zh": "妈妈也喊了",
+   "title_en": "And Mom Shouted Too",
+   "free": false,
+   "chars": 443,
+   "file": "videogames5.json"
+  },
+  {
+   "id": "gym5",
+   "level": 5,
+   "title_zh": "年卡",
+   "title_en": "The Annual Membership",
+   "free": false,
+   "chars": 446,
+   "file": "gym5.json"
+  },
+  {
+   "id": "contract5",
+   "level": 5,
+   "title_zh": "第十一条",
+   "title_en": "Clause Eleven",
+   "free": false,
+   "chars": 453,
+   "file": "contract5.json"
+  },
+  {
+   "id": "history20c5",
+   "level": 5,
+   "title_zh": "太奶奶的一百年",
+   "title_en": "Great-Grandma's Hundred Years",
+   "free": false,
+   "chars": 467,
+   "file": "history20c5.json"
+  },
+  {
+   "id": "cybersecurity5",
+   "level": 5,
+   "title_zh": "奖学金邮件",
+   "title_en": "The Scholarship Email",
+   "free": false,
+   "chars": 467,
+   "file": "cybersecurity5.json"
+  },
+  {
+   "id": "agriculture5",
+   "level": 5,
+   "title_zh": "镜头前的西红柿",
+   "title_en": "Tomatoes in Front of the Camera",
+   "free": false,
+   "chars": 467,
+   "file": "agriculture5.json"
+  },
+  {
+   "id": "taiji5",
+   "level": 5,
+   "title_zh": "慢",
+   "title_en": "Slow",
+   "free": false,
+   "chars": 470,
+   "file": "taiji5.json"
+  },
+  {
+   "id": "phoneapps5",
+   "level": 5,
+   "title_zh": "长辈模式",
+   "title_en": "Senior Mode",
+   "free": false,
+   "chars": 471,
+   "file": "phoneapps5.json"
+  },
+  {
+   "id": "familyquarrel5",
+   "level": 5,
+   "title_zh": "门缝下的纸条",
+   "title_en": "The Note Under the Door",
+   "free": false,
+   "chars": 471,
+   "file": "familyquarrel5.json"
+  },
+  {
+   "id": "scam5",
+   "level": 5,
+   "title_zh": "不要告诉任何人",
+   "title_en": "Don't Tell Anyone",
+   "free": false,
+   "chars": 482,
+   "file": "scam5.json"
+  },
+  {
+   "id": "aiethics5",
+   "level": 5,
+   "title_zh": "太完美的作文",
+   "title_en": "An Essay Too Perfect",
+   "free": false,
+   "chars": 483,
+   "file": "aiethics5.json"
+  },
+  {
+   "id": "parenting5",
+   "level": 5,
+   "title_zh": "蚂蚁",
+   "title_en": "Ants",
+   "free": false,
+   "chars": 483,
+   "file": "parenting5.json"
+  },
+  {
+   "id": "urbanrural5",
+   "level": 5,
+   "title_zh": "小了一号的鞋",
+   "title_en": "Shoes One Size Too Small",
+   "free": false,
+   "chars": 487,
+   "file": "urbanrural5.json"
+  },
+  {
+   "id": "brokenequip5",
+   "level": 5,
+   "title_zh": "洗衣机里的声音",
+   "title_en": "The Noise in the Washing Machine",
+   "free": false,
+   "chars": 492,
+   "file": "brokenequip5.json"
+  },
+  {
+   "id": "poetry5",
+   "level": 5,
+   "title_zh": "同一个月亮",
+   "title_en": "The Same Moon",
+   "free": false,
+   "chars": 493,
+   "file": "poetry5.json"
+  },
+  {
+   "id": "divorce5",
+   "level": 5,
+   "title_zh": "三十天",
+   "title_en": "Thirty Days",
+   "free": false,
+   "chars": 498,
+   "file": "divorce5.json"
+  },
+  {
+   "id": "reconcile_informal5",
+   "level": 5,
+   "title_zh": "门缝下的纸条",
+   "title_en": "The Note Under the Door",
+   "free": false,
+   "chars": 504,
+   "file": "reconcile_informal5.json"
+  },
+  {
+   "id": "mentalhealth5",
+   "level": 5,
+   "title_zh": "门外的十分钟",
+   "title_en": "Ten Minutes Outside the Door",
+   "free": false,
+   "chars": 511,
+   "file": "mentalhealth5.json"
+  },
+  {
+   "id": "visa5",
+   "level": 5,
+   "title_zh": "一个文件夹",
+   "title_en": "One Folder",
+   "free": false,
+   "chars": 525,
+   "file": "visa5.json"
+  },
+  {
+   "id": "worklaw5",
+   "level": 5,
+   "title_zh": "一本蓝色笔记本",
+   "title_en": "The Blue Notebook",
+   "free": false,
+   "chars": 530,
+   "file": "worklaw5.json"
+  },
+  {
+   "id": "singers5",
+   "level": 5,
+   "title_zh": "第一排的票",
+   "title_en": "A Front-Row Ticket",
+   "free": false,
+   "chars": 533,
+   "file": "singers5.json"
+  },
+  {
+   "id": "calligraphy5",
+   "level": 5,
+   "title_zh": "一个“永”字",
+   "title_en": "The Character for \"Eternal\"",
+   "free": false,
+   "chars": 546,
+   "file": "calligraphy5.json"
+  },
+  {
+   "id": "slang5",
+   "level": 5,
+   "title_zh": "妈妈的流行语小词典",
+   "title_en": "Mom's Little Slang Dictionary",
+   "free": false,
+   "chars": 561,
+   "file": "slang5.json"
+  },
+  {
+   "id": "future5",
+   "level": 5,
+   "title_zh": "作文：未来的一天",
+   "title_en": "Essay: A Day in the Future",
+   "free": false,
+   "chars": 566,
+   "file": "future5.json"
+  },
+  {
+   "id": "livestream5",
+   "level": 5,
+   "title_zh": "烤串摊上的手机",
+   "title_en": "The Phone at the Skewer Stall",
+   "free": false,
+   "chars": 576,
+   "file": "livestream5.json"
+  },
+  {
+   "id": "transit_etiquette5",
+   "level": 5,
+   "title_zh": "早上八点的十号线",
+   "title_en": "Line 10 at Eight in the Morning",
+   "free": false,
+   "chars": 586,
+   "file": "transit_etiquette5.json"
+  },
+  {
+   "id": "dentist5",
+   "level": 5,
+   "title_zh": "一听到电钻声",
+   "title_en": "The Moment I Hear the Drill",
+   "free": false,
+   "chars": 587,
+   "file": "dentist5.json"
+  },
+  {
+   "id": "reconcile_formal5",
+   "level": 5,
+   "title_zh": "两杯咖啡",
+   "title_en": "Two Cups of Coffee",
+   "free": false,
+   "chars": 591,
+   "file": "reconcile_formal5.json"
+  },
+  {
+   "id": "politics5",
+   "level": 5,
+   "title_zh": "小吴的一年",
+   "title_en": "Xiao Wu's Year",
+   "free": false,
+   "chars": 622,
+   "file": "politics5.json"
+  },
+  {
    "id": "funnytales05",
    "level": 5,
    "title_zh": "奶奶用炒勺吓跑骗子",
@@ -4725,6 +5058,15 @@
    "series": "funnytales",
    "episode": 9,
    "episode_count": 20
+  },
+  {
+   "id": "elderlycare5",
+   "level": 5,
+   "title_zh": "两千公里外的一碗粥",
+   "title_en": "A Bowl of Porridge Two Thousand Kilometers Away",
+   "free": false,
+   "chars": 639,
+   "file": "elderlycare5.json"
   },
   {
    "id": "funnytales20",
@@ -4763,6 +5105,15 @@
    "episode_count": 20
   },
   {
+   "id": "countries5",
+   "level": 5,
+   "title_zh": "前台的小本子",
+   "title_en": "The Notebook at the Front Desk",
+   "free": false,
+   "chars": 653,
+   "file": "countries5.json"
+  },
+  {
    "id": "funnytales19",
    "level": 5,
    "title_zh": "忘关猫耳朵特效的家庭视频通话",
@@ -4775,6 +5126,24 @@
    "episode_count": 20
   },
   {
+   "id": "selfdriving5",
+   "level": 5,
+   "title_zh": "后座上的老胡",
+   "title_en": "Lao Hu in the Back Seat",
+   "free": false,
+   "chars": 659,
+   "file": "selfdriving5.json"
+  },
+  {
+   "id": "resign5",
+   "level": 5,
+   "title_zh": "第五份辞职信",
+   "title_en": "The Fifth Resignation Letter",
+   "free": false,
+   "chars": 669,
+   "file": "resign5.json"
+  },
+  {
    "id": "funnytales04",
    "level": 5,
    "title_zh": "都不敢说不爱吃火锅",
@@ -4785,6 +5154,15 @@
    "series": "funnytales",
    "episode": 4,
    "episode_count": 20
+  },
+  {
+   "id": "surgery5",
+   "level": 5,
+   "title_zh": "手术前的那杯水",
+   "title_en": "The Glass of Water Before Surgery",
+   "free": false,
+   "chars": 673,
+   "file": "surgery5.json"
   },
   {
    "id": "funnytales06",
@@ -4811,6 +5189,15 @@
    "episode_count": 20
   },
   {
+   "id": "stockmarket5",
+   "level": 5,
+   "title_zh": "确认键",
+   "title_en": "The Confirm Button",
+   "free": false,
+   "chars": 685,
+   "file": "stockmarket5.json"
+  },
+  {
    "id": "funnytales03",
    "level": 5,
    "title_zh": "加错了两周的群",
@@ -4833,6 +5220,15 @@
    "series": "modernslang",
    "episode": 3,
    "episode_count": 20
+  },
+  {
+   "id": "robotics5",
+   "level": 5,
+   "title_zh": "焊花",
+   "title_en": "Welding Sparks",
+   "free": false,
+   "chars": 690,
+   "file": "robotics5.json"
   },
   {
    "id": "funnytales18",
@@ -4881,6 +5277,15 @@
    "series": "funnytales",
    "episode": 17,
    "episode_count": 20
+  },
+  {
+   "id": "environment5",
+   "level": 5,
+   "title_zh": "垃圾桶旁边的王阿姨",
+   "title_en": "Auntie Wang by the Trash Bins",
+   "free": false,
+   "chars": 703,
+   "file": "environment5.json"
   },
   {
    "id": "funnytales15",
@@ -5099,6 +5504,15 @@
    "episode_count": 20
   },
   {
+   "id": "fooddelivery5",
+   "level": 5,
+   "title_zh": "那碗没送到的汤",
+   "title_en": "The Soup That Never Arrived",
+   "free": false,
+   "chars": 812,
+   "file": "fooddelivery5.json"
+  },
+  {
    "id": "modernslang08",
    "level": 5,
    "title_zh": "重播动画片引发的爷青回",
@@ -5133,6 +5547,15 @@
    "series": "modernslang",
    "episode": 11,
    "episode_count": 20
+  },
+  {
+   "id": "pension5",
+   "level": 5,
+   "title_zh": "日历上的圈",
+   "title_en": "The Circle on the Calendar",
+   "free": false,
+   "chars": 835,
+   "file": "pension5.json"
   },
   {
    "id": "modernslang19",
@@ -5277,15 +5700,6 @@
    "series": "recipes",
    "episode": 11,
    "episode_count": 20
-  },
-  {
-   "id": "scam5",
-   "level": 5,
-   "title_zh": "小心电话和网络诈骗",
-   "title_en": "Watch Out for Phone and Online Scams",
-   "free": false,
-   "chars": 902,
-   "file": "scam5.json"
   },
   {
    "id": "worldnews11",
@@ -5612,24 +6026,6 @@
    "episode_count": 20
   },
   {
-   "id": "reconcile_informal5",
-   "level": 5,
-   "title_zh": "兄妹和好",
-   "title_en": "A Brother and Sister Make Up",
-   "free": false,
-   "chars": 995,
-   "file": "reconcile_informal5.json"
-  },
-  {
-   "id": "elderlycare5",
-   "level": 5,
-   "title_zh": "如何照顾年迈的父母",
-   "title_en": "Caring for Aging Parents",
-   "free": false,
-   "chars": 995,
-   "file": "elderlycare5.json"
-  },
-  {
    "id": "worldnews15",
    "level": 5,
    "title_zh": "会发光的新青蛙",
@@ -5640,15 +6036,6 @@
    "series": "worldnews",
    "episode": 15,
    "episode_count": 20
-  },
-  {
-   "id": "future5",
-   "level": 5,
-   "title_zh": "未来的一天",
-   "title_en": "A Day in the Future",
-   "free": false,
-   "chars": 996,
-   "file": "future5.json"
   },
   {
    "id": "redchamber18",
@@ -5711,15 +6098,6 @@
    "episode_count": 20
   },
   {
-   "id": "robotics5",
-   "level": 5,
-   "title_zh": "机器人时代",
-   "title_en": "The Age of Robots",
-   "free": false,
-   "chars": 1013,
-   "file": "robotics5.json"
-  },
-  {
    "id": "classicpoems11",
    "level": 5,
    "title_zh": "科举考试与一首诗的命运",
@@ -5742,42 +6120,6 @@
    "series": "classicpoems",
    "episode": 13,
    "episode_count": 20
-  },
-  {
-   "id": "addiction5",
-   "level": 5,
-   "title_zh": "减少手机依赖",
-   "title_en": "Cutting Back on Phone Use",
-   "free": false,
-   "chars": 1024,
-   "file": "addiction5.json"
-  },
-  {
-   "id": "pension5",
-   "level": 5,
-   "title_zh": "退休制度",
-   "title_en": "China's Retirement System",
-   "free": false,
-   "chars": 1025,
-   "file": "pension5.json"
-  },
-  {
-   "id": "countries5",
-   "level": 5,
-   "title_zh": "对世界各国的印象",
-   "title_en": "Impressions of Countries Around the World",
-   "free": false,
-   "chars": 1025,
-   "file": "countries5.json"
-  },
-  {
-   "id": "mentalhealth5",
-   "level": 5,
-   "title_zh": "关注心理健康",
-   "title_en": "Taking Care of Mental Health",
-   "free": false,
-   "chars": 1029,
-   "file": "mentalhealth5.json"
   },
   {
    "id": "recipes08",
@@ -5828,15 +6170,6 @@
    "episode_count": 20
   },
   {
-   "id": "fooddelivery5",
-   "level": 5,
-   "title_zh": "外卖骑手的一天",
-   "title_en": "A Day in the Life of a Delivery Rider",
-   "free": false,
-   "chars": 1051,
-   "file": "fooddelivery5.json"
-  },
-  {
    "id": "redchamber03",
    "level": 5,
    "title_zh": "宝黛初见",
@@ -5883,15 +6216,6 @@
    "series": "redchamber",
    "episode": 4,
    "episode_count": 20
-  },
-  {
-   "id": "environment5",
-   "level": 5,
-   "title_zh": "环境保护从身边做起",
-   "title_en": "Protecting the Environment Starts at Home",
-   "free": false,
-   "chars": 1072,
-   "file": "environment5.json"
   },
   {
    "id": "worldnews09",
@@ -6026,24 +6350,6 @@
    "episode_count": 20
   },
   {
-   "id": "stockmarket5",
-   "level": 5,
-   "title_zh": "小张学炒股",
-   "title_en": "Xiao Zhang Learns to Trade Stocks",
-   "free": false,
-   "chars": 1112,
-   "file": "stockmarket5.json"
-  },
-  {
-   "id": "transit_etiquette5",
-   "level": 5,
-   "title_zh": "坐地铁公交的礼貌",
-   "title_en": "Subway and Bus Etiquette",
-   "free": false,
-   "chars": 1114,
-   "file": "transit_etiquette5.json"
-  },
-  {
    "id": "redchamber08",
    "level": 5,
    "title_zh": "宝玉受笞",
@@ -6068,15 +6374,6 @@
    "episode_count": 20
   },
   {
-   "id": "livestream5",
-   "level": 5,
-   "title_zh": "直播间里的老王",
-   "title_en": "Lao Wang's Livestream",
-   "free": false,
-   "chars": 1120,
-   "file": "livestream5.json"
-  },
-  {
    "id": "scifi14",
    "level": 5,
    "title_zh": "阿福的心",
@@ -6087,15 +6384,6 @@
    "series": "scifi",
    "episode": 14,
    "episode_count": 20
-  },
-  {
-   "id": "resign5",
-   "level": 5,
-   "title_zh": "辞职",
-   "title_en": "Quitting Your Job",
-   "free": false,
-   "chars": 1124,
-   "file": "resign5.json"
   },
   {
    "id": "classicpoems09",
@@ -6182,15 +6470,6 @@
    "episode_count": 20
   },
   {
-   "id": "selfdriving5",
-   "level": 5,
-   "title_zh": "无人驾驶的时代",
-   "title_en": "The Age of Driverless Cars",
-   "free": false,
-   "chars": 1145,
-   "file": "selfdriving5.json"
-  },
-  {
    "id": "redchamber02",
    "level": 5,
    "title_zh": "黛玉进贾府",
@@ -6227,42 +6506,6 @@
    "episode_count": 20
   },
   {
-   "id": "surgery5",
-   "level": 5,
-   "title_zh": "手术",
-   "title_en": "The Operation",
-   "free": false,
-   "chars": 1154,
-   "file": "surgery5.json"
-  },
-  {
-   "id": "dentist5",
-   "level": 5,
-   "title_zh": "看牙医",
-   "title_en": "Going to the Dentist",
-   "free": false,
-   "chars": 1155,
-   "file": "dentist5.json"
-  },
-  {
-   "id": "politics5",
-   "level": 5,
-   "title_zh": "中国的政治体系",
-   "title_en": "How China's Political System Works",
-   "free": false,
-   "chars": 1160,
-   "file": "politics5.json"
-  },
-  {
-   "id": "urbanrural5",
-   "level": 5,
-   "title_zh": "城市与农村的变化",
-   "title_en": "Changing Cities and Villages",
-   "free": false,
-   "chars": 1165,
-   "file": "urbanrural5.json"
-  },
-  {
    "id": "scifi19",
    "level": 5,
    "title_zh": "小智",
@@ -6273,15 +6516,6 @@
    "series": "scifi",
    "episode": 19,
    "episode_count": 20
-  },
-  {
-   "id": "singers5",
-   "level": 5,
-   "title_zh": "歌手与粉丝文化",
-   "title_en": "Singers and Fan Culture",
-   "free": false,
-   "chars": 1167,
-   "file": "singers5.json"
   },
   {
    "id": "classicpoems02",
@@ -6296,15 +6530,6 @@
    "episode_count": 20
   },
   {
-   "id": "reconcile_formal5",
-   "level": 5,
-   "title_zh": "正式的和解",
-   "title_en": "A Formal Reconciliation",
-   "free": false,
-   "chars": 1172,
-   "file": "reconcile_formal5.json"
-  },
-  {
    "id": "scifi12",
    "level": 5,
    "title_zh": "蓝鲸城的风暴",
@@ -6315,15 +6540,6 @@
    "series": "scifi",
    "episode": 12,
    "episode_count": 20
-  },
-  {
-   "id": "slang5",
-   "level": 5,
-   "title_zh": "网络流行语",
-   "title_en": "Internet Slang",
-   "free": false,
-   "chars": 1178,
-   "file": "slang5.json"
   },
   {
    "id": "ruraltales13",
@@ -6350,15 +6566,6 @@
    "episode_count": 20
   },
   {
-   "id": "gym5",
-   "level": 5,
-   "title_zh": "办健身卡",
-   "title_en": "Getting a Gym Membership",
-   "free": false,
-   "chars": 1186,
-   "file": "gym5.json"
-  },
-  {
    "id": "classicpoems10",
    "level": 5,
    "title_zh": "李叔同与《送别》",
@@ -6371,33 +6578,6 @@
    "episode_count": 20
   },
   {
-   "id": "gender5",
-   "level": 5,
-   "title_zh": "职场中的性别平等",
-   "title_en": "Gender Equality in the Chinese Workplace",
-   "free": false,
-   "chars": 1191,
-   "file": "gender5.json"
-  },
-  {
-   "id": "aiethics5",
-   "level": 5,
-   "title_zh": "人工智能的利与弊",
-   "title_en": "The Pros and Cons of AI",
-   "free": false,
-   "chars": 1193,
-   "file": "aiethics5.json"
-  },
-  {
-   "id": "familyquarrel5",
-   "level": 5,
-   "title_zh": "家里的争吵",
-   "title_en": "A Family Quarrel",
-   "free": false,
-   "chars": 1197,
-   "file": "familyquarrel5.json"
-  },
-  {
    "id": "ruraltales06",
    "level": 5,
    "title_zh": "回家过年",
@@ -6408,24 +6588,6 @@
    "series": "ruraltales",
    "episode": 6,
    "episode_count": 20
-  },
-  {
-   "id": "toilet5",
-   "level": 5,
-   "title_zh": "找公共厕所",
-   "title_en": "Finding a Public Restroom",
-   "free": false,
-   "chars": 1200,
-   "file": "toilet5.json"
-  },
-  {
-   "id": "calligraphy5",
-   "level": 5,
-   "title_zh": "中国书法",
-   "title_en": "Chinese Calligraphy",
-   "free": false,
-   "chars": 1201,
-   "file": "calligraphy5.json"
   },
   {
    "id": "scifi15",
@@ -6464,15 +6626,6 @@
    "episode_count": 20
   },
   {
-   "id": "worklaw5",
-   "level": 5,
-   "title_zh": "劳动合同小知识",
-   "title_en": "Employment Contract Basics",
-   "free": false,
-   "chars": 1204,
-   "file": "worklaw5.json"
-  },
-  {
    "id": "scifi16",
    "level": 5,
    "title_zh": "月球背面的等待",
@@ -6485,33 +6638,6 @@
    "episode_count": 20
   },
   {
-   "id": "workethics5",
-   "level": 5,
-   "title_zh": "工作与生活的平衡",
-   "title_en": "Work-Life Balance",
-   "free": false,
-   "chars": 1206,
-   "file": "workethics5.json"
-  },
-  {
-   "id": "visa5",
-   "level": 5,
-   "title_zh": "办签证",
-   "title_en": "Getting a Visa",
-   "free": false,
-   "chars": 1208,
-   "file": "visa5.json"
-  },
-  {
-   "id": "taiji5",
-   "level": 5,
-   "title_zh": "公园里的太极拳",
-   "title_en": "Tai Chi in the Park",
-   "free": false,
-   "chars": 1213,
-   "file": "taiji5.json"
-  },
-  {
    "id": "scifi04",
    "level": 5,
    "title_zh": "红色圆顶",
@@ -6522,60 +6648,6 @@
    "series": "scifi",
    "episode": 4,
    "episode_count": 20
-  },
-  {
-   "id": "divorce5",
-   "level": 5,
-   "title_zh": "中国的离婚程序",
-   "title_en": "How Divorce Works in China",
-   "free": false,
-   "chars": 1223,
-   "file": "divorce5.json"
-  },
-  {
-   "id": "ecommerce5",
-   "level": 5,
-   "title_zh": "网上购物的文化",
-   "title_en": "Online Shopping Culture",
-   "free": false,
-   "chars": 1228,
-   "file": "ecommerce5.json"
-  },
-  {
-   "id": "phoneapps5",
-   "level": 5,
-   "title_zh": "手机软件里的一天",
-   "title_en": "A Day Spent in Phone Apps",
-   "free": false,
-   "chars": 1229,
-   "file": "phoneapps5.json"
-  },
-  {
-   "id": "parenting5",
-   "level": 5,
-   "title_zh": "两代人的教育观念",
-   "title_en": "Two Generations, Two Views on Raising Kids",
-   "free": false,
-   "chars": 1229,
-   "file": "parenting5.json"
-  },
-  {
-   "id": "cybersecurity5",
-   "level": 5,
-   "title_zh": "个人网络安全",
-   "title_en": "Staying Safe Online",
-   "free": false,
-   "chars": 1230,
-   "file": "cybersecurity5.json"
-  },
-  {
-   "id": "poetry5",
-   "level": 5,
-   "title_zh": "古诗词的魅力",
-   "title_en": "The Charm of Classical Chinese Poetry",
-   "free": false,
-   "chars": 1234,
-   "file": "poetry5.json"
   },
   {
    "id": "redchamber07",
@@ -6600,24 +6672,6 @@
    "series": "redchamber",
    "episode": 20,
    "episode_count": 20
-  },
-  {
-   "id": "transport5",
-   "level": 5,
-   "title_zh": "挤地铁",
-   "title_en": "Packed Subways",
-   "free": false,
-   "chars": 1254,
-   "file": "transport5.json"
-  },
-  {
-   "id": "influencer5",
-   "level": 5,
-   "title_zh": "小美的自媒体生活",
-   "title_en": "Xiao Mei's Life as a Content Creator",
-   "free": false,
-   "chars": 1258,
-   "file": "influencer5.json"
   },
   {
    "id": "ruraltales19",
@@ -6668,24 +6722,6 @@
    "episode_count": 20
   },
   {
-   "id": "contract5",
-   "level": 5,
-   "title_zh": "签租房合同",
-   "title_en": "Signing a Lease",
-   "free": false,
-   "chars": 1275,
-   "file": "contract5.json"
-  },
-  {
-   "id": "brokenequip5",
-   "level": 5,
-   "title_zh": "洗衣机坏了",
-   "title_en": "The Washing Machine Broke Down",
-   "free": false,
-   "chars": 1279,
-   "file": "brokenequip5.json"
-  },
-  {
    "id": "ruraltales18",
    "level": 5,
    "title_zh": "回村写小说",
@@ -6732,42 +6768,6 @@
    "series": "ruraltales",
    "episode": 4,
    "episode_count": 20
-  },
-  {
-   "id": "videogames5",
-   "level": 5,
-   "title_zh": "电子竞技与游戏成瘾的争论",
-   "title_en": "The Esports and Gaming Addiction Debate",
-   "free": false,
-   "chars": 1295,
-   "file": "videogames5.json"
-  },
-  {
-   "id": "agriculture5",
-   "level": 5,
-   "title_zh": "大棚里的新农业",
-   "title_en": "New Farming in the Greenhouse",
-   "free": false,
-   "chars": 1298,
-   "file": "agriculture5.json"
-  },
-  {
-   "id": "history20c5",
-   "level": 5,
-   "title_zh": "一百年的变化",
-   "title_en": "A Hundred Years of Change",
-   "free": false,
-   "chars": 1302,
-   "file": "history20c5.json"
-  },
-  {
-   "id": "realestate5",
-   "level": 5,
-   "title_zh": "小李买房的经历",
-   "title_en": "Xiao Li Buys an Apartment",
-   "free": false,
-   "chars": 1314,
-   "file": "realestate5.json"
   },
   {
    "id": "ruraltales02",

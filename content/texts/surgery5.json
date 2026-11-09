@@ -1,17 +1,17 @@
 {
  "id": "surgery5",
  "level": 5,
- "title_zh": "手术",
- "title_en": "The Operation",
+ "title_zh": "手术前的那杯水",
+ "title_en": "The Glass of Water Before Surgery",
  "free": false,
  "audio_url": null,
- "note_en": "医护人员专业又温和，让她渐渐放松下来 uses 让 as a causative: \"(the staff being kind) made her gradually relax.\" English often just says \"she relaxed,\" but Chinese likes to keep the cause as the subject and introduce the person affected with 让. Also note 放松下来: 下来 after a verb shows settling into a calmer state, like English \"calm down\" or \"settle down.\"",
+ "note_en": "The causative pattern 让 + someone + action means \"make / let / have someone do something\": 医生的话让她放松了一点 \"the doctor's words helped her relax a little\" (literally \"made her relax\"). Likewise: 护士让她去医保窗口办报销 \"the nurse had her go to the insurance window to claim reimbursement\"; 不让她提重东西 \"wouldn't let her carry anything heavy.\" English uses \"make,\" \"let,\" \"have,\" or \"help\" depending on the situation.",
  "sentences": [
   {
-   "en": "The day before the operation, the nurse reminded Auntie Zhang not to eat or drink anything after midnight, to avoid complications under anesthesia.",
+   "en": "The day before the operation, the nurse told Auntie Zhang she couldn't eat or drink anything after midnight, so the anesthesia would be safer.",
    "phrases": [
     {
-     "en": "The day before the operation, the nurse reminded Auntie Zhang not to eat or drink anything after midnight,",
+     "en": "The day before the operation, the nurse told Auntie Zhang she couldn't eat or drink anything after midnight,",
      "words": [
       {
        "h": "手术",
@@ -22,51 +22,54 @@
       {
        "h": "前",
        "py": "qián",
-       "gl": "ago; before",
+       "gl": "before; ago; front; former; first (前五天 the first five days)",
        "pos": "postposition"
       },
       {
        "h": "一",
-       "py": "yī",
+       "py": "yì",
        "gl": "one",
        "pos": "num."
       },
       {
        "h": "天",
        "py": "tiān",
-       "gl": "day; sky",
-       "pos": "measure word"
+       "gl": "day",
+       "pos": "n."
       },
       {
        "h": "，"
       },
       {
        "h": "护士",
-       "py": "hùshi",
+       "py": "hùshì",
        "gl": "nurse",
        "pos": "n."
       },
       {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
        "pos": "v."
       },
       {
        "h": "张阿姨",
-       "py": "zhāng āyí",
+       "py": "Zhāng āyí",
        "gl": "Aunt Zhang",
        "pos": "proper noun"
       },
       {
+       "h": "，"
+      },
+      {
        "h": "晚上",
-       "py": "wǎnshang",
-       "gl": "evening; in the evening",
+       "py": "wǎnshàng",
+       "gl": "evening",
        "pos": "n."
       },
       {
        "h": "十二",
-       "py": "shí'èr",
+       "py": "shíèr",
        "gl": "twelve",
        "pos": "num."
       },
@@ -86,12 +89,12 @@
        "h": "不能",
        "py": "bùnéng",
        "gl": "cannot; must not",
-       "pos": "function word"
+       "pos": "v."
       },
       {
        "h": "再",
        "py": "zài",
-       "gl": "again; once more",
+       "gl": "then; after that",
        "pos": "adv."
       },
       {
@@ -102,15 +105,24 @@
       },
       {
        "h": "东西",
-       "py": "dōngxi",
+       "py": "dōngxī",
        "gl": "thing; stuff",
        "pos": "n."
       },
       {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
+       "h": "，"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
       },
       {
        "h": "喝",
@@ -130,13 +142,13 @@
      ]
     },
     {
-     "en": "to avoid complications under anesthesia.",
+     "en": "so the anesthesia would be safer.",
      "words": [
       {
-       "h": "以免",
-       "py": "yǐmiǎn",
-       "gl": "so as not to; in order to avoid",
-       "pos": "conj."
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
       },
       {
        "h": "麻醉",
@@ -145,21 +157,27 @@
        "pos": "n."
       },
       {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; during",
-       "pos": "conj."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "发生",
-       "py": "fāshēng",
-       "gl": "happen; occur",
-       "pos": "v."
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
       },
       {
-       "h": "意外",
-       "py": "yìwài",
-       "gl": "accident; mishap",
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "安全",
+       "py": "ānquán",
+       "gl": "safety",
        "pos": "n."
       },
       {
@@ -170,11 +188,44 @@
    ]
   },
   {
-   "en": "Although she had prepared herself mentally, the moment she thought about being wheeled into the operating room, she still felt a bit nervous.",
+   "en": "At half past eleven her daughter poured her a glass of warm water and set it on the bedside table.",
    "phrases": [
     {
-     "en": "Although she had prepared herself mentally, the moment she thought about being wheeled into the operating room,",
+     "en": "At half past eleven her daughter poured her a glass of warm water and set it on the bedside table.",
      "words": [
+      {
+       "h": "十一",
+       "py": "shíyī",
+       "gl": "eleven (双十一 Singles' Day, Nov. 11)",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock",
+       "pos": "measure word"
+      },
+      {
+       "h": "半",
+       "py": "bàn",
+       "gl": "half",
+       "pos": "num."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
       {
        "h": "她",
        "py": "tā",
@@ -182,105 +233,67 @@
        "pos": "pron."
       },
       {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "做好",
-       "py": "zuòhǎo",
-       "gl": "do well; get ready; finish making",
+       "h": "倒",
+       "py": "dào",
+       "gl": "pour (a drink)",
        "pos": "v."
       },
       {
-       "h": "心理",
-       "py": "xīnlǐ",
-       "gl": "psychological; mental; psychology; mentality",
-       "pos": "n."
-      },
-      {
-       "h": "准备",
-       "py": "zhǔnbèi",
-       "gl": "preparation",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "一",
-       "py": "yī",
-       "gl": "as soon as (一…就… no sooner … than)",
-       "pos": "adv."
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
       },
       {
-       "h": "想到",
-       "py": "xiǎngdào",
-       "gl": "think of; expect (没想到 'didn't expect')",
-       "pos": "v."
+       "h": "杯",
+       "py": "bēi",
+       "gl": "cup; glass (also measure word)",
+       "pos": "n."
       },
       {
-       "h": "要",
-       "py": "yào",
-       "gl": "want; order; be going to; need",
-       "pos": "function word"
+       "h": "温",
+       "py": "wēn",
+       "gl": "warm (food nature in TCM)",
+       "pos": "adj."
       },
       {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "function word"
-      },
-      {
-       "h": "推进",
-       "py": "tuījìn",
-       "gl": "push into; advance; push forward",
-       "pos": "v."
-      },
-      {
-       "h": "手术室",
-       "py": "shǒushùshì",
-       "gl": "operating room",
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she still felt a bit nervous.",
-     "words": [
-      {
-       "h": "还是",
-       "py": "háishi",
-       "gl": "still; nevertheless; after all",
-       "pos": "adv."
       },
       {
-       "h": "有些",
-       "py": "yǒuxiē",
-       "gl": "somewhat; a little",
-       "pos": "adv."
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
       },
       {
-       "h": "紧张",
-       "py": "jǐnzhāng",
-       "gl": "nervous; tense",
-       "pos": "adj."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "床头柜",
+       "py": "chuángtóuguì",
+       "gl": "bedside table",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
        "h": "。"
@@ -290,34 +303,205 @@
    ]
   },
   {
-   "en": "The surgeon came to her room specially to explain in detail how the operation would go, the possible risks, and what to watch out for afterward, and patiently answered her questions.",
+   "en": "Auntie Zhang drank it in tiny sips, very slowly, as if trying to stretch the remaining half hour a little longer.",
    "phrases": [
     {
-     "en": "The surgeon came to her room specially to explain in detail how the operation would go, the possible risks, and what to watch out for afterward,",
+     "en": "Auntie Zhang drank it in tiny sips,",
      "words": [
       {
-       "h": "主刀",
-       "py": "zhǔdāo",
-       "gl": "be the lead surgeon; perform an operation",
+       "h": "张阿姨",
+       "py": "Zhāng āyí",
+       "gl": "Aunt Zhang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "口",
+       "py": "kǒu",
+       "gl": "measure word for mouthfuls, breaths, wells, pots; mouth",
+       "pos": "measure word"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "口",
+       "py": "kǒu",
+       "gl": "measure word for mouthfuls, breaths, wells, pots; mouth",
+       "pos": "measure word"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
        "pos": "v."
       },
       {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "very slowly, as if trying to stretch the remaining half hour a little longer.",
+     "words": [
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "慢",
+       "py": "màn",
+       "gl": "slow; slowly",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "好像",
+       "py": "hǎoxiàng",
+       "gl": "seem; be like",
+       "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "剩下",
+       "py": "shèngxià",
+       "gl": "be left (over); remain",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "半",
+       "py": "bàn",
+       "gl": "half",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
        "pos": "n."
       },
       {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
+       "h": "拉",
+       "py": "lā",
+       "gl": "to stretch",
+       "pos": "v."
+      },
+      {
+       "h": "长",
+       "py": "cháng",
+       "gl": "long",
+       "pos": "adj."
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
        "pos": "adv."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "During the day the lead surgeon had come to the ward, explaining in detail how the operation would go, the possible risks, and what to watch for afterward, and patiently answering every one of her questions.",
+   "phrases": [
+    {
+     "en": "During the day the lead surgeon had come to the ward,",
+     "words": [
+      {
+       "h": "白天",
+       "py": "báitiān",
+       "gl": "during the day",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "主刀医生",
+       "py": "zhǔdāo yīshēng",
+       "gl": "lead surgeon",
+       "pos": "n."
       },
       {
        "h": "来",
        "py": "lái",
-       "gl": "come",
+       "gl": "come; arrive",
        "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
       },
       {
        "h": "病房",
@@ -327,7 +511,12 @@
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "explaining in detail how the operation would go, the possible risks, and what to watch for afterward,",
+     "words": [
       {
        "h": "详细",
        "py": "xiángxì",
@@ -335,9 +524,15 @@
        "pos": "adv."
       },
       {
-       "h": "说明",
-       "py": "shuōmíng",
-       "gl": "show; explain; indicate",
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "讲",
+       "py": "jiǎng",
+       "gl": "tell; talk about",
        "pos": "v."
       },
       {
@@ -353,6 +548,12 @@
        "pos": "n."
       },
       {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
        "h": "过程",
        "py": "guòchéng",
        "gl": "process",
@@ -365,12 +566,12 @@
        "h": "可能",
        "py": "kěnéng",
        "gl": "possible; maybe",
-       "pos": "adj."
+       "pos": "adv."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -380,16 +581,22 @@
        "pos": "n."
       },
       {
-       "h": "以及",
-       "py": "yǐjí",
-       "gl": "and; as well as",
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
        "pos": "conj."
       },
       {
        "h": "术后",
        "py": "shùhòu",
        "gl": "postoperative; after surgery",
-       "pos": "n."
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
       },
       {
        "h": "注意",
@@ -398,9 +605,15 @@
        "pos": "v."
       },
       {
-       "h": "事项",
-       "py": "shìxiàng",
-       "gl": "item; matter",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "事",
+       "py": "shì",
+       "gl": "matter; thing",
        "pos": "n."
       },
       {
@@ -409,19 +622,25 @@
      ]
     },
     {
-     "en": "and patiently answered her questions.",
+     "en": "and patiently answering every one of her questions.",
      "words": [
       {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "conj."
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
       },
       {
        "h": "耐心",
        "py": "nàixīn",
        "gl": "patient; patience",
        "pos": "adv."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
       },
       {
        "h": "回答",
@@ -444,13 +663,25 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
+      },
+      {
+       "h": "每",
+       "py": "měi",
+       "gl": "every; each",
+       "pos": "pron."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
       },
       {
        "h": "问题",
        "py": "wèntí",
-       "gl": "question",
+       "gl": "question; problem",
        "pos": "n."
       },
       {
@@ -461,37 +692,37 @@
    ]
   },
   {
-   "en": "The doctor told her this kind of operation was well established, and as long as she followed his instructions and rested properly, most patients were back to normal life within two or three weeks.",
+   "en": "He said this kind of operation is very well established, and most patients are back to normal life in two or three weeks. The doctor's words helped her relax a little.",
    "phrases": [
     {
-     "en": "The doctor told her this kind of operation was well established,",
+     "en": "He said this kind of operation is very well established, and most patients are back to normal life in two or three weeks.",
      "words": [
       {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "告诉",
-       "py": "gàosu",
-       "gl": "tell",
-       "pos": "v."
-      },
-      {
-       "h": "她",
+       "h": "他",
        "py": "tā",
-       "gl": "she; her",
+       "gl": "he; him",
        "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "这类",
-       "py": "zhèlèi",
-       "gl": "this kind of; such (这类 + noun)",
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
        "pos": "pron."
+      },
+      {
+       "h": "种",
+       "py": "zhǒng",
+       "gl": "kind; type (measure word); plant; grow",
+       "pos": "measure word"
       },
       {
        "h": "手术",
@@ -506,9 +737,9 @@
        "pos": "adv."
       },
       {
-       "h": "相当",
-       "py": "xiāngdāng",
-       "gl": "quite; rather",
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
        "pos": "adv."
       },
       {
@@ -519,104 +750,42 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and as long as she followed his instructions and rested properly, most patients were basically back to normal life within two or three weeks.",
-     "words": [
-      {
-       "h": "只要",
-       "py": "zhǐyào",
-       "gl": "as long as; if only",
-       "pos": "conj."
-      },
-      {
-       "h": "配合",
-       "py": "pèihé",
-       "gl": "teamwork; cooperation; cooperate",
-       "pos": "v."
-      },
-      {
-       "h": "医嘱",
-       "py": "yīzhǔ",
-       "gl": "doctor's orders",
-       "pos": "n."
-      },
-      {
-       "h": "好好",
-       "py": "hǎohǎo",
-       "gl": "properly; well; to one's heart's content",
-       "pos": "adv."
-      },
-      {
-       "h": "休息",
-       "py": "xiūxi",
-       "gl": "rest",
-       "pos": "v."
-      },
-      {
-       "h": "，"
       },
       {
        "h": "大部分",
-       "py": "dàbùfen",
+       "py": "dàbùfèn",
        "gl": "most; the greater part",
        "pos": "n."
       },
       {
-       "h": "患者",
-       "py": "huànzhě",
-       "gl": "patient",
+       "h": "病人",
+       "py": "bìngrén",
+       "gl": "patient (sick person)",
        "pos": "n."
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
+       "h": "两三",
+       "py": "liǎngsān",
+       "gl": "two or three",
        "pos": "num."
       },
       {
        "h": "周",
        "py": "zhōu",
        "gl": "week",
-       "pos": "measure word"
+       "pos": "n."
       },
       {
-       "h": "内",
-       "py": "nèi",
-       "gl": "within; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "基本",
-       "py": "jīběn",
-       "gl": "basically; mostly",
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
        "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
       },
       {
        "h": "恢复",
@@ -640,25 +809,87 @@
        "h": "。"
       }
      ]
+    },
+    {
+     "en": "The doctor's words helped her relax a little.",
+     "words": [
+      {
+       "h": "医生",
+       "py": "yīshēng",
+       "gl": "doctor",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "话",
+       "py": "huà",
+       "gl": "words; speech; what someone says",
+       "pos": "n."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "放松",
+       "py": "fàngsōng",
+       "gl": "relaxed; relax",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      }
+     ]
     }
    ]
   },
   {
-   "en": "On the day of the operation she was still a little scared as she was wheeled into the operating room, but the medical staff were so professional and kind that she gradually relaxed.",
+   "en": "But that night she still couldn't sleep, watching the green \"Exit\" sign in the corridor flicker.",
    "phrases": [
     {
-     "en": "On the day of the operation she was still a little scared as she was wheeled into the operating room,",
+     "en": "But that night she still couldn't sleep, watching the green \"Exit\" sign in the corridor flicker.",
      "words": [
       {
-       "h": "手术",
-       "py": "shǒushù",
-       "gl": "surgery; operation",
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
        "pos": "n."
       },
       {
-       "h": "当天",
-       "py": "dāngtiān",
-       "gl": "that day; the same day",
+       "h": "夜里",
+       "py": "yèlǐ",
+       "gl": "at night",
        "pos": "n."
       },
       {
@@ -671,15 +902,145 @@
        "pos": "pron."
       },
       {
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "睡着",
+       "py": "shuìzháo",
+       "gl": "fall asleep",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "look at; watching",
+       "pos": "v."
+      },
+      {
+       "h": "走廊",
+       "py": "zǒuláng",
+       "gl": "corridor; veranda",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "块",
+       "py": "kuài",
+       "gl": "measure word for signs, plaques",
+       "pos": "measure word"
+      },
+      {
+       "h": "绿色",
+       "py": "lǜsè",
+       "gl": "green",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "出口",
+       "py": "chūkǒu",
+       "gl": "exit",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "牌子",
+       "py": "páizi",
+       "gl": "sign",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "闪",
+       "py": "shǎn",
+       "gl": "flash; flicker; sparkle",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "闪",
+       "py": "shǎn",
+       "gl": "flash; flicker; sparkle",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the morning, as she was wheeled into the operating room, she gripped her daughter's hand and wouldn't let go.",
+   "phrases": [
+    {
+     "en": "In the morning, as she was wheeled into the operating room, she gripped her daughter's hand and wouldn't let go.",
+     "words": [
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
        "h": "被",
        "py": "bèi",
        "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
        "pos": "function word"
       },
       {
-       "h": "推进",
-       "py": "tuījìn",
-       "gl": "push into; advance; push forward",
+       "h": "推",
+       "py": "tuī",
+       "gl": "push",
+       "pos": "v."
+      },
+      {
+       "h": "进",
+       "py": "jìn",
+       "gl": "in (complement)",
        "pos": "v."
       },
       {
@@ -689,75 +1050,19 @@
        "pos": "n."
       },
       {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; time",
-       "pos": "conj."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "有点",
-       "py": "yǒudiǎn",
-       "gl": "a little; somewhat",
-       "pos": "adv."
-      },
-      {
-       "h": "害怕",
-       "py": "hàipà",
-       "gl": "be afraid; fear",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but the medical staff were professional and kind, and that helped her gradually relax.",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "医护人员",
-       "py": "yīhùrényuán",
-       "gl": "medical staff",
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
        "pos": "n."
       },
       {
-       "h": "专业",
-       "py": "zhuānyè",
-       "gl": "professional",
-       "pos": "adj."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "温和",
-       "py": "wēnhé",
-       "gl": "gentle; mild",
-       "pos": "adj."
-      },
-      {
        "h": "，"
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
       },
       {
        "h": "她",
@@ -766,135 +1071,54 @@
        "pos": "pron."
       },
       {
-       "h": "渐渐",
-       "py": "jiànjiàn",
-       "gl": "gradually",
+       "h": "紧紧",
+       "py": "jǐnjǐn",
+       "gl": "tightly; closely",
        "pos": "adv."
       },
       {
-       "h": "放松",
-       "py": "fàngsōng",
-       "gl": "relaxed; relax",
+       "h": "拉着",
+       "py": "lāzhe",
+       "gl": "hold (by the hand); drag along",
        "pos": "v."
       },
       {
-       "h": "下来",
-       "py": "xiàlái",
-       "gl": "down (verb complement: 写下来 write down); over a period (几年下来 after several years)",
-       "pos": "function word"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "A few hours later the operation was over, and it had gone smoothly; with her family by her side, she slowly recovered.",
-   "phrases": [
-    {
-     "en": "A few hours later the operation was successfully over,",
-     "words": [
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "小时",
-       "py": "xiǎoshí",
-       "gl": "hour",
-       "pos": "n."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "手术",
-       "py": "shǒushù",
-       "gl": "surgery; operation",
-       "pos": "n."
-      },
-      {
-       "h": "顺利",
-       "py": "shùnlì",
-       "gl": "smooth; successful; go well",
-       "pos": "adv."
-      },
-      {
-       "h": "结束",
-       "py": "jiéshù",
-       "gl": "finish; end",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and with her family by her side, she slowly recovered.",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "家人",
-       "py": "jiārén",
-       "gl": "family members; family",
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "陪伴",
-       "py": "péibàn",
-       "gl": "keep (someone) company; companionship",
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
        "pos": "n."
       },
       {
-       "h": "下",
-       "py": "xià",
-       "gl": "under (conditions); in (a context)",
-       "pos": "postposition"
+       "h": "，"
       },
       {
-       "h": "慢慢",
-       "py": "mànmàn",
-       "gl": "slowly; gradually",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
        "pos": "adv."
       },
       {
-       "h": "恢复",
-       "py": "huīfù",
-       "gl": "recover; be restored",
+       "h": "肯",
+       "py": "kěn",
+       "gl": "be willing to; agree to",
+       "pos": "v."
+      },
+      {
+       "h": "松开",
+       "py": "sōngkāi",
+       "gl": "release; let go",
        "pos": "v."
       },
       {
@@ -905,42 +1129,42 @@
    ]
   },
   {
-   "en": "On the day she was discharged, the doctor gave her special instructions: rest at home, avoid strenuous exercise, come back for regular checkups, and don't get careless just because she was feeling a bit better.",
+   "en": "A nurse bent down and asked what her granddaughter's name was. As she answered, her hand let go by itself.",
    "phrases": [
     {
-     "en": "On the day she was discharged, the doctor gave her special instructions: rest at home, avoid strenuous exercise, come back for regular checkups,",
+     "en": "A nurse bent down and asked what her granddaughter's name was.",
      "words": [
       {
-       "h": "出院",
-       "py": "chūyuàn",
-       "gl": "be discharged from the hospital",
-       "pos": "v."
+       "h": "护士",
+       "py": "hùshì",
+       "gl": "nurse",
+       "pos": "n."
       },
       {
-       "h": "那天",
-       "py": "nàtiān",
-       "gl": "that day",
+       "h": "弯",
+       "py": "wān",
+       "gl": "bend; turn",
+       "pos": "n."
+      },
+      {
+       "h": "下",
+       "py": "xià",
+       "gl": "under (强光下 under bright light)",
+       "pos": "postposition"
+      },
+      {
+       "h": "腰",
+       "py": "yāo",
+       "gl": "waist",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly",
-       "pos": "adv."
-      },
-      {
-       "h": "嘱咐",
-       "py": "zhǔfù",
-       "gl": "tell (someone to do something); urge; exhort",
+       "h": "问",
+       "py": "wèn",
+       "gl": "ask",
        "pos": "v."
       },
       {
@@ -950,111 +1174,75 @@
        "pos": "pron."
       },
       {
-       "h": "："
-      },
-      {
-       "h": "回家",
-       "py": "huíjiā",
-       "gl": "go home; come home",
-       "pos": "v."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
-      },
-      {
-       "h": "注意",
-       "py": "zhùyì",
-       "gl": "pay attention to; be careful about",
-       "pos": "v."
-      },
-      {
-       "h": "休息",
-       "py": "xiūxi",
-       "gl": "rest; break",
+       "h": "孙女",
+       "py": "sūnnǚ",
+       "gl": "granddaughter",
        "pos": "n."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "避免",
-       "py": "bìmiǎn",
-       "gl": "avoid",
+       "h": "叫",
+       "py": "jiào",
+       "gl": "be called",
        "pos": "v."
       },
       {
-       "h": "剧烈",
-       "py": "jùliè",
-       "gl": "severe; intense; violent",
-       "pos": "adj."
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
       },
       {
-       "h": "运动",
-       "py": "yùndòng",
-       "gl": "exercise; do sports; sport",
+       "h": "名字",
+       "py": "míngzì",
+       "gl": "name",
        "pos": "n."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "定期",
-       "py": "dìngqī",
-       "gl": "regularly; periodically",
-       "pos": "adv."
-      },
-      {
-       "h": "复诊",
-       "py": "fùzhěn",
-       "gl": "follow-up visit (to a doctor)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
+       "h": "。"
       }
      ]
     },
     {
-     "en": "and don't get careless just because she was feeling a bit better.",
+     "en": "As she answered, her hand let go by itself.",
      "words": [
       {
-       "h": "不能",
-       "py": "bùnéng",
-       "gl": "cannot; must not",
-       "pos": "function word"
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because",
-       "pos": "conj."
-      },
-      {
-       "h": "感觉",
-       "py": "gǎnjué",
-       "gl": "feel; feeling",
+       "h": "回答",
+       "py": "huídá",
+       "gl": "answer; reply",
        "pos": "v."
       },
       {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good",
-       "pos": "adj."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "一些",
-       "py": "yìxiē",
-       "gl": "some; a few",
-       "pos": "num."
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
+       "pos": "n."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
       },
       {
        "h": "就",
@@ -1063,252 +1251,22 @@
        "pos": "adv."
       },
       {
-       "h": "掉以轻心",
-       "py": "diàoyǐqīngxīn",
-       "gl": "let one's guard down (idiom)",
-       "pos": "phrase"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "When she left the hospital, the nurse reminded Auntie Zhang to go to the medical insurance window to file for reimbursement and lighten the burden of her medical bills.",
-   "phrases": [
-    {
-     "en": "When she left the hospital, the nurse reminded Auntie Zhang to go to the medical insurance window to file for reimbursement and lighten the burden of her medical bills.",
-     "words": [
-      {
-       "h": "出院",
-       "py": "chūyuàn",
-       "gl": "be discharged from the hospital",
+       "h": "松",
+       "py": "sōng",
+       "gl": "loosen; relax (松了一口气 breathe a sigh of relief)",
        "pos": "v."
-      },
-      {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; time",
-       "pos": "function word"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "护士",
-       "py": "hùshì",
-       "gl": "nurse",
-       "pos": "n."
-      },
-      {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
-       "pos": "v."
-      },
-      {
-       "h": "张阿姨",
-       "py": "zhāngāyí",
-       "gl": "Aunt Zhang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go (to)",
-       "pos": "v."
-      },
-      {
-       "h": "医保",
-       "py": "yībǎo",
-       "gl": "medical insurance",
-       "pos": "n."
-      },
-      {
-       "h": "窗口",
-       "py": "chuāngkǒu",
-       "gl": "service window; counter",
-       "pos": "n."
-      },
-      {
-       "h": "办理",
-       "py": "bànlǐ",
-       "gl": "handle; take care of (business)",
-       "pos": "v."
-      },
-      {
-       "h": "报销",
-       "py": "bàoxiāo",
-       "gl": "reimburse; reimbursement",
-       "pos": "n."
-      },
-      {
-       "h": "手续",
-       "py": "shǒuxù",
-       "gl": "procedure; formalities",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "以",
-       "py": "yǐ",
-       "gl": "in order to; so as to",
-       "pos": "prep."
-      },
-      {
-       "h": "减轻",
-       "py": "jiǎnqīng",
-       "gl": "lighten; reduce; ease",
-       "pos": "v."
-      },
-      {
-       "h": "医疗",
-       "py": "yīliáo",
-       "gl": "medical care; health care",
-       "pos": "adj."
-      },
-      {
-       "h": "费用",
-       "py": "fèiyòng",
-       "gl": "cost; expenses",
-       "pos": "n."
-      },
-      {
-       "h": "负担",
-       "py": "fùdān",
-       "gl": "burden",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "At home, besides taking her medicine as prescribed, Auntie Zhang also had a traditional Chinese medicine doctor prescribe a few doses of herbal medicine to help her body recover.",
-   "phrases": [
-    {
-     "en": "At home, besides taking her medicine as prescribed, Auntie Zhang also had a traditional Chinese medicine doctor prescribe a few doses of herbal medicine to help her body recover.",
-     "words": [
-      {
-       "h": "回家",
-       "py": "huíjiā",
-       "gl": "go home; come home",
-       "pos": "v."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "function word"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "张阿姨",
-       "py": "zhāngāyí",
-       "gl": "Aunt Zhang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "按",
-       "py": "àn",
-       "gl": "according to; by",
-       "pos": "prep."
-      },
-      {
-       "h": "医嘱",
-       "py": "yīzhǔ",
-       "gl": "doctor's orders",
-       "pos": "n."
-      },
-      {
-       "h": "服药",
-       "py": "fúyào",
-       "gl": "take medicine",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "请",
-       "py": "qǐng",
-       "gl": "ask; hire; invite",
-       "pos": "v."
-      },
-      {
-       "h": "中医",
-       "py": "zhōngyī",
-       "gl": "doctor of traditional Chinese medicine",
-       "pos": "n."
       },
       {
        "h": "开",
        "py": "kāi",
-       "gl": "open; turn on; drive; start (a business); prescribe; hold (a meeting)",
+       "gl": "open; apart (complement)",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
        "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "副",
-       "py": "fù",
-       "gl": "measure word for doses (of herbal medicine)",
-       "pos": "measure word"
-      },
-      {
-       "h": "调理",
-       "py": "tiáolǐ",
-       "gl": "nurse back to health; regulate (the body)",
-       "pos": "v."
-      },
-      {
-       "h": "身体",
-       "py": "shēntǐ",
-       "gl": "body; health",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (我学的是… what I studied is…)",
-       "pos": "function word"
-      },
-      {
-       "h": "中药",
-       "py": "zhōngyào",
-       "gl": "traditional Chinese medicine (herbal remedy)",
-       "pos": "n."
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -1318,712 +1276,16 @@
    ]
   },
   {
-   "en": "A week after she was discharged, following the doctor's advice, Auntie Zhang had her first follow-up appointment through the hospital's online platform, so she didn't have to make another trip there in person.",
+   "en": "This time a surgical robot was used: the surgeon operates robotic arms to carry out very fine movements, with much less trauma than traditional surgery.",
    "phrases": [
     {
-     "en": "A week after she was discharged, following the doctor's advice, Auntie Zhang had her first follow-up appointment through the hospital's online platform,",
+     "en": "This time a surgical robot was used:",
      "words": [
-      {
-       "h": "出院",
-       "py": "chūyuàn",
-       "gl": "be discharged from the hospital",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "周",
-       "py": "zhōu",
-       "gl": "week",
-       "pos": "measure word"
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "张",
-       "py": "zhāng",
-       "gl": "Zhang (surname)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "阿姨",
-       "py": "āyí",
-       "gl": "auntie (older woman)",
-       "pos": "n."
-      },
-      {
-       "h": "按照",
-       "py": "ànzhào",
-       "gl": "according to",
-       "pos": "prep."
-      },
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "建议",
-       "py": "jiànyì",
-       "gl": "suggest; advise; suggestion",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
-      },
-      {
-       "h": "医院",
-       "py": "yīyuàn",
-       "gl": "hospital",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "互联网医院",
-       "py": "hùliánwǎngyīyuàn",
-       "gl": "internet hospital (online medical consultation platform)",
-       "pos": "n."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "进行",
-       "py": "jìnxíng",
-       "gl": "carry out; conduct",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "第一次",
-       "py": "dìyīcì",
-       "gl": "first time; for the first time",
-       "pos": "adv."
-      },
-      {
-       "h": "复诊",
-       "py": "fùzhěn",
-       "gl": "follow-up visit (to a doctor)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so she didn't have to make another trip to the hospital in person.",
-     "words": [
-      {
-       "h": "不用",
-       "py": "bùyòng",
-       "gl": "not need; no need to",
-       "pos": "v."
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; once more",
-       "pos": "adv."
-      },
-      {
-       "h": "亲自",
-       "py": "qīnzì",
-       "gl": "personally; in person",
-       "pos": "adv."
-      },
-      {
-       "h": "跑",
-       "py": "pǎo",
-       "gl": "make a trip",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "趟",
-       "py": "tàng",
-       "gl": "measure word for trips",
-       "pos": "measure word"
-      },
-      {
-       "h": "医院",
-       "py": "yīyuàn",
-       "gl": "hospital",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The doctor looked at the photos of her wound she had uploaded and confirmed it was healing well, and also adjusted some of her medication based on what she told him.",
-   "phrases": [
-    {
-     "en": "The doctor looked online at the photos of her wound she had uploaded and confirmed it was healing well,",
-     "words": [
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "在线",
-       "py": "zàixiàn",
-       "gl": "online",
-       "pos": "adj."
-      },
-      {
-       "h": "查看",
-       "py": "chákàn",
-       "gl": "check; look at",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "上传",
-       "py": "shàngchuán",
-       "gl": "upload",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "伤口",
-       "py": "shāngkǒu",
-       "gl": "wound",
-       "pos": "n."
-      },
-      {
-       "h": "照片",
-       "py": "zhàopiān",
-       "gl": "photo",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "确认",
-       "py": "quèrèn",
-       "gl": "confirm",
-       "pos": "v."
-      },
-      {
-       "h": "愈合",
-       "py": "yùhé",
-       "gl": "heal (of a wound)",
-       "pos": "v."
-      },
-      {
-       "h": "情况",
-       "py": "qíngkuàng",
-       "gl": "situation; circumstances",
-       "pos": "n."
-      },
-      {
-       "h": "良好",
-       "py": "liánghǎo",
-       "gl": "good; fine",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and also adjusted some of her medication based on what she told him.",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "根据",
-       "py": "gēnjù",
-       "gl": "according to; based on",
-       "pos": "prep."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "描述",
-       "py": "miáoshù",
-       "gl": "describe",
-       "pos": "v."
-      },
-      {
-       "h": "调整",
-       "py": "tiáozhěng",
-       "gl": "adjust; tune",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "部分",
-       "py": "bùfèn",
-       "gl": "part; section",
-       "pos": "n."
-      },
-      {
-       "h": "用药",
-       "py": "yòngyào",
-       "gl": "take medicine; medication",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Online follow-ups like this are becoming more and more common; many patients with common or chronic illnesses can book a doctor on their phones, which is convenient and saves time.",
-   "phrases": [
-    {
-     "en": "Online follow-ups like this are becoming more and more common; many patients with common or chronic illnesses can book a doctor on their phones,",
-     "words": [
-      {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "线上",
-       "py": "xiànshàng",
-       "gl": "online",
-       "pos": "adj."
-      },
-      {
-       "h": "复诊",
-       "py": "fùzhěn",
-       "gl": "follow-up visit (to a doctor)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "方式",
-       "py": "fāngshì",
-       "gl": "way; method",
-       "pos": "n."
-      },
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "普及",
-       "py": "pǔjí",
-       "gl": "spread; become widespread; popularize",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "常见病",
-       "py": "chángjiànbìng",
-       "gl": "common illness",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "慢性病",
-       "py": "mànxìngbìng",
-       "gl": "chronic disease",
-       "pos": "n."
-      },
-      {
-       "h": "患者",
-       "py": "huànzhě",
-       "gl": "patient",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "v."
-      },
-      {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
-      },
-      {
-       "h": "手机",
-       "py": "shǒujī",
-       "gl": "cell phone",
-       "pos": "n."
-      },
-      {
-       "h": "预约",
-       "py": "yùyuē",
-       "gl": "make an appointment; book in advance",
-       "pos": "v."
-      },
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which is convenient and saves time.",
-     "words": [
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "adj."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "省",
-       "py": "shěng",
-       "gl": "save (time, money)",
-       "pos": "v."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Two weeks later, Auntie Zhang went back to the hospital to have her stitches out; after examining her, the doctor said she was recovering even better than expected and told her she could gradually do more.",
-   "phrases": [
-    {
-     "en": "Two weeks later, Auntie Zhang went back to the hospital to have her stitches out; after examining her, the doctor said she was recovering even better than expected,",
-     "words": [
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "周",
-       "py": "zhōu",
-       "gl": "week",
-       "pos": "measure word"
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "张",
-       "py": "zhāng",
-       "gl": "Zhang (surname)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "阿姨",
-       "py": "āyí",
-       "gl": "auntie (older woman)",
-       "pos": "n."
-      },
-      {
-       "h": "回",
-       "py": "huí",
-       "gl": "return; go back",
-       "pos": "v."
-      },
-      {
-       "h": "医院",
-       "py": "yīyuàn",
-       "gl": "hospital",
-       "pos": "n."
-      },
-      {
-       "h": "拆线",
-       "py": "chāixiàn",
-       "gl": "remove stitches",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "检查",
-       "py": "jiǎnchá",
-       "gl": "check; inspect",
-       "pos": "v."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "恢复",
-       "py": "huīfù",
-       "gl": "recover; be restored",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "dé",
-       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
-       "pos": "function word"
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "预期",
-       "py": "yùqī",
-       "gl": "expectation",
-       "pos": "n."
-      },
-      {
-       "h": "还要",
-       "py": "háiyào",
-       "gl": "even more (than)",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and told her she could gradually do more.",
-     "words": [
-      {
-       "h": "叮嘱",
-       "py": "dīngzhǔ",
-       "gl": "urge; remind; tell (repeatedly)",
-       "pos": "v."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "v."
-      },
-      {
-       "h": "逐渐",
-       "py": "zhújiàn",
-       "gl": "gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "增加",
-       "py": "zēngjiā",
-       "gl": "increase; raise; add",
-       "pos": "v."
-      },
-      {
-       "h": "活动",
-       "py": "huódòng",
-       "gl": "activity; move around; exercise",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The surgeon told her that the operation had used a newly acquired surgical robot: the doctor controls robotic arms to make very precise movements, causing much less trauma than traditional surgery.",
-   "phrases": [
-    {
-     "en": "The surgeon told her that the operation had used a newly acquired surgical robot:",
-     "words": [
-      {
-       "h": "主刀",
-       "py": "zhǔdāo",
-       "gl": "be the lead surgeon; perform an operation",
-       "pos": "v."
-      },
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "告诉",
-       "py": "gàosù",
-       "gl": "tell",
-       "pos": "v."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      },
       {
        "h": "这次",
        "py": "zhècì",
        "gl": "this time",
        "pos": "pron."
-      },
-      {
-       "h": "手术",
-       "py": "shǒushù",
-       "gl": "surgery; operation",
-       "pos": "n."
       },
       {
        "h": "用",
@@ -2034,7 +1296,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -2044,42 +1306,18 @@
        "pos": "v."
       },
       {
-       "h": "最新",
-       "py": "zuìxīn",
-       "gl": "latest; newest",
-       "pos": "adj."
-      },
-      {
-       "h": "引进",
-       "py": "yǐnjìn",
-       "gl": "introduce; bring in",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "手术",
-       "py": "shǒushù",
-       "gl": "surgery; operation",
+       "h": "手术机器人",
+       "py": "shǒushù jīqìrén",
+       "gl": "surgical robot",
        "pos": "n."
       },
       {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
-      },
-      {
-       "h": "，"
+       "h": "："
       }
      ]
     },
     {
-     "en": "the doctor controls robotic arms to make very precise movements, causing much less trauma than traditional surgery.",
+     "en": "the surgeon operates robotic arms to carry out very fine movements, with much less trauma than traditional surgery.",
      "words": [
       {
        "h": "医生",
@@ -2088,15 +1326,9 @@
        "pos": "n."
       },
       {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
-      },
-      {
        "h": "操作",
        "py": "cāozuò",
-       "gl": "move; play (in a game)",
+       "gl": "operation; operate",
        "pos": "n."
       },
       {
@@ -2112,10 +1344,22 @@
        "pos": "v."
       },
       {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
        "h": "精细",
        "py": "jīngxì",
        "gl": "fine; delicate; meticulous",
        "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "动作",
@@ -2129,7 +1373,7 @@
       {
        "h": "创伤",
        "py": "chuāngshāng",
-       "gl": "wound; trauma",
+       "gl": "trauma, injury",
        "pos": "n."
       },
       {
@@ -2157,10 +1401,16 @@
        "pos": "adj."
       },
       {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "much (after a comparison: 高很多 much higher)",
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
        "pos": "adv."
+      },
+      {
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much",
+       "pos": "adj."
       },
       {
        "h": "。"
@@ -2170,21 +1420,21 @@
    ]
   },
   {
-   "en": "Surgical robots like the da Vinci are already in use at many large hospitals, helping doctors carry out more complex and precise operations, and patients recover faster too.",
+   "en": "Surgical robots like the da Vinci are now used in many large hospitals, and patients recover faster too.",
    "phrases": [
     {
-     "en": "Surgical robots like the da Vinci are already in use at many large hospitals,",
+     "en": "Surgical robots like the da Vinci are now used in many large hospitals, and patients recover faster too.",
      "words": [
       {
        "h": "像",
        "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "prep."
+       "gl": "resemble; be like; like",
+       "pos": "v."
       },
       {
        "h": "达芬奇",
-       "py": "dáfēnqí",
-       "gl": "da Vinci (surgical robot system)",
+       "py": "Dáfēnqí",
+       "gl": "\"da Vinci\" (surgical robot)",
        "pos": "proper noun"
       },
       {
@@ -2196,20 +1446,17 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "手术",
-       "py": "shǒushù",
-       "gl": "surgery; operation",
+       "h": "手术机器人",
+       "py": "shǒushù jīqìrén",
+       "gl": "surgical robot",
        "pos": "n."
       },
       {
-       "h": "机器人",
-       "py": "jīqìrén",
-       "gl": "robot; bot",
-       "pos": "n."
+       "h": "，"
       },
       {
        "h": "已经",
@@ -2242,81 +1489,22 @@
        "pos": "n."
       },
       {
-       "h": "投入",
-       "py": "tóurù",
-       "gl": "put in; invest",
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
        "pos": "v."
       },
       {
-       "h": "使用",
-       "py": "shǐyòng",
-       "gl": "use; usage",
-       "pos": "n."
+       "h": "上",
+       "py": "shàng",
+       "gl": "on; in; in terms of (after a noun: 世界上 in the world, 工作上 at work)",
+       "pos": "postposition"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "helping doctors carry out more complex and precise operations, and patients recover faster too.",
-     "words": [
-      {
-       "h": "帮助",
-       "py": "bāngzhù",
-       "gl": "help; assist",
-       "pos": "v."
-      },
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "完成",
-       "py": "wánchéng",
-       "gl": "finish; complete",
-       "pos": "v."
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "复杂",
-       "py": "fùzá",
-       "gl": "complicated; complex",
-       "pos": "adj."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "精准",
-       "py": "jīngzhǔn",
-       "gl": "precise; targeted",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
-      },
-      {
-       "h": "操作",
-       "py": "cāozuò",
-       "gl": "move; play (in a game)",
-       "pos": "n."
       },
       {
        "h": "，"
@@ -2330,8 +1518,14 @@
       {
        "h": "恢复",
        "py": "huīfù",
-       "gl": "recover; be restored",
+       "gl": "recover; be restored; restore",
        "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
       },
       {
        "h": "也",
@@ -2348,7 +1542,7 @@
       {
        "h": "快",
        "py": "kuài",
-       "gl": "fast; quick; quickly",
+       "gl": "fast; quick",
        "pos": "adj."
       },
       {
@@ -2359,184 +1553,69 @@
    ]
   },
   {
-   "en": "A month after leaving the hospital, Auntie Zhang went out for a walk on her own for the first time; she didn't walk fast, but she was thrilled and felt she had truly recovered.",
+   "en": "A few hours later the operation was over, and it had gone well. When she woke up, her first word was: \"Water.\"",
    "phrases": [
     {
-     "en": "A month after leaving the hospital, Auntie Zhang went out for a walk on her own for the first time;",
+     "en": "A few hours later the operation was over, and it had gone well.",
      "words": [
       {
-       "h": "张",
-       "py": "zhāng",
-       "gl": "Zhang (surname)",
-       "pos": "proper noun"
+       "h": "几",
+       "py": "jǐ",
+       "gl": "several; a few",
+       "pos": "num."
       },
       {
-       "h": "阿姨",
-       "py": "āyí",
-       "gl": "auntie (older woman)",
-       "pos": "n."
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
       },
       {
-       "h": "出院",
-       "py": "chūyuàn",
-       "gl": "be discharged from the hospital",
-       "pos": "v."
+       "h": "小时",
+       "py": "xiǎoshí",
+       "gl": "hour",
+       "pos": "measure word"
       },
       {
        "h": "后",
        "py": "hòu",
-       "gl": "after",
+       "gl": "after; later; behind",
        "pos": "postposition"
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个月",
-       "py": "gèyuè",
-       "gl": "month (after a number: 两个月 two months)",
-       "pos": "measure word"
-      },
-      {
        "h": "，"
       },
       {
-       "h": "第一次",
-       "py": "dìyīcì",
-       "gl": "first time; for the first time",
-       "pos": "adv."
-      },
-      {
-       "h": "独自",
-       "py": "dúzì",
-       "gl": "alone; by oneself",
-       "pos": "adv."
-      },
-      {
-       "h": "出门",
-       "py": "chūmén",
-       "gl": "go out (of the house); leave home",
-       "pos": "v."
-      },
-      {
-       "h": "散步",
-       "py": "sànbù",
-       "gl": "take a walk; go for a walk",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "she didn't walk fast, but she was thrilled and felt she had truly recovered.",
-     "words": [
-      {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
-      },
-      {
-       "h": "走",
-       "py": "zǒu",
-       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "dé",
-       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
-       "pos": "function word"
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "快",
-       "py": "kuài",
-       "gl": "fast; quick; quickly",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "心里",
-       "py": "xīnlǐ",
-       "gl": "in one's heart; inside",
+       "h": "手术",
+       "py": "shǒushù",
+       "gl": "surgery; operation",
        "pos": "n."
       },
       {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "especially; particularly",
+       "h": "顺利",
+       "py": "shùnlì",
+       "gl": "smooth; successful; go well",
        "pos": "adv."
       },
       {
-       "h": "高兴",
-       "py": "gāoxìng",
-       "gl": "happy; glad",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "feel; think",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "真的",
-       "py": "zhēnde",
-       "gl": "really; truly",
-       "pos": "adv."
-      },
-      {
-       "h": "恢复",
-       "py": "huīfù",
-       "gl": "recover; be restored",
+       "h": "结束",
+       "py": "jiéshù",
+       "gl": "finish; end",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
        "gl": "particle: completed action / change of state",
-       "pos": "function word"
+       "pos": "particle"
       },
       {
        "h": "。"
       }
      ]
-    }
-   ]
-  },
-  {
-   "en": "Every day she stuck to the rehab exercises the doctor recommended and ate mostly light, nutritious food, avoiding anything greasy or spicy.",
-   "phrases": [
+    },
     {
-     "en": "Every day she stuck to the rehab exercises the doctor recommended and ate mostly light, nutritious food,",
+     "en": "When she woke up, her first word was: \"Water.\"",
      "words": [
       {
        "h": "她",
@@ -2545,152 +1624,93 @@
        "pos": "pron."
       },
       {
-       "h": "每天",
-       "py": "měitiān",
-       "gl": "every day",
-       "pos": "n."
-      },
-      {
-       "h": "坚持",
-       "py": "jiānchí",
-       "gl": "persist; keep at it",
+       "h": "醒",
+       "py": "xǐng",
+       "gl": "wake up",
        "pos": "v."
       },
       {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "推荐",
-       "py": "tuījiàn",
-       "gl": "recommend; recommendation",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "过来",
+       "py": "guòlái",
+       "gl": "come over; (after a verb) toward the speaker",
        "pos": "particle"
-      },
-      {
-       "h": "康复",
-       "py": "kāngfù",
-       "gl": "recover; rehabilitation",
-       "pos": "v."
-      },
-      {
-       "h": "锻炼",
-       "py": "duànliàn",
-       "gl": "exercise; work out",
-       "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "饮食",
-       "py": "yǐnshí",
-       "gl": "diet; food and drink",
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "话",
+       "py": "huà",
+       "gl": "words; speech; what someone says",
        "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "以",
-       "py": "yǐ",
-       "gl": "by; with; for (以…出名 'famous for …')",
-       "pos": "prep."
-      },
-      {
-       "h": "清淡",
-       "py": "qīngdàn",
-       "gl": "light (in taste); mild",
-       "pos": "adj."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "营养",
-       "py": "yíngyǎng",
-       "gl": "nutrition; nutrient",
-       "pos": "n."
-      },
-      {
-       "h": "为主",
-       "py": "wéizhǔ",
-       "gl": "be mainly; take as the main thing (以…为主)",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "avoiding anything greasy or spicy.",
-     "words": [
-      {
-       "h": "避免",
-       "py": "bìmiǎn",
-       "gl": "avoid",
-       "pos": "v."
+       "h": "："
       },
       {
-       "h": "油腻",
-       "py": "yóunì",
-       "gl": "greasy; oily",
-       "pos": "adj."
+       "h": "“"
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "辛辣",
-       "py": "xīnlà",
-       "gl": "spicy; pungent; hot",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "食物",
-       "py": "shíwù",
-       "gl": "food",
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
        "pos": "n."
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "Her daughter, worried it wasn't safe for her to be home alone, took some time off work to go with her to her checkups and to make sure she took her medicine on time.",
+   "en": "She wasn't allowed to drink yet, so her daughter dipped a cotton swab in a little water and gently moistened her lips.",
    "phrases": [
     {
-     "en": "Her daughter, worried it wasn't safe for her to be home alone, took some time off work to go with her to her checkups,",
+     "en": "She wasn't allowed to drink yet, so her daughter dipped a cotton swab in a little water and gently moistened her lips.",
      "words": [
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
+      },
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
       {
        "h": "女儿",
        "py": "nǚér",
@@ -2698,9 +1718,60 @@
        "pos": "n."
       },
       {
-       "h": "担心",
-       "py": "dānxīn",
-       "gl": "worry",
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "棉签",
+       "py": "miánqiān",
+       "gl": "cotton swab",
+       "pos": "n."
+      },
+      {
+       "h": "蘸",
+       "py": "zhàn",
+       "gl": "dip",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "轻轻",
+       "py": "qīngqīng",
+       "gl": "gently; lightly; soft; gentle; light",
+       "pos": "adv."
+      },
+      {
+       "h": "擦",
+       "py": "cā",
+       "gl": "wipe; clean",
        "pos": "v."
       },
       {
@@ -2710,75 +1781,55 @@
        "pos": "pron."
       },
       {
-       "h": "一个人",
-       "py": "yígèrén",
-       "gl": "alone; by oneself; one person",
-       "pos": "pron."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "在家",
-       "py": "zàijiā",
-       "gl": "at home",
+       "h": "嘴唇",
+       "py": "zuǐchún",
+       "gl": "lip",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "On the day she was discharged, the nurse had her go to the medical insurance window to claim reimbursement.",
+   "phrases": [
+    {
+     "en": "On the day she was discharged, the nurse had her go to the medical insurance window to claim reimbursement.",
+     "words": [
+      {
+       "h": "出院",
+       "py": "chūyuàn",
+       "gl": "be discharged from the hospital",
        "pos": "v."
       },
       {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "安全",
-       "py": "ānquán",
-       "gl": "safety",
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
-       "pos": "adv."
-      },
-      {
-       "h": "请",
-       "py": "qǐng",
-       "gl": "ask for (leave)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "一段",
-       "py": "yīduàn",
-       "gl": "a period (of time); a section; a stretch; a clip (of video)",
-       "pos": "pron."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
+       "h": "护士",
+       "py": "hùshì",
+       "gl": "nurse",
        "pos": "n."
       },
       {
-       "h": "假",
-       "py": "jiǎ",
-       "gl": "leave; time off (jià)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "陪同",
-       "py": "péitóng",
-       "gl": "accompany",
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
@@ -2794,35 +1845,725 @@
        "pos": "v."
       },
       {
+       "h": "医保",
+       "py": "yībǎo",
+       "gl": "medical insurance",
+       "pos": "n."
+      },
+      {
+       "h": "窗口",
+       "py": "chuāngkǒu",
+       "gl": "window",
+       "pos": "n."
+      },
+      {
+       "h": "办",
+       "py": "bàn",
+       "gl": "get (done); apply for; do",
+       "pos": "v."
+      },
+      {
+       "h": "报销",
+       "py": "bàoxiāo",
+       "gl": "reimburse; reimbursement",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Auntie Zhang looked at the bill and could hardly believe it: because the country had introduced volume-based procurement, some medical supplies cost a lot less than a few years earlier.",
+   "phrases": [
+    {
+     "en": "Auntie Zhang looked at the bill and could hardly believe it:",
+     "words": [
+      {
+       "h": "张阿姨",
+       "py": "Zhāng āyí",
+       "gl": "Aunt Zhang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "look at; watching",
+       "pos": "v."
+      },
+      {
+       "h": "账单",
+       "py": "zhàngdān",
+       "gl": "bill",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
+      },
+      {
+       "h": "敢",
+       "py": "gǎn",
+       "gl": "dare",
+       "pos": "v."
+      },
+      {
+       "h": "相信",
+       "py": "xiāngxìn",
+       "gl": "believe; trust",
+       "pos": "v."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "because the country had introduced volume-based procurement, some medical supplies cost a lot less than a few years earlier.",
+     "words": [
+      {
+       "h": "因为",
+       "py": "yīnwèi",
+       "gl": "because of; because",
+       "pos": "conj."
+      },
+      {
+       "h": "国家",
+       "py": "guójiā",
+       "gl": "state; country",
+       "pos": "n."
+      },
+      {
+       "h": "推行",
+       "py": "tuīxíng",
+       "gl": "implement; promote (a policy)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "带量采购",
+       "py": "dàiliàng cǎigòu",
+       "gl": "volume-based procurement",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一些",
+       "py": "yīxiē",
+       "gl": "some; certain",
+       "pos": "pron."
+      },
+      {
+       "h": "医用",
+       "py": "yīyòng",
+       "gl": "medical",
+       "pos": "adj."
+      },
+      {
+       "h": "耗材",
+       "py": "hàocái",
+       "gl": "consumables; supplies",
+       "pos": "n."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "几",
+       "py": "jǐ",
+       "gl": "several; a few",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "ago; before",
+       "pos": "postposition"
+      },
+      {
+       "h": "便宜",
+       "py": "piányi",
+       "gl": "cheap; inexpensive",
+       "pos": "adj."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "不少",
+       "py": "bùshǎo",
+       "gl": "quite a lot; a good deal",
+       "pos": "adv."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "\"Thirty years ago, our family could never have afforded an operation like this,\" she said.",
+   "phrases": [
+    {
+     "en": "\"Thirty years ago, our family could never have afforded an operation like this,\" she said.",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
+       "h": "三十",
+       "py": "sānshí",
+       "gl": "thirty",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "ago; before",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "种",
+       "py": "zhǒng",
+       "gl": "kind; type (measure word); plant; grow",
+       "pos": "measure word"
+      },
+      {
+       "h": "手术",
+       "py": "shǒushù",
+       "gl": "surgery; operation",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我们",
+       "py": "wǒmen",
+       "gl": "we; us",
+       "pos": "pron."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "可",
+       "py": "kě",
+       "gl": "really, indeed",
+       "pos": "adv."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "(complement: can afford to)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A week after leaving the hospital, she had her first follow-up through the hospital's online service, without leaving home.",
+   "phrases": [
+    {
+     "en": "A week after leaving the hospital, she had her first follow-up through the hospital's online service, without leaving home.",
+     "words": [
+      {
+       "h": "出院",
+       "py": "chūyuàn",
+       "gl": "be discharged from the hospital",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "周",
+       "py": "zhōu",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "后",
+       "py": "hòu",
+       "gl": "after",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
        "h": "医院",
        "py": "yīyuàn",
        "gl": "hospital",
        "pos": "n."
       },
       {
-       "h": "复查",
-       "py": "fùchá",
-       "gl": "follow-up checkup; re-examine",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "互联网医院",
+       "py": "hùliánwǎng yīyuàn",
+       "gl": "internet hospital (online medical consultation platform)",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on; in; in terms of (after a noun: 世界上 in the world, 工作上 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
+       "h": "复诊",
+       "py": "fùzhěn",
+       "gl": "follow-up visit (to a doctor)",
        "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and to make sure she took her medicine on time while she was at it.",
-     "words": [
+      },
       {
-       "h": "顺便",
-       "py": "shùnbiàn",
-       "gl": "by the way; on the way",
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
        "pos": "adv."
       },
       {
-       "h": "监督",
-       "py": "jiāndū",
-       "gl": "supervise; supervision",
+       "h": "出",
+       "py": "chū",
+       "gl": "(after verb) out; come out; go out",
+       "pos": "v."
+      },
+      {
+       "h": "家门",
+       "py": "jiāmén",
+       "gl": "home; front door",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The doctor looked at the photos of her incision she had sent, said it was healing well, and adjusted her medication a little.",
+   "phrases": [
+    {
+     "en": "The doctor looked at the photos of her incision she had sent, said it was healing well, and adjusted her medication a little.",
+     "words": [
+      {
+       "h": "医生",
+       "py": "yīshēng",
+       "gl": "doctor",
+       "pos": "n."
+      },
+      {
+       "h": "看",
+       "py": "kàn",
+       "gl": "look; watch; read",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "过去",
+       "py": "guòqu",
+       "gl": "over; there (complement)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "伤口",
+       "py": "shāngkǒu",
+       "gl": "wound, incision",
+       "pos": "n."
+      },
+      {
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "长",
+       "py": "zhǎng",
+       "gl": "to heal (of a wound)",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "很",
+       "py": "hěn",
+       "gl": "very",
+       "pos": "adv."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "调",
+       "py": "tiáo",
+       "gl": "to adjust",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一点",
+       "py": "yìdiǎn",
+       "gl": "a little; a bit",
+       "pos": "adv."
+      },
+      {
+       "h": "药",
+       "py": "yào",
+       "gl": "medicine",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Two weeks later she went back to have her stitches out, and the doctor said she was recovering even better than expected.",
+   "phrases": [
+    {
+     "en": "Two weeks later she went back to have her stitches out, and the doctor said she was recovering even better than expected.",
+     "words": [
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "周",
+       "py": "zhōu",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "后",
+       "py": "hòu",
+       "gl": "after; later; behind",
+       "pos": "postposition"
+      },
+      {
+       "h": "回",
+       "py": "huí",
+       "gl": "return; go back",
+       "pos": "v."
+      },
+      {
+       "h": "医院",
+       "py": "yīyuàn",
+       "gl": "hospital",
+       "pos": "n."
+      },
+      {
+       "h": "拆线",
+       "py": "chāixiàn",
+       "gl": "to remove stitches",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "医生",
+       "py": "yīshēng",
+       "gl": "doctor",
+       "pos": "n."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "恢复",
+       "py": "huīfù",
+       "gl": "recover; be restored",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "预想",
+       "py": "yùxiǎng",
+       "gl": "expect; anticipate",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Her daughter took time off to stay home and make sure she took her medicine on time, and wouldn't let her carry anything heavy.",
+   "phrases": [
+    {
+     "en": "Her daughter took time off to stay home and make sure she took her medicine on time,",
+     "words": [
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "请",
+       "py": "qǐng",
+       "gl": "ask for (leave)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "假",
+       "py": "jiǎ",
+       "gl": "leave; time off (jià)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "家",
+       "py": "jiā",
+       "gl": "home; family; measure word for shops, businesses",
+       "pos": "n."
+      },
+      {
+       "h": "看着",
+       "py": "kànzhe",
+       "gl": "to look after",
        "pos": "v."
       },
       {
@@ -2844,199 +2585,29 @@
        "pos": "v."
       },
       {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The checkup showed that all her results were basically normal, and the doctor said that after a bit more monitoring she could go back to a completely normal life.",
-   "phrases": [
-    {
-     "en": "The checkup showed that all her results were basically normal,",
-     "words": [
-      {
-       "h": "复查",
-       "py": "fùchá",
-       "gl": "follow-up checkup; re-examine",
-       "pos": "v."
-      },
-      {
-       "h": "结果",
-       "py": "jiéguǒ",
-       "gl": "as a result; in the end; result",
-       "pos": "n."
-      },
-      {
-       "h": "显示",
-       "py": "xiǎnshì",
-       "gl": "show; indicate",
-       "pos": "v."
-      },
-      {
-       "h": "各项",
-       "py": "gèxiàng",
-       "gl": "each; every (item)",
-       "pos": "pron."
-      },
-      {
-       "h": "指标",
-       "py": "zhǐbiāo",
-       "gl": "indicator; index; target",
-       "pos": "n."
-      },
-      {
-       "h": "基本",
-       "py": "jīběn",
-       "gl": "basic; basically",
-       "pos": "adj."
-      },
-      {
-       "h": "正常",
-       "py": "zhèngcháng",
-       "gl": "normal",
-       "pos": "adj."
-      },
-      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "and the doctor said that after a bit more monitoring she could go back to a completely normal life.",
+     "en": "and wouldn't let her carry anything heavy.",
      "words": [
       {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; once more",
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
        "pos": "adv."
       },
       {
-       "h": "观察",
-       "py": "guānchá",
-       "gl": "observe; watch",
-       "pos": "v."
-      },
-      {
-       "h": "一段",
-       "py": "yīduàn",
-       "gl": "a period (of time); a section; a stretch; a clip (of video)",
-       "pos": "pron."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
        "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "v."
-      },
-      {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
-       "pos": "adv."
-      },
-      {
-       "h": "恢复",
-       "py": "huīfù",
-       "gl": "recover; be restored",
-       "pos": "v."
-      },
-      {
-       "h": "正常",
-       "py": "zhèngcháng",
-       "gl": "normal",
-       "pos": "adj."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
-       "pos": "n."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Auntie Zhang said this illness had made her realize how important regular checkups are, and she plans to get a full physical every year from now on.",
-   "phrases": [
-    {
-     "en": "Auntie Zhang said this illness had made her realize how important regular checkups are,",
-     "words": [
-      {
-       "h": "张",
-       "py": "zhāng",
-       "gl": "Zhang (surname)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "阿姨",
-       "py": "āyí",
-       "gl": "auntie (older woman)",
-       "pos": "n."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "生病",
-       "py": "shēngbìng",
-       "gl": "get sick; fall ill",
-       "pos": "v."
       },
       {
        "h": "让",
        "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
@@ -3046,33 +2617,70 @@
        "pos": "pron."
       },
       {
-       "h": "意识到",
-       "py": "yìshídào",
-       "gl": "realize; become aware of",
+       "h": "提",
+       "py": "tí",
+       "gl": "bring up; mention; raise (an idea)",
        "pos": "v."
       },
       {
-       "h": "定期",
-       "py": "dìngqī",
-       "gl": "regularly; periodically",
-       "pos": "adv."
+       "h": "重",
+       "py": "zhòng",
+       "gl": "heavy",
+       "pos": "adj."
       },
       {
-       "h": "体检",
-       "py": "tǐjiǎn",
-       "gl": "medical checkup",
+       "h": "东西",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She also joined a patients' group chat, where everyone shared what to eat, how to walk, and when they could pick up their grandchildren again.",
+   "phrases": [
+    {
+     "en": "She also joined a patients' group chat,",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "加入",
+       "py": "jiārù",
+       "gl": "join",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "重要性",
-       "py": "zhòngyàoxìng",
-       "gl": "importance",
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "病友群",
+       "py": "bìngyǒuqún",
+       "gl": "patient group chat",
        "pos": "n."
       },
       {
@@ -3081,25 +2689,211 @@
      ]
     },
     {
-     "en": "and she plans to get a full physical every year from now on.",
+     "en": "where everyone shared what to eat, how to walk, and when they could pick up their grandchildren again.",
      "words": [
       {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "later; in the future; after",
+       "h": "大家",
+       "py": "dàjiā",
+       "gl": "everyone; everybody",
+       "pos": "pron."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "群",
+       "py": "qún",
+       "gl": "group chat; group",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
        "pos": "postposition"
       },
       {
-       "h": "打算",
-       "py": "dǎsuàn",
-       "gl": "plan; intend",
+       "h": "分享",
+       "py": "fēnxiǎng",
+       "gl": "share",
        "pos": "v."
       },
       {
-       "h": "每年",
-       "py": "měinián",
-       "gl": "every year",
+       "h": "："
+      },
+      {
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "怎么",
+       "py": "zěnme",
+       "gl": "how",
+       "pos": "pron."
+      },
+      {
+       "h": "散步",
+       "py": "sànbù",
+       "gl": "take a walk; go for a walk",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
        "pos": "n."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "抱",
+       "py": "bào",
+       "gl": "pick up (in one's arms)",
+       "pos": "v."
+      },
+      {
+       "h": "孙子",
+       "py": "sūnzi",
+       "gl": "grandson",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A month later she went downstairs for a walk on her own for the first time; she didn't walk fast, but she smiled the whole way.",
+   "phrases": [
+    {
+     "en": "A month later she went downstairs for a walk on her own for the first time;",
+     "words": [
+      {
+       "h": "一个月",
+       "py": "yígèyuè",
+       "gl": "one month",
+       "pos": "n."
+      },
+      {
+       "h": "后",
+       "py": "hòu",
+       "gl": "after; later; behind",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "一个人",
+       "py": "yígèrén",
+       "gl": "alone; by oneself; one person",
+       "pos": "pron."
+      },
+      {
+       "h": "下楼",
+       "py": "xiàlóu",
+       "gl": "go downstairs",
+       "pos": "v."
+      },
+      {
+       "h": "散步",
+       "py": "sànbù",
+       "gl": "take a walk; go for a walk",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "she didn't walk fast, but she smiled the whole way.",
+     "words": [
+      {
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "快",
+       "py": "kuài",
+       "gl": "fast; quick",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet",
+       "pos": "adv."
+      },
+      {
+       "h": "一路",
+       "py": "yīlù",
+       "gl": "all the way; the whole way",
+       "pos": "adv."
       },
       {
        "h": "都",
@@ -3108,33 +2902,15 @@
        "pos": "adv."
       },
       {
-       "h": "去",
-       "py": "qù",
-       "gl": "go (to)",
-       "pos": "v."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "一次",
-       "py": "yīcì",
-       "gl": "once; in one go; at the first attempt",
-       "pos": "measure word"
-      },
-      {
-       "h": "全面",
-       "py": "quánmiàn",
-       "gl": "comprehensive; all-round",
-       "pos": "adj."
-      },
-      {
-       "h": "检查",
-       "py": "jiǎnchá",
-       "gl": "check; inspect",
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
        "pos": "v."
       },
       {
@@ -3145,23 +2921,11 @@
    ]
   },
   {
-   "en": "About three months after leaving the hospital, she could do housework and grocery shopping just like before, and was even starting to think about going back to work.",
+   "en": "Three months later she could do her own grocery shopping again, and even started thinking about going back to work.",
    "phrases": [
     {
-     "en": "About three months after leaving the hospital, she could do housework and grocery shopping just like before,",
+     "en": "Three months later she could do her own grocery shopping again, and even started thinking about going back to work.",
      "words": [
-      {
-       "h": "出院",
-       "py": "chūyuàn",
-       "gl": "be discharged from the hospital",
-       "pos": "v."
-      },
-      {
-       "h": "大约",
-       "py": "dàyuē",
-       "gl": "about; approximately",
-       "pos": "adv."
-      },
       {
        "h": "三",
        "py": "sān",
@@ -3169,15 +2933,21 @@
        "pos": "num."
       },
       {
-       "h": "个月",
-       "py": "gèyuè",
-       "gl": "month (after a number: 两个月 two months)",
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
        "pos": "measure word"
+      },
+      {
+       "h": "月",
+       "py": "yuè",
+       "gl": "month; moon",
+       "pos": "n."
       },
       {
        "h": "后",
        "py": "hòu",
-       "gl": "after",
+       "gl": "after; later; behind",
        "pos": "postposition"
       },
       {
@@ -3190,64 +2960,44 @@
        "pos": "pron."
       },
       {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
        "pos": "adv."
       },
       {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
        "pos": "v."
       },
       {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "prep."
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
       },
       {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
-       "pos": "postposition"
-      },
-      {
-       "h": "一样",
-       "py": "yīyàng",
-       "gl": "like; the same as (跟…一样 just like)",
-       "pos": "adj."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
        "pos": "v."
       },
       {
-       "h": "家务",
-       "py": "jiāwù",
-       "gl": "housework; chores",
+       "h": "菜",
+       "py": "cài",
+       "gl": "dish (food)",
        "pos": "n."
       },
       {
-       "h": "、"
-      },
-      {
-       "h": "买菜",
-       "py": "mǎicài",
-       "gl": "buy groceries",
-       "pos": "v."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and was even starting to think about going back to work.",
-     "words": [
+      },
       {
        "h": "甚至",
        "py": "shènzhì",
@@ -3257,20 +3007,14 @@
       {
        "h": "开始",
        "py": "kāishǐ",
-       "gl": "begin; start",
+       "gl": "begin; start; beginning",
        "pos": "v."
       },
       {
-       "h": "考虑",
-       "py": "kǎolǜ",
-       "gl": "consider; think about",
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like; think; miss",
        "pos": "v."
-      },
-      {
-       "h": "重新",
-       "py": "chóngxīn",
-       "gl": "again; once more",
-       "pos": "adv."
       },
       {
        "h": "回去",
@@ -3292,10 +3036,10 @@
    ]
   },
   {
-   "en": "She made a point of calling the operating room nurses and the surgeon to thank them, saying it was their professionalism and patience that got her through the hardest part.",
+   "en": "She called the surgeon and the nurses to say thank you. The surgeon laughed and said it was just their job.",
    "phrases": [
     {
-     "en": "She made a point of calling the operating room nurses and the surgeon to thank them,",
+     "en": "She called the surgeon and the nurses to say thank you.",
      "words": [
       {
        "h": "她",
@@ -3304,33 +3048,15 @@
        "pos": "pron."
       },
       {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
-       "pos": "adv."
-      },
-      {
        "h": "给",
        "py": "gěi",
        "gl": "to; for (someone); give",
        "pos": "prep."
       },
       {
-       "h": "手术室",
-       "py": "shǒushùshì",
-       "gl": "operating room",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "护士",
-       "py": "hùshì",
-       "gl": "nurse",
+       "h": "主刀医生",
+       "py": "zhǔdāo yīshēng",
+       "gl": "lead surgeon",
        "pos": "n."
       },
       {
@@ -3340,16 +3066,16 @@
        "pos": "conj."
       },
       {
-       "h": "主刀",
-       "py": "zhǔdāo",
-       "gl": "be the lead surgeon; perform an operation",
-       "pos": "v."
+       "h": "护士",
+       "py": "hùshì",
+       "gl": "nurse",
+       "pos": "n."
       },
       {
-       "h": "医生",
-       "py": "yīshēng",
-       "gl": "doctor",
-       "pos": "n."
+       "h": "们",
+       "py": "men",
+       "gl": "plural suffix for people",
+       "pos": "particle"
       },
       {
        "h": "打",
@@ -3361,7 +3087,7 @@
        "h": "了",
        "py": "le",
        "gl": "particle: completed action / change of state",
-       "pos": "function word"
+       "pos": "particle"
       },
       {
        "h": "电话",
@@ -3373,127 +3099,24 @@
        "h": "，"
       },
       {
-       "h": "表达",
-       "py": "biǎodá",
-       "gl": "express; expression",
-       "pos": "v."
-      },
-      {
-       "h": "感谢",
-       "py": "gǎnxiè",
-       "gl": "thank; be grateful",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "saying it was their professionalism and patience that got her through the hardest part.",
-     "words": [
-      {
        "h": "说",
        "py": "shuō",
        "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "正是",
-       "py": "zhèngshì",
-       "gl": "precisely; it is exactly",
-       "pos": "adv."
-      },
-      {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "专业",
-       "py": "zhuānyè",
-       "gl": "professional",
-       "pos": "adj."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "耐心",
-       "py": "nàixīn",
-       "gl": "patient; patience",
-       "pos": "adv."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "渡过",
-       "py": "dùguò",
-       "gl": "get through; pull through (hard times)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "艰难",
-       "py": "jiānnán",
-       "gl": "hard; difficult",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "阶段",
-       "py": "jiēduàn",
-       "gl": "stage; phase",
-       "pos": "n."
+       "h": "谢谢",
+       "py": "xièxie",
+       "gl": "thank you; thanks",
+       "pos": "phrase"
       },
       {
        "h": "。"
       }
      ]
-    }
-   ]
-  },
-  {
-   "en": "The doctor said with a smile that it was just part of the job, and that everyone was happy as long as patients recovered well.",
-   "phrases": [
+    },
     {
-     "en": "The doctor said with a smile that it was just part of the job,",
+     "en": "The surgeon laughed and said it was just their job.",
      "words": [
       {
        "h": "医生",
@@ -3505,7 +3128,7 @@
        "h": "笑着",
        "py": "xiàozhe",
        "gl": "smiling; with a smile",
-       "pos": "adv."
+       "pos": "v."
       },
       {
        "h": "说",
@@ -3529,10 +3152,10 @@
        "pos": "v."
       },
       {
-       "h": "医护人员",
-       "py": "yīhùrényuán",
-       "gl": "medical staff",
-       "pos": "phrase"
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
       },
       {
        "h": "应该",
@@ -3549,49 +3172,63 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "，"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "Now, every night before bed, she puts a glass of warm water on her bedside table. She doesn't always drink it; she just lets it stay there.",
+   "phrases": [
     {
-     "en": "and that everyone was happy as long as patients recovered well.",
+     "en": "Now, every night before bed, she puts a glass of warm water on her bedside table.",
      "words": [
       {
-       "h": "只要",
-       "py": "zhǐyào",
-       "gl": "as long as; if only",
-       "pos": "conj."
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
       },
       {
-       "h": "病人",
-       "py": "bìngrén",
-       "gl": "patient (sick person)",
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "每天",
+       "py": "měitiān",
+       "gl": "every day",
        "pos": "n."
       },
       {
-       "h": "恢复",
-       "py": "huīfù",
-       "gl": "recover; be restored",
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "睡觉",
+       "py": "shuìjiào",
+       "gl": "sleep; go to bed",
        "pos": "v."
       },
       {
-       "h": "良好",
-       "py": "liánghǎo",
-       "gl": "good; fine",
-       "pos": "adj."
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
       },
       {
        "h": "，"
-      },
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
       },
       {
        "h": "都",
@@ -3606,639 +3243,98 @@
        "pos": "v."
       },
       {
-       "h": "感到",
-       "py": "gǎndào",
-       "gl": "feel",
-       "pos": "v."
-      },
-      {
-       "h": "高兴",
-       "py": "gāoxìng",
-       "gl": "happy; glad",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The experience also gave Auntie Zhang a new appreciation of modern medicine: she marveled at how advances in medical technology and equipment have made many once-complicated operations much safer.",
-   "phrases": [
-    {
-     "en": "The experience also gave Auntie Zhang a new appreciation of modern medicine:",
-     "words": [
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "张",
-       "py": "zhāng",
-       "gl": "Zhang (surname)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "阿姨",
-       "py": "āyí",
-       "gl": "auntie (older woman)",
-       "pos": "n."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
        "pos": "prep."
       },
       {
-       "h": "现代",
-       "py": "xiàndài",
-       "gl": "modern",
-       "pos": "adj."
-      },
-      {
-       "h": "医学",
-       "py": "yīxué",
-       "gl": "medicine (field of study)",
+       "h": "床头柜",
+       "py": "chuángtóuguì",
+       "gl": "bedside table",
        "pos": "n."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "认识",
-       "py": "rènshí",
-       "gl": "know (a person, a character); get to know; recognize",
-       "pos": "v."
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "she marveled at how advances in medical technology and equipment have made many once-complicated operations much safer.",
-     "words": [
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "感叹",
-       "py": "gǎntàn",
-       "gl": "sigh with emotion; exclaim",
-       "pos": "v."
-      },
-      {
-       "h": "医疗",
-       "py": "yīliáo",
-       "gl": "medical care; health care",
-       "pos": "n."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "设备",
-       "py": "shèbèi",
-       "gl": "equipment; device",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "进步",
-       "py": "jìnbù",
-       "gl": "progress; improve",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of",
-       "pos": "num."
-      },
-      {
-       "h": "以前",
-       "py": "yǐqián",
-       "gl": "before; in the past; ago",
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
        "pos": "postposition"
       },
       {
-       "h": "复杂",
-       "py": "fùzá",
-       "gl": "complicated; complex",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "手术",
-       "py": "shǒushù",
-       "gl": "surgery; operation",
-       "pos": "n."
-      },
-      {
-       "h": "变得",
-       "py": "biàndé",
-       "gl": "become",
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place; let off (fireworks)",
        "pos": "v."
       },
       {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "安全",
-       "py": "ānquán",
-       "gl": "safety",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "As the population ages, more and more elderly patients like her need operations, so hospitals keep improving their services and adding beds.",
-   "phrases": [
-    {
-     "en": "As the population ages, more and more elderly patients like her need operations,",
-     "words": [
-      {
-       "h": "随着",
-       "py": "suízhe",
-       "gl": "along with; as (something develops)",
-       "pos": "prep."
-      },
-      {
-       "h": "人口",
-       "py": "rénkǒu",
-       "gl": "population",
-       "pos": "n."
-      },
-      {
-       "h": "老龄化",
-       "py": "lǎolínghuà",
-       "gl": "aging (of the population)",
-       "pos": "n."
-      },
-      {
-       "h": "加剧",
-       "py": "jiājù",
-       "gl": "intensify; worsen",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "prep."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "such; like this",
-       "pos": "pron."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require",
-       "pos": "v."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "手术",
-       "py": "shǒushù",
-       "gl": "surgery; operation",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "老年",
-       "py": "lǎonián",
-       "gl": "elderly; old age",
-       "pos": "n."
-      },
-      {
-       "h": "患者",
-       "py": "huànzhě",
-       "gl": "patient",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "越来越多",
-       "py": "yuèláiyuèduō",
-       "gl": "more and more",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so hospitals keep improving their services and adding beds.",
-     "words": [
-      {
-       "h": "医院",
-       "py": "yīyuàn",
-       "gl": "hospital",
-       "pos": "n."
-      },
-      {
-       "h": "因此",
-       "py": "yīncǐ",
-       "gl": "because of this; therefore",
-       "pos": "conj."
-      },
-      {
-       "h": "不断",
-       "py": "bùduàn",
-       "gl": "continuously; constantly",
-       "pos": "adv."
-      },
-      {
-       "h": "提升",
-       "py": "tíshēng",
-       "gl": "raise; improve; boost",
-       "pos": "v."
-      },
-      {
-       "h": "服务",
-       "py": "fúwù",
-       "gl": "serve; service",
-       "pos": "n."
-      },
-      {
-       "h": "水平",
-       "py": "shuǐpíng",
-       "gl": "level; standard",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "床位",
-       "py": "chuángwèi",
-       "gl": "hospital bed",
-       "pos": "n."
-      },
-      {
-       "h": "数量",
-       "py": "shùliàng",
-       "gl": "quantity; number",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Many hospitals have also opened post-surgery rehab clinics that give patients who've had major operations long-term rehab guidance and emotional support.",
-   "phrases": [
-    {
-     "en": "Many hospitals have also opened post-surgery rehab clinics,",
-     "words": [
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "医院",
-       "py": "yīyuàn",
-       "gl": "hospital",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "开设",
-       "py": "kāishè",
-       "gl": "open; set up; offer (a course)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "术后",
-       "py": "shùhòu",
-       "gl": "postoperative; after surgery",
-       "pos": "n."
-      },
-      {
-       "h": "康复",
-       "py": "kāngfù",
-       "gl": "recover; rehabilitation",
-       "pos": "v."
-      },
-      {
-       "h": "门诊",
-       "py": "ménzhěn",
-       "gl": "outpatient clinic",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that give patients who've had major operations long-term rehab guidance and emotional support.",
-     "words": [
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
-      {
-       "h": "做过",
-       "py": "zuòguò",
-       "gl": "have done",
-       "pos": "v."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "手术",
-       "py": "shǒushù",
-       "gl": "surgery; operation",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "患者",
-       "py": "huànzhě",
-       "gl": "patient",
-       "pos": "n."
-      },
-      {
-       "h": "提供",
-       "py": "tígōng",
-       "gl": "provide",
-       "pos": "v."
-      },
-      {
-       "h": "长期",
-       "py": "chángqī",
-       "gl": "long-term",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "康复",
-       "py": "kāngfù",
-       "gl": "recover; rehabilitation",
-       "pos": "v."
-      },
-      {
-       "h": "指导",
-       "py": "zhǐdǎo",
-       "gl": "guide; instruct; guidance",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "心理",
-       "py": "xīnlǐ",
-       "gl": "psychological; mental",
-       "pos": "adj."
-      },
-      {
-       "h": "支持",
-       "py": "zhīchí",
-       "gl": "support",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Auntie Zhang later joined a patient support group chat, where members share their recovery experiences and encourage each other; the atmosphere is really warm.",
-   "phrases": [
-    {
-     "en": "Auntie Zhang later joined a patient support group chat,",
-     "words": [
-      {
-       "h": "张",
-       "py": "zhāng",
-       "gl": "Zhang (surname)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "阿姨",
-       "py": "āyí",
-       "gl": "auntie (older woman)",
-       "pos": "n."
-      },
-      {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "adv."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "加入",
-       "py": "jiārù",
-       "gl": "add",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "一个",
-       "py": "yígè",
-       "gl": "one (with measure word: one item)",
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
        "pos": "num."
       },
       {
-       "h": "病友",
-       "py": "bìngyǒu",
-       "gl": "fellow patient",
+       "h": "杯",
+       "py": "bēi",
+       "gl": "cup; glass (also measure word)",
        "pos": "n."
       },
       {
-       "h": "互助",
-       "py": "hùzhù",
-       "gl": "help each other; mutual aid",
-       "pos": "v."
+       "h": "温",
+       "py": "wēn",
+       "gl": "warm (food nature in TCM)",
+       "pos": "adj."
       },
       {
-       "h": "群",
-       "py": "qún",
-       "gl": "group chat; group",
+       "h": "水",
+       "py": "shuǐ",
+       "gl": "water",
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "。"
       }
      ]
     },
     {
-     "en": "where members share their recovery experiences and encourage each other; the atmosphere is really warm.",
+     "en": "She doesn't always drink it; she just lets it stay there.",
      "words": [
       {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "一定",
+       "py": "yídìng",
+       "gl": "definitely; surely; must",
+       "pos": "adv."
+      },
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "let; make (someone do); ask (someone to do)",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
        "pos": "pron."
       },
       {
@@ -4248,571 +3344,16 @@
        "pos": "prep."
       },
       {
-       "h": "群里",
-       "py": "qúnlǐ",
-       "gl": "in the group (chat)",
-       "pos": "n."
-      },
-      {
-       "h": "分享",
-       "py": "fēnxiǎng",
-       "gl": "share",
-       "pos": "v."
-      },
-      {
-       "h": "恢复",
-       "py": "huīfù",
-       "gl": "recover; be restored",
-       "pos": "v."
-      },
-      {
-       "h": "经验",
-       "py": "jīngyàn",
-       "gl": "experience (practical); work experience",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "互相",
-       "py": "hùxiāng",
-       "gl": "each other; mutually",
-       "pos": "adv."
-      },
-      {
-       "h": "鼓励",
-       "py": "gǔlì",
-       "gl": "encourage",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "气氛",
-       "py": "qìfēn",
-       "gl": "atmosphere; mood",
-       "pos": "n."
-      },
-      {
-       "h": "十分",
-       "py": "shífēn",
-       "gl": "very; extremely",
-       "pos": "adv."
-      },
-      {
-       "h": "温暖",
-       "py": "wēnnuǎn",
-       "gl": "warm; warmth",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Some of the medical supplies used in her operation cost much less than a few years ago, thanks to the government's bulk purchasing program, which eased her family's financial burden.",
-   "phrases": [
-    {
-     "en": "Some of the medical supplies used in her operation cost much less than a few years ago, thanks to the government's bulk purchasing program,",
-     "words": [
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
+       "h": "那儿",
+       "py": "nàér",
+       "gl": "there",
        "pos": "pron."
       },
       {
-       "h": "手术",
-       "py": "shǒushù",
-       "gl": "surgery; operation",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "使用",
-       "py": "shǐyòng",
-       "gl": "use; usage",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "部分",
-       "py": "bùfèn",
-       "gl": "part; section",
-       "pos": "n."
-      },
-      {
-       "h": "医用",
-       "py": "yīyòng",
-       "gl": "medical",
-       "pos": "adj."
-      },
-      {
-       "h": "耗材",
-       "py": "hàocái",
-       "gl": "consumables; supplies",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "由于",
-       "py": "yóuyú",
-       "gl": "because of; due to; since",
-       "pos": "conj."
-      },
-      {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "country",
-       "pos": "n."
-      },
-      {
-       "h": "推行",
-       "py": "tuīxíng",
-       "gl": "implement; promote (a policy)",
+       "h": "待着",
+       "py": "dāizhe",
+       "gl": "to stay",
        "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "带量采购",
-       "py": "dàiliàngcǎigòu",
-       "gl": "volume-based procurement (centralized purchasing to lower prices)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "价格",
-       "py": "jiàgé",
-       "gl": "price",
-       "pos": "n."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "几年前",
-       "py": "jǐniánqián",
-       "gl": "a few years ago",
-       "pos": "n."
-      },
-      {
-       "h": "低",
-       "py": "dī",
-       "gl": "low",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which eased the financial burden on Auntie Zhang's family.",
-     "words": [
-      {
-       "h": "减轻",
-       "py": "jiǎnqīng",
-       "gl": "lighten; reduce; ease",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "张",
-       "py": "zhāng",
-       "gl": "Zhang (surname)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "阿姨",
-       "py": "āyí",
-       "gl": "auntie (older woman)",
-       "pos": "n."
-      },
-      {
-       "h": "家庭",
-       "py": "jiātíng",
-       "gl": "family; household",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "经济",
-       "py": "jīngjì",
-       "gl": "economy",
-       "pos": "n."
-      },
-      {
-       "h": "负担",
-       "py": "fùdān",
-       "gl": "burden",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The share that medical insurance reimburses is also gradually rising, and many regions now cover some high-cost medical supplies.",
-   "phrases": [
-    {
-     "en": "The share that medical insurance reimburses is also gradually rising,",
-     "words": [
-      {
-       "h": "医保",
-       "py": "yībǎo",
-       "gl": "medical insurance",
-       "pos": "n."
-      },
-      {
-       "h": "报销",
-       "py": "bàoxiāo",
-       "gl": "reimburse; reimbursement",
-       "pos": "v."
-      },
-      {
-       "h": "比例",
-       "py": "bǐlì",
-       "gl": "proportion; ratio",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "particle: action in progress (他在吃 'he is eating')",
-       "pos": "function word"
-      },
-      {
-       "h": "逐步",
-       "py": "zhúbù",
-       "gl": "gradually; step by step",
-       "pos": "adv."
-      },
-      {
-       "h": "提高",
-       "py": "tígāo",
-       "gl": "raise; improve",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and many regions now include some high-cost medical supplies in what insurance pays for.",
-     "words": [
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of",
-       "pos": "num."
-      },
-      {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
-       "pos": "n."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "function word"
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "pron."
-      },
-      {
-       "h": "高值",
-       "py": "gāozhí",
-       "gl": "high-value",
-       "pos": "adj."
-      },
-      {
-       "h": "耗材",
-       "py": "hàocái",
-       "gl": "consumables; supplies",
-       "pos": "n."
-      },
-      {
-       "h": "纳入",
-       "py": "nàrù",
-       "gl": "include; bring into",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "医保",
-       "py": "yībǎo",
-       "gl": "medical insurance",
-       "pos": "n."
-      },
-      {
-       "h": "支付",
-       "py": "zhīfù",
-       "gl": "payment; pay",
-       "pos": "v."
-      },
-      {
-       "h": "范围",
-       "py": "fànwéi",
-       "gl": "range; scope; extent",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Auntie Zhang said with feeling that a few decades ago an ordinary family like hers would have had a hard time paying for an operation like this, but things are completely different now.",
-   "phrases": [
-    {
-     "en": "Auntie Zhang said with feeling that a few decades ago an ordinary family like hers would have had a hard time paying for an operation like this,",
-     "words": [
-      {
-       "h": "张",
-       "py": "zhāng",
-       "gl": "Zhang (surname)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "阿姨",
-       "py": "āyí",
-       "gl": "auntie (older woman)",
-       "pos": "n."
-      },
-      {
-       "h": "感慨",
-       "py": "gǎnkǎi",
-       "gl": "deep feelings; reflections",
-       "pos": "n."
-      },
-      {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (认真地 'carefully')",
-       "pos": "particle"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "几十",
-       "py": "jǐshí",
-       "gl": "several dozen; tens of",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "前",
-       "py": "qián",
-       "gl": "before",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "prep."
-      },
-      {
-       "h": "她",
-       "py": "tā",
-       "gl": "she; her",
-       "pos": "pron."
-      },
-      {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "such; like this",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "普通",
-       "py": "pǔtōng",
-       "gl": "ordinary; common",
-       "pos": "adj."
-      },
-      {
-       "h": "家庭",
-       "py": "jiātíng",
-       "gl": "family; household",
-       "pos": "n."
-      },
-      {
-       "h": "很难",
-       "py": "hěnnán",
-       "gl": "very difficult; hard to",
-       "pos": "adj."
-      },
-      {
-       "h": "承担",
-       "py": "chéngdān",
-       "gl": "take on; bear (a responsibility)",
-       "pos": "v."
-      },
-      {
-       "h": "这类",
-       "py": "zhèlèi",
-       "gl": "this kind of; such (这类 + noun)",
-       "pos": "pron."
-      },
-      {
-       "h": "手术",
-       "py": "shǒushù",
-       "gl": "surgery; operation",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "费用",
-       "py": "fèiyòng",
-       "gl": "cost; expenses",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but things are completely different now.",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "情况",
-       "py": "qíngkuàng",
-       "gl": "situation; circumstances",
-       "pos": "n."
-      },
-      {
-       "h": "完全",
-       "py": "wánquán",
-       "gl": "completely; fully",
-       "pos": "adv."
-      },
-      {
-       "h": "不同",
-       "py": "bùtóng",
-       "gl": "different",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
       },
       {
        "h": "。"

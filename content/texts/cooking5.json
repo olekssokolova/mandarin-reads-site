@@ -1,23 +1,23 @@
 {
  "id": "cooking5",
  "level": 5,
- "title_zh": "火候的艺术",
- "title_en": "The Art of Heat Control",
+ "title_zh": "差三秒",
+ "title_en": "Three Seconds Short",
  "free": true,
  "audio_url": null,
- "note_en": "Verb + 得 + description tells you how far an action goes: 锅要烧得极热 \"the wok must be heated until it's extremely hot,\" and later 锅烧得够热 \"the wok was hot enough.\" English might say \"heat the wok red-hot,\" putting the result straight after the verb, but Chinese needs 得 to link the action to its degree. The same pattern shows up in 正看得入神 \"I was watching, completely absorbed.\"",
+ "note_en": "Verb/adjective + 得 + description shows degree or result: 锅要烧得极热 \"the wok has to be heated until it's extremely hot\"; 切得比头发还细 \"cut finer than a hair.\" What follows 得 is what the action led to or how intense it was. English often uses an adverb (\"very hot\") or \"so … that,\" but Chinese needs 得 here.",
  "sentences": [
   {
-   "en": "The master set the wok on the stove, and the moment the flames leapt up, he said, \"Remember, the hardest thing about Chinese cooking has never been the recipe; it's huohou (heat control).\"",
+   "en": "Master Liang set the iron wok on the stove, and the flame shot up with a whoosh. \"Remember,\" he said, \"the hardest thing in Chinese cooking has never been the recipe. It's the heat.\"",
    "phrases": [
     {
-     "en": "The master set the wok on the stove, and the moment the flames leapt up,",
+     "en": "Master Liang set the iron wok on the stove, and the flame shot up with a whoosh.",
      "words": [
       {
-       "h": "师傅",
-       "py": "shīfù",
-       "gl": "master (polite address for a skilled worker); master craftsman",
-       "pos": "n."
+       "h": "梁师傅",
+       "py": "Liáng shīfu",
+       "gl": "Master Liang",
+       "pos": "proper noun"
       },
       {
        "h": "把",
@@ -28,19 +28,19 @@
       {
        "h": "铁锅",
        "py": "tiěguō",
-       "gl": "iron wok; iron pot",
+       "gl": "cast-iron wok",
        "pos": "n."
       },
       {
        "h": "往",
        "py": "wǎng",
-       "gl": "toward; to",
+       "gl": "to, toward",
        "pos": "prep."
       },
       {
-       "h": "炉子",
-       "py": "lúzi",
-       "gl": "stove; oven",
+       "h": "灶",
+       "py": "zào",
+       "gl": "stove",
        "pos": "n."
       },
       {
@@ -51,8 +51,8 @@
       },
       {
        "h": "一",
-       "py": "yī",
-       "gl": "(before a verb: a quick, brief action)",
+       "py": "yí",
+       "gl": "one",
        "pos": "num."
       },
       {
@@ -71,42 +71,48 @@
        "pos": "n."
       },
       {
-       "h": "窜起来",
-       "py": "cuànqǐlái",
-       "gl": "shoot up; leap up (of flames)",
-       "pos": "v."
+       "h": "“"
       },
       {
-       "h": "的",
+       "h": "呼",
+       "py": "hū",
+       "gl": "\"phew\" (sound)",
+       "pos": "interj."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "地",
        "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
        "pos": "particle"
       },
       {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
+       "h": "蹿",
+       "py": "cuān",
+       "gl": "to shoot up",
+       "pos": "v."
       },
       {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "刻",
-       "py": "kè",
-       "gl": "moment (那一刻 'that moment'); carve; engrave",
-       "pos": "n."
+       "h": "起来",
+       "py": "qǐlái",
+       "gl": "up (directional complement: 站起来 stand up); start to",
+       "pos": "particle"
       },
       {
-       "h": "，"
+       "h": "。"
       }
      ]
     },
     {
-     "en": "he said, \"Remember, the hardest thing about Chinese cooking",
+     "en": "\"Remember,\" he said, \"the hardest thing in Chinese cooking has never been the recipe. It's the heat.\"",
      "words": [
       {
        "h": "他",
@@ -129,16 +135,22 @@
       {
        "h": "记住",
        "py": "jìzhù",
-       "gl": "remember",
+       "gl": "remember; memorize",
        "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "中国菜",
-       "py": "zhōngguócài",
-       "gl": "Chinese cuisine; Chinese dish",
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
+      },
+      {
+       "h": "菜",
+       "py": "cài",
+       "gl": "dish (food)",
        "pos": "n."
       },
       {
@@ -161,12 +173,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "has never been the recipe; it's huohou (heat control).\"",
-     "words": [
+      },
       {
        "h": "从来",
        "py": "cónglái",
@@ -174,9 +181,15 @@
        "pos": "adv."
       },
       {
-       "h": "不是",
-       "py": "búshì",
-       "gl": "not be; is not",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
       },
       {
@@ -196,177 +209,141 @@
       },
       {
        "h": "火候",
-       "py": "huǒhòu",
-       "gl": "heat control; cooking time (in cooking)",
+       "py": "huǒhou",
+       "gl": "heat control (in cooking)",
        "pos": "n."
       },
       {
-       "h": "。”"
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "Huohou refers to a cook's precise command of how strong the flame is and how long the food is heated; with the same ingredients, different heat control can make the flavor worlds apart.",
+   "en": "I was nineteen that year, an apprentice in a Cantonese restaurant; in three days there, all I had done was wash vegetables.",
    "phrases": [
     {
-     "en": "Huohou refers to a cook's precise command of how strong the flame is and how long the food is heated;",
+     "en": "I was nineteen that year, an apprentice in a Cantonese restaurant;",
      "words": [
       {
-       "h": "所谓",
-       "py": "suǒwèi",
-       "gl": "so-called; what is called",
-       "pos": "adj."
+       "h": "那年",
+       "py": "nànián",
+       "gl": "that year",
+       "pos": "n."
       },
       {
-       "h": "火候",
-       "py": "huǒhòu",
-       "gl": "heat control; cooking time (in cooking)",
-       "pos": "n."
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "十九",
+       "py": "shíjiǔ",
+       "gl": "nineteen",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
       },
       {
        "h": "，"
       },
       {
-       "h": "指",
-       "py": "zhǐ",
-       "gl": "refer to; mean; point at",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "厨师",
-       "py": "chúshī",
-       "gl": "cook; chef",
-       "pos": "n."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "for; toward",
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "火力",
-       "py": "huǒlì",
-       "gl": "heat (of fire); firepower",
+       "h": "一家",
+       "py": "yìjiā",
+       "gl": "a; one (shop, family, company)",
+       "pos": "measure word"
+      },
+      {
+       "h": "粤菜馆",
+       "py": "Yuècàiguǎn",
+       "gl": "Cantonese restaurant",
        "pos": "n."
       },
       {
-       "h": "大小",
-       "py": "dàxiǎo",
-       "gl": "size",
+       "h": "当",
+       "py": "dāng",
+       "gl": "serve as; be; become",
+       "pos": "v."
+      },
+      {
+       "h": "学徒",
+       "py": "xuétú",
+       "gl": "apprentice",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "加热",
-       "py": "jiārè",
-       "gl": "heat; heating",
-       "pos": "n."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "精准",
-       "py": "jīngzhǔn",
-       "gl": "precise; targeted",
-       "pos": "adj."
-      },
-      {
-       "h": "把握",
-       "py": "bǎwò",
-       "gl": "mastery; control; grasp; handle; keep (a balance); confidence; certainty",
-       "pos": "n."
-      },
-      {
-       "h": "——"
+       "h": "，"
       }
      ]
     },
     {
-     "en": "with the same ingredients, different heat control can make the flavor worlds apart.",
+     "en": "in three days there, all I had done was wash vegetables.",
      "words": [
       {
-       "h": "同样",
-       "py": "tóngyàng",
-       "gl": "the same",
-       "pos": "adj."
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "食材",
-       "py": "shícái",
-       "gl": "ingredient",
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "火候",
-       "py": "huǒhòu",
-       "gl": "heat control; cooking time (in cooking)",
-       "pos": "n."
-      },
-      {
-       "h": "不同",
-       "py": "bùtóng",
-       "gl": "different",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "味道",
-       "py": "wèidào",
-       "gl": "taste; flavor",
-       "pos": "n."
-      },
-      {
-       "h": "可能",
-       "py": "kěnéng",
-       "gl": "possible; maybe",
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
        "pos": "adv."
       },
       {
-       "h": "天差地别",
-       "py": "tiānchàdìbié",
-       "gl": "worlds apart (idiom)",
+       "h": "洗",
+       "py": "xǐ",
+       "gl": "wash",
        "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "菜",
+       "py": "cài",
+       "gl": "vegetable; dish (food)",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -376,21 +353,48 @@
    ]
   },
   {
-   "en": "He had me try flash-frying a plate of greens: the wok has to be extremely hot, and the moment the oil goes in you toss everything quickly; the whole thing takes less than a minute.",
+   "en": "That day, for the first time, he handed me the wok spatula and told me to stir-fry a plate of greens.",
    "phrases": [
     {
-     "en": "He had me try flash-frying a plate of greens:",
+     "en": "That day, for the first time, he handed me the wok spatula and told me to stir-fry a plate of greens.",
      "words": [
       {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
+       "h": "那天",
+       "py": "nàtiān",
+       "gl": "that day",
+       "pos": "n."
       },
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "make (someone do); let; ask (someone to do)",
+       "h": "，"
+      },
+      {
+       "h": "师傅",
+       "py": "shīfù",
+       "gl": "master (polite address for a skilled worker); master craftsman",
+       "pos": "n."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "锅铲",
+       "py": "guōchǎn",
+       "gl": "wok spatula",
+       "pos": "n."
+      },
+      {
+       "h": "递给",
+       "py": "dìgěi",
+       "gl": "hand to; pass to",
        "pos": "v."
       },
       {
@@ -400,15 +404,24 @@
        "pos": "pron."
       },
       {
-       "h": "试着",
-       "py": "shìzhe",
-       "gl": "try (to do)",
-       "pos": "adv."
+       "h": "，"
       },
       {
-       "h": "爆炒",
-       "py": "bàochǎo",
-       "gl": "stir-fry over high heat",
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "炒",
+       "py": "chǎo",
+       "gl": "stir-fry",
        "pos": "v."
       },
       {
@@ -430,13 +443,21 @@
        "pos": "n."
       },
       {
-       "h": "："
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "\"The wok has to be extremely hot,\" he said, \"and the moment the oil goes in, you start tossing. The whole thing takes under a minute.\"",
+   "phrases": [
     {
-     "en": "the wok has to be extremely hot, and the moment the oil goes in you toss everything quickly;",
+     "en": "\"The wok has to be extremely hot,\" he said,",
      "words": [
+      {
+       "h": "“"
+      },
       {
        "h": "锅",
        "py": "guō",
@@ -452,13 +473,13 @@
       {
        "h": "烧",
        "py": "shāo",
-       "gl": "burn; heat; cook",
+       "gl": "to heat",
        "pos": "v."
       },
       {
        "h": "得",
        "py": "de",
-       "gl": "particle linking a verb to its degree or result (做得好 done well)",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
        "pos": "particle"
       },
       {
@@ -477,6 +498,32 @@
        "h": "，"
       },
       {
+       "h": "”"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "\"and the moment the oil goes in, you start tossing. The whole thing takes under a minute.\"",
+     "words": [
+      {
+       "h": "“"
+      },
+      {
        "h": "油",
        "py": "yóu",
        "gl": "oil",
@@ -484,9 +531,9 @@
       },
       {
        "h": "一",
-       "py": "yī",
-       "gl": "as soon as (一…就… no sooner … than)",
-       "pos": "adv."
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
       },
       {
        "h": "下锅",
@@ -497,13 +544,7 @@
       {
        "h": "就",
        "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "迅速",
-       "py": "xùnsù",
-       "gl": "rapidly; swiftly",
+       "gl": "right away; then; just (emphasis)",
        "pos": "adv."
       },
       {
@@ -514,12 +555,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the whole thing takes less than a minute.",
-     "words": [
+      },
       {
        "h": "整个",
        "py": "zhěnggè",
@@ -558,16 +594,19 @@
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "I tossed the greens in a frantic scramble, but they had already gone yellow and limp. The master took a bite, shook his head and said that being off by just a few seconds had ruined the texture completely.",
+   "en": "I tossed them in a panic, but the greens still came out yellow and limp.",
    "phrases": [
     {
-     "en": "I tossed the greens in a frantic scramble, but they had already gone yellow and limp.",
+     "en": "I tossed them in a panic,",
      "words": [
       {
        "h": "我",
@@ -576,10 +615,16 @@
        "pos": "pron."
       },
       {
-       "h": "手忙脚乱地",
-       "py": "shǒumángjiǎoluànde",
-       "gl": "in a flurry; frantically",
-       "pos": "adv."
+       "h": "手忙脚乱",
+       "py": "shǒumángjiǎoluàn",
+       "gl": "flustered; in a frantic rush (idiom)",
+       "pos": "phrase"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
       },
       {
        "h": "翻炒",
@@ -589,7 +634,12 @@
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "but the greens still came out yellow and limp.",
+     "words": [
       {
        "h": "青菜",
        "py": "qīngcài",
@@ -597,36 +647,59 @@
        "pos": "n."
       },
       {
-       "h": "却",
-       "py": "què",
-       "gl": "but; yet",
-       "pos": "conj."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
        "pos": "adv."
       },
       {
-       "h": "发黄",
-       "py": "fāhuáng",
-       "gl": "turn yellow; yellowed",
+       "h": "炒",
+       "py": "chǎo",
+       "gl": "stir-fry",
        "pos": "v."
       },
       {
-       "h": "发软",
-       "py": "fāruǎn",
-       "gl": "go soft",
-       "pos": "v."
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
       },
       {
-       "h": "——"
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "黄",
+       "py": "huáng",
+       "gl": "yellow",
+       "pos": "adj."
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "软",
+       "py": "ruǎn",
+       "gl": "soft",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "He tasted a bite and shook his head. \"Three seconds short, and it's all ruined.\"",
+   "phrases": [
     {
-     "en": "The master took a bite, shook his head and said",
+     "en": "He tasted a bite and shook his head. \"Three seconds short, and it's all ruined.\"",
      "words": [
       {
        "h": "师傅",
@@ -643,19 +716,13 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "口",
-       "py": "kǒu",
-       "gl": "measure word for mouthfuls, breaths, wells, pots; mouth",
+       "h": "一口",
+       "py": "yìkǒu",
+       "gl": "a mouthful; a bite",
        "pos": "measure word"
       },
       {
@@ -668,94 +735,71 @@
        "pos": "v."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
+       "h": "："
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that being off by just a few seconds had ruined the texture completely.",
-     "words": [
-      {
-       "h": "火候",
-       "py": "huǒhòu",
-       "gl": "heat control; cooking time (in cooking)",
-       "pos": "n."
+       "h": "“"
       },
       {
        "h": "差",
        "py": "chà",
-       "gl": "differ by; lack; poor; bad",
+       "gl": "to be short by, miss by",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
        "pos": "num."
       },
       {
-       "h": "秒钟",
-       "py": "miǎozhōng",
+       "h": "秒",
+       "py": "miǎo",
        "gl": "second",
-       "pos": "n."
+       "pos": "measure word"
       },
       {
        "h": "，"
       },
       {
-       "h": "口感",
-       "py": "kǒugǎn",
-       "gl": "texture; mouthfeel",
-       "pos": "n."
-      },
-      {
        "h": "就",
        "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
        "h": "全",
        "py": "quán",
        "gl": "all; entirely",
-       "pos": "adv."
+       "pos": "adj."
       },
       {
        "h": "毁",
        "py": "huǐ",
-       "gl": "destroy; ruin",
-       "pos": "v."
+       "gl": "destroy (烧毁 burn down)",
+       "pos": "particle"
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "He said this instinct for heat and for just the right amount can't be learned from a recipe; you can only get a feel for it gradually through practice, again and again.",
+   "en": "He said this feel can't be learned from a recipe; you can only get it by hand, practicing again and again.",
    "phrases": [
     {
-     "en": "He said this instinct for heat and for just the right amount",
+     "en": "He said this feel can't be learned from a recipe;",
      "words": [
       {
        "h": "他",
@@ -779,66 +823,13 @@
        "pos": "pron."
       },
       {
-       "h": "对",
-       "py": "duì",
-       "gl": "for; toward",
-       "pos": "prep."
-      },
-      {
-       "h": "火候",
-       "py": "huǒhòu",
-       "gl": "heat control; cooking time (in cooking)",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "分寸",
-       "py": "fēncùn",
-       "gl": "sense of proportion; sense of what's proper",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "直觉",
-       "py": "zhíjué",
-       "gl": "intuition",
-       "pos": "n."
+       "h": "感觉",
+       "py": "gǎnjué",
+       "gl": "feel",
+       "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "can't be learned from a recipe;",
-     "words": [
-      {
-       "h": "没",
-       "py": "méi",
-       "gl": "not (yet); negates 有 and past actions",
-       "pos": "adv."
-      },
-      {
-       "h": "办法",
-       "py": "bànfǎ",
-       "gl": "way; method; solution",
-       "pos": "n."
-      },
-      {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
-       "pos": "prep."
       },
       {
        "h": "看",
@@ -853,10 +844,34 @@
        "pos": "n."
       },
       {
-       "h": "学会",
-       "py": "xuéhuì",
-       "gl": "learn (to do); master",
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
+      },
+      {
+       "h": "学",
+       "py": "xué",
+       "gl": "study; learn; imitate; copy",
+       "pos": "v."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "会",
+       "py": "huì",
+       "gl": "will (expresses future or likelihood)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "，"
@@ -864,51 +879,63 @@
      ]
     },
     {
-     "en": "you can only get a feel for it gradually through practice, again and again.",
+     "en": "you can only get it by hand, practicing again and again.",
      "words": [
       {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
+       "h": "只能",
+       "py": "zhǐnéng",
+       "gl": "can only; have to",
        "pos": "v."
       },
       {
        "h": "靠",
        "py": "kào",
        "gl": "rely on; depend on",
-       "pos": "prep."
+       "pos": "v."
       },
       {
-       "h": "反复",
-       "py": "fǎnfù",
-       "gl": "repeatedly; over and over",
-       "pos": "adv."
-      },
-      {
-       "h": "练习",
-       "py": "liànxí",
-       "gl": "practice; exercise",
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "慢慢",
-       "py": "mànmàn",
-       "gl": "slowly; gradually",
+       "h": "一",
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
        "pos": "adv."
       },
       {
-       "h": "体会",
-       "py": "tǐhuì",
-       "gl": "come to understand; appreciate; experience",
+       "h": "遍",
+       "py": "biàn",
+       "gl": "measure word for times (doing something from start to finish)",
+       "pos": "measure word"
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
+       "pos": "adv."
+      },
+      {
+       "h": "遍",
+       "py": "biàn",
+       "gl": "measure word for times (doing something from start to finish)",
+       "pos": "measure word"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "练",
+       "py": "liàn",
+       "gl": "practice; train",
        "pos": "v."
       },
       {
@@ -919,88 +946,11 @@
    ]
   },
   {
-   "en": "The master cooked Cantonese food, which prizes light, fresh flavors. Pointing at the live fish swimming in the tank by the door, he said that Cantonese people often say, \"Raw is fine, dead is the worst\": ingredients must be killed and cooked on the spot.",
+   "en": "By the door was a water vat with live fish swimming in it. Pointing at it, he said the Cantonese have a saying: \"not afraid of raw, only afraid of dead.\"",
    "phrases": [
     {
-     "en": "The master cooked Cantonese food, which prizes light, fresh flavors.",
+     "en": "By the door was a water vat with live fish swimming in it.",
      "words": [
-      {
-       "h": "师傅",
-       "py": "shīfù",
-       "gl": "master (polite address for a skilled worker); master craftsman",
-       "pos": "n."
-      },
-      {
-       "h": "做",
-       "py": "zuò",
-       "gl": "do; make",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "粤菜",
-       "py": "yuècài",
-       "gl": "Cantonese cuisine",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "讲究",
-       "py": "jiǎngjiū",
-       "gl": "pay attention to; stress; be particular about",
-       "pos": "v."
-      },
-      {
-       "h": "清淡",
-       "py": "qīngdàn",
-       "gl": "light (in taste); mild",
-       "pos": "adj."
-      },
-      {
-       "h": "鲜美",
-       "py": "xiānměi",
-       "gl": "delicious; savory",
-       "pos": "adj."
-      },
-      {
-       "h": "；"
-      }
-     ]
-    },
-    {
-     "en": "Pointing at the live fish swimming in the tank by the door, he said",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "指",
-       "py": "zhǐ",
-       "gl": "refer to; mean; point at",
-       "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
-      },
       {
        "h": "门口",
        "py": "ménkǒu",
@@ -1008,34 +958,37 @@
        "pos": "n."
       },
       {
-       "h": "水缸",
-       "py": "shuǐgāng",
-       "gl": "water tank; water vat",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "li",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "游",
-       "py": "yóu",
-       "gl": "swim",
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
+       "h": "水缸",
+       "py": "shuǐgāng",
+       "gl": "water vat",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "里面",
+       "py": "lǐmiàn",
+       "gl": "inside",
+       "pos": "n."
+      },
+      {
+       "h": "游着",
+       "py": "yóuzhe",
+       "gl": "to swim",
+       "pos": "v."
       },
       {
        "h": "活",
@@ -1050,6 +1003,32 @@
        "pos": "n."
       },
       {
+       "h": "。"
+      }
+     ]
+    },
+    {
+     "en": "Pointing at it, he said the Cantonese have a saying: \"not afraid of raw, only afraid of dead.\"",
+     "words": [
+      {
+       "h": "师傅",
+       "py": "shīfù",
+       "gl": "master (polite address for a skilled worker); master craftsman",
+       "pos": "n."
+      },
+      {
+       "h": "指着",
+       "py": "zhǐzhe",
+       "gl": "point at",
+       "pos": "v."
+      },
+      {
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
+       "pos": "pron."
+      },
+      {
        "h": "说",
        "py": "shuō",
        "gl": "say; speak; tell",
@@ -1057,12 +1036,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that Cantonese people often say, \"Raw is fine, dead is the worst\":",
-     "words": [
+      },
       {
        "h": "广东人",
        "py": "guǎngdōngrén",
@@ -1070,15 +1044,9 @@
        "pos": "n."
       },
       {
-       "h": "常",
-       "py": "cháng",
-       "gl": "often",
-       "pos": "adv."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "讲",
+       "py": "jiǎng",
+       "gl": "talk about; be about; tell",
        "pos": "v."
       },
       {
@@ -1086,8 +1054,8 @@
       },
       {
        "h": "不怕生",
-       "py": "bùpàshēng",
-       "gl": "raw is fine (lit. not afraid of raw)",
+       "py": "bú pà shēng",
+       "gl": "\"not afraid of raw food\"",
        "pos": "phrase"
       },
       {
@@ -1095,25 +1063,42 @@
       },
       {
        "h": "最怕死",
-       "py": "zuìpàsǐ",
-       "gl": "dead (not fresh) is the worst",
+       "py": "zuì pà sǐ",
+       "gl": "\"most afraid of food that's gone off\"",
        "pos": "phrase"
       },
       {
        "h": "”"
       },
       {
-       "h": "，"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "It means ingredients have to be fresh: fish are killed and cooked to order.",
+   "phrases": [
     {
-     "en": "ingredients must be killed and cooked on the spot.",
+     "en": "It means ingredients have to be fresh: fish are killed and cooked to order.",
      "words": [
       {
-       "h": "食材",
-       "py": "shícái",
-       "gl": "ingredient",
+       "h": "意思",
+       "py": "yìsi",
+       "gl": "meaning",
+       "pos": "n."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "东西",
+       "py": "dōngxī",
+       "gl": "thing; stuff",
        "pos": "n."
       },
       {
@@ -1129,16 +1114,49 @@
        "pos": "v."
       },
       {
-       "h": "现杀",
-       "py": "xiànshā",
-       "gl": "freshly slaughtered",
+       "h": "新鲜",
+       "py": "xīnxiān",
+       "gl": "fresh",
        "pos": "adj."
       },
       {
-       "h": "现做",
-       "py": "xiànzuò",
-       "gl": "made to order; freshly made",
-       "pos": "adj."
+       "h": "，"
+      },
+      {
+       "h": "鱼",
+       "py": "yú",
+       "gl": "fish",
+       "pos": "n."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "现",
+       "py": "xiàn",
+       "gl": "now; currently; on the spot (现包 freshly made)",
+       "pos": "adv."
+      },
+      {
+       "h": "杀",
+       "py": "shā",
+       "gl": "kill",
+       "pos": "v."
+      },
+      {
+       "h": "现",
+       "py": "xiàn",
+       "gl": "now; currently; on the spot (现包 freshly made)",
+       "pos": "adv."
+      },
+      {
+       "h": "做",
+       "py": "zuò",
+       "gl": "do; make",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -1148,146 +1166,28 @@
    ]
   },
   {
-   "en": "He said Sichuan cuisine is famous for being mala, numbing and spicy: Sichuan peppercorns bring the \"ma\" (numbing) and chili peppers bring the \"la\" (spicy), and a good chef adjusts the ratio of the two for each dish rather than simply going for maximum heat.",
+   "en": "The Sichuan chef nearby laughed and said that where he came from, what mattered was the \"numbing\" of Sichuan pepper and the \"heat\" of chili, and a good cook balances the two — hotter isn't always better.",
    "phrases": [
     {
-     "en": "He said Sichuan cuisine is famous for being mala, numbing and spicy:",
+     "en": "The Sichuan chef nearby laughed",
      "words": [
       {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "炒",
+       "py": "chǎo",
+       "gl": "stir-fry",
        "pos": "v."
-      },
-      {
-       "h": "，"
       },
       {
        "h": "川菜",
-       "py": "chuāncài",
+       "py": "Chuāncài",
        "gl": "Sichuan cuisine",
        "pos": "n."
-      },
-      {
-       "h": "以",
-       "py": "yǐ",
-       "gl": "by; with; for (以…出名 'famous for …')",
-       "pos": "prep."
-      },
-      {
-       "h": "麻辣",
-       "py": "málà",
-       "gl": "numbing and spicy (mala)",
-       "pos": "n."
-      },
-      {
-       "h": "著称",
-       "py": "zhùchēng",
-       "gl": "be famous for; be known for",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Sichuan peppercorns bring the \"ma\" (numbing) and chili peppers bring the \"la\" (spicy),",
-     "words": [
-      {
-       "h": "花椒",
-       "py": "huājiāo",
-       "gl": "Sichuan pepper",
-       "pos": "n."
-      },
-      {
-       "h": "带来",
-       "py": "dàilái",
-       "gl": "bring; bring about",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "麻",
-       "py": "má",
-       "gl": "“má”: numbing (tingling sensation of Sichuan pepper)",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "辣椒",
-       "py": "làjiāo",
-       "gl": "chili pepper",
-       "pos": "n."
-      },
-      {
-       "h": "带来",
-       "py": "dàilái",
-       "gl": "bring; bring about",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "辣",
-       "py": "là",
-       "gl": "spicy heat (of chili)",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and a good chef adjusts the ratio of the two for each dish",
-     "words": [
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good",
-       "pos": "adj."
       },
       {
        "h": "的",
@@ -1302,34 +1202,164 @@
        "pos": "n."
       },
       {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and said that where he came from, what mattered was the \"numbing\" of Sichuan pepper and the \"heat\" of chili,",
+     "words": [
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
+       "pos": "pron."
+      },
+      {
+       "h": "那儿",
+       "py": "nàér",
+       "gl": "there",
+       "pos": "pron."
+      },
+      {
+       "h": "讲究",
+       "py": "jiǎngjiū",
+       "gl": "pay attention to; stress; be particular about",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "花椒",
+       "py": "huājiāo",
+       "gl": "Sichuan pepper",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "麻",
+       "py": "má",
+       "gl": "numbing (Sichuan pepper sensation); numb",
+       "pos": "adj."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "辣椒",
+       "py": "làjiāo",
+       "gl": "chili pepper",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "辣",
+       "py": "là",
+       "gl": "spicy; spiciness",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and a good cook balances the two — hotter isn't always better.",
+     "words": [
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "厨师",
+       "py": "chúshī",
+       "gl": "cook; chef",
+       "pos": "n."
+      },
+      {
        "h": "会",
        "py": "huì",
        "gl": "will (expresses future or likelihood)",
        "pos": "v."
       },
       {
-       "h": "根据",
-       "py": "gēnjù",
-       "gl": "according to; based on",
-       "pos": "prep."
-      },
-      {
-       "h": "菜式",
-       "py": "càishì",
-       "gl": "dish; type of dish",
-       "pos": "n."
-      },
-      {
-       "h": "调整",
-       "py": "tiáozhěng",
-       "gl": "adjust; tune",
+       "h": "调",
+       "py": "tiáo",
+       "gl": "to mix, adjust",
        "pos": "v."
       },
       {
-       "h": "两者",
-       "py": "liǎngzhě",
-       "gl": "both; the two",
-       "pos": "pron."
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "样",
+       "py": "yàng",
+       "gl": "kind, sort",
+       "pos": "measure word"
       },
       {
        "h": "的",
@@ -1345,35 +1375,36 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "rather than simply going for maximum heat.",
-     "words": [
-      {
-       "h": "而不是",
-       "py": "érbúshì",
-       "gl": "rather than; instead of",
-       "pos": "conj."
       },
       {
-       "h": "一味",
-       "py": "yīwèi",
-       "gl": "blindly; persistently; simply (keep doing one thing)",
-       "pos": "adv."
-      },
-      {
-       "h": "追求",
-       "py": "zhuīqiú",
-       "gl": "pursue; seek; pursuit",
+       "h": "不是",
+       "py": "búshì",
+       "gl": "not be; is not",
        "pos": "v."
       },
       {
-       "h": "刺激",
-       "py": "cìjī",
-       "gl": "stimulus; stimulate",
-       "pos": "n."
+       "h": "越",
+       "py": "yuè",
+       "gl": "the more … (越…越… the more … the more …)",
+       "pos": "adv."
+      },
+      {
+       "h": "辣",
+       "py": "là",
+       "gl": "spicy; spiciness",
+       "pos": "adj."
+      },
+      {
+       "h": "越",
+       "py": "yuè",
+       "gl": "the more … (越…越… the more … the more …)",
+       "pos": "adv."
+      },
+      {
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
       },
       {
        "h": "。"
@@ -1383,10 +1414,10 @@
    ]
   },
   {
-   "en": "China is a vast country: besides Sichuan and Cantonese cuisine, there is Shandong cuisine, which wins people over with its soups, as well as Jiangsu, Fujian, Zhejiang, Hunan and Anhui cuisines. Together they're known as the Eight Great Cuisines, each with a strong local character.",
+   "en": "China is so big, and each of the \"Eight Great Cuisines\" has its own temper, just like the people of each region.",
    "phrases": [
     {
-     "en": "China is a vast country: besides Sichuan and Cantonese cuisine,",
+     "en": "China is so big, and each of the \"Eight Great Cuisines\"",
      "words": [
       {
        "h": "中国",
@@ -1395,43 +1426,31 @@
        "pos": "proper noun"
       },
       {
-       "h": "地域",
-       "py": "dìyù",
-       "gl": "region; regional",
-       "pos": "n."
+       "h": "那么",
+       "py": "nàme",
+       "gl": "so; that (much)",
+       "pos": "adv."
       },
       {
-       "h": "辽阔",
-       "py": "liáokuò",
-       "gl": "vast; extensive",
+       "h": "大",
+       "py": "dà",
+       "gl": "big; large",
        "pos": "adj."
       },
       {
        "h": "，"
       },
       {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
+       "h": "“"
       },
       {
-       "h": "川菜",
-       "py": "chuāncài",
-       "gl": "Sichuan cuisine",
+       "h": "八大菜系",
+       "py": "bā dà càixì",
+       "gl": "the \"Eight Great Cuisines\" of China",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "粤菜",
-       "py": "yuècài",
-       "gl": "Cantonese cuisine",
-       "pos": "n."
+       "h": "”"
       },
       {
        "h": "，"
@@ -1439,13 +1458,13 @@
      ]
     },
     {
-     "en": "there is Shandong cuisine, which wins people over with its soups,",
+     "en": "has its own temper, just like the people of each region.",
      "words": [
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
+       "h": "各",
+       "py": "gè",
+       "gl": "each; every; various",
+       "pos": "pron."
       },
       {
        "h": "有",
@@ -1454,146 +1473,49 @@
        "pos": "v."
       },
       {
-       "h": "以",
-       "py": "yǐ",
-       "gl": "by; with; for (以…出名 'famous for …')",
-       "pos": "prep."
-      },
-      {
-       "h": "汤",
-       "py": "tāng",
-       "gl": "soup; broth",
-       "pos": "n."
-      },
-      {
-       "h": "取胜",
-       "py": "qǔshèng",
-       "gl": "win; prevail",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "鲁菜",
-       "py": "lǔcài",
-       "gl": "Shandong cuisine",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "as well as Jiangsu, Fujian, Zhejiang, Hunan and Anhui cuisines.",
-     "words": [
-      {
-       "h": "以及",
-       "py": "yǐjí",
-       "gl": "and; as well as",
-       "pos": "conj."
-      },
-      {
-       "h": "苏菜",
-       "py": "sūcài",
-       "gl": "Jiangsu cuisine",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "闽菜",
-       "py": "mǐncài",
-       "gl": "Fujian cuisine",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "浙菜",
-       "py": "zhècài",
-       "gl": "Zhejiang cuisine",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "湘菜",
-       "py": "xiāngcài",
-       "gl": "Hunan cuisine",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "徽菜",
-       "py": "huīcài",
-       "gl": "Anhui cuisine",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Together they're known as the Eight Great Cuisines, each with a strong local character.",
-     "words": [
-      {
-       "h": "合称",
-       "py": "héchēng",
-       "gl": "be jointly called",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "八大菜系",
-       "py": "bādàcàixì",
-       "gl": "\"Eight Great Cuisines\" (of China)",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "各自",
-       "py": "gèzì",
-       "gl": "each; respectively; separately",
+       "h": "各",
+       "py": "gè",
+       "gl": "each; every; various",
        "pos": "pron."
       },
       {
-       "h": "带",
-       "py": "dài",
-       "gl": "have; bear; carry (a feature)",
-       "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "鲜明",
-       "py": "xiānmíng",
-       "gl": "distinct; vivid; sharp",
-       "pos": "adj."
+       "h": "脾气",
+       "py": "píqì",
+       "gl": "temper",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "各",
+       "py": "gè",
+       "gl": "each; every; various",
+       "pos": "pron."
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
       },
       {
        "h": "的",
@@ -1602,15 +1524,9 @@
        "pos": "particle"
       },
       {
-       "h": "地方",
-       "py": "dìfāng",
-       "gl": "local; regional",
-       "pos": "adj."
-      },
-      {
-       "h": "特色",
-       "py": "tèsè",
-       "gl": "distinctive feature; characteristic",
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
        "pos": "n."
       },
       {
@@ -1621,10 +1537,10 @@
    ]
   },
   {
-   "en": "During a break, the master sent me to the back kitchen to watch another chef cut tofu. That's a Huaiyang cuisine skill: a block of tofu is cut into thousands of fine threads that still stay separate when dropped into soup.",
+   "en": "During the break, Master Liang took me to the very back of the kitchen to watch an old chef cut Wensi tofu, a Huaiyang dish.",
    "phrases": [
     {
-     "en": "During a break, the master sent me to the back kitchen to watch another chef cut tofu.",
+     "en": "During the break,",
      "words": [
       {
        "h": "休息",
@@ -1640,13 +1556,18 @@
       },
       {
        "h": "时候",
-       "py": "shíhòu",
+       "py": "shíhou",
        "gl": "time; moment (when ...)",
        "pos": "n."
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "Master Liang took me to the very back of the kitchen to watch an old chef cut Wensi tofu, a Huaiyang dish.",
+     "words": [
       {
        "h": "师傅",
        "py": "shīfù",
@@ -1654,9 +1575,9 @@
        "pos": "n."
       },
       {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "h": "带",
+       "py": "dài",
+       "gl": "lead; take (someone)",
        "pos": "v."
       },
       {
@@ -1668,7 +1589,7 @@
       {
        "h": "去",
        "py": "qù",
-       "gl": "go",
+       "gl": "go (to)",
        "pos": "v."
       },
       {
@@ -1678,28 +1599,37 @@
        "pos": "n."
       },
       {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "里面",
+       "py": "lǐmiàn",
+       "gl": "inside",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
        "h": "看",
        "py": "kàn",
        "gl": "look; watch; read",
        "pos": "v."
       },
       {
-       "h": "另",
-       "py": "lìng",
-       "gl": "another; other",
-       "pos": "pron."
-      },
-      {
-       "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "位",
-       "py": "wèi",
-       "gl": "polite measure word for people",
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
        "pos": "measure word"
+      },
+      {
+       "h": "老",
+       "py": "lǎo",
+       "gl": "old; elderly",
+       "pos": "adj."
       },
       {
        "h": "师傅",
@@ -1714,34 +1644,8 @@
        "pos": "v."
       },
       {
-       "h": "豆腐",
-       "py": "dòufǔ",
-       "gl": "tofu",
-       "pos": "n."
-      },
-      {
-       "h": "——"
-      }
-     ]
-    },
-    {
-     "en": "That's a Huaiyang cuisine skill:",
-     "words": [
-      {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
        "h": "淮扬菜",
-       "py": "huáiyángcài",
+       "py": "Huáiyángcài",
        "gl": "Huaiyang cuisine",
        "pos": "n."
       },
@@ -1752,18 +1656,23 @@
        "pos": "particle"
       },
       {
-       "h": "功夫",
-       "py": "gōngfu",
-       "gl": "skill; craftsmanship",
+       "h": "文思豆腐",
+       "py": "Wénsī dòufu",
+       "gl": "Wensi tofu (soup with tofu cut into threads)",
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "He cut a block of soft tofu finer than a hair, and when it went into the soup, thousands of fine threads spread out like a flower, not one stuck to another.",
+   "phrases": [
     {
-     "en": "a block of tofu is cut into thousands of fine threads",
+     "en": "He cut a block of soft tofu finer than a hair,",
      "words": [
       {
        "h": "一",
@@ -1772,10 +1681,22 @@
        "pos": "num."
       },
       {
-       "h": "道",
-       "py": "dào",
-       "gl": "measure word for exam questions, dishes",
+       "h": "块",
+       "py": "kuài",
+       "gl": "bar, chunk",
        "pos": "measure word"
+      },
+      {
+       "h": "软软",
+       "py": "ruǎnruǎn",
+       "gl": "soft",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "豆腐",
@@ -1784,16 +1705,84 @@
        "pos": "n."
       },
       {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "切",
+       "py": "qiè",
+       "gl": "cut; slice; chop",
        "pos": "v."
       },
       {
-       "h": "切成",
-       "py": "qièchéng",
-       "gl": "cut into",
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
+      },
+      {
+       "h": "头发",
+       "py": "tóufà",
+       "gl": "hair",
+       "pos": "n."
+      },
+      {
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "细",
+       "py": "xì",
+       "gl": "thin; fine",
+       "pos": "adj."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and when it went into the soup, thousands of fine threads spread out like a flower, not one stuck to another.",
+     "words": [
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
        "pos": "v."
+      },
+      {
+       "h": "进",
+       "py": "jìn",
+       "gl": "in (complement)",
+       "pos": "v."
+      },
+      {
+       "h": "汤",
+       "py": "tāng",
+       "gl": "soup; broth",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
       },
       {
        "h": "几千",
@@ -1814,48 +1803,67 @@
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that still stay separate when dropped into soup.",
-     "words": [
-      {
-       "h": "放进",
-       "py": "fàngjìn",
-       "gl": "put into",
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
        "pos": "v."
       },
       {
-       "h": "汤",
-       "py": "tāng",
-       "gl": "soup; broth",
+       "h": "花",
+       "py": "huā",
+       "gl": "flower",
        "pos": "n."
       },
       {
-       "h": "里",
-       "py": "li",
-       "gl": "in; inside",
-       "pos": "postposition"
+       "h": "一样",
+       "py": "yīyàng",
+       "gl": "same; identical",
+       "pos": "adj."
       },
       {
-       "h": "依然",
-       "py": "yīrán",
-       "gl": "still; as before",
+       "h": "散",
+       "py": "sàn",
+       "gl": "scatter; disperse; break up",
+       "pos": "v."
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; apart (complement)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "根",
+       "py": "gēn",
+       "gl": "measure word for long thin things (candles, sticks)",
+       "pos": "measure word"
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
        "pos": "adv."
       },
       {
-       "h": "根根",
-       "py": "gēngēn",
-       "gl": "every strand",
-       "pos": "n."
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
       },
       {
-       "h": "分明",
-       "py": "fēnmíng",
-       "gl": "distinct; clear",
-       "pos": "adj."
+       "h": "粘",
+       "py": "zhān",
+       "gl": "stick; stick to",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -1865,11 +1873,17 @@
    ]
   },
   {
-   "en": "I was watching, completely absorbed, when my phone rang: the takeout my friend had ordered had arrived, a prepared meal that goes on the table after a few minutes in the microwave.",
+   "en": "I was watching, spellbound, when my phone buzzed: a friend had sent a photo of the pre-made dish he'd ordered — three minutes in the microwave and it was ready to eat.",
    "phrases": [
     {
-     "en": "I was watching, completely absorbed, when my phone rang:",
+     "en": "I was watching, spellbound, when my phone buzzed:",
      "words": [
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
       {
        "h": "正",
        "py": "zhèng",
@@ -1885,14 +1899,26 @@
       {
        "h": "得",
        "py": "de",
-       "gl": "particle linking a verb to its degree or result (做得好 done well)",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
        "pos": "particle"
       },
       {
-       "h": "入神",
-       "py": "rùshén",
-       "gl": "engrossed; absorbed",
-       "pos": "adj."
+       "h": "入",
+       "py": "rù",
+       "gl": "enter",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "迷",
+       "py": "mí",
+       "gl": "fan; enthusiast",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -1904,12 +1930,6 @@
        "pos": "n."
       },
       {
-       "h": "却",
-       "py": "què",
-       "gl": "but; yet",
-       "pos": "conj."
-      },
-      {
        "h": "响",
        "py": "xiǎng",
        "gl": "ring; make a sound",
@@ -1918,7 +1938,7 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
@@ -1927,25 +1947,46 @@
      ]
     },
     {
-     "en": "the takeout my friend had ordered had arrived,",
+     "en": "a friend had sent a photo of the pre-made dish he'd ordered — three minutes in the microwave and it was ready to eat.",
      "words": [
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
       {
        "h": "朋友",
        "py": "péngyǒu",
        "gl": "friend",
        "pos": "n."
+      },
+      {
+       "h": "发来",
+       "py": "fālái",
+       "gl": "send (to me); sent",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "张",
+       "py": "zhāng",
+       "gl": "measure word for flat objects (paper, photos, tables)",
+       "pos": "measure word"
+      },
+      {
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
        "h": "点",
@@ -1960,31 +2001,14 @@
        "pos": "particle"
       },
       {
-       "h": "外卖",
-       "py": "wàimài",
-       "gl": "takeout; food delivery",
+       "h": "预制菜",
+       "py": "yùzhìcài",
+       "gl": "pre-made dishes",
        "pos": "n."
       },
       {
-       "h": "到",
-       "py": "dào",
-       "gl": "to (a place); up to; (resultative complement: achieve, reach)",
-       "pos": "v."
+       "h": "，"
       },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "——"
-      }
-     ]
-    },
-    {
-     "en": "a prepared meal that goes on the table after a few minutes in the microwave.",
-     "words": [
       {
        "h": "微波炉",
        "py": "wēibōlú",
@@ -1992,36 +2016,33 @@
        "pos": "n."
       },
       {
-       "h": "加热",
-       "py": "jiārè",
-       "gl": "heat; heating",
-       "pos": "v."
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
+       "h": "热",
+       "py": "rè",
+       "gl": "hot",
+       "pos": "adj."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
        "pos": "num."
       },
       {
        "h": "分钟",
        "py": "fēnzhōng",
        "gl": "minute",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "预制菜",
-       "py": "yùzhìcài",
-       "gl": "pre-made meal; ready meal",
-       "pos": "n."
+       "pos": "measure word"
       },
       {
        "h": "就",
        "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
@@ -2031,9 +2052,9 @@
        "pos": "v."
       },
       {
-       "h": "上桌",
-       "py": "shàngzhuō",
-       "gl": "be served (at the table); serve",
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
        "pos": "v."
       },
       {
@@ -2044,10 +2065,10 @@
    ]
   },
   {
-   "en": "The master glanced at it, sighed, and said that in recent years many young people have come to rely on prepared meals like this, but he has always held that a machine can never learn the true flavor.",
+   "en": "Master Liang glanced at it and sighed: young people these days rely more and more on pre-made dishes.",
    "phrases": [
     {
-     "en": "The master glanced at it, sighed, and said",
+     "en": "Master Liang glanced at it and sighed:",
      "words": [
       {
        "h": "师傅",
@@ -2064,14 +2085,14 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
        "h": "一眼",
        "py": "yīyǎn",
        "gl": "one glance; at a glance",
-       "pos": "num."
+       "pos": "measure word"
       },
       {
        "h": "，"
@@ -2085,40 +2106,40 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "口气",
-       "py": "kǒuqì",
-       "gl": "breath (叹了口气 sighed; 松了口气 breathed a sigh of relief)",
+       "h": "口",
+       "py": "kǒu",
+       "gl": "(measure word for a breath)",
+       "pos": "measure word"
+      },
+      {
+       "h": "气",
+       "py": "qì",
+       "gl": "breath; sigh",
        "pos": "n."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
+       "h": "："
       }
      ]
     },
     {
-     "en": "that in recent years many young people have come to rely on prepared meals like this,",
+     "en": "young people these days rely more and more on pre-made dishes.",
      "words": [
       {
-       "h": "这几年",
-       "py": "zhèjǐnián",
-       "gl": "these past few years; in recent years",
-       "pos": "n."
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
       },
       {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "num."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "年轻人",
@@ -2127,36 +2148,50 @@
        "pos": "n."
       },
       {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
+       "h": "，"
+      },
+      {
+       "h": "越来越",
+       "py": "yuèláiyuè",
+       "gl": "more and more",
+       "pos": "adv."
+      },
+      {
+       "h": "离不开",
+       "py": "líbùkāi",
+       "gl": "can't do without",
        "pos": "v."
       },
       {
-       "h": "依赖",
-       "py": "yīlài",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
+       "h": "这些",
+       "py": "zhèxiē",
+       "gl": "these",
        "pos": "pron."
       },
       {
        "h": "预制菜",
        "py": "yùzhìcài",
-       "gl": "pre-made meal; ready meal",
+       "gl": "pre-made dishes",
        "pos": "n."
       },
       {
-       "h": "，"
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "But then he said the problem wasn't pre-made food itself; customers just want to know what they're eating and decide for themselves whether convenience is worth the extra money.",
+   "phrases": [
     {
-     "en": "but he has always held that a machine can never learn the true flavor.",
+     "en": "But then he said the problem wasn't pre-made food itself;",
      "words": [
       {
        "h": "可",
@@ -2171,166 +2206,25 @@
        "pos": "pron."
       },
       {
-       "h": "始终",
-       "py": "shǐzhōng",
-       "gl": "always; from start to finish",
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
        "pos": "adv."
       },
       {
-       "h": "坚持",
-       "py": "jiānchí",
-       "gl": "persist; keep at it; insist",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "real; true; genuine",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "味道",
-       "py": "wèidào",
-       "gl": "taste; flavor",
+       "h": "问题",
+       "py": "wèntí",
+       "gl": "problem; trouble",
        "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "机器",
-       "py": "jīqì",
-       "gl": "machine",
-       "pos": "n."
-      },
-      {
-       "h": "学不会",
-       "py": "xuébúhuì",
-       "gl": "be unable to learn",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "He also admitted that behind this is really consumers' right to know and right to choose: many people aren't against prepared meals as such; they just want to be told, and to decide for themselves whether to pay a little more for the convenience.",
-   "phrases": [
-    {
-     "en": "He also admitted that behind this is really consumers' right to know and right to choose:",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "承认",
-       "py": "chéngrèn",
-       "gl": "admit; acknowledge",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "背后",
-       "py": "bèihòu",
-       "gl": "behind",
-       "pos": "n."
-      },
-      {
-       "h": "其实",
-       "py": "qíshí",
-       "gl": "actually; in fact",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "消费者",
-       "py": "xiāofèizhě",
-       "gl": "consumer",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "知情权",
-       "py": "zhīqíngquán",
-       "gl": "right to know",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "选择权",
-       "py": "xuǎnzéquán",
-       "gl": "right to choose",
-       "pos": "n."
-      },
-      {
-       "h": "——"
-      }
-     ]
-    },
-    {
-     "en": "many people aren't against prepared meals as such;",
-     "words": [
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of",
-       "pos": "pron."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "adv."
       },
       {
        "h": "不",
@@ -2339,15 +2233,15 @@
        "pos": "adv."
       },
       {
-       "h": "反对",
-       "py": "fǎnduì",
-       "gl": "oppose; be against; objection",
-       "pos": "v."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
        "h": "预制菜",
        "py": "yùzhìcài",
-       "gl": "pre-made meal; ready meal",
+       "gl": "pre-made dishes",
        "pos": "n."
       },
       {
@@ -2362,8 +2256,14 @@
      ]
     },
     {
-     "en": "they just want to be told, and to decide for themselves whether to pay a little more for the convenience.",
+     "en": "customers just want to know what they're eating and decide for themselves whether convenience is worth the extra money.",
      "words": [
+      {
+       "h": "客人",
+       "py": "kèrén",
+       "gl": "guest; customer",
+       "pos": "n."
+      },
       {
        "h": "只是",
        "py": "zhǐshì",
@@ -2371,21 +2271,9 @@
        "pos": "adv."
       },
       {
-       "h": "希望",
-       "py": "xīwàng",
-       "gl": "hope; wish",
-       "pos": "v."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
        "pos": "v."
       },
       {
@@ -2395,13 +2283,37 @@
        "pos": "v."
       },
       {
-       "h": "，"
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
       },
       {
-       "h": "并",
-       "py": "bìng",
-       "gl": "and; also; moreover",
-       "pos": "conj."
+       "h": "吃",
+       "py": "chī",
+       "gl": "eat",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "自己",
@@ -2412,13 +2324,25 @@
       {
        "h": "决定",
        "py": "juédìng",
-       "gl": "decide",
+       "gl": "decide; decision",
        "pos": "v."
       },
       {
-       "h": "要不要",
-       "py": "yàobùyào",
-       "gl": "do you want to; whether or not to",
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
        "pos": "v."
       },
       {
@@ -2436,20 +2360,14 @@
       {
        "h": "多",
        "py": "duō",
-       "gl": "more (than)",
-       "pos": "adv."
+       "gl": "many; much",
+       "pos": "adj."
       },
       {
        "h": "花",
        "py": "huā",
-       "gl": "spend (time, money); flower",
+       "gl": "flower; spend (time, money)",
        "pos": "v."
-      },
-      {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "a little; some (一点)",
-       "pos": "num."
       },
       {
        "h": "钱",
@@ -2465,22 +2383,22 @@
    ]
   },
   {
-   "en": "The relevant government departments are also hurrying to draw up a unified standard requiring restaurants that use prepared meals to tell customers upfront, rather than quietly serving them.",
+   "en": "Now the authorities are setting standards, too, requiring restaurants that use pre-made dishes to tell customers, not slip them onto the table quietly.",
    "phrases": [
     {
-     "en": "The relevant government departments are also hurrying to draw up a unified standard",
+     "en": "Now the authorities are setting standards, too,",
      "words": [
       {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "state; country",
-       "pos": "n."
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
       },
       {
        "h": "有关",
        "py": "yǒuguān",
-       "gl": "relevant; concerned (有关部门 relevant authorities)",
-       "pos": "adj."
+       "gl": "be related to; have to do with",
+       "pos": "v."
       },
       {
        "h": "部门",
@@ -2497,26 +2415,14 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on; be (at, in); particle: action in progress (他在吃 'he is eating')",
-       "pos": "adv."
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
-       "h": "加紧",
-       "py": "jiājǐn",
-       "gl": "step up; speed up",
+       "h": "定",
+       "py": "dìng",
+       "gl": "set; fix (a time)",
        "pos": "v."
-      },
-      {
-       "h": "制定",
-       "py": "zhìdìng",
-       "gl": "draw up; formulate (a plan)",
-       "pos": "v."
-      },
-      {
-       "h": "统一",
-       "py": "tǒngyī",
-       "gl": "unify; unite; unified",
-       "pos": "adj."
       },
       {
        "h": "标准",
@@ -2530,7 +2436,7 @@
      ]
     },
     {
-     "en": "requiring restaurants that use prepared meals to tell customers upfront,",
+     "en": "requiring restaurants that use pre-made dishes to tell customers, not slip them onto the table quietly.",
      "words": [
       {
        "h": "要求",
@@ -2545,27 +2451,21 @@
        "pos": "n."
       },
       {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "使用",
-       "py": "shǐyòng",
+       "h": "用",
+       "py": "yòng",
        "gl": "use",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
        "h": "预制菜",
        "py": "yùzhìcài",
-       "gl": "pre-made meal; ready meal",
+       "gl": "pre-made dishes",
        "pos": "n."
       },
       {
@@ -2574,7 +2474,7 @@
       {
        "h": "就",
        "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
@@ -2584,36 +2484,25 @@
        "pos": "v."
       },
       {
-       "h": "主动",
-       "py": "zhǔdòng",
-       "gl": "on one's own initiative; proactively",
-       "pos": "adv."
-      },
-      {
-       "h": "告知",
-       "py": "gàozhī",
-       "gl": "inform; notify",
+       "h": "告诉",
+       "py": "gàosù",
+       "gl": "tell",
        "pos": "v."
       },
       {
-       "h": "顾客",
-       "py": "gùkè",
-       "gl": "customer",
+       "h": "客人",
+       "py": "kèrén",
+       "gl": "guest; customer",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "rather than quietly serving them.",
-     "words": [
+      },
       {
-       "h": "而不是",
-       "py": "érbúshì",
-       "gl": "rather than; instead of",
-       "pos": "conj."
+       "h": "不能",
+       "py": "bùnéng",
+       "gl": "cannot; must not",
+       "pos": "v."
       },
       {
        "h": "悄悄",
@@ -2622,10 +2511,22 @@
        "pos": "adv."
       },
       {
-       "h": "端上桌",
-       "py": "duānshàngzhuō",
-       "gl": "serve (food) at the table",
+       "h": "端",
+       "py": "duān",
+       "gl": "carry (with both hands); serve",
        "pos": "v."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "桌",
+       "py": "zhuō",
+       "gl": "table",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -2635,10 +2536,10 @@
    ]
   },
   {
-   "en": "When the master takes on apprentices, he never teaches just knife work and seasoning ratios; he also explains the history behind each dish. He said he even tastes everything himself every day, and if a dish is a pinch short on salt or a few seconds off on the heat, he fixes it right away.",
+   "en": "Every day before opening, Master Liang tastes every sauce; a pinch short on salt or a few seconds short on heat, and it's done over.",
    "phrases": [
     {
-     "en": "When the master takes on apprentices, he never teaches just knife work and seasoning ratios;",
+     "en": "Every day before opening, Master Liang tastes every sauce;",
      "words": [
       {
        "h": "师傅",
@@ -2647,164 +2548,28 @@
        "pos": "n."
       },
       {
-       "h": "收",
-       "py": "shōu",
-       "gl": "take in; adopt; receive",
-       "pos": "v."
-      },
-      {
-       "h": "学徒",
-       "py": "xuétú",
-       "gl": "apprentice",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "从不",
-       "py": "cóngbù",
-       "gl": "never",
-       "pos": "adv."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "教",
-       "py": "jiào",
-       "gl": "teach",
-       "pos": "v."
-      },
-      {
-       "h": "刀工",
-       "py": "dāogōng",
-       "gl": "knife skills",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "配料",
-       "py": "pèiliào",
-       "gl": "ingredients; seasonings",
-       "pos": "n."
-      },
-      {
-       "h": "比例",
-       "py": "bǐlì",
-       "gl": "proportion; ratio",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "he also explains the history behind each dish.",
-     "words": [
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "even more; more",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "讲清楚",
-       "py": "jiǎngqīngchǔ",
-       "gl": "explain clearly",
-       "pos": "v."
-      },
-      {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
        "pos": "pron."
-      },
-      {
-       "h": "道",
-       "py": "dào",
-       "gl": "measure word for exam questions, dishes",
-       "pos": "measure word"
-      },
-      {
-       "h": "菜",
-       "py": "cài",
-       "gl": "dish (food)",
-       "pos": "n."
-      },
-      {
-       "h": "背后",
-       "py": "bèihòu",
-       "gl": "behind",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "历史",
-       "py": "lìshǐ",
-       "gl": "history",
-       "pos": "n."
-      },
-      {
-       "h": "——"
-      }
-     ]
-    },
-    {
-     "en": "He said he even tastes everything himself every day,",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "adv."
       },
       {
        "h": "每天",
        "py": "měitiān",
        "gl": "every day",
-       "pos": "adv."
+       "pos": "n."
+      },
+      {
+       "h": "开门",
+       "py": "kāimén",
+       "gl": "open (for business); open the door",
+       "pos": "v."
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "before",
+       "pos": "postposition"
       },
       {
        "h": "都",
@@ -2819,16 +2584,22 @@
        "pos": "v."
       },
       {
-       "h": "亲自",
-       "py": "qīnzì",
-       "gl": "personally; in person",
+       "h": "尝",
+       "py": "cháng",
+       "gl": "taste; try (food)",
+       "pos": "v."
+      },
+      {
+       "h": "一遍",
+       "py": "yībiàn",
+       "gl": "once (from start to finish); one time through",
        "pos": "adv."
       },
       {
-       "h": "试味",
-       "py": "shìwèi",
-       "gl": "taste (to check seasoning)",
-       "pos": "v."
+       "h": "酱汁",
+       "py": "jiàngzhī",
+       "gl": "sauce",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -2836,19 +2607,19 @@
      ]
     },
     {
-     "en": "and if a dish is a pinch short on salt or a few seconds off on the heat, he fixes it right away.",
+     "en": "a pinch short on salt or a few seconds short on heat, and it's done over.",
      "words": [
       {
        "h": "差",
        "py": "chà",
-       "gl": "differ by; lack; poor; bad",
+       "gl": "to lack, be short of",
        "pos": "v."
       },
       {
        "h": "一点",
        "py": "yìdiǎn",
        "gl": "a little; a bit",
-       "pos": "num."
+       "pos": "adv."
       },
       {
        "h": "盐",
@@ -2857,12 +2628,12 @@
        "pos": "n."
       },
       {
-       "h": "、"
+       "h": "，"
       },
       {
        "h": "差",
        "py": "chà",
-       "gl": "differ by; lack; poor; bad",
+       "gl": "to lack, be short of",
        "pos": "v."
       },
       {
@@ -2872,15 +2643,15 @@
        "pos": "num."
       },
       {
-       "h": "秒钟",
-       "py": "miǎozhōng",
+       "h": "秒",
+       "py": "miǎo",
        "gl": "second",
-       "pos": "n."
+       "pos": "measure word"
       },
       {
-       "h": "火候",
-       "py": "huǒhòu",
-       "gl": "heat control; cooking time (in cooking)",
+       "h": "火",
+       "py": "huǒ",
+       "gl": "internal heat (TCM); fire",
        "pos": "n."
       },
       {
@@ -2899,21 +2670,15 @@
        "pos": "v."
       },
       {
-       "h": "立刻",
-       "py": "lìkè",
-       "gl": "immediately; at once",
-       "pos": "adv."
-      },
-      {
        "h": "重新",
        "py": "chóngxīn",
        "gl": "again; anew",
        "pos": "adv."
       },
       {
-       "h": "调整",
-       "py": "tiáozhěng",
-       "gl": "adjust; tune",
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
        "pos": "v."
       },
       {
@@ -2924,10 +2689,10 @@
    ]
   },
   {
-   "en": "He isn't against innovation either: in recent years many young chefs have been combining Western-style plating with Chinese flavors, and he thinks that's fine, but he insists on one thing: master the fundamentals first, then talk about innovation.",
+   "en": "He isn't against new ideas either: young chefs plating in the Western style is fine by him, with just one condition: master the basics first.",
    "phrases": [
     {
-     "en": "He isn't against innovation either: in recent years many young chefs have been combining Western-style plating with Chinese flavors,",
+     "en": "He isn't against new ideas either:",
      "words": [
       {
        "h": "他",
@@ -2950,30 +2715,29 @@
       {
        "h": "反对",
        "py": "fǎnduì",
-       "gl": "oppose; be against; objection",
+       "gl": "oppose; be against",
        "pos": "v."
       },
       {
-       "h": "创新",
-       "py": "chuàngxīn",
-       "gl": "innovation; innovate",
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
+       "pos": "adj."
+      },
+      {
+       "h": "花样",
+       "py": "huāyàng",
+       "gl": "fancy move; trick",
        "pos": "n."
       },
       {
        "h": "："
-      },
-      {
-       "h": "这几年",
-       "py": "zhèjǐnián",
-       "gl": "these past few years; in recent years",
-       "pos": "n."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "num."
-      },
+      }
+     ]
+    },
+    {
+     "en": "young chefs plating in the Western style is fine by him,",
+     "words": [
       {
        "h": "年轻",
        "py": "niánqīng",
@@ -2987,10 +2751,10 @@
        "pos": "n."
       },
       {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
       },
       {
        "h": "西式",
@@ -2999,49 +2763,32 @@
        "pos": "adj."
       },
       {
-       "h": "摆盘",
-       "py": "bǎipán",
-       "gl": "plating; presentation (of food)",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "方法",
+       "py": "fāngfǎ",
+       "gl": "method; way",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
+       "h": "摆",
+       "py": "bǎi",
+       "gl": "to lay out",
+       "pos": "v."
       },
       {
-       "h": "中式",
-       "py": "zhōngshì",
-       "gl": "Chinese-style",
-       "pos": "adj."
-      },
-      {
-       "h": "口味",
-       "py": "kǒuwèi",
-       "gl": "flavor",
+       "h": "盘",
+       "py": "pán",
+       "gl": "plate, dish",
        "pos": "n."
-      },
-      {
-       "h": "结合",
-       "py": "jiéhé",
-       "gl": "combine; integrate",
-       "pos": "v."
-      },
-      {
-       "h": "起来",
-       "py": "qǐlái",
-       "gl": "complement: start to (火了起来 became popular); up",
-       "pos": "v."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and he thinks that's fine, but he insists on one thing:",
-     "words": [
+      },
       {
        "h": "他",
        "py": "tā",
@@ -3051,7 +2798,7 @@
       {
        "h": "觉得",
        "py": "juéde",
-       "gl": "think; feel",
+       "gl": "feel; think",
        "pos": "v."
       },
       {
@@ -3068,7 +2815,12 @@
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "with just one condition: master the basics first.",
+     "words": [
       {
        "h": "只是",
        "py": "zhǐshì",
@@ -3076,16 +2828,10 @@
        "pos": "adv."
       },
       {
-       "h": "坚持",
-       "py": "jiānchí",
-       "gl": "insist",
-       "pos": "v."
-      },
-      {
        "h": "一",
-       "py": "yí",
-       "gl": "one",
-       "pos": "num."
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
+       "pos": "adv."
       },
       {
        "h": "句",
@@ -3100,13 +2846,8 @@
        "pos": "n."
       },
       {
-       "h": "——"
-      }
-     ]
-    },
-    {
-     "en": "master the fundamentals first, then talk about innovation.",
-     "words": [
+       "h": "："
+      },
       {
        "h": "先",
        "py": "xiān",
@@ -3114,10 +2855,10 @@
        "pos": "adv."
       },
       {
-       "h": "练好",
-       "py": "liànhǎo",
-       "gl": "master (by practicing)",
-       "pos": "v."
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
       },
       {
        "h": "基本功",
@@ -3126,25 +2867,16 @@
        "pos": "n."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "then; only then",
-       "pos": "adv."
-      },
-      {
-       "h": "谈",
-       "py": "tán",
-       "gl": "talk; discuss",
+       "h": "练",
+       "py": "liàn",
+       "gl": "practice; train",
        "pos": "v."
       },
       {
-       "h": "创新",
-       "py": "chuàngxīn",
-       "gl": "innovation; innovate",
-       "pos": "n."
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
       },
       {
        "h": "。"
@@ -3154,73 +2886,43 @@
    ]
   },
   {
-   "en": "Before I left, the master had me cook that plate of greens again on my own. This time the wok was hot enough, I started tossing the moment the oil went in, and in under a minute it was out of the wok.",
+   "en": "Before closing time, he set that iron wok in front of me again.",
    "phrases": [
     {
-     "en": "Before I left, the master had me cook that plate of greens again on my own.",
+     "en": "Before closing time, he set that iron wok in front of me again.",
      "words": [
       {
-       "h": "临走",
-       "py": "línzǒu",
-       "gl": "before leaving",
-       "pos": "adv."
+       "h": "下班",
+       "py": "xiàbān",
+       "gl": "get off work; finish work",
+       "pos": "v."
       },
       {
        "h": "前",
        "py": "qián",
-       "gl": "ago; before",
-       "pos": "n."
+       "gl": "before",
+       "pos": "postposition"
       },
       {
        "h": "，"
       },
       {
-       "h": "师傅",
-       "py": "shīfù",
-       "gl": "master (polite address for a skilled worker); master craftsman",
-       "pos": "n."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
        "pos": "pron."
       },
       {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
       },
       {
-       "h": "炒",
-       "py": "chǎo",
-       "gl": "stir-fry",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "盘",
-       "py": "pán",
-       "gl": "measure word for plates/dishes (一盘青菜 a plate of greens); plate",
-       "pos": "measure word"
-      },
-      {
-       "h": "刚才",
-       "py": "gāngcái",
-       "gl": "just now; a moment ago",
-       "pos": "n."
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
       },
       {
        "h": "那",
@@ -3229,24 +2931,59 @@
        "pos": "pron."
       },
       {
-       "h": "道",
-       "py": "dào",
-       "gl": "measure word for exam questions, dishes",
+       "h": "口",
+       "py": "kǒu",
+       "gl": "(measure word for woks, pots)",
        "pos": "measure word"
       },
       {
-       "h": "青菜",
-       "py": "qīngcài",
-       "gl": "green vegetables; leafy greens",
+       "h": "铁锅",
+       "py": "tiěguō",
+       "gl": "cast-iron wok",
        "pos": "n."
       },
       {
-       "h": "——"
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at; on",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "面前",
+       "py": "miànqián",
+       "gl": "in front of; before (真理面前 before the truth)",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "This time the wok was heated until it gave off blue smoke; the moment the oil went in, I started tossing, and in under a minute it was off the heat.",
+   "phrases": [
     {
-     "en": "This time the wok was hot enough, I started tossing the moment the oil went in,",
+     "en": "This time the wok was heated until it gave off blue smoke;",
      "words": [
       {
        "h": "这",
@@ -3278,30 +3015,47 @@
       {
        "h": "烧",
        "py": "shāo",
-       "gl": "burn; heat; cook",
+       "gl": "to heat",
        "pos": "v."
       },
       {
        "h": "得",
        "py": "de",
-       "gl": "particle linking a verb to its degree or result (做得好 done well)",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
        "pos": "particle"
       },
       {
-       "h": "够",
-       "py": "gòu",
-       "gl": "enough",
-       "pos": "adv."
+       "h": "冒",
+       "py": "mào",
+       "gl": "to give off",
+       "pos": "v."
       },
       {
-       "h": "热",
-       "py": "rè",
-       "gl": "hot",
-       "pos": "adj."
+       "h": "起",
+       "py": "qǐ",
+       "gl": "(complement: up)",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "青烟",
+       "py": "qīngyān",
+       "gl": "blue smoke",
+       "pos": "n."
       },
       {
        "h": "，"
-      },
+      }
+     ]
+    },
+    {
+     "en": "the moment the oil went in, I started tossing, and in under a minute it was off the heat.",
+     "words": [
       {
        "h": "油",
        "py": "yóu",
@@ -3310,15 +3064,18 @@
       },
       {
        "h": "一",
-       "py": "yī",
-       "gl": "as soon as (一…就… no sooner … than)",
-       "pos": "adv."
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
       },
       {
        "h": "下锅",
        "py": "xiàguō",
        "gl": "put into the wok; go into the pot",
        "pos": "v."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "我",
@@ -3329,13 +3086,7 @@
       {
        "h": "就",
        "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "立刻",
-       "py": "lìkè",
-       "gl": "immediately; at once",
+       "gl": "right away; then; just (emphasis)",
        "pos": "adv."
       },
       {
@@ -3346,12 +3097,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and in under a minute it was out of the wok.",
-     "words": [
+      },
       {
        "h": "不到",
        "py": "búdào",
@@ -3368,12 +3114,12 @@
        "h": "分钟",
        "py": "fēnzhōng",
        "gl": "minute",
-       "pos": "n."
+       "pos": "measure word"
       },
       {
        "h": "就",
        "py": "jiù",
-       "gl": "then; right away",
+       "gl": "right away; then; just (emphasis)",
        "pos": "adv."
       },
       {
@@ -3385,7 +3131,7 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
@@ -3396,20 +3142,11 @@
    ]
   },
   {
-   "en": "This time the greens were crisp, tender and bright green. The master took a bite, gave one of his rare smiles, and said, \"Now that's huohou.\"",
+   "en": "The greens were crisp and tender, bright green.",
    "phrases": [
     {
-     "en": "This time the greens were crisp, tender and bright green.",
+     "en": "The greens were crisp and tender, bright green.",
      "words": [
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "，"
-      },
       {
        "h": "青菜",
        "py": "qīngcài",
@@ -3420,12 +3157,6 @@
        "h": "脆嫩",
        "py": "cuìnèn",
        "gl": "crisp and tender",
-       "pos": "adj."
-      },
-      {
-       "h": "爽口",
-       "py": "shuǎngkǒu",
-       "gl": "refreshing (to the palate)",
        "pos": "adj."
       },
       {
@@ -3444,12 +3175,17 @@
        "pos": "adj."
       },
       {
-       "h": "——"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "He tasted a bite and smiled for the first time in three days. \"Now that's heat control.\"",
+   "phrases": [
     {
-     "en": "The master took a bite, gave one of his rare smiles, and said,",
+     "en": "He tasted a bite and smiled for the first time in three days. \"Now that's heat control.\"",
      "words": [
       {
        "h": "师傅",
@@ -3466,28 +3202,40 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yì",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "口",
-       "py": "kǒu",
-       "gl": "measure word for mouthfuls, breaths, wells, pots; mouth",
+       "h": "一口",
+       "py": "yìkǒu",
+       "gl": "a mouthful; a bite",
        "pos": "measure word"
       },
       {
        "h": "，"
       },
       {
-       "h": "难得地",
-       "py": "nándéde",
-       "gl": "for once; rarely",
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
+       "pos": "n."
+      },
+      {
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
+      },
+      {
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
        "pos": "adv."
       },
       {
@@ -3499,26 +3247,12 @@
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
        "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"Now that's huohou.\"",
-     "words": [
+      },
       {
        "h": "“"
       },
@@ -3531,7 +3265,7 @@
       {
        "h": "才",
        "py": "cái",
-       "gl": "only then; not until; only; (emphasis) really",
+       "gl": "only then; not until",
        "pos": "adv."
       },
       {
@@ -3542,12 +3276,15 @@
       },
       {
        "h": "火候",
-       "py": "huǒhòu",
-       "gl": "heat control; cooking time (in cooking)",
+       "py": "huǒhou",
+       "gl": "heat control (in cooking)",
        "pos": "n."
       },
       {
-       "h": "。”"
+       "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }

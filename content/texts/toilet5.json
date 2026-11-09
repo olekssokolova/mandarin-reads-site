@@ -1,56 +1,176 @@
 {
  "id": "toilet5",
  "level": 5,
- "title_zh": "找公共厕所",
- "title_en": "Finding a Public Restroom",
+ "title_zh": "胡同里的三分钟",
+ "title_en": "Three Minutes in a Hutong",
  "free": false,
  "audio_url": null,
- "note_en": "In 门口挂着指示牌，写着\"男\"和\"女\", 着 after a verb describes a lasting state: 挂着 \"is hanging,\" 写着 \"has written on it.\" The structure place + verb + 着 + thing is how Chinese says what is found somewhere, where English uses \"there is\" or a passive: \"there's a sign hanging at the door, with 'Men' and 'Women' written on it.\"",
+ "note_en": "The suffix 着 after a verb describes a state left by an action: 门口挂着清楚的指示牌 \"a clear sign hangs at the entrance\" (someone hung it, and now it's hanging there); 上面写着“男”和“女” \"it says 'Men' and 'Women'.\" In descriptions like these, the place comes first, then the verb with 着, then what's there — much like English \"On the door was written…\"",
  "sentences": [
   {
-   "en": "When you're traveling in China, finding a public restroom actually isn't hard, but there are a few details worth knowing.",
+   "en": "In the middle of a hutong, Amy tugged at Mark's sleeve and said the words every dad dreads: \"Daddy, I need the toilet, right now!\"",
    "phrases": [
     {
-     "en": "When you're traveling in China, finding a public restroom actually isn't hard,",
+     "en": "In the middle of a hutong, Amy tugged at Mark's sleeve and said the words every dad dreads: \"Daddy, I need the toilet, right now!\"",
      "words": [
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "中国",
-       "py": "Zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
+       "h": "胡同",
+       "py": "hútòng",
+       "gl": "hutong; alley",
+       "pos": "n."
       },
       {
-       "h": "旅行",
-       "py": "lǚxíng",
-       "gl": "travel; trip",
-       "pos": "v."
-      },
-      {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; during",
-       "pos": "function word"
+       "h": "中间",
+       "py": "zhōngjiān",
+       "gl": "middle; in the middle",
+       "pos": "postposition"
       },
       {
        "h": "，"
       },
       {
-       "h": "找",
-       "py": "zhǎo",
-       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
+       "h": "艾米",
+       "py": "Àimǐ",
+       "gl": "Amy",
+       "pos": "proper noun"
+      },
+      {
+       "h": "拉",
+       "py": "lā",
+       "gl": "pull; stretch (out); lengthen; hold (someone's hand); play (a bowed string instrument)",
        "pos": "v."
       },
       {
-       "h": "公共",
-       "py": "gōnggòng",
-       "gl": "public",
-       "pos": "adj."
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "马克",
+       "py": "Mǎkè",
+       "gl": "Mark (Mark Vande Hei)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "袖子",
+       "py": "xiùzi",
+       "gl": "sleeve",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "句",
+       "py": "jù",
+       "gl": "measure word for sentences and remarks",
+       "pos": "measure word"
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "make (someone do); cause",
+       "pos": "v."
+      },
+      {
+       "h": "所有",
+       "py": "suǒyǒu",
+       "gl": "all; every",
+       "pos": "pron."
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "害怕",
+       "py": "hàipà",
+       "gl": "be afraid; fear",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "话",
+       "py": "huà",
+       "gl": "words; speech; what someone says",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "我",
+       "py": "wǒ",
+       "gl": "I; me",
+       "pos": "pron."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
       },
       {
        "h": "厕所",
@@ -59,65 +179,242 @@
        "pos": "n."
       },
       {
-       "h": "其实",
-       "py": "qíshí",
-       "gl": "actually; in fact",
+       "h": "，"
+      },
+      {
+       "h": "马上",
+       "py": "mǎshàng",
+       "gl": "immediately; right away",
        "pos": "adv."
       },
       {
-       "h": "不算",
-       "py": "búsuàn",
-       "gl": "not count as; not be considered",
+       "h": "！"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She was five, and her \"right now\" meant three minutes.",
+   "phrases": [
+    {
+     "en": "She was five, and her \"right now\" meant three minutes.",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
+       "pos": "num."
+      },
+      {
+       "h": "岁",
+       "py": "suì",
+       "gl": "year (of age): years old",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "难事",
-       "py": "nánshì",
-       "gl": "difficult thing",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "马上",
+       "py": "mǎshàng",
+       "gl": "immediately; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就是",
+       "py": "jiùshì",
+       "gl": "just; simply; exactly",
+       "pos": "adv."
+      },
+      {
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "分钟",
+       "py": "fēnzhōng",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Mark remembered the stories friends had told him twenty years ago about Beijing's toilets — stories not fit for a child's ears.",
+   "phrases": [
+    {
+     "en": "Mark remembered the stories friends had told him twenty years ago about Beijing's toilets — stories not fit for a child's ears.",
+     "words": [
+      {
+       "h": "马克",
+       "py": "Mǎkè",
+       "gl": "Mark (Mark Vande Hei)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "记得",
+       "py": "jìde",
+       "gl": "remember",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "二十",
+       "py": "èrshí",
+       "gl": "twenty",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "前",
+       "py": "qián",
+       "gl": "ago; before",
+       "pos": "postposition"
+      },
+      {
+       "h": "朋友",
+       "py": "péngyǒu",
+       "gl": "friend",
+       "pos": "n."
+      },
+      {
+       "h": "们",
+       "py": "men",
+       "gl": "plural suffix for people",
+       "pos": "particle"
+      },
+      {
+       "h": "讲",
+       "py": "jiǎng",
+       "gl": "tell; talk about",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "北京",
+       "py": "běijīng",
+       "gl": "Beijing",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "厕所",
+       "py": "cèsuǒ",
+       "gl": "toilet; restroom",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but there are a few details worth knowing.",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "一些",
-       "py": "yìxiē",
-       "gl": "some; a few",
+       "h": "那些",
+       "py": "nàxiē",
+       "gl": "those",
        "pos": "pron."
       },
       {
-       "h": "细节",
-       "py": "xìjié",
-       "gl": "detail",
+       "h": "故事",
+       "py": "gùshì",
+       "gl": "story",
        "pos": "n."
       },
       {
-       "h": "值得",
-       "py": "zhíde",
-       "gl": "be worth; deserve",
+       "h": "，"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "适合",
+       "py": "shìhé",
+       "gl": "suit; be suitable for",
        "pos": "v."
       },
       {
-       "h": "注意",
-       "py": "zhùyì",
-       "gl": "pay attention to; be careful about",
+       "h": "讲",
+       "py": "jiǎng",
+       "gl": "tell; talk about",
+       "pos": "v."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "孩子",
+       "py": "háizi",
+       "gl": "child",
+       "pos": "n."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
        "pos": "v."
       },
       {
@@ -128,105 +425,138 @@
    ]
   },
   {
-   "en": "Subway stations, malls, and parks in big cities usually have free public restrooms, typically with clear signs hanging at the entrance that say 男 \"men\" and 女 \"women\"; some are also marked \"third restroom,\" a family restroom for people with children or limited mobility.",
+   "en": "He opened the map on his phone and typed \"toilets nearby.\"",
    "phrases": [
     {
-     "en": "Subway stations, malls, and parks in big cities usually have free public restrooms,",
+     "en": "He opened the map on his phone and typed \"toilets nearby.\"",
      "words": [
       {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
       },
       {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "地铁站",
-       "py": "dìtiězhàn",
-       "gl": "subway station",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "商场",
-       "py": "shāngchǎng",
-       "gl": "shopping mall",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "公园",
-       "py": "gōngyuán",
-       "gl": "park",
-       "pos": "n."
-      },
-      {
-       "h": "通常",
-       "py": "tōngcháng",
-       "gl": "usually; normally",
-       "pos": "adv."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "设有",
-       "py": "shèyǒu",
-       "gl": "have; be equipped with",
+       "h": "打开",
+       "py": "dǎkāi",
+       "gl": "open",
        "pos": "v."
       },
       {
-       "h": "免费",
-       "py": "miǎnfèi",
-       "gl": "free (of charge)",
-       "pos": "adj."
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "公共",
-       "py": "gōnggòng",
-       "gl": "public",
-       "pos": "adj."
-      },
-      {
-       "h": "卫生间",
-       "py": "wèishēngjiān",
-       "gl": "bathroom; restroom",
+       "h": "地图",
+       "py": "dìtú",
+       "gl": "map",
        "pos": "n."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "输入",
+       "py": "shūrù",
+       "gl": "input; enter; type in",
+       "pos": "v."
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "附近",
+       "py": "fùjìn",
+       "gl": "nearby; vicinity",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "厕所",
+       "py": "cèsuǒ",
+       "gl": "toilet; restroom",
+       "pos": "n."
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "A hundred and twenty meters, just around the corner.",
+   "phrases": [
     {
-     "en": "typically with clear signs hanging at the entrance that say 男 \"men\" and 女 \"women\";",
+     "en": "A hundred and twenty meters, just around the corner.",
+     "words": [
+      {
+       "h": "一百二十",
+       "py": "yìbǎièrshí",
+       "gl": "one hundred twenty",
+       "pos": "num."
+      },
+      {
+       "h": "米",
+       "py": "mǐ",
+       "gl": "meter",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "拐",
+       "py": "guǎi",
+       "gl": "turn (left/right)",
+       "pos": "v."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "弯",
+       "py": "wān",
+       "gl": "bend; turn",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A clear sign hung at the entrance, marked \"Men\" and \"Women,\" and beside them was another door marked \"Third Restroom.\"",
+   "phrases": [
+    {
+     "en": "A clear sign hung at the entrance, marked \"Men\" and \"Women,\"",
      "words": [
       {
        "h": "门口",
@@ -235,43 +565,55 @@
        "pos": "n."
       },
       {
-       "h": "一般",
-       "py": "yìbān",
-       "gl": "usually; generally",
-       "pos": "adv."
-      },
-      {
-       "h": "挂着",
-       "py": "guàzhe",
-       "gl": "hang; be hanging",
+       "h": "挂",
+       "py": "guà",
+       "gl": "hang",
        "pos": "v."
       },
       {
-       "h": "清晰",
-       "py": "qīngxī",
-       "gl": "clear; distinct",
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "清楚",
+       "py": "qīngchǔ",
+       "gl": "clear; clearly",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "指示牌",
        "py": "zhǐshìpái",
-       "gl": "sign; signpost",
+       "gl": "sign, signpost",
        "pos": "n."
       },
       {
        "h": "，"
       },
       {
-       "h": "写着",
-       "py": "xiězhe",
-       "gl": "be written; say (on paper)",
+       "h": "上面",
+       "py": "shàngmiàn",
+       "gl": "on top; on the surface; above",
+       "pos": "n."
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
        "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
       },
       {
        "h": "“"
@@ -280,7 +622,7 @@
        "h": "男",
        "py": "nán",
        "gl": "male",
-       "pos": "n."
+       "pos": "adj."
       },
       {
        "h": "”"
@@ -298,7 +640,7 @@
        "h": "女",
        "py": "nǚ",
        "gl": "female; woman",
-       "pos": "n."
+       "pos": "adj."
       },
       {
        "h": "”"
@@ -309,57 +651,176 @@
      ]
     },
     {
-     "en": "some are also marked \"third restroom,\"",
+     "en": "and beside them was another door marked \"Third Restroom.\"",
      "words": [
       {
-       "h": "有的",
-       "py": "yǒude",
-       "gl": "some (of them)",
-       "pos": "pron."
+       "h": "旁边",
+       "py": "pángbiān",
+       "gl": "next to; beside",
+       "pos": "n."
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
+       "pos": "conj."
       },
       {
-       "h": "标注",
-       "py": "biāozhù",
-       "gl": "label; annotate",
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "扇",
+       "py": "shàn",
+       "gl": "measure word for doors, windows, screens",
+       "pos": "measure word"
+      },
+      {
+       "h": "门",
+       "py": "mén",
+       "gl": "door",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "门",
+       "py": "mén",
+       "gl": "door",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
        "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
       },
       {
        "h": "“"
       },
       {
-       "h": "第三",
-       "py": "dìsān",
-       "gl": "third",
-       "pos": "num."
-      },
-      {
-       "h": "卫生间",
-       "py": "wèishēngjiān",
-       "gl": "bathroom; restroom",
+       "h": "第三卫生间",
+       "py": "dì sān wèishēngjiān",
+       "gl": "\"third restroom\" (family/accessible)",
        "pos": "n."
       },
       {
        "h": "”"
       },
       {
-       "h": "，"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "\"That one's for people like you,\" the cleaner said with a smile. \"Those with children, and those who need someone to help them.\"",
+   "phrases": [
     {
-     "en": "a family restroom for people with children or limited mobility.",
+     "en": "\"That one's for people like you,\" the cleaner said with a smile. \"Those with children, and those who need someone to help them.\"",
      "words": [
       {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
+       "h": "“"
+      },
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
        "pos": "v."
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "for; to (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "你们",
+       "py": "nǐmen",
+       "gl": "you (plural)",
+       "pos": "pron."
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "打扫",
+       "py": "dǎsǎo",
+       "gl": "clean (up); sweep",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "阿姨",
+       "py": "āyí",
+       "gl": "auntie (older woman)",
+       "pos": "n."
+      },
+      {
+       "h": "笑",
+       "py": "xiào",
+       "gl": "laugh; smile",
+       "pos": "n."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
       },
       {
        "h": "带",
@@ -374,22 +835,25 @@
        "pos": "n."
       },
       {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
        "pos": "conj."
       },
       {
-       "h": "行动不便",
-       "py": "xíngdòngbùbiàn",
-       "gl": "with limited mobility",
-       "pos": "phrase"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "需要",
+       "py": "xūyào",
+       "gl": "need to; have to",
+       "pos": "v."
       },
       {
        "h": "人",
@@ -398,112 +862,83 @@
        "pos": "n."
       },
       {
-       "h": "使用",
-       "py": "shǐyòng",
-       "gl": "use",
-       "pos": "v."
+       "h": "照顾",
+       "py": "zhàogù",
+       "gl": "care; looking after",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "。"
+      },
+      {
+       "h": "”"
       }
      ]
     }
    ]
   },
   {
-   "en": "In some old parts of town or tourist sites, though, you may still come across pay toilets, usually one or two yuan, with an attendant collecting money or a coin box at the entrance.",
+   "en": "A display above the doors was lit up: green for free stalls, red for occupied ones.",
    "phrases": [
     {
-     "en": "In some old parts of town or tourist sites, though, you may still come across pay toilets,",
+     "en": "A display above the doors was lit up: green for free stalls, red for occupied ones.",
      "words": [
       {
-       "h": "不过",
-       "py": "búguò",
-       "gl": "but; however",
-       "pos": "conj."
+       "h": "门",
+       "py": "mén",
+       "gl": "door",
+       "pos": "n."
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
+       "h": "上方",
+       "py": "shàngfāng",
+       "gl": "above; over",
+       "pos": "n."
       },
       {
-       "h": "一些",
-       "py": "yìxiē",
-       "gl": "some; a few",
-       "pos": "pron."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "老",
-       "py": "lǎo",
-       "gl": "old; elderly",
+       "h": "显示屏",
+       "py": "xiǎnshìpíng",
+       "gl": "display screen",
+       "pos": "n."
+      },
+      {
+       "h": "亮",
+       "py": "liàng",
+       "gl": "bright; light up; (of the sky) get light; dawn",
        "pos": "adj."
       },
       {
-       "h": "城区",
-       "py": "chéngqū",
-       "gl": "urban district; city area",
-       "pos": "n."
-      },
-      {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "景区",
-       "py": "jǐngqū",
-       "gl": "scenic area; tourist site",
-       "pos": "n."
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
       },
       {
        "h": "，"
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "可能",
-       "py": "kěnéng",
-       "gl": "maybe; perhaps; possibly",
-       "pos": "adv."
-      },
-      {
-       "h": "遇到",
-       "py": "yùdào",
-       "gl": "encounter; come across; run into",
-       "pos": "v."
-      },
-      {
-       "h": "收费",
-       "py": "shōufèi",
-       "gl": "charge (a fee)",
-       "pos": "adj."
-      },
-      {
-       "h": "厕所",
-       "py": "cèsuǒ",
-       "gl": "toilet; restroom",
+       "h": "绿色",
+       "py": "lǜsè",
+       "gl": "green",
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "usually one or two yuan, with an attendant collecting money or a coin box at the entrance.",
-     "words": [
-      {
-       "h": "通常",
-       "py": "tōngcháng",
-       "gl": "usually; normally",
-       "pos": "adv."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "是",
@@ -512,566 +947,178 @@
        "pos": "v."
       },
       {
-       "h": "一两",
-       "py": "yìliǎng",
-       "gl": "one or two",
-       "pos": "num."
-      },
-      {
-       "h": "块",
-       "py": "kuài",
-       "gl": "yuan; kuai (colloquial for money)",
-       "pos": "measure word"
-      },
-      {
-       "h": "钱",
-       "py": "qián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "入口",
-       "py": "rùkǒu",
-       "gl": "entrance",
-       "pos": "n."
-      },
-      {
-       "h": "处",
-       "py": "chù",
-       "gl": "place; measure word for places",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "有人",
-       "py": "yǒurén",
-       "gl": "someone; some people",
-       "pos": "pron."
-      },
-      {
-       "h": "收费",
-       "py": "shōufèi",
-       "gl": "charge (a fee)",
-       "pos": "v."
-      },
-      {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "摆放",
-       "py": "bǎifàng",
-       "gl": "place; arrange",
-       "pos": "v."
-      },
-      {
-       "h": "投币箱",
-       "py": "tóubìxiāng",
-       "gl": "coin box",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "There are a few points of etiquette to keep in mind when using public restrooms: if there's a line, keep a reasonable distance from the person in front of you and don't stand too close.",
-   "phrases": [
-    {
-     "en": "There are a few points of etiquette to keep in mind when using public restrooms:",
-     "words": [
-      {
-       "h": "使用",
-       "py": "shǐyòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "公共",
-       "py": "gōnggòng",
-       "gl": "public",
+       "h": "空",
+       "py": "kōng",
+       "gl": "free (time) (有空 have free time); empty",
        "pos": "adj."
       },
       {
-       "h": "卫生间",
-       "py": "wèishēngjiān",
-       "gl": "bathroom; restroom",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "蹲位",
+       "py": "dūnwèi",
+       "gl": "toilet stall",
        "pos": "n."
       },
       {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; during",
-       "pos": "function word"
+       "h": "，"
       },
       {
-       "h": "，"
+       "h": "红色",
+       "py": "hóngsè",
+       "gl": "red",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
       },
       {
        "h": "有",
        "py": "yǒu",
-       "gl": "have; there is / there are; there is (有一次 once); there is / there are",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "pron."
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
+       "pos": "n."
       },
       {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "point; aspect (这一点 this point)",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Amy took two minutes and forty seconds, and Mark breathed a sigh of relief for the first time that day.",
+   "phrases": [
+    {
+     "en": "Amy took two minutes and forty seconds, and Mark breathed a sigh of relief for the first time that day.",
+     "words": [
+      {
+       "h": "艾米",
+       "py": "Àimǐ",
+       "gl": "Amy",
+       "pos": "proper noun"
+      },
+      {
+       "h": "用",
+       "py": "yòng",
+       "gl": "use",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "分",
+       "py": "fēn",
+       "gl": "minute",
        "pos": "measure word"
       },
       {
-       "h": "礼仪",
-       "py": "lǐyí",
-       "gl": "etiquette; ceremony",
-       "pos": "n."
+       "h": "四十",
+       "py": "sìshí",
+       "gl": "forty",
+       "pos": "num."
       },
       {
-       "h": "值得",
-       "py": "zhíde",
-       "gl": "be worth; deserve",
-       "pos": "v."
+       "h": "秒",
+       "py": "miǎo",
+       "gl": "second",
+       "pos": "measure word"
       },
       {
-       "h": "留意",
-       "py": "liúyì",
-       "gl": "pay attention to; watch out for",
-       "pos": "v."
+       "h": "，"
       },
       {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "if there's a line, keep a reasonable distance from the person in front of you and don't stand too close.",
-     "words": [
-      {
-       "h": "前面",
-       "py": "qiánmiàn",
-       "gl": "in front; ahead",
-       "pos": "n."
+       "h": "马克",
+       "py": "Mǎkè",
+       "gl": "Mark (Mark Vande Hei)",
+       "pos": "proper noun"
       },
       {
-       "h": "有人",
-       "py": "yǒurén",
-       "gl": "someone; some people",
+       "h": "这",
+       "py": "zhè",
+       "gl": "this",
        "pos": "pron."
       },
       {
-       "h": "排队",
-       "py": "páiduì",
-       "gl": "line up; stand in line",
-       "pos": "v."
-      },
-      {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; during",
-       "pos": "function word"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "function word"
-      },
-      {
-       "h": "主动",
-       "py": "zhǔdòng",
-       "gl": "on one's own initiative; proactively",
-       "pos": "adv."
-      },
-      {
-       "h": "保持",
-       "py": "bǎochí",
-       "gl": "maintain; keep",
-       "pos": "v."
-      },
-      {
-       "h": "一定",
-       "py": "yídìng",
-       "gl": "certain; some (degree of)",
-       "pos": "adj."
-      },
-      {
-       "h": "距离",
-       "py": "jùlí",
-       "gl": "distance",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不要",
-       "py": "búyào",
-       "gl": "don't; must not",
-       "pos": "function word"
-      },
-      {
-       "h": "离",
-       "py": "lí",
-       "gl": "from (distance: A 离 B 远 \"A is far from B\")",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
-       "pos": "particle"
-      },
-      {
-       "h": "太",
-       "py": "tài",
-       "gl": "too",
-       "pos": "adv."
-      },
-      {
-       "h": "近",
-       "py": "jìn",
-       "gl": "near; close; nearly; almost; close to",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Remember to flush when you're done and put used toilet paper in the wastebasket provided rather than in the toilet, because old pipes clog easily.",
-   "phrases": [
-    {
-     "en": "Remember to flush when you're done,",
-     "words": [
-      {
-       "h": "如厕",
-       "py": "rúcè",
-       "gl": "use the toilet",
-       "pos": "v."
-      },
-      {
-       "h": "后",
-       "py": "hòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "记得",
-       "py": "jìde",
-       "gl": "remember",
-       "pos": "v."
-      },
-      {
-       "h": "随手",
-       "py": "suíshǒu",
-       "gl": "in passing; casually; on the way",
-       "pos": "adv."
-      },
-      {
-       "h": "冲水",
-       "py": "chōngshuǐ",
-       "gl": "flush (the toilet)",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and put used toilet paper in the wastebasket provided rather than in the toilet,",
-     "words": [
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "conj."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "function word"
-      },
-      {
-       "h": "纸巾",
-       "py": "zhǐjīn",
-       "gl": "tissue; paper napkin",
-       "pos": "n."
-      },
-      {
-       "h": "扔",
-       "py": "rēng",
-       "gl": "throw; throw away",
-       "pos": "v."
-      },
-      {
-       "h": "进",
-       "py": "jìn",
-       "gl": "into (写进 write into)",
-       "pos": "prep."
-      },
-      {
-       "h": "指定",
-       "py": "zhǐdìng",
-       "gl": "designated; specified",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "垃圾桶",
-       "py": "lājītǒng",
-       "gl": "trash can",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but",
-       "pos": "conj."
-      },
-      {
-       "h": "不是",
-       "py": "búshì",
-       "gl": "not be; is not",
-       "pos": "v."
-      },
-      {
-       "h": "直接",
-       "py": "zhíjiē",
-       "gl": "directly; straight",
-       "pos": "adv."
-      },
-      {
-       "h": "扔",
-       "py": "rēng",
-       "gl": "throw; throw away",
-       "pos": "v."
-      },
-      {
-       "h": "进",
-       "py": "jìn",
-       "gl": "into (写进 write into)",
-       "pos": "prep."
-      },
-      {
-       "h": "马桶",
-       "py": "mǎtǒng",
-       "gl": "toilet",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "because old pipes clog easily.",
-     "words": [
-      {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because",
-       "pos": "conj."
-      },
-      {
-       "h": "老旧",
-       "py": "lǎojiù",
-       "gl": "old; outdated",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "管道",
-       "py": "guǎndào",
-       "gl": "pipe; pipeline",
-       "pos": "n."
-      },
-      {
-       "h": "容易",
-       "py": "róngyì",
-       "gl": "easy; be prone to; likely to",
-       "pos": "adj."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "function word"
-      },
-      {
-       "h": "堵塞",
-       "py": "dǔsè",
-       "gl": "block; clog",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Also, many public restrooms don't provide free toilet paper, so carrying a pack of tissues is a good habit.",
-   "phrases": [
-    {
-     "en": "Also, many public restrooms don't provide free toilet paper,",
-     "words": [
-      {
-       "h": "另外",
-       "py": "lìngwài",
-       "gl": "in addition; besides; other; separately",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adv."
-      },
-      {
-       "h": "公共",
-       "py": "gōnggòng",
-       "gl": "public",
-       "pos": "adj."
-      },
-      {
-       "h": "卫生间",
-       "py": "wèishēngjiān",
-       "gl": "bathroom; restroom",
-       "pos": "n."
-      },
-      {
-       "h": "并不",
-       "py": "bìngbù",
-       "gl": "not at all; by no means",
-       "pos": "adv."
-      },
-      {
-       "h": "提供",
-       "py": "tígōng",
-       "gl": "provide",
-       "pos": "v."
-      },
-      {
-       "h": "免费",
-       "py": "miǎnfèi",
-       "gl": "free (of charge)",
-       "pos": "adj."
-      },
-      {
-       "h": "厕纸",
-       "py": "cèzhǐ",
-       "gl": "toilet paper",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so carrying a pack of tissues is a good habit.",
-     "words": [
-      {
-       "h": "随身",
-       "py": "suíshēn",
-       "gl": "(carry) with one; on one's person",
-       "pos": "adv."
-      },
-      {
-       "h": "带",
-       "py": "dài",
-       "gl": "bring; take (along); carry",
-       "pos": "v."
-      },
-      {
        "h": "一",
-       "py": "yī",
+       "py": "yì",
        "gl": "one",
        "pos": "num."
       },
       {
-       "h": "包",
-       "py": "bāo",
-       "gl": "measure word for packs (a pack of)",
-       "pos": "measure word"
-      },
-      {
-       "h": "纸巾",
-       "py": "zhǐjīn",
-       "gl": "tissue; paper napkin",
+       "h": "天",
+       "py": "tiān",
+       "gl": "day",
        "pos": "n."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
       },
       {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
        "pos": "measure word"
       },
       {
-       "h": "不错",
-       "py": "búcuò",
-       "gl": "good; decent",
-       "pos": "adj."
+       "h": "松",
+       "py": "sōng",
+       "gl": "loosen; relax (松了一口气 breathe a sigh of relief)",
+       "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "习惯",
-       "py": "xíguàn",
-       "gl": "habit",
+       "h": "口",
+       "py": "kǒu",
+       "gl": "measure word for mouthfuls, breaths, wells, pots; mouth",
+       "pos": "measure word"
+      },
+      {
+       "h": "气",
+       "py": "qì",
+       "gl": "breath, sigh",
        "pos": "n."
       },
       {
@@ -1082,37 +1129,76 @@
    ]
   },
   {
-   "en": "If you really can't find a restroom, you can also walk into a nearby coffee shop; most places won't turn away someone who just needs to use the restroom.",
+   "en": "There was no paper in the stall, but at the sink an old woman, without a word, handed Amy a pack of tissues.",
    "phrases": [
     {
-     "en": "If you really can't find a restroom, you can also walk into a nearby coffee shop;",
+     "en": "There was no paper in the stall, but at the sink an old woman, without a word, handed Amy a pack of tissues.",
      "words": [
       {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
+       "h": "蹲位",
+       "py": "dūnwèi",
+       "gl": "toilet stall",
+       "pos": "n."
       },
       {
-       "h": "实在",
-       "py": "shízài",
-       "gl": "really; truly",
-       "pos": "adv."
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
-       "h": "找不到",
-       "py": "zhǎobudào",
-       "gl": "can't find",
+       "h": "没有",
+       "py": "méiyǒu",
+       "gl": "not have; there is no",
        "pos": "v."
       },
       {
-       "h": "厕所",
-       "py": "cèsuǒ",
-       "gl": "toilet; restroom",
+       "h": "纸",
+       "py": "zhǐ",
+       "gl": "paper; page",
        "pos": "n."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "洗手",
+       "py": "xǐshǒu",
+       "gl": "wash one's hands",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhou",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一位",
+       "py": "yīwèi",
+       "gl": "one (polite, for people)",
+       "pos": "measure word"
+      },
+      {
+       "h": "老奶奶",
+       "py": "lǎonǎinǎi",
+       "gl": "granny; old woman",
+       "pos": "n."
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
       },
       {
        "h": "也",
@@ -1121,95 +1207,54 @@
        "pos": "adv."
       },
       {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may; be allowed",
-       "pos": "function word"
-      },
-      {
-       "h": "走进",
-       "py": "zǒujìn",
-       "gl": "enter; walk into",
-       "pos": "v."
-      },
-      {
-       "h": "附近",
-       "py": "fùjìn",
-       "gl": "nearby; vicinity",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "咖啡馆",
-       "py": "kāfēiguǎn",
-       "gl": "café",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "most places won't turn away someone who just needs to use the restroom.",
-     "words": [
-      {
-       "h": "大部分",
-       "py": "dàbùfen",
-       "gl": "most; the greater part",
-       "pos": "pron."
-      },
-      {
-       "h": "店家",
-       "py": "diànjiā",
-       "gl": "shop owner; shop",
-       "pos": "n."
-      },
-      {
-       "h": "并不会",
-       "py": "bìngbúhuì",
-       "gl": "will not at all; won't actually",
-       "pos": "function word"
-      },
-      {
-       "h": "拒绝",
-       "py": "jùjué",
-       "gl": "refuse; reject",
-       "pos": "v."
-      },
-      {
-       "h": "顺路",
-       "py": "shùnlù",
-       "gl": "on the way",
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
        "pos": "adv."
       },
       {
-       "h": "使用",
-       "py": "shǐyòng",
-       "gl": "use",
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "卫生间",
-       "py": "wèishēngjiān",
-       "gl": "bathroom; restroom",
-       "pos": "n."
+       "h": "，"
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
+       "h": "递",
+       "py": "dì",
+       "gl": "hand; pass",
+       "pos": "v."
       },
       {
-       "h": "客人",
-       "py": "kèrén",
-       "gl": "guest; customer",
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "艾米",
+       "py": "Àimǐ",
+       "gl": "Amy",
+       "pos": "proper noun"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "包",
+       "py": "bāo",
+       "gl": "pack (measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "纸巾",
+       "py": "zhǐjīn",
+       "gl": "tissues",
        "pos": "n."
       },
       {
@@ -1220,16 +1265,197 @@
    ]
   },
   {
-   "en": "In recent years, the Chinese government has launched a \"toilet revolution,\" building and renovating large numbers of public toilets in many villages and tourist sites.",
+   "en": "\"Always carry some when you go out,\" she told Mark. \"And don't throw paper in the toilet — the pipes here are old.\"",
    "phrases": [
     {
-     "en": "In recent years, the Chinese government has launched a \"toilet revolution,\" building and renovating large numbers of public toilets in many villages and tourist sites.",
+     "en": "\"Always carry some when you go out,\" she told Mark. \"And don't throw paper in the toilet — the pipes here are old.\"",
      "words": [
       {
-       "h": "近年来",
-       "py": "jìnniánlái",
-       "gl": "in recent years",
+       "h": "“"
+      },
+      {
+       "h": "出门",
+       "py": "chūmén",
+       "gl": "go out (of the house); leave home",
+       "pos": "v."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
+      },
+      {
+       "h": "带",
+       "py": "dài",
+       "gl": "bring; take (along); carry",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "马克",
+       "py": "Mǎkè",
+       "gl": "Mark (Mark Vande Hei)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "纸",
+       "py": "zhǐ",
+       "gl": "paper",
+       "pos": "n."
+      },
+      {
+       "h": "别",
+       "py": "bié",
+       "gl": "don't (prohibition); other",
        "pos": "adv."
+      },
+      {
+       "h": "扔",
+       "py": "rēng",
+       "gl": "throw; throw away",
+       "pos": "v."
+      },
+      {
+       "h": "马桶",
+       "py": "mǎtǒng",
+       "gl": "toilet",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "这儿",
+       "py": "zhèr",
+       "gl": "here",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "管道",
+       "py": "guǎndào",
+       "gl": "pipes",
+       "pos": "n."
+      },
+      {
+       "h": "老",
+       "py": "lǎo",
+       "gl": "old; elderly",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "A poster on the wall said: In 2015 China began the \"toilet revolution,\" with the slogan \"small toilets, big deal for people's lives.\"",
+   "phrases": [
+    {
+     "en": "A poster on the wall said: In 2015 China began the \"toilet revolution,\" with the slogan \"small toilets, big deal for people's lives.\"",
+     "words": [
+      {
+       "h": "墙",
+       "py": "qiáng",
+       "gl": "wall",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "贴",
+       "py": "tiē",
+       "gl": "to be posted (on a wall)",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "张",
+       "py": "zhāng",
+       "gl": "measure word for flat objects (paper, photos, tables)",
+       "pos": "measure word"
+      },
+      {
+       "h": "海报",
+       "py": "hǎibào",
+       "gl": "poster",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "二零一五年",
+       "py": "èr líng yī wǔ nián",
+       "gl": "2015",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -1241,75 +1467,9 @@
        "pos": "proper noun"
       },
       {
-       "h": "政府",
-       "py": "zhèngfǔ",
-       "gl": "government",
-       "pos": "n."
-      },
-      {
-       "h": "推行",
-       "py": "tuīxíng",
-       "gl": "implement; promote (a policy)",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "厕所革命",
-       "py": "cèsuǒgémìng",
-       "gl": "toilet revolution",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "许多",
-       "py": "xǔduō",
-       "gl": "many; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "农村",
-       "py": "nóngcūn",
-       "gl": "countryside; rural area",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "景区",
-       "py": "jǐngqū",
-       "gl": "scenic area; tourist site",
-       "pos": "n."
-      },
-      {
-       "h": "新建",
-       "py": "xīnjiàn",
-       "gl": "newly built; build",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "改造",
-       "py": "gǎizào",
-       "gl": "overhaul; upgrade; transformation",
+       "h": "开始",
+       "py": "kāishǐ",
+       "gl": "begin; start; beginning",
        "pos": "v."
       },
       {
@@ -1319,109 +1479,12 @@
        "pos": "particle"
       },
       {
-       "h": "大量",
-       "py": "dàliàng",
-       "gl": "large amount of; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "公共厕所",
-       "py": "gōnggòngcèsuǒ",
-       "gl": "public restroom",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Now you can also search for \"public restrooms nearby\" in a map app or a WeChat mini program, which is very convenient.",
-   "phrases": [
-    {
-     "en": "Now you can also search for \"public restrooms nearby\" in a map app or a WeChat mini program, which is very convenient.",
-     "words": [
-      {
-       "h": "如今",
-       "py": "rújīn",
-       "gl": "nowadays; now",
-       "pos": "adv."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "可以",
-       "py": "kěyǐ",
-       "gl": "can; may",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "手机地图",
-       "py": "shǒujīdìtú",
-       "gl": "phone map app",
-       "pos": "n."
-      },
-      {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "微信",
-       "py": "wēixìn",
-       "gl": "WeChat (messaging app)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "小程序",
-       "py": "xiǎochéngxù",
-       "gl": "mini-program (app inside WeChat, Alipay, etc.)",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on (after a noun: 社交媒体上 on social media)",
-       "pos": "postposition"
-      },
-      {
-       "h": "搜索",
-       "py": "sōusuǒ",
-       "gl": "search",
-       "pos": "v."
-      },
-      {
        "h": "“"
       },
       {
-       "h": "附近",
-       "py": "fùjìn",
-       "gl": "nearby; vicinity",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "公共厕所",
-       "py": "gōnggòngcèsuǒ",
-       "gl": "public restroom",
+       "h": "厕所革命",
+       "py": "cèsuǒ gémìng",
+       "gl": "\"toilet revolution\"",
        "pos": "n."
       },
       {
@@ -1429,153 +1492,11 @@
       },
       {
        "h": "，"
-      },
-      {
-       "h": "十分",
-       "py": "shífēn",
-       "gl": "very; extremely",
-       "pos": "adv."
-      },
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The \"toilet revolution\" isn't just a slogan; it was a concrete task personally proposed by the country's top leader in 2015, summed up at the time as \"small toilets, big livelihood,\" meaning toilets may seem minor but directly affect ordinary people's quality of life.",
-   "phrases": [
-    {
-     "en": "The \"toilet revolution\" isn't just a slogan; it was a concrete task personally proposed by the country's top leader in 2015, summed up at the time as \"small toilets, big livelihood,\" meaning toilets may seem minor but directly affect ordinary people's quality of life.",
-     "words": [
-      {
-       "h": "“"
-      },
-      {
-       "h": "厕所革命",
-       "py": "cèsuǒgémìng",
-       "gl": "toilet revolution",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "并不是",
-       "py": "bìngbúshì",
-       "gl": "is not at all; not really",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "句",
-       "py": "jù",
-       "gl": "measure word for sentences and lines",
-       "pos": "measure word"
       },
       {
        "h": "口号",
        "py": "kǒuhào",
        "gl": "slogan",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "而是",
-       "py": "érshì",
-       "gl": "but rather (不是…而是… not … but …)",
-       "pos": "conj."
-      },
-      {
-       "h": "2015"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "由",
-       "py": "yóu",
-       "gl": "by (marks the agent)",
-       "pos": "prep."
-      },
-      {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "state; country",
-       "pos": "n."
-      },
-      {
-       "h": "最高领导人",
-       "py": "zuìgāolǐngdǎorén",
-       "gl": "top leader",
-       "pos": "n."
-      },
-      {
-       "h": "亲自",
-       "py": "qīnzì",
-       "gl": "personally; in person",
-       "pos": "adv."
-      },
-      {
-       "h": "提出",
-       "py": "tíchū",
-       "gl": "put forward; raise (a question, proposal)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "具体",
-       "py": "jùtǐ",
-       "gl": "specific; concrete",
-       "pos": "adj."
-      },
-      {
-       "h": "工作",
-       "py": "gōngzuò",
-       "gl": "work; job",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "当时",
-       "py": "dāngshí",
-       "gl": "at that time; then",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "说法",
-       "py": "shuōfǎ",
-       "gl": "way of saying; expression",
        "pos": "n."
       },
       {
@@ -1618,90 +1539,6 @@
        "h": "”"
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "意思",
-       "py": "yìsi",
-       "gl": "meaning",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "厕所",
-       "py": "cèsuǒ",
-       "gl": "toilet; restroom",
-       "pos": "n."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem",
-       "pos": "n."
-      },
-      {
-       "h": "看似",
-       "py": "kànshì",
-       "gl": "seem; look like",
-       "pos": "v."
-      },
-      {
-       "h": "微小",
-       "py": "wēixiǎo",
-       "gl": "tiny; slight",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "却",
-       "py": "què",
-       "gl": "but; yet",
-       "pos": "adv."
-      },
-      {
-       "h": "直接",
-       "py": "zhíjiē",
-       "gl": "directly; straight",
-       "pos": "adj."
-      },
-      {
-       "h": "关系到",
-       "py": "guānxìdào",
-       "gl": "concern; affect; bear on",
-       "pos": "v."
-      },
-      {
-       "h": "老百姓",
-       "py": "lǎobǎixìng",
-       "gl": "ordinary people; common folk",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life; live",
-       "pos": "n."
-      },
-      {
-       "h": "质量",
-       "py": "zhìliàng",
-       "gl": "quality",
-       "pos": "n."
-      },
-      {
        "h": "。"
       }
      ]
@@ -1709,40 +1546,22 @@
    ]
   },
   {
-   "en": "Over the next few years, tens of thousands of public toilets were built or renovated across the country; not only did their number rise noticeably, but hygiene and design standards also improved greatly.",
+   "en": "In a few years tens of thousands of toilets were built or rebuilt across the country, and rural pit latrines were replaced with flush toilets.",
    "phrases": [
     {
-     "en": "Over the next few years, tens of thousands of public toilets were built or renovated across the country; not only did their number rise noticeably, but hygiene and design standards also improved greatly.",
+     "en": "In a few years tens of thousands of toilets were built or rebuilt across the country, and rural pit latrines were replaced with flush toilets.",
      "words": [
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "接下来",
-       "py": "jiēxiàlái",
-       "gl": "next; then; what follows",
-       "pos": "adv."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
       {
        "h": "几",
        "py": "jǐ",
-       "gl": "several; a few; how many (under ten); which (number)",
+       "gl": "several; a few",
        "pos": "num."
       },
       {
        "h": "年",
        "py": "nián",
        "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
+       "pos": "measure word"
       },
       {
        "h": "里",
@@ -1757,12 +1576,6 @@
        "h": "全国",
        "py": "quánguó",
        "gl": "the whole country; nationwide",
-       "pos": "adj."
-      },
-      {
-       "h": "各地",
-       "py": "gèdì",
-       "gl": "all over; various places",
        "pos": "n."
       },
       {
@@ -1790,69 +1603,48 @@
        "pos": "particle"
       },
       {
-       "h": "数以万计",
-       "py": "shǔyǐwànjì",
-       "gl": "tens of thousands",
-       "pos": "phrase"
+       "h": "几",
+       "py": "jǐ",
+       "gl": "several; a few",
+       "pos": "num."
+      },
+      {
+       "h": "万",
+       "py": "wàn",
+       "gl": "ten thousand",
+       "pos": "measure word"
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "厕所",
+       "py": "cèsuǒ",
+       "gl": "toilet; restroom",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "农村",
+       "py": "nóngcūn",
+       "gl": "countryside; rural area",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "公共厕所",
-       "py": "gōnggòngcèsuǒ",
-       "gl": "public restroom",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "不仅",
-       "py": "bùjǐn",
-       "gl": "not only",
-       "pos": "conj."
-      },
-      {
-       "h": "数量",
-       "py": "shùliàng",
-       "gl": "quantity; number",
-       "pos": "n."
-      },
-      {
-       "h": "明显",
-       "py": "míngxiǎn",
-       "gl": "obvious; clear; clearly",
-       "pos": "adv."
-      },
-      {
-       "h": "增加",
-       "py": "zēngjiā",
-       "gl": "increase; raise; add",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "卫生条件",
-       "py": "wèishēngtiáojiàn",
-       "gl": "sanitary conditions; hygiene",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "设计标准",
-       "py": "shèjìbiāozhǔn",
-       "gl": "design standard",
+       "h": "旱厕",
+       "py": "hàncè",
+       "gl": "pit latrine; dry toilet",
        "pos": "n."
       },
       {
@@ -1862,10 +1654,16 @@
        "pos": "adv."
       },
       {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
+       "h": "换",
+       "py": "huàn",
+       "gl": "change; switch (to another)",
        "pos": "v."
+      },
+      {
+       "h": "成",
+       "py": "chéng",
+       "gl": "one tenth (九成 90%)",
+       "pos": "measure word"
       },
       {
        "h": "了",
@@ -1874,16 +1672,22 @@
        "pos": "particle"
       },
       {
-       "h": "很大",
-       "py": "hěndà",
-       "gl": "very big; great",
-       "pos": "adj."
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
       },
       {
-       "h": "提升",
-       "py": "tíshēng",
-       "gl": "raise; improve; boost",
+       "h": "冲水",
+       "py": "chōngshuǐ",
+       "gl": "flush (the toilet)",
        "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
        "h": "。"
@@ -1893,34 +1697,40 @@
    ]
   },
   {
-   "en": "A newly revised national standard requires that in busy places the women's restroom have more stalls than the men's, to ease the problem of women waiting in long lines.",
+   "en": "The new standards also require that in crowded places, women's restrooms have more stalls than men's.",
    "phrases": [
     {
-     "en": "A newly revised national standard requires that in busy places the women's restroom have more stalls than the men's, to ease the problem of women waiting in long lines.",
+     "en": "The new standards also require that in crowded places, women's restrooms have more stalls than men's.",
      "words": [
       {
-       "h": "新修订",
-       "py": "xīnxiūdìng",
-       "gl": "newly revised",
+       "h": "新",
+       "py": "xīn",
+       "gl": "new; newly",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "国家标准",
-       "py": "guójiābiāozhǔn",
-       "gl": "national standard",
+       "h": "标准",
+       "py": "biāozhǔn",
+       "gl": "standard",
        "pos": "n."
       },
       {
-       "h": "要求",
-       "py": "yāoqiú",
-       "gl": "require; demand",
-       "pos": "v."
+       "h": "还",
+       "py": "hái",
+       "gl": "also; in addition; still",
+       "pos": "adv."
+      },
+      {
+       "h": "规定",
+       "py": "guīdìng",
+       "gl": "regulation; rule",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -1928,25 +1738,25 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "人流密集",
-       "py": "rénliúmìjí",
-       "gl": "crowded; with heavy foot traffic",
+       "h": "人多",
+       "py": "rénduō",
+       "gl": "crowded; many people",
        "pos": "adj."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "场所",
-       "py": "chǎngsuǒ",
-       "gl": "place; venue",
+       "h": "地方",
+       "py": "dìfāng",
+       "gl": "place",
        "pos": "n."
       },
       {
@@ -1961,32 +1771,26 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
        "h": "蹲位",
        "py": "dūnwèi",
-       "gl": "squat toilet stall",
+       "gl": "toilet stall",
        "pos": "n."
       },
       {
-       "h": "数量",
-       "py": "shùliàng",
-       "gl": "quantity; number",
-       "pos": "n."
-      },
-      {
-       "h": "应该",
-       "py": "yīnggāi",
-       "gl": "should; ought to; probably",
-       "pos": "function word"
-      },
-      {
-       "h": "多于",
-       "py": "duōyú",
-       "gl": "more than",
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
        "pos": "v."
+      },
+      {
+       "h": "比",
+       "py": "bǐ",
+       "gl": "than; compared with (comparison)",
+       "pos": "prep."
       },
       {
        "h": "男厕",
@@ -1995,55 +1799,10 @@
        "pos": "n."
       },
       {
-       "h": "，"
-      },
-      {
-       "h": "以",
-       "py": "yǐ",
-       "gl": "by; with; for (以…出名 'famous for …')",
-       "pos": "prep."
-      },
-      {
-       "h": "缓解",
-       "py": "huǎnjiě",
-       "gl": "relieve; ease",
-       "pos": "v."
-      },
-      {
-       "h": "女性",
-       "py": "nǚxìng",
-       "gl": "female; women",
-       "pos": "n."
-      },
-      {
-       "h": "排队",
-       "py": "páiduì",
-       "gl": "line up; stand in line",
-       "pos": "v."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "过长",
-       "py": "guòcháng",
-       "gl": "too long",
+       "h": "多",
+       "py": "duō",
+       "gl": "many; much; more",
        "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "question; problem",
-       "pos": "n."
       },
       {
        "h": "。"
@@ -2053,187 +1812,169 @@
    ]
   },
   {
-   "en": "Some big cities have also brought in smart management, such as screens at the entrance that show in real time which stalls are free, and even air-quality monitors.",
+   "en": "\"Right,\" said Amy, once her dad had translated. \"The girls' line is always longer.\"",
    "phrases": [
     {
-     "en": "Some big cities have also brought in smart management, such as screens at the entrance that show in real time which stalls are free, and even air-quality monitors.",
+     "en": "\"Right,\" said Amy, once her dad had translated. \"The girls' line is always longer.\"",
      "words": [
       {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; a few",
-       "pos": "num."
+       "h": "“"
       },
       {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
       },
       {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
+       "h": "，"
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
+       "h": "”"
       },
       {
-       "h": "引入",
-       "py": "yǐnrù",
-       "gl": "introduce; bring in",
+       "h": "艾米",
+       "py": "Àimǐ",
+       "gl": "Amy",
+       "pos": "proper noun"
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
        "pos": "v."
       },
       {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
       },
       {
-       "h": "智能化",
-       "py": "zhìnénghuà",
-       "gl": "intelligent; smart; intelligentization",
-       "pos": "adj."
+       "h": "爸爸",
+       "py": "bàba",
+       "gl": "dad; father",
+       "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "管理方式",
-       "py": "guǎnlǐfāngshì",
-       "gl": "management method",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "厕所",
-       "py": "cèsuǒ",
-       "gl": "toilet; restroom",
-       "pos": "n."
-      },
-      {
-       "h": "门口",
-       "py": "ménkǒu",
-       "gl": "entrance; doorway",
-       "pos": "n."
-      },
-      {
-       "h": "安装",
-       "py": "ānzhuāng",
-       "gl": "install",
+       "h": "翻译",
+       "py": "fānyì",
+       "gl": "translate; translation",
        "pos": "v."
       },
       {
-       "h": "显示屏",
-       "py": "xiǎnshìpíng",
-       "gl": "display; screen",
-       "pos": "n."
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "实时",
-       "py": "shíshí",
-       "gl": "real-time",
+       "h": "“"
+      },
+      {
+       "h": "女孩",
+       "py": "nǚhái",
+       "gl": "girl",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "队",
+       "py": "duì",
+       "gl": "line; queue; team",
+       "pos": "n."
+      },
+      {
+       "h": "总是",
+       "py": "zǒngshì",
+       "gl": "always",
        "pos": "adv."
       },
       {
-       "h": "显示",
-       "py": "xiǎnshì",
-       "gl": "show; indicate",
+       "h": "排",
+       "py": "pái",
+       "gl": "line up; arrange in a row",
        "pos": "v."
       },
       {
-       "h": "各个",
-       "py": "gègè",
-       "gl": "each; every; various",
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "更",
+       "py": "gèng",
+       "gl": "more; even more",
+       "pos": "adv."
+      },
+      {
+       "h": "长",
+       "py": "cháng",
+       "gl": "long",
+       "pos": "adj."
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "They walked out; birdcages still hung in the hutong, and the smell of roasted chestnuts drifted by.",
+   "phrases": [
+    {
+     "en": "They walked out; birdcages still hung in the hutong, and the smell of roasted chestnuts drifted by.",
+     "words": [
+      {
+       "h": "他们",
+       "py": "tāmen",
+       "gl": "they; them",
        "pos": "pron."
       },
       {
-       "h": "蹲位",
-       "py": "dūnwèi",
-       "gl": "squat toilet stall",
-       "pos": "n."
+       "h": "走",
+       "py": "zǒu",
+       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
+       "pos": "v."
       },
       {
-       "h": "是否",
-       "py": "shìfǒu",
-       "gl": "whether; if",
-       "pos": "adv."
+       "h": "出",
+       "py": "chū",
+       "gl": "out (directional complement)",
+       "pos": "v."
       },
       {
-       "h": "空闲",
-       "py": "kòngxián",
-       "gl": "free; spare (time)",
-       "pos": "adj."
+       "h": "来",
+       "py": "lái",
+       "gl": "come; arrive",
+       "pos": "v."
       },
       {
        "h": "，"
       },
       {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "adv."
-      },
-      {
-       "h": "配备",
-       "py": "pèibèi",
-       "gl": "be equipped with",
-       "pos": "v."
-      },
-      {
-       "h": "空气质量监测设备",
-       "py": "kōngqìzhìliàngjiāncèshèbèi",
-       "gl": "air quality monitoring equipment",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Besides public toilets in cities, the \"toilet revolution\" in the countryside matters just as much: many households' dry pit latrines have been turned into sanitary flush toilets connected to shared sewage treatment facilities.",
-   "phrases": [
-    {
-     "en": "Besides public toilets in cities, the \"toilet revolution\" in the countryside matters just as much: many households' dry pit latrines have been turned into sanitary flush toilets connected to shared sewage treatment facilities.",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
+       "h": "胡同",
+       "py": "hútòng",
+       "gl": "hutong; alley",
        "pos": "n."
       },
       {
@@ -2243,2197 +1984,326 @@
        "pos": "postposition"
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "公共厕所",
-       "py": "gōnggòngcèsuǒ",
-       "gl": "public restroom",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "农村",
-       "py": "nóngcūn",
-       "gl": "countryside; rural area",
-       "pos": "n."
-      },
-      {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "厕所革命",
-       "py": "cèsuǒgémìng",
-       "gl": "toilet revolution",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "同样",
-       "py": "tóngyàng",
-       "gl": "the same; likewise; also; likewise; equally; the same; similar",
+       "h": "还是",
+       "py": "háishi",
+       "gl": "still; nevertheless; after all",
        "pos": "adv."
       },
       {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
-      },
-      {
-       "h": "："
-      },
-      {
-       "h": "许多",
-       "py": "xǔduō",
-       "gl": "many; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "家庭",
-       "py": "jiātíng",
-       "gl": "family; household",
-       "pos": "n."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "旱厕",
-       "py": "hàncè",
-       "gl": "pit latrine; dry toilet",
-       "pos": "n."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "function word"
-      },
-      {
-       "h": "改造成",
-       "py": "gǎizàochéng",
-       "gl": "convert into",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "冲水系统",
-       "py": "chōngshuǐxìtǒng",
-       "gl": "flushing system",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "卫生厕所",
-       "py": "wèishēngcèsuǒ",
-       "gl": "sanitary toilet",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "连接上",
-       "py": "liánjiēshàng",
-       "gl": "connect (to)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "统一",
-       "py": "tǒngyī",
-       "gl": "unify; unite; unified",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "污水处理设施",
-       "py": "wūshuǐchǔlǐshèshī",
-       "gl": "sewage treatment facility",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "This change has not only greatly improved sanitation in the countryside but also reduced the risk of disease spreading because of poor hygiene.",
-   "phrases": [
-    {
-     "en": "This change has not only greatly improved sanitation in the countryside but also reduced the risk of disease spreading because of poor hygiene.",
-     "words": [
-      {
-       "h": "这种",
-       "py": "zhèzhǒng",
-       "gl": "this kind of; such",
-       "pos": "pron."
-      },
-      {
-       "h": "改变",
-       "py": "gǎibiàn",
-       "gl": "change; transform",
-       "pos": "v."
-      },
-      {
-       "h": "不仅",
-       "py": "bùjǐn",
-       "gl": "not only",
-       "pos": "conj."
-      },
-      {
-       "h": "让",
-       "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
-       "pos": "v."
-      },
-      {
-       "h": "农村",
-       "py": "nóngcūn",
-       "gl": "countryside; rural area",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "环境卫生",
-       "py": "huánjìngwèishēng",
-       "gl": "environmental sanitation",
-       "pos": "n."
-      },
-      {
-       "h": "大为",
-       "py": "dàwèi",
-       "gl": "greatly",
-       "pos": "adv."
-      },
-      {
-       "h": "改善",
-       "py": "gǎishàn",
-       "gl": "improve",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "减少",
-       "py": "jiǎnshǎo",
-       "gl": "reduce; cut down",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "因",
-       "py": "yīn",
-       "gl": "because of; due to",
-       "pos": "prep."
-      },
-      {
-       "h": "卫生条件",
-       "py": "wèishēngtiáojiàn",
-       "gl": "sanitary conditions; hygiene",
-       "pos": "n."
-      },
-      {
-       "h": "差",
-       "py": "chà",
-       "gl": "poor; bad",
-       "pos": "adj."
-      },
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but",
-       "pos": "conj."
-      },
-      {
-       "h": "传播",
-       "py": "chuánbō",
-       "gl": "spread; disseminate",
-       "pos": "v."
-      },
-      {
-       "h": "疾病",
-       "py": "jíbìng",
-       "gl": "disease; illness",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "风险",
-       "py": "fēngxiǎn",
-       "gl": "risk",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But the toilet revolution can't happen overnight; in some remote areas, limited funds and technology mean renovation is going relatively slowly, and ongoing investment is still needed.",
-   "phrases": [
-    {
-     "en": "But the toilet revolution can't happen overnight; in some remote areas, limited funds and technology mean renovation is going relatively slowly, and ongoing investment is still needed.",
-     "words": [
-      {
-       "h": "不过",
-       "py": "bùguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "厕所革命",
-       "py": "cèsuǒgémìng",
-       "gl": "toilet revolution",
-       "pos": "n."
-      },
-      {
-       "h": "并非",
-       "py": "bìngfēi",
-       "gl": "not; by no means; not at all",
-       "pos": "adv."
-      },
-      {
-       "h": "一蹴而就",
-       "py": "yícùérjiù",
-       "gl": "succeed in one step; achieve overnight (idiom)",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; a few",
-       "pos": "num."
-      },
-      {
-       "h": "偏远",
-       "py": "piānyuǎn",
-       "gl": "remote; out-of-the-way",
-       "pos": "adj."
-      },
-      {
-       "h": "地区",
-       "py": "dìqū",
-       "gl": "region; area",
-       "pos": "n."
-      },
-      {
-       "h": "由于",
-       "py": "yóuyú",
-       "gl": "because of; due to; since",
-       "pos": "conj."
-      },
-      {
-       "h": "资金",
-       "py": "zījīn",
-       "gl": "funds; capital",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "技术",
-       "py": "jìshù",
-       "gl": "technology",
-       "pos": "n."
-      },
-      {
-       "h": "条件",
-       "py": "tiáojiàn",
-       "gl": "conditions",
-       "pos": "n."
-      },
-      {
-       "h": "有限",
-       "py": "yǒuxiàn",
-       "gl": "limited",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "改造",
-       "py": "gǎizào",
-       "gl": "overhaul; upgrade; transformation",
-       "pos": "v."
-      },
-      {
-       "h": "进度",
-       "py": "jìndù",
-       "gl": "progress; pace",
-       "pos": "n."
-      },
-      {
-       "h": "相对",
-       "py": "xiāngduì",
-       "gl": "relatively; comparatively",
-       "pos": "adv."
-      },
-      {
-       "h": "较",
-       "py": "jiào",
-       "gl": "relatively; comparatively",
-       "pos": "adv."
-      },
-      {
-       "h": "慢",
-       "py": "màn",
-       "gl": "slow; slowly",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "仍",
-       "py": "réng",
-       "gl": "still; yet",
-       "pos": "adv."
-      },
-      {
-       "h": "需要",
-       "py": "xūyào",
-       "gl": "need; require",
-       "pos": "v."
-      },
-      {
-       "h": "持续",
-       "py": "chíxù",
-       "gl": "continue; last",
-       "pos": "adj."
-      },
-      {
-       "h": "投入",
-       "py": "tóurù",
-       "gl": "put in; invest",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "From a tourist's point of view, many public restrooms at tourist sites now have a family restroom, a nursing room, and even seats to rest on, making the experience much more comfortable than before.",
-   "phrases": [
-    {
-     "en": "From a tourist's point of view, many public restrooms at tourist sites now have a family restroom, a nursing room, and even seats to rest on, making the experience much more comfortable than before.",
-     "words": [
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "游客",
-       "py": "yóukè",
-       "gl": "tourist; visitor",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "角度",
-       "py": "jiǎodù",
-       "gl": "angle; point of view",
-       "pos": "n."
-      },
-      {
-       "h": "来看",
-       "py": "láikàn",
-       "gl": "(从…来看) from the perspective of; judging by",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "如今",
-       "py": "rújīn",
-       "gl": "nowadays; now",
-       "pos": "adv."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "景区",
-       "py": "jǐngqū",
-       "gl": "scenic area; tourist site",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "公共厕所",
-       "py": "gōnggòngcèsuǒ",
-       "gl": "public restroom",
-       "pos": "n."
-      },
-      {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
-      },
-      {
-       "h": "配备",
-       "py": "pèibèi",
-       "gl": "be equipped with",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "第三",
-       "py": "dìsān",
-       "gl": "third",
-       "pos": "num."
-      },
-      {
-       "h": "卫生间",
-       "py": "wèishēngjiān",
-       "gl": "bathroom; restroom",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "母婴室",
-       "py": "mǔyīngshì",
-       "gl": "nursing room",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "adv."
-      },
-      {
-       "h": "休息",
-       "py": "xiūxī",
-       "gl": "rest",
-       "pos": "v."
-      },
-      {
-       "h": "座椅",
-       "py": "zuòyǐ",
-       "gl": "seat",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "体验",
-       "py": "tǐyàn",
-       "gl": "experience; try out",
-       "pos": "n."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "过去",
-       "py": "guòqù",
-       "gl": "past; the past",
-       "pos": "n."
-      },
-      {
-       "h": "舒适",
-       "py": "shūshì",
-       "gl": "comfortable",
-       "pos": "adj."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After 2015, the China National Tourism Administration also drew up a three-year action plan requiring major tourist cities and sites to meet uniform standards for the number of toilets, cleanliness, and accessibility.",
-   "phrases": [
-    {
-     "en": "After 2015, the China National Tourism Administration also drew up a three-year action plan requiring major tourist cities and sites to meet uniform standards for the number of toilets, cleanliness, and accessibility.",
-     "words": [
-      {
-       "h": "2015"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "之后",
-       "py": "zhīhòu",
-       "gl": "after",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "国家旅游局",
-       "py": "guójiālǚyóujú",
-       "gl": "National Tourism Administration",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "制定",
-       "py": "zhìdìng",
-       "gl": "draw up; formulate (a plan)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "n."
-      },
-      {
-       "h": "行动计划",
-       "py": "xíngdòngjìhuà",
-       "gl": "action plan",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "要求",
-       "py": "yāoqiú",
-       "gl": "require; demand",
-       "pos": "v."
-      },
-      {
-       "h": "重点",
-       "py": "zhòngdiǎn",
-       "gl": "key point; key; focus",
-       "pos": "adj."
-      },
-      {
-       "h": "旅游",
-       "py": "lǚyóu",
-       "gl": "travel; go on a trip; tourism",
-       "pos": "n."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "景区",
-       "py": "jǐngqū",
-       "gl": "scenic area; tourist site",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "厕所",
-       "py": "cèsuǒ",
-       "gl": "toilet; restroom",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "数量",
-       "py": "shùliàng",
-       "gl": "quantity; number",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "卫生状况",
-       "py": "wèishēngzhuàngkuàng",
-       "gl": "sanitary conditions; hygiene",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "无障碍设施",
-       "py": "wúzhàngàishèshī",
-       "gl": "accessible facilities",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "方面",
-       "py": "fāngmiàn",
-       "gl": "aspect; respect; side",
-       "pos": "n."
-      },
-      {
-       "h": "达到",
-       "py": "dádào",
-       "gl": "reach; achieve",
-       "pos": "v."
-      },
-      {
-       "h": "统一",
-       "py": "tǒngyī",
-       "gl": "unify; unite; unified",
-       "pos": "adj."
-      },
-      {
-       "h": "标准",
-       "py": "biāozhǔn",
-       "gl": "standard",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Some local governments even treat the quality of public toilets as one of the key indicators of how civilized a city is and how good its tourist services are.",
-   "phrases": [
-    {
-     "en": "Some local governments even treat the quality of public toilets as one of the key indicators of how civilized a city is and how good its tourist services are.",
-     "words": [
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; a few",
-       "pos": "num."
-      },
-      {
-       "h": "地方政府",
-       "py": "dìfāngzhèngfǔ",
-       "gl": "local government",
-       "pos": "n."
-      },
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "adv."
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "公共厕所",
-       "py": "gōnggòngcèsuǒ",
-       "gl": "public restroom",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "建设质量",
-       "py": "jiànshèzhìliàng",
-       "gl": "construction quality",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "作为",
-       "py": "zuòwéi",
-       "gl": "as (in the role of)",
-       "pos": "prep."
-      },
-      {
-       "h": "评价",
-       "py": "píngjià",
-       "gl": "evaluate; comment on",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "文明程度",
-       "py": "wénmíngchéngdù",
-       "gl": "level of civility",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "旅游服务水平",
-       "py": "lǚyóufúwùshuǐpíng",
-       "gl": "level of tourist services",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
-      },
-      {
-       "h": "指标",
-       "py": "zhǐbiāo",
-       "gl": "indicator; index; target",
-       "pos": "n."
-      },
-      {
-       "h": "之一",
-       "py": "zhīyī",
-       "gl": "one of (最…之一 'one of the most …')",
-       "pos": "phrase"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "For tourists, being able to find clean, convenient public restrooms often shapes their overall impression of a city more than you might think.",
-   "phrases": [
-    {
-     "en": "For tourists, being able to find clean, convenient public restrooms often shapes their overall impression of a city more than you might think.",
-     "words": [
-      {
-       "h": "对于",
-       "py": "duìyú",
-       "gl": "for; regarding; as for",
-       "pos": "prep."
-      },
-      {
-       "h": "游客",
-       "py": "yóukè",
-       "gl": "tourist; visitor",
-       "pos": "n."
-      },
-      {
-       "h": "来说",
-       "py": "láishuō",
-       "gl": "as for; for (对…来说 for someone)",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "找到",
-       "py": "zhǎodào",
-       "gl": "find",
-       "pos": "v."
-      },
-      {
-       "h": "干净",
-       "py": "gānjìng",
-       "gl": "clean",
-       "pos": "adj."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "公共厕所",
-       "py": "gōnggòngcèsuǒ",
-       "gl": "public restroom",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "往往",
-       "py": "wǎngwǎng",
-       "gl": "often; usually; tend to",
-       "pos": "adv."
-      },
-      {
-       "h": "比",
-       "py": "bǐ",
-       "gl": "than; compared with (comparison)",
-       "pos": "prep."
-      },
-      {
-       "h": "想象",
-       "py": "xiǎngxiàng",
-       "gl": "imagination; expectation",
-       "pos": "n."
-      },
-      {
-       "h": "中",
-       "py": "zhōng",
-       "gl": "in; during; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "更",
-       "py": "gèng",
-       "gl": "more; even more",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "影响",
-       "py": "yǐngxiǎng",
-       "gl": "influence; affect",
-       "pos": "v."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "座",
-       "py": "zuò",
-       "gl": "measure word for cities, mountains, buildings, bridges",
-       "pos": "measure word"
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "整体印象",
-       "py": "zhěngtǐyìnxiàng",
-       "gl": "overall impression",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "At the same time, green ideas have also been built into toilet renovation: many new public toilets use water-saving toilets and sensor faucets, aiming to serve residents while cutting down on wasted water.",
-   "phrases": [
-    {
-     "en": "At the same time, green ideas have also been built into toilet renovation: many new public toilets use water-saving toilets and sensor faucets, aiming to serve residents while cutting down on wasted water.",
-     "words": [
-      {
-       "h": "与此同时",
-       "py": "yǔcǐtóngshí",
-       "gl": "at the same time; meanwhile",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "环保理念",
-       "py": "huánbǎolǐniàn",
-       "gl": "environmental philosophy; eco-friendly ideas",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "function word"
-      },
-      {
-       "h": "引入",
-       "py": "yǐnrù",
-       "gl": "introduce; bring in",
-       "pos": "v."
-      },
-      {
-       "h": "厕所",
-       "py": "cèsuǒ",
-       "gl": "toilet; restroom",
-       "pos": "n."
-      },
-      {
-       "h": "改造",
-       "py": "gǎizào",
-       "gl": "overhaul; upgrade; transformation",
-       "pos": "v."
-      },
-      {
-       "h": "之中",
-       "py": "zhīzhōng",
-       "gl": "among; in the midst of",
-       "pos": "postposition"
-      },
-      {
-       "h": "："
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "新建",
-       "py": "xīnjiàn",
-       "gl": "newly built; build",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "公共厕所",
-       "py": "gōnggòngcèsuǒ",
-       "gl": "public restroom",
-       "pos": "n."
-      },
-      {
-       "h": "使用",
-       "py": "shǐyòng",
-       "gl": "use; usage",
-       "pos": "v."
-      },
-      {
-       "h": "节水型马桶",
-       "py": "jiéshuǐxíngmǎtǒng",
-       "gl": "water-saving toilet",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "感应式龙头",
-       "py": "gǎnyìngshìlóngtóu",
-       "gl": "sensor faucet",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "力图",
-       "py": "lìtú",
-       "gl": "strive to; try hard to",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "方便",
-       "py": "fāngbiàn",
-       "gl": "convenient; conveniently; make it easy (for); convenient",
-       "pos": "adj."
-      },
-      {
-       "h": "市民",
-       "py": "shìmín",
-       "gl": "city resident; citizen",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "同时",
-       "py": "tóngshí",
-       "gl": "at the same time; meanwhile",
-       "pos": "n."
-      },
-      {
-       "h": "减少",
-       "py": "jiǎnshǎo",
-       "gl": "reduce; cut down",
-       "pos": "v."
-      },
-      {
-       "h": "水资源",
-       "py": "shuǐzīyuán",
-       "gl": "water resources",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "浪费",
-       "py": "làngfèi",
-       "gl": "waste",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In some pilot cities, public toilets also double as places to charge your phone, rest, or shelter from the rain, gradually turning from purely sanitary facilities into part of the city's public space.",
-   "phrases": [
-    {
-     "en": "In some pilot cities, public toilets also double as places to charge your phone, rest, or shelter from the rain, gradually turning from purely sanitary facilities into part of the city's public space.",
-     "words": [
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; a few",
-       "pos": "num."
-      },
-      {
-       "h": "试点",
-       "py": "shìdiǎn",
-       "gl": "pilot; run a trial",
-       "pos": "adj."
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "公共厕所",
-       "py": "gōnggòngcèsuǒ",
-       "gl": "public restroom",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "兼具",
-       "py": "jiānjù",
-       "gl": "combine; have both",
-       "pos": "v."
-      },
-      {
-       "h": "充电",
-       "py": "chōngdiàn",
-       "gl": "charge (a battery)",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "休息",
-       "py": "xiūxī",
-       "gl": "rest",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "临时",
-       "py": "línshí",
-       "gl": "at the last minute (临时抱佛脚 cram at the last minute); temporary",
-       "pos": "adj."
-      },
-      {
-       "h": "避雨",
-       "py": "bìyǔ",
-       "gl": "shelter from the rain",
-       "pos": "v."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "多种",
-       "py": "duōzhǒng",
-       "gl": "many kinds; various",
-       "pos": "adj."
-      },
-      {
-       "h": "功能",
-       "py": "gōngnéng",
-       "gl": "function; feature",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "逐渐",
-       "py": "zhújiàn",
-       "gl": "gradually",
-       "pos": "adv."
-      },
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "单纯",
-       "py": "dānchún",
-       "gl": "simply; purely; simple",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "卫生设施",
-       "py": "wèishēngshèshī",
-       "gl": "sanitary facility",
-       "pos": "n."
-      },
-      {
-       "h": "变成",
-       "py": "biànchéng",
-       "gl": "turn into; become",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "公共空间",
-       "py": "gōnggòngkōngjiān",
-       "gl": "public space",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "一部分",
-       "py": "yībùfèn",
-       "gl": "part; portion",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "For many foreign tourists, the changes in Chinese cities' public toilets are also a vivid window onto how fast the country's infrastructure is developing.",
-   "phrases": [
-    {
-     "en": "For many foreign tourists, the changes in Chinese cities' public toilets are also a vivid window onto how fast the country's infrastructure is developing.",
-     "words": [
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "许多",
-       "py": "xǔduō",
-       "gl": "many; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "外国",
-       "py": "wàiguó",
-       "gl": "foreign",
-       "pos": "adj."
-      },
-      {
-       "h": "游客",
-       "py": "yóukè",
-       "gl": "tourist; visitor",
-       "pos": "n."
-      },
-      {
-       "h": "来说",
-       "py": "láishuō",
-       "gl": "as for; for (对…来说 for someone)",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "城市",
-       "py": "chéngshì",
-       "gl": "city",
-       "pos": "n."
-      },
-      {
-       "h": "公共厕所",
-       "py": "gōnggòngcèsuǒ",
-       "gl": "public restroom",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "变化",
-       "py": "biànhuà",
-       "gl": "change; changes",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "了解",
-       "py": "liǎojiě",
-       "gl": "get to know; understand",
-       "pos": "v."
-      },
-      {
-       "h": "这个",
-       "py": "zhège",
-       "gl": "this; this one",
-       "pos": "pron."
-      },
-      {
-       "h": "国家",
-       "py": "guójiā",
-       "gl": "state; country",
-       "pos": "n."
-      },
-      {
-       "h": "基础设施",
-       "py": "jīchǔshèshī",
-       "gl": "infrastructure",
-       "pos": "n."
-      },
-      {
-       "h": "发展",
-       "py": "fāzhǎn",
-       "gl": "develop; development",
-       "pos": "v."
-      },
-      {
-       "h": "速度",
-       "py": "sùdù",
-       "gl": "speed",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "直观",
-       "py": "zhíguān",
-       "gl": "intuitive; clear",
-       "pos": "adj."
-      },
-      {
-       "h": "窗口",
-       "py": "chuāngkǒu",
-       "gl": "window (into something)",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Of course, better facilities depend on daily maintenance; if users don't keep good hygiene habits, even the best facilities will have a hard time staying clean for long.",
-   "phrases": [
-    {
-     "en": "Of course, better facilities depend on daily maintenance; if users don't keep good hygiene habits, even the best facilities will have a hard time staying clean for long.",
-     "words": [
-      {
-       "h": "当然",
-       "py": "dāngrán",
-       "gl": "of course; certainly",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "设施",
-       "py": "shèshī",
-       "gl": "facilities; infrastructure",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "改善",
-       "py": "gǎishàn",
-       "gl": "improve",
-       "pos": "v."
-      },
-      {
-       "h": "离不开",
-       "py": "líbùkāi",
-       "gl": "can't do without",
-       "pos": "v."
-      },
-      {
-       "h": "日常",
-       "py": "rìcháng",
-       "gl": "daily; everyday",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "维护",
-       "py": "wéihù",
-       "gl": "maintenance; upkeep",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "使用者",
-       "py": "shǐyòngzhě",
-       "gl": "user",
-       "pos": "n."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "注意",
-       "py": "zhùyì",
-       "gl": "pay attention to; be careful about",
-       "pos": "v."
-      },
-      {
-       "h": "卫生习惯",
-       "py": "wèishēngxíguàn",
-       "gl": "hygiene habit",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "no matter how (再…也…); however",
-       "pos": "adv."
-      },
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "good; well",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "硬件条件",
-       "py": "yìngjiàntiáojiàn",
-       "gl": "physical facilities; hardware",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "很难",
-       "py": "hěnnán",
-       "gl": "very difficult; hard to",
-       "pos": "adj."
-      },
-      {
-       "h": "长期",
-       "py": "chángqī",
-       "gl": "long-term; over a long period",
-       "pos": "adv."
-      },
-      {
-       "h": "保持",
-       "py": "bǎochí",
-       "gl": "maintain; keep",
-       "pos": "v."
-      },
-      {
-       "h": "整洁",
-       "py": "zhěngjié",
-       "gl": "neat; clean and tidy",
-       "pos": "adj."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Research shows that how clean public toilets are and how sensibly they're laid out can even affect whether older people and people with disabilities are willing and confident enough to go out on their own.",
-   "phrases": [
-    {
-     "en": "Research shows that how clean public toilets are and how sensibly they're laid out can even affect whether older people and people with disabilities are willing and confident enough to go out on their own.",
-     "words": [
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "have; there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "研究",
-       "py": "yánjiū",
-       "gl": "research; study",
-       "pos": "n."
-      },
-      {
-       "h": "显示",
-       "py": "xiǎnshì",
-       "gl": "show; indicate",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "公共厕所",
-       "py": "gōnggòngcèsuǒ",
-       "gl": "public restroom",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "清洁",
-       "py": "qīngjié",
-       "gl": "cleanliness; hygiene; clean",
-       "pos": "n."
-      },
-      {
-       "h": "程度",
-       "py": "chéngdù",
-       "gl": "degree; extent",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "布局",
-       "py": "bùjú",
-       "gl": "layout; arrangement; deployment",
-       "pos": "n."
-      },
-      {
-       "h": "合理性",
-       "py": "hélǐxìng",
-       "gl": "rationality; reasonableness",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "甚至",
-       "py": "shènzhì",
-       "gl": "even; so much so that",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "v."
-      },
-      {
-       "h": "影响",
-       "py": "yǐngxiǎng",
-       "gl": "influence; affect",
-       "pos": "v."
-      },
-      {
-       "h": "老年人",
-       "py": "lǎoniánrén",
-       "gl": "elderly person; the elderly",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "残障人士",
-       "py": "cánzhàngrénshì",
-       "gl": "people with disabilities",
-       "pos": "n."
-      },
-      {
-       "h": "独立",
-       "py": "dúlì",
-       "gl": "independent; independence",
-       "pos": "adv."
-      },
-      {
-       "h": "出行",
-       "py": "chūxíng",
-       "gl": "travel; getting around",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "意愿",
-       "py": "yìyuàn",
-       "gl": "wish; will",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "信心",
-       "py": "xìnxīn",
-       "gl": "confidence",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Seen this way, what the \"toilet revolution\" really reflects is how much a society cares for its vulnerable groups, and whether its public services truly put people first.",
-   "phrases": [
-    {
-     "en": "Seen this way, what the \"toilet revolution\" really reflects is how much a society cares for its vulnerable groups, and whether its public services truly put people first.",
-     "words": [
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "这个",
-       "py": "zhège",
-       "gl": "this; this one",
-       "pos": "pron."
-      },
-      {
-       "h": "角度",
-       "py": "jiǎodù",
-       "gl": "angle; point of view",
-       "pos": "n."
-      },
-      {
-       "h": "看",
-       "py": "kàn",
-       "gl": "look; watch; read",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "厕所革命",
-       "py": "cèsuǒgémìng",
-       "gl": "toilet revolution",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "背后",
-       "py": "bèihòu",
-       "gl": "behind (it); underlying",
-       "pos": "n."
-      },
-      {
-       "h": "承载",
-       "py": "chéngzài",
-       "gl": "carry; bear; embody",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "其实",
-       "py": "qíshí",
-       "gl": "actually; in fact",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "general measure word (people, things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "社会",
-       "py": "shèhuì",
-       "gl": "society",
-       "pos": "n."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "弱势群体",
-       "py": "ruòshìqúntǐ",
-       "gl": "vulnerable groups; the disadvantaged",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "关怀",
-       "py": "guānhuái",
-       "gl": "care; concern",
-       "pos": "n."
-      },
-      {
-       "h": "程度",
-       "py": "chéngdù",
-       "gl": "degree; extent",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "以及",
-       "py": "yǐjí",
-       "gl": "and; as well as",
-       "pos": "conj."
-      },
-      {
-       "h": "公共服务体系",
-       "py": "gōnggòngfúwùtǐxì",
-       "gl": "public service system",
-       "pos": "n."
-      },
-      {
-       "h": "是否",
-       "py": "shìfǒu",
-       "gl": "whether; if",
-       "pos": "adv."
-      },
-      {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "real; true; genuine",
-       "pos": "adv."
-      },
-      {
-       "h": "以人为本",
-       "py": "yǐrénwéiběn",
-       "gl": "people-oriented; put people first (idiom)",
-       "pos": "phrase"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Every small improvement quietly makes people's daily lives a little more comfortable.",
-   "phrases": [
-    {
-     "en": "Every small improvement quietly makes people's daily lives a little more comfortable.",
-     "words": [
-      {
-       "h": "每",
-       "py": "měi",
-       "gl": "every; each",
-       "pos": "pron."
-      },
-      {
-       "h": "一次",
-       "py": "yīcì",
-       "gl": "once; in one go; at the first attempt",
-       "pos": "measure word"
-      },
-      {
-       "h": "细节",
-       "py": "xìjié",
-       "gl": "detail",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "particle"
-      },
-      {
-       "h": "改进",
-       "py": "gǎijìn",
-       "gl": "improvement",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "悄悄",
-       "py": "qiāoqiāo",
-       "gl": "quietly; secretly; stealthily",
-       "pos": "adv."
-      },
-      {
-       "h": "提升",
-       "py": "tíshēng",
-       "gl": "raise; improve; boost",
+       "h": "挂",
+       "py": "guà",
+       "gl": "hang",
        "pos": "v."
       },
       {
        "h": "着",
        "py": "zhe",
        "gl": "particle: ongoing action or state",
-       "pos": "function word"
+       "pos": "particle"
       },
       {
-       "h": "人们",
-       "py": "rénmen",
-       "gl": "people",
+       "h": "鸟笼",
+       "py": "niǎolóng",
+       "gl": "birdcage",
        "pos": "n."
       },
       {
-       "h": "日常",
-       "py": "rìcháng",
-       "gl": "daily; everyday",
+       "h": "，"
+      },
+      {
+       "h": "飘",
+       "py": "piāo",
+       "gl": "waft; float; drift",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "炒",
+       "py": "chǎo",
+       "gl": "stir-fry",
        "pos": "adj."
       },
       {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life; live",
+       "h": "栗子",
+       "py": "lìzi",
+       "gl": "chestnut",
        "pos": "n."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "舒适度",
-       "py": "shūshìdù",
-       "gl": "comfort level",
+       "h": "香味",
+       "py": "xiāngwèi",
+       "gl": "fragrance; aroma",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "That evening Mark sent his friends a message: \"Stop telling stories about Beijing's toilets. Your stories are out of date.\"",
+   "phrases": [
+    {
+     "en": "That evening Mark sent his friends a message: \"Stop telling stories about Beijing's toilets. Your stories are out of date.\"",
+     "words": [
+      {
+       "h": "晚上",
+       "py": "wǎnshàng",
+       "gl": "evening",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "马克",
+       "py": "Mǎkè",
+       "gl": "Mark (Mark Vande Hei)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
+       "pos": "prep."
+      },
+      {
+       "h": "朋友",
+       "py": "péngyǒu",
+       "gl": "friend",
+       "pos": "n."
+      },
+      {
+       "h": "们",
+       "py": "men",
+       "gl": "plural suffix for people",
+       "pos": "particle"
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "消息",
+       "py": "xiāoxī",
+       "gl": "message; news",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "别",
+       "py": "bié",
+       "gl": "don't (prohibition); other",
+       "pos": "adv."
+      },
+      {
+       "h": "再",
+       "py": "zài",
+       "gl": "then; after that",
+       "pos": "adv."
+      },
+      {
+       "h": "讲",
+       "py": "jiǎng",
+       "gl": "tell; talk about",
+       "pos": "v."
+      },
+      {
+       "h": "北京",
+       "py": "běijīng",
+       "gl": "Beijing",
+       "pos": "proper noun"
+      },
+      {
+       "h": "厕所",
+       "py": "cèsuǒ",
+       "gl": "toilet; restroom",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "故事",
+       "py": "gùshì",
+       "gl": "story",
+       "pos": "n."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "你们",
+       "py": "nǐmen",
+       "gl": "you (plural)",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "故事",
+       "py": "gùshì",
+       "gl": "story",
+       "pos": "n."
+      },
+      {
+       "h": "过时",
+       "py": "guòshí",
+       "gl": "be outdated; go out of date",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
+      },
+      {
+       "h": "”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Ever since, he has always kept a pack of tissues in his pocket.",
+   "phrases": [
+    {
+     "en": "Ever since, he has always kept a pack of tissues in his pocket.",
+     "words": [
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "以后",
+       "py": "yǐhòu",
+       "gl": "after (since)",
+       "pos": "postposition"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "口袋",
+       "py": "kǒudài",
+       "gl": "pocket; bag; pouch",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "总是",
+       "py": "zǒngshì",
+       "gl": "always",
+       "pos": "adv."
+      },
+      {
+       "h": "装",
+       "py": "zhuāng",
+       "gl": "to be kept (inside)",
+       "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "包",
+       "py": "bāo",
+       "gl": "pack (measure word)",
+       "pos": "measure word"
+      },
+      {
+       "h": "纸巾",
+       "py": "zhǐjīn",
+       "gl": "tissues",
        "pos": "n."
       },
       {

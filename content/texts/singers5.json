@@ -1,584 +1,53 @@
 {
  "id": "singers5",
  "level": 5,
- "title_zh": "歌手与粉丝文化",
- "title_en": "Singers and Fan Culture",
+ "title_zh": "第一排的票",
+ "title_en": "A Front-Row Ticket",
  "free": false,
  "audio_url": null,
- "note_en": "新歌一上线，后援会就会号召大家反复播放 uses 一…就… \"as soon as... (then)...\": 一 goes before the first verb and 就 before the second, both after their subjects. Also notice 行程排得满满的 \"the schedule is packed full\": 得 after a verb introduces how or to what degree the action turns out, where English would use an adverb or a separate adjective.",
+ "note_en": "The pattern 一…就… links two actions: \"as soon as…, then…\" 新歌一上线，大家就要反复播放 \"as soon as a new song comes out, everyone has to play it over and over\"; 他一开口，小雨就忘了榜单 \"the moment he started singing, Xiaoyu forgot the charts.\" The first part is the trigger, the second the instant response. Note also 得 in 排得满满的: it introduces the degree of the result after the verb — \"booked solid.\"",
  "sentences": [
   {
-   "en": "Lin Le is a very popular singer. The name is made up, but his story is a lot like what many pop singers go through today.",
+   "en": "Lin Le's new song came out at midnight, and by 12:01 Xiaoyu was already listening to it for the third time.",
    "phrases": [
     {
-     "en": "Lin Le is a very popular singer.",
+     "en": "Lin Le's new song came out at midnight, and by 12:01 Xiaoyu was already listening to it for the third time.",
      "words": [
       {
        "h": "林乐",
        "py": "Lín Lè",
-       "gl": "Lin Le (name)",
+       "gl": "Lin Le",
        "pos": "proper noun"
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "one",
+       "h": "新歌",
+       "py": "xīngē",
+       "gl": "new song",
+       "pos": "n."
+      },
+      {
+       "h": "半夜",
+       "py": "bànyè",
+       "gl": "midnight; middle of the night",
+       "pos": "n."
+      },
+      {
+       "h": "十二",
+       "py": "shíèr",
+       "gl": "twelve",
        "pos": "num."
       },
       {
-       "h": "位",
-       "py": "wèi",
-       "gl": "polite measure word for people",
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
        "pos": "measure word"
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "受",
-       "py": "shòu",
-       "gl": "receive; enjoy (受欢迎 be popular)",
-       "pos": "v."
-      },
-      {
-       "h": "欢迎",
-       "py": "huānyíng",
-       "gl": "welcome; popularity (受…欢迎 be popular with)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "歌手",
-       "py": "gēshǒu",
-       "gl": "singer",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "The name is made up,",
-     "words": [
-      {
-       "h": "虽然",
-       "py": "suīrán",
-       "gl": "although; though",
-       "pos": "conj."
-      },
-      {
-       "h": "这个",
-       "py": "zhège",
-       "gl": "this; this one",
-       "pos": "pron."
-      },
-      {
-       "h": "名字",
-       "py": "míngzi",
-       "gl": "name",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "虚构",
-       "py": "xūgòu",
-       "gl": "fictional; made up; fabricate",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
-       "pos": "particle"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but his story is a lot like what many pop singers go through today.",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "故事",
-       "py": "gùshì",
-       "gl": "story",
-       "pos": "n."
-      },
-      {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "v."
-      },
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "流行",
-       "py": "liúxíng",
-       "gl": "be popular; be in fashion",
-       "pos": "adj."
-      },
-      {
-       "h": "歌手",
-       "py": "gēshǒu",
-       "gl": "singer",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "经历",
-       "py": "jīnglì",
-       "gl": "experience",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "He basically grew up on talent shows, and only after several years of training did he finally make it onto the stage.",
-   "phrases": [
-    {
-     "en": "He basically grew up on talent shows,",
-     "words": [
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "从小",
-       "py": "cóngxiǎo",
-       "gl": "since childhood",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "选秀",
-       "py": "xuǎnxiù",
-       "gl": "talent show",
-       "pos": "n."
-      },
-      {
-       "h": "节目",
-       "py": "jiémù",
-       "gl": "program; show; performance",
-       "pos": "n."
-      },
-      {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "长大",
-       "py": "zhǎngdà",
-       "gl": "grow up",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and after several years of training,",
-     "words": [
-      {
-       "h": "经过",
-       "py": "jīngguò",
-       "gl": "go through; undergo; pass by",
-       "pos": "prep."
-      },
-      {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
-       "pos": "num."
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "训练",
-       "py": "xùnliàn",
-       "gl": "training",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "he finally made it onto the stage.",
-     "words": [
-      {
-       "h": "才",
-       "py": "cái",
-       "gl": "only then; not until",
-       "pos": "adv."
-      },
-      {
-       "h": "终于",
-       "py": "zhōngyú",
-       "gl": "finally; at last",
-       "pos": "adv."
-      },
-      {
-       "h": "站上",
-       "py": "zhànshàng",
-       "gl": "step onto; stand on",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "舞台",
-       "py": "wǔtái",
-       "gl": "stage",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Every time he gives a concert, tens of thousands of fans scramble online for tickets days in advance.",
-   "phrases": [
-    {
-     "en": "Every time he gives a concert,",
-     "words": [
-      {
-       "h": "每次",
-       "py": "měicì",
-       "gl": "every time",
-       "pos": "pron."
-      },
-      {
-       "h": "开",
-       "py": "kāi",
-       "gl": "open; turn on; drive; start (a business); prescribe; hold (a meeting)",
-       "pos": "v."
-      },
-      {
-       "h": "演唱会",
-       "py": "yǎnchànghuì",
-       "gl": "concert",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "tens of thousands of fans scramble online for tickets days in advance.",
-     "words": [
-      {
-       "h": "成千上万",
-       "py": "chéngqiānshàngwàn",
-       "gl": "thousands upon thousands",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "粉丝",
-       "py": "fěnsī",
-       "gl": "fan; followers",
-       "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "提前",
-       "py": "tíqián",
-       "gl": "in advance; ahead of time",
-       "pos": "adv."
-      },
-      {
-       "h": "好几",
-       "py": "hǎojǐ",
-       "gl": "quite a few; several",
-       "pos": "pron."
-      },
-      {
-       "h": "天",
-       "py": "tiān",
-       "gl": "day",
-       "pos": "measure word"
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "网上",
-       "py": "wǎngshàng",
-       "gl": "online; on the internet",
-       "pos": "n."
-      },
-      {
-       "h": "抢票",
-       "py": "qiǎngpiào",
-       "gl": "rush to buy tickets",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "His fans have formed fan clubs where they share news about him and vote for him together and push his songs up the charts.",
-   "phrases": [
-    {
-     "en": "His fans have formed fan clubs,",
-     "words": [
-      {
-       "h": "粉丝们",
-       "py": "fěnsīmen",
-       "gl": "fans; followers",
-       "pos": "n."
-      },
-      {
-       "h": "组成",
-       "py": "zǔchéng",
-       "gl": "make up; form; consist of",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "后援会",
-       "py": "hòuyuánhuì",
-       "gl": "fan club",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "where they share news about him,",
-     "words": [
-      {
-       "h": "平时",
-       "py": "píngshí",
-       "gl": "usually; ordinarily",
-       "pos": "adv."
-      },
-      {
-       "h": "互相",
-       "py": "hùxiāng",
-       "gl": "each other; mutually",
-       "pos": "adv."
-      },
-      {
-       "h": "分享",
-       "py": "fēnxiǎng",
-       "gl": "share",
-       "pos": "v."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "消息",
-       "py": "xiāoxi",
-       "gl": "message; news",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and vote for him together and push his songs up the charts.",
-     "words": [
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "一起",
-       "py": "yìqǐ",
-       "gl": "together",
-       "pos": "adv."
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
-      {
-       "h": "他",
-       "py": "tā",
-       "gl": "he; him",
-       "pos": "pron."
-      },
-      {
-       "h": "投票",
-       "py": "tóupiào",
-       "gl": "vote; voting",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "打榜",
-       "py": "dǎbǎng",
-       "gl": "boost (a star's) ranking on charts",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "As soon as a new song is released, the fan club calls on everyone to stream it over and over so it climbs into the top spots on the major music charts.",
-   "phrases": [
-    {
-     "en": "As soon as a new song is released,",
-     "words": [
-      {
-       "h": "新",
-       "py": "xīn",
-       "gl": "new; newly",
-       "pos": "adj."
-      },
-      {
-       "h": "歌",
-       "py": "gē",
-       "gl": "song",
-       "pos": "n."
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "as soon as (一…就… no sooner … than)",
-       "pos": "conj."
       },
       {
        "h": "上线",
@@ -588,11 +57,94 @@
       },
       {
        "h": "，"
+      },
+      {
+       "h": "十二",
+       "py": "shíèr",
+       "gl": "twelve",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "零",
+       "py": "líng",
+       "gl": "zero",
+       "pos": "num."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "分",
+       "py": "fēn",
+       "gl": "minute",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "小雨",
+       "py": "Xiǎo Yǔ",
+       "gl": "Xiaoyu (female name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "已经",
+       "py": "yǐjīng",
+       "gl": "already",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "第三",
+       "py": "dìsān",
+       "gl": "third",
+       "pos": "num."
+      },
+      {
+       "h": "遍",
+       "py": "biàn",
+       "gl": "measure word for times (doing something from start to finish)",
+       "pos": "measure word"
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "The fan club had a rule: as soon as a new song comes out, everyone has to play it over and over to push it into the top three on the charts.",
+   "phrases": [
     {
-     "en": "the fan club calls on everyone to stream it over and over,",
+     "en": "The fan club had a rule: as soon as a new song comes out, everyone has to play it over and over to push it into the top three on the charts.",
      "words": [
       {
        "h": "后援会",
@@ -601,28 +153,58 @@
        "pos": "n."
       },
       {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "规定",
+       "py": "guīdìng",
+       "gl": "regulation; rule",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      },
+      {
+       "h": "新歌",
+       "py": "xīngē",
+       "gl": "new song",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "as soon as (一…就… no sooner … than)",
        "pos": "adv."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
+       "h": "上线",
+       "py": "shàngxiàn",
+       "gl": "go online; launch (a product or feature)",
+       "pos": "v."
       },
       {
-       "h": "号召",
-       "py": "hàozhào",
-       "gl": "call on; appeal to",
-       "pos": "v."
+       "h": "，"
       },
       {
        "h": "大家",
        "py": "dàjiā",
        "gl": "everyone; everybody",
        "pos": "pron."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
       },
       {
        "h": "反复",
@@ -638,82 +220,53 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "so it climbs into the top spots on the major music charts.",
-     "words": [
-      {
-       "h": "好",
-       "py": "hǎo",
-       "gl": "so that; in order to",
-       "pos": "conj."
       },
       {
        "h": "让",
        "py": "ràng",
-       "gl": "let; make (someone do); ask (someone to do)",
+       "gl": "make (someone do); cause",
        "pos": "v."
       },
       {
-       "h": "歌曲",
-       "py": "gēqǔ",
-       "gl": "song",
-       "pos": "n."
-      },
-      {
-       "h": "冲上",
-       "py": "chōngshàng",
-       "gl": "rush up to; shoot up to",
-       "pos": "v."
-      },
-      {
-       "h": "各",
-       "py": "gè",
-       "gl": "each; every; various",
+       "h": "它",
+       "py": "tā",
+       "gl": "it",
        "pos": "pron."
       },
       {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
+       "h": "冲",
+       "py": "chōng",
+       "gl": "rush; dash",
+       "pos": "v."
       },
       {
-       "h": "音乐",
-       "py": "yīnyuè",
-       "gl": "music",
+       "h": "进",
+       "py": "jìn",
+       "gl": "in (complement)",
+       "pos": "v."
+      },
+      {
+       "h": "榜单",
+       "py": "bǎngdān",
+       "gl": "chart, ranking",
        "pos": "n."
-      },
-      {
-       "h": "榜",
-       "py": "bǎng",
-       "gl": "chart; list; ranking",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
       },
       {
        "h": "前",
        "py": "qián",
-       "gl": "top (of a list)",
-       "pos": "adj."
+       "gl": "before",
+       "pos": "postposition"
       },
       {
-       "h": "几",
-       "py": "jǐ",
-       "gl": "several; a few",
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
        "pos": "num."
       },
       {
        "h": "名",
        "py": "míng",
-       "gl": "measure word for places in a ranking",
+       "gl": "measure word for people (with a role or profession)",
        "pos": "measure word"
       },
       {
@@ -724,22 +277,266 @@
    ]
   },
   {
-   "en": "Besides singing, he also has to appear on all kinds of variety shows, shoot commercials, and give interviews, so his schedule is packed.",
+   "en": "Two phones glowed under her blanket: one playing the song, the other for doing chart-boosting tasks.",
    "phrases": [
     {
-     "en": "Besides singing,",
+     "en": "Two phones glowed under her blanket:",
      "words": [
       {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
+       "h": "被子",
+       "py": "bèizi",
+       "gl": "quilt; comforter",
+       "pos": "n."
       },
       {
-       "h": "唱歌",
-       "py": "chànggē",
-       "gl": "sing (songs)",
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "亮",
+       "py": "liàng",
+       "gl": "to light up, glow",
        "pos": "v."
+      },
+      {
+       "h": "着",
+       "py": "zhe",
+       "gl": "particle: ongoing action or state",
+       "pos": "particle"
+      },
+      {
+       "h": "两",
+       "py": "liǎng",
+       "gl": "two",
+       "pos": "num."
+      },
+      {
+       "h": "部",
+       "py": "bù",
+       "gl": "measure word for films, novels, machines; department; measure word for laws, regulations",
+       "pos": "measure word"
+      },
+      {
+       "h": "手机",
+       "py": "shǒujī",
+       "gl": "cell phone",
+       "pos": "n."
+      },
+      {
+       "h": "："
+      }
+     ]
+    },
+    {
+     "en": "one playing the song, the other for doing chart-boosting tasks.",
+     "words": [
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "部",
+       "py": "bù",
+       "gl": "measure word for films, novels, machines; department; measure word for laws, regulations",
+       "pos": "measure word"
+      },
+      {
+       "h": "放",
+       "py": "fàng",
+       "gl": "put; place",
+       "pos": "v."
+      },
+      {
+       "h": "歌",
+       "py": "gē",
+       "gl": "song",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "部",
+       "py": "bù",
+       "gl": "measure word for films, novels, machines; department; measure word for laws, regulations",
+       "pos": "measure word"
+      },
+      {
+       "h": "用来",
+       "py": "yònglái",
+       "gl": "be used for; use to",
+       "pos": "v."
+      },
+      {
+       "h": "完成",
+       "py": "wánchéng",
+       "gl": "finish; complete",
+       "pos": "v."
+      },
+      {
+       "h": "打榜",
+       "py": "dǎbǎng",
+       "gl": "boost (a star's) ranking on charts",
+       "pos": "v."
+      },
+      {
+       "h": "任务",
+       "py": "rènwù",
+       "gl": "task; assignment",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the morning her mom saw her daughter's red eyes and said nothing.",
+   "phrases": [
+    {
+     "en": "In the morning her mom saw her daughter's red eyes and said nothing.",
+     "words": [
+      {
+       "h": "早上",
+       "py": "zǎoshàng",
+       "gl": "morning",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "妈妈",
+       "py": "māma",
+       "gl": "mom",
+       "pos": "n."
+      },
+      {
+       "h": "看见",
+       "py": "kànjiàn",
+       "gl": "see",
+       "pos": "v."
+      },
+      {
+       "h": "女儿",
+       "py": "nǚér",
+       "gl": "daughter",
+       "pos": "n."
+      },
+      {
+       "h": "红红的",
+       "py": "hónghóng de",
+       "gl": "red; reddened",
+       "pos": "adj."
+      },
+      {
+       "h": "眼睛",
+       "py": "yǎnjīng",
+       "gl": "eye; eyes",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "什么",
+       "py": "shénme",
+       "gl": "what",
+       "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "说",
+       "py": "shuō",
+       "gl": "say; speak; tell",
+       "pos": "v."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In 2005, when Super Girl was the rage all over the country, she too had sent text message after text message, spending all her pocket money on votes.",
+   "phrases": [
+    {
+     "en": "In 2005, when Super Girl was the rage all over the country,",
+     "words": [
+      {
+       "h": "二零零五年",
+       "py": "èr líng líng wǔ nián",
+       "gl": "2005 (the year)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "《"
+      },
+      {
+       "h": "超级女声",
+       "py": "Chāojí Nǚshēng",
+       "gl": "Super Girl (TV show)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "》"
+      },
+      {
+       "h": "火",
+       "py": "huǒ",
+       "gl": "become popular; take off",
+       "pos": "v."
+      },
+      {
+       "h": "遍",
+       "py": "biàn",
+       "gl": "all over (the country)",
+       "pos": "measure word"
+      },
+      {
+       "h": "全国",
+       "py": "quánguó",
+       "gl": "the whole country; nationwide",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "时候",
+       "py": "shíhòu",
+       "gl": "time; moment (when ...)",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -747,13 +544,179 @@
      ]
     },
     {
-     "en": "he also has to appear on all kinds of variety shows, shoot commercials, and give interviews,",
+     "en": "she too had sent text message after text message, spending all her pocket money on votes.",
      "words": [
       {
-       "h": "他",
+       "h": "她",
        "py": "tā",
-       "gl": "he; him",
+       "gl": "she; her",
        "pos": "pron."
+      },
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "一",
+       "py": "yī",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "条",
+       "py": "tiáo",
+       "gl": "measure word for long things (fish, roads, rivers)",
+       "pos": "measure word"
+      },
+      {
+       "h": "地",
+       "py": "de",
+       "gl": "adverbial particle (turns an adjective into an adverb: 早早地 early)",
+       "pos": "particle"
+      },
+      {
+       "h": "发",
+       "py": "fā",
+       "gl": "send",
+       "pos": "v."
+      },
+      {
+       "h": "过",
+       "py": "guò",
+       "gl": "particle: past experience (have done)",
+       "pos": "function word"
+      },
+      {
+       "h": "短信",
+       "py": "duǎnxìn",
+       "gl": "text message",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
+      },
+      {
+       "h": "零花钱",
+       "py": "línghuāqián",
+       "gl": "pocket money",
+       "pos": "n."
+      },
+      {
+       "h": "都",
+       "py": "dōu",
+       "gl": "all; both",
+       "pos": "adv."
+      },
+      {
+       "h": "花",
+       "py": "huā",
+       "gl": "flower; spend (time, money)",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "投票",
+       "py": "tóupiào",
+       "gl": "vote; voting",
+       "pos": "n."
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Only back then it cost money; now it costs sleep as well.",
+   "phrases": [
+    {
+     "en": "Only back then it cost money; now it costs sleep as well.",
+     "words": [
+      {
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
+      },
+      {
+       "h": "那时候",
+       "py": "nàshíhòu",
+       "gl": "at that time; back then",
+       "pos": "n."
+      },
+      {
+       "h": "花",
+       "py": "huā",
+       "gl": "flower; spend (time, money)",
+       "pos": "v."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "钱",
+       "py": "qián",
+       "gl": "money",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "现在",
+       "py": "xiànzài",
+       "gl": "now",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
       },
       {
        "h": "还",
@@ -765,99 +728,25 @@
        "h": "要",
        "py": "yào",
        "gl": "have to; need to",
-       "pos": "function word"
-      },
-      {
-       "h": "参加",
-       "py": "cānjiā",
-       "gl": "take part in; participate",
        "pos": "v."
       },
       {
-       "h": "各种",
-       "py": "gèzhǒng",
-       "gl": "all kinds of; various",
-       "pos": "pron."
-      },
-      {
-       "h": "综艺",
-       "py": "zōngyì",
-       "gl": "variety (show)",
-       "pos": "adj."
-      },
-      {
-       "h": "节目",
-       "py": "jiémù",
-       "gl": "program; show; performance",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "拍",
-       "py": "pāi",
-       "gl": "take (a photo); shoot (a video); pat; clap",
+       "h": "花",
+       "py": "huā",
+       "gl": "flower; spend (time, money)",
        "pos": "v."
       },
       {
-       "h": "广告",
-       "py": "guǎnggào",
-       "gl": "advertisement; ad",
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "睡眠",
+       "py": "shuìmián",
+       "gl": "sleep",
        "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "接受",
-       "py": "jiēshòu",
-       "gl": "accept",
-       "pos": "v."
-      },
-      {
-       "h": "采访",
-       "py": "cǎifǎng",
-       "gl": "interview",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and his schedule is packed.",
-     "words": [
-      {
-       "h": "行程",
-       "py": "xíngchéng",
-       "gl": "itinerary; schedule",
-       "pos": "n."
-      },
-      {
-       "h": "排",
-       "py": "pái",
-       "gl": "schedule; arrange",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "de",
-       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
-       "pos": "particle"
-      },
-      {
-       "h": "满满",
-       "py": "mǎnmǎn",
-       "gl": "full; packed",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "particle after reduplicated descriptive words (满满的 'completely full')",
-       "pos": "particle"
       },
       {
        "h": "。"
@@ -867,16 +756,31 @@
    ]
   },
   {
-   "en": "At the music awards every year, singers walk the red carpet in glamorous outfits, and this is one of the moments fans look forward to most.",
+   "en": "In the spring of 2021, Xiaoyu's friend Tingting bought thirty crates of milk.",
    "phrases": [
     {
-     "en": "At the music awards every year,",
+     "en": "In the spring of 2021, Xiaoyu's friend Tingting bought thirty crates of milk.",
      "words": [
       {
-       "h": "每年",
-       "py": "měinián",
-       "gl": "every year",
-       "pos": "pron."
+       "h": "二零二一年",
+       "py": "èr líng èr yī nián",
+       "gl": "the year 2021",
+       "pos": "n."
+      },
+      {
+       "h": "春天",
+       "py": "chūntiān",
+       "gl": "spring (season)",
+       "pos": "adv."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "小雨",
+       "py": "Xiǎo Yǔ",
+       "gl": "Xiaoyu (female name)",
+       "pos": "proper noun"
       },
       {
        "h": "的",
@@ -885,97 +789,82 @@
        "pos": "particle"
       },
       {
-       "h": "音乐",
-       "py": "yīnyuè",
-       "gl": "music",
+       "h": "朋友",
+       "py": "péngyou",
+       "gl": "friend",
        "pos": "n."
       },
       {
-       "h": "颁奖",
-       "py": "bānjiǎng",
-       "gl": "award presentation",
-       "pos": "n."
+       "h": "婷婷",
+       "py": "Tíngtíng",
+       "gl": "Tingting",
+       "pos": "proper noun"
       },
       {
-       "h": "典礼",
-       "py": "diǎnlǐ",
-       "gl": "ceremony",
-       "pos": "n."
-      },
-      {
-       "h": "上",
-       "py": "shàng",
-       "gl": "on; in (after a noun: 桌子上 on the table; 历史上 in history)",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "singers walk the red carpet in glamorous outfits,",
-     "words": [
-      {
-       "h": "歌手们",
-       "py": "gēshǒumen",
-       "gl": "singers",
-       "pos": "n."
-      },
-      {
-       "h": "穿着",
-       "py": "chuānzhe",
-       "gl": "wearing; dressed in",
+       "h": "买",
+       "py": "mǎi",
+       "gl": "buy",
        "pos": "v."
       },
       {
-       "h": "华丽",
-       "py": "huálì",
-       "gl": "ornate; magnificent; gorgeous",
-       "pos": "adj."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "三十",
+       "py": "sānshí",
+       "gl": "thirty",
+       "pos": "num."
+      },
+      {
+       "h": "箱",
+       "py": "xiāng",
+       "gl": "measure word for boxes, crates",
+       "pos": "measure word"
+      },
+      {
+       "h": "牛奶",
+       "py": "niúnǎi",
+       "gl": "milk",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "What she wanted wasn't the milk but the QR codes under the caps: scan one, and you could cast a vote for your idol on a talent show.",
+   "phrases": [
+    {
+     "en": "What she wanted wasn't the milk but the QR codes under the caps:",
+     "words": [
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
+       "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "礼服",
-       "py": "lǐfú",
-       "gl": "formal dress; gown",
-       "pos": "n."
-      },
-      {
-       "h": "走",
-       "py": "zǒu",
-       "gl": "go; travel (of a package: 走山路 go over mountain roads); walk",
-       "pos": "v."
-      },
-      {
-       "h": "红毯",
-       "py": "hóngtǎn",
-       "gl": "red carpet",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and this is one of the moments fans look forward to most.",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
        "pos": "adv."
       },
       {
@@ -985,79 +874,24 @@
        "pos": "v."
       },
       {
-       "h": "粉丝们",
-       "py": "fěnsīmen",
-       "gl": "fans; followers",
+       "h": "牛奶",
+       "py": "niúnǎi",
+       "gl": "milk",
        "pos": "n."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "期待",
-       "py": "qīdài",
-       "gl": "look forward to",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "时刻",
-       "py": "shíkè",
-       "gl": "moment; time",
-       "pos": "n."
-      },
-      {
-       "h": "之一",
-       "py": "zhīyī",
-       "gl": "one of (最…之一 'one of the most …')",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But in this industry, not many singers truly make it; most work very hard but never get their chance in the spotlight.",
-   "phrases": [
-    {
-     "en": "But in this industry,",
-     "words": [
-      {
-       "h": "不过",
-       "py": "búguò",
-       "gl": "but; however",
-       "pos": "conj."
       },
       {
        "h": "，"
       },
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
       },
       {
-       "h": "这个",
-       "py": "zhège",
-       "gl": "this; this one",
-       "pos": "pron."
-      },
-      {
-       "h": "行业",
-       "py": "hángyè",
-       "gl": "industry; line of business",
+       "h": "瓶盖",
+       "py": "pínggài",
+       "gl": "bottle cap",
        "pos": "n."
       },
       {
@@ -1067,313 +901,63 @@
        "pos": "postposition"
       },
       {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "二维码",
+       "py": "èrwéimǎ",
+       "gl": "QR code",
+       "pos": "n."
+      },
+      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "not many singers truly make it,",
+     "en": "scan one, and you could cast a vote for your idol on a talent show.",
      "words": [
+      {
+       "h": "扫",
+       "py": "sǎo",
+       "gl": "scan; sweep",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
       {
        "h": "能",
        "py": "néng",
        "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "truly; really",
-       "pos": "adv."
-      },
-      {
-       "h": "红起来",
-       "py": "hóngqǐlái",
-       "gl": "become popular; become a hit",
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "歌手",
-       "py": "gēshǒu",
-       "gl": "singer",
-       "pos": "n."
-      },
-      {
-       "h": "并不",
-       "py": "bìngbù",
-       "gl": "not at all; by no means",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and most work very hard but never get their chance in the spotlight.",
-     "words": [
-      {
-       "h": "大部分",
-       "py": "dàbùfen",
-       "gl": "most; the greater part",
-       "pos": "pron."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "付出",
-       "py": "fùchū",
-       "gl": "put in (effort); pay",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot; much",
-       "pos": "adj."
-      },
-      {
-       "h": "努力",
-       "py": "nǔlì",
-       "gl": "work hard; try hard; effort",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "却",
-       "py": "què",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "始终",
-       "py": "shǐzhōng",
-       "gl": "always; from start to finish",
-       "pos": "adv."
-      },
-      {
-       "h": "没有",
-       "py": "méiyǒu",
-       "gl": "not have; there is no",
-       "pos": "v."
-      },
-      {
-       "h": "机会",
-       "py": "jīhuì",
-       "gl": "opportunity; chance",
-       "pos": "n."
-      },
-      {
-       "h": "走到",
-       "py": "zǒudào",
-       "gl": "walk to; reach; come to (the end)",
-       "pos": "v."
-      },
-      {
-       "h": "聚光灯",
-       "py": "jùguāngdēng",
-       "gl": "spotlight",
-       "pos": "n."
-      },
-      {
-       "h": "下",
-       "py": "xià",
-       "gl": "under (强光下 under bright light)",
-       "pos": "postposition"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "But \"super topic\" rankings and chart-boosting tasks still exist, and many fans spend a lot of time and money every day inflating their idol's numbers.",
-   "phrases": [
-    {
-     "en": "But \"super topic\" rankings and chart-boosting tasks still exist, and many fans spend a lot of time and money every day inflating their idol's numbers.",
-     "words": [
-      {
-       "h": "不过",
-       "py": "bùguò",
-       "gl": "but; however",
-       "pos": "conj."
-      },
-      {
-       "h": "超话排名",
-       "py": "chāohuàpáimíng",
-       "gl": "super-topic ranking (Weibo fan communities)",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "打榜任务",
-       "py": "dǎbǎngrènwù",
-       "gl": "chart-boosting task (fan voting for rankings)",
-       "pos": "n."
-      },
-      {
-       "h": "依然",
-       "py": "yīrán",
-       "gl": "still; as before",
-       "pos": "adv."
-      },
-      {
-       "h": "存在",
-       "py": "cúnzài",
-       "gl": "exist",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "许多",
-       "py": "xǔduō",
-       "gl": "many; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "粉丝",
-       "py": "fěnsī",
-       "gl": "fan; followers",
-       "pos": "n."
-      },
-      {
-       "h": "每天",
-       "py": "měitiān",
-       "gl": "every day",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "have to; need to",
-       "pos": "v."
-      },
-      {
-       "h": "花",
-       "py": "huā",
-       "gl": "spend (time, money); flower",
-       "pos": "v."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "时间",
-       "py": "shíjiān",
-       "gl": "time",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "金钱",
-       "py": "jīnqián",
-       "gl": "money",
-       "pos": "n."
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
+       "h": "给",
+       "py": "gěi",
+       "gl": "to; for (someone); give",
        "pos": "prep."
-      },
-      {
-       "h": "偶像",
-       "py": "ǒuxiàng",
-       "gl": "idol",
-       "pos": "n."
-      },
-      {
-       "h": "刷",
-       "py": "shuā",
-       "gl": "fake (reviews, ratings)",
-       "pos": "v."
-      },
-      {
-       "h": "数据",
-       "py": "shùjù",
-       "gl": "data",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In fact, big music talent shows in China have a fairly long history: as early as 2005, Hunan TV's Super Girl set off a nationwide craze for following stars and launched quite a few singers who later became famous.",
-   "phrases": [
-    {
-     "en": "In fact, big music talent shows in China have a fairly long history:",
-     "words": [
-      {
-       "h": "其实",
-       "py": "qíshí",
-       "gl": "actually; in fact",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "中国",
-       "py": "zhōngguó",
-       "gl": "China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "大型",
-       "py": "dàxíng",
-       "gl": "large; large-scale",
-       "pos": "adj."
-      },
-      {
-       "h": "音乐",
-       "py": "yīnyuè",
-       "gl": "music",
-       "pos": "n."
       },
       {
        "h": "选秀",
@@ -1388,84 +972,86 @@
        "pos": "n."
       },
       {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
        "h": "的",
        "py": "de",
        "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "历史",
-       "py": "lìshǐ",
-       "gl": "history",
+       "h": "偶像",
+       "py": "ǒuxiàng",
+       "gl": "idol",
        "pos": "n."
       },
       {
-       "h": "并不",
-       "py": "bìngbù",
-       "gl": "not at all; by no means",
-       "pos": "adv."
+       "h": "投",
+       "py": "tóu",
+       "gl": "to cast (a vote)",
+       "pos": "v."
       },
       {
-       "h": "短",
-       "py": "duǎn",
-       "gl": "short",
-       "pos": "adj."
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "as early as 2005, Hunan TV's Super Girl set off a nationwide craze for following stars,",
-     "words": [
-      {
-       "h": "早",
-       "py": "zǎo",
-       "gl": "as early as (早在…)",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "2005"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
+       "h": "票",
+       "py": "piào",
+       "gl": "vote (measure word)",
        "pos": "measure word"
       },
       {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "She couldn't drink it all, so she poured it down the drain, bottle after bottle.",
+   "phrases": [
+    {
+     "en": "She couldn't drink it all, so she poured it down the drain, bottle after bottle.",
+     "words": [
+      {
+       "h": "牛奶",
+       "py": "niúnǎi",
+       "gl": "milk",
+       "pos": "n."
+      },
+      {
+       "h": "喝",
+       "py": "hē",
+       "gl": "drink",
+       "pos": "v."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "完",
+       "py": "wán",
+       "gl": "finish; verb complement: completed (打扫完 finish cleaning)",
+       "pos": "v."
+      },
+      {
        "h": "，"
       },
       {
-       "h": "湖南卫视",
-       "py": "húnánwèishì",
-       "gl": "Hunan TV",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "超级女声",
-       "py": "chāojínǚshēng",
-       "gl": "Super Girl (TV talent show)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "”"
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
        "h": "就",
@@ -1474,113 +1060,51 @@
        "pos": "adv."
       },
       {
-       "h": "已经",
-       "py": "yǐjīng",
-       "gl": "already",
-       "pos": "adv."
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
       },
       {
-       "h": "掀起",
-       "py": "xiānqǐ",
-       "gl": "set off; stir up (a wave of)",
+       "h": "瓶",
+       "py": "píng",
+       "gl": "measure word for bottles",
+       "pos": "measure word"
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "瓶",
+       "py": "píng",
+       "gl": "measure word for bottles",
+       "pos": "measure word"
+      },
+      {
+       "h": "倒",
+       "py": "dào",
+       "gl": "pour (a drink)",
+       "pos": "v."
+      },
+      {
+       "h": "进",
+       "py": "jìn",
+       "gl": "in (complement)",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "全民",
-       "py": "quánmín",
-       "gl": "the whole nation; everyone",
-       "pos": "n."
-      },
-      {
-       "h": "追星",
-       "py": "zhuīxīng",
-       "gl": "be a fan of a celebrity; follow stars",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "热潮",
-       "py": "rècháo",
-       "gl": "craze; boom",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and launched quite a few singers who later became famous.",
-     "words": [
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "conj."
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
-      {
-       "h": "乐坛",
-       "py": "yuètán",
-       "gl": "music world; music scene",
-       "pos": "n."
-      },
-      {
-       "h": "输送",
-       "py": "shūsòng",
-       "gl": "supply; transport",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "adv."
-      },
-      {
-       "h": "成名",
-       "py": "chéngmíng",
-       "gl": "become famous",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "歌手",
-       "py": "gēshǒu",
-       "gl": "singer",
+       "h": "下水道",
+       "py": "xiàshuǐdào",
+       "gl": "sewer, drain",
        "pos": "n."
       },
       {
@@ -1591,96 +1115,124 @@
    ]
   },
   {
-   "en": "To deal with the chaos in fan circles, the Cyberspace Administration has repeatedly run a special campaign called Qinglang (\"Clear and Bright\"), focusing on problems such as malicious hype and online bullying.",
+   "en": "There were thousands upon thousands like her; once the videos got online they drew criticism from all over the country, and within days the show was shut down.",
    "phrases": [
     {
-     "en": "To deal with the chaos in fan circles,",
+     "en": "There were thousands upon thousands like her; once the videos got online they drew criticism from all over the country,",
      "words": [
       {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "治理",
-       "py": "zhìlǐ",
-       "gl": "govern; administer; tackle (a problem)",
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
        "pos": "v."
       },
       {
-       "h": "“"
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
       },
       {
-       "h": "饭圈",
-       "py": "fànquān",
-       "gl": "fandom; fan community",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "乱象",
-       "py": "luànxiàng",
-       "gl": "chaos; disorder",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the Cyberspace Administration has repeatedly run a special campaign called Qinglang (\"Clear and Bright\"),",
-     "words": [
-      {
-       "h": "国家网信办",
-       "py": "guójiāwǎngxìnbàn",
-       "gl": "Cyberspace Administration of China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "多次",
-       "py": "duōcì",
-       "gl": "many times; repeatedly",
-       "pos": "adv."
-      },
-      {
-       "h": "开展",
-       "py": "kāizhǎn",
-       "gl": "carry out; launch",
-       "pos": "v."
-      },
-      {
-       "h": "名为",
-       "py": "míngwèi",
-       "gl": "be called; named",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "清朗",
-       "py": "qīnglǎng",
-       "gl": "Qinglang (\"Clear and Bright\" internet cleanup campaign)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "”"
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "专项行动",
-       "py": "zhuānxiàngxíngdòng",
-       "gl": "special campaign",
+       "h": "人",
+       "py": "rén",
+       "gl": "person; people",
        "pos": "n."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "成千上万",
+       "py": "chéngqiānshàngwàn",
+       "gl": "thousands upon thousands",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video; video call",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "传",
+       "py": "chuán",
+       "gl": "spread; get around",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "网上",
+       "py": "wǎngshàng",
+       "gl": "online; on the internet",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "引起",
+       "py": "yǐnqǐ",
+       "gl": "cause; arouse; give rise to",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "全国",
+       "py": "quánguó",
+       "gl": "the whole country; nationwide",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "批评",
+       "py": "pīpíng",
+       "gl": "criticize",
+       "pos": "v."
       },
       {
        "h": "，"
@@ -1688,52 +1240,46 @@
      ]
     },
     {
-     "en": "focusing on problems such as malicious hype and online bullying.",
+     "en": "and within days the show was shut down.",
      "words": [
       {
-       "h": "重点",
-       "py": "zhòngdiǎn",
-       "gl": "with priority; especially",
+       "h": "没过几天",
+       "py": "mòguòjǐtiān",
+       "gl": "within a few days",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "节目",
+       "py": "jiémù",
+       "gl": "program; show; performance",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
        "pos": "adv."
       },
       {
-       "h": "整治",
-       "py": "zhěngzhì",
-       "gl": "crack down on; rectify",
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "叫停",
+       "py": "jiàotíng",
+       "gl": "to call a halt to, ban",
        "pos": "v."
       },
       {
-       "h": "恶意",
-       "py": "èyì",
-       "gl": "malicious",
-       "pos": "adj."
-      },
-      {
-       "h": "炒作",
-       "py": "chǎozuò",
-       "gl": "hype",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "网络暴力",
-       "py": "wǎngluòbàolì",
-       "gl": "cyberbullying",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
-       "pos": "n."
       },
       {
        "h": "。"
@@ -1743,13 +1289,22 @@
    ]
   },
   {
-   "en": "In 2021, the National Radio and Television Administration also issued a notice requiring strict limits on idol-training shows and banning marketing hype under the guise of selecting \"idols.\"",
+   "en": "That year the Cyberspace Administration launched its \"Qinglang\" campaign to clean up chaos in fan circles, and the National Radio and Television Administration issued a notice calling for strict limits on idol-training shows.",
    "phrases": [
     {
-     "en": "In 2021, the National Radio and Television Administration also issued a notice",
+     "en": "That year the Cyberspace Administration launched its \"Qinglang\" campaign to clean up chaos in fan circles,",
      "words": [
       {
-       "h": "2021"
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
       },
       {
        "h": "年",
@@ -1761,21 +1316,80 @@
        "h": "，"
       },
       {
-       "h": "国家广播电视总局",
-       "py": "guójiāguǎngbōdiànshìzǒngjú",
+       "h": "网信办",
+       "py": "Wǎngxìnbàn",
+       "gl": "Cyberspace Administration",
+       "pos": "proper noun"
+      },
+      {
+       "h": "开展",
+       "py": "kāizhǎn",
+       "gl": "carry out; launch",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "“"
+      },
+      {
+       "h": "清朗",
+       "py": "Qīnglǎng",
+       "gl": "\"Qinglang\" (clean-up campaign)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "”"
+      },
+      {
+       "h": "行动",
+       "py": "xíngdòng",
+       "gl": "action",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "整治",
+       "py": "zhěngzhì",
+       "gl": "crack down on; rectify",
+       "pos": "v."
+      },
+      {
+       "h": "饭圈",
+       "py": "fànquān",
+       "gl": "fan circles",
+       "pos": "n."
+      },
+      {
+       "h": "乱象",
+       "py": "luànxiàng",
+       "gl": "chaos; disorder",
+       "pos": "n."
+      },
+      {
+       "h": "；"
+      }
+     ]
+    },
+    {
+     "en": "and the National Radio and Television Administration issued a notice calling for strict limits on idol-training shows.",
+     "words": [
+      {
+       "h": "广电总局",
+       "py": "Guǎngdiàn Zǒngjú",
        "gl": "National Radio and Television Administration",
        "pos": "proper noun"
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
        "pos": "adv."
       },
       {
@@ -1786,12 +1400,7 @@
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "requiring strict limits on idol-training shows,",
-     "words": [
+      },
       {
        "h": "要求",
        "py": "yāoqiú",
@@ -1799,10 +1408,10 @@
        "pos": "v."
       },
       {
-       "h": "从严",
-       "py": "cóngyán",
-       "gl": "strictly; rigorously",
-       "pos": "adv."
+       "h": "严格",
+       "py": "yángé",
+       "gl": "strict",
+       "pos": "adj."
       },
       {
        "h": "控制",
@@ -1817,83 +1426,21 @@
        "pos": "n."
       },
       {
-       "h": "养成类",
-       "py": "yǎngchénglèi",
-       "gl": "idol-development (type of show)",
-       "pos": "adj."
+       "h": "养成",
+       "py": "yǎngchéng",
+       "gl": "form (a habit); develop",
+       "pos": "v."
+      },
+      {
+       "h": "类",
+       "py": "lèi",
+       "gl": "kind; type; category",
+       "pos": "measure word"
       },
       {
        "h": "节目",
        "py": "jiémù",
        "gl": "program; show; performance",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and banning marketing hype under the guise of selecting \"idols.\"",
-     "words": [
-      {
-       "h": "不得",
-       "py": "bùdé",
-       "gl": "must not; may not",
-       "pos": "function word"
-      },
-      {
-       "h": "借",
-       "py": "jiè",
-       "gl": "under the guise of; using",
-       "pos": "prep."
-      },
-      {
-       "h": "选拔",
-       "py": "xuǎnbá",
-       "gl": "select; pick (through competition)",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "爱豆",
-       "py": "àidòu",
-       "gl": "idol (pop star; from English \"idol\")",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "名义",
-       "py": "míngyì",
-       "gl": "name; guise (以…名义 in the name of)",
-       "pos": "n."
-      },
-      {
-       "h": "进行",
-       "py": "jìnxíng",
-       "gl": "carry out; conduct",
-       "pos": "v."
-      },
-      {
-       "h": "营销",
-       "py": "yíngxiāo",
-       "gl": "marketing",
-       "pos": "n."
-      },
-      {
-       "h": "炒作",
-       "py": "chǎozuò",
-       "gl": "hype",
        "pos": "n."
       },
       {
@@ -1904,123 +1451,89 @@
    ]
   },
   {
-   "en": "As for music streaming platforms, Tencent Music Entertainment Group owns several brands, including QQ Music, Kugou Music, and Kuwo Music, and is one of the world's largest music streaming companies by number of users.",
+   "en": "Tingting deleted the app and didn't speak to Xiaoyu for a week, as if it were Xiaoyu's fault.",
    "phrases": [
     {
-     "en": "As for music streaming platforms,",
+     "en": "Tingting deleted the app and didn't speak to Xiaoyu for a week, as if it were Xiaoyu's fault.",
      "words": [
       {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "音乐",
-       "py": "yīnyuè",
-       "gl": "music",
-       "pos": "n."
-      },
-      {
-       "h": "流媒体",
-       "py": "liúméitǐ",
-       "gl": "streaming (media)",
-       "pos": "n."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "方面",
-       "py": "fāngmiàn",
-       "gl": "aspect; respect; side",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Tencent Music Entertainment Group owns several brands, including QQ Music, Kugou Music, and Kuwo Music,",
-     "words": [
-      {
-       "h": "腾讯音乐娱乐集团",
-       "py": "téngxùnyīnyuèyúlèjítuán",
-       "gl": "Tencent Music Entertainment Group",
+       "h": "婷婷",
+       "py": "Tíngtíng",
+       "gl": "Tingting",
        "pos": "proper noun"
       },
       {
-       "h": "旗下",
-       "py": "qíxià",
-       "gl": "under (a company); subsidiary of",
-       "pos": "n."
-      },
-      {
-       "h": "拥有",
-       "py": "yōngyǒu",
-       "gl": "have; own; possess",
+       "h": "删",
+       "py": "shān",
+       "gl": "delete",
        "pos": "v."
       },
       {
-       "h": "QQ"
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "音乐",
-       "py": "yīnyuè",
-       "gl": "music",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "酷狗音乐",
-       "py": "kùgǒuyīnyuè",
-       "gl": "Kugou Music",
-       "pos": "proper noun"
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "酷我音乐",
-       "py": "kùwǒyīnyuè",
-       "gl": "Kuwo Music",
-       "pos": "proper noun"
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "多个",
-       "py": "duōgè",
-       "gl": "several; multiple",
-       "pos": "num."
-      },
-      {
-       "h": "品牌",
-       "py": "pǐnpái",
-       "gl": "brand",
+       "h": "应用",
+       "py": "yìngyòng",
+       "gl": "application; use",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and is one of the world's largest music streaming companies by number of users.",
-     "words": [
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "个",
+       "py": "gè",
+       "gl": "general measure word (people, things)",
+       "pos": "measure word"
+      },
+      {
+       "h": "星期",
+       "py": "xīngqī",
+       "gl": "week",
+       "pos": "n."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "跟",
+       "py": "gēn",
+       "gl": "with; together with",
+       "pos": "prep."
+      },
+      {
+       "h": "小雨",
+       "py": "Xiǎo Yǔ",
+       "gl": "Xiaoyu (female name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "说话",
+       "py": "shuōhuà",
+       "gl": "speak; talk",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "好像",
+       "py": "hǎoxiàng",
+       "gl": "seem; be like",
+       "pos": "adv."
+      },
       {
        "h": "是",
        "py": "shì",
@@ -2028,201 +1541,10 @@
        "pos": "v."
       },
       {
-       "h": "全球",
-       "py": "quánqiú",
-       "gl": "global; worldwide",
-       "pos": "n."
-      },
-      {
-       "h": "用户",
-       "py": "yònghù",
-       "gl": "user",
-       "pos": "n."
-      },
-      {
-       "h": "规模",
-       "py": "guīmó",
-       "gl": "scale; size",
-       "pos": "n."
-      },
-      {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "大",
-       "py": "dà",
-       "gl": "big; large",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "音乐",
-       "py": "yīnyuè",
-       "gl": "music",
-       "pos": "n."
-      },
-      {
-       "h": "流媒体",
-       "py": "liúméitǐ",
-       "gl": "streaming (media)",
-       "pos": "n."
-      },
-      {
-       "h": "公司",
-       "py": "gōngsī",
-       "gl": "company",
-       "pos": "n."
-      },
-      {
-       "h": "之一",
-       "py": "zhīyī",
-       "gl": "one of (最…之一 'one of the most …')",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Another important platform, NetEase Cloud Music, is known for its community feel and user comments, and is very popular with many young music fans.",
-   "phrases": [
-    {
-     "en": "Another important platform, NetEase Cloud Music,",
-     "words": [
-      {
-       "h": "另一家",
-       "py": "lìngyījiā",
-       "gl": "another (company, platform)",
-       "pos": "pron."
-      },
-      {
-       "h": "重要",
-       "py": "zhòngyào",
-       "gl": "important",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "网易云音乐",
-       "py": "wǎngyìyúnyīnyuè",
-       "gl": "NetEase Cloud Music",
+       "h": "小雨",
+       "py": "Xiǎo Yǔ",
+       "gl": "Xiaoyu (female name)",
        "pos": "proper noun"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "is known for its community feel and user comments,",
-     "words": [
-      {
-       "h": "则",
-       "py": "zé",
-       "gl": "but; while; on the other hand (literary)",
-       "pos": "conj."
-      },
-      {
-       "h": "以",
-       "py": "yǐ",
-       "gl": "by; with; for (以…出名 'famous for …')",
-       "pos": "prep."
-      },
-      {
-       "h": "社区",
-       "py": "shèqū",
-       "gl": "community; neighborhood",
-       "pos": "n."
-      },
-      {
-       "h": "氛围",
-       "py": "fēnwéi",
-       "gl": "atmosphere; ambience",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "用户",
-       "py": "yònghù",
-       "gl": "user",
-       "pos": "n."
-      },
-      {
-       "h": "评论",
-       "py": "pínglùn",
-       "gl": "comment",
-       "pos": "n."
-      },
-      {
-       "h": "功能",
-       "py": "gōngnéng",
-       "gl": "function; feature",
-       "pos": "n."
-      },
-      {
-       "h": "著称",
-       "py": "zhùchēng",
-       "gl": "be famous for; be known for",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and is very popular with many young music fans.",
-     "words": [
-      {
-       "h": "深受",
-       "py": "shēnshòu",
-       "gl": "be deeply (influenced, loved)",
-       "pos": "v."
-      },
-      {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "年轻",
-       "py": "niánqīng",
-       "gl": "young",
-       "pos": "adj."
-      },
-      {
-       "h": "歌迷",
-       "py": "gēmí",
-       "gl": "music fan",
-       "pos": "n."
       },
       {
        "h": "的",
@@ -2231,10 +1553,10 @@
        "pos": "particle"
       },
       {
-       "h": "喜爱",
-       "py": "xǐài",
-       "gl": "love; like; fondness",
-       "pos": "n."
+       "h": "错",
+       "py": "cuò",
+       "gl": "wrong; mistaken (坐错 take the wrong one)",
+       "pos": "adj."
       },
       {
        "h": "。"
@@ -2244,398 +1566,78 @@
    ]
   },
   {
-   "en": "China also has talent shows modeled on overseas formats, such as The Voice of China; since it first aired in 2012 it has attracted huge numbers of ordinary people who signed up hoping the chance would get them discovered.",
+   "en": "Lin Le's schedule was still booked solid: variety shows, ads, interviews, and in photos he looked even thinner.",
    "phrases": [
     {
-     "en": "China also has talent shows modeled on overseas formats, such as The Voice of China;",
+     "en": "Lin Le's schedule was still booked solid: variety shows, ads, interviews,",
      "words": [
       {
-       "h": "另外",
-       "py": "lìngwài",
-       "gl": "in addition; besides; other; separately",
-       "pos": "conj."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "国内",
-       "py": "guónèi",
-       "gl": "domestic; at home (in one's own country)",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "有",
-       "py": "yǒu",
-       "gl": "there is / there are",
-       "pos": "v."
-      },
-      {
-       "h": "像",
-       "py": "xiàng",
-       "gl": "resemble; be like; like; such as (像…这样 such as)",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "中国好声音",
-       "py": "zhōngguóhǎoshēngyīn",
-       "gl": "The Voice of China (TV show)",
+       "h": "林乐",
+       "py": "Lín Lè",
+       "gl": "Lin Le",
        "pos": "proper noun"
       },
       {
-       "h": "”"
-      },
-      {
-       "h": "这样",
-       "py": "zhèyàng",
-       "gl": "such; like (比亚迪这样的 brands like BYD)",
-       "pos": "pron."
-      },
-      {
-       "h": "参照",
-       "py": "cānzhào",
-       "gl": "take as reference; model on",
-       "pos": "v."
-      },
-      {
-       "h": "海外",
-       "py": "hǎiwài",
-       "gl": "overseas; abroad",
-       "pos": "n."
-      },
-      {
-       "h": "模式",
-       "py": "móshì",
-       "gl": "model; mode",
-       "pos": "n."
-      },
-      {
-       "h": "制作",
-       "py": "zhìzuò",
-       "gl": "make; produce",
-       "pos": "v."
-      },
-      {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "选秀",
-       "py": "xuǎnxiù",
-       "gl": "talent show",
+       "h": "行程",
+       "py": "xíngchéng",
+       "gl": "itinerary; schedule",
        "pos": "n."
       },
       {
-       "h": "节目",
-       "py": "jiémù",
-       "gl": "program; show; performance",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "since it first aired in 2012, it has attracted huge numbers of ordinary people who signed up,",
-     "words": [
-      {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "2012"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "开播",
-       "py": "kāibō",
-       "gl": "begin broadcasting; premiere",
-       "pos": "v."
-      },
-      {
-       "h": "以来",
-       "py": "yǐlái",
-       "gl": "since (长期以来 for a long time)",
-       "pos": "postposition"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "吸引",
-       "py": "xīyǐn",
-       "gl": "attract",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "大量",
-       "py": "dàliàng",
-       "gl": "large amount of; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "普通人",
-       "py": "pǔtōngrén",
-       "gl": "ordinary person",
-       "pos": "n."
-      },
-      {
-       "h": "报名",
-       "py": "bàomíng",
-       "gl": "sign up; register",
-       "pos": "v."
-      },
-      {
-       "h": "参加",
-       "py": "cānjiā",
-       "gl": "take part in; participate",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "hoping the chance would get them discovered by more people.",
-     "words": [
-      {
-       "h": "希望",
-       "py": "xīwàng",
-       "gl": "hope; wish",
-       "pos": "v."
-      },
-      {
-       "h": "借",
-       "py": "jiè",
-       "gl": "by means of; taking the opportunity",
-       "pos": "prep."
-      },
-      {
-       "h": "此",
-       "py": "cǐ",
-       "gl": "this (formal) (从此 from then on)",
-       "pos": "pron."
-      },
-      {
-       "h": "机会",
-       "py": "jīhuì",
-       "gl": "opportunity; chance",
-       "pos": "n."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
-      },
-      {
-       "h": "更多",
-       "py": "gèngduō",
-       "gl": "more; even more",
-       "pos": "adj."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "发现",
-       "py": "fāxiàn",
-       "gl": "discover; notice; find",
-       "pos": "v."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In 2021, a talent show called Youth With You 3 drew widespread public criticism after fans bought huge amounts of milk and poured it away just to get the QR codes on the bottle caps used for voting, and the incident became one of the things that pushed the authorities to tighten regulation.",
-   "phrases": [
-    {
-     "en": "In 2021, a talent show called Youth With You 3, after fans bought huge amounts of milk and poured it away to get the QR codes on the bottle caps used for voting,",
-     "words": [
-      {
-       "h": "2021"
-      },
-      {
-       "h": "年",
-       "py": "nián",
-       "gl": "year; New Year (过年 celebrate the New Year)",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "一档",
-       "py": "yīdàng",
-       "gl": "one (measure word for TV shows)",
-       "pos": "num."
-      },
-      {
-       "h": "名为",
-       "py": "míngwèi",
-       "gl": "be called; named",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "青春有你",
-       "py": "qīngchūnyǒunǐ",
-       "gl": "Youth With You (TV talent show)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "3"
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "选秀",
-       "py": "xuǎnxiù",
-       "gl": "talent show",
-       "pos": "n."
-      },
-      {
-       "h": "节目",
-       "py": "jiémù",
-       "gl": "program; show; performance",
-       "pos": "n."
-      },
-      {
-       "h": "曾",
-       "py": "céng",
-       "gl": "once; at one time; ever",
+       "h": "还是",
+       "py": "háishi",
+       "gl": "still; nevertheless; after all",
        "pos": "adv."
       },
       {
-       "h": "因为",
-       "py": "yīnwèi",
-       "gl": "because of; because",
-       "pos": "conj."
-      },
-      {
-       "h": "粉丝",
-       "py": "fěnsī",
-       "gl": "fan; followers",
-       "pos": "n."
-      },
-      {
-       "h": "为",
-       "py": "wèi",
-       "gl": "for; for the sake of",
-       "pos": "prep."
-      },
-      {
-       "h": "获得",
-       "py": "huòdé",
-       "gl": "get; obtain",
+       "h": "排",
+       "py": "pái",
+       "gl": "to schedule",
        "pos": "v."
       },
       {
-       "h": "投票",
-       "py": "tóupiào",
-       "gl": "vote; voting",
-       "pos": "n."
-      },
-      {
-       "h": "用",
-       "py": "yòng",
-       "gl": "use; with (by means of)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
+       "h": "得",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
        "pos": "particle"
       },
       {
-       "h": "瓶盖",
-       "py": "pínggài",
-       "gl": "bottle cap",
-       "pos": "n."
-      },
-      {
-       "h": "二维码",
-       "py": "èrwéimǎ",
-       "gl": "QR code",
-       "pos": "n."
-      },
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but",
-       "pos": "conj."
-      },
-      {
-       "h": "大量",
-       "py": "dàliàng",
-       "gl": "large amount of; a lot of",
+       "h": "满满的",
+       "py": "mǎnmǎnde",
+       "gl": "full; packed",
        "pos": "adj."
       },
       {
-       "h": "购买",
-       "py": "gòumǎi",
-       "gl": "buy; purchase",
-       "pos": "v."
+       "h": "："
       },
       {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "conj."
+       "h": "综艺",
+       "py": "zōngyì",
+       "gl": "variety (show)",
+       "pos": "n."
       },
       {
-       "h": "倒掉",
-       "py": "dàodiào",
-       "gl": "pour out; throw away",
-       "pos": "v."
+       "h": "、"
       },
       {
-       "h": "牛奶",
-       "py": "niúnǎi",
-       "gl": "milk",
+       "h": "广告",
+       "py": "guǎnggào",
+       "gl": "advertisement; ad",
+       "pos": "n."
+      },
+      {
+       "h": "、"
+      },
+      {
+       "h": "采访",
+       "py": "cǎifǎng",
+       "gl": "interview",
        "pos": "n."
       },
       {
@@ -2644,277 +1646,12 @@
      ]
     },
     {
-     "en": "drew widespread public criticism,",
+     "en": "and in photos he looked even thinner.",
      "words": [
       {
-       "h": "引发",
-       "py": "yǐnfā",
-       "gl": "trigger; cause; spark",
-       "pos": "v."
-      },
-      {
-       "h": "社会",
-       "py": "shèhuì",
-       "gl": "society",
-       "pos": "n."
-      },
-      {
-       "h": "广泛",
-       "py": "guǎngfàn",
-       "gl": "wide; extensive; widespread",
-       "pos": "adj."
-      },
-      {
-       "h": "批评",
-       "py": "pīpíng",
-       "gl": "criticize; criticism",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and became one of the incidents that pushed the authorities to tighten regulation.",
-     "words": [
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "成为",
-       "py": "chéngwéi",
-       "gl": "become",
-       "pos": "v."
-      },
-      {
-       "h": "推动",
-       "py": "tuīdòng",
-       "gl": "promote; push forward; drive",
-       "pos": "v."
-      },
-      {
-       "h": "相关",
-       "py": "xiāngguān",
-       "gl": "related; relevant",
-       "pos": "adj."
-      },
-      {
-       "h": "部门",
-       "py": "bùmén",
-       "gl": "department; government agency",
-       "pos": "n."
-      },
-      {
-       "h": "加强",
-       "py": "jiāqiáng",
-       "gl": "strengthen; reinforce",
-       "pos": "v."
-      },
-      {
-       "h": "治理",
-       "py": "zhìlǐ",
-       "gl": "governance; regulation",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "事件",
-       "py": "shìjiàn",
-       "gl": "event; incident",
-       "pos": "n."
-      },
-      {
-       "h": "之一",
-       "py": "zhīyī",
-       "gl": "one of (最…之一 'one of the most …')",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In July of the same year, the State Administration for Market Regulation also penalized Tencent, ordering it to end its exclusive copyright deals with a number of record labels, which changed the competition among music platforms to some extent.",
-   "phrases": [
-    {
-     "en": "In July of the same year, the State Administration for Market Regulation also penalized Tencent,",
-     "words": [
-      {
-       "h": "同年",
-       "py": "tóngnián",
-       "gl": "the same year",
-       "pos": "n."
-      },
-      {
-       "h": "7"
-      },
-      {
-       "h": "月",
-       "py": "yuè",
-       "gl": "month; moon",
-       "pos": "measure word"
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "国家市场监督管理总局",
-       "py": "guójiāshìchǎngjiāndūguǎnlǐzǒngjú",
-       "gl": "State Administration for Market Regulation",
-       "pos": "proper noun"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "腾讯",
-       "py": "téngxùn",
-       "gl": "Tencent",
-       "pos": "proper noun"
-      },
-      {
-       "h": "进行",
-       "py": "jìnxíng",
-       "gl": "carry out; conduct",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "处罚",
-       "py": "chǔfá",
-       "gl": "punishment; penalty",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "ordering it to end its exclusive copyright deals with a number of record labels,",
-     "words": [
-      {
-       "h": "责令",
-       "py": "zélìng",
-       "gl": "order; instruct",
-       "pos": "v."
-      },
-      {
-       "h": "其",
-       "py": "qí",
-       "gl": "his; her; its; their; him; it (literary)",
-       "pos": "pron."
-      },
-      {
-       "h": "解除",
-       "py": "jiěchú",
-       "gl": "terminate (a contract); lift; remove",
-       "pos": "v."
-      },
-      {
-       "h": "与",
-       "py": "yǔ",
-       "gl": "and; with (formal)",
-       "pos": "prep."
-      },
-      {
-       "h": "多家",
-       "py": "duōjiā",
-       "gl": "many (companies, institutions)",
-       "pos": "pron."
-      },
-      {
-       "h": "唱片公司",
-       "py": "chàngpiàngōngsī",
-       "gl": "record company; record label",
-       "pos": "n."
-      },
-      {
-       "h": "签订",
-       "py": "qiāndìng",
-       "gl": "sign (a contract or agreement)",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "独家",
-       "py": "dújiā",
-       "gl": "exclusive",
-       "pos": "adj."
-      },
-      {
-       "h": "版权",
-       "py": "bǎnquán",
-       "gl": "copyright",
-       "pos": "n."
-      },
-      {
-       "h": "协议",
-       "py": "xiéyì",
-       "gl": "by agreement (协议离婚 divorce by mutual consent)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "which changed the competition among music platforms to some extent.",
-     "words": [
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "一定",
-       "py": "yídìng",
-       "gl": "certain; some (degree of)",
-       "pos": "adj."
-      },
-      {
-       "h": "程度",
-       "py": "chéngdù",
-       "gl": "degree; extent",
+       "h": "照片",
+       "py": "zhàopiān",
+       "gl": "photo",
        "pos": "n."
       },
       {
@@ -2924,52 +1661,49 @@
        "pos": "postposition"
       },
       {
-       "h": "改变",
-       "py": "gǎibiàn",
-       "gl": "change; transform",
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "又",
+       "py": "yòu",
+       "gl": "again",
+       "pos": "adv."
+      },
+      {
+       "h": "瘦",
+       "py": "shòu",
+       "gl": "lose weight; get thin",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "音乐",
-       "py": "yīnyuè",
-       "gl": "music",
-       "pos": "n."
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
       },
       {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
-       "pos": "n."
-      },
-      {
-       "h": "之间",
-       "py": "zhījiān",
-       "gl": "between; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "竞争",
-       "py": "jìngzhēng",
-       "gl": "competition",
-       "pos": "n."
-      },
-      {
-       "h": "格局",
-       "py": "géjú",
-       "gl": "setup; structure; balance of power",
-       "pos": "n."
+       "h": "圈",
+       "py": "quān",
+       "gl": "circle; lap; round",
+       "pos": "measure word"
       },
       {
        "h": "。"
@@ -2979,22 +1713,49 @@
    ]
   },
   {
-   "en": "Concerts are usually held in big venues, such as Beijing's National Stadium, the \"Bird's Nest,\" or the Mercedes-Benz Arena in Shanghai, and a single show can often hold tens of thousands of people.",
+   "en": "In the fall he announced a concert at the Bird's Nest, and Xiaoyu saved up for a month.",
    "phrases": [
     {
-     "en": "Concerts are usually held in big venues,",
+     "en": "In the fall he announced a concert at the Bird's Nest, and Xiaoyu saved up for a month.",
      "words": [
       {
-       "h": "歌手",
-       "py": "gēshǒu",
-       "gl": "singer",
+       "h": "秋天",
+       "py": "qiūtiān",
+       "gl": "fall; autumn",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
+       "h": "，"
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "宣布",
+       "py": "xuānbù",
+       "gl": "announce; declare",
+       "pos": "v."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "鸟巢",
+       "py": "Niǎocháo",
+       "gl": "\"Bird's Nest\" (stadium)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "open; turn on; drive; start (a business); prescribe; hold (a meeting)",
+       "pos": "v."
       },
       {
        "h": "演唱会",
@@ -3003,60 +1764,31 @@
        "pos": "n."
       },
       {
-       "h": "通常",
-       "py": "tōngcháng",
-       "gl": "usually; normally",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "选择",
-       "py": "xuǎnzé",
-       "gl": "choose",
-       "pos": "v."
-      },
-      {
-       "h": "大型",
-       "py": "dàxíng",
-       "gl": "large; large-scale",
-       "pos": "adj."
-      },
-      {
-       "h": "场馆",
-       "py": "chǎngguǎn",
-       "gl": "venue; stadium; arena",
-       "pos": "n."
-      },
-      {
-       "h": "举行",
-       "py": "jǔxíng",
-       "gl": "hold (an event)",
-       "pos": "v."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "such as Beijing's National Stadium, the \"Bird's Nest,\" or the Mercedes-Benz Arena in Shanghai,",
-     "words": [
-      {
-       "h": "比如",
-       "py": "bǐrú",
-       "gl": "for example",
-       "pos": "conj."
       },
       {
-       "h": "北京",
-       "py": "běijīng",
-       "gl": "Beijing",
+       "h": "小雨",
+       "py": "Xiǎo Yǔ",
+       "gl": "Xiaoyu (female name)",
        "pos": "proper noun"
+      },
+      {
+       "h": "攒",
+       "py": "zǎn",
+       "gl": "save up; accumulate",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "一个月",
+       "py": "yígèyuè",
+       "gl": "one month",
+       "pos": "n."
       },
       {
        "h": "的",
@@ -3065,378 +1797,116 @@
        "pos": "particle"
       },
       {
-       "h": "“"
-      },
-      {
-       "h": "鸟巢",
-       "py": "niǎocháo",
-       "gl": "Bird's Nest (Beijing National Stadium)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "国家体育场",
-       "py": "guójiātǐyùchǎng",
-       "gl": "National Stadium",
+       "h": "钱",
+       "py": "qián",
+       "gl": "money",
        "pos": "n."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "上海",
-       "py": "shànghǎi",
-       "gl": "Shanghai",
-       "pos": "proper noun"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "奔驰文化中心",
-       "py": "bēnchíwénhuàzhōngxīn",
-       "gl": "Mercedes-Benz Arena (Shanghai)",
-       "pos": "proper noun"
-      },
-      {
-       "h": "，"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "Tickets went on sale at eight, and by 8:00:05 they were gone; the scalpers, though, had plenty, at triple the price.",
+   "phrases": [
     {
-     "en": "and a single show can often hold tens of thousands of people.",
+     "en": "Tickets went on sale at eight, and by 8:00:05 they were gone;",
      "words": [
       {
-       "h": "一场",
-       "py": "yīcháng",
-       "gl": "a; one (measure word for events, performances, dreams)",
+       "h": "八",
+       "py": "bā",
+       "gl": "eight",
        "pos": "num."
       },
       {
-       "h": "演出",
-       "py": "yǎnchū",
-       "gl": "performance; show; perform",
-       "pos": "n."
-      },
-      {
-       "h": "往往",
-       "py": "wǎngwǎng",
-       "gl": "often; usually; tend to",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "容纳",
-       "py": "róngnà",
-       "gl": "hold; accommodate",
-       "pos": "v."
-      },
-      {
-       "h": "数万",
-       "py": "shùwàn",
-       "gl": "tens of thousands",
-       "pos": "num."
-      },
-      {
-       "h": "名",
-       "py": "míng",
-       "gl": "measure word for people (with a role or profession)",
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
        "pos": "measure word"
       },
       {
-       "h": "观众",
-       "py": "guānzhòng",
-       "gl": "audience; viewer",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "To protect the rights of songwriters and singers, the Music Copyright Society of China collects and distributes royalties for the use of musical works; whenever a work is broadcast, performed, or used commercially, its creators are in principle entitled to payment.",
-   "phrases": [
-    {
-     "en": "To protect the rights of songwriters and singers,",
-     "words": [
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "保障",
-       "py": "bǎozhàng",
-       "gl": "security; guarantee; ensure; safeguard",
+       "h": "开",
+       "py": "kāi",
+       "gl": "to open (ticket sales)",
        "pos": "v."
       },
       {
-       "h": "词曲作者",
-       "py": "cíqǔzuòzhě",
-       "gl": "songwriter",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "歌手",
-       "py": "gēshǒu",
-       "gl": "singer",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "权益",
-       "py": "quányì",
-       "gl": "rights and interests",
+       "h": "票",
+       "py": "piào",
+       "gl": "ticket",
        "pos": "n."
       },
       {
        "h": "，"
+      },
+      {
+       "h": "八",
+       "py": "bā",
+       "gl": "eight",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "零",
+       "py": "líng",
+       "gl": "zero",
+       "pos": "num."
+      },
+      {
+       "h": "五",
+       "py": "wǔ",
+       "gl": "five",
+       "pos": "num."
+      },
+      {
+       "h": "秒",
+       "py": "miǎo",
+       "gl": "second",
+       "pos": "measure word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "票",
+       "py": "piào",
+       "gl": "ticket",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "没",
+       "py": "méi",
+       "gl": "not (yet); negates 有 and past actions",
+       "pos": "adv."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "；"
       }
      ]
     },
     {
-     "en": "the Music Copyright Society of China collects and distributes royalties for the use of musical works;",
+     "en": "the scalpers, though, had plenty, at triple the price.",
      "words": [
-      {
-       "h": "中国音乐著作权协会",
-       "py": "zhōngguóyīnyuèzhùzuòquánxiéhuì",
-       "gl": "Music Copyright Society of China",
-       "pos": "proper noun"
-      },
-      {
-       "h": "负责",
-       "py": "fùzé",
-       "gl": "be responsible for; be in charge of",
-       "pos": "v."
-      },
-      {
-       "h": "收取",
-       "py": "shōuqǔ",
-       "gl": "charge; collect (fees)",
-       "pos": "v."
-      },
-      {
-       "h": "并",
-       "py": "bìng",
-       "gl": "(before a negative) actually; at all; and; also",
-       "pos": "conj."
-      },
-      {
-       "h": "分配",
-       "py": "fēnpèi",
-       "gl": "distribution; distribute; allocate",
-       "pos": "v."
-      },
-      {
-       "h": "音乐",
-       "py": "yīnyuè",
-       "gl": "music",
-       "pos": "n."
-      },
-      {
-       "h": "作品",
-       "py": "zuòpǐn",
-       "gl": "work (of art or literature)",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "使用费",
-       "py": "shǐyòngfèi",
-       "gl": "usage fee; royalty",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "whenever a work is broadcast, performed, or used commercially,",
-     "words": [
-      {
-       "h": "只要",
-       "py": "zhǐyào",
-       "gl": "as long as; if only",
-       "pos": "conj."
-      },
-      {
-       "h": "作品",
-       "py": "zuòpǐn",
-       "gl": "work (of art or literature)",
-       "pos": "n."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
-      },
-      {
-       "h": "播放",
-       "py": "bōfàng",
-       "gl": "play; broadcast",
-       "pos": "v."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "演出",
-       "py": "yǎnchū",
-       "gl": "performance; show; perform",
-       "pos": "v."
-      },
-      {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "商业",
-       "py": "shāngyè",
-       "gl": "commercial; business",
-       "pos": "n."
-      },
-      {
-       "h": "使用",
-       "py": "shǐyòng",
-       "gl": "use",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "its creators are in principle entitled to payment.",
-     "words": [
-      {
-       "h": "创作者",
-       "py": "chuàngzuòzhě",
-       "gl": "creator",
-       "pos": "n."
-      },
-      {
-       "h": "原则上",
-       "py": "yuánzéshàng",
-       "gl": "in principle",
-       "pos": "adv."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "获得",
-       "py": "huòdé",
-       "gl": "get; obtain",
-       "pos": "v."
-      },
-      {
-       "h": "相应",
-       "py": "xiāngyìng",
-       "gl": "corresponding; accordingly",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "报酬",
-       "py": "bàochóu",
-       "gl": "pay; reward; payment",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "In recent years, ticket scalping by huangniu (\"yellow cattle,\" i.e. scalpers) has also caught regulators' attention; the culture and tourism authorities and other departments jointly issued rules requiring strict real-name ticket purchase and entry for popular shows, to cut down on tickets being resold at inflated prices.",
-   "phrases": [
-    {
-     "en": "In recent years, ticket scalping by huangniu (\"yellow cattle,\" i.e. scalpers) has also caught regulators' attention;",
-     "words": [
-      {
-       "h": "近年来",
-       "py": "jìnniánlái",
-       "gl": "in recent years",
-       "pos": "adv."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "演出",
-       "py": "yǎnchū",
-       "gl": "performance; show; perform",
-       "pos": "n."
-      },
-      {
-       "h": "市场",
-       "py": "shìchǎng",
-       "gl": "market",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "“"
-      },
       {
        "h": "黄牛",
        "py": "huángniú",
@@ -3444,113 +1914,89 @@
        "pos": "n."
       },
       {
-       "h": "”"
-      },
-      {
-       "h": "炒票",
-       "py": "chǎopiào",
-       "gl": "scalp tickets",
-       "pos": "v."
-      },
-      {
-       "h": "问题",
-       "py": "wèntí",
-       "gl": "problem; trouble",
+       "h": "手",
+       "py": "shǒu",
+       "gl": "hand",
        "pos": "n."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
       },
       {
-       "h": "引起",
-       "py": "yǐnqǐ",
-       "gl": "cause; arouse; give rise to",
+       "h": "却",
+       "py": "què",
+       "gl": "but; yet; however (contrast)",
+       "pos": "conj."
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "的是",
+       "py": "deshì",
+       "gl": "(更…的是) what is (more …) is",
+       "pos": "function word"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "价格",
+       "py": "jiàgé",
+       "gl": "price",
+       "pos": "n."
+      },
+      {
+       "h": "翻",
+       "py": "fān",
+       "gl": "to multiply (of prices)",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "监管",
-       "py": "jiānguǎn",
-       "gl": "supervise; regulate; regulatory",
-       "pos": "n."
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
       },
       {
-       "h": "部门",
-       "py": "bùmén",
-       "gl": "department; government agency",
-       "pos": "n."
+       "h": "倍",
+       "py": "bèi",
+       "gl": "times; -fold (翻一倍 double)",
+       "pos": "measure word"
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "关注",
-       "py": "guānzhù",
-       "gl": "attention; interest; follow (closely)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
+       "h": "。"
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "en": "Later, strict real-name ticketing was introduced for popular shows: the name on the ticket had to match the face at the entrance.",
+   "phrases": [
     {
-     "en": "the culture and tourism authorities and other departments jointly issued rules,",
+     "en": "Later, strict real-name ticketing was introduced for popular shows:",
      "words": [
       {
-       "h": "文旅",
-       "py": "wénlǚ",
-       "gl": "culture and tourism",
-       "pos": "n."
-      },
-      {
-       "h": "等",
-       "py": "děng",
-       "gl": "and so on; etc.",
-       "pos": "function word"
-      },
-      {
-       "h": "部门",
-       "py": "bùmén",
-       "gl": "department; government agency",
-       "pos": "n."
-      },
-      {
-       "h": "联合",
-       "py": "liánhé",
-       "gl": "unite; join forces",
+       "h": "后来",
+       "py": "hòulái",
+       "gl": "later; afterwards",
        "pos": "adv."
       },
       {
-       "h": "发文",
-       "py": "fāwén",
-       "gl": "issue an official document",
-       "pos": "v."
-      },
-      {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "requiring strict real-name ticket purchase and entry for popular shows across the board,",
-     "words": [
-      {
-       "h": "要求",
-       "py": "yāoqiú",
-       "gl": "require; demand",
-       "pos": "v."
       },
       {
        "h": "热门",
@@ -3565,194 +2011,27 @@
        "pos": "n."
       },
       {
-       "h": "全面",
-       "py": "quánmiàn",
-       "gl": "comprehensive; all-round",
-       "pos": "adv."
-      },
-      {
        "h": "推行",
        "py": "tuīxíng",
        "gl": "implement; promote (a policy)",
        "pos": "v."
       },
       {
-       "h": "强实名制",
-       "py": "qiángshímíngzhì",
-       "gl": "strict real-name system",
-       "pos": "n."
-      },
-      {
-       "h": "购票",
-       "py": "gòupiào",
-       "gl": "buy tickets",
-       "pos": "v."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "入场",
-       "py": "rùchǎng",
-       "gl": "enter; admission",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to cut down on tickets being resold at inflated prices.",
-     "words": [
-      {
-       "h": "减少",
-       "py": "jiǎnshǎo",
-       "gl": "reduce; cut down",
-       "pos": "v."
-      },
-      {
-       "h": "票务",
-       "py": "piàowù",
-       "gl": "ticketing",
-       "pos": "n."
-      },
-      {
-       "h": "被",
-       "py": "bèi",
-       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
-       "pos": "prep."
-      },
-      {
-       "h": "恶意",
-       "py": "èyì",
-       "gl": "malicious",
-       "pos": "adj."
-      },
-      {
-       "h": "加价",
-       "py": "jiājià",
-       "gl": "mark up; raise the price",
-       "pos": "v."
-      },
-      {
-       "h": "转卖",
-       "py": "zhuǎnmài",
-       "gl": "resell",
-       "pos": "v."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "情况",
-       "py": "qíngkuàng",
-       "gl": "situation; circumstances",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "To keep events orderly, the China Association of Performing Arts has also issued several industry guidelines, setting specific requirements for organizers' ticket sales, venue safety, and emergency plans.",
-   "phrases": [
-    {
-     "en": "To keep events orderly,",
-     "words": [
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "维护",
-       "py": "wéihù",
-       "gl": "protect; safeguard (rights)",
-       "pos": "v."
-      },
-      {
-       "h": "良好",
-       "py": "liánghǎo",
-       "gl": "good; fine",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "演出",
-       "py": "yǎnchū",
-       "gl": "performance; show; perform",
-       "pos": "n."
-      },
-      {
-       "h": "秩序",
-       "py": "zhìxù",
-       "gl": "order",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the China Association of Performing Arts has also issued several industry guidelines,",
-     "words": [
-      {
-       "h": "中国演出行业协会",
-       "py": "zhōngguóyǎnchūxíngyèxiéhuì",
-       "gl": "China Association of Performing Arts",
-       "pos": "proper noun"
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "发布",
-       "py": "fābù",
-       "gl": "post; publish",
-       "pos": "v."
-      },
-      {
        "h": "了",
        "py": "le",
-       "gl": "particle: completed action",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "多项",
-       "py": "duōxiàng",
-       "gl": "multiple; several (items)",
-       "pos": "pron."
+       "h": "强",
+       "py": "qiáng",
+       "gl": "strong; good at",
+       "pos": "adj."
       },
       {
-       "h": "行业",
-       "py": "hángyè",
-       "gl": "industry; line of business",
-       "pos": "n."
-      },
-      {
-       "h": "规范",
-       "py": "guīfàn",
-       "gl": "standard; norm; regulate",
+       "h": "实名制",
+       "py": "shímíngzhì",
+       "gl": "real-name system",
        "pos": "n."
       },
       {
@@ -3761,407 +2040,12 @@
      ]
     },
     {
-     "en": "setting specific requirements for organizers' ticket sales, venue safety, and emergency plans.",
+     "en": "the name on the ticket had to match the face at the entrance.",
      "words": [
       {
-       "h": "对",
-       "py": "duì",
-       "gl": "regarding; on",
-       "pos": "prep."
-      },
-      {
-       "h": "主办方",
-       "py": "zhǔbànfāng",
-       "gl": "organizer",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive particle (人工智能的帮助 AI's help)",
-       "pos": "particle"
-      },
-      {
-       "h": "票务",
-       "py": "piàowù",
-       "gl": "ticketing",
-       "pos": "n."
-      },
-      {
-       "h": "销售",
-       "py": "xiāoshòu",
-       "gl": "sell; sales",
-       "pos": "n."
-      },
-      {
-       "h": "、"
-      },
-      {
-       "h": "场馆",
-       "py": "chǎngguǎn",
-       "gl": "venue; stadium; arena",
-       "pos": "n."
-      },
-      {
-       "h": "安全",
-       "py": "ānquán",
-       "gl": "safety",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "应急预案",
-       "py": "yìngjíyùàn",
-       "gl": "emergency plan",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "提出",
-       "py": "tíchū",
-       "gl": "put forward; raise (a question, proposal)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action",
-       "pos": "particle"
-      },
-      {
-       "h": "具体",
-       "py": "jùtǐ",
-       "gl": "specific; concrete",
-       "pos": "adj."
-      },
-      {
-       "h": "要求",
-       "py": "yāoqiú",
-       "gl": "requirement; demand",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Besides traditional live concerts, more and more singers are trying paid online livestreams: viewers just buy a ticket or a virtual gift and can watch a high-definition live show at home.",
-   "phrases": [
-    {
-     "en": "Besides traditional live concerts,",
-     "words": [
-      {
-       "h": "除了",
-       "py": "chúle",
-       "gl": "except; besides; apart from",
-       "pos": "prep."
-      },
-      {
-       "h": "传统",
-       "py": "chuántǒng",
-       "gl": "traditional; tradition",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "线下",
-       "py": "xiànxià",
-       "gl": "offline; in person",
-       "pos": "adj."
-      },
-      {
-       "h": "演唱会",
-       "py": "yǎnchànghuì",
-       "gl": "concert",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "more and more singers are trying paid online livestreams;",
-     "words": [
-      {
-       "h": "越来越",
-       "py": "yuèláiyuè",
-       "gl": "more and more",
-       "pos": "adv."
-      },
-      {
-       "h": "多",
-       "py": "duō",
-       "gl": "many; much",
-       "pos": "adj."
-      },
-      {
-       "h": "歌手",
-       "py": "gēshǒu",
-       "gl": "singer",
-       "pos": "n."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start",
-       "pos": "v."
-      },
-      {
-       "h": "尝试",
-       "py": "chángshì",
-       "gl": "try; attempt",
-       "pos": "v."
-      },
-      {
-       "h": "线上",
-       "py": "xiànshàng",
-       "gl": "online",
-       "pos": "adj."
-      },
-      {
-       "h": "付费",
-       "py": "fùfèi",
-       "gl": "pay; paid (service)",
-       "pos": "v."
-      },
-      {
-       "h": "直播",
-       "py": "zhíbō",
-       "gl": "live stream; broadcast live",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "形式",
-       "py": "xíngshì",
-       "gl": "form; format",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "viewers just buy a ticket or a virtual gift,",
-     "words": [
-      {
-       "h": "观众",
-       "py": "guānzhòng",
-       "gl": "audience; viewer",
-       "pos": "n."
-      },
-      {
-       "h": "只",
-       "py": "zhǐ",
-       "gl": "only; just",
-       "pos": "adv."
-      },
-      {
-       "h": "需",
-       "py": "xū",
-       "gl": "need; require",
-       "pos": "v."
-      },
-      {
-       "h": "购买",
-       "py": "gòumǎi",
-       "gl": "buy; purchase",
-       "pos": "v."
-      },
-      {
-       "h": "门票",
-       "py": "ménpiào",
-       "gl": "admission ticket",
-       "pos": "n."
-      },
-      {
-       "h": "或",
-       "py": "huò",
-       "gl": "or",
-       "pos": "conj."
-      },
-      {
-       "h": "虚拟",
-       "py": "xūnǐ",
-       "gl": "virtual",
-       "pos": "adj."
-      },
-      {
-       "h": "礼物",
-       "py": "lǐwù",
-       "gl": "gift; present",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and can watch a high-definition live show at home.",
-     "words": [
-      {
-       "h": "就",
-       "py": "jiù",
-       "gl": "then; right away; just (emphasis)",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "家中",
-       "py": "jiāzhōng",
-       "gl": "at home; in the family",
-       "pos": "n."
-      },
-      {
-       "h": "观看",
-       "py": "guānkàn",
-       "gl": "watch; view",
-       "pos": "v."
-      },
-      {
-       "h": "高清",
-       "py": "gāoqīng",
-       "gl": "high-definition",
-       "pos": "adj."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "现场",
-       "py": "xiànchǎng",
-       "gl": "live; on site",
-       "pos": "adj."
-      },
-      {
-       "h": "演出",
-       "py": "yǎnchū",
-       "gl": "performance; show; perform",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Many record labels now also build singers' personal image on short-video platforms at the same time, posting behind-the-scenes clips and bits of daily life to bring singers closer to their fans.",
-   "phrases": [
-    {
-     "en": "Many record labels now also build singers' personal image on short-video platforms at the same time,",
-     "words": [
-      {
-       "h": "很多",
-       "py": "hěnduō",
-       "gl": "many; a lot of",
-       "pos": "adj."
-      },
-      {
-       "h": "唱片公司",
-       "py": "chàngpiàngōngsī",
-       "gl": "record company; record label",
-       "pos": "n."
-      },
-      {
-       "h": "现在",
-       "py": "xiànzài",
-       "gl": "now",
-       "pos": "n."
-      },
-      {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "同时",
-       "py": "tóngshí",
-       "gl": "at the same time; meanwhile",
-       "pos": "adv."
-      },
-      {
-       "h": "培养",
-       "py": "péiyǎng",
-       "gl": "cultivate; foster; train",
-       "pos": "v."
-      },
-      {
-       "h": "歌手",
-       "py": "gēshǒu",
-       "gl": "singer",
-       "pos": "n."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "短视频",
-       "py": "duǎnshìpín",
-       "gl": "short video",
-       "pos": "n."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
+       "h": "票",
+       "py": "piào",
+       "gl": "ticket",
        "pos": "n."
       },
       {
@@ -4173,52 +2057,23 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
-       "h": "个人",
-       "py": "gèrén",
-       "gl": "personal; individual",
-       "pos": "adj."
-      },
-      {
-       "h": "形象",
-       "py": "xíngxiàng",
-       "gl": "image; figure; avatar",
+       "h": "名字",
+       "py": "míngzì",
+       "gl": "name",
        "pos": "n."
       },
       {
        "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "posting behind-the-scenes clips and bits of daily life,",
-     "words": [
-      {
-       "h": "通过",
-       "py": "tōngguò",
-       "gl": "through; by means of; via",
-       "pos": "prep."
       },
       {
-       "h": "发布",
-       "py": "fābù",
-       "gl": "post; publish",
+       "h": "要",
+       "py": "yào",
+       "gl": "have to; need to",
        "pos": "v."
-      },
-      {
-       "h": "幕后",
-       "py": "mùhòu",
-       "gl": "behind-the-scenes",
-       "pos": "adj."
-      },
-      {
-       "h": "花絮",
-       "py": "huāxù",
-       "gl": "behind-the-scenes footage; tidbits",
-       "pos": "n."
       },
       {
        "h": "和",
@@ -4227,186 +2082,16 @@
        "pos": "conj."
       },
       {
-       "h": "日常",
-       "py": "rìcháng",
-       "gl": "daily; everyday",
-       "pos": "adj."
-      },
-      {
-       "h": "生活",
-       "py": "shēnghuó",
-       "gl": "life",
+       "h": "入口",
+       "py": "rùkǒu",
+       "gl": "entrance",
        "pos": "n."
       },
       {
-       "h": "片段",
-       "py": "piànduàn",
-       "gl": "excerpt; fragment",
+       "h": "处",
+       "py": "chù",
+       "gl": "place; measure word for places",
        "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "to bring singers closer to their fans.",
-     "words": [
-      {
-       "h": "拉近",
-       "py": "lājìn",
-       "gl": "bring closer; close the distance",
-       "pos": "v."
-      },
-      {
-       "h": "歌手",
-       "py": "gēshǒu",
-       "gl": "singer",
-       "pos": "n."
-      },
-      {
-       "h": "与",
-       "py": "yǔ",
-       "gl": "and; with (formal)",
-       "pos": "conj."
-      },
-      {
-       "h": "粉丝",
-       "py": "fěnsī",
-       "gl": "fan; followers",
-       "pos": "n."
-      },
-      {
-       "h": "之间",
-       "py": "zhījiān",
-       "gl": "between; among",
-       "pos": "postposition"
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
-       "pos": "particle"
-      },
-      {
-       "h": "距离",
-       "py": "jùlí",
-       "gl": "distance",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Some veteran music critics warn that if singers rely too much on buzz and online traffic and neglect the quality of the music itself, they'll probably find it hard to last in the music world.",
-   "phrases": [
-    {
-     "en": "Some veteran music critics warn",
-     "words": [
-      {
-       "h": "一些",
-       "py": "yīxiē",
-       "gl": "some; certain",
-       "pos": "pron."
-      },
-      {
-       "h": "资深",
-       "py": "zīshēn",
-       "gl": "senior; veteran",
-       "pos": "adj."
-      },
-      {
-       "h": "乐评人",
-       "py": "lèpíngrén",
-       "gl": "music critic",
-       "pos": "n."
-      },
-      {
-       "h": "提醒",
-       "py": "tíxǐng",
-       "gl": "remind",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that if singers rely too much on buzz and online traffic and neglect the quality of the music itself,",
-     "words": [
-      {
-       "h": "如果",
-       "py": "rúguǒ",
-       "gl": "if",
-       "pos": "conj."
-      },
-      {
-       "h": "歌手",
-       "py": "gēshǒu",
-       "gl": "singer",
-       "pos": "n."
-      },
-      {
-       "h": "过于",
-       "py": "guòyú",
-       "gl": "too; excessively",
-       "pos": "adv."
-      },
-      {
-       "h": "依赖",
-       "py": "yīlài",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "话题",
-       "py": "huàtí",
-       "gl": "topic (of conversation)",
-       "pos": "n."
-      },
-      {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
-       "pos": "conj."
-      },
-      {
-       "h": "流量",
-       "py": "liúliàng",
-       "gl": "traffic (online); views",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "而",
-       "py": "ér",
-       "gl": "and (yet); while; but",
-       "pos": "conj."
-      },
-      {
-       "h": "忽视",
-       "py": "hūshì",
-       "gl": "ignore; neglect; overlook",
-       "pos": "v."
-      },
-      {
-       "h": "音乐",
-       "py": "yīnyuè",
-       "gl": "music",
-       "pos": "n."
-      },
-      {
-       "h": "本身",
-       "py": "běnshēn",
-       "gl": "itself; in itself",
-       "pos": "pron."
       },
       {
        "h": "的",
@@ -4415,10 +2100,104 @@
        "pos": "particle"
       },
       {
-       "h": "质量",
-       "py": "zhìliàng",
-       "gl": "quality",
+       "h": "那",
+       "py": "nà",
+       "gl": "that",
+       "pos": "pron."
+      },
+      {
+       "h": "张",
+       "py": "zhāng",
+       "gl": "measure word for flat objects (paper, photos, tables)",
+       "pos": "measure word"
+      },
+      {
+       "h": "脸",
+       "py": "liǎn",
+       "gl": "face",
        "pos": "n."
+      },
+      {
+       "h": "对",
+       "py": "duì",
+       "gl": "regarding; on",
+       "pos": "prep."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "上",
+       "py": "shàng",
+       "gl": "on (after a noun: 社交媒体上 on social media)",
+       "pos": "postposition"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In the second round of sales Xiaoyu got one — not in the front row, though, but in the very last row, almost at the top.",
+   "phrases": [
+    {
+     "en": "In the second round of sales Xiaoyu got one —",
+     "words": [
+      {
+       "h": "第二",
+       "py": "dìèr",
+       "gl": "second",
+       "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
+       "h": "开",
+       "py": "kāi",
+       "gl": "to open (ticket sales)",
+       "pos": "v."
+      },
+      {
+       "h": "票",
+       "py": "piào",
+       "gl": "ticket",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "小雨",
+       "py": "Xiǎo Yǔ",
+       "gl": "Xiaoyu (female name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "抢",
+       "py": "qiǎng",
+       "gl": "grab; snatch; compete for",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
        "h": "，"
@@ -4426,48 +2205,99 @@
      ]
     },
     {
-     "en": "they'll probably find it hard to last in the music world.",
+     "en": "not in the front row, though, but in the very last row, almost at the top.",
      "words": [
       {
-       "h": "恐怕",
-       "py": "kǒngpà",
-       "gl": "I'm afraid; probably",
+       "h": "不过",
+       "py": "bùguò",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
        "pos": "adv."
       },
       {
-       "h": "很",
-       "py": "hěn",
-       "gl": "very",
-       "pos": "adv."
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
       },
       {
-       "h": "难",
-       "py": "nán",
-       "gl": "difficult; hard",
-       "pos": "adj."
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
+      },
+      {
+       "h": "排",
+       "py": "pái",
+       "gl": "line up; arrange in a row (排队 wait in line)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "而",
+       "py": "ér",
+       "gl": "but; whereas; and",
+       "pos": "conj."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "几乎",
+       "py": "jīhū",
+       "gl": "almost; nearly",
+       "pos": "adv."
       },
       {
        "h": "在",
        "py": "zài",
-       "gl": "in; at; on",
+       "gl": "in; at",
        "pos": "prep."
       },
       {
-       "h": "乐坛",
-       "py": "yuètán",
-       "gl": "music world; music scene",
+       "h": "顶",
+       "py": "dǐng",
+       "gl": "top; roof",
        "pos": "n."
       },
       {
-       "h": "长久",
-       "py": "chángjiǔ",
-       "gl": "long-lasting; for a long time",
+       "h": "上",
+       "py": "shàng",
+       "gl": "on; in; in terms of (after a noun: 世界上 in the world, 工作上 at work)",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
        "pos": "adj."
       },
       {
-       "h": "立足",
-       "py": "lìzú",
-       "gl": "gain a foothold; establish oneself",
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "排",
+       "py": "pái",
+       "gl": "line up; arrange in a row (排队 wait in line)",
        "pos": "v."
       },
       {
@@ -4478,176 +2308,404 @@
    ]
   },
   {
-   "en": "Many platforms regularly publish charts of song plays, but the industry generally believes that rankings achieved purely by inflating numbers don't reflect real musical quality.",
+   "en": "The moment the stadium lights went out, tens of thousands of glow sticks lit up together, like a sky full of stars.",
    "phrases": [
     {
-     "en": "Many platforms regularly publish charts of song plays,",
+     "en": "The moment the stadium lights went out, tens of thousands of glow sticks lit up together, like a sky full of stars.",
      "words": [
       {
-       "h": "不少",
-       "py": "bùshǎo",
-       "gl": "quite a lot; a good deal",
-       "pos": "adj."
-      },
-      {
-       "h": "平台",
-       "py": "píngtái",
-       "gl": "platform",
+       "h": "体育场",
+       "py": "tǐyùchǎng",
+       "gl": "stadium",
        "pos": "n."
-      },
-      {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
-       "pos": "function word"
-      },
-      {
-       "h": "定期",
-       "py": "dìngqī",
-       "gl": "regularly; periodically",
-       "pos": "adv."
-      },
-      {
-       "h": "公布",
-       "py": "gōngbù",
-       "gl": "announce; publish; make public",
-       "pos": "v."
-      },
-      {
-       "h": "歌曲",
-       "py": "gēqǔ",
-       "gl": "song",
-       "pos": "n."
-      },
-      {
-       "h": "播放量",
-       "py": "bōfàngliàng",
-       "gl": "play count; views",
-       "pos": "n."
-      },
-      {
-       "h": "排行榜",
-       "py": "páihángbǎng",
-       "gl": "ranking list; chart",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "but the industry generally believes",
-     "words": [
-      {
-       "h": "但",
-       "py": "dàn",
-       "gl": "but",
-       "pos": "conj."
-      },
-      {
-       "h": "业内",
-       "py": "yènèi",
-       "gl": "within the industry; industry",
-       "pos": "n."
-      },
-      {
-       "h": "普遍",
-       "py": "pǔbiàn",
-       "gl": "widely; generally; common",
-       "pos": "adv."
-      },
-      {
-       "h": "认为",
-       "py": "rènwéi",
-       "gl": "think; believe; consider",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that rankings achieved purely by inflating numbers don't reflect real musical quality.",
-     "words": [
-      {
-       "h": "单纯",
-       "py": "dānchún",
-       "gl": "simply; purely; simple",
-       "pos": "adv."
-      },
-      {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "刷量",
-       "py": "shuāliàng",
-       "gl": "inflate the numbers (fake plays/views)",
-       "pos": "v."
-      },
-      {
-       "h": "得来",
-       "py": "délái",
-       "gl": "obtained; gained",
-       "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "灯",
+       "py": "dēng",
+       "gl": "light; lamp",
+       "pos": "n."
+      },
+      {
+       "h": "一",
+       "py": "yí",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "灭",
+       "py": "miè",
+       "gl": "go out (of a light)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "几",
+       "py": "jǐ",
+       "gl": "how many (under ten); which (number)",
+       "pos": "question word"
+      },
+      {
+       "h": "万",
+       "py": "wàn",
+       "gl": "ten thousand",
+       "pos": "measure word"
+      },
+      {
+       "h": "根",
+       "py": "gēn",
+       "gl": "measure word for long thin things (candles, sticks)",
+       "pos": "measure word"
+      },
+      {
+       "h": "荧光棒",
+       "py": "yíngguāngbàng",
+       "gl": "glow stick",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
+      },
+      {
+       "h": "亮",
+       "py": "liàng",
+       "gl": "bright; light up; (of the sky) get light",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "满天",
+       "py": "mǎntiān",
+       "gl": "all over the sky; whole sky",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "星星",
+       "py": "xīngxīng",
+       "gl": "star",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Lin Le was as tiny as an ant, but the moment he started singing, Xiaoyu forgot the charts, forgot the rankings, and forgot all those three-in-the-mornings.",
+   "phrases": [
+    {
+     "en": "Lin Le was as tiny as an ant, but the moment he started singing,",
+     "words": [
+      {
+       "h": "林乐",
+       "py": "Lín Lè",
+       "gl": "Lin Le",
+       "pos": "proper noun"
+      },
+      {
+       "h": "小",
+       "py": "xiǎo",
+       "gl": "small; little",
+       "pos": "adj."
+      },
+      {
+       "h": "得",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
+       "pos": "particle"
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "只",
+       "py": "zhī",
+       "gl": "(measure word for animals, one of a pair)",
+       "pos": "measure word"
+      },
+      {
+       "h": "蚂蚁",
+       "py": "mǎyǐ",
+       "gl": "ant",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "可",
+       "py": "kě",
+       "gl": "but; however",
+       "pos": "conj."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "一",
+       "py": "yì",
+       "gl": "one",
+       "pos": "num."
+      },
+      {
+       "h": "开口",
+       "py": "kāikǒu",
+       "gl": "speak up; open one's mouth",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "Xiaoyu forgot the charts, forgot the rankings, and forgot all those three-in-the-mornings.",
+     "words": [
+      {
+       "h": "小雨",
+       "py": "Xiǎo Yǔ",
+       "gl": "Xiaoyu (female name)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "忘",
+       "py": "wàng",
+       "gl": "forget",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "榜单",
+       "py": "bǎngdān",
+       "gl": "chart, ranking",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "忘",
+       "py": "wàng",
+       "gl": "forget",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
        "h": "排名",
        "py": "páimíng",
        "gl": "ranking",
-       "pos": "n."
-      },
-      {
-       "h": "并不",
-       "py": "bìngbù",
-       "gl": "not at all; by no means",
-       "pos": "adv."
-      },
-      {
-       "h": "能",
-       "py": "néng",
-       "gl": "can; be able to",
-       "pos": "function word"
-      },
-      {
-       "h": "代表",
-       "py": "dàibiǎo",
-       "gl": "represent; on behalf of; stand for",
        "pos": "v."
       },
       {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "real; true; genuine",
-       "pos": "adj."
+       "h": "，"
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "忘",
+       "py": "wàng",
+       "gl": "forget",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
        "pos": "particle"
       },
       {
-       "h": "音乐",
-       "py": "yīnyuè",
-       "gl": "music",
+       "h": "那些",
+       "py": "nàxiē",
+       "gl": "those",
+       "pos": "pron."
+      },
+      {
+       "h": "凌晨",
+       "py": "língchén",
+       "gl": "before dawn; early morning",
        "pos": "n."
       },
       {
-       "h": "质量",
-       "py": "zhìliàng",
-       "gl": "quality",
+       "h": "三",
+       "py": "sān",
+       "gl": "three",
+       "pos": "num."
+      },
+      {
+       "h": "点",
+       "py": "diǎn",
+       "gl": "o'clock; point; dot",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "It was the first time she listened to him sing not for the numbers, but just for herself.",
+   "phrases": [
+    {
+     "en": "It was the first time she listened to him sing not for the numbers, but just for herself.",
+     "words": [
+      {
+       "h": "这",
+       "py": "zhè",
+       "gl": "this; these",
+       "pos": "pron."
+      },
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "她",
+       "py": "tā",
+       "gl": "she; her",
+       "pos": "pron."
+      },
+      {
+       "h": "第一",
+       "py": "dìyī",
+       "gl": "first",
+       "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
+       "h": "不",
+       "py": "bù",
+       "gl": "not; no",
+       "pos": "adv."
+      },
+      {
+       "h": "为",
+       "py": "wèi",
+       "gl": "for; for the sake of",
+       "pos": "prep."
+      },
+      {
+       "h": "数据",
+       "py": "shùjù",
+       "gl": "data",
        "pos": "n."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
+      {
+       "h": "为",
+       "py": "wèi",
+       "gl": "for; for the sake of",
+       "pos": "prep."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "听",
+       "py": "tīng",
+       "gl": "listen; hear",
+       "pos": "v."
+      },
+      {
+       "h": "他",
+       "py": "tā",
+       "gl": "he; him",
+       "pos": "pron."
+      },
+      {
+       "h": "唱歌",
+       "py": "chànggē",
+       "gl": "sing (songs)",
+       "pos": "v."
       },
       {
        "h": "。"
