@@ -33,7 +33,7 @@
    "level": 1,
    "title_zh": "看医生",
    "title_en": "Going to the Doctor",
-   "free": false,
+   "free": true,
    "chars": 45,
    "file": "doctor1.json"
   },
@@ -42,7 +42,7 @@
    "level": 1,
    "title_zh": "我的小猫",
    "title_en": "My Kitten",
-   "free": false,
+   "free": true,
    "chars": 46,
    "file": "cat.json"
   },
@@ -632,6 +632,15 @@
    "file": "haircut.json"
   },
   {
+   "id": "world_tigers",
+   "level": 1,
+   "title_zh": "印度的老虎多了",
+   "title_en": "More Tigers in India",
+   "free": false,
+   "chars": 65,
+   "file": "world_tigers.json"
+  },
+  {
    "id": "dog",
    "level": 1,
    "title_zh": "我的小狗",
@@ -639,6 +648,15 @@
    "free": false,
    "chars": 65,
    "file": "dog.json"
+  },
+  {
+   "id": "world_notredame",
+   "level": 1,
+   "title_zh": "巴黎圣母院又开门了",
+   "title_en": "Notre-Dame Reopens",
+   "free": false,
+   "chars": 65,
+   "file": "world_notredame.json"
   },
   {
    "id": "saturday",
@@ -704,6 +722,15 @@
    "file": "favoriteanimal1.json"
   },
   {
+   "id": "world_norway",
+   "level": 1,
+   "title_zh": "挪威的电动车",
+   "title_en": "Norway's Electric Cars",
+   "free": false,
+   "chars": 66,
+   "file": "world_norway.json"
+  },
+  {
    "id": "basketball1",
    "level": 1,
    "title_zh": "打篮球",
@@ -720,6 +747,15 @@
    "free": false,
    "chars": 66,
    "file": "taxi.json"
+  },
+  {
+   "id": "world_axis",
+   "level": 1,
+   "title_zh": "北京的中轴线",
+   "title_en": "Beijing's Central Axis",
+   "free": false,
+   "chars": 67,
+   "file": "world_axis.json"
   },
   {
    "id": "strangercaution1",
@@ -758,6 +794,24 @@
    "file": "bday1.json"
   },
   {
+   "id": "world_coronation",
+   "level": 1,
+   "title_zh": "伦敦的国王",
+   "title_en": "A King in London",
+   "free": false,
+   "chars": 68,
+   "file": "world_coronation.json"
+  },
+  {
+   "id": "world_change6",
+   "level": 1,
+   "title_zh": "月亮背面的土",
+   "title_en": "Soil from the Far Side of the Moon",
+   "free": false,
+   "chars": 68,
+   "file": "world_change6.json"
+  },
+  {
    "id": "city",
    "level": 1,
    "title_zh": "我的城市",
@@ -776,6 +830,15 @@
    "file": "pool.json"
   },
   {
+   "id": "world_songkran",
+   "level": 1,
+   "title_zh": "泰国的泼水节",
+   "title_en": "Thailand's Water Festival",
+   "free": false,
+   "chars": 70,
+   "file": "world_songkran.json"
+  },
+  {
    "id": "seasons",
    "level": 1,
    "title_zh": "四个季节",
@@ -783,6 +846,51 @@
    "free": false,
    "chars": 70,
    "file": "seasons.json"
+  },
+  {
+   "id": "world_jakarta",
+   "level": 1,
+   "title_zh": "印尼的高铁",
+   "title_en": "Indonesia's High-Speed Train",
+   "free": false,
+   "chars": 71,
+   "file": "world_jakarta.json"
+  },
+  {
+   "id": "world_antarctica",
+   "level": 1,
+   "title_zh": "南极的新站",
+   "title_en": "A New Station in Antarctica",
+   "free": false,
+   "chars": 72,
+   "file": "world_antarctica.json"
+  },
+  {
+   "id": "world_euro",
+   "level": 1,
+   "title_zh": "德国的足球夏天",
+   "title_en": "A Summer of Soccer in Germany",
+   "free": false,
+   "chars": 72,
+   "file": "world_euro.json"
+  },
+  {
+   "id": "world_worldcup",
+   "level": 1,
+   "title_zh": "三个国家的世界杯",
+   "title_en": "A World Cup in Three Countries",
+   "free": false,
+   "chars": 72,
+   "file": "world_worldcup.json"
+  },
+  {
+   "id": "world_eclipse",
+   "level": 1,
+   "title_zh": "白天变黑了",
+   "title_en": "Day Turns to Night",
+   "free": false,
+   "chars": 72,
+   "file": "world_eclipse.json"
   },
   {
    "id": "grandma",
@@ -803,6 +911,15 @@
    "file": "bag.json"
   },
   {
+   "id": "world_womenscup",
+   "level": 1,
+   "title_zh": "女足世界杯",
+   "title_en": "The Women's World Cup",
+   "free": false,
+   "chars": 72,
+   "file": "world_womenscup.json"
+  },
+  {
    "id": "park",
    "level": 1,
    "title_zh": "在公园",
@@ -819,6 +936,15 @@
    "free": false,
    "chars": 73,
    "file": "newclothes.json"
+  },
+  {
+   "id": "world_chandrayaan",
+   "level": 1,
+   "title_zh": "印度到了月亮上",
+   "title_en": "India Lands on the Moon",
+   "free": false,
+   "chars": 73,
+   "file": "world_chandrayaan.json"
   },
   {
    "id": "favoritefood",
@@ -839,6 +965,15 @@
    "file": "neighbor1.json"
   },
   {
+   "id": "world_egypt",
+   "level": 1,
+   "title_zh": "金字塔旁边的博物馆",
+   "title_en": "A Museum Next to the Pyramids",
+   "free": false,
+   "chars": 74,
+   "file": "world_egypt.json"
+  },
+  {
    "id": "zoo",
    "level": 1,
    "title_zh": "去动物园",
@@ -855,6 +990,15 @@
    "free": false,
    "chars": 75,
    "file": "grandpa.json"
+  },
+  {
+   "id": "world_sydney",
+   "level": 1,
+   "title_zh": "悉尼歌剧院五十岁了",
+   "title_en": "The Sydney Opera House Turns Fifty",
+   "free": false,
+   "chars": 75,
+   "file": "world_sydney.json"
   },
   {
    "id": "visitfriend",
@@ -875,6 +1019,15 @@
    "file": "gift.json"
   },
   {
+   "id": "world_wukong",
+   "level": 1,
+   "title_zh": "玩游戏，去山西",
+   "title_en": "Play the Game, Visit Shanxi",
+   "free": false,
+   "chars": 76,
+   "file": "world_wukong.json"
+  },
+  {
    "id": "classmate",
    "level": 1,
    "title_zh": "我的同学",
@@ -893,6 +1046,24 @@
    "file": "convenience.json"
   },
   {
+   "id": "world_springfestival",
+   "level": 1,
+   "title_zh": "春节成了世界遗产",
+   "title_en": "The Spring Festival Becomes World Heritage",
+   "free": false,
+   "chars": 77,
+   "file": "world_springfestival.json"
+  },
+  {
+   "id": "world_pandas",
+   "level": 1,
+   "title_zh": "熊猫去了美国",
+   "title_en": "Pandas Go to America",
+   "free": false,
+   "chars": 78,
+   "file": "world_pandas.json"
+  },
+  {
    "id": "winter",
    "level": 1,
    "title_zh": "冬天",
@@ -900,6 +1071,15 @@
    "free": false,
    "chars": 78,
    "file": "winter.json"
+  },
+  {
+   "id": "world_nezha",
+   "level": 1,
+   "title_zh": "小哪吒，大电影",
+   "title_en": "Little Nezha, Big Movie",
+   "free": false,
+   "chars": 80,
+   "file": "world_nezha.json"
   },
   {
    "id": "sunday",
@@ -911,6 +1091,69 @@
    "file": "sunday.json"
   },
   {
+   "id": "world_zibo",
+   "level": 1,
+   "title_zh": "去淄博吃烧烤",
+   "title_en": "Barbecue in Zibo",
+   "free": false,
+   "chars": 81,
+   "file": "world_zibo.json"
+  },
+  {
+   "id": "world_paris",
+   "level": 1,
+   "title_zh": "巴黎奥运会",
+   "title_en": "The Paris Olympics",
+   "free": false,
+   "chars": 81,
+   "file": "world_paris.json"
+  },
+  {
+   "id": "world_harbin",
+   "level": 1,
+   "title_zh": "哈尔滨的“小土豆”",
+   "title_en": "Harbin's \"Little Potatoes\"",
+   "free": false,
+   "chars": 83,
+   "file": "world_harbin.json"
+  },
+  {
+   "id": "world_sagrada",
+   "level": 1,
+   "title_zh": "建了一百四十年的教堂",
+   "title_en": "The Church That Took 140 Years",
+   "free": false,
+   "chars": 83,
+   "file": "world_sagrada.json"
+  },
+  {
+   "id": "world_milan",
+   "level": 1,
+   "title_zh": "米兰冬奥会",
+   "title_en": "The Winter Olympics in Italy",
+   "free": false,
+   "chars": 83,
+   "file": "world_milan.json"
+  },
+  {
+   "id": "world_malaria",
+   "level": 1,
+   "title_zh": "孩子们的新疫苗",
+   "title_en": "A New Vaccine for Children",
+   "free": false,
+   "chars": 84,
+   "file": "world_malaria.json"
+  },
+  {
+   "id": "world_diwali",
+   "level": 1,
+   "title_zh": "印度的排灯节",
+   "title_en": "Diwali, India's Festival of Lights",
+   "free": false,
+   "chars": 84,
+   "file": "world_diwali.json"
+  },
+  {
    "id": "color",
    "level": 1,
    "title_zh": "我喜欢的颜色",
@@ -918,6 +1161,51 @@
    "free": false,
    "chars": 85,
    "file": "color.json"
+  },
+  {
+   "id": "world_osaka",
+   "level": 1,
+   "title_zh": "大阪世博会",
+   "title_en": "The Osaka World Expo",
+   "free": false,
+   "chars": 89,
+   "file": "world_osaka.json"
+  },
+  {
+   "id": "world_sphere",
+   "level": 1,
+   "title_zh": "拉斯维加斯的大球",
+   "title_en": "The Big Ball in Las Vegas",
+   "free": false,
+   "chars": 98,
+   "file": "world_sphere.json"
+  },
+  {
+   "id": "world_transit",
+   "level": 1,
+   "title_zh": "在中国玩十天",
+   "title_en": "Ten Days in China",
+   "free": false,
+   "chars": 101,
+   "file": "world_transit.json"
+  },
+  {
+   "id": "museumticket2",
+   "level": 2,
+   "title_zh": "网上订博物馆门票",
+   "title_en": "Booking Museum Tickets Online",
+   "free": true,
+   "chars": 52,
+   "file": "museumticket2.json"
+  },
+  {
+   "id": "weatherapp2",
+   "level": 2,
+   "title_zh": "天气预报App",
+   "title_en": "The Weather App",
+   "free": true,
+   "chars": 56,
+   "file": "weatherapp2.json"
   },
   {
    "id": "evcharge2",
@@ -945,24 +1233,6 @@
    "free": true,
    "chars": 102,
    "file": "hospital.json"
-  },
-  {
-   "id": "museumticket2",
-   "level": 2,
-   "title_zh": "网上订博物馆门票",
-   "title_en": "Booking Museum Tickets Online",
-   "free": false,
-   "chars": 52,
-   "file": "museumticket2.json"
-  },
-  {
-   "id": "weatherapp2",
-   "level": 2,
-   "title_zh": "天气预报App",
-   "title_en": "The Weather App",
-   "free": false,
-   "chars": 56,
-   "file": "weatherapp2.json"
   },
   {
    "id": "jobfair2",
@@ -1820,6 +2090,24 @@
    "file": "restaurant.json"
   },
   {
+   "id": "driving",
+   "level": 3,
+   "title_zh": "我的学生当了教练",
+   "title_en": "My Student Became My Instructor",
+   "free": true,
+   "chars": 207,
+   "file": "driving.json"
+  },
+  {
+   "id": "marathon",
+   "level": 3,
+   "title_zh": "终点的牌子",
+   "title_en": "The Sign at the Finish",
+   "free": true,
+   "chars": 212,
+   "file": "marathon.json"
+  },
+  {
    "id": "cooking",
    "level": 3,
    "title_zh": "一盘甜的，一盘咸的",
@@ -1847,15 +2135,6 @@
    "file": "campus.json"
   },
   {
-   "id": "driving",
-   "level": 3,
-   "title_zh": "我的学生当了教练",
-   "title_en": "My Student Became My Instructor",
-   "free": false,
-   "chars": 207,
-   "file": "driving.json"
-  },
-  {
    "id": "learnswim",
    "level": 3,
    "title_zh": "妈妈也下水了",
@@ -1863,15 +2142,6 @@
    "free": false,
    "chars": 212,
    "file": "learnswim.json"
-  },
-  {
-   "id": "marathon",
-   "level": 3,
-   "title_zh": "终点的牌子",
-   "title_en": "The Sign at the Finish",
-   "free": false,
-   "chars": 212,
-   "file": "marathon.json"
   },
   {
    "id": "landlord",
@@ -2630,6 +2900,78 @@
    "file": "historyepidemic3.json"
   },
   {
+   "id": "tcm02",
+   "level": 4,
+   "title_zh": "失眠的王叔叔",
+   "title_en": "Dr. Lin (2/15): Uncle Wang Can't Sleep",
+   "free": true,
+   "chars": 135,
+   "file": "tcm02.json",
+   "series": "tcm",
+   "episode": 2,
+   "episode_count": 15
+  },
+  {
+   "id": "classics02",
+   "level": 4,
+   "title_zh": "四大美女：王昭君",
+   "title_en": "The Four Beauties (2/15): Wang Zhaojun",
+   "free": true,
+   "chars": 140,
+   "file": "classics02.json",
+   "series": "classics",
+   "episode": 2,
+   "episode_count": 15
+  },
+  {
+   "id": "oddjobs02",
+   "level": 4,
+   "title_zh": "闻香师",
+   "title_en": "Unusual Jobs (2/20): The Professional Nose",
+   "free": true,
+   "chars": 141,
+   "file": "oddjobs02.json",
+   "series": "oddjobs",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "subject02",
+   "level": 4,
+   "title_zh": "爱因斯坦讲物理",
+   "title_en": "My Favorite Subject (2/15): Einstein on Physics",
+   "free": true,
+   "chars": 145,
+   "file": "subject02.json",
+   "series": "subject",
+   "episode": 2,
+   "episode_count": 15
+  },
+  {
+   "id": "tea02",
+   "level": 4,
+   "title_zh": "绿茶：龙井",
+   "title_en": "Tales of Tea (2/15): Green Tea: Longjing",
+   "free": true,
+   "chars": 158,
+   "file": "tea02.json",
+   "series": "tea",
+   "episode": 2,
+   "episode_count": 15
+  },
+  {
+   "id": "future02",
+   "level": 4,
+   "title_zh": "北欧：诸神的黄昏",
+   "title_en": "Myths of the Future (2/15): Scandinavia and the Twilight of the Gods",
+   "free": true,
+   "chars": 164,
+   "file": "future02.json",
+   "series": "future",
+   "episode": 2,
+   "episode_count": 15
+  },
+  {
    "id": "oddjobs01",
    "level": 4,
    "title_zh": "排队替身",
@@ -2690,6 +3032,30 @@
    "episode_count": 15
   },
   {
+   "id": "firstaid02",
+   "level": 4,
+   "title_zh": "第二课：着火了",
+   "title_en": "First Aid Class (2/20): Fire!",
+   "free": true,
+   "chars": 249,
+   "file": "firstaid02.json",
+   "series": "firstaid",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "mythancient01",
+   "level": 4,
+   "title_zh": "少了九个太阳",
+   "title_en": "Detective Baize: Ancient Myths (1/8): Nine Missing Suns",
+   "free": true,
+   "chars": 261,
+   "file": "mythancient01.json",
+   "series": "mythancient",
+   "episode": 1,
+   "episode_count": 8
+  },
+  {
    "id": "tcm01",
    "level": 4,
    "title_zh": "拜师学医",
@@ -2699,6 +3065,60 @@
    "file": "tcm01.json",
    "series": "tcm",
    "episode": 1,
+   "episode_count": 15
+  },
+  {
+   "id": "letter",
+   "level": 4,
+   "title_zh": "给阿遥的信",
+   "title_en": "A Letter to A-Yao",
+   "free": true,
+   "chars": 272,
+   "file": "letter.json"
+  },
+  {
+   "id": "mythancient02",
+   "level": 4,
+   "title_zh": "偷不走的仙药",
+   "title_en": "Detective Baize: Ancient Myths (2/8): The Elixir No One Could Steal",
+   "free": true,
+   "chars": 278,
+   "file": "mythancient02.json",
+   "series": "mythancient",
+   "episode": 2,
+   "episode_count": 8
+  },
+  {
+   "id": "firstaid01",
+   "level": 4,
+   "title_zh": "第一课：打电话",
+   "title_en": "First Aid Class (1/20): How to Make the Call",
+   "free": true,
+   "chars": 279,
+   "file": "firstaid01.json",
+   "series": "firstaid",
+   "episode": 1,
+   "episode_count": 20
+  },
+  {
+   "id": "charpairs4",
+   "level": 4,
+   "title_zh": "辫子",
+   "title_en": "The Braid",
+   "free": true,
+   "chars": 298,
+   "file": "charpairs4.json"
+  },
+  {
+   "id": "mythdetective02",
+   "level": 4,
+   "title_zh": "捉鬼的道士",
+   "title_en": "Detective Baize (2/15): The Ghost-Catching Priest",
+   "free": true,
+   "chars": 304,
+   "file": "mythdetective02.json",
+   "series": "mythdetective",
+   "episode": 2,
    "episode_count": 15
   },
   {
@@ -2718,6 +3138,18 @@
    "free": true,
    "chars": 349,
    "file": "midautumn.json"
+  },
+  {
+   "id": "mythdetective01",
+   "level": 4,
+   "title_zh": "画皮",
+   "title_en": "Detective Baize (1/15): Painted Skin",
+   "free": true,
+   "chars": 359,
+   "file": "mythdetective01.json",
+   "series": "mythdetective",
+   "episode": 1,
+   "episode_count": 15
   },
   {
    "id": "wechat",
@@ -2810,18 +3242,6 @@
    "file": "tcm03.json",
    "series": "tcm",
    "episode": 3,
-   "episode_count": 15
-  },
-  {
-   "id": "tcm02",
-   "level": 4,
-   "title_zh": "失眠的王叔叔",
-   "title_en": "Dr. Lin (2/15): Uncle Wang Can't Sleep",
-   "free": false,
-   "chars": 135,
-   "file": "tcm02.json",
-   "series": "tcm",
-   "episode": 2,
    "episode_count": 15
   },
   {
@@ -2921,18 +3341,6 @@
    "episode_count": 15
   },
   {
-   "id": "classics02",
-   "level": 4,
-   "title_zh": "四大美女：王昭君",
-   "title_en": "The Four Beauties (2/15): Wang Zhaojun",
-   "free": false,
-   "chars": 140,
-   "file": "classics02.json",
-   "series": "classics",
-   "episode": 2,
-   "episode_count": 15
-  },
-  {
    "id": "tcm05",
    "level": 4,
    "title_zh": "落枕的小姑娘",
@@ -2991,18 +3399,6 @@
    "series": "classics",
    "episode": 7,
    "episode_count": 15
-  },
-  {
-   "id": "oddjobs02",
-   "level": 4,
-   "title_zh": "闻香师",
-   "title_en": "Unusual Jobs (2/20): The Professional Nose",
-   "free": false,
-   "chars": 141,
-   "file": "oddjobs02.json",
-   "series": "oddjobs",
-   "episode": 2,
-   "episode_count": 20
   },
   {
    "id": "tcm06",
@@ -3122,18 +3518,6 @@
    "file": "subject11.json",
    "series": "subject",
    "episode": 11,
-   "episode_count": 15
-  },
-  {
-   "id": "subject02",
-   "level": 4,
-   "title_zh": "爱因斯坦讲物理",
-   "title_en": "My Favorite Subject (2/15): Einstein on Physics",
-   "free": false,
-   "chars": 145,
-   "file": "subject02.json",
-   "series": "subject",
-   "episode": 2,
    "episode_count": 15
   },
   {
@@ -3377,18 +3761,6 @@
    "episode_count": 15
   },
   {
-   "id": "tea02",
-   "level": 4,
-   "title_zh": "绿茶：龙井",
-   "title_en": "Tales of Tea (2/15): Green Tea: Longjing",
-   "free": false,
-   "chars": 158,
-   "file": "tea02.json",
-   "series": "tea",
-   "episode": 2,
-   "episode_count": 15
-  },
-  {
    "id": "subject12",
    "level": 4,
    "title_zh": "聂耳讲音乐",
@@ -3458,18 +3830,6 @@
    "file": "future03.json",
    "series": "future",
    "episode": 3,
-   "episode_count": 15
-  },
-  {
-   "id": "future02",
-   "level": 4,
-   "title_zh": "北欧：诸神的黄昏",
-   "title_en": "Myths of the Future (2/15): Scandinavia and the Twilight of the Gods",
-   "free": false,
-   "chars": 164,
-   "file": "future02.json",
-   "series": "future",
-   "episode": 2,
    "episode_count": 15
   },
   {
@@ -3701,6 +4061,18 @@
    "episode_count": 20
   },
   {
+   "id": "firstaid12",
+   "level": 4,
+   "title_zh": "第十二课：头往前，不往后",
+   "title_en": "First Aid Class (12/20): Head Forward, Not Back",
+   "free": false,
+   "chars": 203,
+   "file": "firstaid12.json",
+   "series": "firstaid",
+   "episode": 12,
+   "episode_count": 20
+  },
+  {
    "id": "oddjobs19",
    "level": 4,
    "title_zh": "推人员",
@@ -3725,6 +4097,18 @@
    "episode_count": 20
   },
   {
+   "id": "firstaid11",
+   "level": 4,
+   "title_zh": "第十一课：按住，别看",
+   "title_en": "First Aid Class (11/20): Press Down and Don't Peek",
+   "free": false,
+   "chars": 222,
+   "file": "firstaid11.json",
+   "series": "firstaid",
+   "episode": 11,
+   "episode_count": 20
+  },
+  {
    "id": "oddjobs12",
    "level": 4,
    "title_zh": "电梯音乐作曲家",
@@ -3734,6 +4118,30 @@
    "file": "oddjobs12.json",
    "series": "oddjobs",
    "episode": 12,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid14",
+   "level": 4,
+   "title_zh": "第十四课：叫、伸、抛、划",
+   "title_en": "First Aid Class (14/20): Shout, Reach, Throw, Row",
+   "free": false,
+   "chars": 224,
+   "file": "firstaid14.json",
+   "series": "firstaid",
+   "episode": 14,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid16",
+   "level": 4,
+   "title_zh": "第十六课：别开灯",
+   "title_en": "First Aid Class (16/20): Don't Turn On the Light",
+   "free": false,
+   "chars": 224,
+   "file": "firstaid16.json",
+   "series": "firstaid",
+   "episode": 16,
    "episode_count": 20
   },
   {
@@ -3761,6 +4169,30 @@
    "episode_count": 20
   },
   {
+   "id": "firstaid15",
+   "level": 4,
+   "title_zh": "第十五课：高速公路上的三角牌",
+   "title_en": "First Aid Class (15/20): The Warning Triangle on the Highway",
+   "free": false,
+   "chars": 229,
+   "file": "firstaid15.json",
+   "series": "firstaid",
+   "episode": 15,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid04",
+   "level": 4,
+   "title_zh": "第四课：胸口的石头",
+   "title_en": "First Aid Class (4/20): A Stone on the Chest",
+   "free": false,
+   "chars": 232,
+   "file": "firstaid04.json",
+   "series": "firstaid",
+   "episode": 4,
+   "episode_count": 20
+  },
+  {
    "id": "oddjobs17",
    "level": 4,
    "title_zh": "口香糖味道研发师",
@@ -3770,6 +4202,66 @@
    "file": "oddjobs17.json",
    "series": "oddjobs",
    "episode": 17,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid17",
+   "level": 4,
+   "title_zh": "第十七课：先断电",
+   "title_en": "First Aid Class (17/20): Cut the Power First",
+   "free": false,
+   "chars": 234,
+   "file": "firstaid17.json",
+   "series": "firstaid",
+   "episode": 17,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid19",
+   "level": 4,
+   "title_zh": "第十九课：就破了一点皮",
+   "title_en": "First Aid Class (19/20): Just a Little Scratch",
+   "free": false,
+   "chars": 234,
+   "file": "firstaid19.json",
+   "series": "firstaid",
+   "episode": 19,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid05",
+   "level": 4,
+   "title_zh": "第五课：按下去，别停",
+   "title_en": "First Aid Class (5/20): Push Down and Don't Stop",
+   "free": false,
+   "chars": 236,
+   "file": "firstaid05.json",
+   "series": "firstaid",
+   "episode": 5,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid07",
+   "level": 4,
+   "title_zh": "第七课：卡住了",
+   "title_en": "First Aid Class (7/20): Choking",
+   "free": false,
+   "chars": 236,
+   "file": "firstaid07.json",
+   "series": "firstaid",
+   "episode": 7,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid13",
+   "level": 4,
+   "title_zh": "第十三课：九月的操场",
+   "title_en": "First Aid Class (13/20): The Training Field in September",
+   "free": false,
+   "chars": 237,
+   "file": "firstaid13.json",
+   "series": "firstaid",
+   "episode": 13,
    "episode_count": 20
   },
   {
@@ -3785,6 +4277,90 @@
    "episode_count": 20
   },
   {
+   "id": "firstaid10",
+   "level": 4,
+   "title_zh": "第十课：牙膏和酱油",
+   "title_en": "First Aid Class (10/20): Toothpaste and Soy Sauce",
+   "free": false,
+   "chars": 245,
+   "file": "firstaid10.json",
+   "series": "firstaid",
+   "episode": 10,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid08",
+   "level": 4,
+   "title_zh": "第八课：别往嘴里塞东西",
+   "title_en": "First Aid Class (8/20): Don't Put Anything in Their Mouth",
+   "free": false,
+   "chars": 245,
+   "file": "firstaid08.json",
+   "series": "firstaid",
+   "episode": 8,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid09",
+   "level": 4,
+   "title_zh": "第九课：一、二、零",
+   "title_en": "First Aid Class (9/20): One, Two, Zero",
+   "free": false,
+   "chars": 245,
+   "file": "firstaid09.json",
+   "series": "firstaid",
+   "episode": 9,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid03",
+   "level": 4,
+   "title_zh": "第三课：地震",
+   "title_en": "First Aid Class (3/20): Earthquake",
+   "free": false,
+   "chars": 247,
+   "file": "firstaid03.json",
+   "series": "firstaid",
+   "episode": 3,
+   "episode_count": 20
+  },
+  {
+   "id": "mythdetective10",
+   "level": 4,
+   "title_zh": "不肯喝汤的鬼",
+   "title_en": "Detective Baize (10/15): The Ghost Who Wouldn't Drink the Soup",
+   "free": false,
+   "chars": 253,
+   "file": "mythdetective10.json",
+   "series": "mythdetective",
+   "episode": 10,
+   "episode_count": 15
+  },
+  {
+   "id": "mythdetective13",
+   "level": 4,
+   "title_zh": "药铺里的白蛇",
+   "title_en": "Detective Baize (13/15): The White Snake in the Pharmacy",
+   "free": false,
+   "chars": 256,
+   "file": "mythdetective13.json",
+   "series": "mythdetective",
+   "episode": 13,
+   "episode_count": 15
+  },
+  {
+   "id": "mythdetective06",
+   "level": 4,
+   "title_zh": "梦里的大胡子",
+   "title_en": "Detective Baize (6/15): The Bearded Man in the Dream",
+   "free": false,
+   "chars": 256,
+   "file": "mythdetective06.json",
+   "series": "mythdetective",
+   "episode": 6,
+   "episode_count": 15
+  },
+  {
    "id": "oddjobs09",
    "level": 4,
    "title_zh": "拟音师",
@@ -3797,22 +4373,184 @@
    "episode_count": 20
   },
   {
-   "id": "letter",
+   "id": "firstaid06",
    "level": 4,
-   "title_zh": "给阿遥的信",
-   "title_en": "A Letter to A-Yao",
+   "title_zh": "第六课：墙上的小盒子",
+   "title_en": "First Aid Class (6/20): The Little Box on the Wall",
    "free": false,
-   "chars": 272,
-   "file": "letter.json"
+   "chars": 258,
+   "file": "firstaid06.json",
+   "series": "firstaid",
+   "episode": 6,
+   "episode_count": 20
   },
   {
-   "id": "charpairs4",
+   "id": "firstaid18",
    "level": 4,
-   "title_zh": "辫子",
-   "title_en": "The Braid",
+   "title_zh": "第十八课：我包里的笔",
+   "title_en": "First Aid Class (18/20): The Pen in My Bag",
    "free": false,
-   "chars": 298,
-   "file": "charpairs4.json"
+   "chars": 271,
+   "file": "firstaid18.json",
+   "series": "firstaid",
+   "episode": 18,
+   "episode_count": 20
+  },
+  {
+   "id": "mythdetective08",
+   "level": 4,
+   "title_zh": "阴间的大钞票",
+   "title_en": "Detective Baize (8/15): Big Bills from the Underworld",
+   "free": false,
+   "chars": 274,
+   "file": "mythdetective08.json",
+   "series": "mythdetective",
+   "episode": 8,
+   "episode_count": 15
+  },
+  {
+   "id": "mythancient03",
+   "level": 4,
+   "title_zh": "往海里扔石头的人",
+   "title_en": "Detective Baize: Ancient Myths (3/8): Who Throws Stones into the Sea",
+   "free": false,
+   "chars": 279,
+   "file": "mythancient03.json",
+   "series": "mythancient",
+   "episode": 3,
+   "episode_count": 8
+  },
+  {
+   "id": "mythdetective14",
+   "level": 4,
+   "title_zh": "青蛇回来了",
+   "title_en": "Detective Baize (14/15): The Green Snake Returns",
+   "free": false,
+   "chars": 280,
+   "file": "mythdetective14.json",
+   "series": "mythdetective",
+   "episode": 14,
+   "episode_count": 15
+  },
+  {
+   "id": "mythancient08",
+   "level": 4,
+   "title_zh": "七岁的凶手",
+   "title_en": "Detective Baize: Ancient Myths (8/8): The Seven-Year-Old Killer",
+   "free": false,
+   "chars": 286,
+   "file": "mythancient08.json",
+   "series": "mythancient",
+   "episode": 8,
+   "episode_count": 8
+  },
+  {
+   "id": "mythancient05",
+   "level": 4,
+   "title_zh": "追太阳的巨人",
+   "title_en": "Detective Baize: Ancient Myths (5/8): The Giant Who Chased the Sun",
+   "free": false,
+   "chars": 290,
+   "file": "mythancient05.json",
+   "series": "mythancient",
+   "episode": 5,
+   "episode_count": 8
+  },
+  {
+   "id": "mythdetective12",
+   "level": 4,
+   "title_zh": "兰若寺的金子",
+   "title_en": "Detective Baize (12/15): The Gold of Lanruo Temple",
+   "free": false,
+   "chars": 291,
+   "file": "mythdetective12.json",
+   "series": "mythdetective",
+   "episode": 12,
+   "episode_count": 15
+  },
+  {
+   "id": "mythdetective03",
+   "level": 4,
+   "title_zh": "怕红色的怪兽",
+   "title_en": "Detective Baize (3/15): The Monster That Feared Red",
+   "free": false,
+   "chars": 291,
+   "file": "mythdetective03.json",
+   "series": "mythdetective",
+   "episode": 3,
+   "episode_count": 15
+  },
+  {
+   "id": "firstaid20",
+   "level": 4,
+   "title_zh": "第二十课：电梯里的考试",
+   "title_en": "First Aid Class (20/20): The Exam in the Elevator",
+   "free": false,
+   "chars": 291,
+   "file": "firstaid20.json",
+   "series": "firstaid",
+   "episode": 20,
+   "episode_count": 20
+  },
+  {
+   "id": "mythdetective05",
+   "level": 4,
+   "title_zh": "皇宫里的敲门声",
+   "title_en": "Detective Baize (5/15): Knocking at the Palace Gate",
+   "free": false,
+   "chars": 294,
+   "file": "mythdetective05.json",
+   "series": "mythdetective",
+   "episode": 5,
+   "episode_count": 15
+  },
+  {
+   "id": "mythancient07",
+   "level": 4,
+   "title_zh": "妻子额头上的花",
+   "title_en": "Detective Baize: Ancient Myths (7/8): The Flower on His Wife's Forehead",
+   "free": false,
+   "chars": 295,
+   "file": "mythancient07.json",
+   "series": "mythancient",
+   "episode": 7,
+   "episode_count": 8
+  },
+  {
+   "id": "mythdetective15",
+   "level": 4,
+   "title_zh": "白泽图",
+   "title_en": "Detective Baize (15/15): The Baize Scroll",
+   "free": false,
+   "chars": 307,
+   "file": "mythdetective15.json",
+   "series": "mythdetective",
+   "episode": 15,
+   "episode_count": 15
+  },
+  {
+   "id": "mythancient06",
+   "level": 4,
+   "title_zh": "湖边丢失的仙衣",
+   "title_en": "Detective Baize: Ancient Myths (6/8): The Robe Lost by the Lake",
+   "free": false,
+   "chars": 307,
+   "file": "mythancient06.json",
+   "series": "mythancient",
+   "episode": 6,
+   "episode_count": 8
+  },
+  {
+   "id": "mythancient04",
+   "level": 4,
+   "title_zh": "被砍走的四条腿",
+   "title_en": "Detective Baize: Ancient Myths (4/8): Four Stolen Legs",
+   "free": false,
+   "chars": 309,
+   "file": "mythancient04.json",
+   "series": "mythancient",
+   "episode": 4,
+   "episode_count": 8
   },
   {
    "id": "study",
@@ -3822,6 +4560,30 @@
    "free": false,
    "chars": 310,
    "file": "study.json"
+  },
+  {
+   "id": "mythdetective11",
+   "level": 4,
+   "title_zh": "中元节的河灯",
+   "title_en": "Detective Baize (11/15): River Lanterns for the Ghost Festival",
+   "free": false,
+   "chars": 314,
+   "file": "mythdetective11.json",
+   "series": "mythdetective",
+   "episode": 11,
+   "episode_count": 15
+  },
+  {
+   "id": "mythdetective07",
+   "level": 4,
+   "title_zh": "头七的脚印",
+   "title_en": "Detective Baize (7/15): Footprints on the Seventh Night",
+   "free": false,
+   "chars": 314,
+   "file": "mythdetective07.json",
+   "series": "mythdetective",
+   "episode": 7,
+   "episode_count": 15
   },
   {
    "id": "traditions_fading",
@@ -3885,6 +4647,18 @@
    "free": false,
    "chars": 332,
    "file": "degree_pressure.json"
+  },
+  {
+   "id": "mythdetective09",
+   "level": 4,
+   "title_zh": "生死簿上的墨点",
+   "title_en": "Detective Baize (9/15): The Ink Blot in the Book of Life and Death",
+   "free": false,
+   "chars": 333,
+   "file": "mythdetective09.json",
+   "series": "mythdetective",
+   "episode": 9,
+   "episode_count": 15
   },
   {
    "id": "shortvideo",
@@ -3993,6 +4767,18 @@
    "free": false,
    "chars": 347,
    "file": "ai_companion4.json"
+  },
+  {
+   "id": "mythdetective04",
+   "level": 4,
+   "title_zh": "收了糖的证人",
+   "title_en": "Detective Baize (4/15): The Witness Who Took Candy",
+   "free": false,
+   "chars": 348,
+   "file": "mythdetective04.json",
+   "series": "mythdetective",
+   "episode": 4,
+   "episode_count": 15
   },
   {
    "id": "ai_education4",
@@ -4580,6 +5366,24 @@
    "file": "nanjinguni4.json"
   },
   {
+   "id": "reconcile_informal5",
+   "level": 5,
+   "title_zh": "冰箱上的白板",
+   "title_en": "The Whiteboard on the Fridge",
+   "free": true,
+   "chars": 375,
+   "file": "reconcile_informal5.json"
+  },
+  {
+   "id": "gender5",
+   "level": 5,
+   "title_zh": "那个问题",
+   "title_en": "That Question",
+   "free": true,
+   "chars": 402,
+   "file": "gender5.json"
+  },
+  {
    "id": "pclexicon5",
    "level": 5,
    "title_zh": "他的声音还在里面",
@@ -4587,6 +5391,30 @@
    "free": true,
    "chars": 407,
    "file": "pclexicon5.json"
+  },
+  {
+   "id": "dynasties02",
+   "level": 5,
+   "title_zh": "大禹治水与夏朝",
+   "title_en": "Dynasties of China (2/20): Yu Tames the Flood and the Xia Dynasty",
+   "free": true,
+   "chars": 408,
+   "file": "dynasties02.json",
+   "series": "dynasties",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties01",
+   "level": 5,
+   "title_zh": "三皇五帝：传说中的祖先",
+   "title_en": "Dynasties of China (1/20): The Three Sovereigns and Five Emperors",
+   "free": true,
+   "chars": 412,
+   "file": "dynasties01.json",
+   "series": "dynasties",
+   "episode": 1,
+   "episode_count": 20
   },
   {
    "id": "recipes01",
@@ -4599,6 +5427,18 @@
    "series": "recipes",
    "episode": 1,
    "episode_count": 20
+  },
+  {
+   "id": "oldjobs02",
+   "level": 5,
+   "title_zh": "三更天：打更的人",
+   "title_en": "Grandpa's Old Trades (2/15): The Night Watchman",
+   "free": true,
+   "chars": 470,
+   "file": "oldjobs02.json",
+   "series": "oldjobs",
+   "episode": 2,
+   "episode_count": 15
   },
   {
    "id": "funnytales01",
@@ -4637,6 +5477,18 @@
    "episode_count": 20
   },
   {
+   "id": "oldjobs01",
+   "level": 5,
+   "title_zh": "停电的晚上：赶尸匠",
+   "title_en": "Grandpa's Old Trades (1/15): The Night the Power Went Out, the Corpse Driver",
+   "free": true,
+   "chars": 606,
+   "file": "oldjobs01.json",
+   "series": "oldjobs",
+   "episode": 1,
+   "episode_count": 15
+  },
+  {
    "id": "cooking5",
    "level": 5,
    "title_zh": "差三秒",
@@ -4658,6 +5510,18 @@
    "episode_count": 20
   },
   {
+   "id": "funnytales02",
+   "level": 5,
+   "title_zh": "学会开冰箱的狗",
+   "title_en": "Funny Stories from Life (2/20): The Dog Who Learned to Open the Fridge",
+   "free": true,
+   "chars": 653,
+   "file": "funnytales02.json",
+   "series": "funnytales",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
    "id": "travel5",
    "level": 5,
    "title_zh": "删掉一半的攻略",
@@ -4676,6 +5540,30 @@
    "file": "redchamber01.json",
    "series": "redchamber",
    "episode": 1,
+   "episode_count": 20
+  },
+  {
+   "id": "recipes02",
+   "level": 5,
+   "title_zh": "麻婆豆腐",
+   "title_en": "Cooking Chinese Dishes (2/20): Mapo Tofu",
+   "free": true,
+   "chars": 850,
+   "file": "recipes02.json",
+   "series": "recipes",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "modernslang02",
+   "level": 5,
+   "title_zh": "小组作业引发的内卷",
+   "title_en": "New Slang, New Stories (2/20): How a Group Project Turned into Involution",
+   "free": true,
+   "chars": 869,
+   "file": "modernslang02.json",
+   "series": "modernslang",
+   "episode": 2,
    "episode_count": 20
   },
   {
@@ -4703,22 +5591,316 @@
    "episode_count": 20
   },
   {
-   "id": "reconcile_informal5",
+   "id": "scifi02",
    "level": 5,
-   "title_zh": "冰箱上的白板",
-   "title_en": "The Whiteboard on the Fridge",
-   "free": false,
-   "chars": 375,
-   "file": "reconcile_informal5.json"
+   "title_zh": "启航号的孩子",
+   "title_en": "Chinese Science Fiction (2/20): Child of the Qihang",
+   "free": true,
+   "chars": 1119,
+   "file": "scifi02.json",
+   "series": "scifi",
+   "episode": 2,
+   "episode_count": 20
   },
   {
-   "id": "gender5",
+   "id": "worldnews02",
    "level": 5,
-   "title_zh": "那个问题",
-   "title_en": "That Question",
+   "title_zh": "可再生能源新纪录",
+   "title_en": "Good News (2/20): A Renewable Energy Record",
+   "free": true,
+   "chars": 1126,
+   "file": "worldnews02.json",
+   "series": "worldnews",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "redchamber02",
+   "level": 5,
+   "title_zh": "黛玉进贾府",
+   "title_en": "Dream of the Red Chamber (2/20): Daiyu Arrives at the Jia Mansion",
+   "free": true,
+   "chars": 1150,
+   "file": "redchamber02.json",
+   "series": "redchamber",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "classicpoems02",
+   "level": 5,
+   "title_zh": "杜甫与《春望》",
+   "title_en": "Great Poems and Songs (2/20): Du Fu and \"Spring View\"",
+   "free": true,
+   "chars": 1171,
+   "file": "classicpoems02.json",
+   "series": "classicpoems",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "ruraltales02",
+   "level": 5,
+   "title_zh": "铁匠老李",
+   "title_en": "Stories of Modern China (2/20): Old Li the Blacksmith",
+   "free": true,
+   "chars": 1323,
+   "file": "ruraltales02.json",
+   "series": "ruraltales",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties17",
+   "level": 5,
+   "title_zh": "清朝：天朝什么都有",
+   "title_en": "Dynasties of China (17/20): The Qing Dynasty, \"The Celestial Empire Has Everything\"",
    "free": false,
-   "chars": 402,
-   "file": "gender5.json"
+   "chars": 256,
+   "file": "dynasties17.json",
+   "series": "dynasties",
+   "episode": 17,
+   "episode_count": 20
+  },
+  {
+   "id": "oldjobs11",
+   "level": 5,
+   "title_zh": "“来喽——！”：堂倌",
+   "title_en": "Grandpa's Old Trades (11/15): \"Coming Right Up!\" the Waiter",
+   "free": false,
+   "chars": 304,
+   "file": "oldjobs11.json",
+   "series": "oldjobs",
+   "episode": 11,
+   "episode_count": 15
+  },
+  {
+   "id": "oldjobs10",
+   "level": 5,
+   "title_zh": "冬天的冰，夏天卖：采冰人",
+   "title_en": "Grandpa's Old Trades (10/15): Winter Ice Sold in Summer, the Ice Cutters",
+   "free": false,
+   "chars": 327,
+   "file": "oldjobs10.json",
+   "series": "oldjobs",
+   "episode": 10,
+   "episode_count": 15
+  },
+  {
+   "id": "oldjobs09",
+   "level": 5,
+   "title_zh": "石头上的绳印：纤夫",
+   "title_en": "Grandpa's Old Trades (9/15): Rope Marks in the Rock, the River Trackers",
+   "free": false,
+   "chars": 329,
+   "file": "oldjobs09.json",
+   "series": "oldjobs",
+   "episode": 9,
+   "episode_count": 15
+  },
+  {
+   "id": "oldjobs13",
+   "level": 5,
+   "title_zh": "门框上的“正”字：送水的",
+   "title_en": "Grandpa's Old Trades (13/15): Tally Marks on the Doorframe, the Water Carriers",
+   "free": false,
+   "chars": 334,
+   "file": "oldjobs13.json",
+   "series": "oldjobs",
+   "episode": 13,
+   "episode_count": 15
+  },
+  {
+   "id": "dynasties15",
+   "level": 5,
+   "title_zh": "元朝：会燃烧的黑石头",
+   "title_en": "Dynasties of China (15/20): The Yuan Dynasty and Black Stones That Burn",
+   "free": false,
+   "chars": 351,
+   "file": "dynasties15.json",
+   "series": "dynasties",
+   "episode": 15,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties19",
+   "level": 5,
+   "title_zh": "民国：八十三天的皇帝",
+   "title_en": "Dynasties of China (19/20): The Republic and the 83-Day Emperor",
+   "free": false,
+   "chars": 352,
+   "file": "dynasties19.json",
+   "series": "dynasties",
+   "episode": 19,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties16",
+   "level": 5,
+   "title_zh": "明朝：从和尚到皇帝",
+   "title_en": "Dynasties of China (16/20): The Ming Dynasty, from Monk to Emperor",
+   "free": false,
+   "chars": 354,
+   "file": "dynasties16.json",
+   "series": "dynasties",
+   "episode": 16,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties14",
+   "level": 5,
+   "title_zh": "南宋：背上的四个字",
+   "title_en": "Dynasties of China (14/20): The Southern Song and Four Characters on a Man's Back",
+   "free": false,
+   "chars": 359,
+   "file": "dynasties14.json",
+   "series": "dynasties",
+   "episode": 14,
+   "episode_count": 20
+  },
+  {
+   "id": "oldjobs12",
+   "level": 5,
+   "title_zh": "换两个字：讼师",
+   "title_en": "Grandpa's Old Trades (12/15): Switching Two Characters, the Litigation Master",
+   "free": false,
+   "chars": 361,
+   "file": "oldjobs12.json",
+   "series": "oldjobs",
+   "episode": 12,
+   "episode_count": 15
+  },
+  {
+   "id": "dynasties13",
+   "level": 5,
+   "title_zh": "北宋：一幅画里的城市",
+   "title_en": "Dynasties of China (13/20): The Northern Song, a City in One Painting",
+   "free": false,
+   "chars": 364,
+   "file": "dynasties13.json",
+   "series": "dynasties",
+   "episode": 13,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties12",
+   "level": 5,
+   "title_zh": "唐朝：长安的一百万人",
+   "title_en": "Dynasties of China (12/20): The Tang Dynasty and a Million People in Chang'an",
+   "free": false,
+   "chars": 365,
+   "file": "dynasties12.json",
+   "series": "dynasties",
+   "episode": 12,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties11",
+   "level": 5,
+   "title_zh": "隋朝：一条河和一场考试",
+   "title_en": "Dynasties of China (11/20): The Sui Dynasty, One Canal and One Exam",
+   "free": false,
+   "chars": 367,
+   "file": "dynasties11.json",
+   "series": "dynasties",
+   "episode": 11,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties08",
+   "level": 5,
+   "title_zh": "西汉：为什么叫“汉人”",
+   "title_en": "Dynasties of China (8/20): The Western Han, or Why the Chinese Are \"Han\"",
+   "free": false,
+   "chars": 377,
+   "file": "dynasties08.json",
+   "series": "dynasties",
+   "episode": 8,
+   "episode_count": 20
+  },
+  {
+   "id": "oldjobs14",
+   "level": 5,
+   "title_zh": "吹出来的猴子：吹糖人和拉洋片",
+   "title_en": "Grandpa's Old Trades (14/15): A Monkey Made of Breath, the Sugar Blower and the Peep Show",
+   "free": false,
+   "chars": 386,
+   "file": "oldjobs14.json",
+   "series": "oldjobs",
+   "episode": 14,
+   "episode_count": 15
+  },
+  {
+   "id": "dynasties18",
+   "level": 5,
+   "title_zh": "晚清：不会动的石船",
+   "title_en": "Dynasties of China (18/20): The Late Qing and a Boat That Never Sails",
+   "free": false,
+   "chars": 390,
+   "file": "dynasties18.json",
+   "series": "dynasties",
+   "episode": 18,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties05",
+   "level": 5,
+   "title_zh": "春秋：争霸与卧薪尝胆",
+   "title_en": "Dynasties of China (5/20): The Spring and Autumn Period and the Fight to Be Top Dog",
+   "free": false,
+   "chars": 390,
+   "file": "dynasties05.json",
+   "series": "dynasties",
+   "episode": 5,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties09",
+   "level": 5,
+   "title_zh": "东汉与三国：从地动仪到赤壁",
+   "title_en": "Dynasties of China (9/20): The Eastern Han and the Three Kingdoms",
+   "free": false,
+   "chars": 397,
+   "file": "dynasties09.json",
+   "series": "dynasties",
+   "episode": 9,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties20",
+   "level": 5,
+   "title_zh": "新中国：小渔村和大城市",
+   "title_en": "Dynasties of China (20/20): New China, from Fishing Village to Megacity",
+   "free": false,
+   "chars": 411,
+   "file": "dynasties20.json",
+   "series": "dynasties",
+   "episode": 20,
+   "episode_count": 20
+  },
+  {
+   "id": "oldjobs15",
+   "level": 5,
+   "title_zh": "且听下回分解：说书人",
+   "title_en": "Grandpa's Old Trades (15/15): \"Listen Next Time,\" the Storyteller",
+   "free": false,
+   "chars": 413,
+   "file": "oldjobs15.json",
+   "series": "oldjobs",
+   "episode": 15,
+   "episode_count": 15
+  },
+  {
+   "id": "dynasties07",
+   "level": 5,
+   "title_zh": "秦朝：第一个皇帝",
+   "title_en": "Dynasties of China (7/20): The Qin Dynasty and the First Emperor",
+   "free": false,
+   "chars": 414,
+   "file": "dynasties07.json",
+   "series": "dynasties",
+   "episode": 7,
+   "episode_count": 20
   },
   {
    "id": "influencer5",
@@ -4730,6 +5912,18 @@
    "file": "influencer5.json"
   },
   {
+   "id": "dynasties06",
+   "level": 5,
+   "title_zh": "战国：一根木头和百家争鸣",
+   "title_en": "Dynasties of China (6/20): The Warring States, One Log, and a Hundred Schools",
+   "free": false,
+   "chars": 417,
+   "file": "dynasties06.json",
+   "series": "dynasties",
+   "episode": 6,
+   "episode_count": 20
+  },
+  {
    "id": "addiction5",
    "level": 5,
    "title_zh": "客厅里的篮子",
@@ -4737,6 +5931,18 @@
    "free": false,
    "chars": 424,
    "file": "addiction5.json"
+  },
+  {
+   "id": "dynasties03",
+   "level": 5,
+   "title_zh": "商朝：药铺里的“龙骨”",
+   "title_en": "Dynasties of China (3/20): The Shang Dynasty and \"Dragon Bones\" from the Pharmacy",
+   "free": false,
+   "chars": 427,
+   "file": "dynasties03.json",
+   "series": "dynasties",
+   "episode": 3,
+   "episode_count": 20
   },
   {
    "id": "ecommerce5",
@@ -4748,6 +5954,42 @@
    "file": "ecommerce5.json"
   },
   {
+   "id": "dynasties04",
+   "level": 5,
+   "title_zh": "西周：天命与烽火",
+   "title_en": "Dynasties of China (4/20): The Western Zhou, the Mandate of Heaven, and the Beacon Fires",
+   "free": false,
+   "chars": 434,
+   "file": "dynasties04.json",
+   "series": "dynasties",
+   "episode": 4,
+   "episode_count": 20
+  },
+  {
+   "id": "oldjobs06",
+   "level": 5,
+   "title_zh": "菜市口的刀：刽子手",
+   "title_en": "Grandpa's Old Trades (6/15): The Sword at Caishikou, the Executioner",
+   "free": false,
+   "chars": 434,
+   "file": "oldjobs06.json",
+   "series": "oldjobs",
+   "episode": 6,
+   "episode_count": 15
+  },
+  {
+   "id": "oldjobs07",
+   "level": 5,
+   "title_zh": "“合——吾——！”：镖师",
+   "title_en": "Grandpa's Old Trades (7/15): \"He-wuuu!\" the Caravan Guards",
+   "free": false,
+   "chars": 437,
+   "file": "oldjobs07.json",
+   "series": "oldjobs",
+   "episode": 7,
+   "episode_count": 15
+  },
+  {
    "id": "toilet5",
    "level": 5,
    "title_zh": "胡同里的三分钟",
@@ -4755,6 +5997,18 @@
    "free": false,
    "chars": 437,
    "file": "toilet5.json"
+  },
+  {
+   "id": "dynasties10",
+   "level": 5,
+   "title_zh": "两晋南北朝：分裂中的光",
+   "title_en": "Dynasties of China (10/20): The Jin and Northern and Southern Dynasties, Light in a Divided Age",
+   "free": false,
+   "chars": 440,
+   "file": "dynasties10.json",
+   "series": "dynasties",
+   "episode": 10,
+   "episode_count": 20
   },
   {
    "id": "realestate5",
@@ -4784,6 +6038,18 @@
    "file": "videogames5.json"
   },
   {
+   "id": "oldjobs03",
+   "level": 5,
+   "title_zh": "最臭的生意：掏粪的人",
+   "title_en": "Grandpa's Old Trades (3/15): The Smelliest Business, Night-Soil Men",
+   "free": false,
+   "chars": 445,
+   "file": "oldjobs03.json",
+   "series": "oldjobs",
+   "episode": 3,
+   "episode_count": 15
+  },
+  {
    "id": "gym5",
    "level": 5,
    "title_zh": "年卡",
@@ -4800,6 +6066,18 @@
    "free": false,
    "chars": 448,
    "file": "transport5.json"
+  },
+  {
+   "id": "oldjobs04",
+   "level": 5,
+   "title_zh": "会唱歌的铁夹子：剃头匠",
+   "title_en": "Grandpa's Old Trades (4/15): The Singing Tongs, the Traveling Barber",
+   "free": false,
+   "chars": 449,
+   "file": "oldjobs04.json",
+   "series": "oldjobs",
+   "episode": 4,
+   "episode_count": 15
   },
   {
    "id": "contract5",
@@ -4865,6 +6143,18 @@
    "file": "familyquarrel5.json"
   },
   {
+   "id": "oldjobs08",
+   "level": 5,
+   "title_zh": "灶台下的红帖：媒婆",
+   "title_en": "Grandpa's Old Trades (8/15): The Red Card Under the Stove, the Matchmaker",
+   "free": false,
+   "chars": 474,
+   "file": "oldjobs08.json",
+   "series": "oldjobs",
+   "episode": 8,
+   "episode_count": 15
+  },
+  {
    "id": "scam5",
    "level": 5,
    "title_zh": "不要告诉任何人",
@@ -4890,6 +6180,18 @@
    "free": false,
    "chars": 483,
    "file": "parenting5.json"
+  },
+  {
+   "id": "oldjobs05",
+   "level": 5,
+   "title_zh": "替死人说话的人：仵作",
+   "title_en": "Grandpa's Old Trades (5/15): The Man Who Spoke for the Dead, the Coroner",
+   "free": false,
+   "chars": 484,
+   "file": "oldjobs05.json",
+   "series": "oldjobs",
+   "episode": 5,
+   "episode_count": 15
   },
   {
    "id": "urbanrural5",
@@ -5090,18 +6392,6 @@
    "file": "funnytales10.json",
    "series": "funnytales",
    "episode": 10,
-   "episode_count": 20
-  },
-  {
-   "id": "funnytales02",
-   "level": 5,
-   "title_zh": "学会开冰箱的狗",
-   "title_en": "Funny Stories from Life (2/20): The Dog Who Learned to Open the Fridge",
-   "free": false,
-   "chars": 653,
-   "file": "funnytales02.json",
-   "series": "funnytales",
-   "episode": 2,
    "episode_count": 20
   },
   {
@@ -5582,18 +6872,6 @@
    "episode_count": 20
   },
   {
-   "id": "recipes02",
-   "level": 5,
-   "title_zh": "麻婆豆腐",
-   "title_en": "Cooking Chinese Dishes (2/20): Mapo Tofu",
-   "free": false,
-   "chars": 850,
-   "file": "recipes02.json",
-   "series": "recipes",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
    "id": "recipes18",
    "level": 5,
    "title_zh": "锅贴",
@@ -5615,18 +6893,6 @@
    "file": "modernslang09.json",
    "series": "modernslang",
    "episode": 9,
-   "episode_count": 20
-  },
-  {
-   "id": "modernslang02",
-   "level": 5,
-   "title_zh": "小组作业引发的内卷",
-   "title_en": "New Slang, New Stories (2/20): How a Group Project Turned into Involution",
-   "free": false,
-   "chars": 869,
-   "file": "modernslang02.json",
-   "series": "modernslang",
-   "episode": 2,
    "episode_count": 20
   },
   {
@@ -6362,18 +7628,6 @@
    "episode_count": 20
   },
   {
-   "id": "scifi02",
-   "level": 5,
-   "title_zh": "启航号的孩子",
-   "title_en": "Chinese Science Fiction (2/20): Child of the Qihang",
-   "free": false,
-   "chars": 1119,
-   "file": "scifi02.json",
-   "series": "scifi",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
    "id": "scifi14",
    "level": 5,
    "title_zh": "阿福的心",
@@ -6395,18 +7649,6 @@
    "file": "classicpoems09.json",
    "series": "classicpoems",
    "episode": 9,
-   "episode_count": 20
-  },
-  {
-   "id": "worldnews02",
-   "level": 5,
-   "title_zh": "可再生能源新纪录",
-   "title_en": "Good News (2/20): A Renewable Energy Record",
-   "free": false,
-   "chars": 1126,
-   "file": "worldnews02.json",
-   "series": "worldnews",
-   "episode": 2,
    "episode_count": 20
   },
   {
@@ -6470,18 +7712,6 @@
    "episode_count": 20
   },
   {
-   "id": "redchamber02",
-   "level": 5,
-   "title_zh": "黛玉进贾府",
-   "title_en": "Dream of the Red Chamber (2/20): Daiyu Arrives at the Jia Mansion",
-   "free": false,
-   "chars": 1150,
-   "file": "redchamber02.json",
-   "series": "redchamber",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
    "id": "ruraltales05",
    "level": 5,
    "title_zh": "爷爷的剪纸",
@@ -6515,18 +7745,6 @@
    "file": "scifi19.json",
    "series": "scifi",
    "episode": 19,
-   "episode_count": 20
-  },
-  {
-   "id": "classicpoems02",
-   "level": 5,
-   "title_zh": "杜甫与《春望》",
-   "title_en": "Great Poems and Songs (2/20): Du Fu and \"Spring View\"",
-   "free": false,
-   "chars": 1171,
-   "file": "classicpoems02.json",
-   "series": "classicpoems",
-   "episode": 2,
    "episode_count": 20
   },
   {
@@ -6770,18 +7988,6 @@
    "episode_count": 20
   },
   {
-   "id": "ruraltales02",
-   "level": 5,
-   "title_zh": "铁匠老李",
-   "title_en": "Stories of Modern China (2/20): Old Li the Blacksmith",
-   "free": false,
-   "chars": 1323,
-   "file": "ruraltales02.json",
-   "series": "ruraltales",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
    "id": "ruraltales15",
    "level": 5,
    "title_zh": "稻田变工厂",
@@ -6962,6 +8168,60 @@
    "episode_count": 20
   },
   {
+   "id": "palace02",
+   "level": 6,
+   "title_zh": "三天不许喝水",
+   "title_en": "Dorm Night Talks (2/15): Three Days Without Water",
+   "free": true,
+   "chars": 457,
+   "file": "palace02.json",
+   "series": "palace",
+   "episode": 2,
+   "episode_count": 15
+  },
+  {
+   "id": "palace01",
+   "level": 6,
+   "title_zh": "熄灯以后：后悔不后悔？",
+   "title_en": "Dorm Night Talks (1/15): After Lights-Out, \"Any Regrets?\"",
+   "free": true,
+   "chars": 536,
+   "file": "palace01.json",
+   "series": "palace",
+   "episode": 1,
+   "episode_count": 15
+  },
+  {
+   "id": "l6slang2",
+   "level": 6,
+   "title_zh": "七杯奶茶",
+   "title_en": "Seven Cups of Milk Tea",
+   "free": true,
+   "chars": 596,
+   "file": "l6slang2.json"
+  },
+  {
+   "id": "l6funnews1",
+   "level": 6,
+   "title_zh": "出不了门的冬瓜",
+   "title_en": "The Winter Melon That Couldn't Get Out the Gate",
+   "free": true,
+   "chars": 658,
+   "file": "l6funnews1.json"
+  },
+  {
+   "id": "medicine02",
+   "level": 6,
+   "title_zh": "打疫苗的那天",
+   "title_en": "Doctors and Pharmacies (2/20): The Day I Got My Flu Shot",
+   "free": true,
+   "chars": 695,
+   "file": "medicine02.json",
+   "series": "medicine",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
    "id": "l6slang1",
    "level": 6,
    "title_zh": "十一点睡觉",
@@ -6983,6 +8243,42 @@
    "episode_count": 20
   },
   {
+   "id": "popsongs02",
+   "level": 6,
+   "title_zh": "周杰伦：融合中西的流行音乐天王",
+   "title_en": "Chinese Pop Songs (2/20): Jay Chou, the King of Pop Who Blends East and West",
+   "free": true,
+   "chars": 812,
+   "file": "popsongs02.json",
+   "series": "popsongs",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "courtcases02",
+   "level": 6,
+   "title_zh": "邻居的地界",
+   "title_en": "In the Courtroom (2/20): The Neighbors' Boundary",
+   "free": true,
+   "chars": 813,
+   "file": "courtcases02.json",
+   "series": "courtcases",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "riddles02",
+   "level": 6,
+   "title_zh": "靠在树边的人",
+   "title_en": "Character Riddles (2/20): The Man Leaning on a Tree",
+   "free": true,
+   "chars": 820,
+   "file": "riddles02.json",
+   "series": "riddles",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
    "id": "l6colloc1",
    "level": 6,
    "title_zh": "表姐的选择",
@@ -6999,6 +8295,18 @@
    "free": true,
    "chars": 854,
    "file": "l6blogger1.json"
+  },
+  {
+   "id": "engineering02",
+   "level": 6,
+   "title_zh": "深夜调试代码",
+   "title_en": "Technology and Engineering (2/20): Debugging Code Late at Night",
+   "free": true,
+   "chars": 927,
+   "file": "engineering02.json",
+   "series": "engineering",
+   "episode": 2,
+   "episode_count": 20
   },
   {
    "id": "riddles01",
@@ -7025,6 +8333,18 @@
    "episode_count": 20
   },
   {
+   "id": "ports02",
+   "level": 6,
+   "title_zh": "宁波舟山港：货物吞吐量世界第一",
+   "title_en": "China's Ports (2/20): Ningbo-Zhoushan, the World's Busiest Cargo Port",
+   "free": true,
+   "chars": 1011,
+   "file": "ports02.json",
+   "series": "ports",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
    "id": "celebrities01",
    "level": 6,
    "title_zh": "袁隆平：杂交水稻之父",
@@ -7034,6 +8354,18 @@
    "file": "celebrities01.json",
    "series": "celebrities",
    "episode": 1,
+   "episode_count": 20
+  },
+  {
+   "id": "celebrities02",
+   "level": 6,
+   "title_zh": "屠呦呦与青蒿素",
+   "title_en": "Famous Chinese People (2/20): Tu Youyou and Artemisinin",
+   "free": true,
+   "chars": 1022,
+   "file": "celebrities02.json",
+   "series": "celebrities",
+   "episode": 2,
    "episode_count": 20
   },
   {
@@ -7073,6 +8405,30 @@
    "episode_count": 20
   },
   {
+   "id": "psychology02",
+   "level": 6,
+   "title_zh": "脑子里的记忆仓库",
+   "title_en": "Psychology Made Simple (2/20): The Memory Warehouse in Your Head",
+   "free": true,
+   "chars": 1127,
+   "file": "psychology02.json",
+   "series": "psychology",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "dramas02",
+   "level": 6,
+   "title_zh": "都市爱情剧：屋顶上的夕阳",
+   "title_en": "Chinese TV Dramas (2/20): Sunset on the Rooftop",
+   "free": true,
+   "chars": 1128,
+   "file": "dramas02.json",
+   "series": "dramas",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
    "id": "psychology01",
    "level": 6,
    "title_zh": "两瓶一样的洗发水",
@@ -7082,6 +8438,54 @@
    "file": "psychology01.json",
    "series": "psychology",
    "episode": 1,
+   "episode_count": 20
+  },
+  {
+   "id": "aitopics02",
+   "level": 6,
+   "title_zh": "无人驾驶汽车",
+   "title_en": "Artificial Intelligence (2/20): A Driverless Car in the City",
+   "free": true,
+   "chars": 1193,
+   "file": "aitopics02.json",
+   "series": "aitopics",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "eateries02",
+   "level": 6,
+   "title_zh": "鼎泰丰",
+   "title_en": "Famous Restaurants (2/20): Din Tai Fung",
+   "free": true,
+   "chars": 1212,
+   "file": "eateries02.json",
+   "series": "eateries",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "corporations02",
+   "level": 6,
+   "title_zh": "腾讯：从QQ到微信",
+   "title_en": "Chinese Companies (2/20): Tencent, from QQ to WeChat",
+   "free": true,
+   "chars": 1252,
+   "file": "corporations02.json",
+   "series": "corporations",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "professions02",
+   "level": 6,
+   "title_zh": "飞行员的故事",
+   "title_en": "Jobs (2/20): Up in the Sky with a Pilot",
+   "free": true,
+   "chars": 1287,
+   "file": "professions02.json",
+   "series": "professions",
+   "episode": 2,
    "episode_count": 20
   },
   {
@@ -7109,6 +8513,18 @@
    "episode_count": 20
   },
   {
+   "id": "futurevisions02",
+   "level": 6,
+   "title_zh": "西方极乐世界",
+   "title_en": "Visions of the Future (2/20): The Western Pure Land",
+   "free": true,
+   "chars": 1316,
+   "file": "futurevisions02.json",
+   "series": "futurevisions",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
    "id": "humour01",
    "level": 6,
    "title_zh": "打印机的“报复”",
@@ -7130,6 +8546,18 @@
    "file": "chinahistory01.json",
    "series": "chinahistory",
    "episode": 1,
+   "episode_count": 20
+  },
+  {
+   "id": "humour02",
+   "level": 6,
+   "title_zh": "广场舞大战",
+   "title_en": "Chinese Humor (2/20): The Square-Dance Wars",
+   "free": true,
+   "chars": 1359,
+   "file": "humour02.json",
+   "series": "humour",
+   "episode": 2,
    "episode_count": 20
   },
   {
@@ -7169,6 +8597,30 @@
    "episode_count": 20
   },
   {
+   "id": "destinations02",
+   "level": 6,
+   "title_zh": "桂林:漓江边的晨曦",
+   "title_en": "Beautiful Places in China (2/20): Guilin, Dawn on the Li River",
+   "free": true,
+   "chars": 1422,
+   "file": "destinations02.json",
+   "series": "destinations",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "construction02",
+   "level": 6,
+   "title_zh": "港珠澳大桥",
+   "title_en": "Wonders of Chinese Engineering (2/20): The Hong Kong–Zhuhai–Macao Bridge",
+   "free": true,
+   "chars": 1449,
+   "file": "construction02.json",
+   "series": "construction",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
    "id": "dramas01",
    "level": 6,
    "title_zh": "宫廷古装剧：穿越千年的皇宫故事",
@@ -7178,6 +8630,18 @@
    "file": "dramas01.json",
    "series": "dramas",
    "episode": 1,
+   "episode_count": 20
+  },
+  {
+   "id": "chinahistory02",
+   "level": 6,
+   "title_zh": "大禹治水",
+   "title_en": "Chinese History (2/20): Yu the Great Tames the Flood",
+   "free": true,
+   "chars": 1538,
+   "file": "chinahistory02.json",
+   "series": "chinahistory",
+   "episode": 2,
    "episode_count": 20
   },
   {
@@ -7193,22 +8657,160 @@
    "episode_count": 20
   },
   {
-   "id": "l6slang2",
+   "id": "palace14",
    "level": 6,
-   "title_zh": "七杯奶茶",
-   "title_en": "Seven Cups of Milk Tea",
+   "title_zh": "慈禧身边的两个人",
+   "title_en": "Dorm Night Talks (14/15): The Two Men at Cixi's Side",
    "free": false,
-   "chars": 596,
-   "file": "l6slang2.json"
+   "chars": 399,
+   "file": "palace14.json",
+   "series": "palace",
+   "episode": 14,
+   "episode_count": 15
   },
   {
-   "id": "l6funnews1",
+   "id": "palace12",
    "level": 6,
-   "title_zh": "出不了门的冬瓜",
-   "title_en": "The Winter Melon That Couldn't Get Out the Gate",
+   "title_zh": "站着的皇帝",
+   "title_en": "Dorm Night Talks (12/15): The Standing Emperor",
    "free": false,
-   "chars": 658,
-   "file": "l6funnews1.json"
+   "chars": 404,
+   "file": "palace12.json",
+   "series": "palace",
+   "episode": 12,
+   "episode_count": 15
+  },
+  {
+   "id": "palace06",
+   "level": 6,
+   "title_zh": "宫墙里的日子",
+   "title_en": "Dorm Night Talks (6/15): Life Behind the Palace Walls",
+   "free": false,
+   "chars": 405,
+   "file": "palace06.json",
+   "series": "palace",
+   "episode": 6,
+   "episode_count": 15
+  },
+  {
+   "id": "palace09",
+   "level": 6,
+   "title_zh": "别让皇帝闲着",
+   "title_en": "Dorm Night Talks (9/15): Never Let the Emperor Be Idle",
+   "free": false,
+   "chars": 412,
+   "file": "palace09.json",
+   "series": "palace",
+   "episode": 9,
+   "episode_count": 15
+  },
+  {
+   "id": "palace11",
+   "level": 6,
+   "title_zh": "土木堡的那一天",
+   "title_en": "Dorm Night Talks (11/15): That Day at Tumu",
+   "free": false,
+   "chars": 420,
+   "file": "palace11.json",
+   "series": "palace",
+   "episode": 11,
+   "episode_count": 15
+  },
+  {
+   "id": "palace13",
+   "level": 6,
+   "title_zh": "九千岁和木匠皇帝",
+   "title_en": "Dorm Night Talks (13/15): \"Nine Thousand Years\" and the Carpenter Emperor",
+   "free": false,
+   "chars": 423,
+   "file": "palace13.json",
+   "series": "palace",
+   "episode": 13,
+   "episode_count": 15
+  },
+  {
+   "id": "palace07",
+   "level": 6,
+   "title_zh": "是鹿还是马？",
+   "title_en": "Dorm Night Talks (7/15): Deer or Horse?",
+   "free": false,
+   "chars": 436,
+   "file": "palace07.json",
+   "series": "palace",
+   "episode": 7,
+   "episode_count": 15
+  },
+  {
+   "id": "palace03",
+   "level": 6,
+   "title_zh": "步步高升的“宝贝”",
+   "title_en": "Dorm Night Talks (3/15): The \"Treasure\" That Rose Step by Step",
+   "free": false,
+   "chars": 443,
+   "file": "palace03.json",
+   "series": "palace",
+   "episode": 3,
+   "episode_count": 15
+  },
+  {
+   "id": "palace04",
+   "level": 6,
+   "title_zh": "无名白",
+   "title_en": "Dorm Night Talks (4/15): The \"Nameless Whites\"",
+   "free": false,
+   "chars": 454,
+   "file": "palace04.json",
+   "series": "palace",
+   "episode": 4,
+   "episode_count": 15
+  },
+  {
+   "id": "palace05",
+   "level": 6,
+   "title_zh": "医学生的夜间讲座",
+   "title_en": "Dorm Night Talks (5/15): The Med Student's Midnight Lecture",
+   "free": false,
+   "chars": 456,
+   "file": "palace05.json",
+   "series": "palace",
+   "episode": 5,
+   "episode_count": 15
+  },
+  {
+   "id": "palace15",
+   "level": 6,
+   "title_zh": "最后一个太监",
+   "title_en": "Dorm Night Talks (15/15): The Last Eunuch",
+   "free": false,
+   "chars": 464,
+   "file": "palace15.json",
+   "series": "palace",
+   "episode": 15,
+   "episode_count": 15
+  },
+  {
+   "id": "palace10",
+   "level": 6,
+   "title_zh": "长脖子的麒麟",
+   "title_en": "Dorm Night Talks (10/15): The Long-Necked Qilin",
+   "free": false,
+   "chars": 467,
+   "file": "palace10.json",
+   "series": "palace",
+   "episode": 10,
+   "episode_count": 15
+  },
+  {
+   "id": "palace08",
+   "level": 6,
+   "title_zh": "重于泰山",
+   "title_en": "Dorm Night Talks (8/15): Heavier Than Mount Tai",
+   "free": false,
+   "chars": 507,
+   "file": "palace08.json",
+   "series": "palace",
+   "episode": 8,
+   "episode_count": 15
   },
   {
    "id": "l6colloc2",
@@ -7290,18 +8892,6 @@
    "free": false,
    "chars": 693,
    "file": "l6truth1.json"
-  },
-  {
-   "id": "medicine02",
-   "level": 6,
-   "title_zh": "打疫苗的那天",
-   "title_en": "Doctors and Pharmacies (2/20): The Day I Got My Flu Shot",
-   "free": false,
-   "chars": 695,
-   "file": "medicine02.json",
-   "series": "medicine",
-   "episode": 2,
-   "episode_count": 20
   },
   {
    "id": "l6fooddelivery1",
@@ -7982,30 +9572,6 @@
    "episode_count": 20
   },
   {
-   "id": "popsongs02",
-   "level": 6,
-   "title_zh": "周杰伦：融合中西的流行音乐天王",
-   "title_en": "Chinese Pop Songs (2/20): Jay Chou, the King of Pop Who Blends East and West",
-   "free": false,
-   "chars": 812,
-   "file": "popsongs02.json",
-   "series": "popsongs",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
-   "id": "courtcases02",
-   "level": 6,
-   "title_zh": "邻居的地界",
-   "title_en": "In the Courtroom (2/20): The Neighbors' Boundary",
-   "free": false,
-   "chars": 813,
-   "file": "courtcases02.json",
-   "series": "courtcases",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
    "id": "celebrities07",
    "level": 6,
    "title_zh": "钟南山：敢医敢言的「国士」",
@@ -8037,18 +9603,6 @@
    "free": false,
    "chars": 819,
    "file": "l6ecommerce1.json"
-  },
-  {
-   "id": "riddles02",
-   "level": 6,
-   "title_zh": "靠在树边的人",
-   "title_en": "Character Riddles (2/20): The Man Leaning on a Tree",
-   "free": false,
-   "chars": 820,
-   "file": "riddles02.json",
-   "series": "riddles",
-   "episode": 2,
-   "episode_count": 20
   },
   {
    "id": "celebrities17",
@@ -8660,18 +10214,6 @@
    "episode_count": 20
   },
   {
-   "id": "engineering02",
-   "level": 6,
-   "title_zh": "深夜调试代码",
-   "title_en": "Technology and Engineering (2/20): Debugging Code Late at Night",
-   "free": false,
-   "chars": 927,
-   "file": "engineering02.json",
-   "series": "engineering",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
    "id": "courtcases08",
    "level": 6,
    "title_zh": "虚假投资诈骗案",
@@ -8933,18 +10475,6 @@
    "episode_count": 20
   },
   {
-   "id": "ports02",
-   "level": 6,
-   "title_zh": "宁波舟山港：货物吞吐量世界第一",
-   "title_en": "China's Ports (2/20): Ningbo-Zhoushan, the World's Busiest Cargo Port",
-   "free": false,
-   "chars": 1011,
-   "file": "ports02.json",
-   "series": "ports",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
    "id": "medicine10",
    "level": 6,
    "title_zh": "急诊室的夜晚",
@@ -8978,18 +10508,6 @@
    "file": "medicine06.json",
    "series": "medicine",
    "episode": 6,
-   "episode_count": 20
-  },
-  {
-   "id": "celebrities02",
-   "level": 6,
-   "title_zh": "屠呦呦与青蒿素",
-   "title_en": "Famous Chinese People (2/20): Tu Youyou and Artemisinin",
-   "free": false,
-   "chars": 1022,
-   "file": "celebrities02.json",
-   "series": "celebrities",
-   "episode": 2,
    "episode_count": 20
   },
   {
@@ -9656,30 +11174,6 @@
    "episode_count": 20
   },
   {
-   "id": "psychology02",
-   "level": 6,
-   "title_zh": "脑子里的记忆仓库",
-   "title_en": "Psychology Made Simple (2/20): The Memory Warehouse in Your Head",
-   "free": false,
-   "chars": 1127,
-   "file": "psychology02.json",
-   "series": "psychology",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
-   "id": "dramas02",
-   "level": 6,
-   "title_zh": "都市爱情剧：屋顶上的夕阳",
-   "title_en": "Chinese TV Dramas (2/20): Sunset on the Rooftop",
-   "free": false,
-   "chars": 1128,
-   "file": "dramas02.json",
-   "series": "dramas",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
    "id": "dramas06",
    "level": 6,
    "title_zh": "校园剧：穿校服的青春",
@@ -10208,18 +11702,6 @@
    "episode_count": 20
   },
   {
-   "id": "aitopics02",
-   "level": 6,
-   "title_zh": "无人驾驶汽车",
-   "title_en": "Artificial Intelligence (2/20): A Driverless Car in the City",
-   "free": false,
-   "chars": 1193,
-   "file": "aitopics02.json",
-   "series": "aitopics",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
    "id": "dramas04",
    "level": 6,
    "title_zh": "家庭剧：餐桌上的眼泪与和解",
@@ -10364,18 +11846,6 @@
    "episode_count": 20
   },
   {
-   "id": "eateries02",
-   "level": 6,
-   "title_zh": "鼎泰丰",
-   "title_en": "Famous Restaurants (2/20): Din Tai Fung",
-   "free": false,
-   "chars": 1212,
-   "file": "eateries02.json",
-   "series": "eateries",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
    "id": "dramas10",
    "level": 6,
    "title_zh": "军旅剧：训练场上的汗水",
@@ -10493,18 +11963,6 @@
    "file": "destinations19.json",
    "series": "destinations",
    "episode": 19,
-   "episode_count": 20
-  },
-  {
-   "id": "corporations02",
-   "level": 6,
-   "title_zh": "腾讯：从QQ到微信",
-   "title_en": "Chinese Companies (2/20): Tencent, from QQ to WeChat",
-   "free": false,
-   "chars": 1252,
-   "file": "corporations02.json",
-   "series": "corporations",
-   "episode": 2,
    "episode_count": 20
   },
   {
@@ -10700,18 +12158,6 @@
    "episode_count": 20
   },
   {
-   "id": "professions02",
-   "level": 6,
-   "title_zh": "飞行员的故事",
-   "title_en": "Jobs (2/20): Up in the Sky with a Pilot",
-   "free": false,
-   "chars": 1287,
-   "file": "professions02.json",
-   "series": "professions",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
    "id": "destinations06",
    "level": 6,
    "title_zh": "黄山:云海中的奇松怪石",
@@ -10769,18 +12215,6 @@
    "file": "humour06.json",
    "series": "humour",
    "episode": 6,
-   "episode_count": 20
-  },
-  {
-   "id": "futurevisions02",
-   "level": 6,
-   "title_zh": "西方极乐世界",
-   "title_en": "Visions of the Future (2/20): The Western Pure Land",
-   "free": false,
-   "chars": 1316,
-   "file": "futurevisions02.json",
-   "series": "futurevisions",
-   "episode": 2,
    "episode_count": 20
   },
   {
@@ -10952,18 +12386,6 @@
    "episode_count": 20
   },
   {
-   "id": "humour02",
-   "level": 6,
-   "title_zh": "广场舞大战",
-   "title_en": "Chinese Humor (2/20): The Square-Dance Wars",
-   "free": false,
-   "chars": 1359,
-   "file": "humour02.json",
-   "series": "humour",
-   "episode": 2,
-   "episode_count": 20
-  },
-  {
    "id": "corporations18",
    "level": 6,
    "title_zh": "蜜雪冰城：便宜的饮品帝国",
@@ -11021,18 +12443,6 @@
    "file": "chinahistory04.json",
    "series": "chinahistory",
    "episode": 4,
-   "episode_count": 20
-  },
-  {
-   "id": "destinations02",
-   "level": 6,
-   "title_zh": "桂林:漓江边的晨曦",
-   "title_en": "Beautiful Places in China (2/20): Guilin, Dawn on the Li River",
-   "free": false,
-   "chars": 1422,
-   "file": "destinations02.json",
-   "series": "destinations",
-   "episode": 2,
    "episode_count": 20
   },
   {
@@ -11117,18 +12527,6 @@
    "file": "destinations05.json",
    "series": "destinations",
    "episode": 5,
-   "episode_count": 20
-  },
-  {
-   "id": "construction02",
-   "level": 6,
-   "title_zh": "港珠澳大桥",
-   "title_en": "Wonders of Chinese Engineering (2/20): The Hong Kong–Zhuhai–Macao Bridge",
-   "free": false,
-   "chars": 1449,
-   "file": "construction02.json",
-   "series": "construction",
-   "episode": 2,
    "episode_count": 20
   },
   {
@@ -11381,18 +12779,6 @@
    "file": "futurevisions09.json",
    "series": "futurevisions",
    "episode": 9,
-   "episode_count": 20
-  },
-  {
-   "id": "chinahistory02",
-   "level": 6,
-   "title_zh": "大禹治水",
-   "title_en": "Chinese History (2/20): Yu the Great Tames the Flood",
-   "free": false,
-   "chars": 1538,
-   "file": "chinahistory02.json",
-   "series": "chinahistory",
-   "episode": 2,
    "episode_count": 20
   },
   {
