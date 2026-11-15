@@ -11,7 +11,7 @@
  "episode_count": 20,
  "sentences": [
   {
-   "en": "Xiao Mei and Xiao Gang were introduced by a friend, and on their first date they both wanted to make a good impression.",
+   "en": "Xiao Mei and Xiao Gang were introduced by a friend, and on their first date both wanted to make a good impression.",
    "phrases": [
     {
      "en": "Xiao Mei and Xiao Gang were introduced by a friend,",
@@ -42,7 +42,7 @@
       },
       {
        "h": "朋友",
-       "py": "péngyǒu",
+       "py": "péngyou",
        "gl": "friend",
        "pos": "n."
       },
@@ -61,7 +61,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "nominalizing particle (…的 the one that…)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -70,19 +70,13 @@
      ]
     },
     {
-     "en": "and on their first date they both wanted to make a good impression.",
+     "en": "and on their first date both wanted to make a good impression.",
      "words": [
       {
-       "h": "第一",
-       "py": "dìyī",
-       "gl": "first",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
       },
       {
        "h": "约会",
@@ -94,27 +88,15 @@
        "h": "，"
       },
       {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "两人",
+       "py": "liǎngrén",
+       "gl": "the two (of them); both",
        "pos": "n."
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like",
+       "h": "都想",
+       "py": "dōuxiǎng",
+       "gl": "all want",
        "pos": "v."
       },
       {
@@ -155,7 +137,7 @@
    ]
   },
   {
-   "en": "Xiao Gang asked, \"Do you like hot pot?\" Xiao Mei immediately said, \"Sure! Hot pot is so much fun.\"",
+   "en": "Xiao Gang asked, \"Do you like hot pot?\" Xiao Mei said at once, \"Sure, hot pot is so lively.\"",
    "phrases": [
     {
      "en": "Xiao Gang asked, \"Do you like hot pot?\"",
@@ -186,7 +168,7 @@
       },
       {
        "h": "喜欢",
-       "py": "xǐhuān",
+       "py": "xǐhuan",
        "gl": "like; love",
        "pos": "v."
       },
@@ -217,7 +199,7 @@
      ]
     },
     {
-     "en": "Xiao Mei immediately said, \"Sure! Hot pot is so much fun.\"",
+     "en": "Xiao Mei said at once, \"Sure, hot pot is so lively.\"",
      "words": [
       {
        "h": "小美",
@@ -245,7 +227,7 @@
       },
       {
        "h": "喜欢",
-       "py": "xǐhuān",
+       "py": "xǐhuan",
        "gl": "like; love",
        "pos": "v."
       },
@@ -267,8 +249,8 @@
       {
        "h": "多",
        "py": "duō",
-       "gl": "how (to what extent)",
-       "pos": "adv."
+       "gl": "many; much",
+       "pos": "adj."
       },
       {
        "h": "热闹",
@@ -287,10 +269,10 @@
    ]
   },
   {
-   "en": "In fact, Xiao Mei didn't like spicy food at all, but she felt that on a first date it would be awkward to come across as too picky.",
+   "en": "In fact Xiao Mei didn't like spicy food at all, but she felt it would be embarrassing to seem too fussy on a first date.",
    "phrases": [
     {
-     "en": "In fact, Xiao Mei didn't like spicy food at all,",
+     "en": "In fact Xiao Mei didn't like spicy food at all,",
      "words": [
       {
        "h": "其实",
@@ -305,33 +287,15 @@
        "pos": "proper noun"
       },
       {
-       "h": "一点",
-       "py": "yìdiǎn",
-       "gl": "a little; a bit",
+       "h": "一点也不",
+       "py": "yìdiǎnyěbù",
+       "gl": "not at all; not the least bit",
        "pos": "adv."
       },
       {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too; (with negation) even",
-       "pos": "adv."
-      },
-      {
-       "h": "不",
-       "py": "bù",
-       "gl": "not; no",
-       "pos": "adv."
-      },
-      {
-       "h": "爱",
-       "py": "ài",
-       "gl": "love",
-       "pos": "v."
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
+       "h": "爱吃",
+       "py": "àichī",
+       "gl": "like to eat",
        "pos": "v."
       },
       {
@@ -346,7 +310,7 @@
      ]
     },
     {
-     "en": "but she felt that on a first date it would be awkward to come across as too picky.",
+     "en": "but she felt it would be embarrassing to seem too fussy on a first date.",
      "words": [
       {
        "h": "但",
@@ -363,20 +327,14 @@
       {
        "h": "觉得",
        "py": "juéde",
-       "gl": "think; feel",
+       "gl": "feel; think",
        "pos": "v."
       },
       {
-       "h": "第一",
-       "py": "dìyī",
-       "gl": "first",
-       "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
+       "h": "第一次",
+       "py": "dìyīcì",
+       "gl": "first time; for the first time",
+       "pos": "adv."
       },
       {
        "h": "约会",
@@ -391,24 +349,24 @@
        "h": "不好意思",
        "py": "bùhǎoyìsī",
        "gl": "feel embarrassed; be too shy to; sorry; excuse me",
-       "pos": "v."
+       "pos": "adj."
       },
       {
        "h": "表现",
        "py": "biǎoxiàn",
-       "gl": "perform; do (well/badly); behave; performance",
+       "gl": "come across as; behave",
        "pos": "v."
       },
       {
        "h": "得",
-       "py": "dé",
-       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
+       "py": "de",
+       "gl": "particle linking a verb to its result or degree (打得更好 play better)",
        "pos": "particle"
       },
       {
        "h": "太",
        "py": "tài",
-       "gl": "too; very",
+       "gl": "too",
        "pos": "adv."
       },
       {
@@ -425,10 +383,10 @@
    ]
   },
   {
-   "en": "Once they sat down in the hot pot restaurant, Xiao Gang swished some meat in the broth and said quietly, \"Actually, I can't really handle spicy food. This bowl of dipping sauce is the only thing keeping me going.\"",
+   "en": "Once they sat down in the hot pot restaurant, Xiao Gang, while dipping meat into the pot, said quietly, \"Actually I can't take much spice; this bowl of dipping sauce is all that's keeping me going.\"",
    "phrases": [
     {
-     "en": "Once they sat down in the hot pot restaurant, Xiao Gang swished some meat in the broth",
+     "en": "Once they sat down in the hot pot restaurant, Xiao Gang, while dipping meat into the pot,",
      "words": [
       {
        "h": "坐进",
@@ -437,22 +395,16 @@
        "pos": "v."
       },
       {
-       "h": "火锅",
-       "py": "huǒguō",
-       "gl": "hot pot",
-       "pos": "n."
-      },
-      {
-       "h": "店",
-       "py": "diàn",
-       "gl": "shop; store; place (business)",
+       "h": "火锅店",
+       "py": "huǒguōdiàn",
+       "gl": "hotpot restaurant",
        "pos": "n."
       },
       {
        "h": "以后",
        "py": "yǐhòu",
        "gl": "after (since)",
-       "pos": "n."
+       "pos": "postposition"
       },
       {
        "h": "，"
@@ -464,16 +416,10 @@
        "pos": "proper noun"
       },
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "(part of 一边…一边…: while; at the same time)",
-       "pos": "adv."
-      },
-      {
-       "h": "边",
-       "py": "biān",
-       "gl": "while (边…边… do two things at once)",
-       "pos": "adv."
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
       },
       {
        "h": "涮",
@@ -499,19 +445,13 @@
      ]
     },
     {
-     "en": "and said quietly, \"Actually, I can't really handle spicy food. This bowl of dipping sauce is the only thing keeping me going.\"",
+     "en": "said quietly, \"Actually I can't take much spice; this bowl of dipping sauce is all that's keeping me going.\"",
      "words": [
       {
-       "h": "一",
-       "py": "yī",
-       "gl": "(part of 一边…一边…: while; at the same time)",
-       "pos": "adv."
-      },
-      {
-       "h": "边",
-       "py": "biān",
-       "gl": "while (边…边… do two things at once)",
-       "pos": "adv."
+       "h": "一边",
+       "py": "yībiān",
+       "gl": "at the same time (一边…一边… doing two things at once)",
+       "pos": "conj."
       },
       {
        "h": "小声",
@@ -565,21 +505,15 @@
        "h": "，"
       },
       {
-       "h": "全",
-       "py": "quán",
-       "gl": "all; entirely",
-       "pos": "adv."
-      },
-      {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
+       "h": "全靠",
+       "py": "quánkào",
+       "gl": "rely entirely on; all thanks to",
        "pos": "v."
       },
       {
        "h": "这",
        "py": "zhè",
-       "gl": "this; these",
+       "gl": "this",
        "pos": "pron."
       },
       {
@@ -595,16 +529,10 @@
        "pos": "n."
       },
       {
-       "h": "撑",
-       "py": "chēng",
+       "h": "撑着",
+       "py": "chēngzhe",
        "gl": "hold out; keep going",
        "pos": "v."
-      },
-      {
-       "h": "着",
-       "py": "zhe",
-       "gl": "particle: ongoing action or state",
-       "pos": "particle"
       },
       {
        "h": "。"
@@ -617,10 +545,10 @@
    ]
   },
   {
-   "en": "Xiao Mei froze for a second, then burst out laughing. \"Me too! I've been drinking water this whole time to cool my mouth down.\"",
+   "en": "Xiao Mei froze for a moment, then couldn't help laughing out loud: \"Me too! I've been drinking water this whole time to cool my mouth down.\"",
    "phrases": [
     {
-     "en": "Xiao Mei froze for a second, then burst out laughing.",
+     "en": "Xiao Mei froze for a moment, then couldn't help laughing out loud:",
      "words": [
       {
        "h": "小美",
@@ -629,28 +557,10 @@
        "pos": "proper noun"
       },
       {
-       "h": "愣",
-       "py": "lèng",
-       "gl": "be stunned; freeze",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
-      },
-      {
-       "h": "一",
-       "py": "yī",
-       "gl": "(before a verb: a quick, brief action)",
-       "pos": "measure word"
-      },
-      {
-       "h": "下",
-       "py": "xià",
-       "gl": "measure word for actions (a few times; a bit)",
-       "pos": "measure word"
+       "h": "愣了一下",
+       "py": "lèngleyīxià",
+       "gl": "was stunned for a moment",
+       "pos": "phrase"
       },
       {
        "h": "，"
@@ -685,16 +595,10 @@
        "pos": "pron."
       },
       {
-       "h": "也",
-       "py": "yě",
+       "h": "也是",
+       "py": "yěshì",
        "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
+       "pos": "conj."
       },
       {
        "h": "！"
@@ -720,8 +624,8 @@
       {
        "h": "在",
        "py": "zài",
-       "gl": "particle: action in progress (他在吃 'he is eating')",
-       "pos": "function word"
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
        "h": "喝水",
@@ -731,8 +635,8 @@
       },
       {
        "h": "降辣",
-       "py": "jiànglà",
-       "gl": "tone down the spiciness",
+       "py": "jiàng là",
+       "gl": "cool down the spiciness",
        "pos": "v."
       },
       {
@@ -746,61 +650,31 @@
    ]
   },
   {
-   "en": "They both doubled over with laughter, and from then on their dates actually got a lot more relaxed. On the second one, they simply went for some mild rice porridge.",
+   "en": "The two of them laughed until they were rocking in their seats, and from then on their dates actually got much more relaxed; the second time they simply went for plain rice porridge.",
    "phrases": [
     {
-     "en": "They both doubled over with laughter, and from then on",
+     "en": "The two of them laughed until they were rocking in their seats, and from then on",
      "words": [
       {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "两人",
+       "py": "liǎngrén",
+       "gl": "the two (of them); both",
        "pos": "n."
       },
       {
-       "h": "笑",
-       "py": "xiào",
-       "gl": "laugh; smile",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "dé",
-       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
-       "pos": "particle"
-      },
-      {
-       "h": "前仰后合",
-       "py": "qiányǎnghòuhé",
-       "gl": "double over with laughter (idiom; lit. rock back and forth)",
-       "pos": "v."
+       "h": "笑得前仰后合",
+       "py": "xiàodéqiányǎnghòuhé",
+       "gl": "double over with laughter",
+       "pos": "phrase"
       },
       {
        "h": "，"
       },
       {
-       "h": "从",
-       "py": "cóng",
-       "gl": "from",
-       "pos": "prep."
-      },
-      {
-       "h": "那",
-       "py": "nà",
-       "gl": "that",
-       "pos": "pron."
-      },
-      {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "after (since)",
-       "pos": "n."
+       "h": "从那以后",
+       "py": "cóngnàyǐhòu",
+       "gl": "since then; from then on",
+       "pos": "phrase"
       },
       {
        "h": "，"
@@ -808,7 +682,7 @@
      ]
     },
     {
-     "en": "their dates actually got a lot more relaxed. On the second one, they simply went for some mild rice porridge.",
+     "en": "their dates actually got much more relaxed; the second time they simply went for plain rice porridge.",
      "words": [
       {
        "h": "约会",
@@ -819,12 +693,12 @@
       {
        "h": "反而",
        "py": "fǎnér",
-       "gl": "instead; on the contrary",
+       "gl": "on the contrary; instead",
        "pos": "adv."
       },
       {
        "h": "变得",
-       "py": "biàndé",
+       "py": "biànde",
        "gl": "become",
        "pos": "v."
       },
@@ -835,31 +709,19 @@
        "pos": "adj."
       },
       {
-       "h": "多",
-       "py": "duō",
-       "gl": "much (more) (after comparison: 方便多了 'much more convenient')",
+       "h": "多了",
+       "py": "duōle",
+       "gl": "much (more) (after comparison)",
        "pos": "adv."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
       },
       {
        "h": "，"
       },
       {
-       "h": "第二",
-       "py": "dìèr",
-       "gl": "second",
+       "h": "第二次",
+       "py": "dìèrcì",
+       "gl": "the second time",
        "pos": "num."
-      },
-      {
-       "h": "次",
-       "py": "cì",
-       "gl": "time (measure word for occurrences)",
-       "pos": "measure word"
       },
       {
        "h": "干脆",
@@ -880,16 +742,10 @@
        "pos": "v."
       },
       {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
+       "h": "吃了",
+       "py": "chīle",
+       "gl": "ate; had (a bite)",
        "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "particle"
       },
       {
        "h": "清淡",
@@ -900,7 +756,7 @@
       {
        "h": "的",
        "py": "de",
-       "gl": "attributive particle (特别的工作 a special job)",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
        "pos": "particle"
       },
       {
@@ -917,28 +773,64 @@
    ]
   },
   {
-   "en": "The more they talked, the happier they were, and they agreed that from now on they'd always tell each other the truth instead of putting on a brave face just to save face.",
+   "en": "Meeting through a friend's introduction, as Xiao Mei and Xiao Gang did, is called xiangqin in China, a way of finding a partner that was already popular in their parents' generation.",
    "phrases": [
     {
-     "en": "The more they talked, the happier they were,",
+     "en": "Meeting through a friend's introduction, as Xiao Mei and Xiao Gang did,",
      "words": [
       {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
       },
       {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
+       "h": "小美",
+       "py": "xiǎoměi",
+       "gl": "Xiao Mei",
+       "pos": "proper noun"
+      },
+      {
+       "h": "和",
+       "py": "hé",
+       "gl": "and",
+       "pos": "conj."
+      },
+      {
+       "h": "小刚",
+       "py": "xiǎogāng",
+       "gl": "Xiao Gang",
+       "pos": "proper noun"
+      },
+      {
+       "h": "这样",
+       "py": "zhèyàng",
+       "gl": "such; like this",
+       "pos": "pron."
+      },
+      {
+       "h": "通过",
+       "py": "tōngguò",
+       "gl": "through; by means of; via",
+       "pos": "prep."
+      },
+      {
+       "h": "朋友",
+       "py": "péngyou",
+       "gl": "friend",
        "pos": "n."
       },
       {
-       "h": "越聊越开心",
-       "py": "yuèliáoyuèkāixīn",
-       "gl": "the more they chatted, the happier they got",
-       "pos": "phrase"
+       "h": "介绍",
+       "py": "jièshào",
+       "gl": "introduce; present",
+       "pos": "v."
+      },
+      {
+       "h": "见面",
+       "py": "jiànmiàn",
+       "gl": "meet; see each other",
+       "pos": "v."
       },
       {
        "h": "，"
@@ -946,36 +838,141 @@
      ]
     },
     {
-     "en": "and they agreed that from now on they'd always tell each other the truth",
+     "en": "is called xiangqin in China,",
      "words": [
       {
-       "h": "干脆",
-       "py": "gāncuì",
-       "gl": "simply; just (go ahead and); straightforwardly",
-       "pos": "adv."
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
       },
       {
-       "h": "约定好",
-       "py": "yuēdìnghǎo",
-       "gl": "agree on; make a deal",
-       "pos": "v."
+       "h": "中国",
+       "py": "zhōngguó",
+       "gl": "China",
+       "pos": "proper noun"
       },
       {
-       "h": "以后",
-       "py": "yǐhòu",
-       "gl": "later; in the future; after",
-       "pos": "adv."
-      },
-      {
-       "h": "什么事",
-       "py": "shénmeshì",
-       "gl": "anything; whatever (it is)",
+       "h": "就叫",
+       "py": "jiùjiào",
+       "gl": "is called; is simply called",
        "pos": "phrase"
       },
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
+       "h": "「"
+      },
+      {
+       "h": "相亲",
+       "py": "xiāngqīn",
+       "gl": "blind date; matchmaking date",
+       "pos": "n."
+      },
+      {
+       "h": "」"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "a way of finding a partner that was already popular in their parents' generation.",
+     "words": [
+      {
+       "h": "是",
+       "py": "shì",
+       "gl": "be (is; am; are)",
+       "pos": "v."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "父母",
+       "py": "fùmǔ",
+       "gl": "parents",
+       "pos": "n."
+      },
+      {
+       "h": "那一代",
+       "py": "nàyídài",
+       "gl": "that generation",
+       "pos": "n."
+      },
+      {
+       "h": "就",
+       "py": "jiù",
+       "gl": "then; right away",
+       "pos": "adv."
+      },
+      {
+       "h": "很流行",
+       "py": "hěnliúxíng",
+       "gl": "very popular",
+       "pos": "phrase"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "交友",
+       "py": "jiāoyǒu",
+       "gl": "make friends",
+       "pos": "v."
+      },
+      {
+       "h": "方式",
+       "py": "fāngshì",
+       "gl": "way; method",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "The most traditional matchmaking often relies on \"matchmaking corners\" in parks, where parents compare their children's qualifications with each other, but in recent years quite a few unexpected new twists have appeared.",
+   "phrases": [
+    {
+     "en": "The most traditional matchmaking often relies on \"matchmaking corners\" in parks,",
+     "words": [
+      {
+       "h": "最",
+       "py": "zuì",
+       "gl": "most; -est",
+       "pos": "adv."
+      },
+      {
+       "h": "传统",
+       "py": "chuántǒng",
+       "gl": "traditional; tradition",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "相亲",
+       "py": "xiāngqīn",
+       "gl": "blind date; matchmaking date",
+       "pos": "n."
+      },
+      {
+       "h": "常常",
+       "py": "chángcháng",
+       "gl": "often",
        "pos": "adv."
       },
       {
@@ -985,15 +982,83 @@
        "pos": "v."
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "靠",
+       "py": "kào",
+       "gl": "rely on; depend on",
        "pos": "v."
       },
       {
-       "h": "真话",
-       "py": "zhēnhuà",
-       "gl": "truth",
+       "h": "公园",
+       "py": "gōngyuán",
+       "gl": "park",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "「"
+      },
+      {
+       "h": "相亲角",
+       "py": "xiāngqīnjiǎo",
+       "gl": "matchmaking corner (in a park)",
+       "pos": "n."
+      },
+      {
+       "h": "」"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "where parents compare their children's qualifications with each other,",
+     "words": [
+      {
+       "h": "父母",
+       "py": "fùmǔ",
+       "gl": "parents",
+       "pos": "n."
+      },
+      {
+       "h": "互相",
+       "py": "hùxiāng",
+       "gl": "each other; mutually",
+       "pos": "adv."
+      },
+      {
+       "h": "比较",
+       "py": "bǐjiào",
+       "gl": "compare",
+       "pos": "v."
+      },
+      {
+       "h": "孩子",
+       "py": "háizi",
+       "gl": "child",
+       "pos": "n."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "条件",
+       "py": "tiáojiàn",
+       "gl": "conditions",
        "pos": "n."
       },
       {
@@ -1002,37 +1067,61 @@
      ]
     },
     {
-     "en": "instead of putting on a brave face just to save face.",
+     "en": "but in recent years quite a few unexpected new twists have appeared.",
      "words": [
       {
-       "h": "不用",
-       "py": "bùyòng",
-       "gl": "not need; no need to",
-       "pos": "phrase"
+       "h": "但",
+       "py": "dàn",
+       "gl": "but",
+       "pos": "conj."
       },
       {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; once more",
-       "pos": "adv."
-      },
-      {
-       "h": "为了",
-       "py": "wèile",
-       "gl": "in order to; for",
-       "pos": "prep."
-      },
-      {
-       "h": "面子",
-       "py": "miànzi",
-       "gl": "face; pride; reputation",
+       "h": "近几年",
+       "py": "jìnjǐnián",
+       "gl": "in recent years",
        "pos": "n."
       },
       {
-       "h": "硬撑场面",
-       "py": "yìngchēngchǎngmiàn",
-       "gl": "keep up appearances (with effort)",
-       "pos": "phrase"
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "出现了",
+       "py": "chūxiànle",
+       "gl": "appear; emerge (出现 + 了)",
+       "pos": "v."
+      },
+      {
+       "h": "不少",
+       "py": "bùshǎo",
+       "gl": "quite a lot; a good deal",
+       "pos": "adj."
+      },
+      {
+       "h": "让人",
+       "py": "ràngrén",
+       "gl": "make people; let people",
+       "pos": "v."
+      },
+      {
+       "h": "意想不到",
+       "py": "yìxiǎngbùdào",
+       "gl": "unexpected; unimaginable",
+       "pos": "adj."
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "新花样",
+       "py": "xīnhuāyàng",
+       "gl": "new trick",
+       "pos": "n."
       },
       {
        "h": "。"
@@ -1042,84 +1131,76 @@
    ]
   },
   {
-   "en": "A few days later, the friend who had introduced them asked curiously how the date had gone. Xiao Gang told him the \"truth\" about that night, and the friend collapsed onto the table laughing. He said he'd only recommended a hot pot place because \"everyone loves it, so you can't go wrong.\"",
+   "en": "Some young people find this \"price-tagged\" kind of matchmaking too stressful, so they simply set up matchmaking corners for their cats or dogs instead, writing only the pet's age and hobbies on the paper, while the owners become people who just happen to meet along the way.",
    "phrases": [
     {
-     "en": "A few days later,",
+     "en": "Some young people find this \"price-tagged\" kind of matchmaking too stressful,",
      "words": [
       {
-       "h": "没过几天",
-       "py": "mòguòjǐtiān",
-       "gl": "within a few days",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "the friend who had introduced them asked curiously how the date had gone.",
-     "words": [
-      {
-       "h": "介绍",
-       "py": "jièshào",
-       "gl": "introduce; present",
-       "pos": "v."
-      },
-      {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
+       "h": "一些",
+       "py": "yīxiē",
+       "gl": "some; certain",
        "pos": "pron."
       },
       {
-       "h": "认识",
-       "py": "rènshí",
-       "gl": "know (a person, a character); get to know; recognize",
+       "h": "年轻人",
+       "py": "niánqīngrén",
+       "gl": "young people",
+       "pos": "n."
+      },
+      {
+       "h": "嫌",
+       "py": "xián",
+       "gl": "dislike; be dissatisfied with",
        "pos": "v."
+      },
+      {
+       "h": "这种",
+       "py": "zhèzhǒng",
+       "gl": "this kind of; such",
+       "pos": "pron."
+      },
+      {
+       "h": "「"
+      },
+      {
+       "h": "明码标价",
+       "py": "míngmǎ biāojià",
+       "gl": "with a clear price tag",
+       "pos": "phrase"
+      },
+      {
+       "h": "」"
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "朋友",
-       "py": "péngyǒu",
-       "gl": "friend",
+       "h": "相亲",
+       "py": "xiāngqīn",
+       "gl": "blind date; matchmaking date",
        "pos": "n."
       },
       {
-       "h": "好奇",
-       "py": "hàoqí",
-       "gl": "curious",
-       "pos": "adj."
+       "h": "太",
+       "py": "tài",
+       "gl": "too",
+       "pos": "adv."
       },
       {
-       "h": "地",
-       "py": "de",
-       "gl": "adverbial particle (认真地 'carefully')",
-       "pos": "function word"
-      },
-      {
-       "h": "问",
-       "py": "wèn",
-       "gl": "ask",
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
-       "h": "约会",
-       "py": "yuēhuì",
-       "gl": "date; appointment",
+       "h": "压力",
+       "py": "yālì",
+       "gl": "pressure; stress",
        "pos": "n."
-      },
-      {
-       "h": "怎么样",
-       "py": "zěnmeyàng",
-       "gl": "how; how about it",
-       "pos": "pron."
       },
       {
        "h": "，"
@@ -1127,55 +1208,67 @@
      ]
     },
     {
-     "en": "Xiao Gang told him the \"truth\" about that night,",
+     "en": "so they simply set up matchmaking corners for their cats or dogs instead,",
      "words": [
       {
-       "h": "小刚",
-       "py": "xiǎogāng",
-       "gl": "Xiao Gang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "如实",
-       "py": "rúshí",
-       "gl": "truthfully; as it really is",
+       "h": "干脆",
+       "py": "gāncuì",
+       "gl": "simply; just (go ahead and); straightforwardly",
        "pos": "adv."
       },
       {
-       "h": "说出",
-       "py": "shuōchū",
-       "gl": "say out loud; speak out",
+       "h": "给自己",
+       "py": "gěizìjǐ",
+       "gl": "for oneself",
+       "pos": "pron."
+      },
+      {
+       "h": "的猫",
+       "py": "demāo",
+       "gl": "cat",
+       "pos": "n."
+      },
+      {
+       "h": "或",
+       "py": "huò",
+       "gl": "or",
+       "pos": "conj."
+      },
+      {
+       "h": "狗",
+       "py": "gǒu",
+       "gl": "dog",
+       "pos": "n."
+      },
+      {
+       "h": "办",
+       "py": "bàn",
+       "gl": "set up; hold",
+       "pos": "v."
+      },
+      {
+       "h": "起",
+       "py": "qǐ",
+       "gl": "(after a verb) start (doing)",
        "pos": "v."
       },
       {
        "h": "了",
        "py": "le",
        "gl": "particle: completed action / change of state",
-       "pos": "function word"
+       "pos": "particle"
       },
       {
-       "h": "那晚",
-       "py": "nàwǎn",
-       "gl": "that night",
+       "h": "「"
+      },
+      {
+       "h": "相亲角",
+       "py": "xiāngqīnjiǎo",
+       "gl": "matchmaking corner (in a park)",
        "pos": "n."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "真相",
-       "py": "zhēnxiàng",
-       "gl": "truth; the real story",
-       "pos": "n."
-      },
-      {
-       "h": "”"
+       "h": "」"
       },
       {
        "h": "，"
@@ -1183,36 +1276,12 @@
      ]
     },
     {
-     "en": "and the friend collapsed onto the table laughing.",
+     "en": "writing only the pet's age and hobbies on the paper,",
      "words": [
       {
-       "h": "朋友",
-       "py": "péngyǒu",
-       "gl": "friend",
-       "pos": "n."
-      },
-      {
-       "h": "当场",
-       "py": "dāngchǎng",
-       "gl": "on the spot; right away",
-       "pos": "adv."
-      },
-      {
-       "h": "笑趴",
-       "py": "xiàopā",
-       "gl": "laugh so hard one collapses",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
-       "pos": "prep."
-      },
-      {
-       "h": "桌子",
-       "py": "zhuōzi",
-       "gl": "table; desk",
+       "h": "纸",
+       "py": "zhǐ",
+       "gl": "paper",
        "pos": "n."
       },
       {
@@ -1222,369 +1291,34 @@
        "pos": "postposition"
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "He said he'd only recommended a hot pot place",
-     "words": [
+       "h": "只",
+       "py": "zhǐ",
+       "gl": "only; just",
+       "pos": "adv."
+      },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
+       "h": "写",
+       "py": "xiě",
+       "gl": "write",
        "pos": "v."
       },
       {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "推荐",
-       "py": "tuījiàn",
-       "gl": "recommendation; recommend",
-       "pos": "v."
-      },
-      {
-       "h": "火锅店",
-       "py": "huǒguōdiàn",
-       "gl": "hotpot restaurant",
+       "h": "宠物",
+       "py": "chǒngwù",
+       "gl": "pet",
        "pos": "n."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "because \"everyone loves it, so you can't go wrong.\"",
-     "words": [
-      {
-       "h": "纯粹",
-       "py": "chúncuì",
-       "gl": "purely; simply",
-       "pos": "adv."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "是因为",
-       "py": "shìyīnwèi",
-       "gl": "is because",
-       "pos": "conj."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "爱吃",
-       "py": "àichī",
-       "gl": "like to eat",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "总",
-       "py": "zǒng",
-       "gl": "always; in any case (晚做总比不做好 'better late than never')",
-       "pos": "adv."
-      },
-      {
-       "h": "不会",
-       "py": "búhuì",
-       "gl": "will not; be unlikely (会不会 'will or won't')",
-       "pos": "v."
-      },
-      {
-       "h": "出错",
-       "py": "chūcuò",
-       "gl": "make a mistake; go wrong",
-       "pos": "v."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After thinking for a moment, the friend added, \"Actually, I can't handle spicy food either. Every time I have hot pot, I have to order a separate pot of plain broth.\" Only then did the three of them realize that nobody at the table had dared to tell the truth.",
-   "phrases": [
-    {
-     "en": "After thinking for a moment, the friend added,",
-     "words": [
-      {
-       "h": "朋友",
-       "py": "péngyǒu",
-       "gl": "friend",
+       "h": "年龄",
+       "py": "niánlíng",
+       "gl": "age",
        "pos": "n."
-      },
-      {
-       "h": "想了想",
-       "py": "xiǎnglexiǎng",
-       "gl": "thought for a moment",
-       "pos": "phrase"
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again; both… and… (又…又…)",
-       "pos": "adv."
-      },
-      {
-       "h": "补",
-       "py": "bǔ",
-       "gl": "add (补一句 add a remark)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "一句",
-       "py": "yījù",
-       "gl": "one sentence; one line (of a poem)",
-       "pos": "phrase"
-      },
-      {
-       "h": "："
-      }
-     ]
-    },
-    {
-     "en": "\"Actually, I can't handle spicy food either.",
-     "words": [
-      {
-       "h": "“"
-      },
-      {
-       "h": "其实",
-       "py": "qíshí",
-       "gl": "actually; in fact",
-       "pos": "adv."
-      },
-      {
-       "h": "我",
-       "py": "wǒ",
-       "gl": "I; me",
-       "pos": "pron."
-      },
-      {
-       "h": "自己",
-       "py": "zìjǐ",
-       "gl": "oneself; one's own",
-       "pos": "pron."
-      },
-      {
-       "h": "也",
-       "py": "yě",
-       "gl": "also; too",
-       "pos": "adv."
-      },
-      {
-       "h": "怕",
-       "py": "pà",
-       "gl": "be afraid; fear; worry",
-       "pos": "v."
-      },
-      {
-       "h": "辣",
-       "py": "là",
-       "gl": "spicy; spiciness",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Every time I have hot pot, I have to order a separate pot of plain broth.\"",
-     "words": [
-      {
-       "h": "每次",
-       "py": "měicì",
-       "gl": "every time",
-       "pos": "adv."
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
-      },
-      {
-       "h": "火锅",
-       "py": "huǒguō",
-       "gl": "hot pot",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
-       "pos": "adv."
-      },
-      {
-       "h": "得",
-       "py": "dé",
-       "gl": "must; have to",
-       "pos": "v."
-      },
-      {
-       "h": "单独",
-       "py": "dāndú",
-       "gl": "alone; separately; on its own",
-       "pos": "adv."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "want; order; be going to; need",
-       "pos": "v."
-      },
-      {
-       "h": "一份",
-       "py": "yīfèn",
-       "gl": "one (copy, portion, share)",
-       "pos": "phrase"
-      },
-      {
-       "h": "清汤锅",
-       "py": "qīngtāngguō",
-       "gl": "clear (non-spicy) broth hot pot",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      },
-      {
-       "h": "”"
-      }
-     ]
-    },
-    {
-     "en": "Only then did the three of them realize",
-     "words": [
-      {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "measure word (general, for people and things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "这才",
-       "py": "zhècái",
-       "gl": "only then",
-       "pos": "adv."
-      },
-      {
-       "h": "发现",
-       "py": "fāxiàn",
-       "gl": "discover; find out",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "that nobody at the table had dared to tell the truth.",
-     "words": [
-      {
-       "h": "原来",
-       "py": "yuánlái",
-       "gl": "it turns out; so (that's why); originally",
-       "pos": "adv."
-      },
-      {
-       "h": "一桌子人",
-       "py": "yīzhuōzirén",
-       "gl": "everyone at the table",
-       "pos": "n."
-      },
-      {
-       "h": "谁都不",
-       "py": "shéidōubù",
-       "gl": "nobody; no one",
-       "pos": "phrase"
-      },
-      {
-       "h": "敢",
-       "py": "gǎn",
-       "gl": "dare",
-       "pos": "v."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "真话",
-       "py": "zhēnhuà",
-       "gl": "truth",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "After that, before every date, Xiao Mei and Xiao Gang would first ask each other, \"Are we telling the truth this time, or still acting?\" Laughing, they dug out each other's little secrets one by one, and their relationship only grew stronger.",
-   "phrases": [
-    {
-     "en": "After that, before every date, Xiao Mei and Xiao Gang",
-     "words": [
-      {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "adv."
-      },
-      {
-       "h": "小美",
-       "py": "xiǎoměi",
-       "gl": "Xiao Mei",
-       "pos": "proper noun"
       },
       {
        "h": "和",
@@ -1593,28 +1327,10 @@
        "pos": "conj."
       },
       {
-       "h": "小刚",
-       "py": "xiǎogāng",
-       "gl": "Xiao Gang",
-       "pos": "proper noun"
-      },
-      {
-       "h": "每次",
-       "py": "měicì",
-       "gl": "every time",
-       "pos": "adv."
-      },
-      {
-       "h": "约会",
-       "py": "yuēhuì",
-       "gl": "date; appointment",
+       "h": "爱好",
+       "py": "àihào",
+       "gl": "hobby; interest",
        "pos": "n."
-      },
-      {
-       "h": "前",
-       "py": "qián",
-       "gl": "before",
-       "pos": "postposition"
       },
       {
        "h": "，"
@@ -1622,201 +1338,31 @@
      ]
     },
     {
-     "en": "would first ask each other, \"Are we telling the truth this time, or still acting?\"",
+     "en": "while the owners become people who just happen to meet along the way.",
      "words": [
       {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both; even; already",
+       "h": "主人",
+       "py": "zhǔrén",
+       "gl": "host; owner; master",
+       "pos": "n."
+      },
+      {
+       "h": "反倒",
+       "py": "fǎndào",
+       "gl": "on the contrary; instead",
        "pos": "adv."
       },
       {
-       "h": "会",
-       "py": "huì",
-       "gl": "will (expresses future or likelihood)",
+       "h": "成了",
+       "py": "chéngle",
+       "gl": "became; turned into",
        "pos": "v."
       },
       {
-       "h": "先",
-       "py": "xiān",
-       "gl": "first; before",
+       "h": "顺便",
+       "py": "shùnbiàn",
+       "gl": "by the way; on the way",
        "pos": "adv."
-      },
-      {
-       "h": "问",
-       "py": "wèn",
-       "gl": "ask",
-       "pos": "v."
-      },
-      {
-       "h": "对方",
-       "py": "duìfāng",
-       "gl": "each other",
-       "pos": "n."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "这次",
-       "py": "zhècì",
-       "gl": "this time",
-       "pos": "pron."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
-      },
-      {
-       "h": "真话",
-       "py": "zhēnhuà",
-       "gl": "truth",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      },
-      {
-       "h": "还是",
-       "py": "háishì",
-       "gl": "or (in questions)",
-       "pos": "conj."
-      },
-      {
-       "h": "继续",
-       "py": "jìxù",
-       "gl": "continue; go on",
-       "pos": "v."
-      },
-      {
-       "h": "演",
-       "py": "yǎn",
-       "gl": "act; play a role; put on an act",
-       "pos": "v."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Laughing, they dug out each other's little secrets one by one,",
-     "words": [
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "一边笑一边",
-       "py": "yībiānxiàoyībiān",
-       "gl": "laughing while (doing something)",
-       "pos": "phrase"
-      },
-      {
-       "h": "把",
-       "py": "bǎ",
-       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
-       "pos": "prep."
-      },
-      {
-       "h": "彼此",
-       "py": "bǐcǐ",
-       "gl": "each other",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "小秘密",
-       "py": "xiǎomìmì",
-       "gl": "little secret",
-       "pos": "n."
-      },
-      {
-       "h": "一个个",
-       "py": "yígègè",
-       "gl": "one by one; each and every one",
-       "pos": "phrase"
-      },
-      {
-       "h": "翻了出来",
-       "py": "fānlechūlái",
-       "gl": "dug out; brought up",
-       "pos": "v."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and their relationship only grew stronger.",
-     "words": [
-      {
-       "h": "感情",
-       "py": "gǎnqíng",
-       "gl": "feelings; emotional bond; relationship",
-       "pos": "n."
-      },
-      {
-       "h": "反而",
-       "py": "fǎnér",
-       "gl": "instead; on the contrary",
-       "pos": "adv."
-      },
-      {
-       "h": "越来越好",
-       "py": "yuèláiyuèhǎo",
-       "gl": "better and better",
-       "pos": "phrase"
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "The friend who had introduced them later organized a \"Truth Hot Pot Night,\" and the three of them went out together for plain-broth hot pot. Nobody had to pretend anymore, and they enjoyed the meal completely at ease.",
-   "phrases": [
-    {
-     "en": "The friend who had introduced them later organized a \"Truth Hot Pot Night,\"",
-     "words": [
-      {
-       "h": "介绍",
-       "py": "jièshào",
-       "gl": "introduce; present",
-       "pos": "v."
-      },
-      {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
-       "pos": "pron."
       },
       {
        "h": "认识",
@@ -1825,184 +1371,10 @@
        "pos": "v."
       },
       {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "朋友",
-       "py": "péngyǒu",
-       "gl": "friend",
+       "h": "的人",
+       "py": "derén",
+       "gl": "person who …; those who …",
        "pos": "n."
-      },
-      {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
-       "pos": "adv."
-      },
-      {
-       "h": "干脆",
-       "py": "gāncuì",
-       "gl": "simply; just (go ahead and); straightforwardly",
-       "pos": "adv."
-      },
-      {
-       "h": "组",
-       "py": "zǔ",
-       "gl": "organize; form (a group)",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "measure word (general, for people and things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "真话",
-       "py": "zhēnhuà",
-       "gl": "truth",
-       "pos": "n."
-      },
-      {
-       "h": "火锅局",
-       "py": "huǒguōjú",
-       "gl": "hotpot get-together",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and the three of them went out together for plain-broth hot pot.",
-     "words": [
-      {
-       "h": "三",
-       "py": "sān",
-       "gl": "three",
-       "pos": "num."
-      },
-      {
-       "h": "个",
-       "py": "gè",
-       "gl": "measure word (general, for people and things)",
-       "pos": "measure word"
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "一起",
-       "py": "yìqǐ",
-       "gl": "together",
-       "pos": "adv."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
-       "pos": "v."
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "清汤锅",
-       "py": "qīngtāngguō",
-       "gl": "clear (non-spicy) broth hot pot",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "Nobody had to pretend anymore,",
-     "words": [
-      {
-       "h": "谁都",
-       "py": "shéidōu",
-       "gl": "everyone; (with negation) no one",
-       "pos": "phrase"
-      },
-      {
-       "h": "不用",
-       "py": "bùyòng",
-       "gl": "not need; no need to",
-       "pos": "phrase"
-      },
-      {
-       "h": "再",
-       "py": "zài",
-       "gl": "again; once more",
-       "pos": "adv."
-      },
-      {
-       "h": "硬撑场面",
-       "py": "yìngchēngchǎngmiàn",
-       "gl": "keep up appearances (with effort)",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and they enjoyed the meal completely at ease.",
-     "words": [
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
-      },
-      {
-       "h": "得",
-       "py": "dé",
-       "gl": "particle linking a verb to its degree or result (发展得很快 developed fast)",
-       "pos": "function word"
-      },
-      {
-       "h": "格外",
-       "py": "géwài",
-       "gl": "especially; particularly",
-       "pos": "adv."
-      },
-      {
-       "h": "轻松自在",
-       "py": "qīngsōngzìzài",
-       "gl": "relaxed and at ease",
-       "pos": "phrase"
       },
       {
        "h": "。"
@@ -2012,75 +1384,39 @@
    ]
   },
   {
-   "en": "Xiao Gang even bought a little packet of numbing-spicy seasoning and secretly set it at the edge of the table to test whether Xiao Mei could really eat spicy food. She didn't touch it once. They looked at each other and smiled, both knowing the other wasn't faking.",
+   "en": "Others have moved matchmaking into livestreams, with several guests on camera at once, and viewers can pay for virtual gifts to make a particular guest show off a talent, so there have been people flexing their muscles on the spot and others dancing in an emperor's dragon robe.",
    "phrases": [
     {
-     "en": "Xiao Gang even bought a little packet of numbing-spicy seasoning and secretly set it at the edge of the table",
+     "en": "Others have moved matchmaking into livestreams,",
      "words": [
       {
-       "h": "小刚",
-       "py": "xiǎogāng",
-       "gl": "Xiao Gang",
-       "pos": "proper noun"
+       "h": "还有人",
+       "py": "háiyǒurén",
+       "gl": "some others; someone else",
+       "pos": "pron."
       },
       {
-       "h": "还",
-       "py": "hái",
-       "gl": "also; in addition; still",
-       "pos": "adv."
-      },
-      {
-       "h": "专门",
-       "py": "zhuānmén",
-       "gl": "specially; special; specialized",
-       "pos": "adv."
-      },
-      {
-       "h": "买",
-       "py": "mǎi",
-       "gl": "buy",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "一小袋",
-       "py": "yīxiǎodài",
-       "gl": "a small bag",
-       "pos": "phrase"
-      },
-      {
-       "h": "麻辣调料",
-       "py": "málàtiáoliào",
-       "gl": "spicy Sichuan seasoning (numbing and hot)",
-       "pos": "n."
-      },
-      {
-       "h": "偷偷",
-       "py": "tōutōu",
-       "gl": "secretly; on the sly",
-       "pos": "adv."
-      },
-      {
-       "h": "放",
-       "py": "fàng",
-       "gl": "put; place",
-       "pos": "v."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at; on",
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
        "pos": "prep."
       },
       {
-       "h": "桌边",
-       "py": "zhuōbiān",
-       "gl": "side of the table",
+       "h": "相亲",
+       "py": "xiāngqīn",
+       "gl": "blind date; matchmaking date",
+       "pos": "n."
+      },
+      {
+       "h": "搬进了",
+       "py": "bānjìnle",
+       "gl": "moved into",
+       "pos": "v."
+      },
+      {
+       "h": "直播间",
+       "py": "zhíbōjiān",
+       "gl": "live-stream room; live stream",
        "pos": "n."
       },
       {
@@ -2089,48 +1425,98 @@
      ]
     },
     {
-     "en": "to test whether Xiao Mei could really eat spicy food.",
+     "en": "with several guests on camera at once,",
      "words": [
       {
-       "h": "想",
-       "py": "xiǎng",
-       "gl": "want; would like",
-       "pos": "v."
+       "h": "好",
+       "py": "hǎo",
+       "gl": "good",
+       "pos": "adj."
       },
       {
-       "h": "试探",
-       "py": "shìtàn",
-       "gl": "sound out; test",
-       "pos": "v."
+       "h": "几位",
+       "py": "jǐwèi",
+       "gl": "several; a few (people, polite)",
+       "pos": "measure word"
       },
       {
-       "h": "小美",
-       "py": "xiǎoměi",
-       "gl": "Xiao Mei",
-       "pos": "proper noun"
+       "h": "嘉宾",
+       "py": "jiābīn",
+       "gl": "guest of honor; guest",
+       "pos": "n."
       },
       {
-       "h": "到底",
-       "py": "dàodǐ",
-       "gl": "exactly; on earth (in questions); after all",
+       "h": "同时",
+       "py": "tóngshí",
+       "gl": "at the same time; meanwhile",
        "pos": "adv."
       },
       {
-       "h": "能不能",
-       "py": "néngbùnéng",
-       "gl": "can or not; whether (one) can",
-       "pos": "phrase"
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
+       "h": "出镜",
+       "py": "chūjìng",
+       "gl": "appear on camera",
        "pos": "v."
       },
       {
-       "h": "辣",
-       "py": "là",
-       "gl": "spicy; spiciness",
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and viewers can pay for virtual gifts to make a particular guest show off a talent,",
+     "words": [
+      {
+       "h": "观众",
+       "py": "guānzhòng",
+       "gl": "audience; viewer",
+       "pos": "n."
+      },
+      {
+       "h": "花钱",
+       "py": "huāqián",
+       "gl": "spend money",
+       "pos": "v."
+      },
+      {
+       "h": "刷礼物",
+       "py": "shuā lǐwù",
+       "gl": "send virtual gifts (in a livestream)",
+       "pos": "v."
+      },
+      {
+       "h": "就能",
+       "py": "jiùnéng",
+       "gl": "can then; will be able to",
+       "pos": "adv."
+      },
+      {
+       "h": "让",
+       "py": "ràng",
+       "gl": "let; make (someone do); ask (someone to do)",
+       "pos": "v."
+      },
+      {
+       "h": "某位",
+       "py": "mǒuwèi",
+       "gl": "a certain (person)",
+       "pos": "measure word"
+      },
+      {
+       "h": "嘉宾",
+       "py": "jiābīn",
+       "gl": "guest of honor; guest",
+       "pos": "n."
+      },
+      {
+       "h": "表演",
+       "py": "biǎoyǎn",
+       "gl": "performance; acting; show",
+       "pos": "n."
+      },
+      {
+       "h": "才艺",
+       "py": "cáiyì",
+       "gl": "talent; skill (singing, dancing…)",
        "pos": "n."
       },
       {
@@ -2139,106 +1525,92 @@
      ]
     },
     {
-     "en": "She didn't touch it once.",
+     "en": "so there have been people flexing their muscles on the spot",
      "words": [
       {
-       "h": "结果",
-       "py": "jiéguǒ",
-       "gl": "as a result; in the end; result",
+       "h": "于是",
+       "py": "yúshì",
+       "gl": "so; thereupon; then",
        "pos": "conj."
       },
       {
-       "h": "小美",
-       "py": "xiǎoměi",
-       "gl": "Xiao Mei",
-       "pos": "proper noun"
-      },
-      {
-       "h": "一口都没",
-       "py": "yīkǒudōuméi",
-       "gl": "not a single bite",
-       "pos": "phrase"
-      },
-      {
-       "h": "碰",
-       "py": "pèng",
-       "gl": "touch; tap",
+       "h": "出现过",
+       "py": "chūxiànguò",
+       "gl": "has appeared; has occurred",
        "pos": "v."
       },
       {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "They looked at each other and smiled,",
-     "words": [
-      {
-       "h": "两",
-       "py": "liǎng",
-       "gl": "two",
-       "pos": "num."
-      },
-      {
-       "h": "人",
-       "py": "rén",
-       "gl": "person; people",
-       "pos": "n."
-      },
-      {
-       "h": "相视一笑",
-       "py": "xiāngshìyīxiào",
-       "gl": "exchange a smile",
-       "pos": "phrase"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "both knowing the other wasn't faking.",
-     "words": [
-      {
-       "h": "彼此",
-       "py": "bǐcǐ",
-       "gl": "each other",
+       "h": "有人",
+       "py": "yǒurén",
+       "gl": "someone; some people",
        "pos": "pron."
       },
       {
-       "h": "心里",
-       "py": "xīnlǐ",
-       "gl": "in one's heart; inside",
-       "pos": "n."
-      },
-      {
-       "h": "都",
-       "py": "dōu",
-       "gl": "all; both",
+       "h": "当场",
+       "py": "dāngchǎng",
+       "gl": "on the spot; right away",
        "pos": "adv."
       },
       {
-       "h": "明白",
-       "py": "míngbái",
-       "gl": "understand; realize",
+       "h": "秀",
+       "py": "xiù",
+       "gl": "show",
+       "pos": "n."
+      },
+      {
+       "h": "肌肉",
+       "py": "jīròu",
+       "gl": "muscle",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and others dancing in an emperor's dragon robe.",
+     "words": [
+      {
+       "h": "也",
+       "py": "yě",
+       "gl": "also; too",
+       "pos": "adv."
+      },
+      {
+       "h": "有人",
+       "py": "yǒurén",
+       "gl": "someone; some people",
+       "pos": "pron."
+      },
+      {
+       "h": "穿着",
+       "py": "chuānzhe",
+       "gl": "wearing; dressed in",
        "pos": "v."
       },
       {
-       "h": "对方",
-       "py": "duìfāng",
-       "gl": "the other party; the other person",
+       "h": "皇帝",
+       "py": "huángdì",
+       "gl": "emperor",
        "pos": "n."
       },
       {
-       "h": "没在",
-       "py": "méizài",
-       "gl": "not (doing)",
-       "pos": "adv."
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "装",
-       "py": "zhuāng",
-       "gl": "pretend; act",
+       "h": "龙袍",
+       "py": "lóngpáo",
+       "gl": "dragon robe (emperor's robe)",
+       "pos": "n."
+      },
+      {
+       "h": "跳舞",
+       "py": "tiàowǔ",
+       "gl": "dance",
        "pos": "v."
       },
       {
@@ -2249,10 +1621,78 @@
    ]
   },
   {
-   "en": "Later, whenever their friends got together and brought up the story, they loved to tease that this couple had fallen in love by \"blowing each other's cover.\" Xiao Mei and Xiao Gang didn't mind at all; in fact, they felt it was the most special beginning they could have had.",
+   "en": "Mr. Zhou from Hebei went on twenty matchmaking dates without success, then decided to become an amateur matchmaker himself, brought together more than three hundred couples in seven years, and, to his surprise, in the end found himself a wife while setting up other people.",
    "phrases": [
     {
-     "en": "Later, whenever their friends got together and brought up the story,",
+     "en": "Mr. Zhou from Hebei went on twenty matchmaking dates without success,",
+     "words": [
+      {
+       "h": "河北",
+       "py": "héběi",
+       "gl": "Hebei",
+       "pos": "proper noun"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "周先生",
+       "py": "Zhōu xiānsheng",
+       "gl": "Mr. Zhou",
+       "pos": "proper noun"
+      },
+      {
+       "h": "曾经",
+       "py": "céngjīng",
+       "gl": "once; at one time",
+       "pos": "adv."
+      },
+      {
+       "h": "自己",
+       "py": "zìjǐ",
+       "gl": "oneself; one's own",
+       "pos": "pron."
+      },
+      {
+       "h": "相亲",
+       "py": "xiāngqīn",
+       "gl": "blind date; matchmaking date",
+       "pos": "n."
+      },
+      {
+       "h": "二十",
+       "py": "èrshí",
+       "gl": "twenty",
+       "pos": "num."
+      },
+      {
+       "h": "次",
+       "py": "cì",
+       "gl": "time (measure word for occurrences)",
+       "pos": "measure word"
+      },
+      {
+       "h": "都没",
+       "py": "dōuméi",
+       "gl": "not even; never once",
+       "pos": "adv."
+      },
+      {
+       "h": "成功",
+       "py": "chénggōng",
+       "gl": "succeed; success; successful",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "then decided to become an amateur matchmaker himself,",
      "words": [
       {
        "h": "后来",
@@ -2261,78 +1701,34 @@
        "pos": "adv."
       },
       {
-       "h": "朋友",
-       "py": "péngyǒu",
-       "gl": "friend",
-       "pos": "n."
-      },
-      {
-       "h": "聚会",
-       "py": "jùhuì",
-       "gl": "get-together; party; gather",
-       "pos": "n."
-      },
-      {
-       "h": "时",
-       "py": "shí",
-       "gl": "when; time",
-       "pos": "n."
-      },
-      {
-       "h": "提起",
-       "py": "tíqǐ",
-       "gl": "mention; bring up",
-       "pos": "v."
-      },
-      {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
-      },
-      {
-       "h": "件",
-       "py": "jiàn",
-       "gl": "measure word for clothing, matters, items",
-       "pos": "measure word"
-      },
-      {
-       "h": "事",
-       "py": "shì",
-       "gl": "matter; thing",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "they loved to tease",
-     "words": [
-      {
-       "h": "总",
-       "py": "zǒng",
-       "gl": "always; in any case (晚做总比不做好 'better late than never')",
+       "h": "索性",
+       "py": "suǒxìng",
+       "gl": "simply; might as well",
        "pos": "adv."
       },
       {
-       "h": "爱",
-       "py": "ài",
-       "gl": "love",
+       "h": "当起",
+       "py": "dāngqǐ",
+       "gl": "become; start working as",
        "pos": "v."
       },
       {
-       "h": "调侃",
-       "py": "tiáokǎn",
-       "gl": "tease; joke about",
-       "pos": "v."
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
       },
       {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
-       "pos": "v."
+       "h": "业余",
+       "py": "yèyú",
+       "gl": "amateur",
+       "pos": "adj."
+      },
+      {
+       "h": "媒人",
+       "py": "méirén",
+       "gl": "matchmaker",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -2340,78 +1736,54 @@
      ]
     },
     {
-     "en": "that this couple had fallen in love by \"blowing each other's cover.\"",
+     "en": "brought together more than three hundred couples in seven years,",
      "words": [
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
+       "h": "七",
+       "py": "qī",
+       "gl": "seven",
+       "pos": "num."
+      },
+      {
+       "h": "年",
+       "py": "nián",
+       "gl": "year; New Year (过年 celebrate the New Year)",
+       "pos": "measure word"
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "撮合",
+       "py": "cuōhé",
+       "gl": "bring together (a couple); match up",
+       "pos": "v."
+      },
+      {
+       "h": "了",
+       "py": "le",
+       "gl": "particle: completed action / change of state",
+       "pos": "particle"
+      },
+      {
+       "h": "三百多",
+       "py": "sānbǎiduō",
+       "gl": "over three hundred",
+       "pos": "num."
       },
       {
        "h": "对",
        "py": "duì",
-       "gl": "pair; couple (measure word)",
-       "pos": "measure word"
+       "gl": "regarding; on",
+       "pos": "prep."
       },
       {
-       "h": "情侣",
-       "py": "qínglǚ",
-       "gl": "couple; lovers",
-       "pos": "n."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "靠",
-       "py": "kào",
-       "gl": "rely on; depend on",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "互相",
-       "py": "hùxiāng",
-       "gl": "each other; mutually",
-       "pos": "adv."
-      },
-      {
-       "h": "拆台",
-       "py": "chāitái",
-       "gl": "undermine; tease each other (expose)",
-       "pos": "v."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "才",
-       "py": "cái",
-       "gl": "only then; not until",
-       "pos": "adv."
-      },
-      {
-       "h": "谈成",
-       "py": "tánchéng",
-       "gl": "successfully negotiate; make it work",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "恋爱",
-       "py": "liànài",
-       "gl": "romantic relationship; love",
+       "h": "新人",
+       "py": "xīnrén",
+       "gl": "newlyweds; couple",
        "pos": "n."
       },
       {
@@ -2420,25 +1792,324 @@
      ]
     },
     {
-     "en": "Xiao Mei and Xiao Gang didn't mind at all;",
+     "en": "and, to his surprise, in the end found himself a wife while setting up other people.",
      "words": [
       {
-       "h": "小美",
-       "py": "xiǎoměi",
-       "gl": "Xiao Mei",
-       "pos": "proper noun"
+       "h": "没想到",
+       "py": "méixiǎngdào",
+       "gl": "didn't expect; never thought",
+       "pos": "v."
       },
       {
-       "h": "和",
-       "py": "hé",
-       "gl": "and",
+       "h": "最后",
+       "py": "zuìhòu",
+       "gl": "in the end; finally; last",
+       "pos": "adj."
+      },
+      {
+       "h": "竟然",
+       "py": "jìngrán",
+       "gl": "unexpectedly; surprisingly",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "帮",
+       "py": "bāng",
+       "gl": "help",
+       "pos": "v."
+      },
+      {
+       "h": "别人",
+       "py": "biérén",
+       "gl": "other people; others",
+       "pos": "pron."
+      },
+      {
+       "h": "相亲",
+       "py": "xiāngqīn",
+       "gl": "blind date; matchmaking date",
+       "pos": "n."
+      },
+      {
+       "h": "的时候",
+       "py": "deshíhòu",
+       "gl": "when; at the time of",
        "pos": "conj."
       },
       {
-       "h": "小刚",
-       "py": "xiǎogāng",
-       "gl": "Xiao Gang",
+       "h": "，"
+      },
+      {
+       "h": "给自己",
+       "py": "gěizìjǐ",
+       "gl": "for oneself",
+       "pos": "pron."
+      },
+      {
+       "h": "找到了",
+       "py": "zhǎodàole",
+       "gl": "found",
+       "pos": "v."
+      },
+      {
+       "h": "妻子",
+       "py": "qīzǐ",
+       "gl": "wife",
+       "pos": "n."
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "In Henan there is an auntie whom netizens call \"Granny Wang\", who originally just played matchmaker for tourists at a scenic spot, until her videos suddenly went viral and her followers shot up from just over two hundred thousand to more than seven million.",
+   "phrases": [
+    {
+     "en": "In Henan there is an auntie whom netizens call \"Granny Wang\",",
+     "words": [
+      {
+       "h": "河南",
+       "py": "hénán",
+       "gl": "Henan (province)",
        "pos": "proper noun"
+      },
+      {
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
+       "pos": "v."
+      },
+      {
+       "h": "位",
+       "py": "wèi",
+       "gl": "polite measure word for people",
+       "pos": "measure word"
+      },
+      {
+       "h": "被",
+       "py": "bèi",
+       "gl": "by (marks the passive: 被风吹走 \"blown away by the wind\")",
+       "pos": "function word"
+      },
+      {
+       "h": "网友",
+       "py": "wǎngyǒu",
+       "gl": "netizen; internet user",
+       "pos": "n."
+      },
+      {
+       "h": "叫做",
+       "py": "jiàozuò",
+       "gl": "be called",
+       "pos": "v."
+      },
+      {
+       "h": "「"
+      },
+      {
+       "h": "王婆",
+       "py": "Wáng pó",
+       "gl": "\"Granny Wang\" (matchmaker's nickname)",
+       "pos": "proper noun"
+      },
+      {
+       "h": "」"
+      },
+      {
+       "h": "的",
+       "py": "de",
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
+      },
+      {
+       "h": "阿姨",
+       "py": "āyí",
+       "gl": "auntie (older woman)",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "who originally just played matchmaker for tourists at a scenic spot,",
+     "words": [
+      {
+       "h": "原本",
+       "py": "yuánběn",
+       "gl": "originally",
+       "pos": "adv."
+      },
+      {
+       "h": "只是",
+       "py": "zhǐshì",
+       "gl": "just; merely; only",
+       "pos": "adv."
+      },
+      {
+       "h": "在",
+       "py": "zài",
+       "gl": "in; at",
+       "pos": "prep."
+      },
+      {
+       "h": "景区",
+       "py": "jǐngqū",
+       "gl": "scenic area; tourist site",
+       "pos": "n."
+      },
+      {
+       "h": "里",
+       "py": "lǐ",
+       "gl": "in; inside",
+       "pos": "postposition"
+      },
+      {
+       "h": "帮",
+       "py": "bāng",
+       "gl": "help",
+       "pos": "v."
+      },
+      {
+       "h": "游客",
+       "py": "yóukè",
+       "gl": "tourist; visitor",
+       "pos": "n."
+      },
+      {
+       "h": "牵线",
+       "py": "qiānxiàn",
+       "gl": "matchmake; act as go-between",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "until her videos suddenly went viral",
+     "words": [
+      {
+       "h": "没想到",
+       "py": "méixiǎngdào",
+       "gl": "didn't expect; never thought",
+       "pos": "v."
+      },
+      {
+       "h": "视频",
+       "py": "shìpín",
+       "gl": "video; video call",
+       "pos": "n."
+      },
+      {
+       "h": "突然",
+       "py": "tūrán",
+       "gl": "suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "火了",
+       "py": "huǒle",
+       "gl": "went viral; became popular",
+       "pos": "phrase"
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and her followers shot up from just over two hundred thousand to more than seven million.",
+     "words": [
+      {
+       "h": "她的",
+       "py": "tāde",
+       "gl": "her; hers",
+       "pos": "pron."
+      },
+      {
+       "h": "粉丝",
+       "py": "fěnsī",
+       "gl": "fan; followers",
+       "pos": "n."
+      },
+      {
+       "h": "从",
+       "py": "cóng",
+       "gl": "from (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "二",
+       "py": "èr",
+       "gl": "two; second (in 第二)",
+       "pos": "num."
+      },
+      {
+       "h": "十多万",
+       "py": "shíduōwàn",
+       "gl": "over a hundred thousand",
+       "pos": "num."
+      },
+      {
+       "h": "一下子",
+       "py": "yīxiàzi",
+       "gl": "all at once; suddenly",
+       "pos": "adv."
+      },
+      {
+       "h": "涨",
+       "py": "zhǎng",
+       "gl": "rise (of prices, wages); go up",
+       "pos": "v."
+      },
+      {
+       "h": "到",
+       "py": "dào",
+       "gl": "to; up to (从…到… from … to …)",
+       "pos": "prep."
+      },
+      {
+       "h": "七百多",
+       "py": "qībǎiduō",
+       "gl": "over seven hundred",
+       "pos": "num."
+      },
+      {
+       "h": "万",
+       "py": "wàn",
+       "gl": "ten thousand",
+       "pos": "measure word"
+      },
+      {
+       "h": "。"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "en": "Matchmaking corners aren't all good news, though: a reporter found that more than a hundred lonely-hearts notices posted at one spot in Xiamen all had the very same phone number at the bottom, and one elderly person paid an agency ten thousand yuan to find him a partner and never even got to meet anyone.",
+   "phrases": [
+    {
+     "en": "Matchmaking corners aren't all good news, though:",
+     "words": [
+      {
+       "h": "相亲角",
+       "py": "xiāngqīnjiǎo",
+       "gl": "matchmaking corner (in a park)",
+       "pos": "n."
       },
       {
        "h": "也",
@@ -2453,10 +2124,16 @@
        "pos": "adv."
       },
       {
-       "h": "生气",
-       "py": "shēngqì",
-       "gl": "get angry; angry",
-       "pos": "v."
+       "h": "全是",
+       "py": "quánshì",
+       "gl": "all; full of; nothing but",
+       "pos": "adv."
+      },
+      {
+       "h": "好事",
+       "py": "hǎoshì",
+       "gl": "good thing; blessing",
+       "pos": "n."
       },
       {
        "h": "，"
@@ -2464,67 +2141,200 @@
      ]
     },
     {
-     "en": "in fact, they felt it was the most special beginning they could have had.",
+     "en": "a reporter found that more than a hundred lonely-hearts notices posted at one spot in Xiamen",
      "words": [
       {
-       "h": "反而",
-       "py": "fǎnér",
-       "gl": "instead; on the contrary",
-       "pos": "adv."
-      },
-      {
-       "h": "觉得",
-       "py": "juéde",
-       "gl": "think; feel",
+       "h": "有",
+       "py": "yǒu",
+       "gl": "there is / there are",
        "pos": "v."
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
+       "h": "记者",
+       "py": "jìzhě",
+       "gl": "reporter; journalist",
+       "pos": "n."
       },
       {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
+       "h": "发现",
+       "py": "fāxiàn",
+       "gl": "discover; find out",
        "pos": "v."
       },
       {
-       "h": "他们",
-       "py": "tāmen",
-       "gl": "they; them",
-       "pos": "pron."
+       "h": "厦门",
+       "py": "xiàmén",
+       "gl": "Xiamen",
+       "pos": "proper noun"
       },
       {
-       "h": "之间",
-       "py": "zhījiān",
-       "gl": "between; among",
-       "pos": "postposition"
+       "h": "某处",
+       "py": "mǒuchù",
+       "gl": "somewhere",
+       "pos": "n."
       },
       {
-       "h": "最",
-       "py": "zuì",
-       "gl": "most; -est",
-       "pos": "adv."
-      },
-      {
-       "h": "特别",
-       "py": "tèbié",
-       "gl": "special; unusual",
-       "pos": "adj."
+       "h": "贴出",
+       "py": "tiēchū",
+       "gl": "post (a notice); put up",
+       "pos": "v."
       },
       {
        "h": "的",
        "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
+       "gl": "possessive particle (人工智能的帮助 AI's help)",
+       "pos": "particle"
       },
       {
-       "h": "开始",
-       "py": "kāishǐ",
-       "gl": "begin; start; beginning",
+       "h": "一百多",
+       "py": "yìbǎiduō",
+       "gl": "over a hundred",
+       "pos": "num."
+      },
+      {
+       "h": "张",
+       "py": "zhāng",
+       "gl": "measure word for flat objects (paper, photos, tables)",
+       "pos": "measure word"
+      },
+      {
+       "h": "征婚启事",
+       "py": "zhēnghūn qǐshì",
+       "gl": "lonely-hearts notice",
        "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "all had the very same phone number at the bottom,",
+     "words": [
+      {
+       "h": "底下",
+       "py": "dǐxià",
+       "gl": "under; beneath",
+       "pos": "n."
+      },
+      {
+       "h": "写的",
+       "py": "xiěde",
+       "gl": "written (by)",
+       "pos": "v."
+      },
+      {
+       "h": "居然",
+       "py": "jūrán",
+       "gl": "unexpectedly; to one's surprise",
+       "pos": "adv."
+      },
+      {
+       "h": "全是",
+       "py": "quánshì",
+       "gl": "all; full of; nothing but",
+       "pos": "adv."
+      },
+      {
+       "h": "同一个",
+       "py": "tóngyīgè",
+       "gl": "the same (one)",
+       "pos": "pron."
+      },
+      {
+       "h": "电话号码",
+       "py": "diànhuàhàomǎ",
+       "gl": "phone number",
+       "pos": "n."
+      },
+      {
+       "h": "，"
+      }
+     ]
+    },
+    {
+     "en": "and one elderly person paid an agency ten thousand yuan to find him a partner and never even got to meet anyone.",
+     "words": [
+      {
+       "h": "还有",
+       "py": "háiyǒu",
+       "gl": "and also; in addition; there is also",
+       "pos": "conj."
+      },
+      {
+       "h": "老人",
+       "py": "lǎorén",
+       "gl": "old person; elderly people",
+       "pos": "n."
+      },
+      {
+       "h": "花了",
+       "py": "huāle",
+       "gl": "spent (time, money)",
+       "pos": "v."
+      },
+      {
+       "h": "一万",
+       "py": "yīwàn",
+       "gl": "ten thousand",
+       "pos": "num."
+      },
+      {
+       "h": "块",
+       "py": "kuài",
+       "gl": "yuan (colloquial)",
+       "pos": "measure word"
+      },
+      {
+       "h": "钱",
+       "py": "qián",
+       "gl": "money",
+       "pos": "n."
+      },
+      {
+       "h": "托",
+       "py": "tuō",
+       "gl": "ask (someone) to do; entrust",
+       "pos": "v."
+      },
+      {
+       "h": "中介",
+       "py": "zhōngjiè",
+       "gl": "real-estate agent",
+       "pos": "n."
+      },
+      {
+       "h": "介绍对象",
+       "py": "jièshàoduìxiàng",
+       "gl": "set someone up (with a potential partner)",
+       "pos": "v."
+      },
+      {
+       "h": "，"
+      },
+      {
+       "h": "结果",
+       "py": "jiéguǒ",
+       "gl": "as a result; in the end; result",
+       "pos": "n."
+      },
+      {
+       "h": "连人",
+       "py": "liánrén",
+       "gl": "(person) and all",
+       "pos": "phrase"
+      },
+      {
+       "h": "都没",
+       "py": "dōuméi",
+       "gl": "not even; never once",
+       "pos": "adv."
+      },
+      {
+       "h": "见到",
+       "py": "jiàndào",
+       "gl": "see; meet",
+       "pos": "v."
       },
       {
        "h": "。"
@@ -2534,70 +2344,34 @@
    ]
   },
   {
-   "en": "Later, the friend got a few other single friends together for a meal, and made a point of asking in the group chat ahead of time whether each of them could really eat spicy food. He said he had learned a \"painful lesson\" and would never again dare to guess people's tastes.",
+   "en": "However varied the methods, matchmaking in the end is still about finding someone who, like Xiao Mei and Xiao Gang, can laugh together and tell each other the truth.",
    "phrases": [
     {
-     "en": "Later, the friend got a few other single friends together for a meal,",
+     "en": "However varied the methods,",
      "words": [
       {
-       "h": "朋友",
-       "py": "péngyǒu",
-       "gl": "friend",
+       "h": "不管",
+       "py": "bùguǎn",
+       "gl": "no matter; regardless of",
+       "pos": "conj."
+      },
+      {
+       "h": "方式",
+       "py": "fāngshì",
+       "gl": "way; method",
        "pos": "n."
       },
       {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
+       "h": "多么",
+       "py": "duōme",
+       "gl": "how (very); however (much)",
        "pos": "adv."
       },
       {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again",
-       "pos": "adv."
-      },
-      {
-       "h": "拉着",
-       "py": "lāzhe",
-       "gl": "hold (by the hand); drag along",
-       "pos": "v."
-      },
-      {
-       "h": "另外",
-       "py": "lìngwài",
-       "gl": "other; another",
-       "pos": "adj."
-      },
-      {
-       "h": "几个",
-       "py": "jǐgè",
-       "gl": "a few; several",
+       "h": "五花八门",
+       "py": "wǔ huā bā mén",
+       "gl": "all kinds of",
        "pos": "phrase"
-      },
-      {
-       "h": "单身",
-       "py": "dānshēn",
-       "gl": "single; unmarried",
-       "pos": "adj."
-      },
-      {
-       "h": "朋友",
-       "py": "péngyǒu",
-       "gl": "friend",
-       "pos": "n."
-      },
-      {
-       "h": "一起",
-       "py": "yìqǐ",
-       "gl": "together",
-       "pos": "adv."
-      },
-      {
-       "h": "聚餐",
-       "py": "jùcān",
-       "gl": "group meal; dinner together",
-       "pos": "v."
       },
       {
        "h": "，"
@@ -2605,168 +2379,55 @@
      ]
     },
     {
-     "en": "and made a point of asking in the group chat ahead of time whether each of them could really eat spicy food.",
+     "en": "matchmaking in the end is still about finding someone who, like Xiao Mei and Xiao Gang,",
      "words": [
       {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
-       "pos": "adv."
-      },
-      {
-       "h": "提前",
-       "py": "tíqián",
-       "gl": "in advance; ahead of time",
-       "pos": "adv."
-      },
-      {
-       "h": "在",
-       "py": "zài",
-       "gl": "in; at",
-       "pos": "prep."
-      },
-      {
-       "h": "群",
-       "py": "qún",
-       "gl": "group chat; group",
+       "h": "相亲",
+       "py": "xiāngqīn",
+       "gl": "blind date; matchmaking date",
        "pos": "n."
       },
       {
-       "h": "里",
-       "py": "lǐ",
-       "gl": "in; inside",
-       "pos": "postposition"
-      },
-      {
-       "h": "问清楚",
-       "py": "wènqīngchǔ",
-       "gl": "ask clearly; find out",
-       "pos": "v."
-      },
-      {
-       "h": "每个人",
-       "py": "měigèrén",
-       "gl": "everyone; each person",
-       "pos": "pron."
-      },
-      {
-       "h": "到底",
-       "py": "dàodǐ",
-       "gl": "exactly; on earth (in questions); after all",
+       "h": "说到底",
+       "py": "shuō dào dǐ",
+       "gl": "when all is said and done; in the end",
        "pos": "adv."
       },
       {
-       "h": "能不能",
-       "py": "néngbùnéng",
-       "gl": "can or not; whether (one) can",
-       "pos": "phrase"
-      },
-      {
-       "h": "吃",
-       "py": "chī",
-       "gl": "eat",
-       "pos": "v."
-      },
-      {
-       "h": "辣",
-       "py": "là",
-       "gl": "spicy; spiciness",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "He said he had learned a \"painful lesson\"",
-     "words": [
-      {
-       "h": "说是",
-       "py": "shuōshì",
-       "gl": "saying that; supposedly",
-       "pos": "v."
-      },
-      {
-       "h": "要",
-       "py": "yào",
-       "gl": "want; order; be going to; need",
-       "pos": "v."
-      },
-      {
-       "h": "吸取",
-       "py": "xīqǔ",
-       "gl": "draw (a lesson); absorb",
-       "pos": "v."
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "血的教训",
-       "py": "xuèdejiàoxùn",
-       "gl": "lesson learned the hard way (lit. lesson of blood)",
-       "pos": "n."
-      },
-      {
-       "h": "”"
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "and would never again dare to guess people's tastes.",
-     "words": [
-      {
-       "h": "再也不敢",
-       "py": "zàiyěbùgǎn",
-       "gl": "never dare again",
-       "pos": "phrase"
-      },
-      {
-       "h": "瞎猜",
-       "py": "xiācāi",
-       "gl": "guess blindly",
-       "pos": "v."
-      },
-      {
-       "h": "大家",
-       "py": "dàjiā",
-       "gl": "everyone; everybody",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "口味",
-       "py": "kǒuwèi",
-       "gl": "flavor",
-       "pos": "n."
-      },
-      {
-       "h": "。"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "en": "Years later, on their wedding anniversary, Xiao Mei and Xiao Gang went back to the hot pot restaurant of their first date and ordered a whole table of plain-broth pots, laughing that this was the \"grand occasion\" that truly belonged to the two of them.",
-   "phrases": [
-    {
-     "en": "Years later, on their wedding anniversary, Xiao Mei and Xiao Gang",
-     "words": [
-      {
-       "h": "后来",
-       "py": "hòulái",
-       "gl": "later; afterwards",
+       "h": "还是",
+       "py": "háishì",
+       "gl": "still; nevertheless; after all",
        "pos": "adv."
+      },
+      {
+       "h": "想",
+       "py": "xiǎng",
+       "gl": "want; would like",
+       "pos": "v."
+      },
+      {
+       "h": "找",
+       "py": "zhǎo",
+       "gl": "look for; give change (他找我六块 he gave me six yuan change)",
+       "pos": "v."
+      },
+      {
+       "h": "一个",
+       "py": "yígè",
+       "gl": "one (with measure word: one item)",
+       "pos": "num."
+      },
+      {
+       "h": "能",
+       "py": "néng",
+       "gl": "can; be able to",
+       "pos": "v."
+      },
+      {
+       "h": "像",
+       "py": "xiàng",
+       "gl": "resemble; be like; like",
+       "pos": "v."
       },
       {
        "h": "小美",
@@ -2787,184 +2448,54 @@
        "pos": "proper noun"
       },
       {
-       "h": "结婚纪念日",
-       "py": "jiéhūnjìniànrì",
-       "gl": "wedding anniversary",
-       "pos": "n."
-      },
-      {
-       "h": "那天",
-       "py": "nàtiān",
-       "gl": "that day",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "went back to the hot pot restaurant of their first date",
-     "words": [
-      {
-       "h": "特意",
-       "py": "tèyì",
-       "gl": "specially; on purpose",
-       "pos": "adv."
-      },
-      {
-       "h": "又",
-       "py": "yòu",
-       "gl": "again",
-       "pos": "adv."
-      },
-      {
-       "h": "去",
-       "py": "qù",
-       "gl": "go",
-       "pos": "v."
-      },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "第一次",
-       "py": "dìyīcì",
-       "gl": "first time; for the first time",
-       "pos": "phrase"
-      },
-      {
-       "h": "约会",
-       "py": "yuēhuì",
-       "gl": "date; appointment",
-       "pos": "n."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "那家",
-       "py": "nàjiā",
-       "gl": "that (shop, clinic, etc.)",
+       "h": "那样",
+       "py": "nàyàng",
+       "gl": "that way; like that",
        "pos": "pron."
       },
       {
-       "h": "火锅店",
-       "py": "huǒguōdiàn",
-       "gl": "hotpot restaurant",
-       "pos": "n."
-      },
-      {
        "h": "，"
       }
      ]
     },
     {
-     "en": "and ordered a whole table of plain-broth pots,",
+     "en": "can laugh together and tell each other the truth.",
      "words": [
       {
-       "h": "点",
-       "py": "diǎn",
-       "gl": "order (food, etc.)",
-       "pos": "v."
+       "h": "一起",
+       "py": "yìqǐ",
+       "gl": "together",
+       "pos": "adv."
       },
-      {
-       "h": "了",
-       "py": "le",
-       "gl": "particle: completed action / change of state",
-       "pos": "function word"
-      },
-      {
-       "h": "一整桌",
-       "py": "yīzhěngzhuō",
-       "gl": "a whole table (of dishes)",
-       "pos": "phrase"
-      },
-      {
-       "h": "清汤锅底",
-       "py": "qīngtāngguōdǐ",
-       "gl": "clear-broth hot pot base (non-spicy)",
-       "pos": "n."
-      },
-      {
-       "h": "，"
-      }
-     ]
-    },
-    {
-     "en": "laughing that this was the \"grand occasion\" that truly belonged to the two of them.",
-     "words": [
       {
        "h": "笑着",
        "py": "xiàozhe",
        "gl": "smiling; with a smile",
-       "pos": "phrase"
-      },
-      {
-       "h": "说",
-       "py": "shuō",
-       "gl": "say; speak; tell",
        "pos": "v."
       },
       {
-       "h": "这",
-       "py": "zhè",
-       "gl": "this",
-       "pos": "pron."
+       "h": "把",
+       "py": "bǎ",
+       "gl": "function word: moves the object before the verb (把菜洗干净 wash the vegetables clean)",
+       "pos": "prep."
       },
       {
-       "h": "才",
-       "py": "cái",
-       "gl": "precisely; actually (emphasis: 才是 is really)",
-       "pos": "adv."
-      },
-      {
-       "h": "是",
-       "py": "shì",
-       "gl": "be (is; am; are)",
-       "pos": "v."
-      },
-      {
-       "h": "真正",
-       "py": "zhēnzhèng",
-       "gl": "real; true; genuine",
-       "pos": "adj."
-      },
-      {
-       "h": "属于",
-       "py": "shǔyú",
-       "gl": "belong to; be part of",
-       "pos": "v."
-      },
-      {
-       "h": "他们俩",
-       "py": "tāmenliǎ",
-       "gl": "the two of them",
-       "pos": "pron."
-      },
-      {
-       "h": "的",
-       "py": "de",
-       "gl": "possessive/attributive particle (我们的家 \"our home\")",
-       "pos": "function word"
-      },
-      {
-       "h": "“"
-      },
-      {
-       "h": "大场面",
-       "py": "dàchǎngmiàn",
-       "gl": "big scene; grand occasion",
+       "h": "实话",
+       "py": "shíhuà",
+       "gl": "truth",
        "pos": "n."
       },
       {
-       "h": "”"
+       "h": "说出来",
+       "py": "shuōchūlái",
+       "gl": "say (out loud); speak",
+       "pos": "v."
+      },
+      {
+       "h": "的人",
+       "py": "derén",
+       "gl": "person who …; those who …",
+       "pos": "n."
       },
       {
        "h": "。"
